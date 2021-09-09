@@ -1,0 +1,635 @@
+{
+"source_article_link": "https://timesofindia.indiatimes.com/india/search-operation-launched-along-international-border-on-spotting-suspicious-movement/articleshow/64164616.cms?&utm_source=Articleshow&utm_medium=Organic&utm_campaign=Related_Stories",
+"title": "Search operation launched along International Border on spotting suspicious movement",
+"date_published": "2018-05-14T22:28:08+05:30",
+"source_type": "news_article",
+"source_name": "timesofindia.indiatimes.com",
+"image_link": [],
+"article_body": "Security forces on Monday launched a search operation along the International Border (IB) in district upon noticing suspicious movement of suspected terrorists in the area. \u201cAround 12.15am, Border Security Force (BSF) personnel spotted three to four people, in combat fatigues and backpacks, moving suspiciously in Tarnah nallah area between the border outposts of and Londi in tehsil,\u201d sources said. A joint team of and police subsequently launched a search operation to nab the infiltrators. Police have stepped up security measures and barricaded several places in Hiranagar and its adjoining areas. All vehicles are being checked. None has been detained or arrested yet, said Kathua SSP . The search operation was still underway till the filing of this report.",
+"description": "Security forces on Monday launched a search operation along the International Border (IB) in district upon noticing suspicious movement of suspected terrorists in the area. \u201cAround 12.15am, Border Security Force (BSF) personnel spotted three to four people, in combat fatigues and backpacks, moving suspiciously in Tarnah nallah area between the border outposts of and Londi in tehsil,\u201d sources said. A joint team of",
+"time_scraped": "2018-08-22 12:02:31.251964",
+"article_id": "64164616",
+"article_category": "IndiaNews",
+"image_details": [],
+"ibm_nlu": {
+"usage": {
+"text_units": 1,
+"text_characters": 764,
+"features": 7
+},
+"sentiment": {
+"document": {
+"score": -0.509145,
+"label": "negative"
+}
+},
+"semantic_roles": [
+{
+"subject": {
+"text": "Security forces on Monday"
+},
+"sentence": "Security forces on Monday launched a search operation along the International Border (IB) in district upon noticing suspicious movement of suspected terrorists in the area.",
+"object": {
+"text": "a search operation"
+},
+"action": {
+"verb": {
+"text": "launch",
+"tense": "past"
+},
+"text": "launched",
+"normalized": "launch"
+}
+},
+{
+"subject": {
+"text": "Security forces on Monday"
+},
+"sentence": "Security forces on Monday launched a search operation along the International Border (IB) in district upon noticing suspicious movement of suspected terrorists in the area.",
+"object": {
+"text": "suspicious movement of suspected terrorists in the area"
+},
+"action": {
+"verb": {
+"text": "notice",
+"tense": "present"
+},
+"text": "noticing",
+"normalized": "notice"
+}
+},
+{
+"subject": {
+"text": "terrorists"
+},
+"sentence": "Security forces on Monday launched a search operation along the International Border (IB) in district upon noticing suspicious movement of suspected terrorists in the area.",
+"action": {
+"verb": {
+"text": "suspect",
+"tense": "past"
+},
+"text": "suspected",
+"normalized": "suspect"
+}
+},
+{
+"subject": {
+"text": "\u201cAround 12.15am, Border Security Force (BSF) personnel"
+},
+"sentence": " \u201cAround 12.15am, Border Security Force (BSF) personnel spotted three to four people, in combat fatigues and backpacks, moving suspiciously in Tarnah nallah area between the border outposts of and Londi in tehsil,\u201d sources said.",
+"object": {
+"text": "three to four people, in combat fatigues and backpacks, moving suspiciously in Tarnah nallah area between the border outposts of and Londi in tehsil"
+},
+"action": {
+"verb": {
+"text": "spot",
+"tense": "past"
+},
+"text": "spotted",
+"normalized": "spot"
+}
+},
+{
+"subject": {
+"text": "sources"
+},
+"sentence": " \u201cAround 12.15am, Border Security Force (BSF) personnel spotted three to four people, in combat fatigues and backpacks, moving suspiciously in Tarnah nallah area between the border outposts of and Londi in tehsil,\u201d sources said.",
+"object": {
+"text": "Around 12.15am, Border Security Force (BSF) personnel spotted three to four people, in combat fatigues and backpacks, moving suspiciously in Tarnah nallah area between the border outposts of and Londi in tehsil"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "A joint team of and police"
+},
+"sentence": " A joint team of and police subsequently launched a search operation to nab the infiltrators.",
+"object": {
+"text": "a search operation"
+},
+"action": {
+"verb": {
+"text": "launch",
+"tense": "past"
+},
+"text": "launched",
+"normalized": "launch"
+}
+},
+{
+"subject": {
+"text": "Police"
+},
+"sentence": " Police have stepped up security measures and barricaded several places in Hiranagar and its adjoining areas.",
+"object": {
+"text": "stepped up security measures"
+},
+"action": {
+"verb": {
+"text": "have",
+"tense": "present"
+},
+"text": "have",
+"normalized": "have"
+}
+},
+{
+"subject": {
+"text": "Police"
+},
+"sentence": " Police have stepped up security measures and barricaded several places in Hiranagar and its adjoining areas.",
+"object": {
+"text": "security measures"
+},
+"action": {
+"verb": {
+"text": "step",
+"tense": "past"
+},
+"text": "have stepped",
+"normalized": "have step"
+}
+},
+{
+"subject": {
+"text": "Police"
+},
+"sentence": " Police have stepped up security measures and barricaded several places in Hiranagar and its adjoining areas.",
+"object": {
+"text": "several places"
+},
+"action": {
+"verb": {
+"text": "barricade",
+"tense": "past"
+},
+"text": "barricaded",
+"normalized": "barricade"
+}
+},
+{
+"subject": {
+"text": "None"
+},
+"sentence": " None has been detained or arrested yet, said Kathua SSP .",
+"object": {
+"text": "detained or arrested yet"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "been",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "None"
+},
+"sentence": " None has been detained or arrested yet, said Kathua SSP .",
+"action": {
+"verb": {
+"text": "detain",
+"tense": "past"
+},
+"text": "has been detained or arrested",
+"normalized": "have be detain or arrest"
+}
+},
+{
+"subject": {
+"text": "None"
+},
+"sentence": " None has been detained or arrested yet, said Kathua SSP .",
+"action": {
+"verb": {
+"text": "arrest",
+"tense": "past"
+},
+"text": "has been detained or arrested",
+"normalized": "have be detain or arrest"
+}
+},
+{
+"subject": {
+"text": "Kathua SSP"
+},
+"sentence": " None has been detained or arrested yet, said Kathua SSP .",
+"object": {
+"text": "None has been detained or arrested yet"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "The search operation"
+},
+"sentence": " The search operation was still underway till the filing of this report.",
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "was",
+"normalized": "be"
+}
+}
+],
+"relations": [
+{
+"type": "residesIn",
+"sentence": "Security forces on Monday launched a search operation along the International Border (IB) in district upon noticing suspicious movement of suspected terrorists in the area.",
+"score": 0.85465,
+"arguments": [
+{
+"text": "terrorists",
+"location": [
+149,
+159
+],
+"entities": [
+{
+"type": "Person",
+"text": "terrorists"
+}
+]
+},
+{
+"text": "area",
+"location": [
+167,
+171
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "area"
+}
+]
+}
+]
+},
+{
+"type": "near",
+"sentence": "\"Around 12.15am, Border Security Force (BSF) personnel spotted three to four people, in combat fatigues and backpacks, moving suspiciously in Tarnah nallah area between the border outposts of and Londi in tehsil,\" sources said.",
+"score": 0.4916,
+"arguments": [
+{
+"text": "area",
+"location": [
+329,
+333
+],
+"entities": [
+{
+"type": "Location",
+"text": "area"
+}
+]
+},
+{
+"text": "border",
+"location": [
+346,
+352
+],
+"entities": [
+{
+"type": "Location",
+"text": "border"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "\"Around 12.15am, Border Security Force (BSF) personnel spotted three to four people, in combat fatigues and backpacks, moving suspiciously in Tarnah nallah area between the border outposts of and Londi in tehsil,\" sources said.",
+"score": 0.987009,
+"arguments": [
+{
+"text": "sources",
+"location": [
+387,
+394
+],
+"entities": [
+{
+"type": "Person",
+"text": "sources"
+}
+]
+},
+{
+"text": "said",
+"location": [
+395,
+399
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "report"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "None has been detained or arrested yet, said Kathua SSP .",
+"score": 0.510518,
+"arguments": [
+{
+"text": "Kathua SSP",
+"location": [
+680,
+690
+],
+"entities": [
+{
+"type": "Person",
+"text": "Kathua SSP"
+}
+]
+},
+{
+"text": "arrested",
+"location": [
+661,
+669
+],
+"entities": [
+{
+"type": "EventCustody",
+"text": "arrested"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "None has been detained or arrested yet, said Kathua SSP .",
+"score": 0.987573,
+"arguments": [
+{
+"text": "Kathua SSP",
+"location": [
+680,
+690
+],
+"entities": [
+{
+"type": "Person",
+"text": "Kathua SSP"
+}
+]
+},
+{
+"text": "said",
+"location": [
+675,
+679
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "report"
+}
+]
+}
+]
+}
+],
+"language": "en",
+"keywords": [
+{
+"text": "search operation",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.926867,
+"emotion": {
+"sadness": 0.147705,
+"joy": 0.080905,
+"fear": 0.338234,
+"disgust": 0.111283,
+"anger": 0.057878
+}
+},
+{
+"text": "Border Security Force",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.823332,
+"emotion": {
+"sadness": 0.26623,
+"joy": 0.055708,
+"fear": 0.604967,
+"disgust": 0.141913,
+"anger": 0.136145
+}
+},
+{
+"text": "Tarnah nallah area",
+"sentiment": {
+"score": -0.391418,
+"label": "negative"
+},
+"relevance": 0.753893,
+"emotion": {
+"sadness": 0.253687,
+"joy": 0.24565,
+"fear": 0.288985,
+"disgust": 0.05241,
+"anger": 0.064989
+}
+},
+{
+"text": "border outposts",
+"sentiment": {
+"score": -0.391418,
+"label": "negative"
+},
+"relevance": 0.691922,
+"emotion": {
+"sadness": 0.253687,
+"joy": 0.24565,
+"fear": 0.288985,
+"disgust": 0.05241,
+"anger": 0.064989
+}
+},
+{
+"text": "International Border",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.685449,
+"emotion": {
+"sadness": 0.211082,
+"joy": 0.248654,
+"fear": 0.419069,
+"disgust": 0.024416,
+"anger": 0.035574
+}
+}
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Border Security Force",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.946112,
+"emotion": {
+"sadness": 0.26623,
+"joy": 0.055708,
+"fear": 0.604967,
+"disgust": 0.141913,
+"anger": 0.136145
+},
+"disambiguation": {
+"subtype": [],
+"name": "Border Security Force",
+"dbpedia_resource": "http://dbpedia.org/resource/Border_Security_Force"
+},
+"count": 1
+},
+{
+"type": "Location",
+"text": "Tarnah nallah",
+"sentiment": {
+"score": -0.391418,
+"label": "negative"
+},
+"relevance": 0.402357,
+"emotion": {
+"sadness": 0.253687,
+"joy": 0.24565,
+"fear": 0.288985,
+"disgust": 0.05241,
+"anger": 0.064989
+},
+"disambiguation": {
+"subtype": [
+"City"
+]
+},
+"count": 1
+},
+{
+"type": "Location",
+"text": "Londi",
+"sentiment": {
+"score": -0.391418,
+"label": "negative"
+},
+"relevance": 0.363656,
+"emotion": {
+"sadness": 0.253687,
+"joy": 0.24565,
+"fear": 0.288985,
+"disgust": 0.05241,
+"anger": 0.064989
+},
+"disambiguation": {
+"subtype": [
+"City"
+],
+"name": "Londi",
+"dbpedia_resource": "http://dbpedia.org/resource/Londi"
+},
+"count": 1
+},
+{
+"type": "Location",
+"text": "Hiranagar",
+"sentiment": {
+"score": -0.445805,
+"label": "negative"
+},
+"relevance": 0.351923,
+"emotion": {
+"sadness": 0.247675,
+"joy": 0.026839,
+"fear": 0.340086,
+"disgust": 0.288931,
+"anger": 0.172132
+},
+"disambiguation": {
+"subtype": [
+"City"
+],
+"name": "Hiranagar",
+"dbpedia_resource": "http://dbpedia.org/resource/Hiranagar"
+},
+"count": 1
+}
+],
+"concepts": [
+{
+"text": "Police",
+"relevance": 0.986447,
+"dbpedia_resource": "http://dbpedia.org/resource/Police"
+},
+{
+"text": "Crime",
+"relevance": 0.775876,
+"dbpedia_resource": "http://dbpedia.org/resource/Crime"
+},
+{
+"text": "Border Security Force",
+"relevance": 0.7578,
+"dbpedia_resource": "http://dbpedia.org/resource/Border_Security_Force"
+},
+{
+"text": "Security",
+"relevance": 0.607964,
+"dbpedia_resource": "http://dbpedia.org/resource/Security"
+},
+{
+"text": "Integral",
+"relevance": 0.597125,
+"dbpedia_resource": "http://dbpedia.org/resource/Integral"
+}
+],
+"categories": [
+{
+"score": 0.725231,
+"label": "/law, govt and politics/law enforcement/police"
+},
+{
+"score": 0.333336,
+"label": "/automotive and vehicles/commercial vehicles"
+},
+{
+"score": 0.325334,
+"label": "/business and industrial/company/bankruptcy"
+}
+]
+}
+}

@@ -1,0 +1,834 @@
+{
+"source_article_link": "https://timesofindia.indiatimes.com/india/runway-incursion-spicejet-grounds-2-pilots-in-varanasi/articleshow/64564789.cms?&utm_source=Articleshow&utm_medium=Organic&utm_campaign=Related_Stories",
+"title": "Runway incursion: SpiceJet grounds 2 pilots in Varanasi",
+"date_published": "2018-06-13T03:40:46+05:30",
+"source_type": "news_article",
+"source_name": "timesofindia.indiatimes.com",
+"image_link": [],
+"article_body": "NEW DELHI: has grounded two pilots whose plane went beyond the holding point and had a at Varanasi on Tuesday when an IndiGo plane was about to take off from the same strip. Air traffic controllers alerted the Indi-Go aircraft in time which then safely aborted the take-off. A SpiceJet spokesman said: \u201cOn Tuesday, SpiceJet 737 800 aircraft (VT-SGH) was scheduled to operate SG-705, sector Varanasi to Hyderabad. While taxiing to the Varanasi runway, it inadvertently crossed the runway holding point. The ATC asked the pilot to hold position and later cleared it for take-off.\u201d",
+"description": "NEW DELHI: has grounded two pilots whose plane went beyond the holding point and had a at Varanasi on Tuesday when an IndiGo plane was about to take off from the same strip. Air traffic controllers alerted the Indi-Go aircraft in time which then safely aborted the take-off. A SpiceJet spokesman said: \u201cOn Tuesday, SpiceJet 737 800 aircraft (VT-SGH) was scheduled to operate SG-705, sector Varanasi to Hyderabad. While taxiing to the Varanasi runway, it inadvertently crossed the runway holding point.",
+"time_scraped": "2018-08-22 21:01:28.644387",
+"article_id": "64564789",
+"article_category": "IndiaNews",
+"image_details": [],
+"ibm_nlu": {
+"usage": {
+"text_units": 1,
+"text_characters": 578,
+"features": 7
+},
+"sentiment": {
+"document": {
+"score": 0.0,
+"label": "neutral"
+}
+},
+"semantic_roles": [
+{
+"subject": {
+"text": "a at Varanasi"
+},
+"sentence": "NEW DELHI: has grounded two pilots whose plane went beyond the holding point and had a at Varanasi on Tuesday when an IndiGo plane was about to take off from the same strip.",
+"action": {
+"verb": {
+"text": "have",
+"tense": "past"
+},
+"text": "had",
+"normalized": "have"
+}
+},
+{
+"subject": {
+"text": "an IndiGo plane"
+},
+"sentence": "NEW DELHI: has grounded two pilots whose plane went beyond the holding point and had a at Varanasi on Tuesday when an IndiGo plane was about to take off from the same strip.",
+"object": {
+"text": "about to take off from the same strip"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "was",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "an IndiGo plane"
+},
+"sentence": "NEW DELHI: has grounded two pilots whose plane went beyond the holding point and had a at Varanasi on Tuesday when an IndiGo plane was about to take off from the same strip.",
+"object": {
+"text": "from the same strip"
+},
+"action": {
+"verb": {
+"text": "take",
+"tense": "past"
+},
+"text": "to take",
+"normalized": "to take"
+}
+},
+{
+"subject": {
+"text": "Air traffic controllers"
+},
+"sentence": " Air traffic controllers alerted the Indi-Go aircraft in time which then safely aborted the take-off.",
+"object": {
+"text": "the Indi-Go aircraft"
+},
+"action": {
+"verb": {
+"text": "alert",
+"tense": "past"
+},
+"text": "alerted",
+"normalized": "alert"
+}
+},
+{
+"subject": {
+"text": "the Indi-Go aircraft"
+},
+"sentence": " Air traffic controllers alerted the Indi-Go aircraft in time which then safely aborted the take-off.",
+"object": {
+"text": "the take-off"
+},
+"action": {
+"verb": {
+"text": "abort",
+"tense": "past"
+},
+"text": "aborted",
+"normalized": "abort"
+}
+},
+{
+"subject": {
+"text": "A SpiceJet spokesman"
+},
+"sentence": " A SpiceJet spokesman said: \u201cOn Tuesday, SpiceJet 737 800 aircraft (VT-SGH) was scheduled to operate SG-705, sector Varanasi to Hyderabad.",
+"object": {
+"text": "On Tuesday, SpiceJet 737 800 aircraft (VT-SGH) was scheduled to operate SG-705, sector Varanasi to Hyderabad"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "SpiceJet 737 800 aircraft (VT-SGH)"
+},
+"sentence": " A SpiceJet spokesman said: \u201cOn Tuesday, SpiceJet 737 800 aircraft (VT-SGH) was scheduled to operate SG-705, sector Varanasi to Hyderabad.",
+"object": {
+"text": "to operate SG-705, sector Varanasi to Hyderabad"
+},
+"action": {
+"verb": {
+"text": "schedule",
+"tense": "past"
+},
+"text": "scheduled",
+"normalized": "schedule"
+}
+},
+{
+"subject": {
+"text": "it"
+},
+"sentence": " While taxiing to the Varanasi runway, it inadvertently crossed the runway holding point.",
+"object": {
+"text": "the runway holding point"
+},
+"action": {
+"verb": {
+"text": "cross",
+"tense": "past"
+},
+"text": "crossed",
+"normalized": "cross"
+}
+},
+{
+"subject": {
+"text": "The ATC"
+},
+"sentence": " The ATC asked the pilot to hold position and later cleared it for take-off.\u201d",
+"object": {
+"text": "to hold position and later cleared it for take-off"
+},
+"action": {
+"verb": {
+"text": "ask",
+"tense": "past"
+},
+"text": "asked",
+"normalized": "ask"
+}
+},
+{
+"subject": {
+"text": "the pilot"
+},
+"sentence": " The ATC asked the pilot to hold position and later cleared it for take-off.\u201d",
+"object": {
+"text": "position"
+},
+"action": {
+"verb": {
+"text": "hold",
+"tense": "future"
+},
+"text": "to hold",
+"normalized": "to hold"
+}
+}
+],
+"relations": [
+{
+"type": "populationOf",
+"sentence": "NEW DELHI: has grounded two pilots whose plane went beyond the holding point and had a at Varanasi on Tuesday when an IndiGo plane was about to take off from the same strip.",
+"score": 0.737673,
+"arguments": [
+{
+"text": "two",
+"location": [
+24,
+27
+],
+"entities": [
+{
+"type": "Cardinal",
+"text": "two"
+}
+]
+},
+{
+"text": "NEW DELHI",
+"location": [
+0,
+9
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "NEW DELHI"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "While taxiing to the Varanasi runway, it inadvertently crossed the runway holding point.",
+"score": 0.939138,
+"arguments": [
+{
+"text": "runway",
+"location": [
+443,
+449
+],
+"entities": [
+{
+"type": "Facility",
+"text": "runway"
+}
+]
+},
+{
+"text": "Varanasi",
+"location": [
+434,
+442
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Varanasi"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "The ATC asked the pilot to hold position and later cleared it for take-off.\"",
+"score": 0.980094,
+"arguments": [
+{
+"text": "ATC",
+"location": [
+506,
+509
+],
+"entities": [
+{
+"type": "Organization",
+"text": "ATC"
+}
+]
+},
+{
+"text": "asked",
+"location": [
+510,
+515
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "asked"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "The ATC asked the pilot to hold position and later cleared it for take-off.\"",
+"score": 0.881051,
+"arguments": [
+{
+"text": "pilot",
+"location": [
+520,
+525
+],
+"entities": [
+{
+"type": "Person",
+"text": "pilot"
+}
+]
+},
+{
+"text": "asked",
+"location": [
+510,
+515
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "asked"
+}
+]
+}
+]
+},
+{
+"type": "ownerOf",
+"sentence": "NEW DELHI: has grounded two pilots whose plane went beyond the holding point and had a at Varanasi on Tuesday when an IndiGo plane was about to take off from the same strip.",
+"score": 0.757845,
+"arguments": [
+{
+"text": "whose",
+"location": [
+35,
+40
+],
+"entities": [
+{
+"type": "Person",
+"text": "whose"
+}
+]
+},
+{
+"text": "plane",
+"location": [
+41,
+46
+],
+"entities": [
+{
+"type": "Vehicle",
+"text": "aircraft"
+}
+]
+}
+]
+},
+{
+"type": "ownerOf",
+"sentence": "NEW DELHI: has grounded two pilots whose plane went beyond the holding point and had a at Varanasi on Tuesday when an IndiGo plane was about to take off from the same strip.",
+"score": 0.85204,
+"arguments": [
+{
+"text": "IndiGo",
+"location": [
+118,
+124
+],
+"entities": [
+{
+"type": "Organization",
+"text": "IndiGo",
+"disambiguation": {
+"subtype": [
+"Commercial"
+]
+}
+}
+]
+},
+{
+"text": "plane",
+"location": [
+125,
+130
+],
+"entities": [
+{
+"type": "Vehicle",
+"text": "aircraft"
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "Air traffic controllers alerted the Indi-Go aircraft in time which then safely aborted the take-off.",
+"score": 0.530844,
+"arguments": [
+{
+"text": "controllers",
+"location": [
+186,
+197
+],
+"entities": [
+{
+"type": "Person",
+"text": "controllers"
+}
+]
+},
+{
+"text": "Air traffic",
+"location": [
+174,
+185
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Air traffic"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Air traffic controllers alerted the Indi-Go aircraft in time which then safely aborted the take-off.",
+"score": 0.978347,
+"arguments": [
+{
+"text": "controllers",
+"location": [
+186,
+197
+],
+"entities": [
+{
+"type": "Person",
+"text": "controllers"
+}
+]
+},
+{
+"text": "alerted",
+"location": [
+198,
+205
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "alerted"
+}
+]
+}
+]
+},
+{
+"type": "ownerOf",
+"sentence": "Air traffic controllers alerted the Indi-Go aircraft in time which then safely aborted the take-off.",
+"score": 0.67397,
+"arguments": [
+{
+"text": "Indi-Go",
+"location": [
+210,
+217
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Indi-Go"
+}
+]
+},
+{
+"text": "aircraft",
+"location": [
+218,
+226
+],
+"entities": [
+{
+"type": "Vehicle",
+"text": "aircraft"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "A SpiceJet spokesman said: \"On Tuesday, SpiceJet 737 800 aircraft (VT-SGH) was scheduled to operate SG-705, sector Varanasi to Hyderabad.",
+"score": 0.989171,
+"arguments": [
+{
+"text": "spokesman",
+"location": [
+286,
+295
+],
+"entities": [
+{
+"type": "Person",
+"text": "spokesman"
+}
+]
+},
+{
+"text": "said",
+"location": [
+296,
+300
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "A SpiceJet spokesman said: \"On Tuesday, SpiceJet 737 800 aircraft (VT-SGH) was scheduled to operate SG-705, sector Varanasi to Hyderabad.",
+"score": 0.569968,
+"arguments": [
+{
+"text": "SpiceJet",
+"location": [
+315,
+323
+],
+"entities": [
+{
+"type": "Person",
+"text": "SpiceJet"
+}
+]
+},
+{
+"text": "aircraft",
+"location": [
+332,
+340
+],
+"entities": [
+{
+"type": "Vehicle",
+"text": "aircraft"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "A SpiceJet spokesman said: \"On Tuesday, SpiceJet 737 800 aircraft (VT-SGH) was scheduled to operate SG-705, sector Varanasi to Hyderabad.",
+"score": 0.519653,
+"arguments": [
+{
+"text": "aircraft",
+"location": [
+332,
+340
+],
+"entities": [
+{
+"type": "Vehicle",
+"text": "aircraft"
+}
+]
+},
+{
+"text": "Hyderabad",
+"location": [
+402,
+411
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Hyderabad"
+}
+]
+}
+]
+}
+],
+"language": "en",
+"keywords": [
+{
+"text": "holding point",
+"sentiment": {
+"score": -0.333322,
+"label": "negative"
+},
+"relevance": 0.964924,
+"emotion": {
+"sadness": 0.285171,
+"joy": 0.060776,
+"fear": 0.292447,
+"disgust": 0.406115,
+"anger": 0.254092
+}
+},
+{
+"text": "runway holding point",
+"sentiment": {
+"score": -0.333322,
+"label": "negative"
+},
+"relevance": 0.930358,
+"emotion": {
+"sadness": 0.219586,
+"joy": 0.110414,
+"fear": 0.159117,
+"disgust": 0.047754,
+"anger": 0.16379
+}
+},
+{
+"text": "Air traffic controllers",
+"sentiment": {
+"score": -0.470286,
+"label": "negative"
+},
+"relevance": 0.920325,
+"emotion": {
+"sadness": 0.123529,
+"joy": 0.064691,
+"fear": 0.046024,
+"disgust": 0.043786,
+"anger": 0.252433
+}
+},
+{
+"text": "Varanasi runway",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.886817,
+"emotion": {
+"sadness": 0.144548,
+"joy": 0.18042,
+"fear": 0.113321,
+"disgust": 0.077654,
+"anger": 0.090723
+}
+},
+{
+"text": "SpiceJet spokesman",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.85287,
+"emotion": {
+"sadness": 0.561009,
+"joy": 0.119368,
+"fear": 0.141121,
+"disgust": 0.186797,
+"anger": 0.175418
+}
+}
+],
+"entities": [
+{
+"type": "Location",
+"text": "Varanasi",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.929693,
+"emotion": {
+"sadness": 0.246481,
+"joy": 0.090462,
+"fear": 0.241349,
+"disgust": 0.456799,
+"anger": 0.23292
+},
+"disambiguation": {
+"subtype": [
+"City"
+],
+"name": "Varanasi",
+"dbpedia_resource": "http://dbpedia.org/resource/Varanasi"
+},
+"count": 2
+},
+{
+"type": "Company",
+"text": "SpiceJet",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.585333,
+"emotion": {
+"sadness": 0.333867,
+"joy": 0.182749,
+"fear": 0.109686,
+"disgust": 0.119982,
+"anger": 0.134473
+},
+"disambiguation": {
+"subtype": [
+"Airline"
+],
+"name": "SpiceJet",
+"dbpedia_resource": "http://dbpedia.org/resource/SpiceJet"
+},
+"count": 1
+},
+{
+"type": "Location",
+"text": "Varanasi",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.582933,
+"emotion": {
+"sadness": 0.246481,
+"joy": 0.090462,
+"fear": 0.241349,
+"disgust": 0.456799,
+"anger": 0.23292
+},
+"disambiguation": {
+"subtype": [
+"Country"
+]
+},
+"count": 1
+},
+{
+"type": "Organization",
+"text": "ATC",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.349027,
+"emotion": {
+"sadness": 0.103454,
+"joy": 0.092503,
+"fear": 0.092199,
+"disgust": 0.049868,
+"anger": 0.259616
+},
+"disambiguation": {
+"subtype": [],
+"name": "Air traffic control",
+"dbpedia_resource": "http://dbpedia.org/resource/Air_traffic_control"
+},
+"count": 1
+},
+{
+"type": "Location",
+"text": "DELHI",
+"sentiment": {
+"score": 0.375946,
+"label": "positive"
+},
+"relevance": 0.333621,
+"emotion": {
+"sadness": 0.115132,
+"joy": 0.596039,
+"fear": 0.084006,
+"disgust": 0.034674,
+"anger": 0.046922
+},
+"disambiguation": {
+"subtype": [
+"Country"
+]
+},
+"count": 1
+}
+],
+"concepts": [
+{
+"text": "Air traffic control",
+"relevance": 0.959422,
+"dbpedia_resource": "http://dbpedia.org/resource/Air_traffic_control"
+},
+{
+"text": "Indira Gandhi International Airport",
+"relevance": 0.719715,
+"dbpedia_resource": "http://dbpedia.org/resource/Indira_Gandhi_International_Airport"
+},
+{
+"text": "Runway",
+"relevance": 0.595043,
+"dbpedia_resource": "http://dbpedia.org/resource/Runway"
+},
+{
+"text": "Takeoff",
+"relevance": 0.553607,
+"dbpedia_resource": "http://dbpedia.org/resource/Takeoff"
+},
+{
+"text": "Taxiing",
+"relevance": 0.543479,
+"dbpedia_resource": "http://dbpedia.org/resource/Taxiing"
+}
+],
+"categories": [
+{
+"score": 0.49638,
+"label": "/travel/transports/air travel/airlines"
+},
+{
+"score": 0.328774,
+"label": "/travel/transports/air travel/airplanes"
+},
+{
+"score": 0.321105,
+"label": "/travel/transports/air travel/airports"
+}
+]
+}
+}

@@ -1,0 +1,1888 @@
+{
+"source_article_link": "https://www.firstpost.com/india/centre-tells-supreme-court-live-streaming-of-proceedings-can-be-introduced-as-pilot-project-5039661.html",
+"title": "Centre tells Supreme Court live streaming of proceedings can be introduced as pilot project",
+"date_published": "2018-08-24T20:12:34+05:30",
+"source_type": "news_article",
+"source_name": "FirstPost",
+"image_link": [
+"https://images.firstpost.com/wp-content/uploads/2018/08/Supreme_Court_AFP.jpg"
+],
+"article_body": "New Delhi: The government on Friday suggested to the Supreme Court that live streaming of proceedings could be introduced as a pilot project for matters of constitutional significance but not on issues which could arouse passion, affect national security or concerned matrimonial disputes or juveniles. Attorney General KK Venugopal said the success of the pilot project will determine whether live streaming should be introduced in other courts in the apex court and in courts across the country. The attorney general said that live streaming should be delayed by 70 seconds to allow the judges to mute the sound when a lawyer misbehaves or if the matter is sensitive, like one which involves individual privacy or national security. \"Live streaming of court proceedings should be introduced as a pilot project in Court no 1 (of Chief Justice of India) and only in constitution bench references. The success of this project will determine whether or not live streaming should be introduced in all courts in the Supreme Court and in courts pan-India. \"To ensure that all persons including litigants, journalists, interns, visitors and lawyers are able to view the live streaming of the proceedings, a media room should be designated in the premises of the court with necessary infrastructural facilities. This will also ensure that courts are decongested. Provisions may also be made available for the benefit of differently-abled persons,\" Venugopal said. File photo of Supreme Court of India. AFP He also said that the court must have the power to limit, temporarily suspend or disallow filming or broadcasting, if it feels that such measures are likely to interfere with the rights of the parties to a fair trial. The top law officer said that broadcasting must not be permitted in the cases involving matrimonial disputes, matters involving interests of juveniles, issues pertaining to national security or which may provoke sentiments and arouse passion and provoke enmity among communities. He suggested that besides live streaming, the top court may also provide for transcribing facilities and archive the audio-visual record of the proceedings to make the webcast accessible to litigants and other interested persons who are unable to witness the hearings on account of constraints. He said such webcasts will also allow students of law to supplement their academic knowledge and gain practical insights into cases of national importance. Venugopal said the use of the footage should be restricted for the purpose of news, current affairs and educational purposes and should not be used for commercial, promotion, light entertainment, satirical programmes or advertising. \"Without prior written authorisation of the Supreme Court of India, live streaming or the webcast of the proceedings from the Supreme Court should not be reproduced, transmitted, uploaded, posted, modified, published or re-published to the public. \"Any unauthorised usage of the live streaming and/or webcasts will be punishable as an offence under the Indian Copyright Act, 1957 and the Information Technology Act, 2000 and any other provisions of the law in force. The law of contempt should apply to such proceedings. Prohibitions, fines and penalties may be provided for,\" the AG said. Venugopal also suggested that the courts may lay down rules of coverage to provide for the manner in which the filming may be done and the equipment that will be allowed in the court. \"Case management techniques should be introduced to ensure that matters are decided in a speedy manner and lawyers abide by time limits fixed prior to the hearing. A skeleton of arguments/written submissions should be prepared and submitted to the Court by the lawyers prior to their arguments,\" he said.",
+"description": "New Delhi: The government on Friday suggested to the Supreme Court that live streaming of proceedings could be introduced as a pilot project for matters of constitutional significance but not on issues which could arouse passion, affect national security or concerned matrimonial disputes or juveniles. Attorney General KK Venugopal said the success of the pilot project will determine whether live streaming should be introduced in other courts in the apex court and in courts across the country. The attorney general said that live streaming should be delayed by 70 seconds to allow the judges to mute the sound when a lawyer misbehaves or if the matter is sensitive, like one which involves individual privacy or national security. \"Live streaming of court proceedings should be introduced as a pilot project in Court no 1 (of Chief Justice of India) and only in constitution bench references. The success of this project will determine whether or not live streaming should be introduced in all courts in the Supreme Court and in courts pan-India.",
+"time_scraped": "2018-08-24 21:04:28.404601",
+"article_id": "5039661",
+"article_category": "India",
+"image_details": [
+{
+"url": "https://images.firstpost.com/wp-content/uploads/2018/08/Supreme_Court_AFP.jpg",
+"path": "full/ce461f525113f39afab45083d0c9f073537e1714.jpg",
+"checksum": "6f7c7797443257f02d92775a1f62aee8"
+}
+],
+"ibm_nlu": {
+"usage": {
+"text_units": 1,
+"text_characters": 3759,
+"features": 7
+},
+"sentiment": {
+"document": {
+"score": -0.211632,
+"label": "negative"
+}
+},
+"semantic_roles": [
+{
+"subject": {
+"text": "The government"
+},
+"sentence": "New Delhi: The government on Friday suggested to the Supreme Court that live streaming of proceedings could be introduced as a pilot project for matters of constitutional significance but not on issues which could arouse passion, affect national security or concerned matrimonial disputes or juveniles.",
+"object": {
+"text": "that live streaming of proceedings could be introduced as a pilot project for matters of constitutional significance but not on issues which could arouse passion, affect national security or concerned matrimonial disputes or juveniles"
+},
+"action": {
+"verb": {
+"text": "suggest",
+"tense": "past"
+},
+"text": "suggested",
+"normalized": "suggest"
+}
+},
+{
+"subject": {
+"text": "proceedings"
+},
+"sentence": "New Delhi: The government on Friday suggested to the Supreme Court that live streaming of proceedings could be introduced as a pilot project for matters of constitutional significance but not on issues which could arouse passion, affect national security or concerned matrimonial disputes or juveniles.",
+"object": {
+"text": "introduced"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "future"
+},
+"text": "be",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "issues"
+},
+"sentence": "New Delhi: The government on Friday suggested to the Supreme Court that live streaming of proceedings could be introduced as a pilot project for matters of constitutional significance but not on issues which could arouse passion, affect national security or concerned matrimonial disputes or juveniles.",
+"object": {
+"text": "passion"
+},
+"action": {
+"verb": {
+"text": "arouse",
+"tense": "future"
+},
+"text": "could arouse",
+"normalized": "could arouse"
+}
+},
+{
+"subject": {
+"text": "issues"
+},
+"sentence": "New Delhi: The government on Friday suggested to the Supreme Court that live streaming of proceedings could be introduced as a pilot project for matters of constitutional significance but not on issues which could arouse passion, affect national security or concerned matrimonial disputes or juveniles.",
+"object": {
+"text": "national security"
+},
+"action": {
+"verb": {
+"text": "affect",
+"tense": "future"
+},
+"text": "affect",
+"normalized": "affect"
+}
+},
+{
+"subject": {
+"text": "Attorney General KK Venugopal"
+},
+"sentence": " Attorney General KK Venugopal said the success of the pilot project will determine whether live streaming should be introduced in other courts in the apex court and in courts across the country.",
+"object": {
+"text": "the success of the pilot project will determine whether live streaming should be introduced in other courts in the apex court and in courts across the country"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "live streaming"
+},
+"sentence": " Attorney General KK Venugopal said the success of the pilot project will determine whether live streaming should be introduced in other courts in the apex court and in courts across the country.",
+"object": {
+"text": "introduced in other courts in the apex court and in courts across the country"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "future"
+},
+"text": "be",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "live streaming"
+},
+"sentence": " Attorney General KK Venugopal said the success of the pilot project will determine whether live streaming should be introduced in other courts in the apex court and in courts across the country.",
+"action": {
+"verb": {
+"text": "introduce",
+"tense": "future"
+},
+"text": "should be introduced",
+"normalized": "should be introduce"
+}
+},
+{
+"subject": {
+"text": "The attorney general"
+},
+"sentence": " The attorney general said that live streaming should be delayed by 70 seconds to allow the judges to mute the sound when a lawyer misbehaves or if the matter is sensitive, like one which involves individual privacy or national security.",
+"object": {
+"text": "that live streaming should be delayed by 70 seconds to allow the judges to mute the sound when a lawyer misbehaves or if the matter is sensitive, like one which involves individual privacy or national security"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "live streaming"
+},
+"sentence": " The attorney general said that live streaming should be delayed by 70 seconds to allow the judges to mute the sound when a lawyer misbehaves or if the matter is sensitive, like one which involves individual privacy or national security.",
+"object": {
+"text": "delayed"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "future"
+},
+"text": "be",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "live streaming"
+},
+"sentence": " The attorney general said that live streaming should be delayed by 70 seconds to allow the judges to mute the sound when a lawyer misbehaves or if the matter is sensitive, like one which involves individual privacy or national security.",
+"action": {
+"verb": {
+"text": "delay",
+"tense": "future"
+},
+"text": "should be delayed",
+"normalized": "should be delay"
+}
+},
+{
+"subject": {
+"text": "Live streaming of court proceedings"
+},
+"sentence": " \"Live streaming of court proceedings should be introduced as a pilot project in Court no 1 (of Chief Justice of India) and only in constitution bench references.",
+"object": {
+"text": "introduced"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "future"
+},
+"text": "be",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "The success of this project"
+},
+"sentence": " The success of this project will determine whether or not live streaming should be introduced in all courts in the Supreme Court and in courts pan-India.",
+"object": {
+"text": "whether or not live streaming should be introduced in all courts in the Supreme Court and in courts pan-India"
+},
+"action": {
+"verb": {
+"text": "determine",
+"tense": "future"
+},
+"text": "will determine",
+"normalized": "will determine"
+}
+},
+{
+"subject": {
+"text": "streaming"
+},
+"sentence": " The success of this project will determine whether or not live streaming should be introduced in all courts in the Supreme Court and in courts pan-India.",
+"action": {
+"verb": {
+"text": "live",
+"tense": "future",
+"negated": true
+},
+"text": "live",
+"normalized": "live"
+}
+},
+{
+"subject": {
+"text": "whether or not live streaming"
+},
+"sentence": " The success of this project will determine whether or not live streaming should be introduced in all courts in the Supreme Court and in courts pan-India.",
+"object": {
+"text": "introduced in all courts in the Supreme Court and in courts pan-India"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "future"
+},
+"text": "be",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "whether or not live streaming"
+},
+"sentence": " The success of this project will determine whether or not live streaming should be introduced in all courts in the Supreme Court and in courts pan-India.",
+"action": {
+"verb": {
+"text": "introduce",
+"tense": "future"
+},
+"text": "should be introduced",
+"normalized": "should be introduce"
+}
+},
+{
+"subject": {
+"text": "all persons including litigants, journalists, interns, visitors and lawyers"
+},
+"sentence": " \"To ensure that all persons including litigants, journalists, interns, visitors and lawyers are able to view the live streaming of the proceedings, a media room should be designated in the premises of the court with necessary infrastructural facilities.",
+"object": {
+"text": "the live streaming of the proceedings"
+},
+"action": {
+"verb": {
+"text": "view",
+"tense": "future"
+},
+"text": "to view",
+"normalized": "to view"
+}
+},
+{
+"subject": {
+"text": "a media room"
+},
+"sentence": " \"To ensure that all persons including litigants, journalists, interns, visitors and lawyers are able to view the live streaming of the proceedings, a media room should be designated in the premises of the court with necessary infrastructural facilities.",
+"object": {
+"text": "designated in the premises of the court"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "future"
+},
+"text": "be",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "a media room"
+},
+"sentence": " \"To ensure that all persons including litigants, journalists, interns, visitors and lawyers are able to view the live streaming of the proceedings, a media room should be designated in the premises of the court with necessary infrastructural facilities.",
+"object": {
+"text": "with necessary infrastructural facilities"
+},
+"action": {
+"verb": {
+"text": "designate",
+"tense": "future"
+},
+"text": "should be designated",
+"normalized": "should be designate"
+}
+},
+{
+"subject": {
+"text": "This"
+},
+"sentence": " This will also ensure that courts are decongested.",
+"object": {
+"text": "that courts are decongested"
+},
+"action": {
+"verb": {
+"text": "ensure",
+"tense": "future"
+},
+"text": "will also ensure",
+"normalized": "will also ensure"
+}
+},
+{
+"subject": {
+"text": "Provisions"
+},
+"sentence": " Provisions may also be made available for the benefit of differently-abled persons,\" Venugopal said.",
+"object": {
+"text": "available"
+},
+"action": {
+"verb": {
+"text": "make",
+"tense": "future"
+},
+"text": "may also be made",
+"normalized": "may also be make"
+}
+},
+{
+"subject": {
+"text": "Venugopal"
+},
+"sentence": " Provisions may also be made available for the benefit of differently-abled persons,\" Venugopal said.",
+"object": {
+"text": "Provisions may also be made available for the benefit of differently-abled persons"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "AFP He"
+},
+"sentence": " AFP He also said that the court must have the power to limit, temporarily suspend or disallow filming or broadcasting, if it feels that such measures are likely to interfere with the rights of the parties to a fair trial.",
+"object": {
+"text": "that the court must have the power to limit, temporarily suspend or disallow filming or broadcasting, if it feels that such measures are likely to interfere with the rights of the parties to a fair trial"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "filming or broadcasting"
+},
+"sentence": " AFP He also said that the court must have the power to limit, temporarily suspend or disallow filming or broadcasting, if it feels that such measures are likely to interfere with the rights of the parties to a fair trial.",
+"action": {
+"verb": {
+"text": "suspend",
+"tense": "present"
+},
+"text": "suspend or disallow",
+"normalized": "suspend or disallow"
+}
+},
+{
+"subject": {
+"text": "the court"
+},
+"sentence": " AFP He also said that the court must have the power to limit, temporarily suspend or disallow filming or broadcasting, if it feels that such measures are likely to interfere with the rights of the parties to a fair trial.",
+"object": {
+"text": "filming or broadcasting"
+},
+"action": {
+"verb": {
+"text": "disallow",
+"tense": "present"
+},
+"text": "suspend or disallow",
+"normalized": "suspend or disallow"
+}
+},
+{
+"subject": {
+"text": "such measures"
+},
+"sentence": " AFP He also said that the court must have the power to limit, temporarily suspend or disallow filming or broadcasting, if it feels that such measures are likely to interfere with the rights of the parties to a fair trial.",
+"object": {
+"text": "with the rights of the parties to a fair trial"
+},
+"action": {
+"verb": {
+"text": "interfere",
+"tense": "future"
+},
+"text": "to interfere",
+"normalized": "to interfere"
+}
+},
+{
+"subject": {
+"text": "The top law officer"
+},
+"sentence": " The top law officer said that broadcasting must not be permitted in the cases involving matrimonial disputes, matters involving interests of juveniles, issues pertaining to national security or which may provoke sentiments and arouse passion and provoke enmity among communities.",
+"object": {
+"text": "that broadcasting must not be permitted in the cases involving matrimonial disputes, matters involving interests of juveniles, issues pertaining to national security or which may provoke sentiments and arouse passion and provoke enmity among communities"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "broadcasting"
+},
+"sentence": " The top law officer said that broadcasting must not be permitted in the cases involving matrimonial disputes, matters involving interests of juveniles, issues pertaining to national security or which may provoke sentiments and arouse passion and provoke enmity among communities.",
+"object": {
+"text": "permitted in the cases involving matrimonial disputes, matters involving interests of juveniles, issues pertaining to national security or which may provoke sentiments and arouse passion and provoke enmity among communities"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "future",
+"negated": true
+},
+"text": "be",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "matrimonial disputes, matters involving interests of juveniles, issues pertaining to national security or which"
+},
+"sentence": " The top law officer said that broadcasting must not be permitted in the cases involving matrimonial disputes, matters involving interests of juveniles, issues pertaining to national security or which may provoke sentiments and arouse passion and provoke enmity among communities.",
+"object": {
+"text": "the cases"
+},
+"action": {
+"verb": {
+"text": "involve",
+"tense": "present"
+},
+"text": "involving",
+"normalized": "involve"
+}
+},
+{
+"subject": {
+"text": "national security"
+},
+"sentence": " The top law officer said that broadcasting must not be permitted in the cases involving matrimonial disputes, matters involving interests of juveniles, issues pertaining to national security or which may provoke sentiments and arouse passion and provoke enmity among communities.",
+"object": {
+"text": "sentiments"
+},
+"action": {
+"verb": {
+"text": "provoke",
+"tense": "future"
+},
+"text": "may provoke",
+"normalized": "may provoke"
+}
+},
+{
+"subject": {
+"text": "He"
+},
+"sentence": " He suggested that besides live streaming, the top court may also provide for transcribing facilities and archive the audio-visual record of the proceedings to make the webcast accessible to litigants and other interested persons who are unable to witness the hearings on account of constraints.",
+"object": {
+"text": "that besides live streaming, the top court may also provide for transcribing facilities and archive the audio-visual record of the proceedings to make the webcast accessible to litigants and other interested persons who are unable to witness the hearings on account of constraints"
+},
+"action": {
+"verb": {
+"text": "suggest",
+"tense": "past"
+},
+"text": "suggested",
+"normalized": "suggest"
+}
+},
+{
+"subject": {
+"text": "the top court"
+},
+"sentence": " He suggested that besides live streaming, the top court may also provide for transcribing facilities and archive the audio-visual record of the proceedings to make the webcast accessible to litigants and other interested persons who are unable to witness the hearings on account of constraints.",
+"object": {
+"text": "facilities"
+},
+"action": {
+"verb": {
+"text": "transcribe",
+"tense": "future"
+},
+"text": "transcribing",
+"normalized": "transcribe"
+}
+},
+{
+"subject": {
+"text": "the top court"
+},
+"sentence": " He suggested that besides live streaming, the top court may also provide for transcribing facilities and archive the audio-visual record of the proceedings to make the webcast accessible to litigants and other interested persons who are unable to witness the hearings on account of constraints.",
+"object": {
+"text": "the audio-visual record of the proceedings"
+},
+"action": {
+"verb": {
+"text": "archive",
+"tense": "present"
+},
+"text": "archive",
+"normalized": "archive"
+}
+},
+{
+"subject": {
+"text": "the top court"
+},
+"sentence": " He suggested that besides live streaming, the top court may also provide for transcribing facilities and archive the audio-visual record of the proceedings to make the webcast accessible to litigants and other interested persons who are unable to witness the hearings on account of constraints.",
+"object": {
+"text": "the webcast"
+},
+"action": {
+"verb": {
+"text": "make",
+"tense": "future"
+},
+"text": "to make",
+"normalized": "to make"
+}
+},
+{
+"subject": {
+"text": "persons"
+},
+"sentence": " He suggested that besides live streaming, the top court may also provide for transcribing facilities and archive the audio-visual record of the proceedings to make the webcast accessible to litigants and other interested persons who are unable to witness the hearings on account of constraints.",
+"object": {
+"text": "the hearings"
+},
+"action": {
+"verb": {
+"text": "witness",
+"tense": "future"
+},
+"text": "to witness",
+"normalized": "to witness"
+}
+},
+{
+"subject": {
+"text": "He"
+},
+"sentence": " He said such webcasts will also allow students of law to supplement their academic knowledge and gain practical insights into cases of national importance.",
+"object": {
+"text": "such webcasts will also allow students of law to supplement their academic knowledge and gain practical insights into cases of national importance"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "students"
+},
+"sentence": " He said such webcasts will also allow students of law to supplement their academic knowledge and gain practical insights into cases of national importance.",
+"object": {
+"text": "their academic knowledge and gain practical insights"
+},
+"action": {
+"verb": {
+"text": "supplement",
+"tense": "future"
+},
+"text": "to supplement",
+"normalized": "to supplement"
+}
+},
+{
+"subject": {
+"text": "Venugopal"
+},
+"sentence": " Venugopal said the use of the footage should be restricted for the purpose of news, current affairs and educational purposes and should not be used for commercial, promotion, light entertainment, satirical programmes or advertising.",
+"object": {
+"text": "the use of the footage should be restricted for the purpose of news, current affairs and educational purposes and should not be used for commercial, promotion, light entertainment, satirical programmes or advertising"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "the use of the footage"
+},
+"sentence": " Venugopal said the use of the footage should be restricted for the purpose of news, current affairs and educational purposes and should not be used for commercial, promotion, light entertainment, satirical programmes or advertising.",
+"object": {
+"text": "restricted for the purpose of news"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "future"
+},
+"text": "be",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "the use of the footage"
+},
+"sentence": " Venugopal said the use of the footage should be restricted for the purpose of news, current affairs and educational purposes and should not be used for commercial, promotion, light entertainment, satirical programmes or advertising.",
+"object": {
+"text": "for commercial, promotion, light entertainment, satirical programmes or advertising"
+},
+"action": {
+"verb": {
+"text": "use",
+"tense": "future",
+"negated": true
+},
+"text": "used",
+"normalized": "use"
+}
+},
+{
+"subject": {
+"text": "streaming or the webcast of the proceedings"
+},
+"sentence": " \"Without prior written authorisation of the Supreme Court of India, live streaming or the webcast of the proceedings from the Supreme Court should not be reproduced, transmitted, uploaded, posted, modified, published or re-published to the public.",
+"action": {
+"verb": {
+"text": "live",
+"tense": "present"
+},
+"text": "live",
+"normalized": "live"
+}
+},
+{
+"subject": {
+"text": "The law of contempt"
+},
+"sentence": " The law of contempt should apply to such proceedings.",
+"object": {
+"text": "to such proceedings"
+},
+"action": {
+"verb": {
+"text": "apply",
+"tense": "future"
+},
+"text": "should apply",
+"normalized": "should apply"
+}
+},
+{
+"subject": {
+"text": "Prohibitions, fines and penalties"
+},
+"sentence": " Prohibitions, fines and penalties may be provided for,\" the AG said.",
+"object": {
+"text": "provided"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "future"
+},
+"text": "be",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "the AG"
+},
+"sentence": " Prohibitions, fines and penalties may be provided for,\" the AG said.",
+"object": {
+"text": "Prohibitions, fines and penalties may be provided for"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "Venugopal"
+},
+"sentence": " Venugopal also suggested that the courts may lay down rules of coverage to provide for the manner in which the filming may be done and the equipment that will be allowed in the court.",
+"object": {
+"text": "that the courts may lay down rules of coverage to provide for the manner in which the filming may be done and the equipment that will be allowed in the court"
+},
+"action": {
+"verb": {
+"text": "suggest",
+"tense": "past"
+},
+"text": "suggested",
+"normalized": "suggest"
+}
+},
+{
+"subject": {
+"text": "the courts"
+},
+"sentence": " Venugopal also suggested that the courts may lay down rules of coverage to provide for the manner in which the filming may be done and the equipment that will be allowed in the court.",
+"object": {
+"text": "rules of coverage to provide for the manner in which the filming may be done and the equipment that will be allowed in the court"
+},
+"action": {
+"verb": {
+"text": "lie",
+"tense": "future"
+},
+"text": "may lay",
+"normalized": "may lie"
+}
+},
+{
+"subject": {
+"text": "the equipment"
+},
+"sentence": " Venugopal also suggested that the courts may lay down rules of coverage to provide for the manner in which the filming may be done and the equipment that will be allowed in the court.",
+"action": {
+"verb": {
+"text": "allow",
+"tense": "future"
+},
+"text": "will be allowed",
+"normalized": "will be allow"
+}
+},
+{
+"subject": {
+"text": "Case management techniques"
+},
+"sentence": " \"Case management techniques should be introduced to ensure that matters are decided in a speedy manner and lawyers abide by time limits fixed prior to the hearing.",
+"object": {
+"text": "introduced"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "future"
+},
+"text": "be",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "time limits"
+},
+"sentence": " \"Case management techniques should be introduced to ensure that matters are decided in a speedy manner and lawyers abide by time limits fixed prior to the hearing.",
+"action": {
+"verb": {
+"text": "fix",
+"tense": "past"
+},
+"text": "fixed",
+"normalized": "fix"
+}
+},
+{
+"subject": {
+"text": "A skeleton of arguments/written submissions"
+},
+"sentence": " A skeleton of arguments/written submissions should be prepared and submitted to the Court by the lawyers prior to their arguments,\" he said.",
+"object": {
+"text": "prepared and submitted to the Court by the lawyers"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "future"
+},
+"text": "be",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "by the lawyers"
+},
+"sentence": " A skeleton of arguments/written submissions should be prepared and submitted to the Court by the lawyers prior to their arguments,\" he said.",
+"object": {
+"text": "A skeleton of arguments/written submissions"
+},
+"action": {
+"verb": {
+"text": "prepare",
+"tense": "future"
+},
+"text": "should be prepared and submitted",
+"normalized": "should be prepare and submit"
+}
+}
+],
+"relations": [
+{
+"type": "locatedAt",
+"sentence": "New Delhi: The government on Friday suggested to the Supreme Court that live streaming of proceedings could be introduced as a pilot project for matters of constitutional significance but not on issues which could arouse passion, affect national security or concerned matrimonial disputes or juveniles.",
+"score": 0.344891,
+"arguments": [
+{
+"text": "government",
+"location": [
+15,
+25
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "government",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+},
+{
+"text": "Delhi",
+"location": [
+4,
+9
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Delhi"
+}
+]
+}
+]
+},
+{
+"type": "partOfMany",
+"sentence": "\"To ensure that all persons including litigants, journalists, interns, visitors and lawyers are able to view the live streaming of the proceedings, a media room should be designated in the premises of the court with necessary infrastructural facilities.",
+"score": 0.548538,
+"arguments": [
+{
+"text": "persons",
+"location": [
+1071,
+1078
+],
+"entities": [
+{
+"type": "Person",
+"text": "persons"
+}
+]
+},
+{
+"text": "lawyers",
+"location": [
+1135,
+1142
+],
+"entities": [
+{
+"type": "Person",
+"text": "lawyers"
+}
+]
+}
+]
+},
+{
+"type": "ownerOf",
+"sentence": "\"To ensure that all persons including litigants, journalists, interns, visitors and lawyers are able to view the live streaming of the proceedings, a media room should be designated in the premises of the court with necessary infrastructural facilities.",
+"score": 0.730474,
+"arguments": [
+{
+"text": "media",
+"location": [
+1201,
+1206
+],
+"entities": [
+{
+"type": "Organization",
+"text": "media",
+"disambiguation": {
+"subtype": [
+"Commercial"
+]
+}
+}
+]
+},
+{
+"text": "room",
+"location": [
+1207,
+1211
+],
+"entities": [
+{
+"type": "Facility",
+"text": "room"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Provisions may also be made available for the benefit of differently-abled persons,\" Venugopal said.",
+"score": 0.99828,
+"arguments": [
+{
+"text": "Venugopal",
+"location": [
+1441,
+1450
+],
+"entities": [
+{
+"type": "Person",
+"text": "KK Venugopal"
+}
+]
+},
+{
+"text": "said",
+"location": [
+1451,
+1455
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Venugopal said the use of the footage should be restricted for the purpose of news, current affairs and educational purposes and should not be used for commercial, promotion, light entertainment, satirical programmes or advertising.",
+"score": 0.995893,
+"arguments": [
+{
+"text": "Venugopal",
+"location": [
+2448,
+2457
+],
+"entities": [
+{
+"type": "Person",
+"text": "KK Venugopal"
+}
+]
+},
+{
+"text": "said",
+"location": [
+2458,
+2462
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "AFP He also said that the court must have the power to limit, temporarily suspend or disallow filming or broadcasting, if it feels that such measures are likely to interfere with the rights of the parties to a fair trial.",
+"score": 0.364931,
+"arguments": [
+{
+"text": "He",
+"location": [
+1499,
+1501
+],
+"entities": [
+{
+"type": "Person",
+"text": "He"
+}
+]
+},
+{
+"text": "AFP",
+"location": [
+1495,
+1498
+],
+"entities": [
+{
+"type": "Organization",
+"text": "AFP",
+"disambiguation": {
+"subtype": [
+"Commercial"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "AFP He also said that the court must have the power to limit, temporarily suspend or disallow filming or broadcasting, if it feels that such measures are likely to interfere with the rights of the parties to a fair trial.",
+"score": 0.807648,
+"arguments": [
+{
+"text": "He",
+"location": [
+1499,
+1501
+],
+"entities": [
+{
+"type": "Person",
+"text": "He"
+}
+]
+},
+{
+"text": "said",
+"location": [
+1507,
+1511
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "He said such webcasts will also allow students of law to supplement their academic knowledge and gain practical insights into cases of national importance.",
+"score": 0.979695,
+"arguments": [
+{
+"text": "He",
+"location": [
+2292,
+2294
+],
+"entities": [
+{
+"type": "Person",
+"text": "He"
+}
+]
+},
+{
+"text": "said",
+"location": [
+2295,
+2299
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "The top law officer said that broadcasting must not be permitted in the cases involving matrimonial disputes, matters involving interests of juveniles, issues pertaining to national security or which may provoke sentiments and arouse passion and provoke enmity among communities.",
+"score": 0.969601,
+"arguments": [
+{
+"text": "officer",
+"location": [
+1729,
+1736
+],
+"entities": [
+{
+"type": "Person",
+"text": "officer"
+}
+]
+},
+{
+"text": "said",
+"location": [
+1737,
+1741
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "He suggested that besides live streaming, the top court may also provide for transcribing facilities and archive the audio-visual record of the proceedings to make the webcast accessible to litigants and other interested persons who are unable to witness the hearings on account of constraints.",
+"score": 0.970077,
+"arguments": [
+{
+"text": "He",
+"location": [
+1997,
+1999
+],
+"entities": [
+{
+"type": "Person",
+"text": "He"
+}
+]
+},
+{
+"text": "suggested",
+"location": [
+2000,
+2009
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "suggested"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Venugopal also suggested that the courts may lay down rules of coverage to provide for the manner in which the filming may be done and the equipment that will be allowed in the court.",
+"score": 0.930232,
+"arguments": [
+{
+"text": "Venugopal",
+"location": [
+3271,
+3280
+],
+"entities": [
+{
+"type": "Person",
+"text": "KK Venugopal"
+}
+]
+},
+{
+"text": "suggested",
+"location": [
+3286,
+3295
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "suggested"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "\"Case management techniques should be introduced to ensure that matters are decided in a speedy manner and lawyers abide by time limits fixed prior to the hearing.",
+"score": 0.499974,
+"arguments": [
+{
+"text": "lawyers",
+"location": [
+3562,
+3569
+],
+"entities": [
+{
+"type": "Person",
+"text": "lawyers"
+}
+]
+},
+{
+"text": "hearing",
+"location": [
+3610,
+3617
+],
+"entities": [
+{
+"type": "EventLegal",
+"text": "hearing"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "A skeleton of arguments/written submissions should be prepared and submitted to the Court by the lawyers prior to their arguments,\" he said.",
+"score": 0.983906,
+"arguments": [
+{
+"text": "he",
+"location": [
+3751,
+3753
+],
+"entities": [
+{
+"type": "Person",
+"text": "he"
+}
+]
+},
+{
+"text": "said",
+"location": [
+3754,
+3758
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "suggested"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "New Delhi: The government on Friday suggested to the Supreme Court that live streaming of proceedings could be introduced as a pilot project for matters of constitutional significance but not on issues which could arouse passion, affect national security or concerned matrimonial disputes or juveniles.",
+"score": 0.549924,
+"arguments": [
+{
+"text": "government",
+"location": [
+15,
+25
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "government",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+},
+{
+"text": "suggested",
+"location": [
+36,
+45
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "suggested"
+}
+]
+}
+]
+},
+{
+"type": "timeOf",
+"sentence": "New Delhi: The government on Friday suggested to the Supreme Court that live streaming of proceedings could be introduced as a pilot project for matters of constitutional significance but not on issues which could arouse passion, affect national security or concerned matrimonial disputes or juveniles.",
+"score": 0.869473,
+"arguments": [
+{
+"text": "Friday",
+"location": [
+29,
+35
+],
+"entities": [
+{
+"type": "Date",
+"text": "Friday"
+}
+]
+},
+{
+"text": "suggested",
+"location": [
+36,
+45
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "suggested"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Attorney General KK Venugopal said the success of the pilot project will determine whether live streaming should be introduced in other courts in the apex court and in courts across the country.",
+"score": 0.994905,
+"arguments": [
+{
+"text": "KK Venugopal",
+"location": [
+320,
+332
+],
+"entities": [
+{
+"type": "Person",
+"text": "KK Venugopal"
+}
+]
+},
+{
+"text": "said",
+"location": [
+333,
+337
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "suggested"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "The attorney general said that live streaming should be delayed by 70 seconds to allow the judges to mute the sound when a lawyer misbehaves or if the matter is sensitive, like one which involves individual privacy or national security.",
+"score": 0.983009,
+"arguments": [
+{
+"text": "attorney general",
+"location": [
+502,
+518
+],
+"entities": [
+{
+"type": "Person",
+"text": "KK Venugopal"
+}
+]
+},
+{
+"text": "said",
+"location": [
+519,
+523
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "suggested"
+}
+]
+}
+]
+},
+{
+"type": "basedIn",
+"sentence": "Attorney General KK Venugopal said the success of the pilot project will determine whether live streaming should be introduced in other courts in the apex court and in courts across the country.",
+"score": 0.544099,
+"arguments": [
+{
+"text": "courts",
+"location": [
+471,
+477
+],
+"entities": [
+{
+"type": "Organization",
+"text": "courts"
+}
+]
+},
+{
+"text": "country",
+"location": [
+489,
+496
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "country",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "\"Live streaming of court proceedings should be introduced as a pilot project in Court no 1 (of Chief Justice of India) and only in constitution bench references.",
+"score": 0.946307,
+"arguments": [
+{
+"text": "court",
+"location": [
+754,
+759
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Supreme Court of India",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+},
+{
+"text": "proceedings",
+"location": [
+760,
+771
+],
+"entities": [
+{
+"type": "EventLegal",
+"text": "proceedings"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "\"Without prior written authorisation of the Supreme Court of India, live streaming or the webcast of the proceedings from the Supreme Court should not be reproduced, transmitted, uploaded, posted, modified, published or re-published to the public.",
+"score": 0.629807,
+"arguments": [
+{
+"text": "Supreme Court",
+"location": [
+2807,
+2820
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Supreme Court of India",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+},
+{
+"text": "proceedings",
+"location": [
+2786,
+2797
+],
+"entities": [
+{
+"type": "EventLegal",
+"text": "proceedings"
+}
+]
+}
+]
+},
+{
+"type": "managerOf",
+"sentence": "\"Live streaming of court proceedings should be introduced as a pilot project in Court no 1 (of Chief Justice of India) and only in constitution bench references.",
+"score": 0.668741,
+"arguments": [
+{
+"text": "Chief Justice",
+"location": [
+830,
+843
+],
+"entities": [
+{
+"type": "Person",
+"text": "Chief Justice"
+}
+]
+},
+{
+"text": "India",
+"location": [
+847,
+852
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "India",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "partOfMany",
+"sentence": "\"To ensure that all persons including litigants, journalists, interns, visitors and lawyers are able to view the live streaming of the proceedings, a media room should be designated in the premises of the court with necessary infrastructural facilities.",
+"score": 0.458526,
+"arguments": [
+{
+"text": "litigants",
+"location": [
+1089,
+1098
+],
+"entities": [
+{
+"type": "Person",
+"text": "litigants"
+}
+]
+},
+{
+"text": "persons",
+"location": [
+1071,
+1078
+],
+"entities": [
+{
+"type": "Person",
+"text": "persons"
+}
+]
+}
+]
+},
+{
+"type": "partOfMany",
+"sentence": "\"To ensure that all persons including litigants, journalists, interns, visitors and lawyers are able to view the live streaming of the proceedings, a media room should be designated in the premises of the court with necessary infrastructural facilities.",
+"score": 0.478634,
+"arguments": [
+{
+"text": "visitors",
+"location": [
+1122,
+1130
+],
+"entities": [
+{
+"type": "Person",
+"text": "visitors"
+}
+]
+},
+{
+"text": "persons",
+"location": [
+1071,
+1078
+],
+"entities": [
+{
+"type": "Person",
+"text": "persons"
+}
+]
+}
+]
+}
+],
+"language": "en",
+"keywords": [
+{
+"text": "Supreme Court",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.994011,
+"emotion": {
+"sadness": 0.029155,
+"joy": 0.721311,
+"fear": 0.045428,
+"disgust": 0.05436,
+"anger": 0.085267
+}
+},
+{
+"text": "live streaming",
+"sentiment": {
+"score": -0.581468,
+"label": "negative"
+},
+"relevance": 0.986136,
+"emotion": {
+"sadness": 0.174906,
+"joy": 0.656399,
+"fear": 0.082096,
+"disgust": 0.079328,
+"anger": 0.104876
+}
+},
+{
+"text": "national security",
+"sentiment": {
+"score": -0.642905,
+"label": "negative"
+},
+"relevance": 0.831774,
+"emotion": {
+"sadness": 0.190424,
+"joy": 0.170141,
+"fear": 0.188495,
+"disgust": 0.079503,
+"anger": 0.554463
+}
+},
+{
+"text": "pilot project",
+"sentiment": {
+"score": -0.618214,
+"label": "negative"
+},
+"relevance": 0.796664,
+"emotion": {
+"sadness": 0.041804,
+"joy": 0.795725,
+"fear": 0.049603,
+"disgust": 0.036536,
+"anger": 0.062475
+}
+},
+{
+"text": "attorney general",
+"sentiment": {
+"score": -0.581468,
+"label": "negative"
+},
+"relevance": 0.672921,
+"emotion": {
+"sadness": 0.106422,
+"joy": 0.706178,
+"fear": 0.034086,
+"disgust": 0.058758,
+"anger": 0.118845
+}
+}
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Supreme Court",
+"sentiment": {
+"score": -0.308105,
+"label": "negative"
+},
+"relevance": 0.93036,
+"emotion": {
+"sadness": 0.13634,
+"joy": 0.600383,
+"fear": 0.118172,
+"disgust": 0.124232,
+"anger": 0.475212
+},
+"count": 12
+},
+{
+"type": "Organization",
+"text": "Supreme Court of India",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.485008,
+"emotion": {
+"sadness": 0.15654,
+"joy": 0.195867,
+"fear": 0.104541,
+"disgust": 0.179365,
+"anger": 0.16442
+},
+"disambiguation": {
+"subtype": [
+"Location"
+],
+"name": "Supreme Court of India",
+"dbpedia_resource": "http://dbpedia.org/resource/Supreme_Court_of_India"
+},
+"count": 2
+},
+{
+"type": "Person",
+"text": "General KK Venugopal",
+"sentiment": {
+"score": -0.551551,
+"label": "negative"
+},
+"relevance": 0.375198,
+"emotion": {
+"sadness": 0.058361,
+"joy": 0.727924,
+"fear": 0.074502,
+"disgust": 0.063201,
+"anger": 0.072808
+},
+"count": 5
+},
+{
+"type": "JobTitle",
+"text": "Attorney",
+"sentiment": {
+"score": -0.581468,
+"label": "negative"
+},
+"relevance": 0.226015,
+"emotion": {
+"sadness": 0.106422,
+"joy": 0.706178,
+"fear": 0.034086,
+"disgust": 0.058758,
+"anger": 0.118845
+},
+"count": 2
+},
+{
+"type": "Location",
+"text": "New Delhi",
+"sentiment": {
+"score": 0.329328,
+"label": "positive"
+},
+"relevance": 0.218202,
+"emotion": {
+"sadness": 0.107127,
+"joy": 0.600923,
+"fear": 0.078485,
+"disgust": 0.034087,
+"anger": 0.040469
+},
+"disambiguation": {
+"subtype": [
+"AdministrativeDivision",
+"City"
+],
+"name": "New Delhi",
+"dbpedia_resource": "http://dbpedia.org/resource/New_Delhi"
+},
+"count": 1
+}
+],
+"concepts": [
+{
+"text": "Lawyer",
+"relevance": 0.981103,
+"dbpedia_resource": "http://dbpedia.org/resource/Lawyer"
+},
+{
+"text": "Supreme Court of the United States",
+"relevance": 0.967495,
+"dbpedia_resource": "http://dbpedia.org/resource/Supreme_Court_of_the_United_States"
+},
+{
+"text": "Court",
+"relevance": 0.933888,
+"dbpedia_resource": "http://dbpedia.org/resource/Court"
+},
+{
+"text": "Jury",
+"relevance": 0.93043,
+"dbpedia_resource": "http://dbpedia.org/resource/Jury"
+},
+{
+"text": "Judge",
+"relevance": 0.894316,
+"dbpedia_resource": "http://dbpedia.org/resource/Judge"
+}
+],
+"categories": [
+{
+"score": 0.489711,
+"label": "/law, govt and politics"
+},
+{
+"score": 0.353906,
+"label": "/law, govt and politics/legal issues/human rights"
+},
+{
+"score": 0.220638,
+"label": "/law, govt and politics/legal issues/civil law/copyright"
+}
+]
+}
+}

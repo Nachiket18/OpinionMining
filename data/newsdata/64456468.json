@@ -1,0 +1,468 @@
+{
+"source_article_link": "https://timesofindia.indiatimes.com/india/use-artificial-intelligence-in-education-health-niti-aayog-paper/articleshow/64456468.cms?&utm_source=Articleshow&utm_medium=Organic&utm_campaign=Related_Stories",
+"title": "Use artificial intelligence in education, health: Niti Aayog paper",
+"date_published": "2018-06-05T03:51:13+05:30",
+"source_type": "news_article",
+"source_name": "timesofindia.indiatimes.com",
+"image_link": [
+"https://timesofindia.indiatimes.com/thumb/msid-64456465,imgsize-65543,width-400,resizemode-4/64456465.jpg"
+],
+"article_body": "NEW DELHI: ( ) should be leveraged to provide quality solutions at scale across , , agriculture, infrastructure and mobility in smart cities, said CEO . A paper titled \u2018National Strategy for Artificial Intelligence\u2019, said, \u201cAI for All will aim at enhancing and empowering human capabilities to address the challenges of access, affordability, shortage and inconsistency of skilled expertise.\u201d AI refers to the ability of machines to perform cognitive tasks like thinking, perceiving, learning, problem solving and decision making. In the paper, Niti Aayog has decided to focus on five sectors that includes healthcare, agriculture, education, infrastructure and transportation that can benefit from adoption of AI in solving societal needs. Aiming to truly reap benefits of using AI in all and across sectors, the paper has identified barriers that need to be addressed to achieve success in the use of AI. The barriers include lack of expertise in research and application of AI, absence of enabling data ecosystem, high resource cost and low awareness, privacy and security issues and absence of collaborative approach to adoption and application of AI.",
+"description": "NEW DELHI: ( ) should be leveraged to provide quality solutions at scale across , , agriculture, infrastructure and mobility in smart cities, said",
+"time_scraped": "2018-08-22 09:04:59.638694",
+"article_id": "64456468",
+"article_category": "IndiaNews",
+"image_details": [
+{
+"url": "https://timesofindia.indiatimes.com/thumb/msid-64456465,imgsize-65543,width-400,resizemode-4/64456465.jpg",
+"path": "full/eacfd6c8bf9b8553b7fb217ec25082f14e19392f.jpg",
+"checksum": "af4e7a69091406ce97b0890778656914"
+}
+],
+"ibm_nlu": {
+"usage": {
+"text_units": 1,
+"text_characters": 1155,
+"features": 7
+},
+"sentiment": {
+"document": {
+"score": 0.417977,
+"label": "positive"
+}
+},
+"semantic_roles": [
+{
+"subject": {
+"text": "CEO"
+},
+"sentence": "NEW DELHI: ( ) should be leveraged to provide quality solutions at scale across , , agriculture, infrastructure and mobility in smart cities, said CEO .",
+"object": {
+"text": "NEW DELHI: ( ) should be leveraged to provide quality solutions at scale across , , agriculture, infrastructure and mobility in smart cities"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "inconsistency of skilled expertise.\u201d AI"
+},
+"sentence": " A paper titled \u2018National Strategy for Artificial Intelligence\u2019, said, \u201cAI for All will aim at enhancing and empowering human capabilities to address the challenges of access, affordability, shortage and inconsistency of skilled expertise.\u201d AI refers to the ability of machines to perform cognitive tasks like thinking, perceiving, learning, problem solving and decision making.",
+"object": {
+"text": "to the ability of machines to perform cognitive tasks like thinking, perceiving, learning, problem solving and decision making"
+},
+"action": {
+"verb": {
+"text": "refer",
+"tense": "present"
+},
+"text": "refers",
+"normalized": "refer"
+}
+},
+{
+"subject": {
+"text": "Niti Aayog"
+},
+"sentence": " In the paper, Niti Aayog has decided to focus on five sectors that includes healthcare, agriculture, education, infrastructure and transportation that can benefit from adoption of AI in solving societal needs.",
+"action": {
+"verb": {
+"text": "have",
+"tense": "present"
+},
+"text": "has decided to focus",
+"normalized": "have decide to focus"
+}
+},
+{
+"subject": {
+"text": "Niti Aayog"
+},
+"sentence": " In the paper, Niti Aayog has decided to focus on five sectors that includes healthcare, agriculture, education, infrastructure and transportation that can benefit from adoption of AI in solving societal needs.",
+"object": {
+"text": "to focus on five sectors that includes healthcare, agriculture, education, infrastructure and transportation that can benefit from adoption of AI in solving societal needs"
+},
+"action": {
+"verb": {
+"text": "decide",
+"tense": "past"
+},
+"text": "decided",
+"normalized": "decide"
+}
+},
+{
+"subject": {
+"text": "healthcare, agriculture, education, infrastructure"
+},
+"sentence": " In the paper, Niti Aayog has decided to focus on five sectors that includes healthcare, agriculture, education, infrastructure and transportation that can benefit from adoption of AI in solving societal needs.",
+"object": {
+"text": "five sectors"
+},
+"action": {
+"verb": {
+"text": "include",
+"tense": "present"
+},
+"text": "includes",
+"normalized": "include"
+}
+},
+{
+"subject": {
+"text": "AI"
+},
+"sentence": " Aiming to truly reap benefits of using AI in all and across sectors, the paper has identified barriers that need to be addressed to achieve success in the use of AI.",
+"action": {
+"verb": {
+"text": "use",
+"tense": "future"
+},
+"text": "using",
+"normalized": "use"
+}
+},
+{
+"subject": {
+"text": "the paper"
+},
+"sentence": " Aiming to truly reap benefits of using AI in all and across sectors, the paper has identified barriers that need to be addressed to achieve success in the use of AI.",
+"object": {
+"text": "identified barriers that need to be addressed to achieve success"
+},
+"action": {
+"verb": {
+"text": "have",
+"tense": "present"
+},
+"text": "has",
+"normalized": "have"
+}
+},
+{
+"subject": {
+"text": "the paper"
+},
+"sentence": " Aiming to truly reap benefits of using AI in all and across sectors, the paper has identified barriers that need to be addressed to achieve success in the use of AI.",
+"object": {
+"text": "barriers that need to be addressed to achieve success in the use of AI"
+},
+"action": {
+"verb": {
+"text": "identify",
+"tense": "past"
+},
+"text": "has identified",
+"normalized": "have identify"
+}
+},
+{
+"subject": {
+"text": "barriers"
+},
+"sentence": " Aiming to truly reap benefits of using AI in all and across sectors, the paper has identified barriers that need to be addressed to achieve success in the use of AI.",
+"object": {
+"text": "to achieve success"
+},
+"action": {
+"verb": {
+"text": "address",
+"tense": "past"
+},
+"text": "need to be addressed",
+"normalized": "need to be address"
+}
+},
+{
+"subject": {
+"text": "lack of expertise in research and application of AI, absence of enabling data ecosystem, high resource cost and low awareness, privacy and security issues and absence of collaborative approach to adoption and application of AI"
+},
+"sentence": " The barriers include lack of expertise in research and application of AI, absence of enabling data ecosystem, high resource cost and low awareness, privacy and security issues and absence of collaborative approach to adoption and application of AI.",
+"object": {
+"text": "The barriers"
+},
+"action": {
+"verb": {
+"text": "include",
+"tense": "present"
+},
+"text": "include",
+"normalized": "include"
+}
+}
+],
+"relations": [
+{
+"type": "agentOf",
+"sentence": "NEW DELHI: ( ) should be leveraged to provide quality solutions at scale across , , agriculture, infrastructure and mobility in smart cities, said CEO .",
+"score": 0.941533,
+"arguments": [
+{
+"text": "CEO",
+"location": [
+147,
+150
+],
+"entities": [
+{
+"type": "Person",
+"text": "CEO"
+}
+]
+},
+{
+"text": "said",
+"location": [
+142,
+146
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "addressed"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Aiming to truly reap benefits of using AI in all and across sectors, the paper has identified barriers that need to be addressed to achieve success in the use of AI.",
+"score": 0.654397,
+"arguments": [
+{
+"text": "paper",
+"location": [
+814,
+819
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Niti Aayog",
+"disambiguation": {
+"subtype": [
+"Commercial"
+]
+}
+}
+]
+},
+{
+"text": "addressed",
+"location": [
+860,
+869
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "addressed"
+}
+]
+}
+]
+}
+],
+"language": "en",
+"keywords": [
+{
+"text": "AI",
+"sentiment": {
+"score": 0.0333257,
+"label": "positive"
+},
+"relevance": 0.908261,
+"emotion": {
+"sadness": 0.08695,
+"joy": 0.557456,
+"fear": 0.068471,
+"disgust": 0.075387,
+"anger": 0.085452
+}
+},
+{
+"text": "high resource cost",
+"sentiment": {
+"score": -0.470882,
+"label": "negative"
+},
+"relevance": 0.768854,
+"emotion": {
+"sadness": 0.32805,
+"joy": 0.065018,
+"fear": 0.129568,
+"disgust": 0.131234,
+"anger": 0.042823
+}
+},
+{
+"text": "NEW DELHI",
+"sentiment": {
+"score": 0.504589,
+"label": "positive"
+},
+"relevance": 0.586062,
+"emotion": {
+"sadness": 0.115132,
+"joy": 0.596039,
+"fear": 0.084006,
+"disgust": 0.034674,
+"anger": 0.046922
+}
+},
+{
+"text": "quality solutions",
+"sentiment": {
+"score": 0.586942,
+"label": "positive"
+},
+"relevance": 0.573624,
+"emotion": {
+"sadness": 0.106138,
+"joy": 0.529234,
+"fear": 0.073616,
+"disgust": 0.018248,
+"anger": 0.027782
+}
+},
+{
+"text": "Niti Aayog",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.572216,
+"emotion": {
+"sadness": 0.177915,
+"joy": 0.188259,
+"fear": 0.051609,
+"disgust": 0.018848,
+"anger": 0.056087
+}
+}
+],
+"entities": [
+{
+"type": "Organization",
+"text": "AI",
+"sentiment": {
+"score": 0.0166629,
+"label": "positive"
+},
+"relevance": 0.929198,
+"emotion": {
+"sadness": 0.087851,
+"joy": 0.555004,
+"fear": 0.06952,
+"disgust": 0.077703,
+"anger": 0.087887
+},
+"count": 7
+},
+{
+"type": "Person",
+"text": "Niti Aayog",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.294382,
+"emotion": {
+"sadness": 0.177915,
+"joy": 0.188259,
+"fear": 0.051609,
+"disgust": 0.018848,
+"anger": 0.056087
+},
+"count": 1
+},
+{
+"type": "Location",
+"text": "DELHI",
+"sentiment": {
+"score": 0.504589,
+"label": "positive"
+},
+"relevance": 0.285731,
+"emotion": {
+"sadness": 0.115132,
+"joy": 0.596039,
+"fear": 0.084006,
+"disgust": 0.034674,
+"anger": 0.046922
+},
+"disambiguation": {
+"subtype": [
+"Country"
+]
+},
+"count": 1
+},
+{
+"type": "JobTitle",
+"text": "CEO",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.276911,
+"emotion": {
+"sadness": 0.345268,
+"joy": 0.167633,
+"fear": 0.13682,
+"disgust": 0.121419,
+"anger": 0.132485
+},
+"count": 1
+}
+],
+"concepts": [
+{
+"text": "Psychology",
+"relevance": 0.974428,
+"dbpedia_resource": "http://dbpedia.org/resource/Psychology"
+},
+{
+"text": "Mind",
+"relevance": 0.761914,
+"dbpedia_resource": "http://dbpedia.org/resource/Mind"
+},
+{
+"text": "Cognition",
+"relevance": 0.71829,
+"dbpedia_resource": "http://dbpedia.org/resource/Cognition"
+},
+{
+"text": "Herbert Simon",
+"relevance": 0.718187,
+"dbpedia_resource": "http://dbpedia.org/resource/Herbert_Simon"
+},
+{
+"text": "Problem solving",
+"relevance": 0.630651,
+"dbpedia_resource": "http://dbpedia.org/resource/Problem_solving"
+}
+],
+"categories": [
+{
+"score": 0.421117,
+"label": "/business and industrial/company/earnings"
+},
+{
+"score": 0.202868,
+"label": "/business and industrial"
+},
+{
+"score": 0.183539,
+"label": "/technology and computing"
+}
+]
+}
+}

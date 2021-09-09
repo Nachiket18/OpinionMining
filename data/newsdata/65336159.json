@@ -1,0 +1,803 @@
+{
+"source_article_link": "https://timesofindia.indiatimes.com/india/arun-jaitley-is-in-good-health-piyush-goyal/articleshow/65336159.cms?&utm_source=Articleshow&utm_medium=Organic&utm_campaign=Related_Stories",
+"title": "Arun Jaitley is in good health: Piyush Goyal",
+"date_published": "2018-08-09T14:06:39+05:30",
+"source_type": "news_article",
+"source_name": "timesofindia.indiatimes.com",
+"image_link": [
+"https://timesofindia.indiatimes.com/thumb/msid-65336160,imgsize-91533,width-400,resizemode-4/65336160.jpg"
+],
+"article_body": "NEW DELHI: Union Minister is in \"good health\" and will soon be resuming his duties, Finance Minister said on Thursday. Goyal has been given the charge of finance ministry after Jaitley relinquished the portfolio due to health reasons. Speaking in the while moving two resolutions related to his ministry, Goyal said \"I want to inform the House that Arunji is in good health and soon he shall be with us.\" Jaitley, who is Leader of the , today made his maiden appearance during the current session. He also participated in the election for the Rajya Sabha Deputy Chairman and spoke briefly. PTI JTR KR ARC ARC",
+"description": "NEW DELHI: Union Minister is in \"good health\" and will soon be resuming his duties, Finance Minister said on Thursday. Goyal has been given the charge of finance ministry after Jaitley relinquished the portfolio due to health reasons. Speaking in the",
+"time_scraped": "2018-08-23 12:01:04.688427",
+"article_id": "65336159",
+"article_category": "IndiaNews",
+"image_details": [
+{
+"url": "https://timesofindia.indiatimes.com/thumb/msid-65336160,imgsize-91533,width-400,resizemode-4/65336160.jpg",
+"path": "full/cde573020c39676a7e8ef7aab91c7f9d21b7d51b.jpg",
+"checksum": "9045bbce234561cae9b55b22f634174c"
+}
+],
+"ibm_nlu": {
+"usage": {
+"text_units": 1,
+"text_characters": 608,
+"features": 7
+},
+"sentiment": {
+"document": {
+"score": 0.807501,
+"label": "positive"
+}
+},
+"semantic_roles": [
+{
+"subject": {
+"text": "Union Minister"
+},
+"sentence": "NEW DELHI: Union Minister is in \"good health\" and will soon be resuming his duties, Finance Minister said on Thursday.",
+"object": {
+"text": "in \"good health"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "present"
+},
+"text": "is",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "Union Minister"
+},
+"sentence": "NEW DELHI: Union Minister is in \"good health\" and will soon be resuming his duties, Finance Minister said on Thursday.",
+"object": {
+"text": "his duties"
+},
+"action": {
+"verb": {
+"text": "resume",
+"tense": "future"
+},
+"text": "resuming",
+"normalized": "resume"
+}
+},
+{
+"subject": {
+"text": "Finance Minister"
+},
+"sentence": "NEW DELHI: Union Minister is in \"good health\" and will soon be resuming his duties, Finance Minister said on Thursday.",
+"object": {
+"text": "Union Minister is in \"good health\" and will soon be resuming his duties"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "Goyal"
+},
+"sentence": " Goyal has been given the charge of finance ministry after Jaitley relinquished the portfolio due to health reasons.",
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "has been given",
+"normalized": "have be give"
+}
+},
+{
+"subject": {
+"text": "Goyal"
+},
+"sentence": " Goyal has been given the charge of finance ministry after Jaitley relinquished the portfolio due to health reasons.",
+"object": {
+"text": "the charge of finance ministry"
+},
+"action": {
+"verb": {
+"text": "give",
+"tense": "past"
+},
+"text": "has been given",
+"normalized": "have be give"
+}
+},
+{
+"subject": {
+"text": "Jaitley"
+},
+"sentence": " Goyal has been given the charge of finance ministry after Jaitley relinquished the portfolio due to health reasons.",
+"object": {
+"text": "the portfolio"
+},
+"action": {
+"verb": {
+"text": "relinquish",
+"tense": "past"
+},
+"text": "relinquished",
+"normalized": "relinquish"
+}
+},
+{
+"subject": {
+"text": "two resolutions"
+},
+"sentence": " Speaking in the while moving two resolutions related to his ministry, Goyal said \"I want to inform the House that Arunji is in good health and soon he shall be with us.\"",
+"object": {
+"text": "to his ministry"
+},
+"action": {
+"verb": {
+"text": "relate",
+"tense": "past"
+},
+"text": "related",
+"normalized": "relate"
+}
+},
+{
+"subject": {
+"text": "Goyal"
+},
+"sentence": " Speaking in the while moving two resolutions related to his ministry, Goyal said \"I want to inform the House that Arunji is in good health and soon he shall be with us.\"",
+"object": {
+"text": "I want to inform the House that Arunji is in good health and soon he shall be with us"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "Jaitley"
+},
+"sentence": " Jaitley, who is Leader of the , today made his maiden appearance during the current session.",
+"object": {
+"text": "Leader of the"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "present"
+},
+"text": "is",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "Jaitley, who is Leader of the ,"
+},
+"sentence": " Jaitley, who is Leader of the , today made his maiden appearance during the current session.",
+"object": {
+"text": "his maiden appearance"
+},
+"action": {
+"verb": {
+"text": "make",
+"tense": "past"
+},
+"text": "made",
+"normalized": "make"
+}
+},
+{
+"subject": {
+"text": "He"
+},
+"sentence": " He also participated in the election for the Rajya Sabha Deputy Chairman and spoke briefly.",
+"object": {
+"text": "in the election for the Rajya Sabha Deputy Chairman"
+},
+"action": {
+"verb": {
+"text": "participate",
+"tense": "past"
+},
+"text": "participated",
+"normalized": "participate"
+}
+},
+{
+"subject": {
+"text": "He"
+},
+"sentence": " He also participated in the election for the Rajya Sabha Deputy Chairman and spoke briefly.",
+"action": {
+"verb": {
+"text": "speak",
+"tense": "past"
+},
+"text": "spoke",
+"normalized": "speak"
+}
+},
+{
+"subject": {
+"text": "PTI"
+},
+"sentence": " PTI JTR KR ARC ARC",
+"object": {
+"text": "KR ARC ARC"
+},
+"action": {
+"verb": {
+"text": "JTR",
+"tense": "present"
+},
+"text": "JTR",
+"normalized": "JTR"
+}
+}
+],
+"relations": [
+{
+"type": "employedBy",
+"sentence": "NEW DELHI: Union Minister is in \"good health\" and will soon be resuming his duties, Finance Minister said on Thursday.",
+"score": 0.855831,
+"arguments": [
+{
+"text": "Minister",
+"location": [
+17,
+25
+],
+"entities": [
+{
+"type": "Person",
+"text": "Minister"
+}
+]
+},
+{
+"text": "Union",
+"location": [
+11,
+16
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Union",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "NEW DELHI: Union Minister is in \"good health\" and will soon be resuming his duties, Finance Minister said on Thursday.",
+"score": 0.981443,
+"arguments": [
+{
+"text": "Finance Minister",
+"location": [
+84,
+100
+],
+"entities": [
+{
+"type": "Person",
+"text": "Goyal"
+}
+]
+},
+{
+"text": "said",
+"location": [
+101,
+105
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "spoke"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Speaking in the while moving two resolutions related to his ministry, Goyal said \"I want to inform the House that Arunji is in good health and soon he shall be with us.",
+"score": 0.996228,
+"arguments": [
+{
+"text": "Goyal",
+"location": [
+305,
+310
+],
+"entities": [
+{
+"type": "Person",
+"text": "Goyal"
+}
+]
+},
+{
+"text": "said",
+"location": [
+311,
+315
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "spoke"
+}
+]
+}
+]
+},
+{
+"type": "timeOf",
+"sentence": "NEW DELHI: Union Minister is in \"good health\" and will soon be resuming his duties, Finance Minister said on Thursday.",
+"score": 0.985448,
+"arguments": [
+{
+"text": "Thursday",
+"location": [
+109,
+117
+],
+"entities": [
+{
+"type": "Date",
+"text": "Thursday"
+}
+]
+},
+{
+"text": "said",
+"location": [
+101,
+105
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "spoke"
+}
+]
+}
+]
+},
+{
+"type": "managerOf",
+"sentence": "Speaking in the while moving two resolutions related to his ministry, Goyal said \"I want to inform the House that Arunji is in good health and soon he shall be with us.",
+"score": 0.522657,
+"arguments": [
+{
+"text": "his",
+"location": [
+291,
+294
+],
+"entities": [
+{
+"type": "Person",
+"text": "Minister"
+}
+]
+},
+{
+"text": "ministry",
+"location": [
+295,
+303
+],
+"entities": [
+{
+"type": "Organization",
+"text": "ministry",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Speaking in the while moving two resolutions related to his ministry, Goyal said \"I want to inform the House that Arunji is in good health and soon he shall be with us.",
+"score": 0.664159,
+"arguments": [
+{
+"text": "I",
+"location": [
+317,
+318
+],
+"entities": [
+{
+"type": "Person",
+"text": "Goyal"
+}
+]
+},
+{
+"text": "inform",
+"location": [
+327,
+333
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "inform"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "Speaking in the while moving two resolutions related to his ministry, Goyal said \"I want to inform the House that Arunji is in good health and soon he shall be with us.",
+"score": 0.915786,
+"arguments": [
+{
+"text": "House",
+"location": [
+338,
+343
+],
+"entities": [
+{
+"type": "Organization",
+"text": "House",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+},
+{
+"text": "inform",
+"location": [
+327,
+333
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "inform"
+}
+]
+}
+]
+},
+{
+"type": "partOfMany",
+"sentence": "Speaking in the while moving two resolutions related to his ministry, Goyal said \"I want to inform the House that Arunji is in good health and soon he shall be with us.",
+"score": 0.93546,
+"arguments": [
+{
+"text": "Arunji",
+"location": [
+349,
+355
+],
+"entities": [
+{
+"type": "Person",
+"text": "Arunji"
+}
+]
+},
+{
+"text": "us",
+"location": [
+400,
+402
+],
+"entities": [
+{
+"type": "Person",
+"text": "us"
+}
+]
+}
+]
+},
+{
+"type": "partOfMany",
+"sentence": "Speaking in the while moving two resolutions related to his ministry, Goyal said \"I want to inform the House that Arunji is in good health and soon he shall be with us.",
+"score": 0.542581,
+"arguments": [
+{
+"text": "he",
+"location": [
+383,
+385
+],
+"entities": [
+{
+"type": "Person",
+"text": "Minister"
+}
+]
+},
+{
+"text": "us",
+"location": [
+400,
+402
+],
+"entities": [
+{
+"type": "Person",
+"text": "us"
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "He also participated in the election for the Rajya Sabha Deputy Chairman and spoke briefly.",
+"score": 0.540295,
+"arguments": [
+{
+"text": "Deputy Chairman",
+"location": [
+555,
+570
+],
+"entities": [
+{
+"type": "Person",
+"text": "Deputy Chairman"
+}
+]
+},
+{
+"text": "Rajya Sabha",
+"location": [
+543,
+554
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Rajya Sabha"
+}
+]
+}
+]
+}
+],
+"language": "en",
+"keywords": [
+{
+"text": "KR ARC ARC",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.943381,
+"emotion": {
+"sadness": 0.358046,
+"joy": 0.087168,
+"fear": 0.088952,
+"disgust": 0.072709,
+"anger": 0.102835
+}
+},
+{
+"text": "Rajya Sabha Deputy",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.924076,
+"emotion": {
+"sadness": 0.237218,
+"joy": 0.127017,
+"fear": 0.135302,
+"disgust": 0.101076,
+"anger": 0.184597
+}
+},
+{
+"text": "good health",
+"sentiment": {
+"score": 0.582752,
+"label": "positive"
+},
+"relevance": 0.844516,
+"emotion": {
+"sadness": 0.052676,
+"joy": 0.768989,
+"fear": 0.086489,
+"disgust": 0.005402,
+"anger": 0.023516
+}
+},
+{
+"text": "Union Minister",
+"sentiment": {
+"score": 0.653701,
+"label": "positive"
+},
+"relevance": 0.710957,
+"emotion": {
+"sadness": 0.47184,
+"joy": 0.139568,
+"fear": 0.072744,
+"disgust": 0.122715,
+"anger": 0.04494
+}
+},
+{
+"text": "NEW DELHI",
+"sentiment": {
+"score": 0.524362,
+"label": "positive"
+},
+"relevance": 0.696551,
+"emotion": {
+"sadness": 0.115132,
+"joy": 0.596039,
+"fear": 0.084006,
+"disgust": 0.034674,
+"anger": 0.046922
+}
+}
+],
+"entities": [
+{
+"type": "Organization",
+"text": "JTR KR ARC ARC",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.883674,
+"emotion": {
+"sadness": 0.358046,
+"joy": 0.087168,
+"fear": 0.088952,
+"disgust": 0.072709,
+"anger": 0.102835
+},
+"count": 1
+},
+{
+"type": "Person",
+"text": "Goyal",
+"sentiment": {
+"score": 0.509362,
+"label": "positive"
+},
+"relevance": 0.807375,
+"emotion": {
+"sadness": 0.160061,
+"joy": 0.59302,
+"fear": 0.120961,
+"disgust": 0.010355,
+"anger": 0.122947
+},
+"count": 3
+},
+{
+"type": "JobTitle",
+"text": "Finance Minister",
+"sentiment": {
+"score": 0.565273,
+"label": "positive"
+},
+"relevance": 0.572465,
+"emotion": {
+"sadness": 0.450267,
+"joy": 0.28232,
+"fear": 0.178712,
+"disgust": 0.026459,
+"anger": 0.08248
+},
+"count": 1
+},
+{
+"type": "Organization",
+"text": "Rajya Sabha",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.526956,
+"emotion": {
+"sadness": 0.237218,
+"joy": 0.127017,
+"fear": 0.135302,
+"disgust": 0.101076,
+"anger": 0.184597
+},
+"disambiguation": {
+"subtype": [
+"GovernmentalBody",
+"Legislature"
+],
+"name": "Rajya Sabha",
+"dbpedia_resource": "http://dbpedia.org/resource/Rajya_Sabha"
+},
+"count": 1
+},
+{
+"type": "Person",
+"text": "Jaitley",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.420296,
+"emotion": {
+"sadness": 0.196971,
+"joy": 0.34153,
+"fear": 0.107859,
+"disgust": 0.037725,
+"anger": 0.21864
+},
+"count": 2
+}
+],
+"concepts": [
+{
+"text": "Parliament of India",
+"relevance": 0.94435,
+"dbpedia_resource": "http://dbpedia.org/resource/Parliament_of_India"
+},
+{
+"text": "Lok Sabha",
+"relevance": 0.731865,
+"dbpedia_resource": "http://dbpedia.org/resource/Lok_Sabha"
+},
+{
+"text": "Finance minister",
+"relevance": 0.5874,
+"dbpedia_resource": "http://dbpedia.org/resource/Finance_minister"
+}
+],
+"categories": [
+{
+"score": 0.528543,
+"label": "/law, govt and politics/government/parliament"
+},
+{
+"score": 0.404238,
+"label": "/home and garden/home furnishings/lamps and lighting"
+},
+{
+"score": 0.331126,
+"label": "/health and fitness"
+}
+]
+}
+}

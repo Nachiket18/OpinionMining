@@ -1,0 +1,1195 @@
+{
+"source_article_link": "https://timesofindia.indiatimes.com/india/rahul-behind-hindu-pakistan-remark-says-bjp/articleshow/64968656.cms?&utm_source=Articleshow&utm_medium=Organic&utm_campaign=Related_Stories",
+"title": "Rahul behind \u2018Hindu Pakistan\u2019 remark, says BJP",
+"date_published": "2018-07-13T04:36:56+05:30",
+"source_type": "news_article",
+"source_name": "timesofindia.indiatimes.com",
+"image_link": [],
+"article_body": "NEW DELHI: on Thursday said Congress MP Shashi Tharoor\u2019s \u201cHindu Pakistan\u201d jibe was made at the instance of party chief who feared losing support of Muslims and was out to appease the minority community. \u201cYet again, Tharoor has cattle-classed Indian democracy. The Congress\u2019s character is that it crosses the \u2018Lakshman rekha\u2019 (limit) in its hatred for and BJP, and in doing so, it assaults Indian democracy,\u201d party spokesperson Sambit Patra told reporters. \u2018Cattle-classed\u2019 was a reference to the term that Tharoor, then a junior minister in the UPA government, had used when there was a suggestion that ministers travel economy class. \u201cIt is shameful to denigrate one\u2019s own country, one\u2019s own country\u2019s democracy, to denigrate the Hindu religion time and again. This is a shameful act for which Rahul should come out and not only apologise but explain to us why any leader of that party, whenever they open their mouth, they speak this way,\u201d he said. BJP\u2019s Anil Baluni alleged that Tharoor was following the script of Rahul, alleging that he had told a Muslim delegation that Congress was a \u201c pro-Muslim party\u201d.",
+"description": "NEW DELHI: on Thursday said Congress MP Shashi Tharoor\u2019s \u201cHindu Pakistan\u201d jibe was made at the instance of party chief who feared losing support of Muslims and was out to appease the minority community. \u201cYet again, Tharoor has cattle-classed Indian democracy. The Congress\u2019s character is that it crosses the \u2018Lakshman rekha\u2019 (limit) in its hatred for and BJP, and in doing so, it assaults Indian democracy,\u201d party spokesperson Sambit Patra told reporters. \u2018Cattle-classed\u2019 was a reference to the term that Tharoor, then a junior minister in the UPA government, had used when there was a suggestion that ministers travel economy class.",
+"time_scraped": "2018-08-22 15:01:48.156882",
+"article_id": "64968656",
+"article_category": "IndiaNews",
+"image_details": [],
+"ibm_nlu": {
+"usage": {
+"text_units": 1,
+"text_characters": 1111,
+"features": 7
+},
+"sentiment": {
+"document": {
+"score": -0.676661,
+"label": "negative"
+}
+},
+"semantic_roles": [
+{
+"subject": {
+"text": "Tharoor"
+},
+"sentence": "NEW DELHI: on Thursday said Congress MP Shashi Tharoor\u2019s \u201cHindu Pakistan\u201d jibe was made at the instance of party chief who feared losing support of Muslims and was out to appease the minority community.",
+"object": {
+"text": "Hindu Pakistan\u201d jibe"
+},
+"action": {
+"verb": {
+"text": "has",
+"tense": "present"
+},
+"text": "s",
+"normalized": "s"
+}
+},
+{
+"subject": {
+"text": "at the instance of party chief who feared losing support of Muslims and was out to appease the minority community"
+},
+"sentence": "NEW DELHI: on Thursday said Congress MP Shashi Tharoor\u2019s \u201cHindu Pakistan\u201d jibe was made at the instance of party chief who feared losing support of Muslims and was out to appease the minority community.",
+"object": {
+"text": "Congress MP Shashi Tharoor\u2019s \u201cHindu Pakistan\u201d jibe"
+},
+"action": {
+"verb": {
+"text": "make",
+"tense": "past"
+},
+"text": "was made",
+"normalized": "be make"
+}
+},
+{
+"subject": {
+"text": "party chief"
+},
+"sentence": "NEW DELHI: on Thursday said Congress MP Shashi Tharoor\u2019s \u201cHindu Pakistan\u201d jibe was made at the instance of party chief who feared losing support of Muslims and was out to appease the minority community.",
+"object": {
+"text": "losing support of Muslims"
+},
+"action": {
+"verb": {
+"text": "fear",
+"tense": "past"
+},
+"text": "feared",
+"normalized": "fear"
+}
+},
+{
+"subject": {
+"text": "party chief"
+},
+"sentence": "NEW DELHI: on Thursday said Congress MP Shashi Tharoor\u2019s \u201cHindu Pakistan\u201d jibe was made at the instance of party chief who feared losing support of Muslims and was out to appease the minority community.",
+"object": {
+"text": "support of Muslims"
+},
+"action": {
+"verb": {
+"text": "lose",
+"tense": "present"
+},
+"text": "feared losing",
+"normalized": "fear lose"
+}
+},
+{
+"subject": {
+"text": "party chief"
+},
+"sentence": "NEW DELHI: on Thursday said Congress MP Shashi Tharoor\u2019s \u201cHindu Pakistan\u201d jibe was made at the instance of party chief who feared losing support of Muslims and was out to appease the minority community.",
+"object": {
+"text": "the minority community"
+},
+"action": {
+"verb": {
+"text": "appease",
+"tense": "past"
+},
+"text": "to appease",
+"normalized": "to appease"
+}
+},
+{
+"subject": {
+"text": "Tharoor"
+},
+"sentence": " \u201cYet again, Tharoor has cattle-classed Indian democracy.",
+"object": {
+"text": "cattle-classed Indian democracy"
+},
+"action": {
+"verb": {
+"text": "have",
+"tense": "present"
+},
+"text": "has",
+"normalized": "have"
+}
+},
+{
+"subject": {
+"text": "Tharoor"
+},
+"sentence": " \u201cYet again, Tharoor has cattle-classed Indian democracy.",
+"object": {
+"text": "Indian democracy"
+},
+"action": {
+"verb": {
+"text": "cattle-classed",
+"tense": "past"
+},
+"text": "has cattle-classed",
+"normalized": "have cattle-classed"
+}
+},
+{
+"subject": {
+"text": "The Congress"
+},
+"sentence": " The Congress\u2019s character is that it crosses the \u2018Lakshman rekha\u2019 (limit) in its hatred for and BJP, and in doing so, it assaults Indian democracy,\u201d party spokesperson Sambit Patra told reporters.",
+"object": {
+"text": "character"
+},
+"action": {
+"verb": {
+"text": "has",
+"tense": "present"
+},
+"text": "s",
+"normalized": "s"
+}
+},
+{
+"subject": {
+"text": "it"
+},
+"sentence": " The Congress\u2019s character is that it crosses the \u2018Lakshman rekha\u2019 (limit) in its hatred for and BJP, and in doing so, it assaults Indian democracy,\u201d party spokesperson Sambit Patra told reporters.",
+"object": {
+"text": "the \u2018Lakshman rekha"
+},
+"action": {
+"verb": {
+"text": "cross",
+"tense": "present"
+},
+"text": "crosses",
+"normalized": "cross"
+}
+},
+{
+"subject": {
+"text": "it"
+},
+"sentence": " The Congress\u2019s character is that it crosses the \u2018Lakshman rekha\u2019 (limit) in its hatred for and BJP, and in doing so, it assaults Indian democracy,\u201d party spokesperson Sambit Patra told reporters.",
+"object": {
+"text": "Indian democracy"
+},
+"action": {
+"verb": {
+"text": "assault",
+"tense": "present"
+},
+"text": "assaults",
+"normalized": "assault"
+}
+},
+{
+"subject": {
+"text": "party spokesperson Sambit Patra"
+},
+"sentence": " The Congress\u2019s character is that it crosses the \u2018Lakshman rekha\u2019 (limit) in its hatred for and BJP, and in doing so, it assaults Indian democracy,\u201d party spokesperson Sambit Patra told reporters.",
+"object": {
+"text": "The Congress\u2019s character is that it crosses the \u2018Lakshman rekha\u2019 (limit) in its hatred for and BJP, and in doing so, it assaults Indian democracy"
+},
+"action": {
+"verb": {
+"text": "tell",
+"tense": "past"
+},
+"text": "told",
+"normalized": "tell"
+}
+},
+{
+"subject": {
+"text": "\u2018Cattle-classed\u2019"
+},
+"sentence": " \u2018Cattle-classed\u2019 was a reference to the term that Tharoor, then a junior minister in the UPA government, had used when there was a suggestion that ministers travel economy class.",
+"object": {
+"text": "a reference to the term that Tharoor, then a junior minister in the UPA government, had used when there was a suggestion that ministers travel economy class"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "was",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "a junior minister in the UPA government,"
+},
+"sentence": " \u2018Cattle-classed\u2019 was a reference to the term that Tharoor, then a junior minister in the UPA government, had used when there was a suggestion that ministers travel economy class.",
+"action": {
+"verb": {
+"text": "use",
+"tense": "past"
+},
+"text": "had used",
+"normalized": "have use"
+}
+},
+{
+"subject": {
+"text": "the Hindu religion"
+},
+"sentence": " \u201cIt is shameful to denigrate one\u2019s own country, one\u2019s own country\u2019s democracy, to denigrate the Hindu religion time and again.",
+"action": {
+"verb": {
+"text": "denigrate",
+"tense": "future"
+},
+"text": "to denigrate",
+"normalized": "to denigrate"
+}
+},
+{
+"subject": {
+"text": "This"
+},
+"sentence": " This is a shameful act for which Rahul should come out and not only apologise but explain to us why any leader of that party, whenever they open their mouth, they speak this way,\u201d he said.",
+"object": {
+"text": "a shameful act"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "present"
+},
+"text": "is",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "they"
+},
+"sentence": " This is a shameful act for which Rahul should come out and not only apologise but explain to us why any leader of that party, whenever they open their mouth, they speak this way,\u201d he said.",
+"object": {
+"text": "their mouth"
+},
+"action": {
+"verb": {
+"text": "open",
+"tense": "present"
+},
+"text": "open",
+"normalized": "open"
+}
+},
+{
+"subject": {
+"text": "he"
+},
+"sentence": " This is a shameful act for which Rahul should come out and not only apologise but explain to us why any leader of that party, whenever they open their mouth, they speak this way,\u201d he said.",
+"object": {
+"text": "This is a shameful act for which Rahul should come out and not only apologise but explain to us why any leader of that party, whenever they open their mouth, they speak this way"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "BJP"
+},
+"sentence": " BJP\u2019s Anil Baluni alleged that Tharoor was following the script of Rahul, alleging that he had told a Muslim delegation that Congress was a \u201c pro-Muslim party\u201d.",
+"object": {
+"text": "Anil Baluni alleged that Tharoor was following the script of Rahul, alleging that he had told a Muslim delegation that Congress was a \u201c pro-Muslim party"
+},
+"action": {
+"verb": {
+"text": "has",
+"tense": "present"
+},
+"text": "s",
+"normalized": "s"
+}
+},
+{
+"subject": {
+"text": "BJP\u2019s Anil Baluni"
+},
+"sentence": " BJP\u2019s Anil Baluni alleged that Tharoor was following the script of Rahul, alleging that he had told a Muslim delegation that Congress was a \u201c pro-Muslim party\u201d.",
+"object": {
+"text": "that Tharoor was following the script of Rahul, alleging that he had told a Muslim delegation that Congress was a \u201c pro-Muslim party"
+},
+"action": {
+"verb": {
+"text": "allege",
+"tense": "past"
+},
+"text": "alleged",
+"normalized": "allege"
+}
+},
+{
+"subject": {
+"text": "Tharoor"
+},
+"sentence": " BJP\u2019s Anil Baluni alleged that Tharoor was following the script of Rahul, alleging that he had told a Muslim delegation that Congress was a \u201c pro-Muslim party\u201d.",
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "was",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "BJP\u2019s Anil Baluni"
+},
+"sentence": " BJP\u2019s Anil Baluni alleged that Tharoor was following the script of Rahul, alleging that he had told a Muslim delegation that Congress was a \u201c pro-Muslim party\u201d.",
+"object": {
+"text": "that he had told a Muslim delegation that Congress was a \u201c pro-Muslim party\u201d"
+},
+"action": {
+"verb": {
+"text": "allege",
+"tense": "present"
+},
+"text": "alleging",
+"normalized": "allege"
+}
+},
+{
+"subject": {
+"text": "he"
+},
+"sentence": " BJP\u2019s Anil Baluni alleged that Tharoor was following the script of Rahul, alleging that he had told a Muslim delegation that Congress was a \u201c pro-Muslim party\u201d.",
+"object": {
+"text": "that Congress was a \u201c pro-Muslim party\u201d"
+},
+"action": {
+"verb": {
+"text": "tell",
+"tense": "past"
+},
+"text": "had told",
+"normalized": "have tell"
+}
+}
+],
+"relations": [
+{
+"type": "timeOf",
+"sentence": "NEW DELHI: on Thursday said Congress MP Shashi Tharoor's \"Hindu Pakistan\" jibe was made at the instance of party chief who feared losing support of Muslims and was out to appease the minority community.",
+"score": 0.985086,
+"arguments": [
+{
+"text": "Thursday",
+"location": [
+14,
+22
+],
+"entities": [
+{
+"type": "Date",
+"text": "Thursday"
+}
+]
+},
+{
+"text": "said",
+"location": [
+23,
+27
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "This is a shameful act for which Rahul should come out and not only apologise but explain to us why any leader of that party, whenever they open their mouth, they speak this way,\" he said.",
+"score": 0.991985,
+"arguments": [
+{
+"text": "they",
+"location": [
+920,
+924
+],
+"entities": [
+{
+"type": "Person",
+"text": "their"
+}
+]
+},
+{
+"text": "speak",
+"location": [
+925,
+930
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "speak"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "This is a shameful act for which Rahul should come out and not only apologise but explain to us why any leader of that party, whenever they open their mouth, they speak this way,\" he said.",
+"score": 0.994232,
+"arguments": [
+{
+"text": "he",
+"location": [
+942,
+944
+],
+"entities": [
+{
+"type": "Person",
+"text": "he"
+}
+]
+},
+{
+"text": "said",
+"location": [
+945,
+949
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "BJP's Anil Baluni alleged that Tharoor was following the script of Rahul, alleging that he had told a Muslim delegation that Congress was a \" pro-Muslim party\".",
+"score": 0.95943,
+"arguments": [
+{
+"text": "Anil Baluni",
+"location": [
+957,
+968
+],
+"entities": [
+{
+"type": "Person",
+"text": "Anil Baluni"
+}
+]
+},
+{
+"text": "BJP",
+"location": [
+951,
+954
+],
+"entities": [
+{
+"type": "Organization",
+"text": "BJP",
+"disambiguation": {
+"subtype": [
+"Commercial"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "BJP's Anil Baluni alleged that Tharoor was following the script of Rahul, alleging that he had told a Muslim delegation that Congress was a \" pro-Muslim party\".",
+"score": 0.992867,
+"arguments": [
+{
+"text": "Anil Baluni",
+"location": [
+957,
+968
+],
+"entities": [
+{
+"type": "Person",
+"text": "Anil Baluni"
+}
+]
+},
+{
+"text": "alleged",
+"location": [
+969,
+976
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "alleged"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "BJP's Anil Baluni alleged that Tharoor was following the script of Rahul, alleging that he had told a Muslim delegation that Congress was a \" pro-Muslim party\".",
+"score": 0.679406,
+"arguments": [
+{
+"text": "he",
+"location": [
+1039,
+1041
+],
+"entities": [
+{
+"type": "Person",
+"text": "he"
+}
+]
+},
+{
+"text": "alleging",
+"location": [
+1025,
+1033
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "alleging"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "BJP's Anil Baluni alleged that Tharoor was following the script of Rahul, alleging that he had told a Muslim delegation that Congress was a \" pro-Muslim party\".",
+"score": 0.840783,
+"arguments": [
+{
+"text": "he",
+"location": [
+1039,
+1041
+],
+"entities": [
+{
+"type": "Person",
+"text": "he"
+}
+]
+},
+{
+"text": "told",
+"location": [
+1046,
+1050
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "BJP's Anil Baluni alleged that Tharoor was following the script of Rahul, alleging that he had told a Muslim delegation that Congress was a \" pro-Muslim party\".",
+"score": 0.967633,
+"arguments": [
+{
+"text": "delegation",
+"location": [
+1060,
+1070
+],
+"entities": [
+{
+"type": "Person",
+"text": "delegation"
+}
+]
+},
+{
+"text": "told",
+"location": [
+1046,
+1050
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "partOfMany",
+"sentence": "BJP's Anil Baluni alleged that Tharoor was following the script of Rahul, alleging that he had told a Muslim delegation that Congress was a \" pro-Muslim party\".",
+"score": 0.890908,
+"arguments": [
+{
+"text": "delegation",
+"location": [
+1060,
+1070
+],
+"entities": [
+{
+"type": "Person",
+"text": "delegation"
+}
+]
+},
+{
+"text": "Muslim",
+"location": [
+1053,
+1059
+],
+"entities": [
+{
+"type": "Person",
+"text": "Muslim"
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "NEW DELHI: on Thursday said Congress MP Shashi Tharoor's \"Hindu Pakistan\" jibe was made at the instance of party chief who feared losing support of Muslims and was out to appease the minority community.",
+"score": 0.579819,
+"arguments": [
+{
+"text": "MP",
+"location": [
+37,
+39
+],
+"entities": [
+{
+"type": "Person",
+"text": "Shashi Tharoor"
+}
+]
+},
+{
+"text": "Congress",
+"location": [
+28,
+36
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Congress",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "managerOf",
+"sentence": "NEW DELHI: on Thursday said Congress MP Shashi Tharoor's \"Hindu Pakistan\" jibe was made at the instance of party chief who feared losing support of Muslims and was out to appease the minority community.",
+"score": 0.326601,
+"arguments": [
+{
+"text": "chief",
+"location": [
+113,
+118
+],
+"entities": [
+{
+"type": "Person",
+"text": "chief"
+}
+]
+},
+{
+"text": "party",
+"location": [
+107,
+112
+],
+"entities": [
+{
+"type": "Organization",
+"text": "party",
+"disambiguation": {
+"subtype": [
+"Political"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "The Congress's character is that it crosses the \u02bbLakshman rekha' (limit) in its hatred for and BJP, and in doing so, it assaults Indian democracy,\" party spokesperson Sambit Patra told reporters.",
+"score": 0.809117,
+"arguments": [
+{
+"text": "character",
+"location": [
+275,
+284
+],
+"entities": [
+{
+"type": "Person",
+"text": "character"
+}
+]
+},
+{
+"text": "Congress",
+"location": [
+264,
+272
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Congress",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "The Congress's character is that it crosses the \u02bbLakshman rekha' (limit) in its hatred for and BJP, and in doing so, it assaults Indian democracy,\" party spokesperson Sambit Patra told reporters.",
+"score": 0.455995,
+"arguments": [
+{
+"text": "spokesperson",
+"location": [
+414,
+426
+],
+"entities": [
+{
+"type": "Person",
+"text": "Sambit Patra"
+}
+]
+},
+{
+"text": "party",
+"location": [
+408,
+413
+],
+"entities": [
+{
+"type": "Organization",
+"text": "party"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "The Congress's character is that it crosses the \u02bbLakshman rekha' (limit) in its hatred for and BJP, and in doing so, it assaults Indian democracy,\" party spokesperson Sambit Patra told reporters.",
+"score": 0.98136,
+"arguments": [
+{
+"text": "Sambit Patra",
+"location": [
+427,
+439
+],
+"entities": [
+{
+"type": "Person",
+"text": "Sambit Patra"
+}
+]
+},
+{
+"text": "told",
+"location": [
+440,
+444
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "The Congress's character is that it crosses the \u02bbLakshman rekha' (limit) in its hatred for and BJP, and in doing so, it assaults Indian democracy,\" party spokesperson Sambit Patra told reporters.",
+"score": 0.986167,
+"arguments": [
+{
+"text": "reporters",
+"location": [
+445,
+454
+],
+"entities": [
+{
+"type": "Person",
+"text": "reporters"
+}
+]
+},
+{
+"text": "told",
+"location": [
+440,
+444
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "\u02bbCattle-classed' was a reference to the term that Tharoor, then a junior minister in the UPA government, had used when there was a suggestion that ministers travel economy class.",
+"score": 0.694449,
+"arguments": [
+{
+"text": "junior minister",
+"location": [
+522,
+537
+],
+"entities": [
+{
+"type": "Person",
+"text": "Shashi Tharoor"
+}
+]
+},
+{
+"text": "government",
+"location": [
+549,
+559
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "government",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "This is a shameful act for which Rahul should come out and not only apologise but explain to us why any leader of that party, whenever they open their mouth, they speak this way,\" he said.",
+"score": 0.338209,
+"arguments": [
+{
+"text": "leader",
+"location": [
+866,
+872
+],
+"entities": [
+{
+"type": "Person",
+"text": "leader"
+}
+]
+},
+{
+"text": "party",
+"location": [
+881,
+886
+],
+"entities": [
+{
+"type": "Organization",
+"text": "party"
+}
+]
+}
+]
+}
+],
+"language": "en",
+"keywords": [
+{
+"text": "MP Shashi Tharoor",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.978954,
+"emotion": {
+"sadness": 0.150398,
+"joy": 0.044374,
+"fear": 0.047505,
+"disgust": 0.116923,
+"anger": 0.134881
+}
+},
+{
+"text": "Indian democracy",
+"sentiment": {
+"score": -0.282292,
+"label": "negative"
+},
+"relevance": 0.74941,
+"emotion": {
+"sadness": 0.31572,
+"joy": 0.049425,
+"fear": 0.380502,
+"disgust": 0.460408,
+"anger": 0.129935
+}
+},
+{
+"text": "spokesperson Sambit Patra",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.736552,
+"emotion": {
+"sadness": 0.131664,
+"joy": 0.367318,
+"fear": 0.080461,
+"disgust": 0.081432,
+"anger": 0.172678
+}
+},
+{
+"text": "Hindu religion time",
+"sentiment": {
+"score": -0.503217,
+"label": "negative"
+},
+"relevance": 0.690815,
+"emotion": {
+"sadness": 0.538326,
+"joy": 0.134097,
+"fear": 0.041406,
+"disgust": 0.101944,
+"anger": 0.204954
+}
+},
+{
+"text": "shameful act",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.603462,
+"emotion": {
+"sadness": 0.135329,
+"joy": 0.019694,
+"fear": 0.018902,
+"disgust": 0.661224,
+"anger": 0.44227
+}
+}
+],
+"entities": [
+{
+"type": "Person",
+"text": "Congress MP Shashi Tharoor",
+"sentiment": {
+"score": -0.404336,
+"label": "negative"
+},
+"relevance": 0.93886,
+"emotion": {
+"sadness": 0.281999,
+"joy": 0.050625,
+"fear": 0.118469,
+"disgust": 0.419593,
+"anger": 0.269617
+},
+"count": 4
+},
+{
+"type": "Organization",
+"text": "BJP",
+"sentiment": {
+"score": -0.413236,
+"label": "negative"
+},
+"relevance": 0.265574,
+"emotion": {
+"sadness": 0.161561,
+"joy": 0.005882,
+"fear": 0.043232,
+"disgust": 0.21774,
+"anger": 0.805467
+},
+"count": 2
+},
+{
+"type": "Organization",
+"text": "Congress",
+"sentiment": {
+"score": -0.0839481,
+"label": "negative"
+},
+"relevance": 0.260255,
+"emotion": {
+"sadness": 0.183147,
+"joy": 0.043476,
+"fear": 0.089455,
+"disgust": 0.486038,
+"anger": 0.403917
+},
+"disambiguation": {
+"subtype": [
+"PoliticalParty"
+],
+"name": "Indian National Congress",
+"dbpedia_resource": "http://dbpedia.org/resource/Indian_National_Congress"
+},
+"count": 3
+},
+{
+"type": "Person",
+"text": "Rahul",
+"sentiment": {
+"score": -0.357606,
+"label": "negative"
+},
+"relevance": 0.210003,
+"emotion": {
+"sadness": 0.092365,
+"joy": 0.018071,
+"fear": 0.047641,
+"disgust": 0.585422,
+"anger": 0.565796
+},
+"count": 3
+},
+{
+"type": "Person",
+"text": "Sambit Patra",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.150038,
+"emotion": {
+"sadness": 0.131664,
+"joy": 0.367318,
+"fear": 0.080461,
+"disgust": 0.081432,
+"anger": 0.172678
+},
+"count": 1
+}
+],
+"concepts": [
+{
+"text": "India",
+"relevance": 0.979613,
+"dbpedia_resource": "http://dbpedia.org/resource/India"
+},
+{
+"text": "Delhi",
+"relevance": 0.915241,
+"dbpedia_resource": "http://dbpedia.org/resource/Delhi"
+},
+{
+"text": "Islam",
+"relevance": 0.732854,
+"dbpedia_resource": "http://dbpedia.org/resource/Islam"
+},
+{
+"text": "British Raj",
+"relevance": 0.647173,
+"dbpedia_resource": "http://dbpedia.org/resource/British_Raj"
+},
+{
+"text": "United Progressive Alliance",
+"relevance": 0.638476,
+"dbpedia_resource": "http://dbpedia.org/resource/United_Progressive_Alliance"
+}
+],
+"categories": [
+{
+"score": 0.487422,
+"label": "/law, govt and politics/government"
+},
+{
+"score": 0.349478,
+"label": "/religion and spirituality"
+},
+{
+"score": 0.324494,
+"label": "/law, govt and politics/government/parliament"
+}
+]
+}
+}

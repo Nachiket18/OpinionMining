@@ -1,0 +1,1448 @@
+{
+"source_article_link": "https://timesofindia.indiatimes.com/india/rajyavardhan-rathore-manoj-tiwari-travel-by-delhi-metro/articleshow/64874616.cms?&utm_source=Articleshow&utm_medium=Organic&utm_campaign=Related_Stories",
+"title": "Rajyavardhan Rathore, Manoj Tiwari travel by Delhi Metro",
+"date_published": "2018-07-05T23:15:40+05:30",
+"source_type": "news_article",
+"source_name": "timesofindia.indiatimes.com",
+"image_link": [
+"https://timesofindia.indiatimes.com/thumb/msid-64874619,imgsize-589310,width-400,resizemode-4/64874619.jpg"
+],
+"article_body": "NEW DELHI: Union minister and Delhi BJP chief on Thursday travelled on the after meeting former cricketer as part of the BJP's 'Sampark for Samarthan' initiative. A senior Information and Broadcasting Ministry official said Rathore boarded the metro from station and got down at Central Secretariat. During the metro ride, the information and broadcasting minister interacted with commuters who asked him about his fitness challenge campaign, he said.  Rathore also posted a picture of the ride on his Twitter profile and was all praise for it. \"Took the metro today with @ManojTiwariMP ji , smartest way to get around the traffic in the city saving a lot of precious time. Metro trains, I think are inspirational stories on the move. Every seat, every pair of feet, is a story worth exploring!\", he said.   The minister also talked about meeting a hearing impaired man who taught others like him. \"My metro story from the day, this young man who despite his hearing issues has taken up the responsibility of teaching students like him. This is the #NewIndia spirit that holds the power to change the society, the country and the world!\" Rathore posted on the microblogging site.   The I&B ministry official said Rathore and Tiwari had a meeting with Sehwag at DLF Farms in Chhatarpur in connection with the Sampark for Samarthan initiative. The ruling BJP at the Centre had launched the mega public drive of Sampark for Samarthan on the fourth anniversary of its government on May 26 under which party functionaries contact well-known names to spread the word on the works by the current dispensation.",
+"description": "A senior information and broadcasting ministry official said Rathore boarded the metro from Chhatarpur station and got down at Central Secretariat During the metro ride, Rathore interacted with commuters who asked him about his fitness challenge campaign, the official said",
+"time_scraped": "2018-08-23 06:01:34.439962",
+"article_id": "64874616",
+"article_category": "IndiaNews",
+"image_details": [
+{
+"url": "https://timesofindia.indiatimes.com/thumb/msid-64874619,imgsize-589310,width-400,resizemode-4/64874619.jpg",
+"path": "full/b3334bdade5400f36c86f775a7912d432c943fcb.jpg",
+"checksum": "6a27128dfe7a8b0a0627973f4aa65f20"
+}
+],
+"ibm_nlu": {
+"usage": {
+"text_units": 1,
+"text_characters": 1602,
+"features": 7
+},
+"sentiment": {
+"document": {
+"score": 0.724953,
+"label": "positive"
+}
+},
+"semantic_roles": [
+{
+"subject": {
+"text": "NEW DELHI: Union minister and Delhi BJP chief on Thursday"
+},
+"sentence": "NEW DELHI: Union minister and Delhi BJP chief on Thursday travelled on the after meeting former cricketer as part of the BJP's 'Sampark for Samarthan' initiative.",
+"action": {
+"verb": {
+"text": "travel",
+"tense": "past"
+},
+"text": "travelled",
+"normalized": "travel"
+}
+},
+{
+"subject": {
+"text": "A senior Information and Broadcasting Ministry official"
+},
+"sentence": " A senior Information and Broadcasting Ministry official said Rathore boarded the metro from station and got down at Central Secretariat.",
+"object": {
+"text": "Rathore boarded the metro from station and got down at Central Secretariat"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "the information and broadcasting minister"
+},
+"sentence": " During the metro ride, the information and broadcasting minister interacted with commuters who asked him about his fitness challenge campaign, he said.",
+"action": {
+"verb": {
+"text": "interact",
+"tense": "past"
+},
+"text": "interacted",
+"normalized": "interact"
+}
+},
+{
+"subject": {
+"text": "commuters"
+},
+"sentence": " During the metro ride, the information and broadcasting minister interacted with commuters who asked him about his fitness challenge campaign, he said.",
+"object": {
+"text": "about his fitness challenge campaign"
+},
+"action": {
+"verb": {
+"text": "ask",
+"tense": "past"
+},
+"text": "asked",
+"normalized": "ask"
+}
+},
+{
+"subject": {
+"text": "he"
+},
+"sentence": " During the metro ride, the information and broadcasting minister interacted with commuters who asked him about his fitness challenge campaign, he said.",
+"object": {
+"text": "During the metro ride, the information and broadcasting minister interacted with commuters who asked him about his fitness challenge campaign"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "Rathore"
+},
+"sentence": " Rathore also posted a picture of the ride on his Twitter profile and was all praise for it.",
+"object": {
+"text": "a picture of the ride on his Twitter profile"
+},
+"action": {
+"verb": {
+"text": "post",
+"tense": "past"
+},
+"text": "posted",
+"normalized": "post"
+}
+},
+{
+"subject": {
+"text": "the metro"
+},
+"sentence": " \"Took the metro today with @ManojTiwariMP ji , smartest way to get around the traffic in the city saving a lot of precious time.",
+"action": {
+"verb": {
+"text": "Took",
+"tense": "past"
+},
+"text": "Took",
+"normalized": "Took"
+}
+},
+{
+"subject": {
+"text": "I"
+},
+"sentence": " Metro trains, I think are inspirational stories on the move.",
+"object": {
+"text": "Metro trains"
+},
+"action": {
+"verb": {
+"text": "think",
+"tense": "present"
+},
+"text": "think",
+"normalized": "think"
+}
+},
+{
+"subject": {
+"text": "inspirational stories"
+},
+"sentence": " Metro trains, I think are inspirational stories on the move.",
+"action": {
+"verb": {
+"text": "be",
+"tense": "present"
+},
+"text": "are",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "Every seat, every pair of feet,"
+},
+"sentence": " Every seat, every pair of feet, is a story worth exploring!\", he said.",
+"object": {
+"text": "a story worth exploring"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "present"
+},
+"text": "is",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "he"
+},
+"sentence": " Every seat, every pair of feet, is a story worth exploring!\", he said.",
+"object": {
+"text": "Every seat, every pair of feet, is a story worth exploring"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "The minister"
+},
+"sentence": " The minister also talked about meeting a hearing impaired man who taught others like him.",
+"object": {
+"text": "about meeting a hearing impaired man who taught others like him"
+},
+"action": {
+"verb": {
+"text": "talk",
+"tense": "past"
+},
+"text": "talked",
+"normalized": "talk"
+}
+},
+{
+"subject": {
+"text": "The minister"
+},
+"sentence": " The minister also talked about meeting a hearing impaired man who taught others like him.",
+"object": {
+"text": "a hearing impaired man who taught others like him"
+},
+"action": {
+"verb": {
+"text": "meet",
+"tense": "present"
+},
+"text": "meeting",
+"normalized": "meet"
+}
+},
+{
+"subject": {
+"text": "a hearing impaired man"
+},
+"sentence": " The minister also talked about meeting a hearing impaired man who taught others like him.",
+"object": {
+"text": "others"
+},
+"action": {
+"verb": {
+"text": "teach",
+"tense": "past"
+},
+"text": "taught",
+"normalized": "teach"
+}
+},
+{
+"subject": {
+"text": "this young man who despite his hearing issues"
+},
+"sentence": " \"My metro story from the day, this young man who despite his hearing issues has taken up the responsibility of teaching students like him.",
+"object": {
+"text": "the responsibility of teaching students like him"
+},
+"action": {
+"verb": {
+"text": "take",
+"tense": "past"
+},
+"text": "has taken",
+"normalized": "have take"
+}
+},
+{
+"subject": {
+"text": "This"
+},
+"sentence": " This is the #NewIndia spirit that holds the power to change the society, the country and the world!\"",
+"object": {
+"text": "the #NewIndia spirit that holds the power to change the society, the country and the world"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "present"
+},
+"text": "is",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "the #NewIndia spirit"
+},
+"sentence": " This is the #NewIndia spirit that holds the power to change the society, the country and the world!\"",
+"object": {
+"text": "the power to change the society, the country and the world"
+},
+"action": {
+"verb": {
+"text": "hold",
+"tense": "present"
+},
+"text": "holds",
+"normalized": "hold"
+}
+},
+{
+"subject": {
+"text": "Rathore"
+},
+"sentence": " Rathore posted on the microblogging site.",
+"object": {
+"text": "on the microblogging site"
+},
+"action": {
+"verb": {
+"text": "post",
+"tense": "past"
+},
+"text": "posted",
+"normalized": "post"
+}
+},
+{
+"subject": {
+"text": "The I&B ministry official"
+},
+"sentence": " The I&B ministry official said Rathore and Tiwari had a meeting with Sehwag at DLF Farms in Chhatarpur in connection with the Sampark for Samarthan initiative.",
+"object": {
+"text": "Rathore and Tiwari had a meeting with Sehwag at DLF Farms in Chhatarpur in connection with the Sampark for Samarthan initiative"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "The ruling BJP at the Centre"
+},
+"sentence": " The ruling BJP at the Centre had launched the mega public drive of Sampark for Samarthan on the fourth anniversary of its government on May 26 under which party functionaries contact well-known names to spread the word on the works by the current dispensation.",
+"object": {
+"text": "the mega public drive of Sampark for Samarthan"
+},
+"action": {
+"verb": {
+"text": "launch",
+"tense": "past"
+},
+"text": "had launched",
+"normalized": "have launch"
+}
+},
+{
+"subject": {
+"text": "party functionaries contact well-known names"
+},
+"sentence": " The ruling BJP at the Centre had launched the mega public drive of Sampark for Samarthan on the fourth anniversary of its government on May 26 under which party functionaries contact well-known names to spread the word on the works by the current dispensation.",
+"object": {
+"text": "the word"
+},
+"action": {
+"verb": {
+"text": "spread",
+"tense": "future"
+},
+"text": "to spread",
+"normalized": "to spread"
+}
+}
+],
+"relations": [
+{
+"type": "employedBy",
+"sentence": "NEW DELHI: Union minister and Delhi BJP chief on Thursday travelled on the after meeting former cricketer as part of the BJP's 'Sampark for Samarthan' initiative.",
+"score": 0.440929,
+"arguments": [
+{
+"text": "minister",
+"location": [
+17,
+25
+],
+"entities": [
+{
+"type": "Person",
+"text": "minister"
+}
+]
+},
+{
+"text": "Union",
+"location": [
+11,
+16
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Union"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "During the metro ride, the information and broadcasting minister interacted with commuters who asked him about his fitness challenge campaign, he said.",
+"score": 0.817721,
+"arguments": [
+{
+"text": "him",
+"location": [
+401,
+404
+],
+"entities": [
+{
+"type": "Person",
+"text": "Rathore"
+}
+]
+},
+{
+"text": "asked",
+"location": [
+395,
+400
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "asked"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "During the metro ride, the information and broadcasting minister interacted with commuters who asked him about his fitness challenge campaign, he said.",
+"score": 0.985009,
+"arguments": [
+{
+"text": "he",
+"location": [
+443,
+445
+],
+"entities": [
+{
+"type": "Person",
+"text": "Rathore"
+}
+]
+},
+{
+"text": "said",
+"location": [
+446,
+450
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "ownerOf",
+"sentence": "Metro trains, I think are inspirational stories on the move.",
+"score": 0.710605,
+"arguments": [
+{
+"text": "Metro",
+"location": [
+674,
+679
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Metro"
+}
+]
+},
+{
+"text": "trains",
+"location": [
+680,
+686
+],
+"entities": [
+{
+"type": "Vehicle",
+"text": "trains"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "\", he said.",
+"score": 0.970061,
+"arguments": [
+{
+"text": "he",
+"location": [
+797,
+799
+],
+"entities": [
+{
+"type": "Person",
+"text": "Rathore"
+}
+]
+},
+{
+"text": "said",
+"location": [
+800,
+804
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "The minister also talked about meeting a hearing impaired man who taught others like him.",
+"score": 0.896935,
+"arguments": [
+{
+"text": "minister",
+"location": [
+812,
+820
+],
+"entities": [
+{
+"type": "Person",
+"text": "minister"
+}
+]
+},
+{
+"text": "talked",
+"location": [
+826,
+832
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "talked"
+}
+]
+}
+]
+},
+{
+"type": "partOf",
+"sentence": "The minister also talked about meeting a hearing impaired man who taught others like him.",
+"score": 0.483076,
+"arguments": [
+{
+"text": "talked",
+"location": [
+826,
+832
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "talked"
+}
+]
+},
+{
+"text": "meeting",
+"location": [
+839,
+846
+],
+"entities": [
+{
+"type": "EventMeeting",
+"text": "meeting"
+}
+]
+}
+]
+},
+{
+"type": "participantIn",
+"sentence": "The minister also talked about meeting a hearing impaired man who taught others like him.",
+"score": 0.487621,
+"arguments": [
+{
+"text": "man",
+"location": [
+866,
+869
+],
+"entities": [
+{
+"type": "Person",
+"text": "Rathore"
+}
+]
+},
+{
+"text": "meeting",
+"location": [
+839,
+846
+],
+"entities": [
+{
+"type": "EventMeeting",
+"text": "meeting"
+}
+]
+}
+]
+},
+{
+"type": "partOfMany",
+"sentence": "\"My metro story from the day, this young man who despite his hearing issues has taken up the responsibility of teaching students like him.",
+"score": 0.430397,
+"arguments": [
+{
+"text": "him",
+"location": [
+1032,
+1035
+],
+"entities": [
+{
+"type": "Person",
+"text": "Rathore"
+}
+]
+},
+{
+"text": "students",
+"location": [
+1018,
+1026
+],
+"entities": [
+{
+"type": "Person",
+"text": "students"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "\" Rathore posted on the microblogging site.",
+"score": 0.997587,
+"arguments": [
+{
+"text": "Rathore",
+"location": [
+1138,
+1145
+],
+"entities": [
+{
+"type": "Person",
+"text": "Rathore"
+}
+]
+},
+{
+"text": "posted",
+"location": [
+1146,
+1152
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "posted"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "The I&B ministry official said Rathore and Tiwari had a meeting with Sehwag at DLF Farms in Chhatarpur in connection with the Sampark for Samarthan initiative.",
+"score": 0.903275,
+"arguments": [
+{
+"text": "official",
+"location": [
+1199,
+1207
+],
+"entities": [
+{
+"type": "Person",
+"text": "official"
+}
+]
+},
+{
+"text": "said",
+"location": [
+1208,
+1212
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "managerOf",
+"sentence": "NEW DELHI: Union minister and Delhi BJP chief on Thursday travelled on the after meeting former cricketer as part of the BJP's 'Sampark for Samarthan' initiative.",
+"score": 0.682528,
+"arguments": [
+{
+"text": "chief",
+"location": [
+40,
+45
+],
+"entities": [
+{
+"type": "Person",
+"text": "minister"
+}
+]
+},
+{
+"text": "Delhi BJP",
+"location": [
+30,
+39
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Delhi BJP",
+"disambiguation": {
+"subtype": [
+"Commercial"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "participantIn",
+"sentence": "The I&B ministry official said Rathore and Tiwari had a meeting with Sehwag at DLF Farms in Chhatarpur in connection with the Sampark for Samarthan initiative.",
+"score": 0.537025,
+"arguments": [
+{
+"text": "Rathore",
+"location": [
+1213,
+1220
+],
+"entities": [
+{
+"type": "Person",
+"text": "Rathore"
+}
+]
+},
+{
+"text": "meeting",
+"location": [
+1238,
+1245
+],
+"entities": [
+{
+"type": "EventMeeting",
+"text": "meeting"
+}
+]
+}
+]
+},
+{
+"type": "participantIn",
+"sentence": "The I&B ministry official said Rathore and Tiwari had a meeting with Sehwag at DLF Farms in Chhatarpur in connection with the Sampark for Samarthan initiative.",
+"score": 0.589052,
+"arguments": [
+{
+"text": "Tiwari",
+"location": [
+1225,
+1231
+],
+"entities": [
+{
+"type": "Person",
+"text": "Tiwari"
+}
+]
+},
+{
+"text": "meeting",
+"location": [
+1238,
+1245
+],
+"entities": [
+{
+"type": "EventMeeting",
+"text": "meeting"
+}
+]
+}
+]
+},
+{
+"type": "participantIn",
+"sentence": "The I&B ministry official said Rathore and Tiwari had a meeting with Sehwag at DLF Farms in Chhatarpur in connection with the Sampark for Samarthan initiative.",
+"score": 0.615116,
+"arguments": [
+{
+"text": "DLF Farms",
+"location": [
+1261,
+1270
+],
+"entities": [
+{
+"type": "Organization",
+"text": "DLF Farms",
+"disambiguation": {
+"subtype": [
+"Commercial"
+]
+}
+}
+]
+},
+{
+"text": "meeting",
+"location": [
+1238,
+1245
+],
+"entities": [
+{
+"type": "EventMeeting",
+"text": "meeting"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "The I&B ministry official said Rathore and Tiwari had a meeting with Sehwag at DLF Farms in Chhatarpur in connection with the Sampark for Samarthan initiative.",
+"score": 0.592684,
+"arguments": [
+{
+"text": "meeting",
+"location": [
+1238,
+1245
+],
+"entities": [
+{
+"type": "EventMeeting",
+"text": "meeting"
+}
+]
+},
+{
+"text": "Chhatarpur",
+"location": [
+1274,
+1284
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Chhatarpur"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "The I&B ministry official said Rathore and Tiwari had a meeting with Sehwag at DLF Farms in Chhatarpur in connection with the Sampark for Samarthan initiative.",
+"score": 0.654177,
+"arguments": [
+{
+"text": "DLF Farms",
+"location": [
+1261,
+1270
+],
+"entities": [
+{
+"type": "Organization",
+"text": "DLF Farms",
+"disambiguation": {
+"subtype": [
+"Commercial"
+]
+}
+}
+]
+},
+{
+"text": "Chhatarpur",
+"location": [
+1274,
+1284
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Chhatarpur"
+}
+]
+}
+]
+},
+{
+"type": "timeOf",
+"sentence": "NEW DELHI: Union minister and Delhi BJP chief on Thursday travelled on the after meeting former cricketer as part of the BJP's 'Sampark for Samarthan' initiative.",
+"score": 0.873296,
+"arguments": [
+{
+"text": "Thursday",
+"location": [
+49,
+57
+],
+"entities": [
+{
+"type": "Date",
+"text": "Thursday"
+}
+]
+},
+{
+"text": "travelled",
+"location": [
+58,
+67
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "travelled"
+}
+]
+}
+]
+},
+{
+"type": "partOf",
+"sentence": "NEW DELHI: Union minister and Delhi BJP chief on Thursday travelled on the after meeting former cricketer as part of the BJP's 'Sampark for Samarthan' initiative.",
+"score": 0.604511,
+"arguments": [
+{
+"text": "travelled",
+"location": [
+58,
+67
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "travelled"
+}
+]
+},
+{
+"text": "meeting",
+"location": [
+81,
+88
+],
+"entities": [
+{
+"type": "EventMeeting",
+"text": "meeting"
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "A senior Information and Broadcasting Ministry official said Rathore boarded the metro from station and got down at Central Secretariat.",
+"score": 0.955914,
+"arguments": [
+{
+"text": "official",
+"location": [
+210,
+218
+],
+"entities": [
+{
+"type": "Person",
+"text": "official"
+}
+]
+},
+{
+"text": "Broadcasting Ministry",
+"location": [
+188,
+209
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Broadcasting Ministry",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "The I&B ministry official said Rathore and Tiwari had a meeting with Sehwag at DLF Farms in Chhatarpur in connection with the Sampark for Samarthan initiative.",
+"score": 0.723186,
+"arguments": [
+{
+"text": "official",
+"location": [
+1199,
+1207
+],
+"entities": [
+{
+"type": "Person",
+"text": "official"
+}
+]
+},
+{
+"text": "ministry",
+"location": [
+1190,
+1198
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Broadcasting Ministry",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "A senior Information and Broadcasting Ministry official said Rathore boarded the metro from station and got down at Central Secretariat.",
+"score": 0.874099,
+"arguments": [
+{
+"text": "official",
+"location": [
+210,
+218
+],
+"entities": [
+{
+"type": "Person",
+"text": "official"
+}
+]
+},
+{
+"text": "said",
+"location": [
+219,
+223
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "A senior Information and Broadcasting Ministry official said Rathore boarded the metro from station and got down at Central Secretariat.",
+"score": 0.759499,
+"arguments": [
+{
+"text": "Rathore",
+"location": [
+224,
+231
+],
+"entities": [
+{
+"type": "Person",
+"text": "Rathore"
+}
+]
+},
+{
+"text": "station",
+"location": [
+255,
+262
+],
+"entities": [
+{
+"type": "Facility",
+"text": "station"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "A senior Information and Broadcasting Ministry official said Rathore boarded the metro from station and got down at Central Secretariat.",
+"score": 0.600361,
+"arguments": [
+{
+"text": "Rathore",
+"location": [
+224,
+231
+],
+"entities": [
+{
+"type": "Person",
+"text": "Rathore"
+}
+]
+},
+{
+"text": "Central Secretariat",
+"location": [
+279,
+298
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Central Secretariat"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "During the metro ride, the information and broadcasting minister interacted with commuters who asked him about his fitness challenge campaign, he said.",
+"score": 0.988385,
+"arguments": [
+{
+"text": "who",
+"location": [
+391,
+394
+],
+"entities": [
+{
+"type": "Person",
+"text": "commuters"
+}
+]
+},
+{
+"text": "asked",
+"location": [
+395,
+400
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "asked"
+}
+]
+}
+]
+}
+],
+"language": "en",
+"keywords": [
+{
+"text": "Delhi BJP chief",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.913076,
+"emotion": {
+"sadness": 0.459363,
+"joy": 0.252263,
+"fear": 0.102841,
+"disgust": 0.068869,
+"anger": 0.171313
+}
+},
+{
+"text": "ministry official",
+"sentiment": {
+"score": -0.311699,
+"label": "negative"
+},
+"relevance": 0.764712,
+"emotion": {
+"sadness": 0.268308,
+"joy": 0.254977,
+"fear": 0.071918,
+"disgust": 0.045218,
+"anger": 0.206087
+}
+},
+{
+"text": "Rathore",
+"sentiment": {
+"score": 0.259946,
+"label": "positive"
+},
+"relevance": 0.746893,
+"emotion": {
+"sadness": 0.204305,
+"joy": 0.548138,
+"fear": 0.014181,
+"disgust": 0.069793,
+"anger": 0.103239
+}
+},
+{
+"text": "fitness challenge campaign",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.744332,
+"emotion": {
+"sadness": 0.063307,
+"joy": 0.585532,
+"fear": 0.074316,
+"disgust": 0.108568,
+"anger": 0.006561
+}
+},
+{
+"text": "party functionaries contact",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.741353,
+"emotion": {
+"sadness": 0.097039,
+"joy": 0.366932,
+"fear": 0.215415,
+"disgust": 0.327209,
+"anger": 0.089983
+}
+}
+],
+"entities": [
+{
+"type": "Person",
+"text": "Rathore",
+"sentiment": {
+"score": 0.129973,
+"label": "positive"
+},
+"relevance": 0.817131,
+"emotion": {
+"sadness": 0.204305,
+"joy": 0.548138,
+"fear": 0.014181,
+"disgust": 0.069793,
+"anger": 0.103239
+},
+"count": 4
+},
+{
+"type": "Organization",
+"text": "BJP",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.526933,
+"emotion": {
+"sadness": 0.179074,
+"joy": 0.484067,
+"fear": 0.148044,
+"disgust": 0.180265,
+"anger": 0.10963
+},
+"count": 2
+},
+{
+"type": "Organization",
+"text": "Delhi BJP",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.489555,
+"emotion": {
+"sadness": 0.459363,
+"joy": 0.252263,
+"fear": 0.102841,
+"disgust": 0.068869,
+"anger": 0.171313
+},
+"count": 1
+},
+{
+"type": "Location",
+"text": "NEW DELHI",
+"sentiment": {
+"score": 0.358044,
+"label": "positive"
+},
+"relevance": 0.32865,
+"emotion": {
+"sadness": 0.115132,
+"joy": 0.596039,
+"fear": 0.084006,
+"disgust": 0.034674,
+"anger": 0.046922
+},
+"disambiguation": {
+"subtype": [
+"AdministrativeDivision",
+"City"
+],
+"name": "New Delhi",
+"dbpedia_resource": "http://dbpedia.org/resource/New_Delhi"
+},
+"count": 1
+},
+{
+"type": "Organization",
+"text": "Broadcasting Ministry",
+"sentiment": {
+"score": -0.311699,
+"label": "negative"
+},
+"relevance": 0.327942,
+"emotion": {
+"sadness": 0.270439,
+"joy": 0.181586,
+"fear": 0.090787,
+"disgust": 0.084364,
+"anger": 0.164608
+},
+"count": 1
+}
+],
+"concepts": [
+{
+"text": "Twitter",
+"relevance": 0.916879,
+"dbpedia_resource": "http://dbpedia.org/resource/Twitter"
+},
+{
+"text": "Rajpath",
+"relevance": 0.850033,
+"dbpedia_resource": "http://dbpedia.org/resource/Rajpath"
+},
+{
+"text": "Delhi",
+"relevance": 0.825011,
+"dbpedia_resource": "http://dbpedia.org/resource/Delhi"
+},
+{
+"text": "India",
+"relevance": 0.760373,
+"dbpedia_resource": "http://dbpedia.org/resource/India"
+},
+{
+"text": "Parliament of India",
+"relevance": 0.726465,
+"dbpedia_resource": "http://dbpedia.org/resource/Parliament_of_India"
+}
+],
+"categories": [
+{
+"score": 0.514665,
+"label": "/health and fitness/disease/aids and hiv"
+},
+{
+"score": 0.5,
+"label": "/technology and computing/internet technology/social network"
+},
+{
+"score": 0.496178,
+"label": "/society"
+}
+]
+}
+}

@@ -1,0 +1,1088 @@
+{
+"source_article_link": "https://timesofindia.indiatimes.com/india/triple-talaq-bill-not-to-be-taken-up-in-rajya-sabha-today/articleshow/65352506.cms?&utm_source=Articleshow&utm_medium=Organic&utm_campaign=Related_Stories",
+"title": "Triple talaq bill not to be taken up in this Rajya Sabha session",
+"date_published": "2018-08-10T17:07:09+05:30",
+"source_type": "news_article",
+"source_name": "timesofindia.indiatimes.com",
+"image_link": [
+"https://timesofindia.indiatimes.com/thumb/msid-65352507,imgsize-256122,width-400,resizemode-4/65352507.jpg"
+],
+"article_body": "NEW DELHI: The was not tabled in the on Friday, like was planned, because of no consensus among the parties. Friday was the last day of the Monsoon session of . The Centre was all set to clear the draft law making instant a criminal offence. This comes a day after the Union Cabinet made some amendments to the draft bill, including adding a bail provision to it.   While the draft bill easily passed in the , it ran into trouble in the Upper House, with some opposition parties demanding that a bail provision be included in the bill. The Cabinet made three amendments to the draft bill on Thursday. The first amendment allows only a woman, or a close relative, to file a police case against her husband for instant triple talaq. Another amendment makes it clear that the police will lodge an FIR only if approached by the victim, her blood relations or people who become her relatives by marriage. The third amendment makes instant triple talaq \"compoundable\". That is, now, a magistrate can use his powers to settle the dispute between a husband and his wife. Earlier on Friday, Congress leader Sonia Gandhi had said she would not say anything on the matter as her party's position was clear on the issue. \"Our party's position is absolutely clear on this, I will not say anything on this further,\" said Sonia.",
+"description": "The triple talaq bill has been deferred as there was no consensus among the parties.  This comes a day after the Union Cabinet made some amendments to the draft bill. The first amendment allows only a woman, or a close relative, to file a police case against her husband. ",
+"time_scraped": "2018-08-22 12:01:55.397531",
+"article_id": "65352506",
+"article_category": "IndiaNews",
+"image_details": [
+{
+"url": "https://timesofindia.indiatimes.com/thumb/msid-65352507,imgsize-256122,width-400,resizemode-4/65352507.jpg",
+"path": "full/a5ed953b5ba95296329100b00695c16ab5e7058e.jpg",
+"checksum": "7010f0848e4f9a1bdb4008870d20f349"
+}
+],
+"ibm_nlu": {
+"usage": {
+"text_units": 1,
+"text_characters": 1313,
+"features": 7
+},
+"sentiment": {
+"document": {
+"score": -0.32878,
+"label": "negative"
+}
+},
+"semantic_roles": [
+{
+"subject": {
+"text": "The"
+},
+"sentence": "NEW DELHI: The was not tabled in the on Friday, like was planned, because of no consensus among the parties.",
+"action": {
+"verb": {
+"text": "table",
+"tense": "past",
+"negated": true
+},
+"text": "tabled",
+"normalized": "table"
+}
+},
+{
+"subject": {
+"text": "The Centre"
+},
+"sentence": " The Centre was all set to clear the draft law making instant a criminal offence.",
+"object": {
+"text": "all set to clear the draft law making instant a criminal offence"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "was",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "The Centre"
+},
+"sentence": " The Centre was all set to clear the draft law making instant a criminal offence.",
+"object": {
+"text": "to clear the draft law making instant a criminal offence"
+},
+"action": {
+"verb": {
+"text": "set",
+"tense": "past"
+},
+"text": "set",
+"normalized": "set"
+}
+},
+{
+"subject": {
+"text": "The Centre"
+},
+"sentence": " The Centre was all set to clear the draft law making instant a criminal offence.",
+"object": {
+"text": "the draft law making instant a criminal offence"
+},
+"action": {
+"verb": {
+"text": "clear",
+"tense": "past"
+},
+"text": "to clear",
+"normalized": "to clear"
+}
+},
+{
+"subject": {
+"text": "This"
+},
+"sentence": " This comes a day after the Union Cabinet made some amendments to the draft bill, including adding a bail provision to it.",
+"action": {
+"verb": {
+"text": "come",
+"tense": "present"
+},
+"text": "comes",
+"normalized": "come"
+}
+},
+{
+"subject": {
+"text": "the Union Cabinet"
+},
+"sentence": " This comes a day after the Union Cabinet made some amendments to the draft bill, including adding a bail provision to it.",
+"object": {
+"text": "some amendments"
+},
+"action": {
+"verb": {
+"text": "make",
+"tense": "past"
+},
+"text": "made",
+"normalized": "make"
+}
+},
+{
+"subject": {
+"text": "adding a bail provision to it"
+},
+"sentence": " This comes a day after the Union Cabinet made some amendments to the draft bill, including adding a bail provision to it.",
+"object": {
+"text": "the draft bill"
+},
+"action": {
+"verb": {
+"text": "include",
+"tense": "present"
+},
+"text": "including",
+"normalized": "include"
+}
+},
+{
+"subject": {
+"text": "a bail provision"
+},
+"sentence": " This comes a day after the Union Cabinet made some amendments to the draft bill, including adding a bail provision to it.",
+"object": {
+"text": "to it"
+},
+"action": {
+"verb": {
+"text": "add",
+"tense": "present"
+},
+"text": "adding",
+"normalized": "add"
+}
+},
+{
+"subject": {
+"text": "it"
+},
+"sentence": " While the draft bill easily passed in the , it ran into trouble in the Upper House, with some opposition parties demanding that a bail provision be included in the bill.",
+"object": {
+"text": "into trouble in the Upper House, with some opposition parties demanding that a bail provision be included in the bill"
+},
+"action": {
+"verb": {
+"text": "run",
+"tense": "past"
+},
+"text": "ran",
+"normalized": "run"
+}
+},
+{
+"subject": {
+"text": "a bail provision"
+},
+"sentence": " While the draft bill easily passed in the , it ran into trouble in the Upper House, with some opposition parties demanding that a bail provision be included in the bill.",
+"action": {
+"verb": {
+"text": "be",
+"tense": "present"
+},
+"text": "be included",
+"normalized": "be include"
+}
+},
+{
+"subject": {
+"text": "The Cabinet"
+},
+"sentence": " The Cabinet made three amendments to the draft bill on Thursday.",
+"object": {
+"text": "three amendments"
+},
+"action": {
+"verb": {
+"text": "make",
+"tense": "past"
+},
+"text": "made",
+"normalized": "make"
+}
+},
+{
+"subject": {
+"text": "The first amendment"
+},
+"sentence": " The first amendment allows only a woman, or a close relative, to file a police case against her husband for instant triple talaq.",
+"object": {
+"text": "only a woman, or a close relative, to file a police case against her husband for instant triple talaq"
+},
+"action": {
+"verb": {
+"text": "allow",
+"tense": "present"
+},
+"text": "allows",
+"normalized": "allow"
+}
+},
+{
+"subject": {
+"text": "a woman"
+},
+"sentence": " The first amendment allows only a woman, or a close relative, to file a police case against her husband for instant triple talaq.",
+"object": {
+"text": "a police case"
+},
+"action": {
+"verb": {
+"text": "file",
+"tense": "future"
+},
+"text": "to file",
+"normalized": "to file"
+}
+},
+{
+"subject": {
+"text": "her blood relations or people"
+},
+"sentence": " Another amendment makes it clear that the police will lodge an FIR only if approached by the victim, her blood relations or people who become her relatives by marriage.",
+"object": {
+"text": "her relatives by marriage"
+},
+"action": {
+"verb": {
+"text": "become",
+"tense": "present"
+},
+"text": "become",
+"normalized": "become"
+}
+},
+{
+"subject": {
+"text": "The third amendment"
+},
+"sentence": " The third amendment makes instant triple talaq \"compoundable\".",
+"object": {
+"text": "instant triple talaq"
+},
+"action": {
+"verb": {
+"text": "make",
+"tense": "present"
+},
+"text": "makes",
+"normalized": "make"
+}
+},
+{
+"subject": {
+"text": "a magistrate"
+},
+"sentence": " That is, now, a magistrate can use his powers to settle the dispute between a husband and his wife.",
+"object": {
+"text": "his powers"
+},
+"action": {
+"verb": {
+"text": "use",
+"tense": "future"
+},
+"text": "can use",
+"normalized": "can use"
+}
+},
+{
+"subject": {
+"text": "a magistrate"
+},
+"sentence": " That is, now, a magistrate can use his powers to settle the dispute between a husband and his wife.",
+"object": {
+"text": "the dispute between a husband and his wife"
+},
+"action": {
+"verb": {
+"text": "settle",
+"tense": "future"
+},
+"text": "to settle",
+"normalized": "to settle"
+}
+},
+{
+"subject": {
+"text": "Congress leader Sonia Gandhi"
+},
+"sentence": " Earlier on Friday, Congress leader Sonia Gandhi had said she would not say anything on the matter as her party's position was clear on the issue.",
+"action": {
+"verb": {
+"text": "have",
+"tense": "past"
+},
+"text": "had said",
+"normalized": "have say"
+}
+},
+{
+"subject": {
+"text": "Congress leader Sonia Gandhi"
+},
+"sentence": " Earlier on Friday, Congress leader Sonia Gandhi had said she would not say anything on the matter as her party's position was clear on the issue.",
+"object": {
+"text": "she would not say anything on the matter as her party's position was clear on the issue"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "had said",
+"normalized": "have say"
+}
+},
+{
+"subject": {
+"text": "she"
+},
+"sentence": " Earlier on Friday, Congress leader Sonia Gandhi had said she would not say anything on the matter as her party's position was clear on the issue.",
+"object": {
+"text": "anything"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "future",
+"negated": true
+},
+"text": "say",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "Our party's position"
+},
+"sentence": " \"Our party's position is absolutely clear on this, I will not say anything on this further,\" said Sonia.",
+"object": {
+"text": "absolutely clear on this"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "present"
+},
+"text": "is",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "I"
+},
+"sentence": " \"Our party's position is absolutely clear on this, I will not say anything on this further,\" said Sonia.",
+"object": {
+"text": "anything"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "future",
+"negated": true
+},
+"text": "say",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "Sonia"
+},
+"sentence": " \"Our party's position is absolutely clear on this, I will not say anything on this further,\" said Sonia.",
+"object": {
+"text": "Our party's position is absolutely clear on this, I will not say anything on this further"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+}
+],
+"relations": [
+{
+"type": "timeOf",
+"sentence": "Friday was the last day of the Monsoon session of .",
+"score": 0.758664,
+"arguments": [
+{
+"text": "last day",
+"location": [
+124,
+132
+],
+"entities": [
+{
+"type": "Date",
+"text": "last day"
+}
+]
+},
+{
+"text": "session",
+"location": [
+148,
+155
+],
+"entities": [
+{
+"type": "EventMeeting",
+"text": "session"
+}
+]
+}
+]
+},
+{
+"type": "timeOf",
+"sentence": "Earlier on Friday, Congress leader Sonia Gandhi had said she would not say anything on the matter as her party's position was clear on the issue.",
+"score": 0.651663,
+"arguments": [
+{
+"text": "Earlier on Friday",
+"location": [
+1063,
+1080
+],
+"entities": [
+{
+"type": "Time",
+"text": "Earlier on Friday"
+}
+]
+},
+{
+"text": "said",
+"location": [
+1115,
+1119
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "Earlier on Friday, Congress leader Sonia Gandhi had said she would not say anything on the matter as her party's position was clear on the issue.",
+"score": 0.601506,
+"arguments": [
+{
+"text": "leader",
+"location": [
+1091,
+1097
+],
+"entities": [
+{
+"type": "Person",
+"text": "Sonia Gandhi"
+}
+]
+},
+{
+"text": "Congress",
+"location": [
+1082,
+1090
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Congress",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Earlier on Friday, Congress leader Sonia Gandhi had said she would not say anything on the matter as her party's position was clear on the issue.",
+"score": 0.681651,
+"arguments": [
+{
+"text": "she",
+"location": [
+1120,
+1123
+],
+"entities": [
+{
+"type": "Person",
+"text": "Sonia Gandhi"
+}
+]
+},
+{
+"text": "said",
+"location": [
+1115,
+1119
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "\"Our party's position is absolutely clear on this, I will not say anything on this further,\" said Sonia.",
+"score": 0.969031,
+"arguments": [
+{
+"text": "Sonia",
+"location": [
+1307,
+1312
+],
+"entities": [
+{
+"type": "Person",
+"text": "Sonia Gandhi"
+}
+]
+},
+{
+"text": "said",
+"location": [
+1302,
+1306
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "managerOf",
+"sentence": "Earlier on Friday, Congress leader Sonia Gandhi had said she would not say anything on the matter as her party's position was clear on the issue.",
+"score": 0.567025,
+"arguments": [
+{
+"text": "her",
+"location": [
+1164,
+1167
+],
+"entities": [
+{
+"type": "Person",
+"text": "Sonia Gandhi"
+}
+]
+},
+{
+"text": "party",
+"location": [
+1168,
+1173
+],
+"entities": [
+{
+"type": "Organization",
+"text": "party"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Friday was the last day of the Monsoon session of .",
+"score": 0.735602,
+"arguments": [
+{
+"text": "Monsoon",
+"location": [
+140,
+147
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Monsoon"
+}
+]
+},
+{
+"text": "session",
+"location": [
+148,
+155
+],
+"entities": [
+{
+"type": "EventMeeting",
+"text": "session"
+}
+]
+}
+]
+},
+{
+"type": "affiliatedWith",
+"sentence": "While the draft bill easily passed in the , it ran into trouble in the Upper House, with some opposition parties demanding that a bail provision be included in the bill.",
+"score": 0.657206,
+"arguments": [
+{
+"text": "parties",
+"location": [
+471,
+478
+],
+"entities": [
+{
+"type": "Organization",
+"text": "parties",
+"disambiguation": {
+"subtype": [
+"Political"
+]
+}
+}
+]
+},
+{
+"text": "opposition",
+"location": [
+460,
+470
+],
+"entities": [
+{
+"type": "Person",
+"text": "opposition"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "While the draft bill easily passed in the , it ran into trouble in the Upper House, with some opposition parties demanding that a bail provision be included in the bill.",
+"score": 0.87931,
+"arguments": [
+{
+"text": "parties",
+"location": [
+471,
+478
+],
+"entities": [
+{
+"type": "Organization",
+"text": "parties",
+"disambiguation": {
+"subtype": [
+"Political"
+]
+}
+}
+]
+},
+{
+"text": "demanding",
+"location": [
+479,
+488
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "demanding"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "The first amendment allows only a woman, or a close relative, to file a police case against her husband for instant triple talaq.",
+"score": 0.891926,
+"arguments": [
+{
+"text": "police",
+"location": [
+673,
+679
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Union Cabinet"
+}
+]
+},
+{
+"text": "case",
+"location": [
+680,
+684
+],
+"entities": [
+{
+"type": "EventLegal",
+"text": "case"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "The first amendment allows only a woman, or a close relative, to file a police case against her husband for instant triple talaq.",
+"score": 0.446231,
+"arguments": [
+{
+"text": "her",
+"location": [
+693,
+696
+],
+"entities": [
+{
+"type": "Person",
+"text": "magistrate"
+}
+]
+},
+{
+"text": "case",
+"location": [
+680,
+684
+],
+"entities": [
+{
+"type": "EventLegal",
+"text": "case"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "The first amendment allows only a woman, or a close relative, to file a police case against her husband for instant triple talaq.",
+"score": 0.882919,
+"arguments": [
+{
+"text": "husband",
+"location": [
+697,
+704
+],
+"entities": [
+{
+"type": "Person",
+"text": "husband"
+}
+]
+},
+{
+"text": "case",
+"location": [
+680,
+684
+],
+"entities": [
+{
+"type": "EventLegal",
+"text": "case"
+}
+]
+}
+]
+},
+{
+"type": "spouseOf",
+"sentence": "The first amendment allows only a woman, or a close relative, to file a police case against her husband for instant triple talaq.",
+"score": 0.680616,
+"arguments": [
+{
+"text": "her",
+"location": [
+693,
+696
+],
+"entities": [
+{
+"type": "Person",
+"text": "magistrate"
+}
+]
+},
+{
+"text": "husband",
+"location": [
+697,
+704
+],
+"entities": [
+{
+"type": "Person",
+"text": "husband"
+}
+]
+}
+]
+},
+{
+"type": "spouseOf",
+"sentence": "That is, now, a magistrate can use his powers to settle the dispute between a husband and his wife.",
+"score": 0.604865,
+"arguments": [
+{
+"text": "his",
+"location": [
+1053,
+1056
+],
+"entities": [
+{
+"type": "Person",
+"text": "husband"
+}
+]
+},
+{
+"text": "wife",
+"location": [
+1057,
+1061
+],
+"entities": [
+{
+"type": "Person",
+"text": "magistrate"
+}
+]
+}
+]
+}
+],
+"language": "en",
+"keywords": [
+{
+"text": "instant triple talaq",
+"sentiment": {
+"score": -0.23865,
+"label": "negative"
+},
+"relevance": 0.939407,
+"emotion": {
+"sadness": 0.25815,
+"joy": 0.069111,
+"fear": 0.180399,
+"disgust": 0.234199,
+"anger": 0.167775
+}
+},
+{
+"text": "bail provision",
+"sentiment": {
+"score": -0.478781,
+"label": "negative"
+},
+"relevance": 0.803186,
+"emotion": {
+"sadness": 0.069223,
+"joy": 0.043306,
+"fear": 0.02359,
+"disgust": 0.330087,
+"anger": 0.06327
+}
+},
+{
+"text": "leader Sonia Gandhi",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.758653,
+"emotion": {
+"sadness": 0.136315,
+"joy": 0.113627,
+"fear": 0.049007,
+"disgust": 0.412771,
+"anger": 0.383457
+}
+},
+{
+"text": "draft law",
+"sentiment": {
+"score": -0.661515,
+"label": "negative"
+},
+"relevance": 0.64406,
+"emotion": {
+"sadness": 0.305553,
+"joy": 0.103044,
+"fear": 0.087976,
+"disgust": 0.224752,
+"anger": 0.264894
+}
+},
+{
+"text": "Monsoon session",
+"sentiment": {
+"score": -0.410636,
+"label": "negative"
+},
+"relevance": 0.624341,
+"emotion": {
+"sadness": 0.60361,
+"joy": 0.191218,
+"fear": 0.282165,
+"disgust": 0.006626,
+"anger": 0.03787
+}
+}
+],
+"entities": [
+{
+"type": "Person",
+"text": "Sonia Gandhi",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.804599,
+"emotion": {
+"sadness": 0.133053,
+"joy": 0.128829,
+"fear": 0.043928,
+"disgust": 0.423876,
+"anger": 0.395445
+},
+"disambiguation": {
+"subtype": [
+"Politician",
+"OfficeHolder"
+],
+"name": "Sonia Gandhi",
+"dbpedia_resource": "http://dbpedia.org/resource/Sonia_Gandhi"
+},
+"count": 3
+},
+{
+"type": "Organization",
+"text": "Union Cabinet",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.677706,
+"emotion": {
+"sadness": 0.304103,
+"joy": 0.319967,
+"fear": 0.038765,
+"disgust": 0.081713,
+"anger": 0.211378
+},
+"disambiguation": {
+"subtype": [],
+"name": "Cabinet of India",
+"dbpedia_resource": "http://dbpedia.org/resource/Cabinet_of_India"
+},
+"count": 2
+},
+{
+"type": "Location",
+"text": "DELHI",
+"sentiment": {
+"score": 0.287731,
+"label": "positive"
+},
+"relevance": 0.460127,
+"emotion": {
+"sadness": 0.115132,
+"joy": 0.596039,
+"fear": 0.084006,
+"disgust": 0.034674,
+"anger": 0.046922
+},
+"disambiguation": {
+"subtype": [
+"Country"
+]
+},
+"count": 1
+}
+],
+"concepts": [
+{
+"text": "United States Constitution",
+"relevance": 0.94506,
+"dbpedia_resource": "http://dbpedia.org/resource/United_States_Constitution"
+},
+{
+"text": "Marriage",
+"relevance": 0.890721,
+"dbpedia_resource": "http://dbpedia.org/resource/Marriage"
+},
+{
+"text": "United States Bill of Rights",
+"relevance": 0.853119,
+"dbpedia_resource": "http://dbpedia.org/resource/United_States_Bill_of_Rights"
+},
+{
+"text": "India",
+"relevance": 0.746444,
+"dbpedia_resource": "http://dbpedia.org/resource/India"
+},
+{
+"text": "Crime",
+"relevance": 0.677306,
+"dbpedia_resource": "http://dbpedia.org/resource/Crime"
+}
+],
+"categories": [
+{
+"score": 0.630056,
+"label": "/law, govt and politics/government/parliament"
+},
+{
+"score": 0.460832,
+"label": "/law, govt and politics"
+},
+{
+"score": 0.408515,
+"label": "/science/weather"
+}
+]
+}
+}

@@ -1,0 +1,2266 @@
+{
+"source_article_link": "https://timesofindia.indiatimes.com/india/amnesty-international-asks-up-govt-to-immediately-release-bhim-armys-chandrashekhar-azad/articleshow/64495988.cms?&utm_source=Articleshow&utm_medium=Organic&utm_campaign=Related_Stories",
+"title": "Amnesty International asks UP govt to 'immediately release' Bhim army's Chandrashekhar Azad",
+"date_published": "2018-06-07T18:38:09+05:30",
+"source_type": "news_article",
+"source_name": "timesofindia.indiatimes.com",
+"image_link": [
+"https://timesofindia.indiatimes.com/thumb/msid-64496067,imgsize-211583,width-400,resizemode-4/64496067.jpg"
+],
+"article_body": "LUCKNOW: India has demanded the immediate release of Bhim army chief Chandrashekhar Azad who is languishing in jail over his alleged role in the Saharanpur violence in May 2017. Accused of rioting, Azad was arrested from Dalhousie, on June 8, 2017 by a Special Task Force (STF) team of the Uttar Pradesh police. After about six months in jail, he was slapped with the National Security Act (NSA). \"Chandrashekhar Azad 'Ravan' has been languishing in prison for the last one year. Keeping him behind bars under repressive administrative detention laws, shows that the Uttar Pradesh government would rather stifle dissent than address serious human rights concerns,\" Programmes Director at Amnesty International India Asmita Basu said. Stressing that Azad has been denied a fair trial, Basu said even the Allahabad High Court has observed that cases against the Bhim Army chief were politically motivated. \"On November 2, 2017, the Allahabad High Court granted him bail and observed that cases against Azad were politically motivated,\" Basu said in a press conference However, a day before his release, Azad was booked under the draconian NSA, thus preventing his release, Basu added. President of Bhim Army, Vinay Ratan Singh, who was also present in the conference, lashed out at the state government for imprisoning Azad. \"The state government has done everything to keep Chandrashekhar Azad Ravan in jail. What crime has he committed?\" asked Singh. \"When the riots were taking place, the same state authorities had asked for his (Azad) and Bhim Army's help to maintain peace in Saharanpur. Now they are saying that if he is released, he will create a law and order problem,\" he added. Over 140,000 people across India have supported Amnesty International India's campaign calling on Uttar Pradesh Chief Minister Yogi Adityanath to release Azad, Singh said. The petition launched on April 4, requests people to give a missed call to show their support for Azad, Singh added.",
+"description": "LUCKNOW: India has demanded the immediate release of Bhim army chief Chandrashekhar Azad who is languishing in jail over his alleged role in the Saharanpur violence in May 2017. Accused of rioting, Azad was arrested from Dalhousie, on June 8, 2017 by a Special Task Force (STF) team of the Uttar Pradesh police. After about six months in jail, he was slapped with the National Security Act (NSA). \"Chandrashekhar Azad 'Ravan' has been languishing in prison for the last one year. Keeping him behind bars under repressive administrative detention laws, shows that the Uttar Pradesh government would rather stifle dissent than address serious human rights concerns,\" Programmes Director at Amnesty International India Asmita Basu said.",
+"time_scraped": "2018-08-23 00:02:57.417005",
+"article_id": "64495988",
+"article_category": "IndiaNews",
+"image_details": [
+{
+"url": "https://timesofindia.indiatimes.com/thumb/msid-64496067,imgsize-211583,width-400,resizemode-4/64496067.jpg",
+"path": "full/1869870ba62e1bbe0df46b7bca8b10d104e8aef1.jpg",
+"checksum": "132e3927219d00004eba674d54102476"
+}
+],
+"ibm_nlu": {
+"usage": {
+"text_units": 1,
+"text_characters": 1975,
+"features": 7
+},
+"sentiment": {
+"document": {
+"score": -0.684631,
+"label": "negative"
+}
+},
+"semantic_roles": [
+{
+"subject": {
+"text": "India"
+},
+"sentence": "LUCKNOW: India has demanded the immediate release of Bhim army chief Chandrashekhar Azad who is languishing in jail over his alleged role in the Saharanpur violence in May 2017.",
+"object": {
+"text": "demanded the immediate release of Bhim army chief Chandrashekhar"
+},
+"action": {
+"verb": {
+"text": "have",
+"tense": "present"
+},
+"text": "has",
+"normalized": "have"
+}
+},
+{
+"subject": {
+"text": "India"
+},
+"sentence": "LUCKNOW: India has demanded the immediate release of Bhim army chief Chandrashekhar Azad who is languishing in jail over his alleged role in the Saharanpur violence in May 2017.",
+"object": {
+"text": "the immediate release of Bhim army chief Chandrashekhar Azad who is languishing in jail over his alleged role in the Saharanpur violence in May 2017"
+},
+"action": {
+"verb": {
+"text": "demand",
+"tense": "past"
+},
+"text": "has demanded",
+"normalized": "have demand"
+}
+},
+{
+"subject": {
+"text": "Azad"
+},
+"sentence": " Accused of rioting, Azad was arrested from Dalhousie, on June 8, 2017 by a Special Task Force (STF) team of the Uttar Pradesh police.",
+"object": {
+"text": "of rioting"
+},
+"action": {
+"verb": {
+"text": "Accused",
+"tense": "past"
+},
+"text": "Accused",
+"normalized": "Accused"
+}
+},
+{
+"subject": {
+"text": "Azad"
+},
+"sentence": " Accused of rioting, Azad was arrested from Dalhousie, on June 8, 2017 by a Special Task Force (STF) team of the Uttar Pradesh police.",
+"object": {
+"text": "arrested from Dalhousie, on June 8, 2017 by a Special Task Force (STF) team of the Uttar Pradesh police"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "was",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "Azad"
+},
+"sentence": " Accused of rioting, Azad was arrested from Dalhousie, on June 8, 2017 by a Special Task Force (STF) team of the Uttar Pradesh police.",
+"object": {
+"text": "from Dalhousie, on June 8, 2017 by a Special Task Force (STF) team of the Uttar Pradesh police"
+},
+"action": {
+"verb": {
+"text": "arrest",
+"tense": "past"
+},
+"text": "was arrested",
+"normalized": "be arrest"
+}
+},
+{
+"subject": {
+"text": "he"
+},
+"sentence": " After about six months in jail, he was slapped with the National Security Act (NSA).",
+"action": {
+"verb": {
+"text": "slap",
+"tense": "past"
+},
+"text": "was slapped",
+"normalized": "be slap"
+}
+},
+{
+"subject": {
+"text": "Chandrashekhar Azad 'Ravan'"
+},
+"sentence": " \"Chandrashekhar Azad 'Ravan' has been languishing in prison for the last one year.",
+"object": {
+"text": "languishing in prison for the last one year"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "been",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "Chandrashekhar Azad 'Ravan'"
+},
+"sentence": " \"Chandrashekhar Azad 'Ravan' has been languishing in prison for the last one year.",
+"object": {
+"text": "in prison"
+},
+"action": {
+"verb": {
+"text": "languish",
+"tense": "past"
+},
+"text": "has been languishing",
+"normalized": "have be languish"
+}
+},
+{
+"subject": {
+"text": "the Uttar Pradesh government"
+},
+"sentence": " Keeping him behind bars under repressive administrative detention laws, shows that the Uttar Pradesh government would rather stifle dissent than address serious human rights concerns,\" Programmes Director at Amnesty International India Asmita Basu said.",
+"object": {
+"text": "dissent than address serious human rights concerns"
+},
+"action": {
+"verb": {
+"text": "stifle",
+"tense": "future"
+},
+"text": "would rather stifle",
+"normalized": "would rather stifle"
+}
+},
+{
+"subject": {
+"text": "Programmes Director at Amnesty International India Asmita Basu"
+},
+"sentence": " Keeping him behind bars under repressive administrative detention laws, shows that the Uttar Pradesh government would rather stifle dissent than address serious human rights concerns,\" Programmes Director at Amnesty International India Asmita Basu said.",
+"object": {
+"text": "Keeping him behind bars under repressive administrative detention laws, shows that the Uttar Pradesh government would rather stifle dissent than address serious human rights concerns"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "Azad"
+},
+"sentence": " Stressing that Azad has been denied a fair trial, Basu said even the Allahabad High Court has observed that cases against the Bhim Army chief were politically motivated.",
+"object": {
+"text": "that"
+},
+"action": {
+"verb": {
+"text": "Stressing",
+"tense": "present"
+},
+"text": "Stressing",
+"normalized": "Stressing"
+}
+},
+{
+"subject": {
+"text": "Azad"
+},
+"sentence": " Stressing that Azad has been denied a fair trial, Basu said even the Allahabad High Court has observed that cases against the Bhim Army chief were politically motivated.",
+"object": {
+"text": "a fair trial"
+},
+"action": {
+"verb": {
+"text": "deny",
+"tense": "past"
+},
+"text": "has been denied",
+"normalized": "have be deny"
+}
+},
+{
+"subject": {
+"text": "Basu"
+},
+"sentence": " Stressing that Azad has been denied a fair trial, Basu said even the Allahabad High Court has observed that cases against the Bhim Army chief were politically motivated.",
+"object": {
+"text": "even the Allahabad High Court has observed that cases against the Bhim Army chief were politically motivated"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "the Allahabad High Court"
+},
+"sentence": " \"On November 2, 2017, the Allahabad High Court granted him bail and observed that cases against Azad were politically motivated,\" Basu said in a press conference However, a day before his release, Azad was booked under the draconian NSA, thus preventing his release, Basu added.",
+"action": {
+"verb": {
+"text": "grant",
+"tense": "past"
+},
+"text": "granted",
+"normalized": "grant"
+}
+},
+{
+"subject": {
+"text": "the Allahabad High Court"
+},
+"sentence": " \"On November 2, 2017, the Allahabad High Court granted him bail and observed that cases against Azad were politically motivated,\" Basu said in a press conference However, a day before his release, Azad was booked under the draconian NSA, thus preventing his release, Basu added.",
+"object": {
+"text": "that cases against Azad were politically motivated"
+},
+"action": {
+"verb": {
+"text": "observe",
+"tense": "past"
+},
+"text": "observed",
+"normalized": "observe"
+}
+},
+{
+"subject": {
+"text": "Basu"
+},
+"sentence": " \"On November 2, 2017, the Allahabad High Court granted him bail and observed that cases against Azad were politically motivated,\" Basu said in a press conference However, a day before his release, Azad was booked under the draconian NSA, thus preventing his release, Basu added.",
+"object": {
+"text": "On November 2, 2017, the Allahabad High Court granted him bail and observed that cases against Azad were politically motivated"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "Azad"
+},
+"sentence": " \"On November 2, 2017, the Allahabad High Court granted him bail and observed that cases against Azad were politically motivated,\" Basu said in a press conference However, a day before his release, Azad was booked under the draconian NSA, thus preventing his release, Basu added.",
+"object": {
+"text": "booked under the draconian NSA"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "was",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "Azad"
+},
+"sentence": " \"On November 2, 2017, the Allahabad High Court granted him bail and observed that cases against Azad were politically motivated,\" Basu said in a press conference However, a day before his release, Azad was booked under the draconian NSA, thus preventing his release, Basu added.",
+"object": {
+"text": "under the draconian NSA"
+},
+"action": {
+"verb": {
+"text": "book",
+"tense": "past"
+},
+"text": "was booked",
+"normalized": "be book"
+}
+},
+{
+"subject": {
+"text": "Azad"
+},
+"sentence": " \"On November 2, 2017, the Allahabad High Court granted him bail and observed that cases against Azad were politically motivated,\" Basu said in a press conference However, a day before his release, Azad was booked under the draconian NSA, thus preventing his release, Basu added.",
+"object": {
+"text": "his release"
+},
+"action": {
+"verb": {
+"text": "prevent",
+"tense": "present"
+},
+"text": "preventing",
+"normalized": "prevent"
+}
+},
+{
+"subject": {
+"text": "Basu"
+},
+"sentence": " \"On November 2, 2017, the Allahabad High Court granted him bail and observed that cases against Azad were politically motivated,\" Basu said in a press conference However, a day before his release, Azad was booked under the draconian NSA, thus preventing his release, Basu added.",
+"object": {
+"text": "his release"
+},
+"action": {
+"verb": {
+"text": "add",
+"tense": "past"
+},
+"text": "added",
+"normalized": "add"
+}
+},
+{
+"subject": {
+"text": "Vinay Ratan Singh, who was also present in the conference,"
+},
+"sentence": " President of Bhim Army, Vinay Ratan Singh, who was also present in the conference, lashed out at the state government for imprisoning Azad.",
+"object": {
+"text": "Azad"
+},
+"action": {
+"verb": {
+"text": "imprison",
+"tense": "present"
+},
+"text": "imprisoning",
+"normalized": "imprison"
+}
+},
+{
+"subject": {
+"text": "The state government"
+},
+"sentence": " \"The state government has done everything to keep Chandrashekhar Azad Ravan in jail.",
+"object": {
+"text": "everything to keep Chandrashekhar Azad Ravan in jail"
+},
+"action": {
+"verb": {
+"text": "do",
+"tense": "past"
+},
+"text": "has done",
+"normalized": "have do"
+}
+},
+{
+"subject": {
+"text": "What crime"
+},
+"sentence": " What crime has he committed?\" asked Singh.",
+"object": {
+"text": "he committed"
+},
+"action": {
+"verb": {
+"text": "have",
+"tense": "present"
+},
+"text": "has",
+"normalized": "have"
+}
+},
+{
+"subject": {
+"text": "the riots"
+},
+"sentence": " \"When the riots were taking place, the same state authorities had asked for his (Azad) and Bhim Army's help to maintain peace in Saharanpur.",
+"object": {
+"text": "taking place"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "were",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "the riots"
+},
+"sentence": " \"When the riots were taking place, the same state authorities had asked for his (Azad) and Bhim Army's help to maintain peace in Saharanpur.",
+"object": {
+"text": "place"
+},
+"action": {
+"verb": {
+"text": "take",
+"tense": "past"
+},
+"text": "were taking",
+"normalized": "be take"
+}
+},
+{
+"subject": {
+"text": "the same state authorities"
+},
+"sentence": " \"When the riots were taking place, the same state authorities had asked for his (Azad) and Bhim Army's help to maintain peace in Saharanpur.",
+"object": {
+"text": "'s help"
+},
+"action": {
+"verb": {
+"text": "ask",
+"tense": "past"
+},
+"text": "had asked",
+"normalized": "have ask"
+}
+},
+{
+"subject": {
+"text": "Bhim Army"
+},
+"sentence": " \"When the riots were taking place, the same state authorities had asked for his (Azad) and Bhim Army's help to maintain peace in Saharanpur.",
+"object": {
+"text": "peace"
+},
+"action": {
+"verb": {
+"text": "maintain",
+"tense": "future"
+},
+"text": "to maintain",
+"normalized": "to maintain"
+}
+},
+{
+"subject": {
+"text": "they"
+},
+"sentence": " Now they are saying that if he is released, he will create a law and order problem,\" he added.",
+"action": {
+"verb": {
+"text": "be",
+"tense": "present"
+},
+"text": "are saying",
+"normalized": "be say"
+}
+},
+{
+"subject": {
+"text": "they"
+},
+"sentence": " Now they are saying that if he is released, he will create a law and order problem,\" he added.",
+"object": {
+"text": "that if he is released, he will create a law and order problem"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "present"
+},
+"text": "are saying",
+"normalized": "be say"
+}
+},
+{
+"subject": {
+"text": "he"
+},
+"sentence": " Now they are saying that if he is released, he will create a law and order problem,\" he added.",
+"object": {
+"text": "a law and order problem"
+},
+"action": {
+"verb": {
+"text": "add",
+"tense": "past"
+},
+"text": "added",
+"normalized": "add"
+}
+},
+{
+"subject": {
+"text": "Over 140,000 people across India"
+},
+"sentence": " Over 140,000 people across India have supported Amnesty International India's campaign calling on Uttar Pradesh Chief Minister Yogi Adityanath to release Azad, Singh said.",
+"object": {
+"text": "Amnesty International India"
+},
+"action": {
+"verb": {
+"text": "support",
+"tense": "past"
+},
+"text": "have supported",
+"normalized": "have support"
+}
+},
+{
+"subject": {
+"text": "Amnesty International India's campaign"
+},
+"sentence": " Over 140,000 people across India have supported Amnesty International India's campaign calling on Uttar Pradesh Chief Minister Yogi Adityanath to release Azad, Singh said.",
+"object": {
+"text": "on Uttar Pradesh Chief Minister Yogi Adityanath"
+},
+"action": {
+"verb": {
+"text": "call",
+"tense": "present"
+},
+"text": "calling",
+"normalized": "call"
+}
+},
+{
+"subject": {
+"text": "Uttar Pradesh Chief Minister Yogi Adityanath"
+},
+"sentence": " Over 140,000 people across India have supported Amnesty International India's campaign calling on Uttar Pradesh Chief Minister Yogi Adityanath to release Azad, Singh said.",
+"object": {
+"text": "Azad"
+},
+"action": {
+"verb": {
+"text": "release",
+"tense": "future"
+},
+"text": "to release",
+"normalized": "to release"
+}
+},
+{
+"subject": {
+"text": "Singh"
+},
+"sentence": " Over 140,000 people across India have supported Amnesty International India's campaign calling on Uttar Pradesh Chief Minister Yogi Adityanath to release Azad, Singh said.",
+"object": {
+"text": "Uttar Pradesh Chief Minister Yogi Adityanath to release"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "The petition"
+},
+"sentence": " The petition launched on April 4, requests people to give a missed call to show their support for Azad, Singh added.",
+"action": {
+"verb": {
+"text": "launch",
+"tense": "past"
+},
+"text": "launched",
+"normalized": "launch"
+}
+},
+{
+"subject": {
+"text": "The petition"
+},
+"sentence": " The petition launched on April 4, requests people to give a missed call to show their support for Azad, Singh added.",
+"object": {
+"text": "to give a missed call to show their support"
+},
+"action": {
+"verb": {
+"text": "request",
+"tense": "present"
+},
+"text": "requests",
+"normalized": "request"
+}
+},
+{
+"subject": {
+"text": "people"
+},
+"sentence": " The petition launched on April 4, requests people to give a missed call to show their support for Azad, Singh added.",
+"object": {
+"text": "a missed call"
+},
+"action": {
+"verb": {
+"text": "give",
+"tense": "future"
+},
+"text": "to give",
+"normalized": "to give"
+}
+},
+{
+"subject": {
+"text": "people"
+},
+"sentence": " The petition launched on April 4, requests people to give a missed call to show their support for Azad, Singh added.",
+"object": {
+"text": "their support"
+},
+"action": {
+"verb": {
+"text": "show",
+"tense": "future"
+},
+"text": "to show",
+"normalized": "to show"
+}
+},
+{
+"subject": {
+"text": "Singh"
+},
+"sentence": " The petition launched on April 4, requests people to give a missed call to show their support for Azad, Singh added.",
+"object": {
+"text": "The petition launched on April 4, requests people to give a missed call to show their support for Azad"
+},
+"action": {
+"verb": {
+"text": "add",
+"tense": "past"
+},
+"text": "added",
+"normalized": "add"
+}
+}
+],
+"relations": [
+{
+"type": "locatedAt",
+"sentence": "LUCKNOW: India has demanded the immediate release of Bhim army chief Chandrashekhar Azad who is languishing in jail over his alleged role in the Saharanpur violence in May 2017.",
+"score": 0.855963,
+"arguments": [
+{
+"text": "LUCKNOW",
+"location": [
+0,
+7
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "LUCKNOW"
+}
+]
+},
+{
+"text": "India",
+"location": [
+9,
+14
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "India",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "hasAttribute",
+"sentence": "After about six months in jail, he was slapped with the National Security Act (NSA).",
+"score": 0.79695,
+"arguments": [
+{
+"text": "National Security Act",
+"location": [
+368,
+389
+],
+"entities": [
+{
+"type": "Organization",
+"text": "National Security Act",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+},
+{
+"text": "NSA",
+"location": [
+391,
+394
+],
+"entities": [
+{
+"type": "Ticker",
+"text": "NSA"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "\"Chandrashekhar Azad 'Ravan' has been languishing in prison for the last one year.",
+"score": 0.674756,
+"arguments": [
+{
+"text": "Chandrashekhar Azad",
+"location": [
+398,
+417
+],
+"entities": [
+{
+"type": "Person",
+"text": "Chandrashekhar Azad"
+}
+]
+},
+{
+"text": "prison",
+"location": [
+450,
+456
+],
+"entities": [
+{
+"type": "Facility",
+"text": "prison"
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "Keeping him behind bars under repressive administrative detention laws, shows that the Uttar Pradesh government would rather stifle dissent than address serious human rights concerns,\" Programmes Director at Amnesty International India Asmita Basu said.",
+"score": 0.558522,
+"arguments": [
+{
+"text": "Director",
+"location": [
+676,
+684
+],
+"entities": [
+{
+"type": "Person",
+"text": "Director"
+}
+]
+},
+{
+"text": "Amnesty International",
+"location": [
+688,
+709
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Amnesty International",
+"disambiguation": {
+"subtype": [
+"Commercial"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Keeping him behind bars under repressive administrative detention laws, shows that the Uttar Pradesh government would rather stifle dissent than address serious human rights concerns,\" Programmes Director at Amnesty International India Asmita Basu said.",
+"score": 0.975807,
+"arguments": [
+{
+"text": "Asmita Basu",
+"location": [
+716,
+727
+],
+"entities": [
+{
+"type": "Person",
+"text": "Asmita Basu"
+}
+]
+},
+{
+"text": "said",
+"location": [
+728,
+732
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "added"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Stressing that Azad has been denied a fair trial, Basu said even the Allahabad High Court has observed that cases against the Bhim Army chief were politically motivated.",
+"score": 0.992241,
+"arguments": [
+{
+"text": "Basu",
+"location": [
+784,
+788
+],
+"entities": [
+{
+"type": "Person",
+"text": "Asmita Basu"
+}
+]
+},
+{
+"text": "said",
+"location": [
+789,
+793
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "added"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "\"On November 2, 2017, the Allahabad High Court granted him bail and observed that cases against Azad were politically motivated,\" Basu said in a press conference However, a day before his release, Azad was booked under the draconian NSA, thus preventing his release, Basu added.",
+"score": 0.894429,
+"arguments": [
+{
+"text": "Basu",
+"location": [
+1034,
+1038
+],
+"entities": [
+{
+"type": "Person",
+"text": "Asmita Basu"
+}
+]
+},
+{
+"text": "said",
+"location": [
+1039,
+1043
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "added"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "\"On November 2, 2017, the Allahabad High Court granted him bail and observed that cases against Azad were politically motivated,\" Basu said in a press conference However, a day before his release, Azad was booked under the draconian NSA, thus preventing his release, Basu added.",
+"score": 0.910298,
+"arguments": [
+{
+"text": "Basu",
+"location": [
+1171,
+1175
+],
+"entities": [
+{
+"type": "Person",
+"text": "Asmita Basu"
+}
+]
+},
+{
+"text": "added",
+"location": [
+1176,
+1181
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "added"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Stressing that Azad has been denied a fair trial, Basu said even the Allahabad High Court has observed that cases against the Bhim Army chief were politically motivated.",
+"score": 0.908508,
+"arguments": [
+{
+"text": "Azad",
+"location": [
+749,
+753
+],
+"entities": [
+{
+"type": "Person",
+"text": "Chandrashekhar Azad"
+}
+]
+},
+{
+"text": "denied",
+"location": [
+763,
+769
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "denied"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "Stressing that Azad has been denied a fair trial, Basu said even the Allahabad High Court has observed that cases against the Bhim Army chief were politically motivated.",
+"score": 0.418491,
+"arguments": [
+{
+"text": "Azad",
+"location": [
+749,
+753
+],
+"entities": [
+{
+"type": "Person",
+"text": "Chandrashekhar Azad"
+}
+]
+},
+{
+"text": "trial",
+"location": [
+777,
+782
+],
+"entities": [
+{
+"type": "EventLegal",
+"text": "trial"
+}
+]
+}
+]
+},
+{
+"type": "timeOf",
+"sentence": "\"On November 2, 2017, the Allahabad High Court granted him bail and observed that cases against Azad were politically motivated,\" Basu said in a press conference However, a day before his release, Azad was booked under the draconian NSA, thus preventing his release, Basu added.",
+"score": 0.82416,
+"arguments": [
+{
+"text": "November 2, 2017",
+"location": [
+908,
+924
+],
+"entities": [
+{
+"type": "Date",
+"text": "November 2, 2017"
+}
+]
+},
+{
+"text": "granted",
+"location": [
+951,
+958
+],
+"entities": [
+{
+"type": "EventLegal",
+"text": "granted"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "\"On November 2, 2017, the Allahabad High Court granted him bail and observed that cases against Azad were politically motivated,\" Basu said in a press conference However, a day before his release, Azad was booked under the draconian NSA, thus preventing his release, Basu added.",
+"score": 0.987774,
+"arguments": [
+{
+"text": "Allahabad High Court",
+"location": [
+930,
+950
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Allahabad High Court"
+}
+]
+},
+{
+"text": "granted",
+"location": [
+951,
+958
+],
+"entities": [
+{
+"type": "EventLegal",
+"text": "granted"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "\"On November 2, 2017, the Allahabad High Court granted him bail and observed that cases against Azad were politically motivated,\" Basu said in a press conference However, a day before his release, Azad was booked under the draconian NSA, thus preventing his release, Basu added.",
+"score": 0.949954,
+"arguments": [
+{
+"text": "him",
+"location": [
+959,
+962
+],
+"entities": [
+{
+"type": "Person",
+"text": "Chandrashekhar Azad"
+}
+]
+},
+{
+"text": "granted",
+"location": [
+951,
+958
+],
+"entities": [
+{
+"type": "EventLegal",
+"text": "granted"
+}
+]
+}
+]
+},
+{
+"type": "participantIn",
+"sentence": "\"On November 2, 2017, the Allahabad High Court granted him bail and observed that cases against Azad were politically motivated,\" Basu said in a press conference However, a day before his release, Azad was booked under the draconian NSA, thus preventing his release, Basu added.",
+"score": 0.520408,
+"arguments": [
+{
+"text": "Basu",
+"location": [
+1034,
+1038
+],
+"entities": [
+{
+"type": "Person",
+"text": "Asmita Basu"
+}
+]
+},
+{
+"text": "press conference",
+"location": [
+1049,
+1065
+],
+"entities": [
+{
+"type": "EventMeeting",
+"text": "press conference"
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "LUCKNOW: India has demanded the immediate release of Bhim army chief Chandrashekhar Azad who is languishing in jail over his alleged role in the Saharanpur violence in May 2017.",
+"score": 0.521518,
+"arguments": [
+{
+"text": "Bhim",
+"location": [
+53,
+57
+],
+"entities": [
+{
+"type": "Person",
+"text": "Bhim Army"
+}
+]
+},
+{
+"text": "army",
+"location": [
+58,
+62
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Army",
+"disambiguation": {
+"subtype": [
+"Military"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "Stressing that Azad has been denied a fair trial, Basu said even the Allahabad High Court has observed that cases against the Bhim Army chief were politically motivated.",
+"score": 0.605071,
+"arguments": [
+{
+"text": "chief",
+"location": [
+870,
+875
+],
+"entities": [
+{
+"type": "Person",
+"text": "Bhim Army"
+}
+]
+},
+{
+"text": "Army",
+"location": [
+865,
+869
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Army",
+"disambiguation": {
+"subtype": [
+"Military"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "partOf",
+"sentence": "\"On November 2, 2017, the Allahabad High Court granted him bail and observed that cases against Azad were politically motivated,\" Basu said in a press conference However, a day before his release, Azad was booked under the draconian NSA, thus preventing his release, Basu added.",
+"score": 0.76022,
+"arguments": [
+{
+"text": "said",
+"location": [
+1039,
+1043
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "added"
+}
+]
+},
+{
+"text": "press conference",
+"location": [
+1049,
+1065
+],
+"entities": [
+{
+"type": "EventMeeting",
+"text": "press conference"
+}
+]
+}
+]
+},
+{
+"type": "participantIn",
+"sentence": "President of Bhim Army, Vinay Ratan Singh, who was also present in the conference, lashed out at the state government for imprisoning Azad.",
+"score": 0.820636,
+"arguments": [
+{
+"text": "who",
+"location": [
+1226,
+1229
+],
+"entities": [
+{
+"type": "Person",
+"text": "Vinay Ratan Singh"
+}
+]
+},
+{
+"text": "conference",
+"location": [
+1254,
+1264
+],
+"entities": [
+{
+"type": "EventMeeting",
+"text": "press conference"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "\"The state government has done everything to keep Chandrashekhar Azad Ravan in jail.",
+"score": 0.811613,
+"arguments": [
+{
+"text": "Chandrashekhar Azad Ravan",
+"location": [
+1373,
+1398
+],
+"entities": [
+{
+"type": "Person",
+"text": "Chandrashekhar Azad Ravan"
+}
+]
+},
+{
+"text": "jail",
+"location": [
+1402,
+1406
+],
+"entities": [
+{
+"type": "Facility",
+"text": "jail"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "\" asked Singh.",
+"score": 0.774265,
+"arguments": [
+{
+"text": "Singh",
+"location": [
+1444,
+1449
+],
+"entities": [
+{
+"type": "Person",
+"text": "Vinay Ratan Singh"
+}
+]
+},
+{
+"text": "asked",
+"location": [
+1438,
+1443
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "asked"
+}
+]
+}
+]
+},
+{
+"type": "partOf",
+"sentence": "\"When the riots were taking place, the same state authorities had asked for his (Azad) and Bhim Army's help to maintain peace in Saharanpur.",
+"score": 0.997046,
+"arguments": [
+{
+"text": "authorities",
+"location": [
+1501,
+1512
+],
+"entities": [
+{
+"type": "Organization",
+"text": "authorities",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+},
+{
+"text": "state",
+"location": [
+1495,
+1500
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Uttar Pradesh government"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "\"When the riots were taking place, the same state authorities had asked for his (Azad) and Bhim Army's help to maintain peace in Saharanpur.",
+"score": 0.920589,
+"arguments": [
+{
+"text": "authorities",
+"location": [
+1501,
+1512
+],
+"entities": [
+{
+"type": "Organization",
+"text": "authorities",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+},
+{
+"text": "asked",
+"location": [
+1517,
+1522
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "asked"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "\"When the riots were taking place, the same state authorities had asked for his (Azad) and Bhim Army's help to maintain peace in Saharanpur.",
+"score": 0.482839,
+"arguments": [
+{
+"text": "Azad",
+"location": [
+1532,
+1536
+],
+"entities": [
+{
+"type": "Person",
+"text": "Chandrashekhar Azad"
+}
+]
+},
+{
+"text": "Saharanpur",
+"location": [
+1580,
+1590
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Saharanpur"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Now they are saying that if he is released, he will create a law and order problem,\" he added.",
+"score": 0.944284,
+"arguments": [
+{
+"text": "they",
+"location": [
+1596,
+1600
+],
+"entities": [
+{
+"type": "Person",
+"text": "they"
+}
+]
+},
+{
+"text": "saying",
+"location": [
+1605,
+1611
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "saying"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Now they are saying that if he is released, he will create a law and order problem,\" he added.",
+"score": 0.98523,
+"arguments": [
+{
+"text": "he",
+"location": [
+1677,
+1679
+],
+"entities": [
+{
+"type": "Person",
+"text": "Chandrashekhar Azad"
+}
+]
+},
+{
+"text": "added",
+"location": [
+1680,
+1685
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "added"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "Over 140,000 people across India have supported Amnesty International India's campaign calling on Uttar Pradesh Chief Minister Yogi Adityanath to release Azad, Singh said.",
+"score": 0.572901,
+"arguments": [
+{
+"text": "people",
+"location": [
+1700,
+1706
+],
+"entities": [
+{
+"type": "Person",
+"text": "people"
+}
+]
+},
+{
+"text": "India",
+"location": [
+1714,
+1719
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "India",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "managerOf",
+"sentence": "LUCKNOW: India has demanded the immediate release of Bhim army chief Chandrashekhar Azad who is languishing in jail over his alleged role in the Saharanpur violence in May 2017.",
+"score": 0.451764,
+"arguments": [
+{
+"text": "chief",
+"location": [
+63,
+68
+],
+"entities": [
+{
+"type": "Person",
+"text": "Chandrashekhar Azad"
+}
+]
+},
+{
+"text": "army",
+"location": [
+58,
+62
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Army",
+"disambiguation": {
+"subtype": [
+"Military"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "Over 140,000 people across India have supported Amnesty International India's campaign calling on Uttar Pradesh Chief Minister Yogi Adityanath to release Azad, Singh said.",
+"score": 0.482284,
+"arguments": [
+{
+"text": "Chief Minister",
+"location": [
+1799,
+1813
+],
+"entities": [
+{
+"type": "Person",
+"text": "Yogi Adityanath"
+}
+]
+},
+{
+"text": "Uttar Pradesh",
+"location": [
+1785,
+1798
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Uttar Pradesh government"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Over 140,000 people across India have supported Amnesty International India's campaign calling on Uttar Pradesh Chief Minister Yogi Adityanath to release Azad, Singh said.",
+"score": 0.544255,
+"arguments": [
+{
+"text": "Yogi Adityanath",
+"location": [
+1814,
+1829
+],
+"entities": [
+{
+"type": "Person",
+"text": "Yogi Adityanath"
+}
+]
+},
+{
+"text": "said",
+"location": [
+1853,
+1857
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "added"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "Over 140,000 people across India have supported Amnesty International India's campaign calling on Uttar Pradesh Chief Minister Yogi Adityanath to release Azad, Singh said.",
+"score": 0.805901,
+"arguments": [
+{
+"text": "Azad",
+"location": [
+1841,
+1845
+],
+"entities": [
+{
+"type": "Person",
+"text": "Chandrashekhar Azad"
+}
+]
+},
+{
+"text": "release",
+"location": [
+1833,
+1840
+],
+"entities": [
+{
+"type": "EventCustody",
+"text": "release"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Over 140,000 people across India have supported Amnesty International India's campaign calling on Uttar Pradesh Chief Minister Yogi Adityanath to release Azad, Singh said.",
+"score": 0.878325,
+"arguments": [
+{
+"text": "Singh",
+"location": [
+1847,
+1852
+],
+"entities": [
+{
+"type": "Person",
+"text": "Vinay Ratan Singh"
+}
+]
+},
+{
+"text": "said",
+"location": [
+1853,
+1857
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "added"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "The petition launched on April 4, requests people to give a missed call to show their support for Azad, Singh added.",
+"score": 0.882139,
+"arguments": [
+{
+"text": "Singh",
+"location": [
+1963,
+1968
+],
+"entities": [
+{
+"type": "Person",
+"text": "Vinay Ratan Singh"
+}
+]
+},
+{
+"text": "added",
+"location": [
+1969,
+1974
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "added"
+}
+]
+}
+]
+},
+{
+"type": "timeOf",
+"sentence": "The petition launched on April 4, requests people to give a missed call to show their support for Azad, Singh added.",
+"score": 0.520382,
+"arguments": [
+{
+"text": "April 4",
+"location": [
+1884,
+1891
+],
+"entities": [
+{
+"type": "Date",
+"text": "April 4"
+}
+]
+},
+{
+"text": "added",
+"location": [
+1969,
+1974
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "added"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "LUCKNOW: India has demanded the immediate release of Bhim army chief Chandrashekhar Azad who is languishing in jail over his alleged role in the Saharanpur violence in May 2017.",
+"score": 0.566745,
+"arguments": [
+{
+"text": "who",
+"location": [
+89,
+92
+],
+"entities": [
+{
+"type": "Person",
+"text": "Chandrashekhar Azad"
+}
+]
+},
+{
+"text": "jail",
+"location": [
+111,
+115
+],
+"entities": [
+{
+"type": "Facility",
+"text": "jail"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "After about six months in jail, he was slapped with the National Security Act (NSA).",
+"score": 0.565976,
+"arguments": [
+{
+"text": "he",
+"location": [
+344,
+346
+],
+"entities": [
+{
+"type": "Person",
+"text": "Chandrashekhar Azad"
+}
+]
+},
+{
+"text": "jail",
+"location": [
+338,
+342
+],
+"entities": [
+{
+"type": "Facility",
+"text": "jail"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "LUCKNOW: India has demanded the immediate release of Bhim army chief Chandrashekhar Azad who is languishing in jail over his alleged role in the Saharanpur violence in May 2017.",
+"score": 0.545445,
+"arguments": [
+{
+"text": "violence",
+"location": [
+156,
+164
+],
+"entities": [
+{
+"type": "EventViolence",
+"text": "violence"
+}
+]
+},
+{
+"text": "Saharanpur",
+"location": [
+145,
+155
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Saharanpur"
+}
+]
+}
+]
+},
+{
+"type": "timeOf",
+"sentence": "LUCKNOW: India has demanded the immediate release of Bhim army chief Chandrashekhar Azad who is languishing in jail over his alleged role in the Saharanpur violence in May 2017.",
+"score": 0.963597,
+"arguments": [
+{
+"text": "May 2017",
+"location": [
+168,
+176
+],
+"entities": [
+{
+"type": "Date",
+"text": "May 2017"
+}
+]
+},
+{
+"text": "violence",
+"location": [
+156,
+164
+],
+"entities": [
+{
+"type": "EventViolence",
+"text": "violence"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "Accused of rioting, Azad was arrested from Dalhousie, on June 8, 2017 by a Special Task Force (STF) team of the Uttar Pradesh police.",
+"score": 0.905465,
+"arguments": [
+{
+"text": "Azad",
+"location": [
+198,
+202
+],
+"entities": [
+{
+"type": "Person",
+"text": "Chandrashekhar Azad"
+}
+]
+},
+{
+"text": "arrested",
+"location": [
+207,
+215
+],
+"entities": [
+{
+"type": "EventCustody",
+"text": "detention"
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "Accused of rioting, Azad was arrested from Dalhousie, on June 8, 2017 by a Special Task Force (STF) team of the Uttar Pradesh police.",
+"score": 0.562067,
+"arguments": [
+{
+"text": "Azad",
+"location": [
+198,
+202
+],
+"entities": [
+{
+"type": "Person",
+"text": "Chandrashekhar Azad"
+}
+]
+},
+{
+"text": "Dalhousie",
+"location": [
+221,
+230
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Dalhousie",
+"disambiguation": {
+"subtype": [
+"Commercial"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "timeOf",
+"sentence": "Accused of rioting, Azad was arrested from Dalhousie, on June 8, 2017 by a Special Task Force (STF) team of the Uttar Pradesh police.",
+"score": 0.971664,
+"arguments": [
+{
+"text": "June 8, 2017",
+"location": [
+235,
+247
+],
+"entities": [
+{
+"type": "Date",
+"text": "June 8, 2017"
+}
+]
+},
+{
+"text": "arrested",
+"location": [
+207,
+215
+],
+"entities": [
+{
+"type": "EventCustody",
+"text": "detention"
+}
+]
+}
+]
+}
+],
+"language": "en",
+"keywords": [
+{
+"text": "chief Chandrashekhar Azad",
+"sentiment": {
+"score": -0.279603,
+"label": "negative"
+},
+"relevance": 0.89837,
+"emotion": {
+"sadness": 0.276063,
+"joy": 0.012281,
+"fear": 0.11189,
+"disgust": 0.305083,
+"anger": 0.432655
+}
+},
+{
+"text": "bhim army",
+"sentiment": {
+"score": -0.279603,
+"label": "negative"
+},
+"relevance": 0.834362,
+"emotion": {
+"sadness": 0.359062,
+"joy": 0.022945,
+"fear": 0.071222,
+"disgust": 0.37442,
+"anger": 0.461084
+}
+},
+{
+"text": "bhim army chief",
+"sentiment": {
+"score": -0.279603,
+"label": "negative"
+},
+"relevance": 0.793507,
+"emotion": {
+"sadness": 0.418445,
+"joy": 0.020766,
+"fear": 0.096749,
+"disgust": 0.332858,
+"anger": 0.413478
+}
+},
+{
+"text": "Uttar Pradesh",
+"sentiment": {
+"score": -0.63117,
+"label": "negative"
+},
+"relevance": 0.70396,
+"emotion": {
+"sadness": 0.182587,
+"joy": 0.041028,
+"fear": 0.387167,
+"disgust": 0.459644,
+"anger": 0.071351
+}
+}
+],
+"entities": [
+{
+"type": "Person",
+"text": "Chandrashekhar Azad",
+"sentiment": {
+"score": -0.392305,
+"label": "negative"
+},
+"relevance": 0.918815,
+"emotion": {
+"sadness": 0.591942,
+"joy": 0.472966,
+"fear": 0.129705,
+"disgust": 0.247858,
+"anger": 0.525815
+},
+"disambiguation": {
+"subtype": [],
+"name": "Chandra Shekhar Azad",
+"dbpedia_resource": "http://dbpedia.org/resource/Chandra_Shekhar_Azad"
+},
+"count": 10
+},
+{
+"type": "Person",
+"text": "Chandrashekhar Azad 'Ravan",
+"sentiment": {
+"score": -0.777116,
+"label": "negative"
+},
+"relevance": 0.435139,
+"emotion": {
+"sadness": 0.393924,
+"joy": 0.042862,
+"fear": 0.178791,
+"disgust": 0.337207,
+"anger": 0.296062
+},
+"count": 2
+},
+{
+"type": "Location",
+"text": "Chandrashekhar Azad Ravan",
+"sentiment": {
+"score": -0.435909,
+"label": "negative"
+},
+"relevance": 0.34961,
+"emotion": {
+"sadness": 0.321412,
+"joy": 0.028649,
+"fear": 0.194353,
+"disgust": 0.466239,
+"anger": 0.35805
+},
+"disambiguation": {
+"subtype": [
+"City"
+]
+},
+"count": 1
+},
+{
+"type": "Organization",
+"text": "Bhim Army",
+"sentiment": {
+"score": -0.279603,
+"label": "negative"
+},
+"relevance": 0.336749,
+"emotion": {
+"sadness": 0.359062,
+"joy": 0.022945,
+"fear": 0.071222,
+"disgust": 0.37442,
+"anger": 0.461084
+},
+"count": 4
+},
+{
+"type": "Location",
+"text": "Uttar Pradesh",
+"sentiment": {
+"score": -0.63117,
+"label": "negative"
+},
+"relevance": 0.251503,
+"emotion": {
+"sadness": 0.182587,
+"joy": 0.041028,
+"fear": 0.387167,
+"disgust": 0.459644,
+"anger": 0.071351
+},
+"disambiguation": {
+"subtype": [
+"Country"
+]
+},
+"count": 3
+}
+],
+"concepts": [
+{
+"text": "Uttar Pradesh",
+"relevance": 0.965225,
+"dbpedia_resource": "http://dbpedia.org/resource/Uttar_Pradesh"
+},
+{
+"text": "Allahabad",
+"relevance": 0.74841,
+"dbpedia_resource": "http://dbpedia.org/resource/Allahabad"
+},
+{
+"text": "Lucknow",
+"relevance": 0.682976,
+"dbpedia_resource": "http://dbpedia.org/resource/Lucknow"
+},
+{
+"text": "Yamuna",
+"relevance": 0.594462,
+"dbpedia_resource": "http://dbpedia.org/resource/Yamuna"
+},
+{
+"text": "Government of Uttar Pradesh",
+"relevance": 0.576255,
+"dbpedia_resource": "http://dbpedia.org/resource/Government_of_Uttar_Pradesh"
+}
+],
+"categories": [
+{
+"score": 0.509728,
+"label": "/law, govt and politics/government"
+},
+{
+"score": 0.405695,
+"label": "/law, govt and politics/armed forces/army"
+},
+{
+"score": 0.349168,
+"label": "/law, govt and politics/law enforcement/police"
+}
+]
+}
+}

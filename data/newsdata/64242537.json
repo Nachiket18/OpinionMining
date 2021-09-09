@@ -1,0 +1,2108 @@
+{
+"source_article_link": "https://timesofindia.indiatimes.com/india/after-karnataka-telangana-one-of-the-focus-states-for-bjp/articleshow/64242537.cms?&utm_source=Articleshow&utm_medium=Organic&utm_campaign=Related_Stories",
+"title": "After Karnataka, Telangana one of the focus states for BJP",
+"date_published": "2018-05-20T10:44:38+05:30",
+"source_type": "news_article",
+"source_name": "timesofindia.indiatimes.com",
+"image_link": [
+"https://timesofindia.indiatimes.com/thumb/msid-64242549,imgsize-93378,width-400,resizemode-4/64242549.jpg"
+],
+"article_body": "HYDERABAD: With the election process in Karnataka coming to a close, Telangana would be one of the focus states for BJP and the party was gearing up for the polls in 2019, state BJP president K Laxman has said. Legislative Assembly polls in Telangana would be held simultaneously with the Lok Sabha elections in 2019. \"Recently, a meeting was held in Delhi under the leadership of president ji. He focused on Telangana. He clearly told that now elections are over in the states which are bound to take place. Now, the focus will be on Telangana, Andhra Pradesh, West Bengal, Orissa,\" he told PTI here. Shah is likely to visit Telangana next month to assess the political situation and plan for the elections, he said. Laxman said the BJP is organisationally strong in the state and that it will adopt the model of constituting 'Panna Pramukhs' at polling booth level to strengthen itself in the state. 'Panna Pramukhs' is a successful model followed by the BJP in different states in which the incharge of a 'Panna' (literal meaning page) reaches out to the voters' families who are part of his list. \"As far as 'Panna Pramukhs' are concerned, out of 119 assembly constituencies, nearly 40-50 assemblies the 'Panna Pramukh' exercise is over. Rest of the assemblies also, we will finish within one or two months...,\" he said. The party is taking other steps as well to boost its organisational strength in the state. BJP would go to the people highlighting the achievements of the Narendra Modi-led government, the funds given by Centre to Telangana in areas like highways, railway projects, Ujwala (free gas connections scheme), he said. It would also highlight the alleged failure of TRS government in Telangana to keep its promises, including employment generation, providing two bedroom houses to poor and distribution of three acres of land to Dalits, he added. The BJP leader said the party would come out with a clear manifesto for various sections, including SCs, backward classes and youth after holding discussions with all sections of society in the state. BJP General Secretary Ram Madhav, Union Minister Narendra Singh Tomar and Bihar Minister Mangal Pandey have been given charge of the 17 Lok Sabha seats in Telangana and they would visit the state, he noted. At the time of elections, the party's central leadership would focus on the states where it is not in power as the respective Chief Ministers would lead the party in states where it is in power, he added. The three-day-old BJP government in Karnataka had collapsed yesterday, minutes before the scheduled trust vote, with Chief Minister resigning in a tame anticlimax to what promised to be on the edge of seat political thriller.",
+"description": "Telangana will be one of the focus states for BJP for the state assembly polls to be held in 2019 Amit Shah is likely to visit Telangana next month to assess the political situation The party is also taking other steps as well to boost its organisational strength in the state",
+"time_scraped": "2018-08-22 12:03:11.571300",
+"article_id": "64242537",
+"article_category": "IndiaNews",
+"image_details": [
+{
+"url": "https://timesofindia.indiatimes.com/thumb/msid-64242549,imgsize-93378,width-400,resizemode-4/64242549.jpg",
+"path": "full/c30ec0a0e78ddcfd66116223c6db6e85129624e2.jpg",
+"checksum": "2dfdd2f6cd7dc42ae1cef206a3d2ace5"
+}
+],
+"ibm_nlu": {
+"usage": {
+"text_units": 1,
+"text_characters": 2704,
+"features": 7
+},
+"sentiment": {
+"document": {
+"score": -0.00310439,
+"label": "negative"
+}
+},
+"semantic_roles": [
+{
+"subject": {
+"text": "Telangana"
+},
+"sentence": "HYDERABAD: With the election process in Karnataka coming to a close, Telangana would be one of the focus states for BJP and the party was gearing up for the polls in 2019, state BJP president K Laxman has said.",
+"object": {
+"text": "one of the focus states for BJP"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "future"
+},
+"text": "would be",
+"normalized": "would be"
+}
+},
+{
+"subject": {
+"text": "the party"
+},
+"sentence": "HYDERABAD: With the election process in Karnataka coming to a close, Telangana would be one of the focus states for BJP and the party was gearing up for the polls in 2019, state BJP president K Laxman has said.",
+"object": {
+"text": "gearing up for the polls in 2019"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "was",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "state BJP president K Laxman"
+},
+"sentence": "HYDERABAD: With the election process in Karnataka coming to a close, Telangana would be one of the focus states for BJP and the party was gearing up for the polls in 2019, state BJP president K Laxman has said.",
+"object": {
+"text": "With the election process in Karnataka coming to a close, Telangana would be one of the focus states for BJP and the party was gearing up for the polls"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "has said",
+"normalized": "have say"
+}
+},
+{
+"subject": {
+"text": "Telangana"
+},
+"sentence": " Legislative Assembly polls in Telangana would be held simultaneously with the Lok Sabha elections in 2019.",
+"action": {
+"verb": {
+"text": "hold",
+"tense": "future"
+},
+"text": "would be held",
+"normalized": "would be hold"
+}
+},
+{
+"subject": {
+"text": "a meeting"
+},
+"sentence": " \"Recently, a meeting was held in Delhi under the leadership of president ji.",
+"action": {
+"verb": {
+"text": "hold",
+"tense": "past"
+},
+"text": "was held",
+"normalized": "be hold"
+}
+},
+{
+"subject": {
+"text": "He"
+},
+"sentence": " He clearly told that now elections are over in the states which are bound to take place.",
+"object": {
+"text": "that now elections are over in the states which are bound to take place"
+},
+"action": {
+"verb": {
+"text": "tell",
+"tense": "past"
+},
+"text": "told",
+"normalized": "tell"
+}
+},
+{
+"subject": {
+"text": "the states"
+},
+"sentence": " He clearly told that now elections are over in the states which are bound to take place.",
+"object": {
+"text": "place"
+},
+"action": {
+"verb": {
+"text": "take",
+"tense": "future"
+},
+"text": "are bound to take",
+"normalized": "be bind to take"
+}
+},
+{
+"subject": {
+"text": "the focus"
+},
+"sentence": " Now, the focus will be on Telangana, Andhra Pradesh, West Bengal, Orissa,\" he told PTI here.",
+"action": {
+"verb": {
+"text": "be",
+"tense": "future"
+},
+"text": "will be",
+"normalized": "will be"
+}
+},
+{
+"subject": {
+"text": "he"
+},
+"sentence": " Now, the focus will be on Telangana, Andhra Pradesh, West Bengal, Orissa,\" he told PTI here.",
+"object": {
+"text": "Now, the focus will be on Telangana, Andhra Pradesh, West Bengal, Orissa"
+},
+"action": {
+"verb": {
+"text": "tell",
+"tense": "past"
+},
+"text": "told",
+"normalized": "tell"
+}
+},
+{
+"subject": {
+"text": "Shah"
+},
+"sentence": " Shah is likely to visit Telangana next month to assess the political situation and plan for the elections, he said.",
+"object": {
+"text": "Telangana"
+},
+"action": {
+"verb": {
+"text": "visit",
+"tense": "future"
+},
+"text": "to visit",
+"normalized": "to visit"
+}
+},
+{
+"subject": {
+"text": "he"
+},
+"sentence": " Shah is likely to visit Telangana next month to assess the political situation and plan for the elections, he said.",
+"object": {
+"text": "Shah is likely to visit Telangana next month to assess the political situation and plan for the elections"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "Laxman"
+},
+"sentence": " Laxman said the BJP is organisationally strong in the state and that it will adopt the model of constituting 'Panna Pramukhs' at polling booth level to strengthen itself in the state.",
+"object": {
+"text": "the BJP is organisationally strong in the state and that it will adopt the model of constituting 'Panna Pramukhs' at polling booth level to strengthen itself in the state"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "it"
+},
+"sentence": " Laxman said the BJP is organisationally strong in the state and that it will adopt the model of constituting 'Panna Pramukhs' at polling booth level to strengthen itself in the state.",
+"object": {
+"text": "'Panna Pramukhs'"
+},
+"action": {
+"verb": {
+"text": "constitute",
+"tense": "future"
+},
+"text": "constituting",
+"normalized": "constitute"
+}
+},
+{
+"subject": {
+"text": "'Panna Pramukhs'"
+},
+"sentence": " 'Panna Pramukhs' is a successful model followed by the BJP in different states in which the incharge of a 'Panna' (literal meaning page) reaches out to the voters' families who are part of his list.",
+"object": {
+"text": "a successful model followed by the BJP in different states in which the incharge of a 'Panna' (literal meaning page"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "present"
+},
+"text": "is",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "by the BJP"
+},
+"sentence": " 'Panna Pramukhs' is a successful model followed by the BJP in different states in which the incharge of a 'Panna' (literal meaning page) reaches out to the voters' families who are part of his list.",
+"object": {
+"text": "a successful model"
+},
+"action": {
+"verb": {
+"text": "follow",
+"tense": "past"
+},
+"text": "followed",
+"normalized": "follow"
+}
+},
+{
+"subject": {
+"text": "we"
+},
+"sentence": " Rest of the assemblies also, we will finish within one or two months...,\" he said.",
+"action": {
+"verb": {
+"text": "finish",
+"tense": "future"
+},
+"text": "will finish",
+"normalized": "will finish"
+}
+},
+{
+"subject": {
+"text": "he"
+},
+"sentence": " Rest of the assemblies also, we will finish within one or two months...,\" he said.",
+"object": {
+"text": "Rest of the assemblies also, we will finish within one or two months"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "The party"
+},
+"sentence": " The party is taking other steps as well to boost its organisational strength in the state.",
+"object": {
+"text": "taking other steps"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "present"
+},
+"text": "is",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "The party"
+},
+"sentence": " The party is taking other steps as well to boost its organisational strength in the state.",
+"object": {
+"text": "other steps"
+},
+"action": {
+"verb": {
+"text": "take",
+"tense": "present"
+},
+"text": "is taking",
+"normalized": "be take"
+}
+},
+{
+"subject": {
+"text": "The party"
+},
+"sentence": " The party is taking other steps as well to boost its organisational strength in the state.",
+"object": {
+"text": "its organisational strength in the state"
+},
+"action": {
+"verb": {
+"text": "boost",
+"tense": "future"
+},
+"text": "to boost",
+"normalized": "to boost"
+}
+},
+{
+"subject": {
+"text": "the people"
+},
+"sentence": " BJP would go to the people highlighting the achievements of the Narendra Modi-led government, the funds given by Centre to Telangana in areas like highways, railway projects, Ujwala (free gas connections scheme), he said.",
+"object": {
+"text": "the achievements of the Narendra Modi-led government, the funds given by Centre to Telangana in areas like highways, railway projects, Ujwala (free gas connections scheme)"
+},
+"action": {
+"verb": {
+"text": "highlight",
+"tense": "future"
+},
+"text": "highlighting",
+"normalized": "highlight"
+}
+},
+{
+"subject": {
+"text": "by Centre"
+},
+"sentence": " BJP would go to the people highlighting the achievements of the Narendra Modi-led government, the funds given by Centre to Telangana in areas like highways, railway projects, Ujwala (free gas connections scheme), he said.",
+"object": {
+"text": "the funds"
+},
+"action": {
+"verb": {
+"text": "give",
+"tense": "past"
+},
+"text": "given",
+"normalized": "give"
+}
+},
+{
+"subject": {
+"text": "he"
+},
+"sentence": " BJP would go to the people highlighting the achievements of the Narendra Modi-led government, the funds given by Centre to Telangana in areas like highways, railway projects, Ujwala (free gas connections scheme), he said.",
+"object": {
+"text": "BJP would go to the people highlighting the achievements of the Narendra Modi-led government, the funds given by Centre to Telangana in areas like highways, railway projects, Ujwala (free gas connections scheme)"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "It"
+},
+"sentence": " It would also highlight the alleged failure of TRS government in Telangana to keep its promises, including employment generation, providing two bedroom houses to poor and distribution of three acres of land to Dalits, he added.",
+"object": {
+"text": "the alleged failure of TRS government in Telangana to keep its promises, including employment generation, providing two bedroom houses to poor and distribution of three acres of land to Dalits"
+},
+"action": {
+"verb": {
+"text": "highlight",
+"tense": "future"
+},
+"text": "would also highlight",
+"normalized": "would also highlight"
+}
+},
+{
+"subject": {
+"text": "employment generation"
+},
+"sentence": " It would also highlight the alleged failure of TRS government in Telangana to keep its promises, including employment generation, providing two bedroom houses to poor and distribution of three acres of land to Dalits, he added.",
+"object": {
+"text": "its promises"
+},
+"action": {
+"verb": {
+"text": "include",
+"tense": "present"
+},
+"text": "including",
+"normalized": "include"
+}
+},
+{
+"subject": {
+"text": "two bedroom houses"
+},
+"sentence": " It would also highlight the alleged failure of TRS government in Telangana to keep its promises, including employment generation, providing two bedroom houses to poor and distribution of three acres of land to Dalits, he added.",
+"object": {
+"text": "to poor and distribution of three acres of land"
+},
+"action": {
+"verb": {
+"text": "provide",
+"tense": "present"
+},
+"text": "providing",
+"normalized": "provide"
+}
+},
+{
+"subject": {
+"text": "he"
+},
+"sentence": " It would also highlight the alleged failure of TRS government in Telangana to keep its promises, including employment generation, providing two bedroom houses to poor and distribution of three acres of land to Dalits, he added.",
+"object": {
+"text": "the alleged failure of TRS government in Telangana to keep its promises, including employment generation, providing two bedroom houses to poor and distribution of three acres of land to Dalits"
+},
+"action": {
+"verb": {
+"text": "add",
+"tense": "past"
+},
+"text": "added",
+"normalized": "add"
+}
+},
+{
+"subject": {
+"text": "The BJP leader"
+},
+"sentence": " The BJP leader said the party would come out with a clear manifesto for various sections, including SCs, backward classes and youth after holding discussions with all sections of society in the state.",
+"object": {
+"text": "the party would come out with a clear manifesto for various sections, including SCs, backward classes and youth after holding discussions with all sections of society in the state"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "SCs, backward classes and youth after holding discussions with all sections of society in the state"
+},
+"sentence": " The BJP leader said the party would come out with a clear manifesto for various sections, including SCs, backward classes and youth after holding discussions with all sections of society in the state.",
+"object": {
+"text": "a clear manifesto for various sections"
+},
+"action": {
+"verb": {
+"text": "include",
+"tense": "present"
+},
+"text": "including",
+"normalized": "include"
+}
+},
+{
+"subject": {
+"text": "the party"
+},
+"sentence": " The BJP leader said the party would come out with a clear manifesto for various sections, including SCs, backward classes and youth after holding discussions with all sections of society in the state.",
+"object": {
+"text": "discussions"
+},
+"action": {
+"verb": {
+"text": "hold",
+"tense": "present"
+},
+"text": "holding",
+"normalized": "hold"
+}
+},
+{
+"subject": {
+"text": "charge"
+},
+"sentence": " BJP General Secretary Ram Madhav, Union Minister Narendra Singh Tomar and Bihar Minister Mangal Pandey have been given charge of the 17 Lok Sabha seats in Telangana and they would visit the state, he noted.",
+"object": {
+"text": "Union Minister Narendra Singh Tomar and Bihar Minister Mangal Pandey"
+},
+"action": {
+"verb": {
+"text": "give",
+"tense": "past"
+},
+"text": "have been given",
+"normalized": "have be give"
+}
+},
+{
+"subject": {
+"text": "they"
+},
+"sentence": " BJP General Secretary Ram Madhav, Union Minister Narendra Singh Tomar and Bihar Minister Mangal Pandey have been given charge of the 17 Lok Sabha seats in Telangana and they would visit the state, he noted.",
+"object": {
+"text": "the state"
+},
+"action": {
+"verb": {
+"text": "visit",
+"tense": "future"
+},
+"text": "would visit",
+"normalized": "would visit"
+}
+},
+{
+"subject": {
+"text": "he"
+},
+"sentence": " BJP General Secretary Ram Madhav, Union Minister Narendra Singh Tomar and Bihar Minister Mangal Pandey have been given charge of the 17 Lok Sabha seats in Telangana and they would visit the state, he noted.",
+"object": {
+"text": "BJP General Secretary Ram Madhav, Union Minister Narendra Singh Tomar and Bihar Minister Mangal Pandey have been given charge of the 17 Lok Sabha seats in Telangana and they would visit the state"
+},
+"action": {
+"verb": {
+"text": "note",
+"tense": "past"
+},
+"text": "noted",
+"normalized": "note"
+}
+},
+{
+"subject": {
+"text": "the respective Chief Ministers"
+},
+"sentence": " At the time of elections, the party's central leadership would focus on the states where it is not in power as the respective Chief Ministers would lead the party in states where it is in power, he added.",
+"object": {
+"text": "the party"
+},
+"action": {
+"verb": {
+"text": "lead",
+"tense": "future"
+},
+"text": "would lead",
+"normalized": "would lead"
+}
+},
+{
+"subject": {
+"text": "it"
+},
+"sentence": " At the time of elections, the party's central leadership would focus on the states where it is not in power as the respective Chief Ministers would lead the party in states where it is in power, he added.",
+"object": {
+"text": "in power"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "present"
+},
+"text": "is",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "he"
+},
+"sentence": " At the time of elections, the party's central leadership would focus on the states where it is not in power as the respective Chief Ministers would lead the party in states where it is in power, he added.",
+"object": {
+"text": "power"
+},
+"action": {
+"verb": {
+"text": "add",
+"tense": "past"
+},
+"text": "added",
+"normalized": "add"
+}
+},
+{
+"subject": {
+"text": "The three-day-old BJP government in Karnataka"
+},
+"sentence": " The three-day-old BJP government in Karnataka had collapsed yesterday, minutes before the scheduled trust vote, with Chief Minister resigning in a tame anticlimax to what promised to be on the edge of seat political thriller.",
+"action": {
+"verb": {
+"text": "collapse",
+"tense": "past"
+},
+"text": "had collapsed",
+"normalized": "have collapse"
+}
+},
+{
+"subject": {
+"text": "Chief Minister"
+},
+"sentence": " The three-day-old BJP government in Karnataka had collapsed yesterday, minutes before the scheduled trust vote, with Chief Minister resigning in a tame anticlimax to what promised to be on the edge of seat political thriller.",
+"action": {
+"verb": {
+"text": "resign",
+"tense": "present"
+},
+"text": "resigning",
+"normalized": "resign"
+}
+}
+],
+"relations": [
+{
+"type": "locatedAt",
+"sentence": "HYDERABAD: With the election process in Karnataka coming to a close, Telangana would be one of the focus states for BJP and the party was gearing up for the polls in 2019, state BJP president K Laxman has said.",
+"score": 0.87249,
+"arguments": [
+{
+"text": "election",
+"location": [
+20,
+28
+],
+"entities": [
+{
+"type": "EventElection",
+"text": "elections"
+}
+]
+},
+{
+"text": "Karnataka",
+"location": [
+40,
+49
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Karnataka"
+}
+]
+}
+]
+},
+{
+"type": "residesIn",
+"sentence": "Now, the focus will be on Telangana, Andhra Pradesh, West Bengal, Orissa,\" he told PTI here.",
+"score": 0.529445,
+"arguments": [
+{
+"text": "Andhra Pradesh",
+"location": [
+546,
+560
+],
+"entities": [
+{
+"type": "Person",
+"text": "Andhra Pradesh"
+}
+]
+},
+{
+"text": "West Bengal",
+"location": [
+562,
+573
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "West Bengal"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "Now, the focus will be on Telangana, Andhra Pradesh, West Bengal, Orissa,\" he told PTI here.",
+"score": 0.983139,
+"arguments": [
+{
+"text": "West Bengal",
+"location": [
+562,
+573
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "West Bengal"
+}
+]
+},
+{
+"text": "Orissa",
+"location": [
+575,
+581
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Orissa"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "Now, the focus will be on Telangana, Andhra Pradesh, West Bengal, Orissa,\" he told PTI here.",
+"score": 0.924264,
+"arguments": [
+{
+"text": "PTI",
+"location": [
+592,
+595
+],
+"entities": [
+{
+"type": "Organization",
+"text": "PTI",
+"disambiguation": {
+"subtype": [
+"Commercial"
+]
+}
+}
+]
+},
+{
+"text": "told",
+"location": [
+587,
+591
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "added"
+}
+]
+}
+]
+},
+{
+"type": "managerOf",
+"sentence": "BJP would go to the people highlighting the achievements of the Narendra Modi-led government, the funds given by Centre to Telangana in areas like highways, railway projects, Ujwala (free gas connections scheme), he said.",
+"score": 0.838222,
+"arguments": [
+{
+"text": "Narendra Modi-",
+"location": [
+1480,
+1494
+],
+"entities": [
+{
+"type": "Person",
+"text": "Narendra Modi-"
+}
+]
+},
+{
+"text": "government",
+"location": [
+1498,
+1508
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "government",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "BJP would go to the people highlighting the achievements of the Narendra Modi-led government, the funds given by Centre to Telangana in areas like highways, railway projects, Ujwala (free gas connections scheme), he said.",
+"score": 0.751851,
+"arguments": [
+{
+"text": "Telangana",
+"location": [
+1539,
+1548
+],
+"entities": [
+{
+"type": "Person",
+"text": "Telangana"
+}
+]
+},
+{
+"text": "areas",
+"location": [
+1552,
+1557
+],
+"entities": [
+{
+"type": "Location",
+"text": "areas"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "BJP would go to the people highlighting the achievements of the Narendra Modi-led government, the funds given by Centre to Telangana in areas like highways, railway projects, Ujwala (free gas connections scheme), he said.",
+"score": 0.87016,
+"arguments": [
+{
+"text": "highways",
+"location": [
+1563,
+1571
+],
+"entities": [
+{
+"type": "Facility",
+"text": "highways"
+}
+]
+},
+{
+"text": "areas",
+"location": [
+1552,
+1557
+],
+"entities": [
+{
+"type": "Location",
+"text": "areas"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "It would also highlight the alleged failure of TRS government in Telangana to keep its promises, including employment generation, providing two bedroom houses to poor and distribution of three acres of land to Dalits, he added.",
+"score": 0.44681,
+"arguments": [
+{
+"text": "government",
+"location": [
+1689,
+1699
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "government",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+},
+{
+"text": "Telangana",
+"location": [
+1703,
+1712
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Telangana"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "The BJP leader said the party would come out with a clear manifesto for various sections, including SCs, backward classes and youth after holding discussions with all sections of society in the state.",
+"score": 0.973494,
+"arguments": [
+{
+"text": "BJP leader",
+"location": [
+1870,
+1880
+],
+"entities": [
+{
+"type": "Person",
+"text": "BJP leader"
+}
+]
+},
+{
+"text": "said",
+"location": [
+1881,
+1885
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "added"
+}
+]
+}
+]
+},
+{
+"type": "participantIn",
+"sentence": "The BJP leader said the party would come out with a clear manifesto for various sections, including SCs, backward classes and youth after holding discussions with all sections of society in the state.",
+"score": 0.688965,
+"arguments": [
+{
+"text": "youth",
+"location": [
+1992,
+1997
+],
+"entities": [
+{
+"type": "Person",
+"text": "youth"
+}
+]
+},
+{
+"text": "discussions",
+"location": [
+2012,
+2023
+],
+"entities": [
+{
+"type": "EventMeeting",
+"text": "discussions"
+}
+]
+}
+]
+},
+{
+"type": "participantIn",
+"sentence": "The BJP leader said the party would come out with a clear manifesto for various sections, including SCs, backward classes and youth after holding discussions with all sections of society in the state.",
+"score": 0.567839,
+"arguments": [
+{
+"text": "society",
+"location": [
+2045,
+2052
+],
+"entities": [
+{
+"type": "Person",
+"text": "society"
+}
+]
+},
+{
+"text": "discussions",
+"location": [
+2012,
+2023
+],
+"entities": [
+{
+"type": "EventMeeting",
+"text": "discussions"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "HYDERABAD: With the election process in Karnataka coming to a close, Telangana would be one of the focus states for BJP and the party was gearing up for the polls in 2019, state BJP president K Laxman has said.",
+"score": 0.689748,
+"arguments": [
+{
+"text": "polls",
+"location": [
+157,
+162
+],
+"entities": [
+{
+"type": "Facility",
+"text": "polls"
+}
+]
+},
+{
+"text": "states",
+"location": [
+105,
+111
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "states"
+}
+]
+}
+]
+},
+{
+"type": "residesIn",
+"sentence": "The BJP leader said the party would come out with a clear manifesto for various sections, including SCs, backward classes and youth after holding discussions with all sections of society in the state.",
+"score": 0.608078,
+"arguments": [
+{
+"text": "society",
+"location": [
+2045,
+2052
+],
+"entities": [
+{
+"type": "Person",
+"text": "society"
+}
+]
+},
+{
+"text": "state",
+"location": [
+2060,
+2065
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "state"
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "BJP General Secretary Ram Madhav, Union Minister Narendra Singh Tomar and Bihar Minister Mangal Pandey have been given charge of the 17 Lok Sabha seats in Telangana and they would visit the state, he noted.",
+"score": 0.519677,
+"arguments": [
+{
+"text": "General Secretary",
+"location": [
+2071,
+2088
+],
+"entities": [
+{
+"type": "Person",
+"text": "Ram Madhav"
+}
+]
+},
+{
+"text": "BJP",
+"location": [
+2067,
+2070
+],
+"entities": [
+{
+"type": "Organization",
+"text": "BJP"
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "BJP General Secretary Ram Madhav, Union Minister Narendra Singh Tomar and Bihar Minister Mangal Pandey have been given charge of the 17 Lok Sabha seats in Telangana and they would visit the state, he noted.",
+"score": 0.462323,
+"arguments": [
+{
+"text": "Minister",
+"location": [
+2107,
+2115
+],
+"entities": [
+{
+"type": "Person",
+"text": "Narendra Singh Tomar"
+}
+]
+},
+{
+"text": "Union",
+"location": [
+2101,
+2106
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Union"
+}
+]
+}
+]
+},
+{
+"type": "partOfMany",
+"sentence": "BJP General Secretary Ram Madhav, Union Minister Narendra Singh Tomar and Bihar Minister Mangal Pandey have been given charge of the 17 Lok Sabha seats in Telangana and they would visit the state, he noted.",
+"score": 0.967358,
+"arguments": [
+{
+"text": "Narendra Singh Tomar",
+"location": [
+2116,
+2136
+],
+"entities": [
+{
+"type": "Person",
+"text": "Narendra Singh Tomar"
+}
+]
+},
+{
+"text": "they",
+"location": [
+2236,
+2240
+],
+"entities": [
+{
+"type": "Person",
+"text": "they"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "BJP General Secretary Ram Madhav, Union Minister Narendra Singh Tomar and Bihar Minister Mangal Pandey have been given charge of the 17 Lok Sabha seats in Telangana and they would visit the state, he noted.",
+"score": 0.388572,
+"arguments": [
+{
+"text": "Minister",
+"location": [
+2147,
+2155
+],
+"entities": [
+{
+"type": "Person",
+"text": "Mangal Pandey"
+}
+]
+},
+{
+"text": "Bihar",
+"location": [
+2141,
+2146
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Bihar"
+}
+]
+}
+]
+},
+{
+"type": "partOfMany",
+"sentence": "BJP General Secretary Ram Madhav, Union Minister Narendra Singh Tomar and Bihar Minister Mangal Pandey have been given charge of the 17 Lok Sabha seats in Telangana and they would visit the state, he noted.",
+"score": 0.981261,
+"arguments": [
+{
+"text": "Mangal Pandey",
+"location": [
+2156,
+2169
+],
+"entities": [
+{
+"type": "Person",
+"text": "Mangal Pandey"
+}
+]
+},
+{
+"text": "they",
+"location": [
+2236,
+2240
+],
+"entities": [
+{
+"type": "Person",
+"text": "they"
+}
+]
+}
+]
+},
+{
+"type": "partOfMany",
+"sentence": "BJP General Secretary Ram Madhav, Union Minister Narendra Singh Tomar and Bihar Minister Mangal Pandey have been given charge of the 17 Lok Sabha seats in Telangana and they would visit the state, he noted.",
+"score": 0.841948,
+"arguments": [
+{
+"text": "Telangana",
+"location": [
+2222,
+2231
+],
+"entities": [
+{
+"type": "Person",
+"text": "Telangana"
+}
+]
+},
+{
+"text": "they",
+"location": [
+2236,
+2240
+],
+"entities": [
+{
+"type": "Person",
+"text": "they"
+}
+]
+}
+]
+},
+{
+"type": "basedIn",
+"sentence": "At the time of elections, the party's central leadership would focus on the states where it is not in power as the respective Chief Ministers would lead the party in states where it is in power, he added.",
+"score": 0.435886,
+"arguments": [
+{
+"text": "party",
+"location": [
+2431,
+2436
+],
+"entities": [
+{
+"type": "Organization",
+"text": "party",
+"disambiguation": {
+"subtype": [
+"Political"
+]
+}
+}
+]
+},
+{
+"text": "states",
+"location": [
+2440,
+2446
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "states"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "The three-day-old BJP government in Karnataka had collapsed yesterday, minutes before the scheduled trust vote, with Chief Minister resigning in a tame anticlimax to what promised to be on the edge of seat political thriller.",
+"score": 0.554271,
+"arguments": [
+{
+"text": "government",
+"location": [
+2501,
+2511
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "government",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+},
+{
+"text": "Karnataka",
+"location": [
+2515,
+2524
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Karnataka"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "HYDERABAD: With the election process in Karnataka coming to a close, Telangana would be one of the focus states for BJP and the party was gearing up for the polls in 2019, state BJP president K Laxman has said.",
+"score": 0.987545,
+"arguments": [
+{
+"text": "K Laxman",
+"location": [
+192,
+200
+],
+"entities": [
+{
+"type": "Person",
+"text": "K Laxman"
+}
+]
+},
+{
+"text": "said",
+"location": [
+205,
+209
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "Legislative Assembly polls in Telangana would be held simultaneously with the Lok Sabha elections in 2019.",
+"score": 0.978562,
+"arguments": [
+{
+"text": "polls",
+"location": [
+232,
+237
+],
+"entities": [
+{
+"type": "Facility",
+"text": "polls"
+}
+]
+},
+{
+"text": "Telangana",
+"location": [
+241,
+250
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Telangana"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Legislative Assembly polls in Telangana would be held simultaneously with the Lok Sabha elections in 2019.",
+"score": 0.403472,
+"arguments": [
+{
+"text": "Lok Sabha",
+"location": [
+289,
+298
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Lok Sabha"
+}
+]
+},
+{
+"text": "elections",
+"location": [
+299,
+308
+],
+"entities": [
+{
+"type": "EventElection",
+"text": "elections"
+}
+]
+}
+]
+},
+{
+"type": "timeOf",
+"sentence": "Legislative Assembly polls in Telangana would be held simultaneously with the Lok Sabha elections in 2019.",
+"score": 0.969692,
+"arguments": [
+{
+"text": "2019",
+"location": [
+312,
+316
+],
+"entities": [
+{
+"type": "Date",
+"text": "2019"
+}
+]
+},
+{
+"text": "elections",
+"location": [
+299,
+308
+],
+"entities": [
+{
+"type": "EventElection",
+"text": "elections"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "\"Recently, a meeting was held in Delhi under the leadership of president ji.",
+"score": 0.85136,
+"arguments": [
+{
+"text": "meeting",
+"location": [
+331,
+338
+],
+"entities": [
+{
+"type": "EventMeeting",
+"text": "meeting"
+}
+]
+},
+{
+"text": "Delhi",
+"location": [
+351,
+356
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Delhi"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "He clearly told that now elections are over in the states which are bound to take place.",
+"score": 0.849817,
+"arguments": [
+{
+"text": "He",
+"location": [
+420,
+422
+],
+"entities": [
+{
+"type": "Person",
+"text": "K Laxman"
+}
+]
+},
+{
+"text": "told",
+"location": [
+431,
+435
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "added"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Now, the focus will be on Telangana, Andhra Pradesh, West Bengal, Orissa,\" he told PTI here.",
+"score": 0.972075,
+"arguments": [
+{
+"text": "he",
+"location": [
+584,
+586
+],
+"entities": [
+{
+"type": "Person",
+"text": "K Laxman"
+}
+]
+},
+{
+"text": "told",
+"location": [
+587,
+591
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "added"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Shah is likely to visit Telangana next month to assess the political situation and plan for the elections, he said.",
+"score": 0.982392,
+"arguments": [
+{
+"text": "he",
+"location": [
+709,
+711
+],
+"entities": [
+{
+"type": "Person",
+"text": "K Laxman"
+}
+]
+},
+{
+"text": "said",
+"location": [
+712,
+716
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "added"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Laxman said the BJP is organisationally strong in the state and that it will adopt the model of constituting 'Panna Pramukhs' at polling booth level to strengthen itself in the state.",
+"score": 0.994866,
+"arguments": [
+{
+"text": "Laxman",
+"location": [
+718,
+724
+],
+"entities": [
+{
+"type": "Person",
+"text": "K Laxman"
+}
+]
+},
+{
+"text": "said",
+"location": [
+725,
+729
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "added"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Rest of the assemblies also, we will finish within one or two months...,\" he said.",
+"score": 0.983071,
+"arguments": [
+{
+"text": "he",
+"location": [
+1316,
+1318
+],
+"entities": [
+{
+"type": "Person",
+"text": "K Laxman"
+}
+]
+},
+{
+"text": "said",
+"location": [
+1319,
+1323
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "added"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "BJP would go to the people highlighting the achievements of the Narendra Modi-led government, the funds given by Centre to Telangana in areas like highways, railway projects, Ujwala (free gas connections scheme), he said.",
+"score": 0.981625,
+"arguments": [
+{
+"text": "he",
+"location": [
+1629,
+1631
+],
+"entities": [
+{
+"type": "Person",
+"text": "K Laxman"
+}
+]
+},
+{
+"text": "said",
+"location": [
+1632,
+1636
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "added"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "It would also highlight the alleged failure of TRS government in Telangana to keep its promises, including employment generation, providing two bedroom houses to poor and distribution of three acres of land to Dalits, he added.",
+"score": 0.965317,
+"arguments": [
+{
+"text": "he",
+"location": [
+1856,
+1858
+],
+"entities": [
+{
+"type": "Person",
+"text": "K Laxman"
+}
+]
+},
+{
+"text": "added",
+"location": [
+1859,
+1864
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "added"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "BJP General Secretary Ram Madhav, Union Minister Narendra Singh Tomar and Bihar Minister Mangal Pandey have been given charge of the 17 Lok Sabha seats in Telangana and they would visit the state, he noted.",
+"score": 0.972324,
+"arguments": [
+{
+"text": "he",
+"location": [
+2264,
+2266
+],
+"entities": [
+{
+"type": "Person",
+"text": "K Laxman"
+}
+]
+},
+{
+"text": "noted",
+"location": [
+2267,
+2272
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "added"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "At the time of elections, the party's central leadership would focus on the states where it is not in power as the respective Chief Ministers would lead the party in states where it is in power, he added.",
+"score": 0.975674,
+"arguments": [
+{
+"text": "he",
+"location": [
+2469,
+2471
+],
+"entities": [
+{
+"type": "Person",
+"text": "K Laxman"
+}
+]
+},
+{
+"text": "added",
+"location": [
+2472,
+2477
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "added"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "He clearly told that now elections are over in the states which are bound to take place.",
+"score": 0.665216,
+"arguments": [
+{
+"text": "elections",
+"location": [
+445,
+454
+],
+"entities": [
+{
+"type": "EventElection",
+"text": "elections"
+}
+]
+},
+{
+"text": "states",
+"location": [
+471,
+477
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "states"
+}
+]
+}
+]
+}
+],
+"language": "en",
+"keywords": [
+{
+"text": "state BJP president",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.915421,
+"emotion": {
+"sadness": 0.385092,
+"joy": 0.042207,
+"fear": 0.116709,
+"disgust": 0.421128,
+"anger": 0.317128
+}
+},
+{
+"text": "three-day-old BJP government",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.773246,
+"emotion": {
+"sadness": 0.406197,
+"joy": 0.058414,
+"fear": 0.111569,
+"disgust": 0.342741,
+"anger": 0.320115
+}
+},
+{
+"text": "BJP General Secretary",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.756559,
+"emotion": {
+"sadness": 0.214836,
+"joy": 0.095691,
+"fear": 0.106774,
+"disgust": 0.199489,
+"anger": 0.202312
+}
+},
+{
+"text": "Lok Sabha elections",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.654338,
+"emotion": {
+"sadness": 0.262132,
+"joy": 0.054432,
+"fear": 0.165573,
+"disgust": 0.168246,
+"anger": 0.199774
+}
+},
+{
+"text": "BJP leader",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.647134,
+"emotion": {
+"sadness": 0.268642,
+"joy": 0.203005,
+"fear": 0.142396,
+"disgust": 0.267069,
+"anger": 0.274519
+}
+}
+],
+"entities": [
+{
+"type": "Organization",
+"text": "BJP",
+"sentiment": {
+"score": -0.278169,
+"label": "negative"
+},
+"relevance": 0.930535,
+"emotion": {
+"sadness": 0.339863,
+"joy": 0.442787,
+"fear": 0.118764,
+"disgust": 0.237679,
+"anger": 0.192599
+},
+"disambiguation": {
+"subtype": [
+"PoliticalParty",
+"Actor",
+"OfficeHolder"
+],
+"name": "Bharatiya Janata Party",
+"dbpedia_resource": "http://dbpedia.org/resource/Bharatiya_Janata_Party"
+},
+"count": 8
+},
+{
+"type": "Location",
+"text": "Telangana",
+"sentiment": {
+"score": -0.296568,
+"label": "negative"
+},
+"relevance": 0.616443,
+"emotion": {
+"sadness": 0.505528,
+"joy": 0.508392,
+"fear": 0.079508,
+"disgust": 0.098881,
+"anger": 0.070311
+},
+"disambiguation": {
+"subtype": [
+"City"
+]
+},
+"count": 12
+},
+{
+"type": "Person",
+"text": "K Laxman",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.487109,
+"emotion": {
+"sadness": 0.603682,
+"joy": 0.140307,
+"fear": 0.067057,
+"disgust": 0.178528,
+"anger": 0.178657
+},
+"count": 5
+},
+{
+"type": "Person",
+"text": "Panna Pramukhs",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.45211,
+"emotion": {
+"sadness": 0.270776,
+"joy": 0.514895,
+"fear": 0.027325,
+"disgust": 0.028607,
+"anger": 0.058609
+},
+"count": 3
+},
+{
+"type": "Organization",
+"text": "Lok Sabha",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.339626,
+"emotion": {
+"sadness": 0.390491,
+"joy": 0.081224,
+"fear": 0.063624,
+"disgust": 0.279832,
+"anger": 0.11285
+},
+"disambiguation": {
+"subtype": [
+"GovernmentalBody",
+"Legislature"
+],
+"name": "Lok Sabha",
+"dbpedia_resource": "http://dbpedia.org/resource/Lok_Sabha"
+},
+"count": 1
+}
+],
+"concepts": [
+{
+"text": "Lok Sabha",
+"relevance": 0.973944,
+"dbpedia_resource": "http://dbpedia.org/resource/Lok_Sabha"
+},
+{
+"text": "Andhra Pradesh",
+"relevance": 0.852196,
+"dbpedia_resource": "http://dbpedia.org/resource/Andhra_Pradesh"
+},
+{
+"text": "India",
+"relevance": 0.731941,
+"dbpedia_resource": "http://dbpedia.org/resource/India"
+},
+{
+"text": "Karnataka",
+"relevance": 0.602143,
+"dbpedia_resource": "http://dbpedia.org/resource/Karnataka"
+},
+{
+"text": "Maharashtra",
+"relevance": 0.58935,
+"dbpedia_resource": "http://dbpedia.org/resource/Maharashtra"
+}
+],
+"categories": [
+{
+"score": 0.746025,
+"label": "/law, govt and politics/politics/elections"
+},
+{
+"score": 0.313021,
+"label": "/law, govt and politics/government"
+},
+{
+"score": 0.256973,
+"label": "/technology and computing/electronic components"
+}
+]
+}
+}

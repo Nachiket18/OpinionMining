@@ -1,0 +1,1044 @@
+{
+"source_article_link": "https://timesofindia.indiatimes.com/india/social-media-connects-but-also-contributes-to-neglect-of-elderly/articleshow/64594414.cms?&utm_source=Articleshow&utm_medium=Organic&utm_campaign=Related_Stories",
+"title": "Social media connects but also contributes to neglect of elderly",
+"date_published": "2018-06-15T04:10:34+05:30",
+"source_type": "news_article",
+"source_name": "timesofindia.indiatimes.com",
+"image_link": [
+"https://timesofindia.indiatimes.com/thumb/msid-64594411,imgsize-15717,width-400,resizemode-4/64594411.jpg"
+],
+"article_body": "NEW DELHI: Smartphones may have brought families closer \u2014 but they\u2019ve also left the elderly feeling isolated as millennials spend hours online and have little time for real-world conversations. Close to 80% of senior citizens say that has cut into the time family members have for them, which they consider disrespectful and a form of neglect. A study ahead of reveals that neglect is one of the most common forms of elder abuse. The study is based on a sample survey of 5,014 elders across 23 cities. A quarter of respondents said they\u2019d faced some sort of elder abuse for at least five years. Some of the most common forms of abuse they experienced were disrespect, verbal abuse and neglect. Around 70% of respondents said that social media had benefitted them, but 78% also said that it had decreased personal time spent with family. Over 90% of elderly users use social media to connect. Over 60% said social media has reduced their sleep hours, and increased economic loss via blackmail and spam calls. \u201cWhile technology is good, it has an adverse impact on the lives of the elderly. We are running a campaign to urge young adults to disconnect from devices and connect with an older person in the same house...,\u201d Mathew Cherian, CEO, HelpAge India, said. The maximum cases of elder abuse were reported in Mangaluru, Ahmedabad, Bhopal, Amritsar, Delhi and Kanpur, and the least in Jammu, Mumbai, Visakhapatnam, Kochi and Guwahati.",
+"description": "A HelpAge India study ahead of World Elder Abuse Awareness Day reveals that neglect is one of the most common forms of elder abuse Close to 80% of senior citizens say that social media has cut into the time family members have for them The study is based on a sample survey of 5,014 elders across 23 cities",
+"time_scraped": "2018-08-24 06:02:13.177008",
+"article_id": "64594414",
+"article_category": "IndiaNews",
+"image_details": [
+{
+"url": "https://timesofindia.indiatimes.com/thumb/msid-64594411,imgsize-15717,width-400,resizemode-4/64594411.jpg",
+"path": "full/0f3813aaf1839b74399254bb89aaa758922ed457.jpg",
+"checksum": "97ef50d7b51c4f1dd897c712800764f9"
+}
+],
+"ibm_nlu": {
+"usage": {
+"text_units": 1,
+"text_characters": 1435,
+"features": 7
+},
+"sentiment": {
+"document": {
+"score": -0.644958,
+"label": "negative"
+}
+},
+"semantic_roles": [
+{
+"subject": {
+"text": "Smartphones"
+},
+"sentence": "NEW DELHI: Smartphones may have brought families closer \u2014 but they\u2019ve also left the elderly feeling isolated as millennials spend hours online and have little time for real-world conversations.",
+"object": {
+"text": "brought families closer \u2014"
+},
+"action": {
+"verb": {
+"text": "have",
+"tense": "future"
+},
+"text": "have",
+"normalized": "have"
+}
+},
+{
+"subject": {
+"text": "Smartphones"
+},
+"sentence": "NEW DELHI: Smartphones may have brought families closer \u2014 but they\u2019ve also left the elderly feeling isolated as millennials spend hours online and have little time for real-world conversations.",
+"object": {
+"text": "families"
+},
+"action": {
+"verb": {
+"text": "bring",
+"tense": "future"
+},
+"text": "may have brought",
+"normalized": "may have bring"
+}
+},
+{
+"subject": {
+"text": "they"
+},
+"sentence": "NEW DELHI: Smartphones may have brought families closer \u2014 but they\u2019ve also left the elderly feeling isolated as millennials spend hours online and have little time for real-world conversations.",
+"object": {
+"text": "the elderly"
+},
+"action": {
+"verb": {
+"text": "leave",
+"tense": "past"
+},
+"text": "ve also left",
+"normalized": "ve also leave"
+}
+},
+{
+"subject": {
+"text": "Close to 80% of senior citizens"
+},
+"sentence": " Close to 80% of senior citizens say that has cut into the time family members have for them, which they consider disrespectful and a form of neglect.",
+"object": {
+"text": "that has cut into the time family members have for them, which they consider disrespectful and a form of neglect"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "present"
+},
+"text": "say",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "The study"
+},
+"sentence": " The study is based on a sample survey of 5,014 elders across 23 cities.",
+"object": {
+"text": "on a sample survey of 5,014 elders across 23 cities"
+},
+"action": {
+"verb": {
+"text": "base",
+"tense": "past"
+},
+"text": "is based",
+"normalized": "be base"
+}
+},
+{
+"subject": {
+"text": "A quarter of respondents"
+},
+"sentence": " A quarter of respondents said they\u2019d faced some sort of elder abuse for at least five years.",
+"object": {
+"text": "they\u2019d faced some sort of elder abuse for at least five years"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "they"
+},
+"sentence": " A quarter of respondents said they\u2019d faced some sort of elder abuse for at least five years.",
+"object": {
+"text": "faced some sort of elder abuse for at least five years"
+},
+"action": {
+"verb": {
+"text": "\u2019d",
+"tense": "past"
+},
+"text": "\u2019d",
+"normalized": "\u2019d"
+}
+},
+{
+"subject": {
+"text": "they"
+},
+"sentence": " A quarter of respondents said they\u2019d faced some sort of elder abuse for at least five years.",
+"object": {
+"text": "some sort of elder abuse for at least five years"
+},
+"action": {
+"verb": {
+"text": "face",
+"tense": "past"
+},
+"text": "d faced",
+"normalized": "d face"
+}
+},
+{
+"subject": {
+"text": "they"
+},
+"sentence": " Some of the most common forms of abuse they experienced were disrespect, verbal abuse and neglect.",
+"object": {
+"text": "the most common forms of abuse"
+},
+"action": {
+"verb": {
+"text": "experience",
+"tense": "past"
+},
+"text": "experienced",
+"normalized": "experience"
+}
+},
+{
+"subject": {
+"text": "Around 70% of respondents"
+},
+"sentence": " Around 70% of respondents said that social media had benefitted them, but 78% also said that it had decreased personal time spent with family.",
+"object": {
+"text": "that social media had benefitted them"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "78%"
+},
+"sentence": " Around 70% of respondents said that social media had benefitted them, but 78% also said that it had decreased personal time spent with family.",
+"object": {
+"text": "that it had decreased personal time spent with family"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "it"
+},
+"sentence": " Around 70% of respondents said that social media had benefitted them, but 78% also said that it had decreased personal time spent with family.",
+"object": {
+"text": "with family"
+},
+"action": {
+"verb": {
+"text": "spend",
+"tense": "past"
+},
+"text": "spent",
+"normalized": "spend"
+}
+},
+{
+"subject": {
+"text": "90% of elderly users"
+},
+"sentence": " Over 90% of elderly users use social media to connect.",
+"object": {
+"text": "social media"
+},
+"action": {
+"verb": {
+"text": "use",
+"tense": "present"
+},
+"text": "use",
+"normalized": "use"
+}
+},
+{
+"subject": {
+"text": "%"
+},
+"sentence": " Over 60% said social media has reduced their sleep hours, and increased economic loss via blackmail and spam calls.",
+"object": {
+"text": "social media has reduced their sleep hours"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "social media"
+},
+"sentence": " Over 60% said social media has reduced their sleep hours, and increased economic loss via blackmail and spam calls.",
+"object": {
+"text": "economic loss"
+},
+"action": {
+"verb": {
+"text": "increase",
+"tense": "past"
+},
+"text": "increased",
+"normalized": "increase"
+}
+},
+{
+"subject": {
+"text": "technology"
+},
+"sentence": " \u201cWhile technology is good, it has an adverse impact on the lives of the elderly.",
+"object": {
+"text": "good"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "present"
+},
+"text": "is",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "it"
+},
+"sentence": " \u201cWhile technology is good, it has an adverse impact on the lives of the elderly.",
+"object": {
+"text": "an adverse impact on the lives of the elderly"
+},
+"action": {
+"verb": {
+"text": "have",
+"tense": "present"
+},
+"text": "has",
+"normalized": "have"
+}
+},
+{
+"subject": {
+"text": "We"
+},
+"sentence": " We are running a campaign to urge young adults to disconnect from devices and connect with an older person in the same house...,\u201d Mathew Cherian, CEO, HelpAge India, said.",
+"object": {
+"text": "a campaign"
+},
+"action": {
+"verb": {
+"text": "run",
+"tense": "present"
+},
+"text": "are running",
+"normalized": "be run"
+}
+},
+{
+"subject": {
+"text": "young adults"
+},
+"sentence": " We are running a campaign to urge young adults to disconnect from devices and connect with an older person in the same house...,\u201d Mathew Cherian, CEO, HelpAge India, said.",
+"object": {
+"text": "to disconnect from devices and connect with an older person in the same house"
+},
+"action": {
+"verb": {
+"text": "urge",
+"tense": "future"
+},
+"text": "to urge",
+"normalized": "to urge"
+}
+},
+{
+"subject": {
+"text": "We"
+},
+"sentence": " We are running a campaign to urge young adults to disconnect from devices and connect with an older person in the same house...,\u201d Mathew Cherian, CEO, HelpAge India, said.",
+"object": {
+"text": "with an older person"
+},
+"action": {
+"verb": {
+"text": "connect",
+"tense": "present"
+},
+"text": "connect",
+"normalized": "connect"
+}
+},
+{
+"subject": {
+"text": "Mathew Cherian, CEO, HelpAge India,"
+},
+"sentence": " We are running a campaign to urge young adults to disconnect from devices and connect with an older person in the same house...,\u201d Mathew Cherian, CEO, HelpAge India, said.",
+"object": {
+"text": "We are running a campaign to urge young adults to disconnect from devices and connect with an older person in the same house"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "The maximum cases of elder abuse"
+},
+"sentence": " The maximum cases of elder abuse were reported in Mangaluru, Ahmedabad, Bhopal, Amritsar, Delhi and Kanpur, and the least in Jammu, Mumbai, Visakhapatnam, Kochi and Guwahati.",
+"action": {
+"verb": {
+"text": "report",
+"tense": "past"
+},
+"text": "were reported",
+"normalized": "be report"
+}
+}
+],
+"relations": [
+{
+"type": "agentOf",
+"sentence": "Close to 80% of senior citizens say that has cut into the time family members have for them, which they consider disrespectful and a form of neglect.",
+"score": 0.969753,
+"arguments": [
+{
+"text": "citizens",
+"location": [
+217,
+225
+],
+"entities": [
+{
+"type": "Person",
+"text": "families"
+}
+]
+},
+{
+"text": "say",
+"location": [
+226,
+229
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "say"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "The maximum cases of elder abuse were reported in Mangaluru, Ahmedabad, Bhopal, Amritsar, Delhi and Kanpur, and the least in Jammu, Mumbai, Visakhapatnam, Kochi and Guwahati.",
+"score": 0.829898,
+"arguments": [
+{
+"text": "Ahmedabad",
+"location": [
+1322,
+1331
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Ahmedabad"
+}
+]
+},
+{
+"text": "Bhopal",
+"location": [
+1333,
+1339
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Bhopal"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "The maximum cases of elder abuse were reported in Mangaluru, Ahmedabad, Bhopal, Amritsar, Delhi and Kanpur, and the least in Jammu, Mumbai, Visakhapatnam, Kochi and Guwahati.",
+"score": 0.922172,
+"arguments": [
+{
+"text": "Bhopal",
+"location": [
+1333,
+1339
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Bhopal"
+}
+]
+},
+{
+"text": "Amritsar",
+"location": [
+1341,
+1349
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Amritsar"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "The maximum cases of elder abuse were reported in Mangaluru, Ahmedabad, Bhopal, Amritsar, Delhi and Kanpur, and the least in Jammu, Mumbai, Visakhapatnam, Kochi and Guwahati.",
+"score": 0.525714,
+"arguments": [
+{
+"text": "Amritsar",
+"location": [
+1341,
+1349
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Amritsar"
+}
+]
+},
+{
+"text": "Delhi",
+"location": [
+1351,
+1356
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "NEW DELHI"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "The maximum cases of elder abuse were reported in Mangaluru, Ahmedabad, Bhopal, Amritsar, Delhi and Kanpur, and the least in Jammu, Mumbai, Visakhapatnam, Kochi and Guwahati.",
+"score": 0.526343,
+"arguments": [
+{
+"text": "Jammu",
+"location": [
+1386,
+1391
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Jammu"
+}
+]
+},
+{
+"text": "Mumbai",
+"location": [
+1393,
+1399
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Mumbai"
+}
+]
+}
+]
+},
+{
+"type": "partOfMany",
+"sentence": "Close to 80% of senior citizens say that has cut into the time family members have for them, which they consider disrespectful and a form of neglect.",
+"score": 0.937184,
+"arguments": [
+{
+"text": "members",
+"location": [
+264,
+271
+],
+"entities": [
+{
+"type": "Person",
+"text": "members"
+}
+]
+},
+{
+"text": "family",
+"location": [
+257,
+263
+],
+"entities": [
+{
+"type": "Person",
+"text": "family"
+}
+]
+}
+]
+},
+{
+"type": "residesIn",
+"sentence": "The study is based on a sample survey of 5,014 elders across 23 cities.",
+"score": 0.64976,
+"arguments": [
+{
+"text": "elders",
+"location": [
+477,
+483
+],
+"entities": [
+{
+"type": "Person",
+"text": "elders"
+}
+]
+},
+{
+"text": "cities",
+"location": [
+494,
+500
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "cities"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "A quarter of respondents said they'd faced some sort of elder abuse for at least five years.",
+"score": 0.915979,
+"arguments": [
+{
+"text": "respondents",
+"location": [
+515,
+526
+],
+"entities": [
+{
+"type": "Person",
+"text": "respondents"
+}
+]
+},
+{
+"text": "said",
+"location": [
+527,
+531
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Around 70% of respondents said that social media had benefitted them, but 78% also said that it had decreased personal time spent with family.",
+"score": 0.565027,
+"arguments": [
+{
+"text": "respondents",
+"location": [
+708,
+719
+],
+"entities": [
+{
+"type": "Person",
+"text": "respondents"
+}
+]
+},
+{
+"text": "said",
+"location": [
+720,
+724
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "partOfMany",
+"sentence": "Over 90% of elderly users use social media to connect.",
+"score": 0.749562,
+"arguments": [
+{
+"text": "users",
+"location": [
+857,
+862
+],
+"entities": [
+{
+"type": "Person",
+"text": "users"
+}
+]
+},
+{
+"text": "elderly",
+"location": [
+849,
+856
+],
+"entities": [
+{
+"type": "Person",
+"text": "elderly"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "We are running a campaign to urge young adults to disconnect from devices and connect with an older person in the same house...,\" Mathew Cherian, CEO, HelpAge India, said.",
+"score": 0.605728,
+"arguments": [
+{
+"text": "We",
+"location": [
+1089,
+1091
+],
+"entities": [
+{
+"type": "Person",
+"text": "users"
+}
+]
+},
+{
+"text": "urge",
+"location": [
+1118,
+1122
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "urge"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "We are running a campaign to urge young adults to disconnect from devices and connect with an older person in the same house...,\" Mathew Cherian, CEO, HelpAge India, said.",
+"score": 0.687828,
+"arguments": [
+{
+"text": "adults",
+"location": [
+1129,
+1135
+],
+"entities": [
+{
+"type": "Person",
+"text": "adults"
+}
+]
+},
+{
+"text": "urge",
+"location": [
+1118,
+1122
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "urge"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "We are running a campaign to urge young adults to disconnect from devices and connect with an older person in the same house...,\" Mathew Cherian, CEO, HelpAge India, said.",
+"score": 0.579278,
+"arguments": [
+{
+"text": "person",
+"location": [
+1189,
+1195
+],
+"entities": [
+{
+"type": "Person",
+"text": "person"
+}
+]
+},
+{
+"text": "house",
+"location": [
+1208,
+1213
+],
+"entities": [
+{
+"type": "Facility",
+"text": "house"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "The maximum cases of elder abuse were reported in Mangaluru, Ahmedabad, Bhopal, Amritsar, Delhi and Kanpur, and the least in Jammu, Mumbai, Visakhapatnam, Kochi and Guwahati.",
+"score": 0.973046,
+"arguments": [
+{
+"text": "Mangaluru",
+"location": [
+1311,
+1320
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Mangaluru"
+}
+]
+},
+{
+"text": "Ahmedabad",
+"location": [
+1322,
+1331
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Ahmedabad"
+}
+]
+}
+]
+}
+],
+"language": "en",
+"keywords": [
+{
+"text": "elder abuse",
+"sentiment": {
+"score": -0.633385,
+"label": "negative"
+},
+"relevance": 0.982437,
+"emotion": {
+"sadness": 0.546552,
+"joy": 0.01573,
+"fear": 0.183678,
+"disgust": 0.313786,
+"anger": 0.190423
+}
+},
+{
+"text": "social media",
+"sentiment": {
+"score": -0.684652,
+"label": "negative"
+},
+"relevance": 0.957209,
+"emotion": {
+"sadness": 0.206143,
+"joy": 0.087785,
+"fear": 0.061199,
+"disgust": 0.094611,
+"anger": 0.035152
+}
+},
+{
+"text": "time family members",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.806137,
+"emotion": {
+"sadness": 0.653862,
+"joy": 0.143619,
+"fear": 0.167933,
+"disgust": 0.11087,
+"anger": 0.110448
+}
+},
+{
+"text": "common forms",
+"sentiment": {
+"score": -0.566067,
+"label": "negative"
+},
+"relevance": 0.803436,
+"emotion": {
+"sadness": 0.294786,
+"joy": 0.023009,
+"fear": 0.120853,
+"disgust": 0.375994,
+"anger": 0.466261
+}
+},
+{
+"text": "elderly feeling",
+"sentiment": {
+"score": -0.626063,
+"label": "negative"
+},
+"relevance": 0.621671,
+"emotion": {
+"sadness": 0.629237,
+"joy": 0.157448,
+"fear": 0.163339,
+"disgust": 0.150349,
+"anger": 0.081806
+}
+}
+],
+"entities": [
+{
+"type": "Crime",
+"text": "elder abuse",
+"sentiment": {
+"score": -0.586467,
+"label": "negative"
+},
+"relevance": 0.906451,
+"emotion": {
+"sadness": 0.441259,
+"joy": 0.009686,
+"fear": 0.144876,
+"disgust": 0.372108,
+"anger": 0.359112
+},
+"count": 4
+},
+{
+"type": "Location",
+"text": "DELHI",
+"sentiment": {
+"score": 0.317516,
+"label": "positive"
+},
+"relevance": 0.315628,
+"emotion": {
+"sadness": 0.115132,
+"joy": 0.596039,
+"fear": 0.084006,
+"disgust": 0.034674,
+"anger": 0.046922
+},
+"disambiguation": {
+"subtype": [
+"Country"
+]
+},
+"count": 1
+},
+{
+"type": "Person",
+"text": "Mathew Cherian",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.277829,
+"emotion": {
+"sadness": 0.144548,
+"joy": 0.185315,
+"fear": 0.087573,
+"disgust": 0.077654,
+"anger": 0.090723
+},
+"count": 1
+}
+],
+"concepts": [
+{
+"text": "Abuse",
+"relevance": 0.971432,
+"dbpedia_resource": "http://dbpedia.org/resource/Abuse"
+},
+{
+"text": "Gerontology",
+"relevance": 0.947364,
+"dbpedia_resource": "http://dbpedia.org/resource/Gerontology"
+},
+{
+"text": "Sociology",
+"relevance": 0.812666,
+"dbpedia_resource": "http://dbpedia.org/resource/Sociology"
+},
+{
+"text": "Urdu",
+"relevance": 0.793218,
+"dbpedia_resource": "http://dbpedia.org/resource/Urdu"
+}
+],
+"categories": [
+{
+"score": 0.584589,
+"label": "/health and fitness/incest and abuse support"
+},
+{
+"score": 0.446601,
+"label": "/technology and computing"
+},
+{
+"score": 0.331861,
+"label": "/family and parenting/children"
+}
+]
+}
+}

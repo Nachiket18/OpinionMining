@@ -1,0 +1,1216 @@
+{
+"source_article_link": "https://timesofindia.indiatimes.com/india/mukul-rohatgi-appointed-as-eminent-jurist-in-lokpal-panel-govt/articleshow/64173411.cms?&utm_source=Articleshow&utm_medium=Organic&utm_campaign=Related_Stories",
+"title": "Mukul Rohatgi appointed as eminent jurist in Lokpal panel: Govt",
+"date_published": "2018-05-15T14:14:41+05:30",
+"source_type": "news_article",
+"source_name": "timesofindia.indiatimes.com",
+"image_link": [
+"https://timesofindia.indiatimes.com/thumb/msid-64173405,imgsize-170566,width-400,resizemode-4/64173405.jpg"
+],
+"article_body": "NEW DELHI: Senior advocate has been appointed as an eminent jurist in the selection committee for appointment of the Lokpal, the Centre told the Supreme Court on Tuesday. Attorney General K K Venugopal told a bench headed by Justice that a decision was taken on May 11 appointing Rohatgi as an eminent jurist in the selection committee, which is chaired by the Prime Minister. Rohatgi was appointed as Attorney General of India after the government assumed power in May 2014. He resigned from the post in June 2017. The post of eminent jurist in the Lokpal selection panel was lying vacant since the death of senior advocate P P Rao on September 11, 2017. The bench, on hearing the submissions, posted the matter for further hearing on July 2. It was hearing a contempt petition filed by NGO Common Cause, which had raised the issue of non-appointment of the anti-graft ombudsman despite the apex court's verdict of April 27 last year.",
+"description": "NEW DELHI: Senior advocate has been appointed as an eminent jurist in the selection committee for appointment of the Lokpal, the Centre told the Supreme Court on Tuesday. Attorney General K K Venugopal told a bench headed by Justice that a decision was taken on May 11 appointing Rohatgi as an eminent jurist in the selection committee, which is chaired by the Prime Minister. Rohatgi was appointed as Attorney General of India after the",
+"time_scraped": "2018-08-22 09:03:29.636849",
+"article_id": "64173411",
+"article_category": "IndiaNews",
+"image_details": [
+{
+"url": "https://timesofindia.indiatimes.com/thumb/msid-64173405,imgsize-170566,width-400,resizemode-4/64173405.jpg",
+"path": "full/474f7ec3fff20cbd9f5fe091d42c1303653ab584.jpg",
+"checksum": "1784d830d4599d2de83580ee5f67ef96"
+}
+],
+"ibm_nlu": {
+"usage": {
+"text_units": 1,
+"text_characters": 935,
+"features": 7
+},
+"sentiment": {
+"document": {
+"score": -0.812231,
+"label": "negative"
+}
+},
+"semantic_roles": [
+{
+"subject": {
+"text": "the Centre"
+},
+"sentence": "NEW DELHI: Senior advocate has been appointed as an eminent jurist in the selection committee for appointment of the Lokpal, the Centre told the Supreme Court on Tuesday.",
+"action": {
+"verb": {
+"text": "tell",
+"tense": "past"
+},
+"text": "told",
+"normalized": "tell"
+}
+},
+{
+"subject": {
+"text": "Attorney General K K Venugopal"
+},
+"sentence": " Attorney General K K Venugopal told a bench headed by Justice that a decision was taken on May 11 appointing Rohatgi as an eminent jurist in the selection committee, which is chaired by the Prime Minister.",
+"object": {
+"text": "that a decision was taken on May 11 appointing Rohatgi as an eminent jurist in the selection committee, which is chaired by the Prime Minister"
+},
+"action": {
+"verb": {
+"text": "tell",
+"tense": "past"
+},
+"text": "told",
+"normalized": "tell"
+}
+},
+{
+"subject": {
+"text": "by Justice that a decision was taken on May 11 appointing Rohatgi"
+},
+"sentence": " Attorney General K K Venugopal told a bench headed by Justice that a decision was taken on May 11 appointing Rohatgi as an eminent jurist in the selection committee, which is chaired by the Prime Minister.",
+"object": {
+"text": "a bench"
+},
+"action": {
+"verb": {
+"text": "head",
+"tense": "past"
+},
+"text": "headed",
+"normalized": "head"
+}
+},
+{
+"subject": {
+"text": "Rohatgi"
+},
+"sentence": " Attorney General K K Venugopal told a bench headed by Justice that a decision was taken on May 11 appointing Rohatgi as an eminent jurist in the selection committee, which is chaired by the Prime Minister.",
+"object": {
+"text": "as an eminent jurist"
+},
+"action": {
+"verb": {
+"text": "appoint",
+"tense": "future"
+},
+"text": "appointing",
+"normalized": "appoint"
+}
+},
+{
+"subject": {
+"text": "by the Prime Minister"
+},
+"sentence": " Attorney General K K Venugopal told a bench headed by Justice that a decision was taken on May 11 appointing Rohatgi as an eminent jurist in the selection committee, which is chaired by the Prime Minister.",
+"object": {
+"text": "the selection committee"
+},
+"action": {
+"verb": {
+"text": "chair",
+"tense": "past"
+},
+"text": "is chaired",
+"normalized": "be chair"
+}
+},
+{
+"subject": {
+"text": "Rohatgi"
+},
+"sentence": " Rohatgi was appointed as Attorney General of India after the government assumed power in May 2014.",
+"object": {
+"text": "appointed as Attorney General of India"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "was",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "Rohatgi"
+},
+"sentence": " Rohatgi was appointed as Attorney General of India after the government assumed power in May 2014.",
+"object": {
+"text": "as Attorney General of India"
+},
+"action": {
+"verb": {
+"text": "appoint",
+"tense": "past"
+},
+"text": "was appointed",
+"normalized": "be appoint"
+}
+},
+{
+"subject": {
+"text": "the government"
+},
+"sentence": " Rohatgi was appointed as Attorney General of India after the government assumed power in May 2014.",
+"object": {
+"text": "power"
+},
+"action": {
+"verb": {
+"text": "assume",
+"tense": "past"
+},
+"text": "assumed",
+"normalized": "assume"
+}
+},
+{
+"subject": {
+"text": "He"
+},
+"sentence": " He resigned from the post in June 2017.",
+"object": {
+"text": "from the post"
+},
+"action": {
+"verb": {
+"text": "resign",
+"tense": "past"
+},
+"text": "resigned",
+"normalized": "resign"
+}
+},
+{
+"subject": {
+"text": "The post of eminent jurist in the Lokpal selection panel"
+},
+"sentence": " The post of eminent jurist in the Lokpal selection panel was lying vacant since the death of senior advocate P P Rao on September 11, 2017.",
+"object": {
+"text": "lying vacant"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "was",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "The bench"
+},
+"sentence": " The bench, on hearing the submissions, posted the matter for further hearing on July 2.",
+"object": {
+"text": "the submissions"
+},
+"action": {
+"verb": {
+"text": "hear",
+"tense": "future"
+},
+"text": "hearing",
+"normalized": "hear"
+}
+},
+{
+"subject": {
+"text": "The bench"
+},
+"sentence": " The bench, on hearing the submissions, posted the matter for further hearing on July 2.",
+"object": {
+"text": "the matter"
+},
+"action": {
+"verb": {
+"text": "post",
+"tense": "past"
+},
+"text": "posted",
+"normalized": "post"
+}
+},
+{
+"subject": {
+"text": "It"
+},
+"sentence": " It was hearing a contempt petition filed by NGO Common Cause, which had raised the issue of non-appointment of the anti-graft ombudsman despite the apex court's verdict of April 27 last year.",
+"object": {
+"text": "hearing a contempt petition filed by NGO Common Cause, which had raised the issue of non-appointment of the anti-graft ombudsman despite the apex court's verdict of April 27 last year"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "was",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "by NGO Common Cause, which had raised the issue of non-appointment of the anti-graft ombudsman despite the apex court's verdict of April 27 last year"
+},
+"sentence": " It was hearing a contempt petition filed by NGO Common Cause, which had raised the issue of non-appointment of the anti-graft ombudsman despite the apex court's verdict of April 27 last year.",
+"object": {
+"text": "a contempt petition"
+},
+"action": {
+"verb": {
+"text": "file",
+"tense": "past"
+},
+"text": "filed",
+"normalized": "file"
+}
+}
+],
+"relations": [
+{
+"type": "agentOf",
+"sentence": "NEW DELHI: Senior advocate has been appointed as an eminent jurist in the selection committee for appointment of the Lokpal, the Centre told the Supreme Court on Tuesday.",
+"score": 0.506447,
+"arguments": [
+{
+"text": "Senior advocate",
+"location": [
+11,
+26
+],
+"entities": [
+{
+"type": "Person",
+"text": "K K Venugopal"
+}
+]
+},
+{
+"text": "appointed",
+"location": [
+36,
+45
+],
+"entities": [
+{
+"type": "EventPersonnel",
+"text": "appointed"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Attorney General K K Venugopal told a bench headed by Justice that a decision was taken on May 11 appointing Rohatgi as an eminent jurist in the selection committee, which is chaired by the Prime Minister.",
+"score": 0.994687,
+"arguments": [
+{
+"text": "K K Venugopal",
+"location": [
+188,
+201
+],
+"entities": [
+{
+"type": "Person",
+"text": "K K Venugopal"
+}
+]
+},
+{
+"text": "told",
+"location": [
+202,
+206
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "told"
+}
+]
+}
+]
+},
+{
+"type": "timeOf",
+"sentence": "Attorney General K K Venugopal told a bench headed by Justice that a decision was taken on May 11 appointing Rohatgi as an eminent jurist in the selection committee, which is chaired by the Prime Minister.",
+"score": 0.882088,
+"arguments": [
+{
+"text": "May 11",
+"location": [
+262,
+268
+],
+"entities": [
+{
+"type": "Date",
+"text": "May 11"
+}
+]
+},
+{
+"text": "appointing",
+"location": [
+269,
+279
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "appointing"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "Attorney General K K Venugopal told a bench headed by Justice that a decision was taken on May 11 appointing Rohatgi as an eminent jurist in the selection committee, which is chaired by the Prime Minister.",
+"score": 0.874767,
+"arguments": [
+{
+"text": "Rohatgi",
+"location": [
+280,
+287
+],
+"entities": [
+{
+"type": "Person",
+"text": "Rohatgi"
+}
+]
+},
+{
+"text": "appointing",
+"location": [
+269,
+279
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "appointing"
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "Attorney General K K Venugopal told a bench headed by Justice that a decision was taken on May 11 appointing Rohatgi as an eminent jurist in the selection committee, which is chaired by the Prime Minister.",
+"score": 0.345999,
+"arguments": [
+{
+"text": "Prime Minister",
+"location": [
+361,
+375
+],
+"entities": [
+{
+"type": "Person",
+"text": "Rohatgi"
+}
+]
+},
+{
+"text": "which",
+"location": [
+337,
+342
+],
+"entities": [
+{
+"type": "Organization",
+"text": "selection committee"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Rohatgi was appointed as Attorney General of India after the government assumed power in May 2014.",
+"score": 0.735666,
+"arguments": [
+{
+"text": "Rohatgi",
+"location": [
+377,
+384
+],
+"entities": [
+{
+"type": "Person",
+"text": "Rohatgi"
+}
+]
+},
+{
+"text": "appointed",
+"location": [
+389,
+398
+],
+"entities": [
+{
+"type": "EventPersonnel",
+"text": "appointed"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "Rohatgi was appointed as Attorney General of India after the government assumed power in May 2014.",
+"score": 0.640964,
+"arguments": [
+{
+"text": "Attorney General",
+"location": [
+402,
+418
+],
+"entities": [
+{
+"type": "Person",
+"text": "Attorney General"
+}
+]
+},
+{
+"text": "appointed",
+"location": [
+389,
+398
+],
+"entities": [
+{
+"type": "EventPersonnel",
+"text": "appointed"
+}
+]
+}
+]
+},
+{
+"type": "timeOf",
+"sentence": "Rohatgi was appointed as Attorney General of India after the government assumed power in May 2014.",
+"score": 0.551767,
+"arguments": [
+{
+"text": "May 2014",
+"location": [
+466,
+474
+],
+"entities": [
+{
+"type": "Date",
+"text": "May 2014"
+}
+]
+},
+{
+"text": "appointed",
+"location": [
+389,
+398
+],
+"entities": [
+{
+"type": "EventPersonnel",
+"text": "appointed"
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "Rohatgi was appointed as Attorney General of India after the government assumed power in May 2014.",
+"score": 0.59331,
+"arguments": [
+{
+"text": "Attorney General",
+"location": [
+402,
+418
+],
+"entities": [
+{
+"type": "Person",
+"text": "Attorney General"
+}
+]
+},
+{
+"text": "India",
+"location": [
+422,
+427
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "India",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "He resigned from the post in June 2017.",
+"score": 0.916679,
+"arguments": [
+{
+"text": "He",
+"location": [
+476,
+478
+],
+"entities": [
+{
+"type": "Person",
+"text": "K K Venugopal"
+}
+]
+},
+{
+"text": "resigned",
+"location": [
+479,
+487
+],
+"entities": [
+{
+"type": "EventPersonnel",
+"text": "resigned"
+}
+]
+}
+]
+},
+{
+"type": "timeOf",
+"sentence": "He resigned from the post in June 2017.",
+"score": 0.98056,
+"arguments": [
+{
+"text": "June 2017",
+"location": [
+505,
+514
+],
+"entities": [
+{
+"type": "Date",
+"text": "June 2017"
+}
+]
+},
+{
+"text": "resigned",
+"location": [
+479,
+487
+],
+"entities": [
+{
+"type": "EventPersonnel",
+"text": "resigned"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "NEW DELHI: Senior advocate has been appointed as an eminent jurist in the selection committee for appointment of the Lokpal, the Centre told the Supreme Court on Tuesday.",
+"score": 0.445617,
+"arguments": [
+{
+"text": "jurist",
+"location": [
+60,
+66
+],
+"entities": [
+{
+"type": "Person",
+"text": "jurist"
+}
+]
+},
+{
+"text": "appointed",
+"location": [
+36,
+45
+],
+"entities": [
+{
+"type": "EventPersonnel",
+"text": "appointed"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "It was hearing a contempt petition filed by NGO Common Cause, which had raised the issue of non-appointment of the anti-graft ombudsman despite the apex court's verdict of April 27 last year.",
+"score": 0.959205,
+"arguments": [
+{
+"text": "apex court",
+"location": [
+892,
+902
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Common Cause"
+}
+]
+},
+{
+"text": "verdict",
+"location": [
+905,
+912
+],
+"entities": [
+{
+"type": "EventLegal",
+"text": "verdict"
+}
+]
+}
+]
+},
+{
+"type": "timeOf",
+"sentence": "It was hearing a contempt petition filed by NGO Common Cause, which had raised the issue of non-appointment of the anti-graft ombudsman despite the apex court's verdict of April 27 last year.",
+"score": 0.951986,
+"arguments": [
+{
+"text": "April 27 last year",
+"location": [
+916,
+934
+],
+"entities": [
+{
+"type": "Date",
+"text": "April 27 last year"
+}
+]
+},
+{
+"text": "verdict",
+"location": [
+905,
+912
+],
+"entities": [
+{
+"type": "EventLegal",
+"text": "verdict"
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "NEW DELHI: Senior advocate has been appointed as an eminent jurist in the selection committee for appointment of the Lokpal, the Centre told the Supreme Court on Tuesday.",
+"score": 0.458645,
+"arguments": [
+{
+"text": "jurist",
+"location": [
+60,
+66
+],
+"entities": [
+{
+"type": "Person",
+"text": "jurist"
+}
+]
+},
+{
+"text": "selection committee",
+"location": [
+74,
+93
+],
+"entities": [
+{
+"type": "Organization",
+"text": "selection committee"
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "Attorney General K K Venugopal told a bench headed by Justice that a decision was taken on May 11 appointing Rohatgi as an eminent jurist in the selection committee, which is chaired by the Prime Minister.",
+"score": 0.457475,
+"arguments": [
+{
+"text": "jurist",
+"location": [
+302,
+308
+],
+"entities": [
+{
+"type": "Person",
+"text": "jurist"
+}
+]
+},
+{
+"text": "selection committee",
+"location": [
+316,
+335
+],
+"entities": [
+{
+"type": "Organization",
+"text": "selection committee"
+}
+]
+}
+]
+},
+{
+"type": "partOf",
+"sentence": "NEW DELHI: Senior advocate has been appointed as an eminent jurist in the selection committee for appointment of the Lokpal, the Centre told the Supreme Court on Tuesday.",
+"score": 0.603902,
+"arguments": [
+{
+"text": "selection committee",
+"location": [
+74,
+93
+],
+"entities": [
+{
+"type": "Organization",
+"text": "selection committee"
+}
+]
+},
+{
+"text": "Centre",
+"location": [
+129,
+135
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Centre"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "NEW DELHI: Senior advocate has been appointed as an eminent jurist in the selection committee for appointment of the Lokpal, the Centre told the Supreme Court on Tuesday.",
+"score": 0.364621,
+"arguments": [
+{
+"text": "Centre",
+"location": [
+129,
+135
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Centre"
+}
+]
+},
+{
+"text": "appointment",
+"location": [
+98,
+109
+],
+"entities": [
+{
+"type": "EventPersonnel",
+"text": "appointment"
+}
+]
+}
+]
+},
+{
+"type": "timeOf",
+"sentence": "NEW DELHI: Senior advocate has been appointed as an eminent jurist in the selection committee for appointment of the Lokpal, the Centre told the Supreme Court on Tuesday.",
+"score": 0.505358,
+"arguments": [
+{
+"text": "Tuesday",
+"location": [
+162,
+169
+],
+"entities": [
+{
+"type": "Date",
+"text": "Tuesday"
+}
+]
+},
+{
+"text": "appointment",
+"location": [
+98,
+109
+],
+"entities": [
+{
+"type": "EventPersonnel",
+"text": "appointment"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "NEW DELHI: Senior advocate has been appointed as an eminent jurist in the selection committee for appointment of the Lokpal, the Centre told the Supreme Court on Tuesday.",
+"score": 0.591528,
+"arguments": [
+{
+"text": "Centre",
+"location": [
+129,
+135
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Centre"
+}
+]
+},
+{
+"text": "told",
+"location": [
+136,
+140
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "told"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "NEW DELHI: Senior advocate has been appointed as an eminent jurist in the selection committee for appointment of the Lokpal, the Centre told the Supreme Court on Tuesday.",
+"score": 0.965015,
+"arguments": [
+{
+"text": "Supreme Court",
+"location": [
+145,
+158
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Supreme Court",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+},
+{
+"text": "told",
+"location": [
+136,
+140
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "told"
+}
+]
+}
+]
+},
+{
+"type": "timeOf",
+"sentence": "NEW DELHI: Senior advocate has been appointed as an eminent jurist in the selection committee for appointment of the Lokpal, the Centre told the Supreme Court on Tuesday.",
+"score": 0.926841,
+"arguments": [
+{
+"text": "Tuesday",
+"location": [
+162,
+169
+],
+"entities": [
+{
+"type": "Date",
+"text": "Tuesday"
+}
+]
+},
+{
+"text": "told",
+"location": [
+136,
+140
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "told"
+}
+]
+}
+]
+}
+],
+"language": "en",
+"keywords": [
+{
+"text": "eminent jurist",
+"sentiment": {
+"score": -0.268266,
+"label": "negative"
+},
+"relevance": 0.905812,
+"emotion": {
+"sadness": 0.560064,
+"joy": 0.020169,
+"fear": 0.162358,
+"disgust": 0.155277,
+"anger": 0.358997
+}
+},
+{
+"text": "senior advocate",
+"sentiment": {
+"score": -0.268266,
+"label": "negative"
+},
+"relevance": 0.740918,
+"emotion": {
+"sadness": 0.599134,
+"joy": 0.023821,
+"fear": 0.144763,
+"disgust": 0.166042,
+"anger": 0.205837
+}
+},
+{
+"text": "selection committee",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.698636,
+"emotion": {
+"sadness": 0.284644,
+"joy": 0.071553,
+"fear": 0.153659,
+"disgust": 0.119357,
+"anger": 0.36781
+}
+},
+{
+"text": "Attorney General",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.696737,
+"emotion": {
+"sadness": 0.34446,
+"joy": 0.065098,
+"fear": 0.194646,
+"disgust": 0.131558,
+"anger": 0.447378
+}
+},
+{
+"text": "NGO Common Cause",
+"sentiment": {
+"score": -0.726305,
+"label": "negative"
+},
+"relevance": 0.671912,
+"emotion": {
+"sadness": 0.242851,
+"joy": 0.072249,
+"fear": 0.147252,
+"disgust": 0.092867,
+"anger": 0.071509
+}
+}
+],
+"entities": [
+{
+"type": "Person",
+"text": "Rohatgi",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.91736,
+"emotion": {
+"sadness": 0.290903,
+"joy": 0.047795,
+"fear": 0.274308,
+"disgust": 0.14831,
+"anger": 0.46428
+},
+"count": 3
+},
+{
+"type": "JobTitle",
+"text": "Senior advocate",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.512499,
+"emotion": {
+"sadness": 0.165013,
+"joy": 0.09159,
+"fear": 0.091448,
+"disgust": 0.092719,
+"anger": 0.123337
+},
+"count": 1
+},
+{
+"type": "Person",
+"text": "Attorney General K K Venugopal",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.452815,
+"emotion": {
+"sadness": 0.326014,
+"joy": 0.073978,
+"fear": 0.175042,
+"disgust": 0.123272,
+"anger": 0.448952
+},
+"count": 1
+},
+{
+"type": "Organization",
+"text": "Supreme Court",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.418703,
+"emotion": {
+"sadness": 0.192521,
+"joy": 0.097753,
+"fear": 0.131355,
+"disgust": 0.096622,
+"anger": 0.231952
+},
+"count": 1
+},
+{
+"type": "JobTitle",
+"text": "Attorney General of India",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.398258,
+"emotion": {
+"sadness": 0.309227,
+"joy": 0.088203,
+"fear": 0.211892,
+"disgust": 0.121792,
+"anger": 0.273017
+},
+"count": 1
+}
+],
+"concepts": [
+{
+"text": "Lawyer",
+"relevance": 0.95701,
+"dbpedia_resource": "http://dbpedia.org/resource/Lawyer"
+},
+{
+"text": "Cabinet",
+"relevance": 0.932113,
+"dbpedia_resource": "http://dbpedia.org/resource/Cabinet_(government)"
+},
+{
+"text": "Court",
+"relevance": 0.729766,
+"dbpedia_resource": "http://dbpedia.org/resource/Court"
+},
+{
+"text": "Judge",
+"relevance": 0.699211,
+"dbpedia_resource": "http://dbpedia.org/resource/Judge"
+},
+{
+"text": "Jury",
+"relevance": 0.681227,
+"dbpedia_resource": "http://dbpedia.org/resource/Jury"
+}
+],
+"categories": [
+{
+"score": 0.51595,
+"label": "/health and fitness/disease/aids and hiv"
+},
+{
+"score": 0.48772,
+"label": "/law, govt and politics/government"
+},
+{
+"score": 0.459602,
+"label": "/law, govt and politics/government/parliament"
+}
+]
+}
+}

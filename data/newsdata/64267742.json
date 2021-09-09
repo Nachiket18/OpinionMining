@@ -1,0 +1,623 @@
+{
+"source_article_link": "https://timesofindia.indiatimes.com/india/arvind-kejriwal-to-attend-hd-kumaraswamy-swearing-in/articleshow/64267742.cms?&utm_source=Articleshow&utm_medium=Organic&utm_campaign=Related_Stories",
+"title": "Arvind Kejriwal to attend HD Kumaraswamy swearing-in",
+"date_published": "2018-05-22T09:56:00+05:30",
+"source_type": "news_article",
+"source_name": "timesofindia.indiatimes.com",
+"image_link": [],
+"article_body": "NEW DELHI: CM is set to attend the swearing-in ceremony of in Bengaluru on Wednesday which is likely to be projected as a show of the \"unity of the opposition.\" Sources in Delhi CM office said that Kumaraswamy called up Kejriwal on Monday to invite him to his swearing-in likely to be attended by many of the country\u2019s opposition heavyweights. Earlier Kejriwal was invited to attend Kumaraswamy\u2019s swearing-in by former PM HD Devegowda. Since AAP and Congress are locked in political battle in the national capital, AAP national convener Kejriwal attendance at the swearing-in ceremony of Kumaraswamy, who is backed by Congress, will be keenly watched in national political circles.",
+"description": "NEW DELHI: CM is set to attend the swearing-in ceremony of in Bengaluru on Wednesday which is likely to be projected as a show of the \"unity of the opposition.\" Sources in Delhi CM office said that Kumaraswamy called up Kejriwal on Monday to invite him to his swearing-in likely to be attended by many of the country\u2019s opposition heavyweights. Earlier Kejriwal was invited to attend Kumaraswamy\u2019s swearing-in by former PM HD Devegowda. Since AAP and Congress are locked in political battle in the national capital, AAP national convener Kejriwal attendance at the swearing-in ceremony of Kumaraswamy, who is backed by Congress, will be keenly watched in national political circles.",
+"time_scraped": "2018-08-24 09:01:32.870357",
+"article_id": "64267742",
+"article_category": "IndiaNews",
+"image_details": [],
+"ibm_nlu": {
+"usage": {
+"text_units": 1,
+"text_characters": 681,
+"features": 7
+},
+"sentiment": {
+"document": {
+"score": 0.0,
+"label": "neutral"
+}
+},
+"semantic_roles": [
+{
+"subject": {
+"text": "CM"
+},
+"sentence": "NEW DELHI: CM is set to attend the swearing-in ceremony of in Bengaluru on Wednesday which is likely to be projected as a show of the \"unity of the opposition.\"",
+"object": {
+"text": "the swearing-in ceremony of in Bengaluru"
+},
+"action": {
+"verb": {
+"text": "attend",
+"tense": "future"
+},
+"text": "is set to attend",
+"normalized": "be set to attend"
+}
+},
+{
+"subject": {
+"text": "the swearing-in ceremony"
+},
+"sentence": "NEW DELHI: CM is set to attend the swearing-in ceremony of in Bengaluru on Wednesday which is likely to be projected as a show of the \"unity of the opposition.\"",
+"object": {
+"text": "projected"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "future"
+},
+"text": "be",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "Sources in Delhi CM office"
+},
+"sentence": " Sources in Delhi CM office said that Kumaraswamy called up Kejriwal on Monday to invite him to his swearing-in likely to be attended by many of the country\u2019s opposition heavyweights.",
+"object": {
+"text": "that Kumaraswamy called up Kejriwal on Monday to invite him to his swearing-in likely to be attended by many of the country\u2019s opposition heavyweights"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "Kumaraswamy"
+},
+"sentence": " Sources in Delhi CM office said that Kumaraswamy called up Kejriwal on Monday to invite him to his swearing-in likely to be attended by many of the country\u2019s opposition heavyweights.",
+"action": {
+"verb": {
+"text": "call",
+"tense": "past"
+},
+"text": "called",
+"normalized": "call"
+}
+},
+{
+"subject": {
+"text": "Kumaraswamy"
+},
+"sentence": " Sources in Delhi CM office said that Kumaraswamy called up Kejriwal on Monday to invite him to his swearing-in likely to be attended by many of the country\u2019s opposition heavyweights.",
+"object": {
+"text": "him"
+},
+"action": {
+"verb": {
+"text": "invite",
+"tense": "future"
+},
+"text": "to invite",
+"normalized": "to invite"
+}
+},
+{
+"subject": {
+"text": "Earlier Kejriwal"
+},
+"sentence": " Earlier Kejriwal was invited to attend Kumaraswamy\u2019s swearing-in by former PM HD Devegowda.",
+"object": {
+"text": "to attend Kumaraswamy\u2019s swearing-in by former PM HD Devegowda"
+},
+"action": {
+"verb": {
+"text": "invite",
+"tense": "past"
+},
+"text": "invited",
+"normalized": "invite"
+}
+},
+{
+"subject": {
+"text": "AAP and Congress"
+},
+"sentence": " Since AAP and Congress are locked in political battle in the national capital, AAP national convener Kejriwal attendance at the swearing-in ceremony of Kumaraswamy, who is backed by Congress, will be keenly watched in national political circles.",
+"object": {
+"text": "in political battle"
+},
+"action": {
+"verb": {
+"text": "lock",
+"tense": "past"
+},
+"text": "are locked",
+"normalized": "be lock"
+}
+},
+{
+"subject": {
+"text": "by Congress"
+},
+"sentence": " Since AAP and Congress are locked in political battle in the national capital, AAP national convener Kejriwal attendance at the swearing-in ceremony of Kumaraswamy, who is backed by Congress, will be keenly watched in national political circles.",
+"object": {
+"text": "Kumaraswamy"
+},
+"action": {
+"verb": {
+"text": "back",
+"tense": "past"
+},
+"text": "is backed",
+"normalized": "be back"
+}
+},
+{
+"subject": {
+"text": "Kumaraswamy, who is backed by Congress,"
+},
+"sentence": " Since AAP and Congress are locked in political battle in the national capital, AAP national convener Kejriwal attendance at the swearing-in ceremony of Kumaraswamy, who is backed by Congress, will be keenly watched in national political circles.",
+"action": {
+"verb": {
+"text": "be",
+"tense": "future"
+},
+"text": "be",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "Kumaraswamy, who is backed by Congress,"
+},
+"sentence": " Since AAP and Congress are locked in political battle in the national capital, AAP national convener Kejriwal attendance at the swearing-in ceremony of Kumaraswamy, who is backed by Congress, will be keenly watched in national political circles.",
+"action": {
+"verb": {
+"text": "watch",
+"tense": "future"
+},
+"text": "watched",
+"normalized": "watch"
+}
+}
+],
+"relations": [
+{
+"type": "employedBy",
+"sentence": "\" Sources in Delhi CM office said that Kumaraswamy called up Kejriwal on Monday to invite him to his swearing-in likely to be attended by many of the country's opposition heavyweights.",
+"score": 0.508139,
+"arguments": [
+{
+"text": "Sources",
+"location": [
+161,
+168
+],
+"entities": [
+{
+"type": "Person",
+"text": "Sources"
+}
+]
+},
+{
+"text": "office",
+"location": [
+181,
+187
+],
+"entities": [
+{
+"type": "Organization",
+"text": "office"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "\" Sources in Delhi CM office said that Kumaraswamy called up Kejriwal on Monday to invite him to his swearing-in likely to be attended by many of the country's opposition heavyweights.",
+"score": 0.886642,
+"arguments": [
+{
+"text": "Sources",
+"location": [
+161,
+168
+],
+"entities": [
+{
+"type": "Person",
+"text": "Sources"
+}
+]
+},
+{
+"text": "said",
+"location": [
+188,
+192
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "basedIn",
+"sentence": "\" Sources in Delhi CM office said that Kumaraswamy called up Kejriwal on Monday to invite him to his swearing-in likely to be attended by many of the country's opposition heavyweights.",
+"score": 0.743525,
+"arguments": [
+{
+"text": "office",
+"location": [
+181,
+187
+],
+"entities": [
+{
+"type": "Organization",
+"text": "office"
+}
+]
+},
+{
+"text": "Delhi CM",
+"location": [
+172,
+180
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Delhi CM"
+}
+]
+}
+]
+},
+{
+"type": "partOfMany",
+"sentence": "\" Sources in Delhi CM office said that Kumaraswamy called up Kejriwal on Monday to invite him to his swearing-in likely to be attended by many of the country's opposition heavyweights.",
+"score": 0.744635,
+"arguments": [
+{
+"text": "many",
+"location": [
+297,
+301
+],
+"entities": [
+{
+"type": "Cardinal",
+"text": "many"
+}
+]
+},
+{
+"text": "opposition",
+"location": [
+319,
+329
+],
+"entities": [
+{
+"type": "Person",
+"text": "opposition"
+}
+]
+}
+]
+},
+{
+"type": "residesIn",
+"sentence": "\" Sources in Delhi CM office said that Kumaraswamy called up Kejriwal on Monday to invite him to his swearing-in likely to be attended by many of the country's opposition heavyweights.",
+"score": 0.565329,
+"arguments": [
+{
+"text": "opposition",
+"location": [
+319,
+329
+],
+"entities": [
+{
+"type": "Person",
+"text": "opposition"
+}
+]
+},
+{
+"text": "country",
+"location": [
+309,
+316
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "country",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "Since AAP and Congress are locked in political battle in the national capital, AAP national convener Kejriwal attendance at the swearing-in ceremony of Kumaraswamy, who is backed by Congress, will be keenly watched in national political circles.",
+"score": 0.596275,
+"arguments": [
+{
+"text": "who",
+"location": [
+601,
+604
+],
+"entities": [
+{
+"type": "Person",
+"text": "Kumaraswamy"
+}
+]
+},
+{
+"text": "Congress",
+"location": [
+618,
+626
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Congress",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+}
+]
+}
+],
+"language": "en",
+"keywords": [
+{
+"text": "swearing-in ceremony",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.969795,
+"emotion": {
+"sadness": 0.281402,
+"joy": 0.272255,
+"fear": 0.108112,
+"disgust": 0.049021,
+"anger": 0.048155
+}
+},
+{
+"text": "convener Kejriwal attendance",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.915704,
+"emotion": {
+"sadness": 0.247749,
+"joy": 0.170016,
+"fear": 0.103405,
+"disgust": 0.252947,
+"anger": 0.086439
+}
+},
+{
+"text": "Delhi CM office",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.776372,
+"emotion": {
+"sadness": 0.40815,
+"joy": 0.096589,
+"fear": 0.208236,
+"disgust": 0.018191,
+"anger": 0.102396
+}
+},
+{
+"text": "Earlier Kejriwal",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.708079,
+"emotion": {
+"sadness": 0.426566,
+"joy": 0.104594,
+"fear": 0.105861,
+"disgust": 0.062929,
+"anger": 0.160633
+}
+},
+{
+"text": "PM HD Devegowda",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.686997,
+"emotion": {
+"sadness": 0.426566,
+"joy": 0.104594,
+"fear": 0.105861,
+"disgust": 0.062929,
+"anger": 0.160633
+}
+}
+],
+"entities": [
+{
+"type": "Person",
+"text": "Kejriwal",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.880929,
+"emotion": {
+"sadness": 0.426566,
+"joy": 0.104594,
+"fear": 0.105861,
+"disgust": 0.062929,
+"anger": 0.160633
+},
+"count": 1
+},
+{
+"type": "Location",
+"text": "Delhi CM",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.756434,
+"emotion": {
+"sadness": 0.40815,
+"joy": 0.096589,
+"fear": 0.208236,
+"disgust": 0.018191,
+"anger": 0.102396
+},
+"disambiguation": {
+"subtype": [
+"City"
+]
+},
+"count": 1
+},
+{
+"type": "Organization",
+"text": "AAP",
+"sentiment": {
+"score": -0.489674,
+"label": "negative"
+},
+"relevance": 0.717253,
+"emotion": {
+"sadness": 0.535429,
+"joy": 0.025919,
+"fear": 0.106185,
+"disgust": 0.282298,
+"anger": 0.313653
+},
+"disambiguation": {
+"subtype": [
+"Company"
+],
+"name": "Advance Auto Parts",
+"dbpedia_resource": "http://dbpedia.org/resource/Advance_Auto_Parts"
+},
+"count": 2
+},
+{
+"type": "Location",
+"text": "DELHI",
+"sentiment": {
+"score": 0.358044,
+"label": "positive"
+},
+"relevance": 0.547823,
+"emotion": {
+"sadness": 0.115132,
+"joy": 0.596039,
+"fear": 0.084006,
+"disgust": 0.034674,
+"anger": 0.046922
+},
+"disambiguation": {
+"subtype": [
+"Country"
+]
+},
+"count": 1
+},
+{
+"type": "Organization",
+"text": "Congress",
+"sentiment": {
+"score": -0.489674,
+"label": "negative"
+},
+"relevance": 0.508417,
+"emotion": {
+"sadness": 0.595331,
+"joy": 0.010651,
+"fear": 0.108377,
+"disgust": 0.251593,
+"anger": 0.344733
+},
+"count": 2
+}
+],
+"concepts": [
+{
+"text": "Delhi",
+"relevance": 0.948682,
+"dbpedia_resource": "http://dbpedia.org/resource/Delhi"
+},
+{
+"text": "British Raj",
+"relevance": 0.755625,
+"dbpedia_resource": "http://dbpedia.org/resource/British_Raj"
+},
+{
+"text": "India",
+"relevance": 0.755568,
+"dbpedia_resource": "http://dbpedia.org/resource/India"
+},
+{
+"text": "Sheila Dikshit",
+"relevance": 0.747658,
+"dbpedia_resource": "http://dbpedia.org/resource/Sheila_Dikshit"
+},
+{
+"text": "Moscow",
+"relevance": 0.719134,
+"dbpedia_resource": "http://dbpedia.org/resource/Moscow"
+}
+],
+"categories": [
+{
+"score": 0.632673,
+"label": "/law, govt and politics/government/parliament"
+},
+{
+"score": 0.227982,
+"label": "/law, govt and politics/government"
+},
+{
+"score": 0.144678,
+"label": "/law, govt and politics/politics/elections"
+}
+]
+}
+}

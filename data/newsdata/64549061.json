@@ -1,0 +1,2279 @@
+{
+"source_article_link": "https://timesofindia.indiatimes.com/india/shikanji-seller-started-coca-cola-dhabawallah-mcdonalds-says-rahul-gandhi/articleshow/64549061.cms?&utm_source=Articleshow&utm_medium=Organic&utm_campaign=Related_Stories",
+"title": "Fact check: Shikanji seller started Coca-Cola, dhabawallah McDonald\u2019s, says Rahul Gandhi",
+"date_published": "2018-06-12T01:28:38+05:30",
+"source_type": "news_article",
+"source_name": "timesofindia.indiatimes.com",
+"image_link": [
+"https://timesofindia.indiatimes.com/thumb/msid-64550481,imgsize-320579,width-400,resizemode-4/64550481.jpg"
+],
+"article_body": "NEW DELHI: Congress president offered interesting analogies on Monday to argue that skilled OBC communities are being given short shrift by the Modi government, unlike abroad where the owner of used to sell shikanji (lemonade) in the US while the owners of McDonald\u2019s ran a \u201cdhaba\u201d. Rahul said besides Coca-Cola and McDonald\u2019s, top automobile companies like Ford, Mercedes and were started by mechanics. The analogies came at an OBC convention of the party, where Rahul sought to illustrate the point that unlike meritocratic systems abroad, the government was not giving opportunities and financial support to \u201chighly skilled\u201d backward communities in India. \u201cEveryone must have heard about the Coca-Cola company. Who started this company, does anyone know? He sold shikanji in America. He used to mix sugar in water. His talent was honoured and he got money and started the Coca-Cola company,\u201d he said.    Rahul added, \u201cYou must have heard about McDonald\u2019s company, which is seen everywhere. Who started it and what did he do? He used to run a dhaba. You show me a \u2018dhabawalla\u2019 in India who has created a company like Coca-Cola. Where is it? Show me one automobile company started by a mechanic.\u201d     He blamed the Modi government and RSS, saying \u201cour dhabawallahs or mechanics\u201d do not lack knowledge but doors of banks and politics are shut for our \u2018dhabawallahs\u2019, mechanics, \u2018dhobis\u2019 and other backwards. Promising to give OBCs their \u201cdue share\u201d in politics, Rahul attacked PM Modi for saying India lacks skills and requires skilling. He said the PM\u2019s remark was a \u201clie\u201d as OBCs were highly skilled but were not being given opportunities. Rahul said BJP\u2019s backward MPs had complained to him that they helped \u201cModi become PM but he allows them no voice in the party\u201d and all the power lies with RSS. \u201cIndia has become a slave of BJP\u2019s few leaders and RSS. It is good, and nobody can stop it, that the entire opposition, Congress or , is coming together. In six months or one year, Modi, Amit Shah and Mohan Bhagwat will see the power of India. They will understand that three people cannot run India. It will be run by its people, its youth,\u201d he said. The Congress President also said the Centre had waived loans to the tune of Rs 2.5 lakh crore for 15 industrialists but had done nothing for dying farmers.",
+"description": "Rahul Gandhi on Monday  argued that skilled OBC communities are being given short shrift by the Modi government The owner of Coca-Cola used to sell shikanji (lemonade) in the US while the owners of McDonald\u2019s ran a \u201cdhaba\u201d, he said Promising to give OBCs their \u201cdue share\u201d in politics, Rahul attacked PM for saying India lacks skills and requires skilling",
+"time_scraped": "2018-08-22 06:01:29.406859",
+"article_id": "64549061",
+"article_category": "IndiaNews",
+"image_details": [
+{
+"url": "https://timesofindia.indiatimes.com/thumb/msid-64550481,imgsize-320579,width-400,resizemode-4/64550481.jpg",
+"path": "full/167a23301821a0b93d14ecd06f3cd702515a3758.jpg",
+"checksum": "9467b0df4b8f5e14c136b09b04596b54"
+}
+],
+"ibm_nlu": {
+"usage": {
+"text_units": 1,
+"text_characters": 2309,
+"features": 7
+},
+"sentiment": {
+"document": {
+"score": 0.0936518,
+"label": "positive"
+}
+},
+"semantic_roles": [
+{
+"subject": {
+"text": "Congress president"
+},
+"sentence": "NEW DELHI: Congress president offered interesting analogies on Monday to argue that skilled OBC communities are being given short shrift by the Modi government, unlike abroad where the owner of used to sell shikanji (lemonade) in the US while the owners of McDonald\u2019s ran a \u201cdhaba\u201d.",
+"object": {
+"text": "that skilled OBC communities are being given short shrift by the Modi government, unlike abroad where the owner of used to sell shikanji (lemonade) in the US"
+},
+"action": {
+"verb": {
+"text": "argue",
+"tense": "future"
+},
+"text": "to argue",
+"normalized": "to argue"
+}
+},
+{
+"subject": {
+"text": "skilled OBC communities"
+},
+"sentence": "NEW DELHI: Congress president offered interesting analogies on Monday to argue that skilled OBC communities are being given short shrift by the Modi government, unlike abroad where the owner of used to sell shikanji (lemonade) in the US while the owners of McDonald\u2019s ran a \u201cdhaba\u201d.",
+"object": {
+"text": "given short shrift by the Modi government"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "present"
+},
+"text": "being",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "by the Modi government"
+},
+"sentence": "NEW DELHI: Congress president offered interesting analogies on Monday to argue that skilled OBC communities are being given short shrift by the Modi government, unlike abroad where the owner of used to sell shikanji (lemonade) in the US while the owners of McDonald\u2019s ran a \u201cdhaba\u201d.",
+"object": {
+"text": "skilled OBC communities"
+},
+"action": {
+"verb": {
+"text": "give",
+"tense": "past"
+},
+"text": "are being given",
+"normalized": "be be give"
+}
+},
+{
+"subject": {
+"text": "the owner"
+},
+"sentence": "NEW DELHI: Congress president offered interesting analogies on Monday to argue that skilled OBC communities are being given short shrift by the Modi government, unlike abroad where the owner of used to sell shikanji (lemonade) in the US while the owners of McDonald\u2019s ran a \u201cdhaba\u201d.",
+"object": {
+"text": "shikanji"
+},
+"action": {
+"verb": {
+"text": "sell",
+"tense": "future"
+},
+"text": "to sell",
+"normalized": "to sell"
+}
+},
+{
+"subject": {
+"text": "the owners of McDonald\u2019s"
+},
+"sentence": "NEW DELHI: Congress president offered interesting analogies on Monday to argue that skilled OBC communities are being given short shrift by the Modi government, unlike abroad where the owner of used to sell shikanji (lemonade) in the US while the owners of McDonald\u2019s ran a \u201cdhaba\u201d.",
+"object": {
+"text": "a \u201cdhaba"
+},
+"action": {
+"verb": {
+"text": "run",
+"tense": "past"
+},
+"text": "ran",
+"normalized": "run"
+}
+},
+{
+"subject": {
+"text": "Rahul"
+},
+"sentence": " Rahul said besides Coca-Cola and McDonald\u2019s, top automobile companies like Ford, Mercedes and were started by mechanics.",
+"object": {
+"text": "besides Coca-Cola and McDonald\u2019s, top automobile companies like Ford, Mercedes and were started by mechanics"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "by mechanics"
+},
+"sentence": " Rahul said besides Coca-Cola and McDonald\u2019s, top automobile companies like Ford, Mercedes and were started by mechanics.",
+"object": {
+"text": "Rahul said besides Coca-Cola and McDonald\u2019s, top automobile companies like Ford"
+},
+"action": {
+"verb": {
+"text": "start",
+"tense": "past"
+},
+"text": "were started",
+"normalized": "be start"
+}
+},
+{
+"subject": {
+"text": "The analogies"
+},
+"sentence": " The analogies came at an OBC convention of the party, where Rahul sought to illustrate the point that unlike meritocratic systems abroad, the government was not giving opportunities and financial support to \u201chighly skilled\u201d backward communities in India.",
+"object": {
+"text": "at an OBC convention of the party, where Rahul sought to illustrate the point that unlike meritocratic systems abroad, the government was not giving opportunities and financial support to \u201chighly skilled\u201d backward communities in India"
+},
+"action": {
+"verb": {
+"text": "come",
+"tense": "past"
+},
+"text": "came",
+"normalized": "come"
+}
+},
+{
+"subject": {
+"text": "the government"
+},
+"sentence": " The analogies came at an OBC convention of the party, where Rahul sought to illustrate the point that unlike meritocratic systems abroad, the government was not giving opportunities and financial support to \u201chighly skilled\u201d backward communities in India.",
+"object": {
+"text": "opportunities and financial support to \u201chighly skilled\u201d backward communities in India"
+},
+"action": {
+"verb": {
+"text": "give",
+"tense": "past",
+"negated": true
+},
+"text": "giving",
+"normalized": "give"
+}
+},
+{
+"subject": {
+"text": "Everyone"
+},
+"sentence": " \u201cEveryone must have heard about the Coca-Cola company.",
+"object": {
+"text": "heard about the Coca-Cola company"
+},
+"action": {
+"verb": {
+"text": "have",
+"tense": "future"
+},
+"text": "have",
+"normalized": "have"
+}
+},
+{
+"subject": {
+"text": "Everyone"
+},
+"sentence": " \u201cEveryone must have heard about the Coca-Cola company.",
+"object": {
+"text": "about the Coca-Cola company"
+},
+"action": {
+"verb": {
+"text": "hear",
+"tense": "future"
+},
+"text": "must have heard",
+"normalized": "must have hear"
+}
+},
+{
+"subject": {
+"text": "Who started this company,"
+},
+"sentence": " Who started this company, does anyone know?",
+"object": {
+"text": "anyone know"
+},
+"action": {
+"verb": {
+"text": "do",
+"tense": "present"
+},
+"text": "does",
+"normalized": "do"
+}
+},
+{
+"subject": {
+"text": "He"
+},
+"sentence": " He sold shikanji in America.",
+"object": {
+"text": "shikanji"
+},
+"action": {
+"verb": {
+"text": "sell",
+"tense": "past"
+},
+"text": "sold",
+"normalized": "sell"
+}
+},
+{
+"subject": {
+"text": "He"
+},
+"sentence": " He used to mix sugar in water.",
+"object": {
+"text": "sugar in water"
+},
+"action": {
+"verb": {
+"text": "mix",
+"tense": "future"
+},
+"text": "used to mix",
+"normalized": "use to mix"
+}
+},
+{
+"subject": {
+"text": "His talent"
+},
+"sentence": " His talent was honoured and he got money and started the Coca-Cola company,\u201d he said.",
+"object": {
+"text": "honoured"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "was",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "he"
+},
+"sentence": " His talent was honoured and he got money and started the Coca-Cola company,\u201d he said.",
+"object": {
+"text": "money"
+},
+"action": {
+"verb": {
+"text": "get",
+"tense": "past"
+},
+"text": "got",
+"normalized": "get"
+}
+},
+{
+"subject": {
+"text": "he"
+},
+"sentence": " His talent was honoured and he got money and started the Coca-Cola company,\u201d he said.",
+"object": {
+"text": "the Coca-Cola company"
+},
+"action": {
+"verb": {
+"text": "start",
+"tense": "past"
+},
+"text": "started",
+"normalized": "start"
+}
+},
+{
+"subject": {
+"text": "he"
+},
+"sentence": " His talent was honoured and he got money and started the Coca-Cola company,\u201d he said.",
+"object": {
+"text": "His talent was honoured and he got money and started the Coca-Cola company"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "Rahul"
+},
+"sentence": " Rahul added, \u201cYou must have heard about McDonald\u2019s company, which is seen everywhere.",
+"object": {
+"text": "You must have heard about McDonald\u2019s company, which is seen everywhere"
+},
+"action": {
+"verb": {
+"text": "add",
+"tense": "past"
+},
+"text": "added",
+"normalized": "add"
+}
+},
+{
+"subject": {
+"text": "about McDonald\u2019s company"
+},
+"sentence": " Rahul added, \u201cYou must have heard about McDonald\u2019s company, which is seen everywhere.",
+"object": {
+"text": "seen everywhere"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "present"
+},
+"text": "is",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "about McDonald\u2019s company"
+},
+"sentence": " Rahul added, \u201cYou must have heard about McDonald\u2019s company, which is seen everywhere.",
+"action": {
+"verb": {
+"text": "see",
+"tense": "past"
+},
+"text": "is seen",
+"normalized": "be see"
+}
+},
+{
+"subject": {
+"text": "He"
+},
+"sentence": " He used to run a dhaba.",
+"object": {
+"text": "a dhaba"
+},
+"action": {
+"verb": {
+"text": "run",
+"tense": "future"
+},
+"text": "used to run",
+"normalized": "use to run"
+}
+},
+{
+"subject": {
+"text": "You"
+},
+"sentence": " You show me a \u2018dhabawalla\u2019 in India who has created a company like Coca-Cola.",
+"object": {
+"text": "a \u2018dhabawalla\u2019 in India who has created a company like Coca-Cola"
+},
+"action": {
+"verb": {
+"text": "show",
+"tense": "present"
+},
+"text": "show",
+"normalized": "show"
+}
+},
+{
+"subject": {
+"text": "a \u2018dhabawalla\u2019 in India"
+},
+"sentence": " You show me a \u2018dhabawalla\u2019 in India who has created a company like Coca-Cola.",
+"object": {
+"text": "a company like Coca-Cola"
+},
+"action": {
+"verb": {
+"text": "create",
+"tense": "past"
+},
+"text": "has created",
+"normalized": "have create"
+}
+},
+{
+"subject": {
+"text": "one automobile company started by a mechanic.\u201d He blamed the Modi government and RSS"
+},
+"sentence": " Show me one automobile company started by a mechanic.\u201d He blamed the Modi government and RSS, saying \u201cour dhabawallahs or mechanics\u201d do not lack knowledge but doors of banks and politics are shut for our \u2018dhabawallahs\u2019, mechanics, \u2018dhobis\u2019 and other backwards.",
+"object": {
+"text": "me"
+},
+"action": {
+"verb": {
+"text": "Show",
+"tense": "present"
+},
+"text": "Show",
+"normalized": "Show"
+}
+},
+{
+"subject": {
+"text": "by a mechanic.\u201d He blamed the Modi government and RSS"
+},
+"sentence": " Show me one automobile company started by a mechanic.\u201d He blamed the Modi government and RSS, saying \u201cour dhabawallahs or mechanics\u201d do not lack knowledge but doors of banks and politics are shut for our \u2018dhabawallahs\u2019, mechanics, \u2018dhobis\u2019 and other backwards.",
+"object": {
+"text": "one automobile company"
+},
+"action": {
+"verb": {
+"text": "start",
+"tense": "past"
+},
+"text": "started",
+"normalized": "start"
+}
+},
+{
+"subject": {
+"text": "our dhabawallahs or mechanics\u201d"
+},
+"sentence": " Show me one automobile company started by a mechanic.\u201d He blamed the Modi government and RSS, saying \u201cour dhabawallahs or mechanics\u201d do not lack knowledge but doors of banks and politics are shut for our \u2018dhabawallahs\u2019, mechanics, \u2018dhobis\u2019 and other backwards.",
+"object": {
+"text": "not lack knowledge"
+},
+"action": {
+"verb": {
+"text": "do",
+"tense": "present"
+},
+"text": "do",
+"normalized": "do"
+}
+},
+{
+"subject": {
+"text": "our dhabawallahs or mechanics\u201d"
+},
+"sentence": " Show me one automobile company started by a mechanic.\u201d He blamed the Modi government and RSS, saying \u201cour dhabawallahs or mechanics\u201d do not lack knowledge but doors of banks and politics are shut for our \u2018dhabawallahs\u2019, mechanics, \u2018dhobis\u2019 and other backwards.",
+"object": {
+"text": "knowledge"
+},
+"action": {
+"verb": {
+"text": "lack",
+"tense": "present",
+"negated": true
+},
+"text": "lack",
+"normalized": "lack"
+}
+},
+{
+"subject": {
+"text": "their \u201cdue share\u201d in politics"
+},
+"sentence": " Promising to give OBCs their \u201cdue share\u201d in politics, Rahul attacked PM Modi for saying India lacks skills and requires skilling.",
+"object": {
+"text": "OBCs"
+},
+"action": {
+"verb": {
+"text": "give",
+"tense": "future"
+},
+"text": "Promising to give",
+"normalized": "Promising to give"
+}
+},
+{
+"subject": {
+"text": "Rahul"
+},
+"sentence": " Promising to give OBCs their \u201cdue share\u201d in politics, Rahul attacked PM Modi for saying India lacks skills and requires skilling.",
+"object": {
+"text": "PM Modi"
+},
+"action": {
+"verb": {
+"text": "attack",
+"tense": "past"
+},
+"text": "attacked",
+"normalized": "attack"
+}
+},
+{
+"subject": {
+"text": "Rahul"
+},
+"sentence": " Promising to give OBCs their \u201cdue share\u201d in politics, Rahul attacked PM Modi for saying India lacks skills and requires skilling.",
+"object": {
+"text": "India lacks skills"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "present"
+},
+"text": "saying",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "He"
+},
+"sentence": " He said the PM\u2019s remark was a \u201clie\u201d as OBCs were highly skilled but were not being given opportunities.",
+"object": {
+"text": "the PM\u2019s remark was a \u201clie\u201d as OBCs were highly skilled but were not being given opportunities"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "Rahul"
+},
+"sentence": " Rahul said BJP\u2019s backward MPs had complained to him that they helped \u201cModi become PM but he allows them no voice in the party\u201d and all the power lies with RSS.",
+"object": {
+"text": "BJP\u2019s backward MPs had complained to him that they helped \u201cModi become PM but he allows them no voice in the party\u201d and all the power lies with RSS"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "BJP\u2019s backward MPs"
+},
+"sentence": " Rahul said BJP\u2019s backward MPs had complained to him that they helped \u201cModi become PM but he allows them no voice in the party\u201d and all the power lies with RSS.",
+"object": {
+"text": "that they helped \u201cModi become PM"
+},
+"action": {
+"verb": {
+"text": "complain",
+"tense": "past"
+},
+"text": "had complained",
+"normalized": "have complain"
+}
+},
+{
+"subject": {
+"text": "India"
+},
+"sentence": " \u201cIndia has become a slave of BJP\u2019s few leaders and RSS.",
+"object": {
+"text": "become a slave of BJP\u2019s few leaders and RSS"
+},
+"action": {
+"verb": {
+"text": "have",
+"tense": "present"
+},
+"text": "has",
+"normalized": "have"
+}
+},
+{
+"subject": {
+"text": "India"
+},
+"sentence": " \u201cIndia has become a slave of BJP\u2019s few leaders and RSS.",
+"object": {
+"text": "a slave of BJP\u2019s few leaders and RSS"
+},
+"action": {
+"verb": {
+"text": "become",
+"tense": "past"
+},
+"text": "has become",
+"normalized": "have become"
+}
+},
+{
+"subject": {
+"text": "It"
+},
+"sentence": " It is good, and nobody can stop it, that the entire opposition, Congress or , is coming together.",
+"object": {
+"text": "good"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "present"
+},
+"text": "is",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "nobody"
+},
+"sentence": " It is good, and nobody can stop it, that the entire opposition, Congress or , is coming together.",
+"object": {
+"text": "it"
+},
+"action": {
+"verb": {
+"text": "stop",
+"tense": "future"
+},
+"text": "can stop",
+"normalized": "can stop"
+}
+},
+{
+"subject": {
+"text": "the entire opposition, Congress or ,"
+},
+"sentence": " It is good, and nobody can stop it, that the entire opposition, Congress or , is coming together.",
+"object": {
+"text": "coming together"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "present"
+},
+"text": "is",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "Modi, Amit Shah and Mohan Bhagwat"
+},
+"sentence": " In six months or one year, Modi, Amit Shah and Mohan Bhagwat will see the power of India.",
+"object": {
+"text": "the power of India"
+},
+"action": {
+"verb": {
+"text": "see",
+"tense": "future"
+},
+"text": "will see",
+"normalized": "will see"
+}
+},
+{
+"subject": {
+"text": "They"
+},
+"sentence": " They will understand that three people cannot run India.",
+"object": {
+"text": "that three people cannot run India"
+},
+"action": {
+"verb": {
+"text": "understand",
+"tense": "future"
+},
+"text": "will understand",
+"normalized": "will understand"
+}
+},
+{
+"subject": {
+"text": "three people"
+},
+"sentence": " They will understand that three people cannot run India.",
+"object": {
+"text": "India"
+},
+"action": {
+"verb": {
+"text": "run",
+"tense": "future",
+"negated": true
+},
+"text": "run",
+"normalized": "run"
+}
+},
+{
+"subject": {
+"text": "It"
+},
+"sentence": " It will be run by its people, its youth,\u201d he said.",
+"object": {
+"text": "run by its people, its youth"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "future"
+},
+"text": "be",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "by its people, its youth"
+},
+"sentence": " It will be run by its people, its youth,\u201d he said.",
+"object": {
+"text": "It"
+},
+"action": {
+"verb": {
+"text": "run",
+"tense": "future"
+},
+"text": "will be run",
+"normalized": "will be run"
+}
+},
+{
+"subject": {
+"text": "he"
+},
+"sentence": " It will be run by its people, its youth,\u201d he said.",
+"object": {
+"text": "It will be run by its people, its youth"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "The Congress President"
+},
+"sentence": " The Congress President also said the Centre had waived loans to the tune of Rs 2.5 lakh crore for 15 industrialists but had done nothing for dying farmers.",
+"object": {
+"text": "the Centre had waived loans to the tune of Rs 2.5 lakh crore for 15 industrialists but had done nothing for dying farmers"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "the Centre"
+},
+"sentence": " The Congress President also said the Centre had waived loans to the tune of Rs 2.5 lakh crore for 15 industrialists but had done nothing for dying farmers.",
+"object": {
+"text": "done nothing for dying farmers"
+},
+"action": {
+"verb": {
+"text": "have",
+"tense": "past"
+},
+"text": "had",
+"normalized": "have"
+}
+},
+{
+"subject": {
+"text": "the Centre"
+},
+"sentence": " The Congress President also said the Centre had waived loans to the tune of Rs 2.5 lakh crore for 15 industrialists but had done nothing for dying farmers.",
+"object": {
+"text": "nothing"
+},
+"action": {
+"verb": {
+"text": "do",
+"tense": "past"
+},
+"text": "had done",
+"normalized": "have do"
+}
+}
+],
+"relations": [
+{
+"type": "managerOf",
+"sentence": "NEW DELHI: Congress president offered interesting analogies on Monday to argue that skilled OBC communities are being given short shrift by the Modi government, unlike abroad where the owner of used to sell shikanji (lemonade) in the US while the owners of McDonald's ran a \"dhaba\".",
+"score": 0.7786,
+"arguments": [
+{
+"text": "president",
+"location": [
+20,
+29
+],
+"entities": [
+{
+"type": "Person",
+"text": "President"
+}
+]
+},
+{
+"text": "Congress",
+"location": [
+11,
+19
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Congress",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "managerOf",
+"sentence": "The Congress President also said the Centre had waived loans to the tune of Rs 2.5 lakh crore for 15 industrialists but had done nothing for dying farmers.",
+"score": 0.837567,
+"arguments": [
+{
+"text": "President",
+"location": [
+2167,
+2176
+],
+"entities": [
+{
+"type": "Person",
+"text": "President"
+}
+]
+},
+{
+"text": "Congress",
+"location": [
+2158,
+2166
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Congress",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "The analogies came at an OBC convention of the party, where Rahul sought to illustrate the point that unlike meritocratic systems abroad, the government was not giving opportunities and financial support to \"highly skilled\" backward communities in India.",
+"score": 0.958326,
+"arguments": [
+{
+"text": "communities",
+"location": [
+637,
+648
+],
+"entities": [
+{
+"type": "Location",
+"text": "communities"
+}
+]
+},
+{
+"text": "India",
+"location": [
+652,
+657
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "India",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "He sold shikanji in America.",
+"score": 0.472656,
+"arguments": [
+{
+"text": "He",
+"location": [
+758,
+760
+],
+"entities": [
+{
+"type": "Person",
+"text": "His"
+}
+]
+},
+{
+"text": "America",
+"location": [
+778,
+785
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "America",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "His talent was honoured and he got money and started the Coca-Cola company,\" he said.",
+"score": 0.987099,
+"arguments": [
+{
+"text": "he",
+"location": [
+895,
+897
+],
+"entities": [
+{
+"type": "Person",
+"text": "His"
+}
+]
+},
+{
+"text": "said",
+"location": [
+898,
+902
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "added"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Rahul added, \"You must have heard about McDonald's company, which is seen everywhere.",
+"score": 0.991012,
+"arguments": [
+{
+"text": "Rahul",
+"location": [
+907,
+912
+],
+"entities": [
+{
+"type": "Person",
+"text": "Rahul"
+}
+]
+},
+{
+"text": "added",
+"location": [
+913,
+918
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "added"
+}
+]
+}
+]
+},
+{
+"type": "partOf",
+"sentence": "Rahul added, \"You must have heard about McDonald's company, which is seen everywhere.",
+"score": 0.663962,
+"arguments": [
+{
+"text": "company",
+"location": [
+958,
+965
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Coca-Cola"
+}
+]
+},
+{
+"text": "McDonald\u2019s",
+"location": [
+947,
+957
+],
+"entities": [
+{
+"type": "Organization",
+"text": "McDonald\u2019s",
+"disambiguation": {
+"subtype": [
+"Commercial"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "basedIn",
+"sentence": "You show me a \u02bbdhabawalla' in India who has created a company like Coca-Cola.",
+"score": 0.519751,
+"arguments": [
+{
+"text": "company",
+"location": [
+1106,
+1113
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Coca-Cola"
+}
+]
+},
+{
+"text": "India",
+"location": [
+1082,
+1087
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "India",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "managerOf",
+"sentence": "You show me a \u02bbdhabawalla' in India who has created a company like Coca-Cola.",
+"score": 0.674579,
+"arguments": [
+{
+"text": "who",
+"location": [
+1088,
+1091
+],
+"entities": [
+{
+"type": "Person",
+"text": "His"
+}
+]
+},
+{
+"text": "company",
+"location": [
+1106,
+1113
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Coca-Cola"
+}
+]
+}
+]
+},
+{
+"type": "partOf",
+"sentence": "You show me a \u02bbdhabawalla' in India who has created a company like Coca-Cola.",
+"score": 0.633866,
+"arguments": [
+{
+"text": "company",
+"location": [
+1106,
+1113
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Coca-Cola"
+}
+]
+},
+{
+"text": "Coca-Cola",
+"location": [
+1119,
+1128
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Coca-Cola",
+"disambiguation": {
+"subtype": [
+"Commercial"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "\"     He blamed the Modi government and RSS, saying \"our dhabawallahs or mechanics\" do not lack knowledge but doors of banks and politics are shut for our \u02bbdhabawallahs', mechanics, \u02bbdhobis' and other backwards.",
+"score": 0.982368,
+"arguments": [
+{
+"text": "He",
+"location": [
+1202,
+1204
+],
+"entities": [
+{
+"type": "Person",
+"text": "His"
+}
+]
+},
+{
+"text": "blamed",
+"location": [
+1205,
+1211
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "blamed"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "\"     He blamed the Modi government and RSS, saying \"our dhabawallahs or mechanics\" do not lack knowledge but doors of banks and politics are shut for our \u02bbdhabawallahs', mechanics, \u02bbdhobis' and other backwards.",
+"score": 0.906459,
+"arguments": [
+{
+"text": "government",
+"location": [
+1221,
+1231
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "government",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+},
+{
+"text": "blamed",
+"location": [
+1205,
+1211
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "blamed"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "NEW DELHI: Congress president offered interesting analogies on Monday to argue that skilled OBC communities are being given short shrift by the Modi government, unlike abroad where the owner of used to sell shikanji (lemonade) in the US while the owners of McDonald's ran a \"dhaba\".",
+"score": 0.979682,
+"arguments": [
+{
+"text": "president",
+"location": [
+20,
+29
+],
+"entities": [
+{
+"type": "Person",
+"text": "President"
+}
+]
+},
+{
+"text": "offered",
+"location": [
+30,
+37
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "offered"
+}
+]
+}
+]
+},
+{
+"type": "partOf",
+"sentence": "\"     He blamed the Modi government and RSS, saying \"our dhabawallahs or mechanics\" do not lack knowledge but doors of banks and politics are shut for our \u02bbdhabawallahs', mechanics, \u02bbdhobis' and other backwards.",
+"score": 0.67713,
+"arguments": [
+{
+"text": "saying",
+"location": [
+1241,
+1247
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "saying"
+}
+]
+},
+{
+"text": "blamed",
+"location": [
+1205,
+1211
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "blamed"
+}
+]
+}
+]
+},
+{
+"type": "partOfMany",
+"sentence": "Promising to give OBCs their \"due share\" in politics, Rahul attacked PM Modi for saying India lacks skills and requires skilling.",
+"score": 0.496749,
+"arguments": [
+{
+"text": "Rahul",
+"location": [
+1462,
+1467
+],
+"entities": [
+{
+"type": "Person",
+"text": "Rahul"
+}
+]
+},
+{
+"text": "their",
+"location": [
+1431,
+1436
+],
+"entities": [
+{
+"type": "Person",
+"text": "their"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Promising to give OBCs their \"due share\" in politics, Rahul attacked PM Modi for saying India lacks skills and requires skilling.",
+"score": 0.891834,
+"arguments": [
+{
+"text": "Rahul",
+"location": [
+1462,
+1467
+],
+"entities": [
+{
+"type": "Person",
+"text": "Rahul"
+}
+]
+},
+{
+"text": "attacked",
+"location": [
+1468,
+1476
+],
+"entities": [
+{
+"type": "EventViolence",
+"text": "attacked"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "Promising to give OBCs their \"due share\" in politics, Rahul attacked PM Modi for saying India lacks skills and requires skilling.",
+"score": 0.769454,
+"arguments": [
+{
+"text": "PM Modi",
+"location": [
+1477,
+1484
+],
+"entities": [
+{
+"type": "Person",
+"text": "PM Modi"
+}
+]
+},
+{
+"text": "attacked",
+"location": [
+1468,
+1476
+],
+"entities": [
+{
+"type": "EventViolence",
+"text": "attacked"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "He said the PM's remark was a \"lie\" as OBCs were highly skilled but were not being given opportunities.",
+"score": 0.983715,
+"arguments": [
+{
+"text": "He",
+"location": [
+1538,
+1540
+],
+"entities": [
+{
+"type": "Person",
+"text": "His"
+}
+]
+},
+{
+"text": "said",
+"location": [
+1541,
+1545
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Rahul said BJP's backward MPs had complained to him that they helped \"Modi become PM but he allows them no voice in the party\" and all the power lies with RSS.",
+"score": 0.993283,
+"arguments": [
+{
+"text": "Rahul",
+"location": [
+1642,
+1647
+],
+"entities": [
+{
+"type": "Person",
+"text": "Rahul"
+}
+]
+},
+{
+"text": "said",
+"location": [
+1648,
+1652
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "Rahul said BJP's backward MPs had complained to him that they helped \"Modi become PM but he allows them no voice in the party\" and all the power lies with RSS.",
+"score": 0.654195,
+"arguments": [
+{
+"text": "MPs",
+"location": [
+1668,
+1671
+],
+"entities": [
+{
+"type": "Person",
+"text": "MPs"
+}
+]
+},
+{
+"text": "BJP",
+"location": [
+1653,
+1656
+],
+"entities": [
+{
+"type": "Organization",
+"text": "BJP",
+"disambiguation": {
+"subtype": [
+"Commercial"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "Rahul said BJP's backward MPs had complained to him that they helped \"Modi become PM but he allows them no voice in the party\" and all the power lies with RSS.",
+"score": 0.674279,
+"arguments": [
+{
+"text": "him",
+"location": [
+1690,
+1693
+],
+"entities": [
+{
+"type": "Person",
+"text": "His"
+}
+]
+},
+{
+"text": "complained",
+"location": [
+1676,
+1686
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "complained"
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "\"India has become a slave of BJP's few leaders and RSS.",
+"score": 0.37984,
+"arguments": [
+{
+"text": "leaders",
+"location": [
+1841,
+1848
+],
+"entities": [
+{
+"type": "Person",
+"text": "leaders"
+}
+]
+},
+{
+"text": "BJP",
+"location": [
+1831,
+1834
+],
+"entities": [
+{
+"type": "Organization",
+"text": "BJP",
+"disambiguation": {
+"subtype": [
+"Commercial"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "It will be run by its people, its youth,\" he said.",
+"score": 0.715196,
+"arguments": [
+{
+"text": "people",
+"location": [
+2125,
+2131
+],
+"entities": [
+{
+"type": "Person",
+"text": "people"
+}
+]
+},
+{
+"text": "its",
+"location": [
+2121,
+2124
+],
+"entities": [
+{
+"type": "Organization",
+"text": "BJP",
+"disambiguation": {
+"subtype": [
+"Commercial"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "timeOf",
+"sentence": "NEW DELHI: Congress president offered interesting analogies on Monday to argue that skilled OBC communities are being given short shrift by the Modi government, unlike abroad where the owner of used to sell shikanji (lemonade) in the US while the owners of McDonald's ran a \"dhaba\".",
+"score": 0.919496,
+"arguments": [
+{
+"text": "Monday",
+"location": [
+63,
+69
+],
+"entities": [
+{
+"type": "Date",
+"text": "Monday"
+}
+]
+},
+{
+"text": "offered",
+"location": [
+30,
+37
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "offered"
+}
+]
+}
+]
+},
+{
+"type": "timeOf",
+"sentence": "NEW DELHI: Congress president offered interesting analogies on Monday to argue that skilled OBC communities are being given short shrift by the Modi government, unlike abroad where the owner of used to sell shikanji (lemonade) in the US while the owners of McDonald's ran a \"dhaba\".",
+"score": 0.535318,
+"arguments": [
+{
+"text": "Monday",
+"location": [
+63,
+69
+],
+"entities": [
+{
+"type": "Date",
+"text": "Monday"
+}
+]
+},
+{
+"text": "argue",
+"location": [
+73,
+78
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "offered"
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "It will be run by its people, its youth,\" he said.",
+"score": 0.617314,
+"arguments": [
+{
+"text": "youth",
+"location": [
+2137,
+2142
+],
+"entities": [
+{
+"type": "Person",
+"text": "youth"
+}
+]
+},
+{
+"text": "its",
+"location": [
+2133,
+2136
+],
+"entities": [
+{
+"type": "Organization",
+"text": "its"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "It will be run by its people, its youth,\" he said.",
+"score": 0.982455,
+"arguments": [
+{
+"text": "he",
+"location": [
+2145,
+2147
+],
+"entities": [
+{
+"type": "Person",
+"text": "he"
+}
+]
+},
+{
+"text": "said",
+"location": [
+2148,
+2152
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "The Congress President also said the Centre had waived loans to the tune of Rs 2.5 lakh crore for 15 industrialists but had done nothing for dying farmers.",
+"score": 0.695372,
+"arguments": [
+{
+"text": "President",
+"location": [
+2167,
+2176
+],
+"entities": [
+{
+"type": "Person",
+"text": "President"
+}
+]
+},
+{
+"text": "said",
+"location": [
+2182,
+2186
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "residesIn",
+"sentence": "NEW DELHI: Congress president offered interesting analogies on Monday to argue that skilled OBC communities are being given short shrift by the Modi government, unlike abroad where the owner of used to sell shikanji (lemonade) in the US while the owners of McDonald's ran a \"dhaba\".",
+"score": 0.259381,
+"arguments": [
+{
+"text": "owner",
+"location": [
+185,
+190
+],
+"entities": [
+{
+"type": "Person",
+"text": "owner"
+}
+]
+},
+{
+"text": "where",
+"location": [
+175,
+180
+],
+"entities": [
+{
+"type": "Location",
+"text": "abroad"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "NEW DELHI: Congress president offered interesting analogies on Monday to argue that skilled OBC communities are being given short shrift by the Modi government, unlike abroad where the owner of used to sell shikanji (lemonade) in the US while the owners of McDonald's ran a \"dhaba\".",
+"score": 0.455585,
+"arguments": [
+{
+"text": "owner",
+"location": [
+185,
+190
+],
+"entities": [
+{
+"type": "Person",
+"text": "owner"
+}
+]
+},
+{
+"text": "US",
+"location": [
+234,
+236
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "America",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Rahul said besides Coca-Cola and McDonald's, top automobile companies like Ford, Mercedes and were started by mechanics.",
+"score": 0.997419,
+"arguments": [
+{
+"text": "Rahul",
+"location": [
+283,
+288
+],
+"entities": [
+{
+"type": "Person",
+"text": "Rahul"
+}
+]
+},
+{
+"text": "said",
+"location": [
+289,
+293
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "Rahul said besides Coca-Cola and McDonald's, top automobile companies like Ford, Mercedes and were started by mechanics.",
+"score": 0.488945,
+"arguments": [
+{
+"text": "Coca-Cola",
+"location": [
+302,
+311
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Coca-Cola"
+}
+]
+},
+{
+"text": "said",
+"location": [
+289,
+293
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "partOfMany",
+"sentence": "Rahul said besides Coca-Cola and McDonald's, top automobile companies like Ford, Mercedes and were started by mechanics.",
+"score": 0.395969,
+"arguments": [
+{
+"text": "Ford",
+"location": [
+358,
+362
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Ford",
+"disambiguation": {
+"subtype": [
+"Commercial"
+]
+}
+}
+]
+},
+{
+"text": "automobile companies",
+"location": [
+332,
+352
+],
+"entities": [
+{
+"type": "Organization",
+"text": "automobile companies",
+"disambiguation": {
+"subtype": [
+"Commercial"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "partOfMany",
+"sentence": "Rahul said besides Coca-Cola and McDonald's, top automobile companies like Ford, Mercedes and were started by mechanics.",
+"score": 0.744327,
+"arguments": [
+{
+"text": "Mercedes",
+"location": [
+364,
+372
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Mercedes",
+"disambiguation": {
+"subtype": [
+"Commercial"
+]
+}
+}
+]
+},
+{
+"text": "automobile companies",
+"location": [
+332,
+352
+],
+"entities": [
+{
+"type": "Organization",
+"text": "automobile companies",
+"disambiguation": {
+"subtype": [
+"Commercial"
+]
+}
+}
+]
+}
+]
+}
+],
+"language": "en",
+"keywords": [
+{
+"text": "Modi government",
+"sentiment": {
+"score": -0.32515,
+"label": "negative"
+},
+"relevance": 0.902039,
+"emotion": {
+"sadness": 0.475487,
+"joy": 0.07964,
+"fear": 0.025938,
+"disgust": 0.096627,
+"anger": 0.528929
+}
+},
+{
+"text": "skilled OBC communities",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.838873,
+"emotion": {
+"sadness": 0.394735,
+"joy": 0.242297,
+"fear": 0.019615,
+"disgust": 0.023163,
+"anger": 0.388736
+}
+},
+{
+"text": "Coca-Cola company",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.779006,
+"emotion": {
+"sadness": 0.192775,
+"joy": 0.272951,
+"fear": 0.135079,
+"disgust": 0.10238,
+"anger": 0.179881
+}
+},
+{
+"text": "congress president",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.756086,
+"emotion": {
+"sadness": 0.378052,
+"joy": 0.150834,
+"fear": 0.02878,
+"disgust": 0.035729,
+"anger": 0.389811
+}
+},
+{
+"text": "Rahul",
+"sentiment": {
+"score": -0.418867,
+"label": "negative"
+},
+"relevance": 0.743257,
+"emotion": {
+"sadness": 0.215666,
+"joy": 0.086868,
+"fear": 0.1234,
+"disgust": 0.30482,
+"anger": 0.207261
+}
+}
+],
+"entities": [
+{
+"type": "Person",
+"text": "Rahul",
+"sentiment": {
+"score": -0.407007,
+"label": "negative"
+},
+"relevance": 0.881747,
+"emotion": {
+"sadness": 0.170725,
+"joy": 0.140084,
+"fear": 0.431124,
+"disgust": 0.149704,
+"anger": 0.091902
+},
+"count": 14
+},
+{
+"type": "Organization",
+"text": "Modi government",
+"sentiment": {
+"score": -0.32515,
+"label": "negative"
+},
+"relevance": 0.478004,
+"emotion": {
+"sadness": 0.463687,
+"joy": 0.077539,
+"fear": 0.027692,
+"disgust": 0.126502,
+"anger": 0.498906
+},
+"count": 3
+},
+{
+"type": "Location",
+"text": "India",
+"sentiment": {
+"score": -0.482406,
+"label": "negative"
+},
+"relevance": 0.446997,
+"emotion": {
+"sadness": 0.252914,
+"joy": 0.193915,
+"fear": 0.471879,
+"disgust": 0.17229,
+"anger": 0.104783
+},
+"disambiguation": {
+"subtype": [
+"HumanLanguage",
+"Region",
+"GovernmentalJurisdiction",
+"FilmEditor",
+"Country"
+],
+"name": "India",
+"dbpedia_resource": "http://dbpedia.org/resource/India"
+},
+"count": 7
+},
+{
+"type": "Person",
+"text": "Modi",
+"sentiment": {
+"score": -0.340452,
+"label": "negative"
+},
+"relevance": 0.398157,
+"emotion": {
+"sadness": 0.34246,
+"joy": 0.060633,
+"fear": 0.41054,
+"disgust": 0.146442,
+"anger": 0.16706
+},
+"count": 5
+},
+{
+"type": "Company",
+"text": "Coca-Cola",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.309921,
+"emotion": {
+"sadness": 0.179648,
+"joy": 0.356544,
+"fear": 0.057793,
+"disgust": 0.089258,
+"anger": 0.084981
+},
+"disambiguation": {
+"subtype": [],
+"name": "The Coca-Cola Company",
+"dbpedia_resource": "http://dbpedia.org/resource/The_Coca-Cola_Company"
+},
+"count": 2
+}
+],
+"concepts": [
+{
+"text": "Bharatiya Janata Party",
+"relevance": 0.983513,
+"dbpedia_resource": "http://dbpedia.org/resource/Bharatiya_Janata_Party"
+},
+{
+"text": "Delhi",
+"relevance": 0.900688,
+"dbpedia_resource": "http://dbpedia.org/resource/Delhi"
+},
+{
+"text": "Indian National Congress",
+"relevance": 0.778065,
+"dbpedia_resource": "http://dbpedia.org/resource/Indian_National_Congress"
+},
+{
+"text": "India",
+"relevance": 0.770434,
+"dbpedia_resource": "http://dbpedia.org/resource/India"
+},
+{
+"text": "The Coca-Cola Company",
+"relevance": 0.753152,
+"dbpedia_resource": "http://dbpedia.org/resource/The_Coca-Cola_Company"
+}
+],
+"categories": [
+{
+"score": 0.496448,
+"label": "/sports/bobsled"
+},
+{
+"score": 0.45231,
+"label": "/law, govt and politics/government"
+},
+{
+"score": 0.352943,
+"label": "/food and drink/beverages"
+}
+]
+}
+}

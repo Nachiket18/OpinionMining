@@ -1,0 +1,1987 @@
+{
+"source_article_link": "https://timesofindia.indiatimes.com/india/rahul-gandhi-mocked-on-twitter-for-saying-coca-cola-owner-sold-shikanji/articleshow/64543516.cms?&utm_source=Articleshow&utm_medium=Organic&utm_campaign=Related_Stories",
+"title": "Rahul Gandhi mocked on Twitter for saying Coca-Cola owner sold \u2018shikanji\u2019",
+"date_published": "2018-06-11T17:35:51+05:30",
+"source_type": "news_article",
+"source_name": "timesofindia.indiatimes.com",
+"image_link": [],
+"article_body": "NEW DELHI: Congress chief was today mocked on Twitter for saying that the owner of the Coca-Cola Company once sold 'shikanji'. Elaborating on the gulf in society created by the lack of opportunities available to the country's youth, Rahul resorted to an interesting analogy- \"Everyone must have heard about the Coca-Cola company. Who started this company. Who was he, does anyone know? I will tell you who he was. The person who started the Coca-Cola company was one who sold 'shikanji'. He used to sell 'shikanji' in America. He used to mix sugar in water. His experience and talent was honoured and he got money and started the Coca-Cola company.\" \"You must have heard about McDonald's company, which is seen everywhere. Who started it and what did he do? He used to run a 'dhaba' (roadside restaurant). You show me that 'dhaba-walla' in India who has created a company like Coca-Cola. Where is it?\"   The Congress chief's comment became a hot topic of discussion on the micro-blogging site. ' ' was one of the top-most trends on Twitter. \"#AccordingToRahulGandhi He is the owner of KFC,\" wrote one Twitter user.   One Twitter user posted an image of a 'shikanji' seller calling it a photograph of Coca-Cola owner before he became successful.   Another user took a dig at the Congress chief's comment by posting an image of a child standing with a basket full of apples. \"Rare childhood photo of Steve Jobs selling apple on streets of America before selling iPhone,\" he wrote.   One tweet used a photo shopped image of a man selling \u2018shikanji\u2019 in front of the iconic road sign welcoming people to Las Vegas. \"Shikanji owner at United States.\"   \"According to Rahul Gandhi, Dhinchak Pooja is the inventor of selfie,\" claimed one Twitterati as he posted an image of the YouTube star and cringe pop singer.   Even cricketer Ishant Sharma was not spared with one internet calling him the \u2018founder\u2019 of health-drink Complan.   Someone also 'tampered' with the Wikipedia page of John Pemberton, the American pharmacist who is best known as the developer and founder of Coca-Cola. In the first paragraph of the Wikipedia page, someone had added: \"He used to sell lemonade (Shikhanji) in his earlier days along with Gandhi family.\" However, this flippant addition was removed shortly afterwards.",
+"description": "Rahul Gandhi said that Coca-Cola owner sold \u2018shikanji\u2019 and McDonald\u2019s owner used to run a  , before becoming successful The comment came during an address to the OBC community in the capital",
+"time_scraped": "2018-08-22 06:01:29.422538",
+"article_id": "64543516",
+"article_category": "IndiaNews",
+"image_details": [],
+"ibm_nlu": {
+"usage": {
+"text_units": 1,
+"text_characters": 2288,
+"features": 7
+},
+"sentiment": {
+"document": {
+"score": -0.0781088,
+"label": "negative"
+}
+},
+"semantic_roles": [
+{
+"subject": {
+"text": "Congress chief"
+},
+"sentence": "NEW DELHI: Congress chief was today mocked on Twitter for saying that the owner of the Coca-Cola Company once sold 'shikanji'.",
+"object": {
+"text": "today mocked on Twitter for saying that the owner of the Coca-Cola Company once sold 'shikanji'"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "was",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "Congress chief"
+},
+"sentence": "NEW DELHI: Congress chief was today mocked on Twitter for saying that the owner of the Coca-Cola Company once sold 'shikanji'.",
+"object": {
+"text": "for saying that the owner of the Coca-Cola Company once sold 'shikanji'"
+},
+"action": {
+"verb": {
+"text": "mock",
+"tense": "past"
+},
+"text": "mocked",
+"normalized": "mock"
+}
+},
+{
+"subject": {
+"text": "the owner of the Coca-Cola Company"
+},
+"sentence": "NEW DELHI: Congress chief was today mocked on Twitter for saying that the owner of the Coca-Cola Company once sold 'shikanji'.",
+"object": {
+"text": "'shikanji"
+},
+"action": {
+"verb": {
+"text": "sell",
+"tense": "past"
+},
+"text": "sold",
+"normalized": "sell"
+}
+},
+{
+"subject": {
+"text": "Rahul"
+},
+"sentence": " Elaborating on the gulf in society created by the lack of opportunities available to the country's youth, Rahul resorted to an interesting analogy- \"Everyone must have heard about the Coca-Cola company.",
+"object": {
+"text": "on the gulf in society created by the lack of opportunities available to the country's youth"
+},
+"action": {
+"verb": {
+"text": "Elaborating",
+"tense": "present"
+},
+"text": "Elaborating",
+"normalized": "Elaborating"
+}
+},
+{
+"subject": {
+"text": "by the lack of opportunities"
+},
+"sentence": " Elaborating on the gulf in society created by the lack of opportunities available to the country's youth, Rahul resorted to an interesting analogy- \"Everyone must have heard about the Coca-Cola company.",
+"object": {
+"text": "the gulf in society"
+},
+"action": {
+"verb": {
+"text": "create",
+"tense": "past"
+},
+"text": "created",
+"normalized": "create"
+}
+},
+{
+"subject": {
+"text": "Rahul"
+},
+"sentence": " Elaborating on the gulf in society created by the lack of opportunities available to the country's youth, Rahul resorted to an interesting analogy- \"Everyone must have heard about the Coca-Cola company.",
+"object": {
+"text": "to an interesting analogy- \"Everyone must have heard about the Coca-Cola company"
+},
+"action": {
+"verb": {
+"text": "resort",
+"tense": "past"
+},
+"text": "resorted",
+"normalized": "resort"
+}
+},
+{
+"subject": {
+"text": "he"
+},
+"sentence": " Who was he, does anyone know?",
+"object": {
+"text": "anyone know"
+},
+"action": {
+"verb": {
+"text": "do",
+"tense": "past"
+},
+"text": "does",
+"normalized": "do"
+}
+},
+{
+"subject": {
+"text": "I"
+},
+"sentence": " I will tell you who he was.",
+"object": {
+"text": "who he was"
+},
+"action": {
+"verb": {
+"text": "tell",
+"tense": "future"
+},
+"text": "will tell",
+"normalized": "will tell"
+}
+},
+{
+"subject": {
+"text": "The person"
+},
+"sentence": " The person who started the Coca-Cola company was one who sold 'shikanji'.",
+"object": {
+"text": "the Coca-Cola company"
+},
+"action": {
+"verb": {
+"text": "start",
+"tense": "past"
+},
+"text": "started",
+"normalized": "start"
+}
+},
+{
+"subject": {
+"text": "The person who started the Coca-Cola company"
+},
+"sentence": " The person who started the Coca-Cola company was one who sold 'shikanji'.",
+"object": {
+"text": "one who sold 'shikanji'"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "was",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "He"
+},
+"sentence": " He used to sell 'shikanji' in America.",
+"object": {
+"text": "'shikanji' in America"
+},
+"action": {
+"verb": {
+"text": "sell",
+"tense": "future"
+},
+"text": "sell",
+"normalized": "sell"
+}
+},
+{
+"subject": {
+"text": "He"
+},
+"sentence": " He used to mix sugar in water.",
+"object": {
+"text": "sugar in water"
+},
+"action": {
+"verb": {
+"text": "mix",
+"tense": "future"
+},
+"text": "used to mix",
+"normalized": "use to mix"
+}
+},
+{
+"subject": {
+"text": "His experience and talent"
+},
+"sentence": " His experience and talent was honoured and he got money and started the Coca-Cola company.\"",
+"object": {
+"text": "honoured"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "was",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "he"
+},
+"sentence": " His experience and talent was honoured and he got money and started the Coca-Cola company.\"",
+"object": {
+"text": "money"
+},
+"action": {
+"verb": {
+"text": "get",
+"tense": "past"
+},
+"text": "got",
+"normalized": "get"
+}
+},
+{
+"subject": {
+"text": "You"
+},
+"sentence": " \"You must have heard about McDonald's company, which is seen everywhere.",
+"object": {
+"text": "heard"
+},
+"action": {
+"verb": {
+"text": "have",
+"tense": "future"
+},
+"text": "have",
+"normalized": "have"
+}
+},
+{
+"subject": {
+"text": "You"
+},
+"sentence": " \"You must have heard about McDonald's company, which is seen everywhere.",
+"object": {
+"text": "about McDonald's company, which is seen everywhere"
+},
+"action": {
+"verb": {
+"text": "hear",
+"tense": "future"
+},
+"text": "must have heard",
+"normalized": "must have hear"
+}
+},
+{
+"subject": {
+"text": "about McDonald's company"
+},
+"sentence": " \"You must have heard about McDonald's company, which is seen everywhere.",
+"object": {
+"text": "seen everywhere"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "present"
+},
+"text": "is",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "about McDonald's company"
+},
+"sentence": " \"You must have heard about McDonald's company, which is seen everywhere.",
+"action": {
+"verb": {
+"text": "see",
+"tense": "past"
+},
+"text": "is seen",
+"normalized": "be see"
+}
+},
+{
+"subject": {
+"text": "He"
+},
+"sentence": " He used to run a 'dhaba' (roadside restaurant).",
+"object": {
+"text": "a 'dhaba' (roadside restaurant)"
+},
+"action": {
+"verb": {
+"text": "run",
+"tense": "future"
+},
+"text": "used to run",
+"normalized": "use to run"
+}
+},
+{
+"subject": {
+"text": "You"
+},
+"sentence": " You show me that 'dhaba-walla' in India who has created a company like Coca-Cola.",
+"object": {
+"text": "that 'dhaba-walla' in India who has created a company like Coca-Cola"
+},
+"action": {
+"verb": {
+"text": "show",
+"tense": "present"
+},
+"text": "show",
+"normalized": "show"
+}
+},
+{
+"subject": {
+"text": "'dhaba-walla' in India"
+},
+"sentence": " You show me that 'dhaba-walla' in India who has created a company like Coca-Cola.",
+"object": {
+"text": "created a company like Coca-Cola"
+},
+"action": {
+"verb": {
+"text": "have",
+"tense": "present"
+},
+"text": "has",
+"normalized": "have"
+}
+},
+{
+"subject": {
+"text": "'dhaba-walla' in India"
+},
+"sentence": " You show me that 'dhaba-walla' in India who has created a company like Coca-Cola.",
+"object": {
+"text": "a company like Coca-Cola"
+},
+"action": {
+"verb": {
+"text": "create",
+"tense": "past"
+},
+"text": "has created",
+"normalized": "have create"
+}
+},
+{
+"subject": {
+"text": "The Congress chief's comment"
+},
+"sentence": " The Congress chief's comment became a hot topic of discussion on the micro-blogging site.",
+"object": {
+"text": "a hot topic of discussion on the micro-blogging site"
+},
+"action": {
+"verb": {
+"text": "become",
+"tense": "past"
+},
+"text": "became",
+"normalized": "become"
+}
+},
+{
+"subject": {
+"text": "#AccordingToRahulGandhi He"
+},
+"sentence": " \"#AccordingToRahulGandhi He is the owner of KFC,\" wrote one Twitter user.",
+"object": {
+"text": "the owner of KFC"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "present"
+},
+"text": "is",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "one Twitter user"
+},
+"sentence": " \"#AccordingToRahulGandhi He is the owner of KFC,\" wrote one Twitter user.",
+"object": {
+"text": "#AccordingToRahulGandhi He is the owner of KFC"
+},
+"action": {
+"verb": {
+"text": "write",
+"tense": "past"
+},
+"text": "wrote",
+"normalized": "write"
+}
+},
+{
+"subject": {
+"text": "One Twitter user"
+},
+"sentence": " One Twitter user posted an image of a 'shikanji' seller calling it a photograph of Coca-Cola owner before he became successful.",
+"object": {
+"text": "an image of a 'shikanji' seller calling it a photograph of Coca-Cola owner"
+},
+"action": {
+"verb": {
+"text": "post",
+"tense": "past"
+},
+"text": "posted",
+"normalized": "post"
+}
+},
+{
+"subject": {
+"text": "a 'shikanji' seller"
+},
+"sentence": " One Twitter user posted an image of a 'shikanji' seller calling it a photograph of Coca-Cola owner before he became successful.",
+"object": {
+"text": "a photograph of Coca-Cola owner before he became successful"
+},
+"action": {
+"verb": {
+"text": "call",
+"tense": "present"
+},
+"text": "calling",
+"normalized": "call"
+}
+},
+{
+"subject": {
+"text": "Another user"
+},
+"sentence": " Another user took a dig at the Congress chief's comment by posting an image of a child standing with a basket full of apples.",
+"object": {
+"text": "a dig"
+},
+"action": {
+"verb": {
+"text": "take",
+"tense": "past"
+},
+"text": "took",
+"normalized": "take"
+}
+},
+{
+"subject": {
+"text": "Another user"
+},
+"sentence": " Another user took a dig at the Congress chief's comment by posting an image of a child standing with a basket full of apples.",
+"object": {
+"text": "an image"
+},
+"action": {
+"verb": {
+"text": "post",
+"tense": "present"
+},
+"text": "posting",
+"normalized": "post"
+}
+},
+{
+"subject": {
+"text": "Rare childhood photo of Steve Jobs"
+},
+"sentence": " \"Rare childhood photo of Steve Jobs selling apple on streets of America before selling iPhone,\" he wrote.",
+"object": {
+"text": "apple"
+},
+"action": {
+"verb": {
+"text": "sell",
+"tense": "present"
+},
+"text": "selling",
+"normalized": "sell"
+}
+},
+{
+"subject": {
+"text": "Rare childhood photo of Steve Jobs"
+},
+"sentence": " \"Rare childhood photo of Steve Jobs selling apple on streets of America before selling iPhone,\" he wrote.",
+"object": {
+"text": "iPhone"
+},
+"action": {
+"verb": {
+"text": "sell",
+"tense": "present"
+},
+"text": "selling",
+"normalized": "sell"
+}
+},
+{
+"subject": {
+"text": "he"
+},
+"sentence": " \"Rare childhood photo of Steve Jobs selling apple on streets of America before selling iPhone,\" he wrote.",
+"object": {
+"text": "Rare childhood photo of Steve Jobs selling apple on streets of America before selling iPhone"
+},
+"action": {
+"verb": {
+"text": "write",
+"tense": "past"
+},
+"text": "wrote",
+"normalized": "write"
+}
+},
+{
+"subject": {
+"text": "a photo shopped image of a man selling \u2018shikanji\u2019"
+},
+"sentence": " One tweet used a photo shopped image of a man selling \u2018shikanji\u2019 in front of the iconic road sign welcoming people to Las Vegas.",
+"action": {
+"verb": {
+"text": "use",
+"tense": "past"
+},
+"text": "used",
+"normalized": "use"
+}
+},
+{
+"subject": {
+"text": "a photo"
+},
+"sentence": " One tweet used a photo shopped image of a man selling \u2018shikanji\u2019 in front of the iconic road sign welcoming people to Las Vegas.",
+"object": {
+"text": "image of a man selling \u2018shikanji\u2019"
+},
+"action": {
+"verb": {
+"text": "shop",
+"tense": "past"
+},
+"text": "shopped",
+"normalized": "shop"
+}
+},
+{
+"subject": {
+"text": "people"
+},
+"sentence": " One tweet used a photo shopped image of a man selling \u2018shikanji\u2019 in front of the iconic road sign welcoming people to Las Vegas.",
+"object": {
+"text": "to Las Vegas"
+},
+"action": {
+"verb": {
+"text": "welcome",
+"tense": "present"
+},
+"text": "welcoming",
+"normalized": "welcome"
+}
+},
+{
+"subject": {
+"text": "Dhinchak Pooja"
+},
+"sentence": " \"According to Rahul Gandhi, Dhinchak Pooja is the inventor of selfie,\" claimed one Twitterati as he posted an image of the YouTube star and cringe pop singer.",
+"object": {
+"text": "the inventor of selfie"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "present"
+},
+"text": "is",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "one Twitterati"
+},
+"sentence": " \"According to Rahul Gandhi, Dhinchak Pooja is the inventor of selfie,\" claimed one Twitterati as he posted an image of the YouTube star and cringe pop singer.",
+"object": {
+"text": "According to Rahul Gandhi, Dhinchak Pooja is the inventor of selfie"
+},
+"action": {
+"verb": {
+"text": "claim",
+"tense": "past"
+},
+"text": "claimed",
+"normalized": "claim"
+}
+},
+{
+"subject": {
+"text": "he"
+},
+"sentence": " \"According to Rahul Gandhi, Dhinchak Pooja is the inventor of selfie,\" claimed one Twitterati as he posted an image of the YouTube star and cringe pop singer.",
+"object": {
+"text": "an image of the YouTube star"
+},
+"action": {
+"verb": {
+"text": "post",
+"tense": "past"
+},
+"text": "posted",
+"normalized": "post"
+}
+},
+{
+"subject": {
+"text": "Even cricketer Ishant Sharma"
+},
+"sentence": " Even cricketer Ishant Sharma was not spared with one internet calling him the \u2018founder\u2019 of health-drink Complan.",
+"object": {
+"text": "not spared with one internet calling him the \u2018founder\u2019 of health-drink Complan"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "was",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "Even cricketer Ishant Sharma"
+},
+"sentence": " Even cricketer Ishant Sharma was not spared with one internet calling him the \u2018founder\u2019 of health-drink Complan.",
+"object": {
+"text": "with one internet calling him the \u2018founder\u2019 of health-drink Complan"
+},
+"action": {
+"verb": {
+"text": "spare",
+"tense": "past",
+"negated": true
+},
+"text": "spared",
+"normalized": "spare"
+}
+},
+{
+"subject": {
+"text": "Someone"
+},
+"sentence": " Someone also 'tampered' with the Wikipedia page of John Pemberton, the American pharmacist who is best known as the developer and founder of Coca-Cola.",
+"object": {
+"text": "'"
+},
+"action": {
+"verb": {
+"text": "'tampered",
+"tense": "past"
+},
+"text": "also 'tampered",
+"normalized": "also 'tampered"
+}
+},
+{
+"subject": {
+"text": "someone"
+},
+"sentence": " In the first paragraph of the Wikipedia page, someone had added: \"He used to sell lemonade (Shikhanji) in his earlier days along with Gandhi family.\"",
+"object": {
+"text": "He used to sell lemonade (Shikhanji) in his earlier days along with Gandhi family"
+},
+"action": {
+"verb": {
+"text": "add",
+"tense": "past"
+},
+"text": "had added",
+"normalized": "have add"
+}
+},
+{
+"subject": {
+"text": "this flippant addition"
+},
+"sentence": " However, this flippant addition was removed shortly afterwards.",
+"object": {
+"text": "removed shortly afterwards"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "was",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "this flippant addition"
+},
+"sentence": " However, this flippant addition was removed shortly afterwards.",
+"action": {
+"verb": {
+"text": "remove",
+"tense": "past"
+},
+"text": "was removed",
+"normalized": "be remove"
+}
+}
+],
+"relations": [
+{
+"type": "employedBy",
+"sentence": "NEW DELHI: Congress chief was today mocked on Twitter for saying that the owner of the Coca-Cola Company once sold 'shikanji'.",
+"score": 0.66806,
+"arguments": [
+{
+"text": "chief",
+"location": [
+20,
+25
+],
+"entities": [
+{
+"type": "Person",
+"text": "chief"
+}
+]
+},
+{
+"text": "Congress",
+"location": [
+11,
+19
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Congress",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "Another user took a dig at the Congress chief's comment by posting an image of a child standing with a basket full of apples.",
+"score": 0.515031,
+"arguments": [
+{
+"text": "chief",
+"location": [
+1287,
+1292
+],
+"entities": [
+{
+"type": "Person",
+"text": "chief"
+}
+]
+},
+{
+"text": "Congress",
+"location": [
+1278,
+1286
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Congress",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "managerOf",
+"sentence": "You show me that 'dhaba-walla' in India who has created a company like Coca-Cola.",
+"score": 0.674579,
+"arguments": [
+{
+"text": "who",
+"location": [
+846,
+849
+],
+"entities": [
+{
+"type": "Person",
+"text": "His"
+}
+]
+},
+{
+"text": "company",
+"location": [
+864,
+871
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Coca-Cola Company"
+}
+]
+}
+]
+},
+{
+"type": "partOf",
+"sentence": "You show me that 'dhaba-walla' in India who has created a company like Coca-Cola.",
+"score": 0.633866,
+"arguments": [
+{
+"text": "company",
+"location": [
+864,
+871
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Coca-Cola Company"
+}
+]
+},
+{
+"text": "Coca-Cola",
+"location": [
+877,
+886
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Coca-Cola",
+"disambiguation": {
+"subtype": [
+"Commercial"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "managerOf",
+"sentence": "\"   The Congress chief's comment became a hot topic of discussion on the micro-blogging site.",
+"score": 0.521181,
+"arguments": [
+{
+"text": "chief",
+"location": [
+917,
+922
+],
+"entities": [
+{
+"type": "Person",
+"text": "chief"
+}
+]
+},
+{
+"text": "Congress",
+"location": [
+908,
+916
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Congress",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "\"#AccordingToRahulGandhi He is the owner of KFC,\" wrote one Twitter user.",
+"score": 0.774903,
+"arguments": [
+{
+"text": "owner",
+"location": [
+1076,
+1081
+],
+"entities": [
+{
+"type": "Person",
+"text": "owner"
+}
+]
+},
+{
+"text": "KFC",
+"location": [
+1085,
+1088
+],
+"entities": [
+{
+"type": "Organization",
+"text": "KFC",
+"disambiguation": {
+"subtype": [
+"Commercial"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "\"#AccordingToRahulGandhi He is the owner of KFC,\" wrote one Twitter user.",
+"score": 0.640628,
+"arguments": [
+{
+"text": "user",
+"location": [
+1109,
+1113
+],
+"entities": [
+{
+"type": "Person",
+"text": "owner"
+}
+]
+},
+{
+"text": "wrote",
+"location": [
+1091,
+1096
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "wrote"
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "\"#AccordingToRahulGandhi He is the owner of KFC,\" wrote one Twitter user.",
+"score": 0.549717,
+"arguments": [
+{
+"text": "user",
+"location": [
+1109,
+1113
+],
+"entities": [
+{
+"type": "Person",
+"text": "owner"
+}
+]
+},
+{
+"text": "Twitter",
+"location": [
+1101,
+1108
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Twitter"
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "One Twitter user posted an image of a 'shikanji' seller calling it a photograph of Coca-Cola owner before he became successful.",
+"score": 0.294641,
+"arguments": [
+{
+"text": "user",
+"location": [
+1129,
+1133
+],
+"entities": [
+{
+"type": "Person",
+"text": "owner"
+}
+]
+},
+{
+"text": "Twitter",
+"location": [
+1121,
+1128
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Twitter"
+}
+]
+}
+]
+},
+{
+"type": "educatedAt",
+"sentence": "One Twitter user posted an image of a 'shikanji' seller calling it a photograph of Coca-Cola owner before he became successful.",
+"score": 0.416493,
+"arguments": [
+{
+"text": "owner",
+"location": [
+1210,
+1215
+],
+"entities": [
+{
+"type": "Person",
+"text": "owner"
+}
+]
+},
+{
+"text": "Coca-Cola",
+"location": [
+1200,
+1209
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Coca-Cola Company"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "\"Rare childhood photo of Steve Jobs selling apple on streets of America before selling iPhone,\" he wrote.",
+"score": 0.804083,
+"arguments": [
+{
+"text": "Steve Jobs",
+"location": [
+1398,
+1408
+],
+"entities": [
+{
+"type": "Person",
+"text": "Steve Jobs"
+}
+]
+},
+{
+"text": "streets",
+"location": [
+1426,
+1433
+],
+"entities": [
+{
+"type": "Facility",
+"text": "streets"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "\"Rare childhood photo of Steve Jobs selling apple on streets of America before selling iPhone,\" he wrote.",
+"score": 0.882042,
+"arguments": [
+{
+"text": "streets",
+"location": [
+1426,
+1433
+],
+"entities": [
+{
+"type": "Facility",
+"text": "streets"
+}
+]
+},
+{
+"text": "America",
+"location": [
+1437,
+1444
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "United States",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "\"Rare childhood photo of Steve Jobs selling apple on streets of America before selling iPhone,\" he wrote.",
+"score": 0.991191,
+"arguments": [
+{
+"text": "he",
+"location": [
+1469,
+1471
+],
+"entities": [
+{
+"type": "Person",
+"text": "Steve Jobs"
+}
+]
+},
+{
+"text": "wrote",
+"location": [
+1472,
+1477
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "wrote"
+}
+]
+}
+]
+},
+{
+"type": "memberOf",
+"sentence": "NEW DELHI: Congress chief was today mocked on Twitter for saying that the owner of the Coca-Cola Company once sold 'shikanji'.",
+"score": 0.263713,
+"arguments": [
+{
+"text": "owner",
+"location": [
+74,
+79
+],
+"entities": [
+{
+"type": "Person",
+"text": "owner"
+}
+]
+},
+{
+"text": "Coca-Cola Company",
+"location": [
+87,
+104
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Coca-Cola Company"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "One tweet used a photo shopped image of a man selling \u02bbshikanji' in front of the iconic road sign welcoming people to Las Vegas.",
+"score": 0.640913,
+"arguments": [
+{
+"text": "people",
+"location": [
+1589,
+1595
+],
+"entities": [
+{
+"type": "Person",
+"text": "people"
+}
+]
+},
+{
+"text": "Las Vegas",
+"location": [
+1599,
+1608
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Las Vegas"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "\"Shikanji owner at United States.",
+"score": 0.409202,
+"arguments": [
+{
+"text": "owner",
+"location": [
+1620,
+1625
+],
+"entities": [
+{
+"type": "Person",
+"text": "John Pemberton"
+}
+]
+},
+{
+"text": "United States",
+"location": [
+1629,
+1642
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "United States",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "Someone also 'tampered' with the Wikipedia page of John Pemberton, the American pharmacist who is best known as the developer and founder of Coca-Cola.",
+"score": 0.9294,
+"arguments": [
+{
+"text": "pharmacist",
+"location": [
+2003,
+2013
+],
+"entities": [
+{
+"type": "Person",
+"text": "John Pemberton"
+}
+]
+},
+{
+"text": "American",
+"location": [
+1994,
+2002
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "American",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "In the first paragraph of the Wikipedia page, someone had added: \"He used to sell lemonade (Shikhanji) in his earlier days along with Gandhi family.",
+"score": 0.831321,
+"arguments": [
+{
+"text": "someone",
+"location": [
+2121,
+2128
+],
+"entities": [
+{
+"type": "Person",
+"text": "Steve Jobs"
+}
+]
+},
+{
+"text": "added",
+"location": [
+2133,
+2138
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "claimed"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "In the first paragraph of the Wikipedia page, someone had added: \"He used to sell lemonade (Shikhanji) in his earlier days along with Gandhi family.",
+"score": 0.648458,
+"arguments": [
+{
+"text": "He",
+"location": [
+2141,
+2143
+],
+"entities": [
+{
+"type": "Person",
+"text": "Steve Jobs"
+}
+]
+},
+{
+"text": "sell",
+"location": [
+2152,
+2156
+],
+"entities": [
+{
+"type": "EventBusiness",
+"text": "sell"
+}
+]
+}
+]
+},
+{
+"type": "partOfMany",
+"sentence": "In the first paragraph of the Wikipedia page, someone had added: \"He used to sell lemonade (Shikhanji) in his earlier days along with Gandhi family.",
+"score": 0.504013,
+"arguments": [
+{
+"text": "his",
+"location": [
+2181,
+2184
+],
+"entities": [
+{
+"type": "Person",
+"text": "Steve Jobs"
+}
+]
+},
+{
+"text": "family",
+"location": [
+2216,
+2222
+],
+"entities": [
+{
+"type": "Person",
+"text": "family"
+}
+]
+}
+]
+},
+{
+"type": "partOfMany",
+"sentence": "In the first paragraph of the Wikipedia page, someone had added: \"He used to sell lemonade (Shikhanji) in his earlier days along with Gandhi family.",
+"score": 0.57799,
+"arguments": [
+{
+"text": "Gandhi",
+"location": [
+2209,
+2215
+],
+"entities": [
+{
+"type": "Person",
+"text": "Rahul Gandhi"
+}
+]
+},
+{
+"text": "family",
+"location": [
+2216,
+2222
+],
+"entities": [
+{
+"type": "Person",
+"text": "family"
+}
+]
+}
+]
+},
+{
+"type": "residesIn",
+"sentence": "Elaborating on the gulf in society created by the lack of opportunities available to the country's youth, Rahul resorted to an interesting analogy- \"Everyone must have heard about the Coca-Cola company.",
+"score": 0.527475,
+"arguments": [
+{
+"text": "youth",
+"location": [
+226,
+231
+],
+"entities": [
+{
+"type": "Person",
+"text": "Rahul Gandhi"
+}
+]
+},
+{
+"text": "country",
+"location": [
+216,
+223
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "United States",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "partOfMany",
+"sentence": "Elaborating on the gulf in society created by the lack of opportunities available to the country's youth, Rahul resorted to an interesting analogy- \"Everyone must have heard about the Coca-Cola company.",
+"score": 0.604761,
+"arguments": [
+{
+"text": "Rahul",
+"location": [
+233,
+238
+],
+"entities": [
+{
+"type": "Person",
+"text": "Rahul Gandhi"
+}
+]
+},
+{
+"text": "Everyone",
+"location": [
+276,
+284
+],
+"entities": [
+{
+"type": "Person",
+"text": "Everyone"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "I will tell you who he was.",
+"score": 0.981912,
+"arguments": [
+{
+"text": "I",
+"location": [
+386,
+387
+],
+"entities": [
+{
+"type": "Person",
+"text": "His"
+}
+]
+},
+{
+"text": "tell",
+"location": [
+393,
+397
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "tell"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "I will tell you who he was.",
+"score": 0.807455,
+"arguments": [
+{
+"text": "you",
+"location": [
+398,
+401
+],
+"entities": [
+{
+"type": "Person",
+"text": "who"
+}
+]
+},
+{
+"text": "tell",
+"location": [
+393,
+397
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "tell"
+}
+]
+}
+]
+},
+{
+"type": "residesIn",
+"sentence": "He used to sell 'shikanji' in America.",
+"score": 0.377193,
+"arguments": [
+{
+"text": "He",
+"location": [
+488,
+490
+],
+"entities": [
+{
+"type": "Person",
+"text": "His"
+}
+]
+},
+{
+"text": "America",
+"location": [
+518,
+525
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "United States",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "partOf",
+"sentence": "\" \"You must have heard about McDonald's company, which is seen everywhere.",
+"score": 0.720666,
+"arguments": [
+{
+"text": "company",
+"location": [
+688,
+695
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Coca-Cola Company"
+}
+]
+},
+{
+"text": "McDonald",
+"location": [
+677,
+685
+],
+"entities": [
+{
+"type": "Organization",
+"text": "McDonald",
+"disambiguation": {
+"subtype": [
+"Commercial"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "basedIn",
+"sentence": "You show me that 'dhaba-walla' in India who has created a company like Coca-Cola.",
+"score": 0.519751,
+"arguments": [
+{
+"text": "company",
+"location": [
+864,
+871
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Coca-Cola Company"
+}
+]
+},
+{
+"text": "India",
+"location": [
+840,
+845
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "India",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+}
+]
+}
+],
+"language": "en",
+"keywords": [
+{
+"text": "coca-cola company",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.995072,
+"emotion": {
+"sadness": 0.287944,
+"joy": 0.122473,
+"fear": 0.15432,
+"disgust": 0.224425,
+"anger": 0.395692
+}
+},
+{
+"text": "Congress chief",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.89329,
+"emotion": {
+"sadness": 0.3504,
+"joy": 0.035709,
+"fear": 0.16977,
+"disgust": 0.305118,
+"anger": 0.420771
+}
+},
+{
+"text": "Twitter user",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.615523,
+"emotion": {
+"sadness": 0.15956,
+"joy": 0.395921,
+"fear": 0.047594,
+"disgust": 0.136416,
+"anger": 0.108847
+}
+},
+{
+"text": "cricketer Ishant Sharma",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.586108,
+"emotion": {
+"sadness": 0.432128,
+"joy": 0.15028,
+"fear": 0.143739,
+"disgust": 0.118263,
+"anger": 0.188399
+}
+},
+{
+"text": "Coca-Cola owner",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.585413,
+"emotion": {
+"sadness": 0.113021,
+"joy": 0.539801,
+"fear": 0.024363,
+"disgust": 0.014715,
+"anger": 0.191563
+}
+}
+],
+"entities": [
+{
+"type": "Company",
+"text": "Coca-Cola Company",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.890894,
+"emotion": {
+"sadness": 0.18641,
+"joy": 0.478718,
+"fear": 0.093455,
+"disgust": 0.098006,
+"anger": 0.151443
+},
+"disambiguation": {
+"subtype": [],
+"name": "The Coca-Cola Company",
+"dbpedia_resource": "http://dbpedia.org/resource/The_Coca-Cola_Company"
+},
+"count": 9
+},
+{
+"type": "Person",
+"text": "Rahul Gandhi",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.40585,
+"emotion": {
+"sadness": 0.08874,
+"joy": 0.071665,
+"fear": 0.028043,
+"disgust": 0.342254,
+"anger": 0.398115
+},
+"disambiguation": {
+"subtype": [
+"Politician",
+"OfficeHolder"
+],
+"name": "Rahul Gandhi",
+"dbpedia_resource": "http://dbpedia.org/resource/Rahul_Gandhi"
+},
+"count": 5
+},
+{
+"type": "Company",
+"text": "Twitter",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.358089,
+"emotion": {
+"sadness": 0.227573,
+"joy": 0.21555,
+"fear": 0.109062,
+"disgust": 0.306531,
+"anger": 0.340809
+},
+"disambiguation": {
+"subtype": [
+"Website",
+"VentureFundedCompany"
+],
+"name": "Twitter",
+"dbpedia_resource": "http://dbpedia.org/resource/Twitter"
+},
+"count": 4
+},
+{
+"type": "Organization",
+"text": "Congress",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.28924,
+"emotion": {
+"sadness": 0.254932,
+"joy": 0.062126,
+"fear": 0.163134,
+"disgust": 0.503474,
+"anger": 0.358168
+},
+"count": 3
+},
+{
+"type": "Location",
+"text": "America",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.19323,
+"emotion": {
+"sadness": 0.0,
+"joy": 0.0,
+"fear": 0.0,
+"disgust": 0.0,
+"anger": 0.0
+},
+"disambiguation": {
+"subtype": [
+"Continent"
+]
+},
+"count": 2
+}
+],
+"concepts": [
+{
+"text": "Coca-Cola",
+"relevance": 0.988115,
+"dbpedia_resource": "http://dbpedia.org/resource/Coca-Cola"
+},
+{
+"text": "Twitter",
+"relevance": 0.94386,
+"dbpedia_resource": "http://dbpedia.org/resource/Twitter"
+},
+{
+"text": "The Coca-Cola Company",
+"relevance": 0.718918,
+"dbpedia_resource": "http://dbpedia.org/resource/The_Coca-Cola_Company"
+},
+{
+"text": "John Pemberton",
+"relevance": 0.71784,
+"dbpedia_resource": "http://dbpedia.org/resource/John_Pemberton"
+},
+{
+"text": "PepsiCo",
+"relevance": 0.693315,
+"dbpedia_resource": "http://dbpedia.org/resource/PepsiCo"
+}
+],
+"categories": [
+{
+"score": 0.578367,
+"label": "/food and drink/food/fast food"
+},
+{
+"score": 0.498686,
+"label": "/food and drink/beverages"
+},
+{
+"score": 0.4882,
+"label": "/sports/cricket"
+}
+]
+}
+}

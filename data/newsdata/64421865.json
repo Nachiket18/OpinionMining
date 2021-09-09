@@ -1,0 +1,1238 @@
+{
+"source_article_link": "https://timesofindia.indiatimes.com/india/seal-alliance-with-bjp-shiv-sena-faction/articleshow/64421865.cms?&utm_source=Articleshow&utm_medium=Organic&utm_campaign=Related_Stories",
+"title": "Seal alliance with BJP: Shiv Sena faction",
+"date_published": "2018-06-02T03:46:42+05:30",
+"source_type": "news_article",
+"source_name": "timesofindia.indiatimes.com",
+"image_link": [
+"https://timesofindia.indiatimes.com/thumb/msid-64421864,imgsize-56619,width-400,resizemode-4/64421864.jpg"
+],
+"article_body": "MUMBAI: The is not willing to quit the Devendra Fadnavis regime even after a bitter feud with the over the Lok Sabha by-election, it is learnt. Moreover, a sizeable section in the Sena wants to seal an alliance with the BJP for the next elections, irrespective of Uddhav Thackeray\u2019s suitable noises that his party would go solo for the next election. Scores of Sena MLAs think that the party will to an extent retain its base in the heartland by teaming up with the BJP. Inquiries revealed on Friday that the Sena finds the latest by-poll results across the country worrying as they indicate that a united Opposition can pose a threat to the BJP in the 2019 elections. However much Thackeray may pour venom he can\u2019t team with . \u201cWe can\u2019t join the Congress-led big front and going solo would mean offering power to the Congress-NCP combine on a silver platter. Many Sena MLAs think that teaming up with the BJP will help avoid division of Hindutva votes,\u201d said a Sena functionary on Friday. The Maharashtra BJP is alarmed too by the by-poll results, especially the NCP\u2019s hard-fought victory in the Bhandara-Gondia Lok Sabha by-election. \u201cThe NCP and the Congress quickly stitched up an alliance in Bhandara-Gondia and bagged the seat. This doesn't augur well for the BJP-Sena combine. The Sena will lose quite many seats in Maharashtra if it decides to go solo and ditto with the BJP,\u201d said a BJP MLA known for his organisational skills. \u201cThackeray should do well to remember that the Sena won a large chunk of Lok Sabha seats in Maharashtra in 2014 because of the Modi wave. And there is going to be no such wave in 2019. Hard-nosed pragmatism will compel the Sena to share seats with the BJP,\u201d he added. Mumbai BJP president Ashish Shelar said, \u201cSena better not be aggressive. Thackeray should realise by now that he was keen on playing a shrill WWF match, but chief minister Devendra Fadnavis is a grandmaster. He played every move astutely.\u201d",
+"description": "MUMBAI: The is not willing to quit the Devendra Fadnavis regime even after a bitter feud with the over the Lok Sabha by-election, it is learnt. Moreover, a sizeable section in the Sena wants to seal an alliance with the BJP for the next elections, irrespective of Uddhav Thackeray\u2019s suitable noises that his party would go solo for the next election. Scores of Sena MLAs think that the party will to an extent retain its base in the heartland by teaming up with the BJP.",
+"time_scraped": "2018-08-22 03:03:03.612035",
+"article_id": "64421865",
+"article_category": "IndiaNews",
+"image_details": [
+{
+"url": "https://timesofindia.indiatimes.com/thumb/msid-64421864,imgsize-56619,width-400,resizemode-4/64421864.jpg",
+"path": "full/257669e8d63abadd69a52efb07a27e77d48a98b9.jpg",
+"checksum": "87157e48a16d8324cf042f35f96f62bc"
+}
+],
+"ibm_nlu": {
+"usage": {
+"text_units": 1,
+"text_characters": 1944,
+"features": 7
+},
+"sentiment": {
+"document": {
+"score": 0.0102559,
+"label": "positive"
+}
+},
+"semantic_roles": [
+{
+"subject": {
+"text": "the Devendra Fadnavis regime"
+},
+"sentence": "MUMBAI: The is not willing to quit the Devendra Fadnavis regime even after a bitter feud with the over the Lok Sabha by-election, it is learnt.",
+"action": {
+"verb": {
+"text": "quit",
+"tense": "future"
+},
+"text": "to quit",
+"normalized": "to quit"
+}
+},
+{
+"subject": {
+"text": "it"
+},
+"sentence": "MUMBAI: The is not willing to quit the Devendra Fadnavis regime even after a bitter feud with the over the Lok Sabha by-election, it is learnt.",
+"action": {
+"verb": {
+"text": "be",
+"tense": "present"
+},
+"text": "is",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "a sizeable section in the Sena"
+},
+"sentence": " Moreover, a sizeable section in the Sena wants to seal an alliance with the BJP for the next elections, irrespective of Uddhav Thackeray\u2019s suitable noises that his party would go solo for the next election.",
+"object": {
+"text": "to seal an alliance with the BJP for the next elections"
+},
+"action": {
+"verb": {
+"text": "want",
+"tense": "present"
+},
+"text": "wants",
+"normalized": "want"
+}
+},
+{
+"subject": {
+"text": "a sizeable section in the Sena"
+},
+"sentence": " Moreover, a sizeable section in the Sena wants to seal an alliance with the BJP for the next elections, irrespective of Uddhav Thackeray\u2019s suitable noises that his party would go solo for the next election.",
+"object": {
+"text": "an alliance"
+},
+"action": {
+"verb": {
+"text": "seal",
+"tense": "future"
+},
+"text": "wants to seal",
+"normalized": "want to seal"
+}
+},
+{
+"subject": {
+"text": "Uddhav Thackeray"
+},
+"sentence": " Moreover, a sizeable section in the Sena wants to seal an alliance with the BJP for the next elections, irrespective of Uddhav Thackeray\u2019s suitable noises that his party would go solo for the next election.",
+"object": {
+"text": "suitable noises that his party would go solo for the next election"
+},
+"action": {
+"verb": {
+"text": "has",
+"tense": "present"
+},
+"text": "s",
+"normalized": "s"
+}
+},
+{
+"subject": {
+"text": "Scores of Sena MLAs"
+},
+"sentence": " Scores of Sena MLAs think that the party will to an extent retain its base in the heartland by teaming up with the BJP.",
+"object": {
+"text": "that the party will to an extent retain its base in the heartland by teaming up with the BJP"
+},
+"action": {
+"verb": {
+"text": "think",
+"tense": "present"
+},
+"text": "think",
+"normalized": "think"
+}
+},
+{
+"subject": {
+"text": "the party"
+},
+"sentence": " Scores of Sena MLAs think that the party will to an extent retain its base in the heartland by teaming up with the BJP.",
+"object": {
+"text": "its base in the heartland"
+},
+"action": {
+"verb": {
+"text": "retain",
+"tense": "future"
+},
+"text": "retain",
+"normalized": "retain"
+}
+},
+{
+"subject": {
+"text": "Inquiries"
+},
+"sentence": " Inquiries revealed on Friday that the Sena finds the latest by-poll results across the country worrying as they indicate that a united Opposition can pose a threat to the BJP in the 2019 elections.",
+"action": {
+"verb": {
+"text": "reveal",
+"tense": "past"
+},
+"text": "revealed",
+"normalized": "reveal"
+}
+},
+{
+"subject": {
+"text": "the Sena"
+},
+"sentence": " Inquiries revealed on Friday that the Sena finds the latest by-poll results across the country worrying as they indicate that a united Opposition can pose a threat to the BJP in the 2019 elections.",
+"object": {
+"text": "the latest by-poll results"
+},
+"action": {
+"verb": {
+"text": "find",
+"tense": "present"
+},
+"text": "finds",
+"normalized": "find"
+}
+},
+{
+"subject": {
+"text": "they"
+},
+"sentence": " Inquiries revealed on Friday that the Sena finds the latest by-poll results across the country worrying as they indicate that a united Opposition can pose a threat to the BJP in the 2019 elections.",
+"object": {
+"text": "that a united Opposition can pose a threat to the BJP in the 2019 elections"
+},
+"action": {
+"verb": {
+"text": "indicate",
+"tense": "present"
+},
+"text": "indicate",
+"normalized": "indicate"
+}
+},
+{
+"subject": {
+"text": "Thackeray"
+},
+"sentence": " However much Thackeray may pour venom he can\u2019t team with .",
+"object": {
+"text": "venom"
+},
+"action": {
+"verb": {
+"text": "pour",
+"tense": "future"
+},
+"text": "may pour",
+"normalized": "may pour"
+}
+},
+{
+"subject": {
+"text": "he"
+},
+"sentence": " However much Thackeray may pour venom he can\u2019t team with .",
+"object": {
+"text": "team"
+},
+"action": {
+"verb": {
+"text": "n\u2019t",
+"tense": "future"
+},
+"text": "can\u2019t",
+"normalized": "can\u2019t"
+}
+},
+{
+"subject": {
+"text": "We"
+},
+"sentence": " \u201cWe can\u2019t join the Congress-led big front and going solo would mean offering power to the Congress-NCP combine on a silver platter.",
+"object": {
+"text": "join the Congress-led big front"
+},
+"action": {
+"verb": {
+"text": "n\u2019t",
+"tense": "present"
+},
+"text": "n\u2019t",
+"normalized": "n\u2019t"
+}
+},
+{
+"subject": {
+"text": "power"
+},
+"sentence": " \u201cWe can\u2019t join the Congress-led big front and going solo would mean offering power to the Congress-NCP combine on a silver platter.",
+"object": {
+"text": "to the Congress-NCP combine on a silver platter"
+},
+"action": {
+"verb": {
+"text": "offer",
+"tense": "future"
+},
+"text": "would mean offering",
+"normalized": "would mean offer"
+}
+},
+{
+"subject": {
+"text": "Many Sena MLAs"
+},
+"sentence": " Many Sena MLAs think that teaming up with the BJP will help avoid division of Hindutva votes,\u201d said a Sena functionary on Friday.",
+"object": {
+"text": "that teaming up with the BJP will help avoid division of Hindutva votes"
+},
+"action": {
+"verb": {
+"text": "think",
+"tense": "present"
+},
+"text": "think",
+"normalized": "think"
+}
+},
+{
+"subject": {
+"text": "with the BJP"
+},
+"sentence": " Many Sena MLAs think that teaming up with the BJP will help avoid division of Hindutva votes,\u201d said a Sena functionary on Friday.",
+"object": {
+"text": "up"
+},
+"action": {
+"verb": {
+"text": "team",
+"tense": "present"
+},
+"text": "teaming",
+"normalized": "team"
+}
+},
+{
+"subject": {
+"text": "that teaming up with the BJP"
+},
+"sentence": " Many Sena MLAs think that teaming up with the BJP will help avoid division of Hindutva votes,\u201d said a Sena functionary on Friday.",
+"object": {
+"text": "avoid division of Hindutva votes"
+},
+"action": {
+"verb": {
+"text": "help",
+"tense": "future"
+},
+"text": "help",
+"normalized": "help"
+}
+},
+{
+"subject": {
+"text": "a Sena functionary"
+},
+"sentence": " Many Sena MLAs think that teaming up with the BJP will help avoid division of Hindutva votes,\u201d said a Sena functionary on Friday.",
+"object": {
+"text": "Many Sena MLAs think that teaming up with the BJP will help avoid division of Hindutva votes"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "The Maharashtra BJP"
+},
+"sentence": " The Maharashtra BJP is alarmed too by the by-poll results, especially the NCP\u2019s hard-fought victory in the Bhandara-Gondia Lok Sabha by-election.",
+"object": {
+"text": "alarmed too by the by-poll results"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "present"
+},
+"text": "is",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "by the by-poll results"
+},
+"sentence": " The Maharashtra BJP is alarmed too by the by-poll results, especially the NCP\u2019s hard-fought victory in the Bhandara-Gondia Lok Sabha by-election.",
+"object": {
+"text": "The Maharashtra BJP"
+},
+"action": {
+"verb": {
+"text": "alarm",
+"tense": "past"
+},
+"text": "alarmed",
+"normalized": "alarm"
+}
+},
+{
+"subject": {
+"text": "The NCP and the Congress"
+},
+"sentence": " \u201cThe NCP and the Congress quickly stitched up an alliance in Bhandara-Gondia and bagged the seat.",
+"object": {
+"text": "the seat"
+},
+"action": {
+"verb": {
+"text": "bag",
+"tense": "past"
+},
+"text": "bagged",
+"normalized": "bag"
+}
+},
+{
+"subject": {
+"text": "This"
+},
+"sentence": " This doesn't augur well for the BJP-Sena combine.",
+"object": {
+"text": "n't augur well for the BJP-Sena combine"
+},
+"action": {
+"verb": {
+"text": "do",
+"tense": "present"
+},
+"text": "does",
+"normalized": "do"
+}
+},
+{
+"subject": {
+"text": "This"
+},
+"sentence": " This doesn't augur well for the BJP-Sena combine.",
+"object": {
+"text": "for the BJP-Sena combine"
+},
+"action": {
+"verb": {
+"text": "augur",
+"tense": "future",
+"negated": true
+},
+"text": "augur",
+"normalized": "augur"
+}
+},
+{
+"subject": {
+"text": "The Sena"
+},
+"sentence": " The Sena will lose quite many seats in Maharashtra if it decides to go solo and ditto with the BJP,\u201d said a BJP MLA known for his organisational skills.",
+"object": {
+"text": "quite many seats in Maharashtra"
+},
+"action": {
+"verb": {
+"text": "lose",
+"tense": "future"
+},
+"text": "will lose",
+"normalized": "will lose"
+}
+},
+{
+"subject": {
+"text": "it"
+},
+"sentence": " The Sena will lose quite many seats in Maharashtra if it decides to go solo and ditto with the BJP,\u201d said a BJP MLA known for his organisational skills.",
+"object": {
+"text": "to go solo and ditto"
+},
+"action": {
+"verb": {
+"text": "decide",
+"tense": "present"
+},
+"text": "decides",
+"normalized": "decide"
+}
+},
+{
+"subject": {
+"text": "a BJP MLA known for his organisational skills"
+},
+"sentence": " The Sena will lose quite many seats in Maharashtra if it decides to go solo and ditto with the BJP,\u201d said a BJP MLA known for his organisational skills.",
+"object": {
+"text": "The Sena will lose quite many seats in Maharashtra if it decides to go solo and ditto with the BJP"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "a BJP MLA"
+},
+"sentence": " The Sena will lose quite many seats in Maharashtra if it decides to go solo and ditto with the BJP,\u201d said a BJP MLA known for his organisational skills.",
+"object": {
+"text": "for his organisational skills"
+},
+"action": {
+"verb": {
+"text": "know",
+"tense": "past"
+},
+"text": "known",
+"normalized": "know"
+}
+},
+{
+"subject": {
+"text": "Thackeray"
+},
+"sentence": " \u201cThackeray should do well to remember that the Sena won a large chunk of Lok Sabha seats in Maharashtra in 2014 because of the Modi wave.",
+"object": {
+"text": "that the Sena won a large chunk of Lok Sabha seats in Maharashtra in 2014 because of the Modi wave"
+},
+"action": {
+"verb": {
+"text": "remember",
+"tense": "future"
+},
+"text": "to remember",
+"normalized": "to remember"
+}
+},
+{
+"subject": {
+"text": "no such wave"
+},
+"sentence": " And there is going to be no such wave in 2019.",
+"action": {
+"verb": {
+"text": "be",
+"tense": "future"
+},
+"text": "is going to be",
+"normalized": "be go to be"
+}
+},
+{
+"subject": {
+"text": "Hard-nosed pragmatism"
+},
+"sentence": " Hard-nosed pragmatism will compel the Sena to share seats with the BJP,\u201d he added.",
+"object": {
+"text": "the Sena"
+},
+"action": {
+"verb": {
+"text": "compel",
+"tense": "future"
+},
+"text": "will compel",
+"normalized": "will compel"
+}
+},
+{
+"subject": {
+"text": "the Sena"
+},
+"sentence": " Hard-nosed pragmatism will compel the Sena to share seats with the BJP,\u201d he added.",
+"object": {
+"text": "seats"
+},
+"action": {
+"verb": {
+"text": "share",
+"tense": "future"
+},
+"text": "to share",
+"normalized": "to share"
+}
+},
+{
+"subject": {
+"text": "he"
+},
+"sentence": " Hard-nosed pragmatism will compel the Sena to share seats with the BJP,\u201d he added.",
+"object": {
+"text": "Hard-nosed pragmatism will compel the Sena to share seats with the BJP"
+},
+"action": {
+"verb": {
+"text": "add",
+"tense": "past"
+},
+"text": "added",
+"normalized": "add"
+}
+},
+{
+"subject": {
+"text": "Mumbai BJP president Ashish Shelar"
+},
+"sentence": " Mumbai BJP president Ashish Shelar said, \u201cSena better not be aggressive.",
+"object": {
+"text": "Sena better not be aggressive"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "Sena"
+},
+"sentence": " Mumbai BJP president Ashish Shelar said, \u201cSena better not be aggressive.",
+"object": {
+"text": "aggressive"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "present",
+"negated": true
+},
+"text": "be",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "Thackeray"
+},
+"sentence": " Thackeray should realise by now that he was keen on playing a shrill WWF match, but chief minister Devendra Fadnavis is a grandmaster.",
+"object": {
+"text": "that he was keen on playing a shrill WWF match"
+},
+"action": {
+"verb": {
+"text": "realise",
+"tense": "future"
+},
+"text": "should realise",
+"normalized": "should realise"
+}
+},
+{
+"subject": {
+"text": "he"
+},
+"sentence": " Thackeray should realise by now that he was keen on playing a shrill WWF match, but chief minister Devendra Fadnavis is a grandmaster.",
+"object": {
+"text": "a shrill WWF match"
+},
+"action": {
+"verb": {
+"text": "play",
+"tense": "future"
+},
+"text": "playing",
+"normalized": "play"
+}
+},
+{
+"subject": {
+"text": "chief minister Devendra Fadnavis"
+},
+"sentence": " Thackeray should realise by now that he was keen on playing a shrill WWF match, but chief minister Devendra Fadnavis is a grandmaster.",
+"object": {
+"text": "a grandmaster"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "present"
+},
+"text": "is",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "He"
+},
+"sentence": " He played every move astutely.\u201d",
+"object": {
+"text": "every move"
+},
+"action": {
+"verb": {
+"text": "play",
+"tense": "past"
+},
+"text": "played",
+"normalized": "play"
+}
+}
+],
+"relations": [
+{
+"type": "managerOf",
+"sentence": "Moreover, a sizeable section in the Sena wants to seal an alliance with the BJP for the next elections, irrespective of Uddhav Thackeray's suitable noises that his party would go solo for the next election.",
+"score": 0.710386,
+"arguments": [
+{
+"text": "his",
+"location": [
+304,
+307
+],
+"entities": [
+{
+"type": "Person",
+"text": "Uddhav Thackeray"
+}
+]
+},
+{
+"text": "party",
+"location": [
+308,
+313
+],
+"entities": [
+{
+"type": "Organization",
+"text": "party",
+"disambiguation": {
+"subtype": [
+"Political"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Mumbai BJP president Ashish Shelar said, \"Sena better not be aggressive.",
+"score": 0.995426,
+"arguments": [
+{
+"text": "Ashish Shelar",
+"location": [
+1726,
+1739
+],
+"entities": [
+{
+"type": "Person",
+"text": "Ashish Shelar"
+}
+]
+},
+{
+"text": "said",
+"location": [
+1740,
+1744
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "added"
+}
+]
+}
+]
+},
+{
+"type": "partOfMany",
+"sentence": "Inquiries revealed on Friday that the Sena finds the latest by-poll results across the country worrying as they indicate that a united Opposition can pose a threat to the BJP in the 2019 elections.",
+"score": 0.651324,
+"arguments": [
+{
+"text": "Sena",
+"location": [
+509,
+513
+],
+"entities": [
+{
+"type": "Person",
+"text": "Sena MLAs"
+}
+]
+},
+{
+"text": "they",
+"location": [
+578,
+582
+],
+"entities": [
+{
+"type": "Person",
+"text": "they"
+}
+]
+}
+]
+},
+{
+"type": "timeOf",
+"sentence": "Inquiries revealed on Friday that the Sena finds the latest by-poll results across the country worrying as they indicate that a united Opposition can pose a threat to the BJP in the 2019 elections.",
+"score": 0.933067,
+"arguments": [
+{
+"text": "2019",
+"location": [
+653,
+657
+],
+"entities": [
+{
+"type": "Date",
+"text": "2019"
+}
+]
+},
+{
+"text": "elections",
+"location": [
+658,
+667
+],
+"entities": [
+{
+"type": "EventElection",
+"text": "elections"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Many Sena MLAs think that teaming up with the BJP will help avoid division of Hindutva votes,\" said a Sena functionary on Friday.",
+"score": 0.684321,
+"arguments": [
+{
+"text": "Sena functionary",
+"location": [
+962,
+978
+],
+"entities": [
+{
+"type": "Person",
+"text": "Sena functionary"
+}
+]
+},
+{
+"text": "said",
+"location": [
+955,
+959
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "timeOf",
+"sentence": "Many Sena MLAs think that teaming up with the BJP will help avoid division of Hindutva votes,\" said a Sena functionary on Friday.",
+"score": 0.765462,
+"arguments": [
+{
+"text": "Friday",
+"location": [
+982,
+988
+],
+"entities": [
+{
+"type": "Date",
+"text": "Friday"
+}
+]
+},
+{
+"text": "said",
+"location": [
+955,
+959
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "partOf",
+"sentence": "\"The NCP and the Congress quickly stitched up an alliance in Bhandara-Gondia and bagged the seat.",
+"score": 0.770962,
+"arguments": [
+{
+"text": "alliance",
+"location": [
+1185,
+1193
+],
+"entities": [
+{
+"type": "Organization",
+"text": "alliance"
+}
+]
+},
+{
+"text": "Bhandara-Gondia",
+"location": [
+1197,
+1212
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Bhandara-Gondia Lok Sabha"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "\"Thackeray should do well to remember that the Sena won a large chunk of Lok Sabha seats in Maharashtra in 2014 because of the Modi wave.",
+"score": 0.578002,
+"arguments": [
+{
+"text": "Lok Sabha",
+"location": [
+1510,
+1519
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Lok Sabha",
+"disambiguation": {
+"subtype": [
+"Commercial"
+]
+}
+}
+]
+},
+{
+"text": "Maharashtra",
+"location": [
+1529,
+1540
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Maharashtra"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Hard-nosed pragmatism will compel the Sena to share seats with the BJP,\" he added.",
+"score": 0.985436,
+"arguments": [
+{
+"text": "he",
+"location": [
+1695,
+1697
+],
+"entities": [
+{
+"type": "Person",
+"text": "Sena MLAs"
+}
+]
+},
+{
+"text": "added",
+"location": [
+1698,
+1703
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "added"
+}
+]
+}
+]
+},
+{
+"type": "residesIn",
+"sentence": "Mumbai BJP president Ashish Shelar said, \"Sena better not be aggressive.",
+"score": 0.569665,
+"arguments": [
+{
+"text": "president",
+"location": [
+1716,
+1725
+],
+"entities": [
+{
+"type": "Person",
+"text": "Ashish Shelar"
+}
+]
+},
+{
+"text": "Mumbai BJP",
+"location": [
+1705,
+1715
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Mumbai BJP"
+}
+]
+}
+]
+}
+],
+"language": "en",
+"keywords": [
+{
+"text": "BJP",
+"sentiment": {
+"score": -0.0188767,
+"label": "negative"
+},
+"relevance": 0.976326,
+"emotion": {
+"sadness": 0.574376,
+"joy": 0.099442,
+"fear": 0.64213,
+"disgust": 0.207169,
+"anger": 0.191303
+}
+},
+{
+"text": "Lok Sabha by-election",
+"sentiment": {
+"score": -0.48192,
+"label": "negative"
+},
+"relevance": 0.949404,
+"emotion": {
+"sadness": 0.547896,
+"joy": 0.017069,
+"fear": 0.083174,
+"disgust": 0.19508,
+"anger": 0.489788
+}
+},
+{
+"text": "Sena MLAs",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.879569,
+"emotion": {
+"sadness": 0.221758,
+"joy": 0.226952,
+"fear": 0.112757,
+"disgust": 0.328171,
+"anger": 0.164963
+}
+},
+{
+"text": "BJP president Ashish",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.830501,
+"emotion": {
+"sadness": 0.289014,
+"joy": 0.082589,
+"fear": 0.05336,
+"disgust": 0.415248,
+"anger": 0.326127
+}
+},
+{
+"text": "Maharashtra BJP",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.790491,
+"emotion": {
+"sadness": 0.241339,
+"joy": 0.115006,
+"fear": 0.171765,
+"disgust": 0.25667,
+"anger": 0.224322
+}
+}
+],
+"entities": [
+{
+"type": "Organization",
+"text": "BJP",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.885506,
+"emotion": {
+"sadness": 0.599896,
+"joy": 0.086133,
+"fear": 0.639365,
+"disgust": 0.191853,
+"anger": 0.191785
+},
+"disambiguation": {
+"subtype": [
+"PoliticalParty",
+"Actor",
+"OfficeHolder"
+],
+"name": "Bharatiya Janata Party",
+"dbpedia_resource": "http://dbpedia.org/resource/Bharatiya_Janata_Party"
+},
+"count": 8
+},
+{
+"type": "Person",
+"text": "Sena",
+"sentiment": {
+"score": -0.75688,
+"label": "negative"
+},
+"relevance": 0.444506,
+"emotion": {
+"sadness": 0.242913,
+"joy": 0.015326,
+"fear": 0.789319,
+"disgust": 0.072379,
+"anger": 0.115245
+},
+"count": 2
+},
+{
+"type": "Organization",
+"text": "Maharashtra BJP",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.423413,
+"emotion": {
+"sadness": 0.241339,
+"joy": 0.115006,
+"fear": 0.171765,
+"disgust": 0.25667,
+"anger": 0.224322
+},
+"count": 1
+},
+{
+"type": "Person",
+"text": "Uddhav Thackeray",
+"sentiment": {
+"score": -0.310036,
+"label": "negative"
+},
+"relevance": 0.394415,
+"emotion": {
+"sadness": 0.495558,
+"joy": 0.534244,
+"fear": 0.081394,
+"disgust": 0.104489,
+"anger": 0.094451
+},
+"disambiguation": {
+"subtype": [
+"Politician",
+"OfficeHolder"
+],
+"name": "Uddhav Thackeray",
+"dbpedia_resource": "http://dbpedia.org/resource/Uddhav_Thackeray"
+},
+"count": 7
+},
+{
+"type": "Facility",
+"text": "Lok Sabha",
+"sentiment": {
+"score": -0.48192,
+"label": "negative"
+},
+"relevance": 0.305817,
+"emotion": {
+"sadness": 0.520521,
+"joy": 0.182716,
+"fear": 0.049973,
+"disgust": 0.112199,
+"anger": 0.318319
+},
+"count": 2
+}
+],
+"concepts": [
+{
+"text": "Shiv Sena",
+"relevance": 0.987849,
+"dbpedia_resource": "http://dbpedia.org/resource/Shiv_Sena"
+},
+{
+"text": "Lok Sabha",
+"relevance": 0.809754,
+"dbpedia_resource": "http://dbpedia.org/resource/Lok_Sabha"
+},
+{
+"text": "Maharashtra",
+"relevance": 0.604922,
+"dbpedia_resource": "http://dbpedia.org/resource/Maharashtra"
+},
+{
+"text": "Bharatiya Janata Party",
+"relevance": 0.582575,
+"dbpedia_resource": "http://dbpedia.org/resource/Bharatiya_Janata_Party"
+},
+{
+"text": "Uddhav Thackeray",
+"relevance": 0.500407,
+"dbpedia_resource": "http://dbpedia.org/resource/Uddhav_Thackeray"
+}
+],
+"categories": [
+{
+"score": 0.54826,
+"label": "/law, govt and politics/politics/elections"
+},
+{
+"score": 0.368119,
+"label": "/religion and spirituality/hinduism"
+},
+{
+"score": 0.289315,
+"label": "/society/unrest and war"
+}
+]
+}
+}

@@ -1,0 +1,1863 @@
+{
+"source_article_link": "https://timesofindia.indiatimes.com/india/groomed-for-years-mk-stalin-will-have-to-employ-all-he-learned/articleshow/65315327.cms?&utm_source=Articleshow&utm_medium=Organic&utm_campaign=Related_Stories",
+"title": "Groomed for years, MK Stalin will have to employ all he learned",
+"date_published": "2018-08-08T10:59:53+05:30",
+"source_type": "news_article",
+"source_name": "timesofindia.indiatimes.com",
+"image_link": [
+"https://timesofindia.indiatimes.com/thumb/msid-65315325,imgsize-134189,width-400,resizemode-4/65315325.jpg"
+],
+"article_body": "CHENNAI: Being the political heir apparent to DMK patriarch M is the biggest advantage as well as disadvantage for MK . Rising from the ranks, Karunanidhi emerged as one of the most shrewd politicians of the modern era. He jostled for space among stalwarts like Periyar EV Ramasamy, CN Annadurai, K Kamaraj, MG Ramachandran, and C Rajagopalachari.  Stalin was fortunate not to have undergone such struggles early in his career. He had a pedestal \u2014 provided by his father \u2014 from where he could command respect from party leaders and workers. Karunanidhi created space for Stalin within the party, at times pushing aside his trusted lieutenants, but never allowed him full autonomy. There were occasions when Karunanidhi made Stalin fight for his political space by creating road blocks within the family.   Only after Alagiri\u2019s ouster from the party in 2014 did Stalin get the much-needed elbow room, and only after Karunanidhi retired from active politics did Stalin emerge as the de-facto party chief. Stalin did not have to take the arduous route his father had taken for more than 70 years. Still, he undertook a statewide tour in the run-up to the 2016 assembly election, which remains unparalleled in recent times. Breaking from the routine, he spent time chatting with people at roadside tea shops and interacting with professionals from diverse fields as part of a five-monthlong \u2018Namakku Naame\u2019 (mass interaction) programme. As a public speaker he has matured over the years. He is no longer wary of the media. If organised press briefings were a rarity till a few years ago, now, he occupies decent space in all media. Stalin does not have the luxury of an ideologue companion like DMK general secretary K Anbazhagan, who remained by Karunanidhi\u2019s side, rendering political advice in crises. While his father was open to criticism, Stalin, people around him say, is not. He has modelled his administration, both within the party and in the government, after AIADMK\u2019s J . Karunanidhi was a master strategist, especially in alliance formation; Stalin\u2019s attempts at striking alliances have, however, not been successful so far. But Stalin is breaking barriers. He has changed the face of the rationalist DMK by visiting temples, churches and mosques in recent years. Many of his advisers are professionals who do not have political experience or craftsmanship. He is not freely accessible to his partymen though. In the absence of Karunanidhi, the DMK working president has an arduous task ahead.",
+"description": " Karunanidhi created space for Stalin within the party, at times pushing aside his trusted lieutenants, but never allowed him full autonomy There were occasions when Karunanidhi made Stalin fight for his political space by creating road blocks within the family In the absence of Karunanidhi, the DMK working president has an arduous task ahead",
+"time_scraped": "2018-08-22 09:03:52.400154",
+"article_id": "65315327",
+"article_category": "IndiaNews",
+"image_details": [
+{
+"url": "https://timesofindia.indiatimes.com/thumb/msid-65315325,imgsize-134189,width-400,resizemode-4/65315325.jpg",
+"path": "full/6666220a2c4044d3bdf2361020f50618e03ba3eb.jpg",
+"checksum": "40a6387ca0ca55c9979602cce2a0868a"
+}
+],
+"ibm_nlu": {
+"usage": {
+"text_units": 1,
+"text_characters": 2502,
+"features": 7
+},
+"sentiment": {
+"document": {
+"score": 0.207445,
+"label": "positive"
+}
+},
+"semantic_roles": [
+{
+"subject": {
+"text": "Karunanidhi"
+},
+"sentence": " Rising from the ranks, Karunanidhi emerged as one of the most shrewd politicians of the modern era.",
+"object": {
+"text": "as one of the most shrewd politicians of the modern era"
+},
+"action": {
+"verb": {
+"text": "emerge",
+"tense": "past"
+},
+"text": "emerged",
+"normalized": "emerge"
+}
+},
+{
+"subject": {
+"text": "He"
+},
+"sentence": " He jostled for space among stalwarts like Periyar EV Ramasamy, CN Annadurai, K Kamaraj, MG Ramachandran, and C Rajagopalachari.",
+"object": {
+"text": "for space among stalwarts like Periyar EV Ramasamy, CN Annadurai, K Kamaraj, MG Ramachandran, and C Rajagopalachari"
+},
+"action": {
+"verb": {
+"text": "jostle",
+"tense": "past"
+},
+"text": "jostled",
+"normalized": "jostle"
+}
+},
+{
+"subject": {
+"text": "Stalin"
+},
+"sentence": " Stalin was fortunate not to have undergone such struggles early in his career.",
+"object": {
+"text": "fortunate not"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "was",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "He"
+},
+"sentence": " He had a pedestal \u2014 provided by his father \u2014 from where he could command respect from party leaders and workers.",
+"object": {
+"text": "a pedestal \u2014 provided by his father \u2014"
+},
+"action": {
+"verb": {
+"text": "have",
+"tense": "past"
+},
+"text": "had",
+"normalized": "have"
+}
+},
+{
+"subject": {
+"text": "by his father \u2014 from where he could command respect from party leaders and workers"
+},
+"sentence": " He had a pedestal \u2014 provided by his father \u2014 from where he could command respect from party leaders and workers.",
+"object": {
+"text": "a pedestal \u2014"
+},
+"action": {
+"verb": {
+"text": "provide",
+"tense": "past"
+},
+"text": "provided",
+"normalized": "provide"
+}
+},
+{
+"subject": {
+"text": "he"
+},
+"sentence": " He had a pedestal \u2014 provided by his father \u2014 from where he could command respect from party leaders and workers.",
+"object": {
+"text": "respect from party leaders and workers"
+},
+"action": {
+"verb": {
+"text": "command",
+"tense": "future"
+},
+"text": "could command",
+"normalized": "could command"
+}
+},
+{
+"subject": {
+"text": "Karunanidhi"
+},
+"sentence": " Karunanidhi created space for Stalin within the party, at times pushing aside his trusted lieutenants, but never allowed him full autonomy.",
+"object": {
+"text": "space"
+},
+"action": {
+"verb": {
+"text": "create",
+"tense": "past"
+},
+"text": "created",
+"normalized": "create"
+}
+},
+{
+"subject": {
+"text": "his trusted lieutenants"
+},
+"sentence": " Karunanidhi created space for Stalin within the party, at times pushing aside his trusted lieutenants, but never allowed him full autonomy.",
+"object": {
+"text": "aside"
+},
+"action": {
+"verb": {
+"text": "push",
+"tense": "present"
+},
+"text": "pushing",
+"normalized": "push"
+}
+},
+{
+"subject": {
+"text": "him full autonomy"
+},
+"sentence": " Karunanidhi created space for Stalin within the party, at times pushing aside his trusted lieutenants, but never allowed him full autonomy.",
+"action": {
+"verb": {
+"text": "allow",
+"tense": "past"
+},
+"text": "never allowed",
+"normalized": "never allow"
+}
+},
+{
+"subject": {
+"text": "Karunanidhi"
+},
+"sentence": " There were occasions when Karunanidhi made Stalin fight for his political space by creating road blocks within the family.",
+"object": {
+"text": "Stalin fight"
+},
+"action": {
+"verb": {
+"text": "make",
+"tense": "past"
+},
+"text": "made",
+"normalized": "make"
+}
+},
+{
+"subject": {
+"text": "Karunanidhi"
+},
+"sentence": " There were occasions when Karunanidhi made Stalin fight for his political space by creating road blocks within the family.",
+"object": {
+"text": "road blocks within the family"
+},
+"action": {
+"verb": {
+"text": "create",
+"tense": "present"
+},
+"text": "creating",
+"normalized": "create"
+}
+},
+{
+"subject": {
+"text": "Stalin"
+},
+"sentence": " Only after Alagiri\u2019s ouster from the party in 2014 did Stalin get the much-needed elbow room, and only after Karunanidhi retired from active politics did Stalin emerge as the de-facto party chief.",
+"action": {
+"verb": {
+"text": "do",
+"tense": "past"
+},
+"text": "did",
+"normalized": "do"
+}
+},
+{
+"subject": {
+"text": "Karunanidhi"
+},
+"sentence": " Only after Alagiri\u2019s ouster from the party in 2014 did Stalin get the much-needed elbow room, and only after Karunanidhi retired from active politics did Stalin emerge as the de-facto party chief.",
+"object": {
+"text": "from active politics"
+},
+"action": {
+"verb": {
+"text": "retire",
+"tense": "past"
+},
+"text": "retired",
+"normalized": "retire"
+}
+},
+{
+"subject": {
+"text": "Karunanidhi retired from active politics"
+},
+"sentence": " Only after Alagiri\u2019s ouster from the party in 2014 did Stalin get the much-needed elbow room, and only after Karunanidhi retired from active politics did Stalin emerge as the de-facto party chief.",
+"object": {
+"text": "Stalin emerge as the de-facto party chief"
+},
+"action": {
+"verb": {
+"text": "do",
+"tense": "past"
+},
+"text": "did",
+"normalized": "do"
+}
+},
+{
+"subject": {
+"text": "Stalin"
+},
+"sentence": " Stalin did not have to take the arduous route his father had taken for more than 70 years.",
+"object": {
+"text": "not have to take the arduous route his father had taken for more than 70 years"
+},
+"action": {
+"verb": {
+"text": "do",
+"tense": "past"
+},
+"text": "did",
+"normalized": "do"
+}
+},
+{
+"subject": {
+"text": "Stalin"
+},
+"sentence": " Stalin did not have to take the arduous route his father had taken for more than 70 years.",
+"object": {
+"text": "the arduous route his father had taken for more than 70 years"
+},
+"action": {
+"verb": {
+"text": "take",
+"tense": "past"
+},
+"text": "did not have to take",
+"normalized": "do not have to take"
+}
+},
+{
+"subject": {
+"text": "his father"
+},
+"sentence": " Stalin did not have to take the arduous route his father had taken for more than 70 years.",
+"object": {
+"text": "the arduous route"
+},
+"action": {
+"verb": {
+"text": "take",
+"tense": "past"
+},
+"text": "had taken",
+"normalized": "have take"
+}
+},
+{
+"subject": {
+"text": "he"
+},
+"sentence": " Still, he undertook a statewide tour in the run-up to the 2016 assembly election, which remains unparalleled in recent times.",
+"object": {
+"text": "a statewide tour in the run-up to the 2016 assembly election, which remains unparalleled in recent times"
+},
+"action": {
+"verb": {
+"text": "undertake",
+"tense": "past"
+},
+"text": "undertook",
+"normalized": "undertake"
+}
+},
+{
+"subject": {
+"text": "he"
+},
+"sentence": " Breaking from the routine, he spent time chatting with people at roadside tea shops and interacting with professionals from diverse fields as part of a five-monthlong \u2018Namakku Naame\u2019 (mass interaction) programme.",
+"object": {
+"text": "time"
+},
+"action": {
+"verb": {
+"text": "spend",
+"tense": "past"
+},
+"text": "spent",
+"normalized": "spend"
+}
+},
+{
+"subject": {
+"text": "he"
+},
+"sentence": " Breaking from the routine, he spent time chatting with people at roadside tea shops and interacting with professionals from diverse fields as part of a five-monthlong \u2018Namakku Naame\u2019 (mass interaction) programme.",
+"object": {
+"text": "with people"
+},
+"action": {
+"verb": {
+"text": "chat",
+"tense": "present"
+},
+"text": "chatting",
+"normalized": "chat"
+}
+},
+{
+"subject": {
+"text": "he"
+},
+"sentence": " Breaking from the routine, he spent time chatting with people at roadside tea shops and interacting with professionals from diverse fields as part of a five-monthlong \u2018Namakku Naame\u2019 (mass interaction) programme.",
+"object": {
+"text": "with professionals"
+},
+"action": {
+"verb": {
+"text": "interact",
+"tense": "present"
+},
+"text": "interacting",
+"normalized": "interact"
+}
+},
+{
+"subject": {
+"text": "he"
+},
+"sentence": " As a public speaker he has matured over the years.",
+"object": {
+"text": "matured over the years"
+},
+"action": {
+"verb": {
+"text": "have",
+"tense": "present"
+},
+"text": "has",
+"normalized": "have"
+}
+},
+{
+"subject": {
+"text": "he"
+},
+"sentence": " As a public speaker he has matured over the years.",
+"object": {
+"text": "a public speaker"
+},
+"action": {
+"verb": {
+"text": "mature",
+"tense": "past"
+},
+"text": "has matured",
+"normalized": "have mature"
+}
+},
+{
+"subject": {
+"text": "He"
+},
+"sentence": " He is no longer wary of the media.",
+"object": {
+"text": "no longer wary of the media"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "present"
+},
+"text": "is",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "organised press briefings"
+},
+"sentence": " If organised press briefings were a rarity till a few years ago, now, he occupies decent space in all media.",
+"object": {
+"text": "a rarity"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "were",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "he"
+},
+"sentence": " If organised press briefings were a rarity till a few years ago, now, he occupies decent space in all media.",
+"object": {
+"text": "decent space"
+},
+"action": {
+"verb": {
+"text": "occupy",
+"tense": "present"
+},
+"text": "occupies",
+"normalized": "occupy"
+}
+},
+{
+"subject": {
+"text": "Stalin"
+},
+"sentence": " Stalin does not have the luxury of an ideologue companion like DMK general secretary K Anbazhagan, who remained by Karunanidhi\u2019s side, rendering political advice in crises.",
+"object": {
+"text": "not have the luxury of an ideologue companion like DMK general secretary K Anbazhagan, who remained by Karunanidhi\u2019s side, rendering political advice in crises"
+},
+"action": {
+"verb": {
+"text": "do",
+"tense": "present"
+},
+"text": "does",
+"normalized": "do"
+}
+},
+{
+"subject": {
+"text": "Stalin"
+},
+"sentence": " Stalin does not have the luxury of an ideologue companion like DMK general secretary K Anbazhagan, who remained by Karunanidhi\u2019s side, rendering political advice in crises.",
+"object": {
+"text": "the luxury of an ideologue companion like DMK general secretary K Anbazhagan, who remained by Karunanidhi\u2019s side, rendering political advice in crises"
+},
+"action": {
+"verb": {
+"text": "have",
+"tense": "present",
+"negated": true
+},
+"text": "have",
+"normalized": "have"
+}
+},
+{
+"subject": {
+"text": "political advice"
+},
+"sentence": " Stalin does not have the luxury of an ideologue companion like DMK general secretary K Anbazhagan, who remained by Karunanidhi\u2019s side, rendering political advice in crises.",
+"object": {
+"text": "in crises"
+},
+"action": {
+"verb": {
+"text": "render",
+"tense": "present"
+},
+"text": "rendering",
+"normalized": "render"
+}
+},
+{
+"subject": {
+"text": "his father"
+},
+"sentence": " While his father was open to criticism, Stalin, people around him say, is not.",
+"object": {
+"text": "open to criticism"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "was",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "He"
+},
+"sentence": " He has modelled his administration, both within the party and in the government, after AIADMK\u2019s J .",
+"object": {
+"text": "modelled his administration, both within the party and in the government, after AIADMK\u2019s J "
+},
+"action": {
+"verb": {
+"text": "have",
+"tense": "present"
+},
+"text": "has",
+"normalized": "have"
+}
+},
+{
+"subject": {
+"text": "He"
+},
+"sentence": " He has modelled his administration, both within the party and in the government, after AIADMK\u2019s J .",
+"object": {
+"text": "his administration, both within the party and in the government"
+},
+"action": {
+"verb": {
+"text": "model",
+"tense": "past"
+},
+"text": "has modelled",
+"normalized": "have model"
+}
+},
+{
+"subject": {
+"text": "Karunanidhi"
+},
+"sentence": " Karunanidhi was a master strategist, especially in alliance formation; Stalin\u2019s attempts at striking alliances have, however, not been successful so far.",
+"object": {
+"text": "a master strategist, especially in alliance formation"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "was",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "Stalin"
+},
+"sentence": " Karunanidhi was a master strategist, especially in alliance formation; Stalin\u2019s attempts at striking alliances have, however, not been successful so far.",
+"object": {
+"text": "attempts"
+},
+"action": {
+"verb": {
+"text": "has",
+"tense": "present"
+},
+"text": "s",
+"normalized": "s"
+}
+},
+{
+"subject": {
+"text": "Stalin\u2019s attempts"
+},
+"sentence": " Karunanidhi was a master strategist, especially in alliance formation; Stalin\u2019s attempts at striking alliances have, however, not been successful so far.",
+"object": {
+"text": "successful"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "past",
+"negated": true
+},
+"text": "been",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "Stalin"
+},
+"sentence": " But Stalin is breaking barriers.",
+"object": {
+"text": "breaking barriers"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "present"
+},
+"text": "is",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "Stalin"
+},
+"sentence": " But Stalin is breaking barriers.",
+"object": {
+"text": "barriers"
+},
+"action": {
+"verb": {
+"text": "break",
+"tense": "present"
+},
+"text": "is breaking",
+"normalized": "be break"
+}
+},
+{
+"subject": {
+"text": "He"
+},
+"sentence": " He has changed the face of the rationalist DMK by visiting temples, churches and mosques in recent years.",
+"object": {
+"text": "changed the face of the rationalist DMK by visiting temples, churches and mosques in recent years"
+},
+"action": {
+"verb": {
+"text": "have",
+"tense": "present"
+},
+"text": "has",
+"normalized": "have"
+}
+},
+{
+"subject": {
+"text": "He"
+},
+"sentence": " He has changed the face of the rationalist DMK by visiting temples, churches and mosques in recent years.",
+"action": {
+"verb": {
+"text": "change",
+"tense": "past"
+},
+"text": "has changed",
+"normalized": "have change"
+}
+},
+{
+"subject": {
+"text": "He"
+},
+"sentence": " He has changed the face of the rationalist DMK by visiting temples, churches and mosques in recent years.",
+"object": {
+"text": "temples"
+},
+"action": {
+"verb": {
+"text": "visit",
+"tense": "present"
+},
+"text": "visiting",
+"normalized": "visit"
+}
+},
+{
+"subject": {
+"text": "Many of his advisers"
+},
+"sentence": " Many of his advisers are professionals who do not have political experience or craftsmanship.",
+"object": {
+"text": "professionals who do not have political experience or craftsmanship"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "present"
+},
+"text": "are",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "professionals"
+},
+"sentence": " Many of his advisers are professionals who do not have political experience or craftsmanship.",
+"object": {
+"text": "not have political experience or craftsmanship"
+},
+"action": {
+"verb": {
+"text": "do",
+"tense": "present"
+},
+"text": "do",
+"normalized": "do"
+}
+},
+{
+"subject": {
+"text": "professionals"
+},
+"sentence": " Many of his advisers are professionals who do not have political experience or craftsmanship.",
+"object": {
+"text": "political experience or craftsmanship"
+},
+"action": {
+"verb": {
+"text": "have",
+"tense": "present",
+"negated": true
+},
+"text": "have",
+"normalized": "have"
+}
+},
+{
+"subject": {
+"text": "the DMK working president"
+},
+"sentence": " In the absence of Karunanidhi, the DMK working president has an arduous task ahead.",
+"object": {
+"text": "an arduous task"
+},
+"action": {
+"verb": {
+"text": "have",
+"tense": "present"
+},
+"text": "has",
+"normalized": "have"
+}
+}
+],
+"relations": [
+{
+"type": "partOfMany",
+"sentence": "Rising from the ranks, Karunanidhi emerged as one of the most shrewd politicians of the modern era.",
+"score": 0.953531,
+"arguments": [
+{
+"text": "one",
+"location": [
+166,
+169
+],
+"entities": [
+{
+"type": "Cardinal",
+"text": "one"
+}
+]
+},
+{
+"text": "politicians",
+"location": [
+189,
+200
+],
+"entities": [
+{
+"type": "Person",
+"text": "politicians"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Only after Alagiri's ouster from the party in 2014 did Stalin get the much-needed elbow room, and only after Karunanidhi retired from active politics did Stalin emerge as the de-facto party chief.",
+"score": 0.835852,
+"arguments": [
+{
+"text": "Alagiri",
+"location": [
+817,
+824
+],
+"entities": [
+{
+"type": "Person",
+"text": "Alagiri"
+}
+]
+},
+{
+"text": "ouster",
+"location": [
+827,
+833
+],
+"entities": [
+{
+"type": "EventPersonnel",
+"text": "ouster"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Only after Alagiri's ouster from the party in 2014 did Stalin get the much-needed elbow room, and only after Karunanidhi retired from active politics did Stalin emerge as the de-facto party chief.",
+"score": 0.563577,
+"arguments": [
+{
+"text": "party",
+"location": [
+843,
+848
+],
+"entities": [
+{
+"type": "Organization",
+"text": "party",
+"disambiguation": {
+"subtype": [
+"Political"
+]
+}
+}
+]
+},
+{
+"text": "ouster",
+"location": [
+827,
+833
+],
+"entities": [
+{
+"type": "EventPersonnel",
+"text": "ouster"
+}
+]
+}
+]
+},
+{
+"type": "timeOf",
+"sentence": "Only after Alagiri's ouster from the party in 2014 did Stalin get the much-needed elbow room, and only after Karunanidhi retired from active politics did Stalin emerge as the de-facto party chief.",
+"score": 0.932025,
+"arguments": [
+{
+"text": "2014",
+"location": [
+852,
+856
+],
+"entities": [
+{
+"type": "Date",
+"text": "2014"
+}
+]
+},
+{
+"text": "ouster",
+"location": [
+827,
+833
+],
+"entities": [
+{
+"type": "EventPersonnel",
+"text": "ouster"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "Only after Alagiri's ouster from the party in 2014 did Stalin get the much-needed elbow room, and only after Karunanidhi retired from active politics did Stalin emerge as the de-facto party chief.",
+"score": 0.892533,
+"arguments": [
+{
+"text": "Stalin",
+"location": [
+861,
+867
+],
+"entities": [
+{
+"type": "Person",
+"text": "Stalin"
+}
+]
+},
+{
+"text": "elbow room",
+"location": [
+888,
+898
+],
+"entities": [
+{
+"type": "Facility",
+"text": "elbow room"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Only after Alagiri's ouster from the party in 2014 did Stalin get the much-needed elbow room, and only after Karunanidhi retired from active politics did Stalin emerge as the de-facto party chief.",
+"score": 0.701891,
+"arguments": [
+{
+"text": "Karunanidhi",
+"location": [
+915,
+926
+],
+"entities": [
+{
+"type": "Person",
+"text": "Karunanidhi"
+}
+]
+},
+{
+"text": "retired",
+"location": [
+927,
+934
+],
+"entities": [
+{
+"type": "EventPersonnel",
+"text": "retired"
+}
+]
+}
+]
+},
+{
+"type": "managerOf",
+"sentence": "Only after Alagiri's ouster from the party in 2014 did Stalin get the much-needed elbow room, and only after Karunanidhi retired from active politics did Stalin emerge as the de-facto party chief.",
+"score": 0.452645,
+"arguments": [
+{
+"text": "chief",
+"location": [
+996,
+1001
+],
+"entities": [
+{
+"type": "Person",
+"text": "Stalin"
+}
+]
+},
+{
+"text": "party",
+"location": [
+990,
+995
+],
+"entities": [
+{
+"type": "Organization",
+"text": "party",
+"disambiguation": {
+"subtype": [
+"Political"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "colleague",
+"sentence": "Stalin does not have the luxury of an ideologue companion like DMK general secretary K Anbazhagan, who remained by Karunanidhi's side, rendering political advice in crises.",
+"score": 0.620697,
+"arguments": [
+{
+"text": "general secretary",
+"location": [
+1695,
+1712
+],
+"entities": [
+{
+"type": "Person",
+"text": "K Anbazhagan"
+}
+]
+},
+{
+"text": "DMK",
+"location": [
+1691,
+1694
+],
+"entities": [
+{
+"type": "Person",
+"text": "DMK patriarch M"
+}
+]
+}
+]
+},
+{
+"type": "parentOf",
+"sentence": "While his father was open to criticism, Stalin, people around him say, is not.",
+"score": 0.642719,
+"arguments": [
+{
+"text": "father",
+"location": [
+1811,
+1817
+],
+"entities": [
+{
+"type": "Person",
+"text": "father"
+}
+]
+},
+{
+"text": "his",
+"location": [
+1807,
+1810
+],
+"entities": [
+{
+"type": "Person",
+"text": "public speaker"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "While his father was open to criticism, Stalin, people around him say, is not.",
+"score": 0.97141,
+"arguments": [
+{
+"text": "him",
+"location": [
+1863,
+1866
+],
+"entities": [
+{
+"type": "Person",
+"text": "public speaker"
+}
+]
+},
+{
+"text": "say",
+"location": [
+1867,
+1870
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "say"
+}
+]
+}
+]
+},
+{
+"type": "managerOf",
+"sentence": "He has modelled his administration, both within the party and in the government, after AIADMK's J .",
+"score": 0.92695,
+"arguments": [
+{
+"text": "his",
+"location": [
+1896,
+1899
+],
+"entities": [
+{
+"type": "Person",
+"text": "public speaker"
+}
+]
+},
+{
+"text": "administration",
+"location": [
+1900,
+1914
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "administration",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "partOfMany",
+"sentence": "He jostled for space among stalwarts like Periyar EV Ramasamy, CN Annadurai, K Kamaraj, MG Ramachandran, and C Rajagopalachari.",
+"score": 0.707884,
+"arguments": [
+{
+"text": "Periyar EV Ramasamy",
+"location": [
+262,
+281
+],
+"entities": [
+{
+"type": "Person",
+"text": "Periyar EV Ramasamy"
+}
+]
+},
+{
+"text": "stalwarts",
+"location": [
+247,
+256
+],
+"entities": [
+{
+"type": "Person",
+"text": "stalwarts"
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "Karunanidhi was a master strategist, especially in alliance formation; Stalin's attempts at striking alliances have, however, not been successful so far.",
+"score": 0.760723,
+"arguments": [
+{
+"text": "master strategist",
+"location": [
+1998,
+2015
+],
+"entities": [
+{
+"type": "Person",
+"text": "Karunanidhi"
+}
+]
+},
+{
+"text": "alliance",
+"location": [
+2031,
+2039
+],
+"entities": [
+{
+"type": "Organization",
+"text": "AIADMK"
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "He has changed the face of the rationalist DMK by visiting temples, churches and mosques in recent years.",
+"score": 0.525387,
+"arguments": [
+{
+"text": "DMK",
+"location": [
+2210,
+2213
+],
+"entities": [
+{
+"type": "Person",
+"text": "DMK patriarch M"
+}
+]
+},
+{
+"text": "churches",
+"location": [
+2235,
+2243
+],
+"entities": [
+{
+"type": "Organization",
+"text": "churches"
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "He has changed the face of the rationalist DMK by visiting temples, churches and mosques in recent years.",
+"score": 0.42322,
+"arguments": [
+{
+"text": "DMK",
+"location": [
+2210,
+2213
+],
+"entities": [
+{
+"type": "Person",
+"text": "DMK patriarch M"
+}
+]
+},
+{
+"text": "mosques",
+"location": [
+2248,
+2255
+],
+"entities": [
+{
+"type": "Organization",
+"text": "mosques"
+}
+]
+}
+]
+},
+{
+"type": "partOfMany",
+"sentence": "Many of his advisers are professionals who do not have political experience or craftsmanship.",
+"score": 0.826826,
+"arguments": [
+{
+"text": "Many",
+"location": [
+2273,
+2277
+],
+"entities": [
+{
+"type": "Cardinal",
+"text": "Many"
+}
+]
+},
+{
+"text": "advisers",
+"location": [
+2285,
+2293
+],
+"entities": [
+{
+"type": "Person",
+"text": "professionals"
+}
+]
+}
+]
+},
+{
+"type": "managerOf",
+"sentence": "Many of his advisers are professionals who do not have political experience or craftsmanship.",
+"score": 0.363956,
+"arguments": [
+{
+"text": "his",
+"location": [
+2281,
+2284
+],
+"entities": [
+{
+"type": "Person",
+"text": "Karunanidhi"
+}
+]
+},
+{
+"text": "advisers",
+"location": [
+2285,
+2293
+],
+"entities": [
+{
+"type": "Person",
+"text": "professionals"
+}
+]
+}
+]
+},
+{
+"type": "partOfMany",
+"sentence": "He jostled for space among stalwarts like Periyar EV Ramasamy, CN Annadurai, K Kamaraj, MG Ramachandran, and C Rajagopalachari.",
+"score": 0.941129,
+"arguments": [
+{
+"text": "CN Annadurai",
+"location": [
+283,
+295
+],
+"entities": [
+{
+"type": "Person",
+"text": "CN Annadurai"
+}
+]
+},
+{
+"text": "stalwarts",
+"location": [
+247,
+256
+],
+"entities": [
+{
+"type": "Person",
+"text": "stalwarts"
+}
+]
+}
+]
+},
+{
+"type": "partOfMany",
+"sentence": "He jostled for space among stalwarts like Periyar EV Ramasamy, CN Annadurai, K Kamaraj, MG Ramachandran, and C Rajagopalachari.",
+"score": 0.849372,
+"arguments": [
+{
+"text": "K Kamaraj",
+"location": [
+297,
+306
+],
+"entities": [
+{
+"type": "Person",
+"text": "K Kamaraj"
+}
+]
+},
+{
+"text": "stalwarts",
+"location": [
+247,
+256
+],
+"entities": [
+{
+"type": "Person",
+"text": "stalwarts"
+}
+]
+}
+]
+},
+{
+"type": "partOfMany",
+"sentence": "He jostled for space among stalwarts like Periyar EV Ramasamy, CN Annadurai, K Kamaraj, MG Ramachandran, and C Rajagopalachari.",
+"score": 0.661293,
+"arguments": [
+{
+"text": "MG Ramachandran",
+"location": [
+308,
+323
+],
+"entities": [
+{
+"type": "Person",
+"text": "MG Ramachandran"
+}
+]
+},
+{
+"text": "stalwarts",
+"location": [
+247,
+256
+],
+"entities": [
+{
+"type": "Person",
+"text": "stalwarts"
+}
+]
+}
+]
+},
+{
+"type": "parentOf",
+"sentence": "He had a pedestal \u2014 provided by his father \u2014 from where he could command respect from party leaders and workers.",
+"score": 0.766988,
+"arguments": [
+{
+"text": "father",
+"location": [
+464,
+470
+],
+"entities": [
+{
+"type": "Person",
+"text": "father"
+}
+]
+},
+{
+"text": "his",
+"location": [
+460,
+463
+],
+"entities": [
+{
+"type": "Person",
+"text": "Karunanidhi"
+}
+]
+}
+]
+},
+{
+"type": "parentOf",
+"sentence": "Stalin did not have to take the arduous route his father had taken for more than 70 years.",
+"score": 0.738168,
+"arguments": [
+{
+"text": "father",
+"location": [
+1053,
+1059
+],
+"entities": [
+{
+"type": "Person",
+"text": "father"
+}
+]
+},
+{
+"text": "his",
+"location": [
+1049,
+1052
+],
+"entities": [
+{
+"type": "Person",
+"text": "Karunanidhi"
+}
+]
+}
+]
+},
+{
+"type": "managerOf",
+"sentence": "He had a pedestal \u2014 provided by his father \u2014 from where he could command respect from party leaders and workers.",
+"score": 0.671483,
+"arguments": [
+{
+"text": "leaders",
+"location": [
+520,
+527
+],
+"entities": [
+{
+"type": "Person",
+"text": "leaders"
+}
+]
+},
+{
+"text": "party",
+"location": [
+514,
+519
+],
+"entities": [
+{
+"type": "Organization",
+"text": "party",
+"disambiguation": {
+"subtype": [
+"Political"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "partOfMany",
+"sentence": "There were occasions when Karunanidhi made Stalin fight for his political space by creating road blocks within the family.",
+"score": 0.508371,
+"arguments": [
+{
+"text": "Stalin",
+"location": [
+724,
+730
+],
+"entities": [
+{
+"type": "Person",
+"text": "Stalin"
+}
+]
+},
+{
+"text": "family",
+"location": [
+796,
+802
+],
+"entities": [
+{
+"type": "Person",
+"text": "family"
+}
+]
+}
+]
+},
+{
+"type": "partOfMany",
+"sentence": "There were occasions when Karunanidhi made Stalin fight for his political space by creating road blocks within the family.",
+"score": 0.656339,
+"arguments": [
+{
+"text": "his",
+"location": [
+741,
+744
+],
+"entities": [
+{
+"type": "Person",
+"text": "Karunanidhi"
+}
+]
+},
+{
+"text": "family",
+"location": [
+796,
+802
+],
+"entities": [
+{
+"type": "Person",
+"text": "family"
+}
+]
+}
+]
+}
+],
+"language": "en",
+"keywords": [
+{
+"text": "Stalin",
+"sentiment": {
+"score": -0.410208,
+"label": "negative"
+},
+"relevance": 0.955662,
+"emotion": {
+"sadness": 0.639392,
+"joy": 0.531512,
+"fear": 0.61157,
+"disgust": 0.618385,
+"anger": 0.65373
+}
+},
+{
+"text": "Stalin fight",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.84936,
+"emotion": {
+"sadness": 0.340451,
+"joy": 0.396017,
+"fear": 0.113658,
+"disgust": 0.157407,
+"anger": 0.134027
+}
+},
+{
+"text": "DMK general secretary",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.772466,
+"emotion": {
+"sadness": 0.161096,
+"joy": 0.401689,
+"fear": 0.08959,
+"disgust": 0.098715,
+"anger": 0.073487
+}
+},
+{
+"text": "Periyar EV Ramasamy",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.721183,
+"emotion": {
+"sadness": 0.113702,
+"joy": 0.281061,
+"fear": 0.015359,
+"disgust": 0.008307,
+"anger": 0.026198
+}
+},
+{
+"text": "DMK patriarch",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.69168,
+"emotion": {
+"sadness": 0.120896,
+"joy": 0.062297,
+"fear": 0.063741,
+"disgust": 0.047122,
+"anger": 0.095687
+}
+}
+],
+"entities": [
+{
+"type": "Person",
+"text": "Stalin",
+"sentiment": {
+"score": -0.404909,
+"label": "negative"
+},
+"relevance": 0.853458,
+"emotion": {
+"sadness": 0.600532,
+"joy": 0.528131,
+"fear": 0.599093,
+"disgust": 0.618702,
+"anger": 0.658588
+},
+"count": 16
+},
+{
+"type": "Person",
+"text": "Karunanidhi",
+"sentiment": {
+"score": -0.32301,
+"label": "negative"
+},
+"relevance": 0.367889,
+"emotion": {
+"sadness": 0.178349,
+"joy": 0.554184,
+"fear": 0.081801,
+"disgust": 0.080577,
+"anger": 0.100985
+},
+"disambiguation": {
+"subtype": [],
+"name": "Karunanidhi",
+"dbpedia_resource": "http://dbpedia.org/resource/Karunanidhi"
+},
+"count": 8
+},
+{
+"type": "Organization",
+"text": "DMK",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.22797,
+"emotion": {
+"sadness": 0.066923,
+"joy": 0.36314,
+"fear": 0.042514,
+"disgust": 0.067103,
+"anger": 0.154324
+},
+"disambiguation": {
+"subtype": [
+"PoliticalParty"
+],
+"name": "Dravida Munnetra Kazhagam",
+"dbpedia_resource": "http://dbpedia.org/resource/Dravida_Munnetra_Kazhagam"
+},
+"count": 1
+},
+{
+"type": "Location",
+"text": "CHENNAI",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.17658,
+"emotion": {
+"sadness": 0.0,
+"joy": 0.0,
+"fear": 0.0,
+"disgust": 0.0,
+"anger": 0.0
+},
+"disambiguation": {
+"subtype": [
+"AdministrativeDivision",
+"Country",
+"IndianCity",
+"City"
+],
+"name": "Chennai",
+"dbpedia_resource": "http://dbpedia.org/resource/Chennai"
+},
+"count": 1
+},
+{
+"type": "Person",
+"text": "MG Ramachandran",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.169073,
+"emotion": {
+"sadness": 0.023096,
+"joy": 0.036496,
+"fear": 0.01866,
+"disgust": 0.024337,
+"anger": 0.016655
+},
+"disambiguation": {
+"subtype": [
+"Actor",
+"Politician",
+"FilmActor"
+],
+"name": "M. G. Ramachandran",
+"dbpedia_resource": "http://dbpedia.org/resource/M._G._Ramachandran"
+},
+"count": 1
+}
+],
+"concepts": [
+{
+"text": "C. N. Annadurai",
+"relevance": 0.958413,
+"dbpedia_resource": "http://dbpedia.org/resource/C._N._Annadurai"
+},
+{
+"text": "Dravida Munnetra Kazhagam",
+"relevance": 0.932433,
+"dbpedia_resource": "http://dbpedia.org/resource/Dravida_Munnetra_Kazhagam"
+},
+{
+"text": "C. Rajagopalachari",
+"relevance": 0.870879,
+"dbpedia_resource": "http://dbpedia.org/resource/C._Rajagopalachari"
+},
+{
+"text": "Indian National Congress",
+"relevance": 0.761908,
+"dbpedia_resource": "http://dbpedia.org/resource/Indian_National_Congress"
+},
+{
+"text": "M. G. Ramachandran",
+"relevance": 0.647248,
+"dbpedia_resource": "http://dbpedia.org/resource/M._G._Ramachandran"
+}
+],
+"categories": [
+{
+"score": 0.453876,
+"label": "/art and entertainment/shows and events/conference"
+},
+{
+"score": 0.438134,
+"label": "/law, govt and politics/politics/elections"
+},
+{
+"score": 0.437172,
+"label": "/business and industrial/business operations/business plans"
+}
+]
+}
+}

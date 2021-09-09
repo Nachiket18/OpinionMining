@@ -1,0 +1,1257 @@
+{
+"source_article_link": "https://timesofindia.indiatimes.com/india/rahul-gandhi-attacks-modi-government-over-rising-atrocities-against-dalits/articleshow/65366886.cms?&utm_source=Articleshow&utm_medium=Organic&utm_campaign=Related_Stories",
+"title": "Rahul Gandhi attacks Modi government over 'rising' atrocities against Dalits",
+"date_published": "2018-08-11T17:57:55+05:30",
+"source_type": "news_article",
+"source_name": "timesofindia.indiatimes.com",
+"image_link": [
+"https://timesofindia.indiatimes.com/thumb/msid-65366923,imgsize-415860,width-400,resizemode-4/65366923.jpg"
+],
+"article_body": "NEW DELHI: Congress president on Saturday attacked the Modi government over alleged rising atrocities against , citing a media report which claimed that BJP-ruled states registered the highest number of crimes against the Scheduled Castes. Gandhi remarks came days after he accused Prime Minister of having an \"anti-Dalit\" mindset. \"Mr 56's best buddy, asked me to 'check my facts' when I said the BJP fuels violence against Dalits & Adivasis,\" he tweeted. \"I hope the fact check I'm attaching below, will wake him and Mr 56 up from their deep slumber on these rising atrocities; or I and the Congress party will,\" he said, tagging a media report which cited the data of 2016 to claim that BJP-ruled states registered the highest number of crimes against the Scheduled Castes. Gandhi has been taking at a swipe at Modi over his \"56-inch chest\" remark made at election rallies in the run-up to the 2014 polls. BJP chief had targeted the Congress chief to look at facts before criticising the government over issues related to the Scheduled Castes and the Scheduled Tribes. Shah had also alleged that it was the opposition party that had a legacy of insulting Dalits.",
+"description": "NEW DELHI: Congress president on Saturday attacked the Modi government over alleged rising atrocities against , citing a media report which claimed that BJP-ruled states registered the highest number of crimes against the Scheduled Castes. Gandhi remarks came days after he accused Prime Minister of having an \"anti-Dalit\" mindset.",
+"time_scraped": "2018-08-24 06:01:29.069729",
+"article_id": "65366886",
+"article_category": "IndiaNews",
+"image_details": [
+{
+"url": "https://timesofindia.indiatimes.com/thumb/msid-65366923,imgsize-415860,width-400,resizemode-4/65366923.jpg",
+"path": "full/61ed2b2ce8b7efbc4dfaae939267b374cd28f74c.jpg",
+"checksum": "7a378d625ce7d0eb1acfbe91f34dcf99"
+}
+],
+"ibm_nlu": {
+"usage": {
+"text_units": 1,
+"text_characters": 1165,
+"features": 7
+},
+"sentiment": {
+"document": {
+"score": -0.587033,
+"label": "negative"
+}
+},
+"semantic_roles": [
+{
+"subject": {
+"text": "Congress president on Saturday"
+},
+"sentence": "NEW DELHI: Congress president on Saturday attacked the Modi government over alleged rising atrocities against , citing a media report which claimed that BJP-ruled states registered the highest number of crimes against the Scheduled Castes.",
+"object": {
+"text": "the Modi government"
+},
+"action": {
+"verb": {
+"text": "attack",
+"tense": "past"
+},
+"text": "attacked",
+"normalized": "attack"
+}
+},
+{
+"subject": {
+"text": "NEW DELHI: Congress president on Saturday"
+},
+"sentence": "NEW DELHI: Congress president on Saturday attacked the Modi government over alleged rising atrocities against , citing a media report which claimed that BJP-ruled states registered the highest number of crimes against the Scheduled Castes.",
+"object": {
+"text": "a media report which claimed that BJP-ruled states registered the highest number of crimes against the Scheduled Castes"
+},
+"action": {
+"verb": {
+"text": "cite",
+"tense": "present"
+},
+"text": "citing",
+"normalized": "cite"
+}
+},
+{
+"subject": {
+"text": "a media report"
+},
+"sentence": "NEW DELHI: Congress president on Saturday attacked the Modi government over alleged rising atrocities against , citing a media report which claimed that BJP-ruled states registered the highest number of crimes against the Scheduled Castes.",
+"object": {
+"text": "that BJP-ruled states registered the highest number of crimes against the Scheduled Castes"
+},
+"action": {
+"verb": {
+"text": "claim",
+"tense": "past"
+},
+"text": "claimed",
+"normalized": "claim"
+}
+},
+{
+"subject": {
+"text": "Gandhi"
+},
+"sentence": " Gandhi remarks came days after he accused Prime Minister of having an \"anti-Dalit\" mindset.",
+"object": {
+"text": "came days"
+},
+"action": {
+"verb": {
+"text": "remark",
+"tense": "present"
+},
+"text": "remarks",
+"normalized": "remark"
+}
+},
+{
+"subject": {
+"text": "Gandhi remarks"
+},
+"sentence": " Gandhi remarks came days after he accused Prime Minister of having an \"anti-Dalit\" mindset.",
+"action": {
+"verb": {
+"text": "come",
+"tense": "past"
+},
+"text": "came",
+"normalized": "come"
+}
+},
+{
+"subject": {
+"text": "he"
+},
+"sentence": " Gandhi remarks came days after he accused Prime Minister of having an \"anti-Dalit\" mindset.",
+"object": {
+"text": "Prime Minister"
+},
+"action": {
+"verb": {
+"text": "accuse",
+"tense": "past"
+},
+"text": "accused",
+"normalized": "accuse"
+}
+},
+{
+"subject": {
+"text": "Prime Minister"
+},
+"sentence": " Gandhi remarks came days after he accused Prime Minister of having an \"anti-Dalit\" mindset.",
+"object": {
+"text": "an \"anti-Dalit\" mindset"
+},
+"action": {
+"verb": {
+"text": "have",
+"tense": "future"
+},
+"text": "having",
+"normalized": "have"
+}
+},
+{
+"subject": {
+"text": "me"
+},
+"sentence": " \"Mr 56's best buddy, asked me to 'check my facts' when I said the BJP fuels violence against Dalits & Adivasis,\" he tweeted.",
+"object": {
+"text": "my facts"
+},
+"action": {
+"verb": {
+"text": "'check",
+"tense": "future"
+},
+"text": "to 'check",
+"normalized": "to 'check"
+}
+},
+{
+"subject": {
+"text": "I"
+},
+"sentence": " \"Mr 56's best buddy, asked me to 'check my facts' when I said the BJP fuels violence against Dalits & Adivasis,\" he tweeted.",
+"object": {
+"text": "the BJP fuels violence against Dalits & Adivasis"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "I"
+},
+"sentence": " \"I hope the fact check I'm attaching below, will wake him and Mr 56 up from their deep slumber on these rising atrocities; or I and the Congress party will,\" he said, tagging a media report which cited the data of 2016 to claim that BJP-ruled states registered the highest number of crimes against the Scheduled Castes.",
+"object": {
+"text": "the fact check I'm attaching below"
+},
+"action": {
+"verb": {
+"text": "hope",
+"tense": "present"
+},
+"text": "hope",
+"normalized": "hope"
+}
+},
+{
+"subject": {
+"text": "I"
+},
+"sentence": " \"I hope the fact check I'm attaching below, will wake him and Mr 56 up from their deep slumber on these rising atrocities; or I and the Congress party will,\" he said, tagging a media report which cited the data of 2016 to claim that BJP-ruled states registered the highest number of crimes against the Scheduled Castes.",
+"object": {
+"text": "the fact check"
+},
+"action": {
+"verb": {
+"text": "attach",
+"tense": "present"
+},
+"text": "attaching",
+"normalized": "attach"
+}
+},
+{
+"subject": {
+"text": "he"
+},
+"sentence": " \"I hope the fact check I'm attaching below, will wake him and Mr 56 up from their deep slumber on these rising atrocities; or I and the Congress party will,\" he said, tagging a media report which cited the data of 2016 to claim that BJP-ruled states registered the highest number of crimes against the Scheduled Castes.",
+"object": {
+"text": "I hope the fact check I'm attaching below, will wake him and Mr 56 up from their deep slumber on these rising atrocities; or I and the Congress party will"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "future"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "I and the Congress party"
+},
+"sentence": " \"I hope the fact check I'm attaching below, will wake him and Mr 56 up from their deep slumber on these rising atrocities; or I and the Congress party will,\" he said, tagging a media report which cited the data of 2016 to claim that BJP-ruled states registered the highest number of crimes against the Scheduled Castes.",
+"object": {
+"text": "a media report which cited the data of 2016"
+},
+"action": {
+"verb": {
+"text": "tag",
+"tense": "present"
+},
+"text": "tagging",
+"normalized": "tag"
+}
+},
+{
+"subject": {
+"text": "a media report"
+},
+"sentence": " \"I hope the fact check I'm attaching below, will wake him and Mr 56 up from their deep slumber on these rising atrocities; or I and the Congress party will,\" he said, tagging a media report which cited the data of 2016 to claim that BJP-ruled states registered the highest number of crimes against the Scheduled Castes.",
+"object": {
+"text": "the data of 2016 to claim that BJP-ruled states registered the highest number of crimes against the Scheduled Castes"
+},
+"action": {
+"verb": {
+"text": "cite",
+"tense": "past"
+},
+"text": "cited",
+"normalized": "cite"
+}
+},
+{
+"subject": {
+"text": "his \"56-inch chest\" remark"
+},
+"sentence": " Gandhi has been taking at a swipe at Modi over his \"56-inch chest\" remark made at election rallies in the run-up to the 2014 polls.",
+"action": {
+"verb": {
+"text": "make",
+"tense": "past"
+},
+"text": "made",
+"normalized": "make"
+}
+},
+{
+"subject": {
+"text": "BJP chief"
+},
+"sentence": " BJP chief had targeted the Congress chief to look at facts before criticising the government over issues related to the Scheduled Castes and the Scheduled Tribes.",
+"object": {
+"text": "targeted the Congress chief"
+},
+"action": {
+"verb": {
+"text": "have",
+"tense": "past"
+},
+"text": "had",
+"normalized": "have"
+}
+},
+{
+"subject": {
+"text": "BJP chief"
+},
+"sentence": " BJP chief had targeted the Congress chief to look at facts before criticising the government over issues related to the Scheduled Castes and the Scheduled Tribes.",
+"object": {
+"text": "the Congress chief to look at facts before criticising the government over issues related to the Scheduled Castes and the Scheduled Tribes"
+},
+"action": {
+"verb": {
+"text": "target",
+"tense": "past"
+},
+"text": "had targeted",
+"normalized": "have target"
+}
+},
+{
+"subject": {
+"text": "Shah"
+},
+"sentence": " Shah had also alleged that it was the opposition party that had a legacy of insulting Dalits.",
+"object": {
+"text": "that it was the opposition party that had a legacy of insulting Dalits"
+},
+"action": {
+"verb": {
+"text": "allege",
+"tense": "past"
+},
+"text": "had also alleged",
+"normalized": "have also allege"
+}
+},
+{
+"subject": {
+"text": "the opposition party"
+},
+"sentence": " Shah had also alleged that it was the opposition party that had a legacy of insulting Dalits.",
+"object": {
+"text": "a legacy of insulting Dalits"
+},
+"action": {
+"verb": {
+"text": "have",
+"tense": "past"
+},
+"text": "had",
+"normalized": "have"
+}
+}
+],
+"relations": [
+{
+"type": "managerOf",
+"sentence": "NEW DELHI: Congress president on Saturday attacked the Modi government over alleged rising atrocities against , citing a media report which claimed that BJP-ruled states registered the highest number of crimes against the Scheduled Castes.",
+"score": 0.624667,
+"arguments": [
+{
+"text": "president",
+"location": [
+20,
+29
+],
+"entities": [
+{
+"type": "Person",
+"text": "president"
+}
+]
+},
+{
+"text": "Congress",
+"location": [
+11,
+19
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Congress",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "\"Mr 56's best buddy, asked me to 'check my facts' when I said the BJP fuels violence against Dalits & Adivasis,\" he tweeted.",
+"score": 0.657293,
+"arguments": [
+{
+"text": "Mr",
+"location": [
+333,
+335
+],
+"entities": [
+{
+"type": "Person",
+"text": "Prime Minister of"
+}
+]
+},
+{
+"text": "asked",
+"location": [
+353,
+358
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "asked"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "\"Mr 56's best buddy, asked me to 'check my facts' when I said the BJP fuels violence against Dalits & Adivasis,\" he tweeted.",
+"score": 0.819316,
+"arguments": [
+{
+"text": "me",
+"location": [
+359,
+361
+],
+"entities": [
+{
+"type": "Person",
+"text": "Prime Minister of"
+}
+]
+},
+{
+"text": "asked",
+"location": [
+353,
+358
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "asked"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "\"Mr 56's best buddy, asked me to 'check my facts' when I said the BJP fuels violence against Dalits & Adivasis,\" he tweeted.",
+"score": 0.983858,
+"arguments": [
+{
+"text": "I",
+"location": [
+387,
+388
+],
+"entities": [
+{
+"type": "Person",
+"text": "Prime Minister of"
+}
+]
+},
+{
+"text": "said",
+"location": [
+389,
+393
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "\"I hope the fact check I'm attaching below, will wake him and Mr 56 up from their deep slumber on these rising atrocities; or I and the Congress party will,\" he said, tagging a media report which cited the data of 2016 to claim that BJP-ruled states registered the highest number of crimes against the Scheduled Castes.",
+"score": 0.975356,
+"arguments": [
+{
+"text": "he",
+"location": [
+615,
+617
+],
+"entities": [
+{
+"type": "Person",
+"text": "Prime Minister of"
+}
+]
+},
+{
+"text": "said",
+"location": [
+618,
+622
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "\"Mr 56's best buddy, asked me to 'check my facts' when I said the BJP fuels violence against Dalits & Adivasis,\" he tweeted.",
+"score": 0.988599,
+"arguments": [
+{
+"text": "he",
+"location": [
+445,
+447
+],
+"entities": [
+{
+"type": "Person",
+"text": "Prime Minister of"
+}
+]
+},
+{
+"text": "tweeted",
+"location": [
+448,
+455
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "tweeted"
+}
+]
+}
+]
+},
+{
+"type": "hasAttribute",
+"sentence": "\"I hope the fact check I'm attaching below, will wake him and Mr 56 up from their deep slumber on these rising atrocities; or I and the Congress party will,\" he said, tagging a media report which cited the data of 2016 to claim that BJP-ruled states registered the highest number of crimes against the Scheduled Castes.",
+"score": 0.914873,
+"arguments": [
+{
+"text": "Mr",
+"location": [
+519,
+521
+],
+"entities": [
+{
+"type": "Person",
+"text": "Prime Minister of"
+}
+]
+},
+{
+"text": "56",
+"location": [
+522,
+524
+],
+"entities": [
+{
+"type": "Age",
+"text": "56"
+}
+]
+}
+]
+},
+{
+"type": "partOfMany",
+"sentence": "\"I hope the fact check I'm attaching below, will wake him and Mr 56 up from their deep slumber on these rising atrocities; or I and the Congress party will,\" he said, tagging a media report which cited the data of 2016 to claim that BJP-ruled states registered the highest number of crimes against the Scheduled Castes.",
+"score": 0.627845,
+"arguments": [
+{
+"text": "Mr",
+"location": [
+519,
+521
+],
+"entities": [
+{
+"type": "Person",
+"text": "Prime Minister of"
+}
+]
+},
+{
+"text": "their",
+"location": [
+533,
+538
+],
+"entities": [
+{
+"type": "Person",
+"text": "their"
+}
+]
+}
+]
+},
+{
+"type": "partOf",
+"sentence": "\"I hope the fact check I'm attaching below, will wake him and Mr 56 up from their deep slumber on these rising atrocities; or I and the Congress party will,\" he said, tagging a media report which cited the data of 2016 to claim that BJP-ruled states registered the highest number of crimes against the Scheduled Castes.",
+"score": 0.825017,
+"arguments": [
+{
+"text": "party",
+"location": [
+602,
+607
+],
+"entities": [
+{
+"type": "Organization",
+"text": "opposition party",
+"disambiguation": {
+"subtype": [
+"Political"
+]
+}
+}
+]
+},
+{
+"text": "Congress",
+"location": [
+593,
+601
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Congress",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "\"I hope the fact check I'm attaching below, will wake him and Mr 56 up from their deep slumber on these rising atrocities; or I and the Congress party will,\" he said, tagging a media report which cited the data of 2016 to claim that BJP-ruled states registered the highest number of crimes against the Scheduled Castes.",
+"score": 0.53916,
+"arguments": [
+{
+"text": "media",
+"location": [
+634,
+639
+],
+"entities": [
+{
+"type": "Organization",
+"text": "media",
+"disambiguation": {
+"subtype": [
+"Commercial"
+]
+}
+}
+]
+},
+{
+"text": "cited",
+"location": [
+653,
+658
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "cited"
+}
+]
+}
+]
+},
+{
+"type": "managerOf",
+"sentence": "BJP chief had targeted the Congress chief to look at facts before criticising the government over issues related to the Scheduled Castes and the Scheduled Tribes.",
+"score": 0.482308,
+"arguments": [
+{
+"text": "chief",
+"location": [
+913,
+918
+],
+"entities": [
+{
+"type": "Person",
+"text": "chief"
+}
+]
+},
+{
+"text": "BJP",
+"location": [
+909,
+912
+],
+"entities": [
+{
+"type": "Organization",
+"text": "BJP"
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "BJP chief had targeted the Congress chief to look at facts before criticising the government over issues related to the Scheduled Castes and the Scheduled Tribes.",
+"score": 0.725963,
+"arguments": [
+{
+"text": "chief",
+"location": [
+945,
+950
+],
+"entities": [
+{
+"type": "Person",
+"text": "chief"
+}
+]
+},
+{
+"text": "Congress",
+"location": [
+936,
+944
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Congress",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "NEW DELHI: Congress president on Saturday attacked the Modi government over alleged rising atrocities against , citing a media report which claimed that BJP-ruled states registered the highest number of crimes against the Scheduled Castes.",
+"score": 0.667031,
+"arguments": [
+{
+"text": "president",
+"location": [
+20,
+29
+],
+"entities": [
+{
+"type": "Person",
+"text": "president"
+}
+]
+},
+{
+"text": "attacked",
+"location": [
+42,
+50
+],
+"entities": [
+{
+"type": "EventViolence",
+"text": "attacked"
+}
+]
+}
+]
+},
+{
+"type": "timeOf",
+"sentence": "NEW DELHI: Congress president on Saturday attacked the Modi government over alleged rising atrocities against , citing a media report which claimed that BJP-ruled states registered the highest number of crimes against the Scheduled Castes.",
+"score": 0.86425,
+"arguments": [
+{
+"text": "Saturday",
+"location": [
+33,
+41
+],
+"entities": [
+{
+"type": "Date",
+"text": "Saturday"
+}
+]
+},
+{
+"text": "attacked",
+"location": [
+42,
+50
+],
+"entities": [
+{
+"type": "EventViolence",
+"text": "attacked"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "NEW DELHI: Congress president on Saturday attacked the Modi government over alleged rising atrocities against , citing a media report which claimed that BJP-ruled states registered the highest number of crimes against the Scheduled Castes.",
+"score": 0.769454,
+"arguments": [
+{
+"text": "government",
+"location": [
+60,
+70
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "government",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+},
+{
+"text": "attacked",
+"location": [
+42,
+50
+],
+"entities": [
+{
+"type": "EventViolence",
+"text": "attacked"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "NEW DELHI: Congress president on Saturday attacked the Modi government over alleged rising atrocities against , citing a media report which claimed that BJP-ruled states registered the highest number of crimes against the Scheduled Castes.",
+"score": 0.558671,
+"arguments": [
+{
+"text": "government",
+"location": [
+60,
+70
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "government",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+},
+{
+"text": "citing",
+"location": [
+112,
+118
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "citing"
+}
+]
+}
+]
+},
+{
+"type": "timeOf",
+"sentence": "Gandhi remarks came days after he accused Prime Minister of having an \"anti-Dalit\" mindset.",
+"score": 0.941425,
+"arguments": [
+{
+"text": "days after",
+"location": [
+260,
+270
+],
+"entities": [
+{
+"type": "Date",
+"text": "days after"
+}
+]
+},
+{
+"text": "accused",
+"location": [
+274,
+281
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "accused"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Gandhi remarks came days after he accused Prime Minister of having an \"anti-Dalit\" mindset.",
+"score": 0.99841,
+"arguments": [
+{
+"text": "he",
+"location": [
+271,
+273
+],
+"entities": [
+{
+"type": "Person",
+"text": "Prime Minister of"
+}
+]
+},
+{
+"text": "accused",
+"location": [
+274,
+281
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "accused"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "Gandhi remarks came days after he accused Prime Minister of having an \"anti-Dalit\" mindset.",
+"score": 0.574591,
+"arguments": [
+{
+"text": "Prime Minister of",
+"location": [
+282,
+299
+],
+"entities": [
+{
+"type": "Person",
+"text": "Prime Minister of"
+}
+]
+},
+{
+"text": "accused",
+"location": [
+274,
+281
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "accused"
+}
+]
+}
+]
+},
+{
+"type": "hasAttribute",
+"sentence": "\"Mr 56's best buddy, asked me to 'check my facts' when I said the BJP fuels violence against Dalits & Adivasis,\" he tweeted.",
+"score": 0.905305,
+"arguments": [
+{
+"text": "Mr",
+"location": [
+333,
+335
+],
+"entities": [
+{
+"type": "Person",
+"text": "Prime Minister of"
+}
+]
+},
+{
+"text": "56",
+"location": [
+336,
+338
+],
+"entities": [
+{
+"type": "Age",
+"text": "56"
+}
+]
+}
+]
+}
+],
+"language": "en",
+"keywords": [
+{
+"text": "Scheduled Castes",
+"sentiment": {
+"score": -0.460496,
+"label": "negative"
+},
+"relevance": 0.981279,
+"emotion": {
+"sadness": 0.293282,
+"joy": 0.015077,
+"fear": 0.131034,
+"disgust": 0.275476,
+"anger": 0.256944
+}
+},
+{
+"text": "alleged rising atrocities",
+"sentiment": {
+"score": -0.408775,
+"label": "negative"
+},
+"relevance": 0.861262,
+"emotion": {
+"sadness": 0.144513,
+"joy": 0.078704,
+"fear": 0.219673,
+"disgust": 0.494054,
+"anger": 0.320229
+}
+},
+{
+"text": "BJP fuels violence",
+"sentiment": {
+"score": -0.435953,
+"label": "negative"
+},
+"relevance": 0.81599,
+"emotion": {
+"sadness": 0.310069,
+"joy": 0.02036,
+"fear": 0.345041,
+"disgust": 0.179898,
+"anger": 0.438006
+}
+},
+{
+"text": "highest number",
+"sentiment": {
+"score": -0.442755,
+"label": "negative"
+},
+"relevance": 0.795861,
+"emotion": {
+"sadness": 0.265735,
+"joy": 0.025347,
+"fear": 0.094366,
+"disgust": 0.235117,
+"anger": 0.138988
+}
+},
+{
+"text": "media report",
+"sentiment": {
+"score": -0.442755,
+"label": "negative"
+},
+"relevance": 0.777707,
+"emotion": {
+"sadness": 0.265735,
+"joy": 0.025347,
+"fear": 0.094366,
+"disgust": 0.235117,
+"anger": 0.138988
+}
+}
+],
+"entities": [
+{
+"type": "Organization",
+"text": "BJP",
+"sentiment": {
+"score": -0.465965,
+"label": "negative"
+},
+"relevance": 0.830474,
+"emotion": {
+"sadness": 0.2966,
+"joy": 0.007749,
+"fear": 0.318775,
+"disgust": 0.200361,
+"anger": 0.453591
+},
+"count": 2
+},
+{
+"type": "Person",
+"text": "Gandhi",
+"sentiment": {
+"score": -0.532129,
+"label": "negative"
+},
+"relevance": 0.781045,
+"emotion": {
+"sadness": 0.212229,
+"joy": 0.125167,
+"fear": 0.037645,
+"disgust": 0.411625,
+"anger": 0.378149
+},
+"count": 3
+},
+{
+"type": "Person",
+"text": "Mr",
+"sentiment": {
+"score": -0.115972,
+"label": "negative"
+},
+"relevance": 0.780795,
+"emotion": {
+"sadness": 0.370424,
+"joy": 0.199385,
+"fear": 0.239908,
+"disgust": 0.047764,
+"anger": 0.35727
+},
+"count": 6
+},
+{
+"type": "Organization",
+"text": "Congress",
+"sentiment": {
+"score": -0.452377,
+"label": "negative"
+},
+"relevance": 0.763267,
+"emotion": {
+"sadness": 0.196141,
+"joy": 0.024368,
+"fear": 0.260955,
+"disgust": 0.395622,
+"anger": 0.430152
+},
+"count": 2
+},
+{
+"type": "Organization",
+"text": "Scheduled Tribes",
+"sentiment": {
+"score": -0.495978,
+"label": "negative"
+},
+"relevance": 0.680187,
+"emotion": {
+"sadness": 0.279835,
+"joy": 0.015606,
+"fear": 0.226273,
+"disgust": 0.228667,
+"anger": 0.34734
+},
+"count": 1
+}
+],
+"concepts": [
+{
+"text": "India",
+"relevance": 0.980241,
+"dbpedia_resource": "http://dbpedia.org/resource/India"
+},
+{
+"text": "Delhi",
+"relevance": 0.769055,
+"dbpedia_resource": "http://dbpedia.org/resource/Delhi"
+},
+{
+"text": "Indian National Congress",
+"relevance": 0.663493,
+"dbpedia_resource": "http://dbpedia.org/resource/Indian_National_Congress"
+},
+{
+"text": "Bharatiya Janata Party",
+"relevance": 0.646352,
+"dbpedia_resource": "http://dbpedia.org/resource/Bharatiya_Janata_Party"
+},
+{
+"text": "Dalit",
+"relevance": 0.501163,
+"dbpedia_resource": "http://dbpedia.org/resource/Dalit"
+}
+],
+"categories": [
+{
+"score": 0.594301,
+"label": "/law, govt and politics/government"
+},
+{
+"score": 0.4084,
+"label": "/law, govt and politics/politics/elections"
+},
+{
+"score": 0.399074,
+"label": "/religion and spirituality/hinduism"
+}
+]
+}
+}

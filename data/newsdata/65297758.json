@@ -1,0 +1,1108 @@
+{
+"source_article_link": "https://timesofindia.indiatimes.com/india/maharashtra-cm-fadnavis-meets-pm-modi-amid-maratha-quota-agitation/articleshow/65297758.cms?&utm_source=Articleshow&utm_medium=Organic&utm_campaign=Related_Stories",
+"title": "Maharashtra CM Fadnavis meets PM Modi amid Maratha quota agitation",
+"date_published": "2018-08-06T22:47:44+05:30",
+"source_type": "news_article",
+"source_name": "timesofindia.indiatimes.com",
+"image_link": [
+"https://timesofindia.indiatimes.com/thumb/msid-65297834,imgsize-100430,width-400,resizemode-4/65297834.jpg"
+],
+"article_body": "MUMBAI: chief minister on Monday called on Prime Minister in New Delhi and discussed issues related to the state. Fadnavis said that he apprised the PM on various issues related to Maharashtra during their meeting. The meeting comes in the backdrop of the ongoing agitation in Maharashtra by the Maratha community for reservation in government jobs and education.  \"Called on HON Pm narendra modijiin New Delhi this evening to apprise him on various issues of Maharashtra,\" Fadnavis tweeted. Maratha outfits have announced a fresh round of stir from August 9 in support of their demand. Last month, their protest had turned violent in different parts of the state, including Mumbai, Navi Mumbai and the Marathwada region. Fadnavis yesterday said all constitutional obligations required for granting reservation to the Maratha community in the state would be completed by November.",
+"description": "MUMBAI: chief minister on Monday called on Prime Minister in New Delhi and discussed issues related to the state. Fadnavis said that he apprised the PM on various issues related to Maharashtra during their meeting.",
+"time_scraped": "2018-08-23 09:01:49.896220",
+"article_id": "65297758",
+"article_category": "IndiaNews",
+"image_details": [
+{
+"url": "https://timesofindia.indiatimes.com/thumb/msid-65297834,imgsize-100430,width-400,resizemode-4/65297834.jpg",
+"path": "full/04163861ec8ae9b4670cb4faedb314879852ab70.jpg",
+"checksum": "4f5a87a4324ba5026543b44acd37bd34"
+}
+],
+"ibm_nlu": {
+"usage": {
+"text_units": 1,
+"text_characters": 880,
+"features": 7
+},
+"sentiment": {
+"document": {
+"score": -0.00978849,
+"label": "negative"
+}
+},
+"semantic_roles": [
+{
+"subject": {
+"text": "chief minister"
+},
+"sentence": "MUMBAI: chief minister on Monday called on Prime Minister in New Delhi and discussed issues related to the state.",
+"action": {
+"verb": {
+"text": "call",
+"tense": "past"
+},
+"text": "called",
+"normalized": "call"
+}
+},
+{
+"subject": {
+"text": "chief minister on Monday"
+},
+"sentence": "MUMBAI: chief minister on Monday called on Prime Minister in New Delhi and discussed issues related to the state.",
+"object": {
+"text": "issues related to the state"
+},
+"action": {
+"verb": {
+"text": "discuss",
+"tense": "past"
+},
+"text": "discussed",
+"normalized": "discuss"
+}
+},
+{
+"subject": {
+"text": "Fadnavis"
+},
+"sentence": " Fadnavis said that he apprised the PM on various issues related to Maharashtra during their meeting.",
+"object": {
+"text": "that he apprised the PM on various issues related to Maharashtra during their meeting"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "The meeting"
+},
+"sentence": " The meeting comes in the backdrop of the ongoing agitation in Maharashtra by the Maratha community for reservation in government jobs and education.",
+"action": {
+"verb": {
+"text": "come",
+"tense": "present"
+},
+"text": "comes",
+"normalized": "come"
+}
+},
+{
+"subject": {
+"text": "him"
+},
+"sentence": " \"Called on HON Pm narendra modijiin New Delhi this evening to apprise him on various issues of Maharashtra,\" Fadnavis tweeted.",
+"object": {
+"text": "on various issues of Maharashtra"
+},
+"action": {
+"verb": {
+"text": "apprise",
+"tense": "future"
+},
+"text": "to apprise",
+"normalized": "to apprise"
+}
+},
+{
+"subject": {
+"text": "Fadnavis"
+},
+"sentence": " \"Called on HON Pm narendra modijiin New Delhi this evening to apprise him on various issues of Maharashtra,\" Fadnavis tweeted.",
+"object": {
+"text": "\"Called on HON Pm narendra modijiin New Delhi this evening to apprise him on various issues of Maharashtra"
+},
+"action": {
+"verb": {
+"text": "tweet",
+"tense": "past"
+},
+"text": "tweeted",
+"normalized": "tweet"
+}
+},
+{
+"subject": {
+"text": "Maratha outfits"
+},
+"sentence": " Maratha outfits have announced a fresh round of stir from August 9 in support of their demand.",
+"object": {
+"text": "announced a fresh round"
+},
+"action": {
+"verb": {
+"text": "have",
+"tense": "present"
+},
+"text": "have",
+"normalized": "have"
+}
+},
+{
+"subject": {
+"text": "Maratha outfits"
+},
+"sentence": " Maratha outfits have announced a fresh round of stir from August 9 in support of their demand.",
+"object": {
+"text": "a fresh round"
+},
+"action": {
+"verb": {
+"text": "announce",
+"tense": "past"
+},
+"text": "have announced",
+"normalized": "have announce"
+}
+},
+{
+"subject": {
+"text": "their protest"
+},
+"sentence": " Last month, their protest had turned violent in different parts of the state, including Mumbai, Navi Mumbai and the Marathwada region.",
+"object": {
+"text": "turned violent in different parts of the state, including Mumbai, Navi Mumbai and the Marathwada region"
+},
+"action": {
+"verb": {
+"text": "have",
+"tense": "past"
+},
+"text": "had",
+"normalized": "have"
+}
+},
+{
+"subject": {
+"text": "their protest"
+},
+"sentence": " Last month, their protest had turned violent in different parts of the state, including Mumbai, Navi Mumbai and the Marathwada region.",
+"object": {
+"text": "violent"
+},
+"action": {
+"verb": {
+"text": "turn",
+"tense": "past"
+},
+"text": "had turned",
+"normalized": "have turn"
+}
+},
+{
+"subject": {
+"text": "Mumbai, Navi Mumbai and the Marathwada region"
+},
+"sentence": " Last month, their protest had turned violent in different parts of the state, including Mumbai, Navi Mumbai and the Marathwada region.",
+"object": {
+"text": "different parts of the state"
+},
+"action": {
+"verb": {
+"text": "include",
+"tense": "present"
+},
+"text": "including",
+"normalized": "include"
+}
+},
+{
+"subject": {
+"text": "Fadnavis"
+},
+"sentence": " Fadnavis yesterday said all constitutional obligations required for granting reservation to the Maratha community in the state would be completed by November.",
+"object": {
+"text": "all constitutional obligations required for granting reservation to the Maratha community in the state would be completed by November"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "all constitutional obligations"
+},
+"sentence": " Fadnavis yesterday said all constitutional obligations required for granting reservation to the Maratha community in the state would be completed by November.",
+"object": {
+"text": "reservation"
+},
+"action": {
+"verb": {
+"text": "grant",
+"tense": "present"
+},
+"text": "granting",
+"normalized": "grant"
+}
+},
+{
+"subject": {
+"text": "all constitutional obligations required for granting reservation to the Maratha community in the state"
+},
+"sentence": " Fadnavis yesterday said all constitutional obligations required for granting reservation to the Maratha community in the state would be completed by November.",
+"object": {
+"text": "completed"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "future"
+},
+"text": "be",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "all constitutional obligations required for granting reservation to the Maratha community in the state"
+},
+"sentence": " Fadnavis yesterday said all constitutional obligations required for granting reservation to the Maratha community in the state would be completed by November.",
+"action": {
+"verb": {
+"text": "complete",
+"tense": "future"
+},
+"text": "would be completed",
+"normalized": "would be complete"
+}
+}
+],
+"relations": [
+{
+"type": "agentOf",
+"sentence": "MUMBAI: chief minister on Monday called on Prime Minister in New Delhi and discussed issues related to the state.",
+"score": 0.539981,
+"arguments": [
+{
+"text": "chief minister",
+"location": [
+8,
+22
+],
+"entities": [
+{
+"type": "Person",
+"text": "chief minister"
+}
+]
+},
+{
+"text": "called on",
+"location": [
+33,
+42
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "called on"
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "The meeting comes in the backdrop of the ongoing agitation in Maharashtra by the Maratha community for reservation in government jobs and education.",
+"score": 0.55878,
+"arguments": [
+{
+"text": "community",
+"location": [
+304,
+313
+],
+"entities": [
+{
+"type": "Person",
+"text": "community"
+}
+]
+},
+{
+"text": "Maratha",
+"location": [
+296,
+303
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Maratha"
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "Fadnavis yesterday said all constitutional obligations required for granting reservation to the Maratha community in the state would be completed by November.",
+"score": 0.684819,
+"arguments": [
+{
+"text": "community",
+"location": [
+826,
+835
+],
+"entities": [
+{
+"type": "Person",
+"text": "community"
+}
+]
+},
+{
+"text": "Maratha",
+"location": [
+818,
+825
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Maratha"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "\"Called on HON Pm narendra modijiin New Delhi this evening to apprise him on various issues of Maharashtra,\" Fadnavis tweeted.",
+"score": 0.996632,
+"arguments": [
+{
+"text": "Fadnavis",
+"location": [
+474,
+482
+],
+"entities": [
+{
+"type": "Person",
+"text": "Fadnavis"
+}
+]
+},
+{
+"text": "tweeted",
+"location": [
+483,
+490
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "tweeted"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Maratha outfits have announced a fresh round of stir from August 9 in support of their demand.",
+"score": 0.730461,
+"arguments": [
+{
+"text": "Maratha",
+"location": [
+492,
+499
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Maratha"
+}
+]
+},
+{
+"text": "announced",
+"location": [
+513,
+522
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "called on"
+}
+]
+}
+]
+},
+{
+"type": "residesIn",
+"sentence": "Last month, their protest had turned violent in different parts of the state, including Mumbai, Navi Mumbai and the Marathwada region.",
+"score": 0.684715,
+"arguments": [
+{
+"text": "Navi Mumbai",
+"location": [
+683,
+694
+],
+"entities": [
+{
+"type": "Person",
+"text": "Navi Mumbai"
+}
+]
+},
+{
+"text": "Marathwada region",
+"location": [
+703,
+720
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Marathwada region"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Fadnavis yesterday said all constitutional obligations required for granting reservation to the Maratha community in the state would be completed by November.",
+"score": 0.893846,
+"arguments": [
+{
+"text": "Fadnavis",
+"location": [
+722,
+730
+],
+"entities": [
+{
+"type": "Person",
+"text": "Fadnavis"
+}
+]
+},
+{
+"text": "said",
+"location": [
+741,
+745
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "timeOf",
+"sentence": "Fadnavis yesterday said all constitutional obligations required for granting reservation to the Maratha community in the state would be completed by November.",
+"score": 0.964529,
+"arguments": [
+{
+"text": "yesterday",
+"location": [
+731,
+740
+],
+"entities": [
+{
+"type": "Date",
+"text": "yesterday"
+}
+]
+},
+{
+"text": "said",
+"location": [
+741,
+745
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "residesIn",
+"sentence": "Fadnavis yesterday said all constitutional obligations required for granting reservation to the Maratha community in the state would be completed by November.",
+"score": 0.569227,
+"arguments": [
+{
+"text": "community",
+"location": [
+826,
+835
+],
+"entities": [
+{
+"type": "Person",
+"text": "community"
+}
+]
+},
+{
+"text": "state",
+"location": [
+843,
+848
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "state"
+}
+]
+}
+]
+},
+{
+"type": "timeOf",
+"sentence": "MUMBAI: chief minister on Monday called on Prime Minister in New Delhi and discussed issues related to the state.",
+"score": 0.701564,
+"arguments": [
+{
+"text": "Monday",
+"location": [
+26,
+32
+],
+"entities": [
+{
+"type": "Date",
+"text": "Monday"
+}
+]
+},
+{
+"text": "called on",
+"location": [
+33,
+42
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "called on"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "MUMBAI: chief minister on Monday called on Prime Minister in New Delhi and discussed issues related to the state.",
+"score": 0.892175,
+"arguments": [
+{
+"text": "Prime Minister",
+"location": [
+43,
+57
+],
+"entities": [
+{
+"type": "Person",
+"text": "Prime Minister"
+}
+]
+},
+{
+"text": "called on",
+"location": [
+33,
+42
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "called on"
+}
+]
+}
+]
+},
+{
+"type": "residesIn",
+"sentence": "MUMBAI: chief minister on Monday called on Prime Minister in New Delhi and discussed issues related to the state.",
+"score": 0.478054,
+"arguments": [
+{
+"text": "Prime Minister",
+"location": [
+43,
+57
+],
+"entities": [
+{
+"type": "Person",
+"text": "Prime Minister"
+}
+]
+},
+{
+"text": "New Delhi",
+"location": [
+61,
+70
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "New Delhi"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Fadnavis said that he apprised the PM on various issues related to Maharashtra during their meeting.",
+"score": 0.997846,
+"arguments": [
+{
+"text": "Fadnavis",
+"location": [
+114,
+122
+],
+"entities": [
+{
+"type": "Person",
+"text": "Fadnavis"
+}
+]
+},
+{
+"text": "said",
+"location": [
+123,
+127
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "called on"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "Fadnavis said that he apprised the PM on various issues related to Maharashtra during their meeting.",
+"score": 0.683251,
+"arguments": [
+{
+"text": "he",
+"location": [
+133,
+135
+],
+"entities": [
+{
+"type": "Person",
+"text": "Fadnavis"
+}
+]
+},
+{
+"text": "Maharashtra",
+"location": [
+181,
+192
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Maharashtra"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "\"Called on HON Pm narendra modijiin New Delhi this evening to apprise him on various issues of Maharashtra,\" Fadnavis tweeted.",
+"score": 0.482692,
+"arguments": [
+{
+"text": "him",
+"location": [
+435,
+438
+],
+"entities": [
+{
+"type": "Person",
+"text": "Fadnavis"
+}
+]
+},
+{
+"text": "Maharashtra",
+"location": [
+460,
+471
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Maharashtra"
+}
+]
+}
+]
+},
+{
+"type": "partOfMany",
+"sentence": "Fadnavis said that he apprised the PM on various issues related to Maharashtra during their meeting.",
+"score": 0.517063,
+"arguments": [
+{
+"text": "he",
+"location": [
+133,
+135
+],
+"entities": [
+{
+"type": "Person",
+"text": "Fadnavis"
+}
+]
+},
+{
+"text": "their",
+"location": [
+200,
+205
+],
+"entities": [
+{
+"type": "Person",
+"text": "their"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "Fadnavis said that he apprised the PM on various issues related to Maharashtra during their meeting.",
+"score": 0.701917,
+"arguments": [
+{
+"text": "meeting",
+"location": [
+206,
+213
+],
+"entities": [
+{
+"type": "EventMeeting",
+"text": "meeting"
+}
+]
+},
+{
+"text": "Maharashtra",
+"location": [
+181,
+192
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Maharashtra"
+}
+]
+}
+]
+},
+{
+"type": "participantIn",
+"sentence": "Fadnavis said that he apprised the PM on various issues related to Maharashtra during their meeting.",
+"score": 0.968983,
+"arguments": [
+{
+"text": "their",
+"location": [
+200,
+205
+],
+"entities": [
+{
+"type": "Person",
+"text": "their"
+}
+]
+},
+{
+"text": "meeting",
+"location": [
+206,
+213
+],
+"entities": [
+{
+"type": "EventMeeting",
+"text": "meeting"
+}
+]
+}
+]
+}
+],
+"language": "en",
+"keywords": [
+{
+"text": "Maratha community",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.941221,
+"emotion": {
+"sadness": 0.405849,
+"joy": 0.287043,
+"fear": 0.026592,
+"disgust": 0.019729,
+"anger": 0.057727
+}
+},
+{
+"text": "New Delhi",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.859409,
+"emotion": {
+"sadness": 0.491567,
+"joy": 0.224504,
+"fear": 0.087901,
+"disgust": 0.041844,
+"anger": 0.068855
+}
+},
+{
+"text": "HON Pm narendra",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.837177,
+"emotion": {
+"sadness": 0.247532,
+"joy": 0.21517,
+"fear": 0.04555,
+"disgust": 0.027779,
+"anger": 0.084347
+}
+},
+{
+"text": "modijiin New Delhi",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.797125,
+"emotion": {
+"sadness": 0.247532,
+"joy": 0.21517,
+"fear": 0.04555,
+"disgust": 0.027779,
+"anger": 0.084347
+}
+},
+{
+"text": "various issues",
+"sentiment": {
+"score": -0.567632,
+"label": "negative"
+},
+"relevance": 0.779268,
+"emotion": {
+"sadness": 0.402286,
+"joy": 0.142886,
+"fear": 0.032952,
+"disgust": 0.01042,
+"anger": 0.105002
+}
+}
+],
+"entities": [
+{
+"type": "Location",
+"text": "Maharashtra",
+"sentiment": {
+"score": -0.567632,
+"label": "negative"
+},
+"relevance": 0.952972,
+"emotion": {
+"sadness": 0.391727,
+"joy": 0.162996,
+"fear": 0.012971,
+"disgust": 0.005221,
+"anger": 0.130309
+},
+"disambiguation": {
+"subtype": [
+"StateOrCounty"
+]
+},
+"count": 3
+},
+{
+"type": "Location",
+"text": "MUMBAI",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.712428,
+"emotion": {
+"sadness": 0.101455,
+"joy": 0.119359,
+"fear": 0.069078,
+"disgust": 0.025231,
+"anger": 0.039754
+},
+"disambiguation": {
+"subtype": [
+"AdministrativeDivision",
+"IndianCity",
+"MilitaryPost",
+"City"
+],
+"name": "Mumbai",
+"dbpedia_resource": "http://dbpedia.org/resource/Mumbai"
+},
+"count": 2
+},
+{
+"type": "Person",
+"text": "Fadnavis",
+"sentiment": {
+"score": -0.205379,
+"label": "negative"
+},
+"relevance": 0.644474,
+"emotion": {
+"sadness": 0.545677,
+"joy": 0.21255,
+"fear": 0.025414,
+"disgust": 0.011582,
+"anger": 0.067292
+},
+"count": 5
+},
+{
+"type": "Location",
+"text": "New Delhi",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.626912,
+"emotion": {
+"sadness": 0.491567,
+"joy": 0.224504,
+"fear": 0.087901,
+"disgust": 0.041844,
+"anger": 0.068855
+},
+"disambiguation": {
+"subtype": [
+"AdministrativeDivision",
+"City"
+],
+"name": "New Delhi",
+"dbpedia_resource": "http://dbpedia.org/resource/New_Delhi"
+},
+"count": 2
+},
+{
+"type": "Company",
+"text": "Navi Mumbai",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.569421,
+"emotion": {
+"sadness": 0.131569,
+"joy": 0.21526,
+"fear": 0.103329,
+"disgust": 0.037967,
+"anger": 0.049522
+},
+"count": 1
+}
+],
+"concepts": [
+{
+"text": "Maharashtra",
+"relevance": 0.986296,
+"dbpedia_resource": "http://dbpedia.org/resource/Maharashtra"
+},
+{
+"text": "Mumbai",
+"relevance": 0.5229,
+"dbpedia_resource": "http://dbpedia.org/resource/Mumbai"
+},
+{
+"text": "Navi Mumbai",
+"relevance": 0.519812,
+"dbpedia_resource": "http://dbpedia.org/resource/Navi_Mumbai"
+},
+{
+"text": "Gujarat",
+"relevance": 0.489124,
+"dbpedia_resource": "http://dbpedia.org/resource/Gujarat"
+},
+{
+"text": "Marathi people",
+"relevance": 0.487088,
+"dbpedia_resource": "http://dbpedia.org/resource/Marathi_people"
+}
+],
+"categories": [
+{
+"score": 0.358651,
+"label": "/art and entertainment/movies and tv/bollywood"
+},
+{
+"score": 0.262792,
+"label": "/real estate"
+},
+{
+"score": 0.244222,
+"label": "/law, govt and politics/legal issues"
+}
+]
+}
+}

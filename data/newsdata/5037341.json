@@ -1,0 +1,1138 @@
+{
+"source_article_link": "https://www.firstpost.com/india/governance-model-in-delhi-worst-of-its-kind-complicated-by-central-agencies-says-manish-sisodia-5037341.html",
+"title": "Governance model in Delhi 'worst of its kind', complicated by central agencies, says Manish Sisodia",
+"date_published": "2018-08-24T16:10:14+05:30",
+"source_type": "news_article",
+"source_name": "FirstPost",
+"image_link": [
+"https://images.firstpost.com/wp-content/uploads/2018/08/kejriwal_sisodia_380_pti.jpg"
+],
+"article_body": "New Delhi: The national capital has the \"worst\" kind of governance model which has been further complicated by involvement of multiple agencies of the Centre, Delhi government and local bodies, leading to a \"confusing\" situation, Deputy Chief Minister Manish Sisodia said on Friday. The governance is \"scattered\" among the Centre, Delhi government and the local bodies, Sisodia said at a conclave organised by PHD Chamber of Commerce and Industry in New Delhi. File image of Delhi chief minister Arvind Kejriwal and his deputy Manish Sisodia. PTI \"There are a lot of governance-related disputes which make the model of governance in Delhi the worst of its kind,\" he said speaking on the subject 'strong states make strong nation'. The AAP government in Delhi continues to be involved in a tussle with the Centre and the office of lieutenant governor over matters of governance, despite the Supreme Court order in July giving it executive powers in all the subjects except land, law and order, and police. \"If you have to seek permission to hold an event, you will have to first determine which agency to approach. There should be clarity on issues of governance otherwise the state becomes weak,\" he said. The confusion in matters of governance leads to a confused state of mind which is not good for the stakeholders including the industry and business, the deputy chief minister said. Businesses require a strong state to prosper, he added.",
+"description": "New Delhi: The national capital has the \"worst\" kind of governance model which has been further complicated by involvement of multiple agencies of the Centre, Delhi government and local bodies, leading to a \"confusing\" situation, Deputy Chief Minister Manish Sisodia said on Friday. The governance is \"scattered\" among the Centre, Delhi government and the local bodies, Sisodia said at a conclave organised by PHD Chamber of Commerce and Industry in New Delhi. File image of Delhi chief minister Arvind Kejriwal and his deputy Manish Sisodia. PTI \"There are a lot of governance-related disputes which make the model of governance in Delhi the worst of its kind,\" he said speaking on the subject 'strong states make strong nation'.",
+"time_scraped": "2018-08-24 18:04:57.362073",
+"article_id": "5037341",
+"article_category": "India",
+"image_details": [
+{
+"url": "https://images.firstpost.com/wp-content/uploads/2018/08/kejriwal_sisodia_380_pti.jpg",
+"path": "full/12a7a903fe9b7190d678c95e1185a6e2421e918e.jpg",
+"checksum": "b71201f05efde4a4c04d192fb0c5635a"
+}
+],
+"ibm_nlu": {
+"usage": {
+"text_units": 1,
+"text_characters": 1442,
+"features": 7
+},
+"sentiment": {
+"document": {
+"score": 0.212543,
+"label": "positive"
+}
+},
+"semantic_roles": [
+{
+"subject": {
+"text": "The national capital"
+},
+"sentence": "New Delhi: The national capital has the \"worst\" kind of governance model which has been further complicated by involvement of multiple agencies of the Centre, Delhi government and local bodies, leading to a \"confusing\" situation, Deputy Chief Minister Manish Sisodia said on Friday.",
+"object": {
+"text": "the \"worst\" kind of governance model which has been further complicated by involvement of multiple agencies of the Centre, Delhi government and local bodies"
+},
+"action": {
+"verb": {
+"text": "have",
+"tense": "present"
+},
+"text": "has",
+"normalized": "have"
+}
+},
+{
+"subject": {
+"text": "the \"worst\" kind"
+},
+"sentence": "New Delhi: The national capital has the \"worst\" kind of governance model which has been further complicated by involvement of multiple agencies of the Centre, Delhi government and local bodies, leading to a \"confusing\" situation, Deputy Chief Minister Manish Sisodia said on Friday.",
+"object": {
+"text": "further complicated"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "been",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "by involvement of multiple agencies of the Centre, Delhi government and local bodies"
+},
+"sentence": "New Delhi: The national capital has the \"worst\" kind of governance model which has been further complicated by involvement of multiple agencies of the Centre, Delhi government and local bodies, leading to a \"confusing\" situation, Deputy Chief Minister Manish Sisodia said on Friday.",
+"object": {
+"text": "the \"worst\" kind"
+},
+"action": {
+"verb": {
+"text": "complicate",
+"tense": "past"
+},
+"text": "has been further complicated",
+"normalized": "have be far complicate"
+}
+},
+{
+"subject": {
+"text": "Deputy Chief Minister Manish Sisodia"
+},
+"sentence": "New Delhi: The national capital has the \"worst\" kind of governance model which has been further complicated by involvement of multiple agencies of the Centre, Delhi government and local bodies, leading to a \"confusing\" situation, Deputy Chief Minister Manish Sisodia said on Friday.",
+"object": {
+"text": "The national capital has the \"worst\" kind of governance model which has been further complicated by involvement of multiple agencies of the Centre, Delhi government and local bodies, leading to a \"confusing\" situation"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "The governance"
+},
+"sentence": " The governance is \"scattered\" among the Centre, Delhi government and the local bodies, Sisodia said at a conclave organised by PHD Chamber of Commerce and Industry in New Delhi.",
+"object": {
+"text": "scattered\""
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "present"
+},
+"text": "is",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "The governance"
+},
+"sentence": " The governance is \"scattered\" among the Centre, Delhi government and the local bodies, Sisodia said at a conclave organised by PHD Chamber of Commerce and Industry in New Delhi.",
+"action": {
+"verb": {
+"text": "scatter",
+"tense": "past"
+},
+"text": "scattered",
+"normalized": "scatter"
+}
+},
+{
+"subject": {
+"text": "Sisodia"
+},
+"sentence": " The governance is \"scattered\" among the Centre, Delhi government and the local bodies, Sisodia said at a conclave organised by PHD Chamber of Commerce and Industry in New Delhi.",
+"object": {
+"text": "The governance is \"scattered\" among the Centre, Delhi government and the local bodies"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "by PHD Chamber of Commerce and Industry"
+},
+"sentence": " The governance is \"scattered\" among the Centre, Delhi government and the local bodies, Sisodia said at a conclave organised by PHD Chamber of Commerce and Industry in New Delhi.",
+"object": {
+"text": "a conclave"
+},
+"action": {
+"verb": {
+"text": "organise",
+"tense": "past"
+},
+"text": "organised",
+"normalized": "organise"
+}
+},
+{
+"subject": {
+"text": "PTI"
+},
+"sentence": " PTI \"There are a lot of governance-related disputes which make the model of governance in Delhi the worst of its kind,\" he said speaking on the subject 'strong states make strong nation'.",
+"object": {
+"text": "a lot of governance-related disputes which make the model of governance in Delhi the worst of its kind"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "present"
+},
+"text": "are",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "a lot of governance-related disputes"
+},
+"sentence": " PTI \"There are a lot of governance-related disputes which make the model of governance in Delhi the worst of its kind,\" he said speaking on the subject 'strong states make strong nation'.",
+"object": {
+"text": "the model of governance"
+},
+"action": {
+"verb": {
+"text": "make",
+"tense": "present"
+},
+"text": "make",
+"normalized": "make"
+}
+},
+{
+"subject": {
+"text": "speaking on the subject 'strong states"
+},
+"sentence": " PTI \"There are a lot of governance-related disputes which make the model of governance in Delhi the worst of its kind,\" he said speaking on the subject 'strong states make strong nation'.",
+"object": {
+"text": "strong nation"
+},
+"action": {
+"verb": {
+"text": "make",
+"tense": "present"
+},
+"text": "make",
+"normalized": "make"
+}
+},
+{
+"subject": {
+"text": "The AAP government in Delhi"
+},
+"sentence": " The AAP government in Delhi continues to be involved in a tussle with the Centre and the office of lieutenant governor over matters of governance, despite the Supreme Court order in July giving it executive powers in all the subjects except land, law and order, and police.",
+"object": {
+"text": "in a tussle with the Centre and the office of lieutenant governor over matters of governance"
+},
+"action": {
+"verb": {
+"text": "involve",
+"tense": "past"
+},
+"text": "continues to be involved",
+"normalized": "continue to be involve"
+}
+},
+{
+"subject": {
+"text": "the Supreme Court order"
+},
+"sentence": " The AAP government in Delhi continues to be involved in a tussle with the Centre and the office of lieutenant governor over matters of governance, despite the Supreme Court order in July giving it executive powers in all the subjects except land, law and order, and police.",
+"object": {
+"text": "executive powers in all the subjects except land"
+},
+"action": {
+"verb": {
+"text": "give",
+"tense": "present"
+},
+"text": "giving",
+"normalized": "give"
+}
+},
+{
+"subject": {
+"text": "you"
+},
+"sentence": " \"If you have to seek permission to hold an event, you will have to first determine which agency to approach.",
+"object": {
+"text": "permission to hold an event"
+},
+"action": {
+"verb": {
+"text": "seek",
+"tense": "future"
+},
+"text": "have to seek",
+"normalized": "have to seek"
+}
+},
+{
+"subject": {
+"text": "you"
+},
+"sentence": " \"If you have to seek permission to hold an event, you will have to first determine which agency to approach.",
+"object": {
+"text": "an event"
+},
+"action": {
+"verb": {
+"text": "hold",
+"tense": "future"
+},
+"text": "to hold",
+"normalized": "to hold"
+}
+},
+{
+"subject": {
+"text": "the state"
+},
+"sentence": " There should be clarity on issues of governance otherwise the state becomes weak,\" he said.",
+"object": {
+"text": "weak"
+},
+"action": {
+"verb": {
+"text": "become",
+"tense": "present"
+},
+"text": "becomes",
+"normalized": "become"
+}
+},
+{
+"subject": {
+"text": "he"
+},
+"sentence": " There should be clarity on issues of governance otherwise the state becomes weak,\" he said.",
+"object": {
+"text": "There should be clarity on issues of governance otherwise the state becomes weak"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "the industry and business"
+},
+"sentence": " The confusion in matters of governance leads to a confused state of mind which is not good for the stakeholders including the industry and business, the deputy chief minister said.",
+"object": {
+"text": "the stakeholders"
+},
+"action": {
+"verb": {
+"text": "include",
+"tense": "present"
+},
+"text": "including",
+"normalized": "include"
+}
+},
+{
+"subject": {
+"text": "the deputy chief minister"
+},
+"sentence": " The confusion in matters of governance leads to a confused state of mind which is not good for the stakeholders including the industry and business, the deputy chief minister said.",
+"object": {
+"text": "The confusion in matters of governance leads to a confused state of mind which is not good for the stakeholders including the industry and business"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "Businesses"
+},
+"sentence": " Businesses require a strong state to prosper, he added.",
+"object": {
+"text": "a strong state"
+},
+"action": {
+"verb": {
+"text": "require",
+"tense": "present"
+},
+"text": "require",
+"normalized": "require"
+}
+},
+{
+"subject": {
+"text": "he"
+},
+"sentence": " Businesses require a strong state to prosper, he added.",
+"object": {
+"text": "a strong state to prosper"
+},
+"action": {
+"verb": {
+"text": "add",
+"tense": "past"
+},
+"text": "added",
+"normalized": "add"
+}
+}
+],
+"relations": [
+{
+"type": "basedIn",
+"sentence": "New Delhi: The national capital has the \"worst\" kind of governance model which has been further complicated by involvement of multiple agencies of the Centre, Delhi government and local bodies, leading to a \"confusing\" situation, Deputy Chief Minister Manish Sisodia said on Friday.",
+"score": 0.658456,
+"arguments": [
+{
+"text": "multiple agencies",
+"location": [
+126,
+143
+],
+"entities": [
+{
+"type": "Organization",
+"text": "multiple agencies"
+}
+]
+},
+{
+"text": "Centre",
+"location": [
+151,
+157
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Centre"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "The AAP government in Delhi continues to be involved in a tussle with the Centre and the office of lieutenant governor over matters of governance, despite the Supreme Court order in July giving it executive powers in all the subjects except land, law and order, and police.",
+"score": 0.852754,
+"arguments": [
+{
+"text": "Supreme Court",
+"location": [
+890,
+903
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Supreme Court",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+},
+{
+"text": "order",
+"location": [
+904,
+909
+],
+"entities": [
+{
+"type": "EventLegal",
+"text": "order"
+}
+]
+}
+]
+},
+{
+"type": "timeOf",
+"sentence": "The AAP government in Delhi continues to be involved in a tussle with the Centre and the office of lieutenant governor over matters of governance, despite the Supreme Court order in July giving it executive powers in all the subjects except land, law and order, and police.",
+"score": 0.966611,
+"arguments": [
+{
+"text": "July",
+"location": [
+913,
+917
+],
+"entities": [
+{
+"type": "Date",
+"text": "July"
+}
+]
+},
+{
+"text": "order",
+"location": [
+904,
+909
+],
+"entities": [
+{
+"type": "EventLegal",
+"text": "order"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "The confusion in matters of governance leads to a confused state of mind which is not good for the stakeholders including the industry and business, the deputy chief minister said.",
+"score": 0.884543,
+"arguments": [
+{
+"text": "deputy chief minister",
+"location": [
+1359,
+1380
+],
+"entities": [
+{
+"type": "Person",
+"text": "deputy chief minister"
+}
+]
+},
+{
+"text": "said",
+"location": [
+1381,
+1385
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "added"
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "Businesses require a strong state to prosper, he added.",
+"score": 0.57894,
+"arguments": [
+{
+"text": "he",
+"location": [
+1433,
+1435
+],
+"entities": [
+{
+"type": "Person",
+"text": "Arvind Kejriwal"
+}
+]
+},
+{
+"text": "Businesses",
+"location": [
+1387,
+1397
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Businesses",
+"disambiguation": {
+"subtype": [
+"Commercial"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "New Delhi: The national capital has the \"worst\" kind of governance model which has been further complicated by involvement of multiple agencies of the Centre, Delhi government and local bodies, leading to a \"confusing\" situation, Deputy Chief Minister Manish Sisodia said on Friday.",
+"score": 0.996948,
+"arguments": [
+{
+"text": "Manish Sisodia",
+"location": [
+252,
+266
+],
+"entities": [
+{
+"type": "Person",
+"text": "Manish Sisodia"
+}
+]
+},
+{
+"text": "said",
+"location": [
+267,
+271
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "added"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "The governance is \"scattered\" among the Centre, Delhi government and the local bodies, Sisodia said at a conclave organised by PHD Chamber of Commerce and Industry in New Delhi.",
+"score": 0.998363,
+"arguments": [
+{
+"text": "Sisodia",
+"location": [
+370,
+377
+],
+"entities": [
+{
+"type": "Person",
+"text": "Manish Sisodia"
+}
+]
+},
+{
+"text": "said",
+"location": [
+378,
+382
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "added"
+}
+]
+}
+]
+},
+{
+"type": "timeOf",
+"sentence": "New Delhi: The national capital has the \"worst\" kind of governance model which has been further complicated by involvement of multiple agencies of the Centre, Delhi government and local bodies, leading to a \"confusing\" situation, Deputy Chief Minister Manish Sisodia said on Friday.",
+"score": 0.981362,
+"arguments": [
+{
+"text": "Friday",
+"location": [
+275,
+281
+],
+"entities": [
+{
+"type": "Date",
+"text": "Friday"
+}
+]
+},
+{
+"text": "said",
+"location": [
+267,
+271
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "added"
+}
+]
+}
+]
+},
+{
+"type": "basedIn",
+"sentence": "The governance is \"scattered\" among the Centre, Delhi government and the local bodies, Sisodia said at a conclave organised by PHD Chamber of Commerce and Industry in New Delhi.",
+"score": 0.604741,
+"arguments": [
+{
+"text": "PHD Chamber of Commerce and Industry",
+"location": [
+410,
+446
+],
+"entities": [
+{
+"type": "Organization",
+"text": "PHD Chamber of Commerce and Industry"
+}
+]
+},
+{
+"text": "New Delhi",
+"location": [
+450,
+459
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "New Delhi"
+}
+]
+}
+]
+},
+{
+"type": "residesIn",
+"sentence": "File image of Delhi chief minister Arvind Kejriwal and his deputy Manish Sisodia.",
+"score": 0.457284,
+"arguments": [
+{
+"text": "chief minister",
+"location": [
+481,
+495
+],
+"entities": [
+{
+"type": "Person",
+"text": "Arvind Kejriwal"
+}
+]
+},
+{
+"text": "Delhi",
+"location": [
+475,
+480
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "New Delhi"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "PTI \"There are a lot of governance-related disputes which make the model of governance in Delhi the worst of its kind,\" he said speaking on the subject 'strong states make strong nation'.",
+"score": 0.990509,
+"arguments": [
+{
+"text": "he",
+"location": [
+663,
+665
+],
+"entities": [
+{
+"type": "Person",
+"text": "Arvind Kejriwal"
+}
+]
+},
+{
+"text": "said",
+"location": [
+666,
+670
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "added"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "There should be clarity on issues of governance otherwise the state becomes weak,\" he said.",
+"score": 0.983071,
+"arguments": [
+{
+"text": "he",
+"location": [
+1197,
+1199
+],
+"entities": [
+{
+"type": "Person",
+"text": "Arvind Kejriwal"
+}
+]
+},
+{
+"text": "said",
+"location": [
+1200,
+1204
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "added"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Businesses require a strong state to prosper, he added.",
+"score": 0.977592,
+"arguments": [
+{
+"text": "he",
+"location": [
+1433,
+1435
+],
+"entities": [
+{
+"type": "Person",
+"text": "Arvind Kejriwal"
+}
+]
+},
+{
+"text": "added",
+"location": [
+1436,
+1441
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "added"
+}
+]
+}
+]
+},
+{
+"type": "partOf",
+"sentence": "PTI \"There are a lot of governance-related disputes which make the model of governance in Delhi the worst of its kind,\" he said speaking on the subject 'strong states make strong nation'.",
+"score": 0.601403,
+"arguments": [
+{
+"text": "speaking",
+"location": [
+671,
+679
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "speaking"
+}
+]
+},
+{
+"text": "said",
+"location": [
+666,
+670
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "added"
+}
+]
+}
+]
+},
+{
+"type": "basedIn",
+"sentence": "The AAP government in Delhi continues to be involved in a tussle with the Centre and the office of lieutenant governor over matters of governance, despite the Supreme Court order in July giving it executive powers in all the subjects except land, law and order, and police.",
+"score": 0.615343,
+"arguments": [
+{
+"text": "AAP government",
+"location": [
+735,
+749
+],
+"entities": [
+{
+"type": "Organization",
+"text": "AAP government"
+}
+]
+},
+{
+"text": "Delhi",
+"location": [
+753,
+758
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "New Delhi"
+}
+]
+}
+]
+},
+{
+"type": "managerOf",
+"sentence": "The AAP government in Delhi continues to be involved in a tussle with the Centre and the office of lieutenant governor over matters of governance, despite the Supreme Court order in July giving it executive powers in all the subjects except land, law and order, and police.",
+"score": 0.524151,
+"arguments": [
+{
+"text": "lieutenant governor",
+"location": [
+830,
+849
+],
+"entities": [
+{
+"type": "Person",
+"text": "lieutenant governor"
+}
+]
+},
+{
+"text": "office",
+"location": [
+820,
+826
+],
+"entities": [
+{
+"type": "Organization",
+"text": "police",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+}
+]
+}
+],
+"language": "en",
+"keywords": [
+{
+"text": "deputy chief minister",
+"sentiment": {
+"score": 0.332057,
+"label": "positive"
+},
+"relevance": 0.971045,
+"emotion": {
+"sadness": 0.431825,
+"joy": 0.234728,
+"fear": 0.243575,
+"disgust": 0.147354,
+"anger": 0.082639
+}
+},
+{
+"text": "Delhi chief minister",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.827818,
+"emotion": {
+"sadness": 0.295955,
+"joy": 0.159707,
+"fear": 0.155429,
+"disgust": 0.270296,
+"anger": 0.075279
+}
+},
+{
+"text": "New Delhi",
+"sentiment": {
+"score": 0.313633,
+"label": "positive"
+},
+"relevance": 0.816373,
+"emotion": {
+"sadness": 0.13236,
+"joy": 0.47252,
+"fear": 0.045617,
+"disgust": 0.025181,
+"anger": 0.088281
+}
+},
+{
+"text": "Delhi government",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.805903,
+"emotion": {
+"sadness": 0.258411,
+"joy": 0.125545,
+"fear": 0.263471,
+"disgust": 0.42072,
+"anger": 0.109526
+}
+},
+{
+"text": "Chief Minister Manish",
+"sentiment": {
+"score": 0.259864,
+"label": "positive"
+},
+"relevance": 0.778681,
+"emotion": {
+"sadness": 0.398919,
+"joy": 0.298042,
+"fear": 0.242652,
+"disgust": 0.117327,
+"anger": 0.072331
+}
+}
+],
+"entities": [
+{
+"type": "Person",
+"text": "Deputy Chief Minister Manish Sisodia",
+"sentiment": {
+"score": 0.259864,
+"label": "positive"
+},
+"relevance": 0.96478,
+"emotion": {
+"sadness": 0.230218,
+"joy": 0.57884,
+"fear": 0.04264,
+"disgust": 0.091037,
+"anger": 0.081809
+},
+"count": 5
+},
+{
+"type": "Location",
+"text": "New Delhi",
+"sentiment": {
+"score": -0.0972916,
+"label": "negative"
+},
+"relevance": 0.657416,
+"emotion": {
+"sadness": 0.45612,
+"joy": 0.560657,
+"fear": 0.094825,
+"disgust": 0.154439,
+"anger": 0.453626
+},
+"disambiguation": {
+"subtype": [
+"AdministrativeDivision",
+"City"
+],
+"name": "New Delhi",
+"dbpedia_resource": "http://dbpedia.org/resource/New_Delhi"
+},
+"count": 5
+},
+{
+"type": "Location",
+"text": "Delhi",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.271793,
+"emotion": {
+"sadness": 0.295955,
+"joy": 0.159707,
+"fear": 0.155429,
+"disgust": 0.270296,
+"anger": 0.075279
+},
+"disambiguation": {
+"subtype": [
+"Country"
+]
+},
+"count": 1
+},
+{
+"type": "JobTitle",
+"text": "deputy chief",
+"sentiment": {
+"score": 0.404249,
+"label": "positive"
+},
+"relevance": 0.235698,
+"emotion": {
+"sadness": 0.499972,
+"joy": 0.120402,
+"fear": 0.249986,
+"disgust": 0.178819,
+"anger": 0.089085
+},
+"count": 1
+}
+],
+"concepts": [
+{
+"text": "Delhi",
+"relevance": 0.916903,
+"dbpedia_resource": "http://dbpedia.org/resource/Delhi"
+},
+{
+"text": "Supreme Court of the United States",
+"relevance": 0.913893,
+"dbpedia_resource": "http://dbpedia.org/resource/Supreme_Court_of_the_United_States"
+},
+{
+"text": "Mental confusion",
+"relevance": 0.837204,
+"dbpedia_resource": "http://dbpedia.org/resource/Mental_confusion"
+},
+{
+"text": "State",
+"relevance": 0.71395,
+"dbpedia_resource": "http://dbpedia.org/resource/State_(polity)"
+},
+{
+"text": "State",
+"relevance": 0.691062,
+"dbpedia_resource": "http://dbpedia.org/resource/State"
+}
+],
+"categories": [
+{
+"score": 0.578874,
+"label": "/law, govt and politics/government"
+},
+{
+"score": 0.206913,
+"label": "/law, govt and politics/legal issues"
+},
+{
+"score": 0.184691,
+"label": "/law, govt and politics/government/state and local government"
+}
+]
+}
+}

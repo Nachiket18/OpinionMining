@@ -1,0 +1,1792 @@
+{
+"source_article_link": "https://timesofindia.indiatimes.com/india/centre-asks-its-depts-states-to-implement-quota-in-promotion-to-sc-st-staff/articleshow/64603053.cms?&utm_source=Articleshow&utm_medium=Organic&utm_campaign=Related_Stories",
+"title": "Centre asks its depts, states to implement quota in promotion to SC, ST staff",
+"date_published": "2018-06-15T19:30:32+05:30",
+"source_type": "news_article",
+"source_name": "timesofindia.indiatimes.com",
+"image_link": [
+"https://timesofindia.indiatimes.com/thumb/msid-64604941,imgsize-100231,width-400,resizemode-4/64604941.jpg"
+],
+"article_body": "NEW DELHI: The Centre on Friday asked all its departments and the state governments to implement reservation in promotion for employees belonging to Scheduled Caste (SC) and Scheduled Tribe (ST) categories. The move comes following a recent verdict by the Supreme Court in this regard. The personnel ministry, in an order, said, \"The cadre controlling authorities of Central government ministries, departments and Union territories are to carry out promotions in accordance with the directions of the Supreme Court.\" Every promotion order must clearly mention the stipulation that the promotion shall be subject to further orders which may be passed by the Supreme Court, it said. According to the order, besides the Central government departments concerned, state governments are also advised to take necessary action in this matter. The personnel ministry order will be applicable to SC and ST category employees working with the Centre and the state governments, an officer said. The apex court had on June 5 allowed the Centre to go ahead with reservation in promotion for employees belonging to the SC and ST category in \"accordance with law\". The top court took into account the Centre's submissions that entire process of promotion has come to a \"standstill\" due to the orders passed by various high courts and the apex court had also ordered for \"status quo\" in a similar matter in 2015. \"We will say you (Centre) can go ahead with promotion in accordance with law,\" a vacation bench comprising Justices Adarsh Kumar Goel and Ashok Bhushan had told Additional Solicitor General (ASG) Maninder Singh, representing the Centre. During the hearing, the ASG cited the case laws on the issue of quota in promotion in government jobs and stated that the apex court's 2006 judgement in M Nagaraj case would be applicable. The M Nagaraj verdict had said that creamy layer concept cannot be applied to the Scheduled Castes and Scheduled Tribes for promotions in government jobs like two earlier verdicts of 1992 Indra Sawhney and others versus Union of India (popularly called Mandal Commission verdict) and 2005 E V Chinnaiah versus State of Andhra Pradesh, which dealt with creamy layer in Other Backward Classes category. On November 15 last year, a three-judge bench of the apex court had agreed to consider whether its 11-year-old judgement in M Nagaraj case was needed to be re-visited. The nine-judge bench of Supreme Court had, in the Indira Sawhney case in 1992, permitted reservation for the SCs and STs in promotion to continue for a period of five years from November 16, 1992.",
+"description": "The move comes following a recent verdict by the Supreme Court in this regard According to the order, besides the Central government departments concerned, state governments are also advised to take necessary action in this matter The personnel ministry order will be applicable to SC and ST category employees working with the Centre and the state governments, an officer said",
+"time_scraped": "2018-08-24 03:01:17.575523",
+"article_id": "64603053",
+"article_category": "IndiaNews",
+"image_details": [
+{
+"url": "https://timesofindia.indiatimes.com/thumb/msid-64604941,imgsize-100231,width-400,resizemode-4/64604941.jpg",
+"path": "full/9ac3d804479a521cefd48b9dc12b8eaef43d4a24.jpg",
+"checksum": "a05f4145999076b563455655292c2a7f"
+}
+],
+"ibm_nlu": {
+"usage": {
+"text_units": 1,
+"text_characters": 2587,
+"features": 7
+},
+"sentiment": {
+"document": {
+"score": 0.328879,
+"label": "positive"
+}
+},
+"semantic_roles": [
+{
+"subject": {
+"text": "The Centre"
+},
+"sentence": "NEW DELHI: The Centre on Friday asked all its departments and the state governments to implement reservation in promotion for employees belonging to Scheduled Caste (SC) and Scheduled Tribe (ST) categories.",
+"object": {
+"text": "to implement reservation in promotion for employees belonging to Scheduled Caste (SC) and Scheduled Tribe (ST) categories"
+},
+"action": {
+"verb": {
+"text": "ask",
+"tense": "past"
+},
+"text": "asked",
+"normalized": "ask"
+}
+},
+{
+"subject": {
+"text": "all its departments and the state governments"
+},
+"sentence": "NEW DELHI: The Centre on Friday asked all its departments and the state governments to implement reservation in promotion for employees belonging to Scheduled Caste (SC) and Scheduled Tribe (ST) categories.",
+"object": {
+"text": "reservation in promotion"
+},
+"action": {
+"verb": {
+"text": "implement",
+"tense": "future"
+},
+"text": "to implement",
+"normalized": "to implement"
+}
+},
+{
+"subject": {
+"text": "The move"
+},
+"sentence": " The move comes following a recent verdict by the Supreme Court in this regard.",
+"action": {
+"verb": {
+"text": "come",
+"tense": "present"
+},
+"text": "comes",
+"normalized": "come"
+}
+},
+{
+"subject": {
+"text": "The personnel ministry"
+},
+"sentence": " The personnel ministry, in an order, said, \"The cadre controlling authorities of Central government ministries, departments and Union territories are to carry out promotions in accordance with the directions of the Supreme Court.\"",
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "Every promotion order"
+},
+"sentence": " Every promotion order must clearly mention the stipulation that the promotion shall be subject to further orders which may be passed by the Supreme Court, it said.",
+"object": {
+"text": "the stipulation that the promotion shall be subject to further orders which may be passed by the Supreme Court"
+},
+"action": {
+"verb": {
+"text": "mention",
+"tense": "future"
+},
+"text": "mention",
+"normalized": "mention"
+}
+},
+{
+"subject": {
+"text": "further orders"
+},
+"sentence": " Every promotion order must clearly mention the stipulation that the promotion shall be subject to further orders which may be passed by the Supreme Court, it said.",
+"object": {
+"text": "passed by the Supreme Court"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "future"
+},
+"text": "be",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "by the Supreme Court"
+},
+"sentence": " Every promotion order must clearly mention the stipulation that the promotion shall be subject to further orders which may be passed by the Supreme Court, it said.",
+"object": {
+"text": "further orders"
+},
+"action": {
+"verb": {
+"text": "pass",
+"tense": "future"
+},
+"text": "may be passed",
+"normalized": "may be pass"
+}
+},
+{
+"subject": {
+"text": "it"
+},
+"sentence": " Every promotion order must clearly mention the stipulation that the promotion shall be subject to further orders which may be passed by the Supreme Court, it said.",
+"object": {
+"text": "the promotion shall be subject to further orders which may be passed by the Supreme Court"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "state governments"
+},
+"sentence": " According to the order, besides the Central government departments concerned, state governments are also advised to take necessary action in this matter.",
+"object": {
+"text": "to take necessary action in this matter"
+},
+"action": {
+"verb": {
+"text": "advise",
+"tense": "past"
+},
+"text": "are also advised",
+"normalized": "be also advise"
+}
+},
+{
+"subject": {
+"text": "state governments"
+},
+"sentence": " According to the order, besides the Central government departments concerned, state governments are also advised to take necessary action in this matter.",
+"object": {
+"text": "necessary action"
+},
+"action": {
+"verb": {
+"text": "take",
+"tense": "future"
+},
+"text": "to take",
+"normalized": "to take"
+}
+},
+{
+"subject": {
+"text": "The personnel ministry order"
+},
+"sentence": " The personnel ministry order will be applicable to SC and ST category employees working with the Centre and the state governments, an officer said.",
+"object": {
+"text": "applicable to SC and ST category employees working with the Centre and the state governments"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "future"
+},
+"text": "will be",
+"normalized": "will be"
+}
+},
+{
+"subject": {
+"text": "an officer"
+},
+"sentence": " The personnel ministry order will be applicable to SC and ST category employees working with the Centre and the state governments, an officer said.",
+"object": {
+"text": "The personnel ministry order will be applicable to SC and ST category employees working with the Centre and the state governments"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "The apex court"
+},
+"sentence": " The apex court had on June 5 allowed the Centre to go ahead with reservation in promotion for employees belonging to the SC and ST category in \"accordance with law\".",
+"action": {
+"verb": {
+"text": "have",
+"tense": "past"
+},
+"text": "had",
+"normalized": "have"
+}
+},
+{
+"subject": {
+"text": "The apex court had on June 5"
+},
+"sentence": " The apex court had on June 5 allowed the Centre to go ahead with reservation in promotion for employees belonging to the SC and ST category in \"accordance with law\".",
+"object": {
+"text": "the Centre to go ahead with reservation in promotion for employees belonging to the SC and ST category in \"accordance with law\""
+},
+"action": {
+"verb": {
+"text": "allow",
+"tense": "past"
+},
+"text": "allowed",
+"normalized": "allow"
+}
+},
+{
+"subject": {
+"text": "entire process of promotion"
+},
+"sentence": " The top court took into account the Centre's submissions that entire process of promotion has come to a \"standstill\" due to the orders passed by various high courts and the apex court had also ordered for \"status quo\" in a similar matter in 2015.",
+"object": {
+"text": "to a \"standstill\" due to the orders passed by various high courts and the apex court had also ordered for \"status quo\" in a similar matter in 2015"
+},
+"action": {
+"verb": {
+"text": "come",
+"tense": "past"
+},
+"text": "has come",
+"normalized": "have come"
+}
+},
+{
+"subject": {
+"text": "by various high courts and the apex court"
+},
+"sentence": " The top court took into account the Centre's submissions that entire process of promotion has come to a \"standstill\" due to the orders passed by various high courts and the apex court had also ordered for \"status quo\" in a similar matter in 2015.",
+"object": {
+"text": "the orders"
+},
+"action": {
+"verb": {
+"text": "pass",
+"tense": "past"
+},
+"text": "passed",
+"normalized": "pass"
+}
+},
+{
+"subject": {
+"text": "We"
+},
+"sentence": " \"We will say you (Centre) can go ahead with promotion in accordance with law,\" a vacation bench comprising Justices Adarsh Kumar Goel and Ashok Bhushan had told Additional Solicitor General (ASG) Maninder Singh, representing the Centre.",
+"object": {
+"text": "you (Centre) can go ahead with promotion in accordance with law"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "future"
+},
+"text": "will say",
+"normalized": "will say"
+}
+},
+{
+"subject": {
+"text": "you (Centre)"
+},
+"sentence": " \"We will say you (Centre) can go ahead with promotion in accordance with law,\" a vacation bench comprising Justices Adarsh Kumar Goel and Ashok Bhushan had told Additional Solicitor General (ASG) Maninder Singh, representing the Centre.",
+"object": {
+"text": "with promotion"
+},
+"action": {
+"verb": {
+"text": "go",
+"tense": "future"
+},
+"text": "can go",
+"normalized": "can go"
+}
+},
+{
+"subject": {
+"text": "a vacation bench"
+},
+"sentence": " \"We will say you (Centre) can go ahead with promotion in accordance with law,\" a vacation bench comprising Justices Adarsh Kumar Goel and Ashok Bhushan had told Additional Solicitor General (ASG) Maninder Singh, representing the Centre.",
+"object": {
+"text": "Justices Adarsh Kumar Goel"
+},
+"action": {
+"verb": {
+"text": "comprise",
+"tense": "present"
+},
+"text": "comprising",
+"normalized": "comprise"
+}
+},
+{
+"subject": {
+"text": "Ashok Bhushan"
+},
+"sentence": " \"We will say you (Centre) can go ahead with promotion in accordance with law,\" a vacation bench comprising Justices Adarsh Kumar Goel and Ashok Bhushan had told Additional Solicitor General (ASG) Maninder Singh, representing the Centre.",
+"object": {
+"text": "told Additional Solicitor General (ASG) Maninder Singh, representing the Centre"
+},
+"action": {
+"verb": {
+"text": "have",
+"tense": "past"
+},
+"text": "had",
+"normalized": "have"
+}
+},
+{
+"subject": {
+"text": "Additional Solicitor General (ASG) Maninder Singh"
+},
+"sentence": " \"We will say you (Centre) can go ahead with promotion in accordance with law,\" a vacation bench comprising Justices Adarsh Kumar Goel and Ashok Bhushan had told Additional Solicitor General (ASG) Maninder Singh, representing the Centre.",
+"object": {
+"text": "the Centre"
+},
+"action": {
+"verb": {
+"text": "represent",
+"tense": "present"
+},
+"text": "representing",
+"normalized": "represent"
+}
+},
+{
+"subject": {
+"text": "the ASG"
+},
+"sentence": " During the hearing, the ASG cited the case laws on the issue of quota in promotion in government jobs and stated that the apex court's 2006 judgement in M Nagaraj case would be applicable.",
+"object": {
+"text": "the case laws"
+},
+"action": {
+"verb": {
+"text": "cite",
+"tense": "past"
+},
+"text": "cited",
+"normalized": "cite"
+}
+},
+{
+"subject": {
+"text": "the ASG"
+},
+"sentence": " During the hearing, the ASG cited the case laws on the issue of quota in promotion in government jobs and stated that the apex court's 2006 judgement in M Nagaraj case would be applicable.",
+"object": {
+"text": "that the apex court's 2006 judgement in M Nagaraj case would be applicable"
+},
+"action": {
+"verb": {
+"text": "state",
+"tense": "past"
+},
+"text": "stated",
+"normalized": "state"
+}
+},
+{
+"subject": {
+"text": "The M Nagaraj verdict"
+},
+"sentence": " The M Nagaraj verdict had said that creamy layer concept cannot be applied to the Scheduled Castes and Scheduled Tribes for promotions in government jobs like two earlier verdicts of 1992 Indra Sawhney and others versus Union of India (popularly called Mandal Commission verdict) and 2005 E V Chinnaiah versus State of Andhra Pradesh, which dealt with creamy layer in Other Backward Classes category.",
+"object": {
+"text": "that creamy layer concept cannot be applied to the Scheduled Castes and Scheduled Tribes for promotions in government jobs like two earlier verdicts of 1992 Indra Sawhney and others versus Union of India (popularly called Mandal Commission verdict) and 2005 E V Chinnaiah versus State of Andhra Pradesh, which dealt with creamy layer in Other Backward Classes category"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "had said",
+"normalized": "have say"
+}
+},
+{
+"subject": {
+"text": "creamy layer concept"
+},
+"sentence": " The M Nagaraj verdict had said that creamy layer concept cannot be applied to the Scheduled Castes and Scheduled Tribes for promotions in government jobs like two earlier verdicts of 1992 Indra Sawhney and others versus Union of India (popularly called Mandal Commission verdict) and 2005 E V Chinnaiah versus State of Andhra Pradesh, which dealt with creamy layer in Other Backward Classes category.",
+"object": {
+"text": "applied to the Scheduled Castes and Scheduled Tribes"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "future",
+"negated": true
+},
+"text": "be",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "creamy layer concept"
+},
+"sentence": " The M Nagaraj verdict had said that creamy layer concept cannot be applied to the Scheduled Castes and Scheduled Tribes for promotions in government jobs like two earlier verdicts of 1992 Indra Sawhney and others versus Union of India (popularly called Mandal Commission verdict) and 2005 E V Chinnaiah versus State of Andhra Pradesh, which dealt with creamy layer in Other Backward Classes category.",
+"object": {
+"text": "to the Scheduled Castes and Scheduled Tribes for promotions in government jobs like two earlier verdicts of 1992 Indra Sawhney and others versus Union of India (popularly called Mandal Commission verdict) and 2005 E V Chinnaiah versus State of Andhra Pradesh, which dealt with creamy layer in Other Backward Classes category"
+},
+"action": {
+"verb": {
+"text": "apply",
+"tense": "future",
+"negated": true
+},
+"text": "applied",
+"normalized": "apply"
+}
+},
+{
+"subject": {
+"text": "with creamy layer"
+},
+"sentence": " The M Nagaraj verdict had said that creamy layer concept cannot be applied to the Scheduled Castes and Scheduled Tribes for promotions in government jobs like two earlier verdicts of 1992 Indra Sawhney and others versus Union of India (popularly called Mandal Commission verdict) and 2005 E V Chinnaiah versus State of Andhra Pradesh, which dealt with creamy layer in Other Backward Classes category.",
+"action": {
+"verb": {
+"text": "deal",
+"tense": "past"
+},
+"text": "dealt",
+"normalized": "deal"
+}
+},
+{
+"subject": {
+"text": "a three-judge bench of the apex court"
+},
+"sentence": " On November 15 last year, a three-judge bench of the apex court had agreed to consider whether its 11-year-old judgement in M Nagaraj case was needed to be re-visited.",
+"action": {
+"verb": {
+"text": "have",
+"tense": "past"
+},
+"text": "had agreed to consider",
+"normalized": "have agree to consider"
+}
+},
+{
+"subject": {
+"text": "a three-judge bench of the apex court"
+},
+"sentence": " On November 15 last year, a three-judge bench of the apex court had agreed to consider whether its 11-year-old judgement in M Nagaraj case was needed to be re-visited.",
+"object": {
+"text": "to consider whether its 11-year-old judgement in M Nagaraj case was needed to be re-visited"
+},
+"action": {
+"verb": {
+"text": "agree",
+"tense": "past"
+},
+"text": "agreed",
+"normalized": "agree"
+}
+},
+{
+"subject": {
+"text": "a three-judge bench of the apex court"
+},
+"sentence": " On November 15 last year, a three-judge bench of the apex court had agreed to consider whether its 11-year-old judgement in M Nagaraj case was needed to be re-visited.",
+"object": {
+"text": "whether its 11-year-old judgement in M Nagaraj case was needed to be re-visited"
+},
+"action": {
+"verb": {
+"text": "consider",
+"tense": "past"
+},
+"text": "had agreed to consider",
+"normalized": "have agree to consider"
+}
+},
+{
+"subject": {
+"text": "The nine-judge bench of Supreme Court"
+},
+"sentence": " The nine-judge bench of Supreme Court had, in the Indira Sawhney case in 1992, permitted reservation for the SCs and STs in promotion to continue for a period of five years from November 16, 1992.",
+"object": {
+"text": "reservation for the SCs and STs"
+},
+"action": {
+"verb": {
+"text": "permit",
+"tense": "past"
+},
+"text": "permitted",
+"normalized": "permit"
+}
+}
+],
+"relations": [
+{
+"type": "timeOf",
+"sentence": "NEW DELHI: The Centre on Friday asked all its departments and the state governments to implement reservation in promotion for employees belonging to Scheduled Caste (SC) and Scheduled Tribe (ST) categories.",
+"score": 0.967604,
+"arguments": [
+{
+"text": "Friday",
+"location": [
+25,
+31
+],
+"entities": [
+{
+"type": "Date",
+"text": "Friday"
+}
+]
+},
+{
+"text": "asked",
+"location": [
+32,
+37
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "asked"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "The personnel ministry order will be applicable to SC and ST category employees working with the Centre and the state governments, an officer said.",
+"score": 0.943212,
+"arguments": [
+{
+"text": "ministry",
+"location": [
+849,
+857
+],
+"entities": [
+{
+"type": "Organization",
+"text": "ministry",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+},
+{
+"text": "order",
+"location": [
+858,
+863
+],
+"entities": [
+{
+"type": "EventLegal",
+"text": "order"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "The personnel ministry order will be applicable to SC and ST category employees working with the Centre and the state governments, an officer said.",
+"score": 0.624491,
+"arguments": [
+{
+"text": "employees",
+"location": [
+905,
+914
+],
+"entities": [
+{
+"type": "Person",
+"text": "employees"
+}
+]
+},
+{
+"text": "order",
+"location": [
+858,
+863
+],
+"entities": [
+{
+"type": "EventLegal",
+"text": "order"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "The personnel ministry order will be applicable to SC and ST category employees working with the Centre and the state governments, an officer said.",
+"score": 0.949528,
+"arguments": [
+{
+"text": "officer",
+"location": [
+969,
+976
+],
+"entities": [
+{
+"type": "Person",
+"text": "officer"
+}
+]
+},
+{
+"text": "said",
+"location": [
+977,
+981
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "The apex court had on June 5 allowed the Centre to go ahead with reservation in promotion for employees belonging to the SC and ST category in \"accordance with law\".",
+"score": 0.508719,
+"arguments": [
+{
+"text": "employees",
+"location": [
+1077,
+1086
+],
+"entities": [
+{
+"type": "Person",
+"text": "employees"
+}
+]
+},
+{
+"text": "Centre",
+"location": [
+1024,
+1030
+],
+"entities": [
+{
+"type": "Organization",
+"text": "The Centre",
+"disambiguation": {
+"subtype": [
+"Commercial"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "timeOf",
+"sentence": "The top court took into account the Centre's submissions that entire process of promotion has come to a \"standstill\" due to the orders passed by various high courts and the apex court had also ordered for \"status quo\" in a similar matter in 2015.",
+"score": 0.784529,
+"arguments": [
+{
+"text": "2015",
+"location": [
+1390,
+1394
+],
+"entities": [
+{
+"type": "Date",
+"text": "2015"
+}
+]
+},
+{
+"text": "ordered",
+"location": [
+1342,
+1349
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "ordered"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "\"We will say you (Centre) can go ahead with promotion in accordance with law,\" a vacation bench comprising Justices Adarsh Kumar Goel and Ashok Bhushan had told Additional Solicitor General (ASG) Maninder Singh, representing the Centre.",
+"score": 0.910203,
+"arguments": [
+{
+"text": "We",
+"location": [
+1397,
+1399
+],
+"entities": [
+{
+"type": "Organization",
+"text": "courts"
+}
+]
+},
+{
+"text": "say",
+"location": [
+1405,
+1408
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "say"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "\"We will say you (Centre) can go ahead with promotion in accordance with law,\" a vacation bench comprising Justices Adarsh Kumar Goel and Ashok Bhushan had told Additional Solicitor General (ASG) Maninder Singh, representing the Centre.",
+"score": 0.80042,
+"arguments": [
+{
+"text": "you",
+"location": [
+1409,
+1412
+],
+"entities": [
+{
+"type": "Person",
+"text": "you"
+}
+]
+},
+{
+"text": "say",
+"location": [
+1405,
+1408
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "say"
+}
+]
+}
+]
+},
+{
+"type": "partOfMany",
+"sentence": "\"We will say you (Centre) can go ahead with promotion in accordance with law,\" a vacation bench comprising Justices Adarsh Kumar Goel and Ashok Bhushan had told Additional Solicitor General (ASG) Maninder Singh, representing the Centre.",
+"score": 0.890355,
+"arguments": [
+{
+"text": "Adarsh Kumar Goel",
+"location": [
+1512,
+1529
+],
+"entities": [
+{
+"type": "Person",
+"text": "Adarsh Kumar Goel"
+}
+]
+},
+{
+"text": "Justices",
+"location": [
+1503,
+1511
+],
+"entities": [
+{
+"type": "Person",
+"text": "Justices"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "\"We will say you (Centre) can go ahead with promotion in accordance with law,\" a vacation bench comprising Justices Adarsh Kumar Goel and Ashok Bhushan had told Additional Solicitor General (ASG) Maninder Singh, representing the Centre.",
+"score": 0.67948,
+"arguments": [
+{
+"text": "Ashok Bhushan",
+"location": [
+1534,
+1547
+],
+"entities": [
+{
+"type": "Person",
+"text": "Ashok Bhushan"
+}
+]
+},
+{
+"text": "told",
+"location": [
+1552,
+1556
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "managerOf",
+"sentence": "\"We will say you (Centre) can go ahead with promotion in accordance with law,\" a vacation bench comprising Justices Adarsh Kumar Goel and Ashok Bhushan had told Additional Solicitor General (ASG) Maninder Singh, representing the Centre.",
+"score": 0.415981,
+"arguments": [
+{
+"text": "Solicitor General",
+"location": [
+1568,
+1585
+],
+"entities": [
+{
+"type": "Person",
+"text": "Ashok Bhushan"
+}
+]
+},
+{
+"text": "Additional",
+"location": [
+1557,
+1567
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Additional",
+"disambiguation": {
+"subtype": [
+"Commercial"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "partOf",
+"sentence": "NEW DELHI: The Centre on Friday asked all its departments and the state governments to implement reservation in promotion for employees belonging to Scheduled Caste (SC) and Scheduled Tribe (ST) categories.",
+"score": 0.708638,
+"arguments": [
+{
+"text": "governments",
+"location": [
+72,
+83
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "governments",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+},
+{
+"text": "state",
+"location": [
+66,
+71
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Union of India"
+}
+]
+}
+]
+},
+{
+"type": "partOf",
+"sentence": "According to the order, besides the Central government departments concerned, state governments are also advised to take necessary action in this matter.",
+"score": 0.619559,
+"arguments": [
+{
+"text": "governments",
+"location": [
+765,
+776
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "governments",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+},
+{
+"text": "state",
+"location": [
+759,
+764
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Union of India"
+}
+]
+}
+]
+},
+{
+"type": "partOf",
+"sentence": "The personnel ministry order will be applicable to SC and ST category employees working with the Centre and the state governments, an officer said.",
+"score": 0.678884,
+"arguments": [
+{
+"text": "governments",
+"location": [
+953,
+964
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "governments",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+},
+{
+"text": "state",
+"location": [
+947,
+952
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Union of India"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "During the hearing, the ASG cited the case laws on the issue of quota in promotion in government jobs and stated that the apex court's 2006 judgement in M Nagaraj case would be applicable.",
+"score": 0.981952,
+"arguments": [
+{
+"text": "ASG",
+"location": [
+1657,
+1660
+],
+"entities": [
+{
+"type": "Organization",
+"text": "ASG"
+}
+]
+},
+{
+"text": "cited",
+"location": [
+1661,
+1666
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "cited"
+}
+]
+}
+]
+},
+{
+"type": "timeOf",
+"sentence": "The M Nagaraj verdict had said that creamy layer concept cannot be applied to the Scheduled Castes and Scheduled Tribes for promotions in government jobs like two earlier verdicts of 1992 Indra Sawhney and others versus Union of India (popularly called Mandal Commission verdict) and 2005 E V Chinnaiah versus State of Andhra Pradesh, which dealt with creamy layer in Other Backward Classes category.",
+"score": 0.796539,
+"arguments": [
+{
+"text": "1992",
+"location": [
+2005,
+2009
+],
+"entities": [
+{
+"type": "Date",
+"text": "1992"
+}
+]
+},
+{
+"text": "verdicts",
+"location": [
+1993,
+2001
+],
+"entities": [
+{
+"type": "EventLegal",
+"text": "verdicts"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "The M Nagaraj verdict had said that creamy layer concept cannot be applied to the Scheduled Castes and Scheduled Tribes for promotions in government jobs like two earlier verdicts of 1992 Indra Sawhney and others versus Union of India (popularly called Mandal Commission verdict) and 2005 E V Chinnaiah versus State of Andhra Pradesh, which dealt with creamy layer in Other Backward Classes category.",
+"score": 0.419391,
+"arguments": [
+{
+"text": "Indra Sawhney",
+"location": [
+2010,
+2023
+],
+"entities": [
+{
+"type": "Person",
+"text": "Indra Sawhney"
+}
+]
+},
+{
+"text": "verdicts",
+"location": [
+1993,
+2001
+],
+"entities": [
+{
+"type": "EventLegal",
+"text": "verdicts"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "The M Nagaraj verdict had said that creamy layer concept cannot be applied to the Scheduled Castes and Scheduled Tribes for promotions in government jobs like two earlier verdicts of 1992 Indra Sawhney and others versus Union of India (popularly called Mandal Commission verdict) and 2005 E V Chinnaiah versus State of Andhra Pradesh, which dealt with creamy layer in Other Backward Classes category.",
+"score": 0.810084,
+"arguments": [
+{
+"text": "Mandal Commission",
+"location": [
+2075,
+2092
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Mandal Commission"
+}
+]
+},
+{
+"text": "verdict",
+"location": [
+2093,
+2100
+],
+"entities": [
+{
+"type": "EventLegal",
+"text": "verdicts"
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "The M Nagaraj verdict had said that creamy layer concept cannot be applied to the Scheduled Castes and Scheduled Tribes for promotions in government jobs like two earlier verdicts of 1992 Indra Sawhney and others versus Union of India (popularly called Mandal Commission verdict) and 2005 E V Chinnaiah versus State of Andhra Pradesh, which dealt with creamy layer in Other Backward Classes category.",
+"score": 0.654864,
+"arguments": [
+{
+"text": "E V Chinnaiah",
+"location": [
+2111,
+2124
+],
+"entities": [
+{
+"type": "Person",
+"text": "E V Chinnaiah"
+}
+]
+},
+{
+"text": "Andhra Pradesh",
+"location": [
+2141,
+2155
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Andhra Pradesh",
+"disambiguation": {
+"subtype": [
+"Commercial"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "On November 15 last year, a three-judge bench of the apex court had agreed to consider whether its 11-year-old judgement in M Nagaraj case was needed to be re-visited.",
+"score": 0.40465,
+"arguments": [
+{
+"text": "its",
+"location": [
+2318,
+2321
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Union of India"
+}
+]
+},
+{
+"text": "case",
+"location": [
+2357,
+2361
+],
+"entities": [
+{
+"type": "EventLegal",
+"text": "case"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "The nine-judge bench of Supreme Court had, in the Indira Sawhney case in 1992, permitted reservation for the SCs and STs in promotion to continue for a period of five years from November 16, 1992.",
+"score": 0.740873,
+"arguments": [
+{
+"text": "Indira Sawhney",
+"location": [
+2441,
+2455
+],
+"entities": [
+{
+"type": "Person",
+"text": "Indira Sawhney"
+}
+]
+},
+{
+"text": "case",
+"location": [
+2456,
+2460
+],
+"entities": [
+{
+"type": "EventLegal",
+"text": "case"
+}
+]
+}
+]
+},
+{
+"type": "timeOf",
+"sentence": "The nine-judge bench of Supreme Court had, in the Indira Sawhney case in 1992, permitted reservation for the SCs and STs in promotion to continue for a period of five years from November 16, 1992.",
+"score": 0.872257,
+"arguments": [
+{
+"text": "1992",
+"location": [
+2464,
+2468
+],
+"entities": [
+{
+"type": "Date",
+"text": "1992"
+}
+]
+},
+{
+"text": "case",
+"location": [
+2456,
+2460
+],
+"entities": [
+{
+"type": "EventLegal",
+"text": "case"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "The personnel ministry, in an order, said, \"The cadre controlling authorities of Central government ministries, departments and Union territories are to carry out promotions in accordance with the directions of the Supreme Court.",
+"score": 0.54765,
+"arguments": [
+{
+"text": "personnel ministry",
+"location": [
+290,
+308
+],
+"entities": [
+{
+"type": "Person",
+"text": "personnel ministry"
+}
+]
+},
+{
+"text": "said",
+"location": [
+323,
+327
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "partOf",
+"sentence": "The personnel ministry, in an order, said, \"The cadre controlling authorities of Central government ministries, departments and Union territories are to carry out promotions in accordance with the directions of the Supreme Court.",
+"score": 0.464835,
+"arguments": [
+{
+"text": "authorities",
+"location": [
+352,
+363
+],
+"entities": [
+{
+"type": "Organization",
+"text": "departments",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+},
+{
+"text": "Central government",
+"location": [
+367,
+385
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Central government"
+}
+]
+}
+]
+},
+{
+"type": "partOf",
+"sentence": "According to the order, besides the Central government departments concerned, state governments are also advised to take necessary action in this matter.",
+"score": 0.996673,
+"arguments": [
+{
+"text": "departments",
+"location": [
+736,
+747
+],
+"entities": [
+{
+"type": "Organization",
+"text": "departments",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+},
+{
+"text": "Central government",
+"location": [
+717,
+735
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Central government"
+}
+]
+}
+]
+},
+{
+"type": "partOf",
+"sentence": "The personnel ministry, in an order, said, \"The cadre controlling authorities of Central government ministries, departments and Union territories are to carry out promotions in accordance with the directions of the Supreme Court.",
+"score": 0.381554,
+"arguments": [
+{
+"text": "authorities",
+"location": [
+352,
+363
+],
+"entities": [
+{
+"type": "Organization",
+"text": "departments",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+},
+{
+"text": "ministries",
+"location": [
+386,
+396
+],
+"entities": [
+{
+"type": "Organization",
+"text": "ministries"
+}
+]
+}
+]
+},
+{
+"type": "partOf",
+"sentence": "The personnel ministry, in an order, said, \"The cadre controlling authorities of Central government ministries, departments and Union territories are to carry out promotions in accordance with the directions of the Supreme Court.",
+"score": 0.967448,
+"arguments": [
+{
+"text": "ministries",
+"location": [
+386,
+396
+],
+"entities": [
+{
+"type": "Organization",
+"text": "ministries"
+}
+]
+},
+{
+"text": "Central government",
+"location": [
+367,
+385
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Central government"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "\" Every promotion order must clearly mention the stipulation that the promotion shall be subject to further orders which may be passed by the Supreme Court, it said.",
+"score": 0.746502,
+"arguments": [
+{
+"text": "Supreme Court",
+"location": [
+657,
+670
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Supreme Court",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+},
+{
+"text": "passed",
+"location": [
+643,
+649
+],
+"entities": [
+{
+"type": "EventLegislation",
+"text": "passed"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "According to the order, besides the Central government departments concerned, state governments are also advised to take necessary action in this matter.",
+"score": 0.578795,
+"arguments": [
+{
+"text": "departments",
+"location": [
+736,
+747
+],
+"entities": [
+{
+"type": "Organization",
+"text": "departments",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+},
+{
+"text": "advised",
+"location": [
+786,
+793
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "advised"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "According to the order, besides the Central government departments concerned, state governments are also advised to take necessary action in this matter.",
+"score": 0.670282,
+"arguments": [
+{
+"text": "governments",
+"location": [
+765,
+776
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "governments",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+},
+{
+"text": "advised",
+"location": [
+786,
+793
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "advised"
+}
+]
+}
+]
+}
+],
+"language": "en",
+"keywords": [
+{
+"text": "Supreme Court",
+"sentiment": {
+"score": 0.420659,
+"label": "positive"
+},
+"relevance": 0.969831,
+"emotion": {
+"sadness": 0.229117,
+"joy": 0.191174,
+"fear": 0.063025,
+"disgust": 0.08158,
+"anger": 0.268126
+}
+},
+{
+"text": "apex court",
+"sentiment": {
+"score": -0.306649,
+"label": "negative"
+},
+"relevance": 0.871658,
+"emotion": {
+"sadness": 0.149015,
+"joy": 0.042982,
+"fear": 0.03203,
+"disgust": 0.099251,
+"anger": 0.15022
+}
+},
+{
+"text": "state governments",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.791557,
+"emotion": {
+"sadness": 0.054727,
+"joy": 0.051021,
+"fear": 0.016106,
+"disgust": 0.031482,
+"anger": 0.104886
+}
+},
+{
+"text": "personnel ministry",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.676965,
+"emotion": {
+"sadness": 0.130925,
+"joy": 0.05397,
+"fear": 0.051316,
+"disgust": 0.04659,
+"anger": 0.086756
+}
+},
+{
+"text": "Indira Sawhney case",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.670078,
+"emotion": {
+"sadness": 0.176142,
+"joy": 0.07486,
+"fear": 0.028202,
+"disgust": 0.129153,
+"anger": 0.133477
+}
+}
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Supreme Court",
+"sentiment": {
+"score": 0.420659,
+"label": "positive"
+},
+"relevance": 0.873142,
+"emotion": {
+"sadness": 0.229117,
+"joy": 0.191174,
+"fear": 0.063025,
+"disgust": 0.08158,
+"anger": 0.268126
+},
+"count": 4
+},
+{
+"type": "Organization",
+"text": "apex court",
+"sentiment": {
+"score": -0.306649,
+"label": "negative"
+},
+"relevance": 0.75947,
+"emotion": {
+"sadness": 0.149015,
+"joy": 0.042982,
+"fear": 0.03203,
+"disgust": 0.099251,
+"anger": 0.15022
+},
+"count": 4
+},
+{
+"type": "Company",
+"text": "M Nagaraj",
+"sentiment": {
+"score": -0.405133,
+"label": "negative"
+},
+"relevance": 0.341846,
+"emotion": {
+"sadness": 0.235903,
+"joy": 0.04034,
+"fear": 0.135763,
+"disgust": 0.304555,
+"anger": 0.364875
+},
+"count": 2
+},
+{
+"type": "Person",
+"text": "Indra Sawhney",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.286954,
+"emotion": {
+"sadness": 0.251616,
+"joy": 0.126838,
+"fear": 0.113167,
+"disgust": 0.096267,
+"anger": 0.105526
+},
+"count": 1
+}
+],
+"concepts": [
+{
+"text": "India",
+"relevance": 0.975947,
+"dbpedia_resource": "http://dbpedia.org/resource/India"
+},
+{
+"text": "Indian caste system",
+"relevance": 0.955993,
+"dbpedia_resource": "http://dbpedia.org/resource/Indian_caste_system"
+},
+{
+"text": "Scheduled castes and scheduled tribes",
+"relevance": 0.89,
+"dbpedia_resource": "http://dbpedia.org/resource/Scheduled_castes_and_scheduled_tribes"
+},
+{
+"text": "Creamy layer",
+"relevance": 0.829184,
+"dbpedia_resource": "http://dbpedia.org/resource/Creamy_layer"
+}
+],
+"categories": [
+{
+"score": 0.544625,
+"label": "/law, govt and politics/government"
+},
+{
+"score": 0.323704,
+"label": "/law, govt and politics"
+},
+{
+"score": 0.203025,
+"label": "/law, govt and politics/law enforcement/police"
+}
+]
+}
+}

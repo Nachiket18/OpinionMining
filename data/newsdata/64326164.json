@@ -1,0 +1,2346 @@
+{
+"source_article_link": "https://timesofindia.indiatimes.com/india/tn-report-to-centre-anti-socials-prompted-firing-in-tuticorin/articleshow/64326164.cms?&utm_source=Articleshow&utm_medium=Organic&utm_campaign=Related_Stories",
+"title": "Tamil Nadu report to Centre: \u2018Anti-socials\u2019 prompted firing in Tuticorin",
+"date_published": "2018-05-26T04:59:23+05:30",
+"source_type": "news_article",
+"source_name": "timesofindia.indiatimes.com",
+"image_link": [
+"https://timesofindia.indiatimes.com/thumb/msid-64326167,imgsize-270954,width-400,resizemode-4/64326167.jpg"
+],
+"article_body": "CHENNAI: Suspected involvement of anti-social elements among the protestors in forced the state police to open fire, the government said in its report sent to the Union home ministry on Wednesday. The state also turned down the Centre\u2019s offer to send paramilitary forces to the southern port town. Violent protests against Sterlite Copper\u2019s smelter plant had killed 13 and injured more than 60 on Tuesday and Wednesday. A senior official said the state sent a report though the Centre had not sought one. Union home minister Rajnath Singh, however, had tweeted on Thursday that he did seek a report. \u201cI am deeply pained at the loss of precious lives during the agitation at Tuticorin in Tamil Nadu. The home ministry has taken cognisance of the situation and sought a report on the incident and the prevailing situation from the state government,\u201d he tweeted. The report detailed the situation in Tuticorin and steps taken to restore normalcy. It was sent a day after police opened fire and Union home secretary spoke to Tamil Nadu chief secretary to ascertain the situation in Tuticorin. The report detailed how the protestors set fire to vehicles and made unlawful entry into the collector\u2019s office in violation of orders under Section 144 of the CrPC. \u201cThe ministry did not seek specific reasons for the firing, but offered to send or another central paramilitary force to tackle the situation. The state government turned down the Centre\u2019s offer,\u201d the official said. \u201cAfter we sent the report, some officials from the Union home minister asked for more details. We sent additional details on Friday,\u201d the official said. The government also mentioned in the report about sending two senior IAS officers to assess and monitor the situation besides transferring the district collector and superintendent of police. It is during the discussions between the Union home secretary and Tamil Nadu chief secretary, the government decided to block internet access in Tuticorin, Tirunelveli and Kanyakumari to check the spread of rumours, said the officer. The law and order situation in Tuticorin is fast returning to normal even as miscreants torched a state government bus after intercepting it in a bridge on Friday evening. Three passengers suffered injuries in the incidents and were taken to the hospital.",
+"description": "CHENNAI: Suspected involvement of anti-social elements among the protestors in forced the state police to open fire, the government said in its report sent to the Union home ministry on Wednesday. The state also turned down the Centre\u2019s offer to send paramilitary forces to the southern port town. Violent protests against Sterlite Copper\u2019s smelter plant had killed 13 and injured more than 60 on Tuesday and Wednesday.",
+"time_scraped": "2018-08-23 21:01:08.521690",
+"article_id": "64326164",
+"article_category": "IndiaNews",
+"image_details": [
+{
+"url": "https://timesofindia.indiatimes.com/thumb/msid-64326167,imgsize-270954,width-400,resizemode-4/64326167.jpg",
+"path": "full/414e6d282a5fed3de94813d81117bff9034c0f7b.jpg",
+"checksum": "11b0873265a2bf86cdd86c76b80488a1"
+}
+],
+"ibm_nlu": {
+"usage": {
+"text_units": 1,
+"text_characters": 2305,
+"features": 7
+},
+"sentiment": {
+"document": {
+"score": -0.472785,
+"label": "negative"
+}
+},
+"semantic_roles": [
+{
+"subject": {
+"text": "the state police"
+},
+"sentence": "CHENNAI: Suspected involvement of anti-social elements among the protestors in forced the state police to open fire, the government said in its report sent to the Union home ministry on Wednesday.",
+"object": {
+"text": "to open fire"
+},
+"action": {
+"verb": {
+"text": "force",
+"tense": "past"
+},
+"text": "forced",
+"normalized": "force"
+}
+},
+{
+"subject": {
+"text": "the government"
+},
+"sentence": "CHENNAI: Suspected involvement of anti-social elements among the protestors in forced the state police to open fire, the government said in its report sent to the Union home ministry on Wednesday.",
+"object": {
+"text": "CHENNAI: Suspected involvement of anti-social elements among the protestors in forced the state police to open fire"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "its report"
+},
+"sentence": "CHENNAI: Suspected involvement of anti-social elements among the protestors in forced the state police to open fire, the government said in its report sent to the Union home ministry on Wednesday.",
+"object": {
+"text": "to the Union home ministry"
+},
+"action": {
+"verb": {
+"text": "send",
+"tense": "past"
+},
+"text": "sent",
+"normalized": "send"
+}
+},
+{
+"subject": {
+"text": "the Centre\u2019s"
+},
+"sentence": " The state also turned down the Centre\u2019s offer to send paramilitary forces to the southern port town.",
+"object": {
+"text": "paramilitary forces"
+},
+"action": {
+"verb": {
+"text": "send",
+"tense": "future"
+},
+"text": "offer to send",
+"normalized": "offer to send"
+}
+},
+{
+"subject": {
+"text": "Violent protests against Sterlite Copper\u2019s smelter plant"
+},
+"sentence": " Violent protests against Sterlite Copper\u2019s smelter plant had killed 13 and injured more than 60 on Tuesday and Wednesday.",
+"object": {
+"text": "13"
+},
+"action": {
+"verb": {
+"text": "kill",
+"tense": "past"
+},
+"text": "had killed",
+"normalized": "have kill"
+}
+},
+{
+"subject": {
+"text": "more than 60"
+},
+"sentence": " Violent protests against Sterlite Copper\u2019s smelter plant had killed 13 and injured more than 60 on Tuesday and Wednesday.",
+"action": {
+"verb": {
+"text": "injure",
+"tense": "past"
+},
+"text": "injured",
+"normalized": "injure"
+}
+},
+{
+"subject": {
+"text": "A senior official"
+},
+"sentence": " A senior official said the state sent a report though the Centre had not sought one.",
+"object": {
+"text": "the state sent a report though the Centre had not sought one"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "the Centre"
+},
+"sentence": " A senior official said the state sent a report though the Centre had not sought one.",
+"object": {
+"text": "one"
+},
+"action": {
+"verb": {
+"text": "seek",
+"tense": "past",
+"negated": true
+},
+"text": "sought",
+"normalized": "seek"
+}
+},
+{
+"subject": {
+"text": "Union home minister Rajnath Singh"
+},
+"sentence": " Union home minister Rajnath Singh, however, had tweeted on Thursday that he did seek a report.",
+"object": {
+"text": "tweeted on Thursday that he did seek a report"
+},
+"action": {
+"verb": {
+"text": "have",
+"tense": "past"
+},
+"text": "had",
+"normalized": "have"
+}
+},
+{
+"subject": {
+"text": "Union home minister Rajnath Singh"
+},
+"sentence": " Union home minister Rajnath Singh, however, had tweeted on Thursday that he did seek a report.",
+"object": {
+"text": "that he did seek a report"
+},
+"action": {
+"verb": {
+"text": "tweet",
+"tense": "past"
+},
+"text": "had tweeted",
+"normalized": "have tweet"
+}
+},
+{
+"subject": {
+"text": "The home ministry"
+},
+"sentence": " The home ministry has taken cognisance of the situation and sought a report on the incident and the prevailing situation from the state government,\u201d he tweeted.",
+"object": {
+"text": "taken cognisance of the situation"
+},
+"action": {
+"verb": {
+"text": "have",
+"tense": "present"
+},
+"text": "has",
+"normalized": "have"
+}
+},
+{
+"subject": {
+"text": "The home ministry"
+},
+"sentence": " The home ministry has taken cognisance of the situation and sought a report on the incident and the prevailing situation from the state government,\u201d he tweeted.",
+"object": {
+"text": "cognisance of the situation"
+},
+"action": {
+"verb": {
+"text": "take",
+"tense": "past"
+},
+"text": "has taken",
+"normalized": "have take"
+}
+},
+{
+"subject": {
+"text": "The home ministry"
+},
+"sentence": " The home ministry has taken cognisance of the situation and sought a report on the incident and the prevailing situation from the state government,\u201d he tweeted.",
+"object": {
+"text": "a report on the incident"
+},
+"action": {
+"verb": {
+"text": "seek",
+"tense": "past"
+},
+"text": "sought",
+"normalized": "seek"
+}
+},
+{
+"subject": {
+"text": "he"
+},
+"sentence": " The home ministry has taken cognisance of the situation and sought a report on the incident and the prevailing situation from the state government,\u201d he tweeted.",
+"object": {
+"text": "a report on the incident and the prevailing situation from the state government"
+},
+"action": {
+"verb": {
+"text": "tweet",
+"tense": "past"
+},
+"text": "tweeted",
+"normalized": "tweet"
+}
+},
+{
+"subject": {
+"text": "The report"
+},
+"sentence": " The report detailed the situation in Tuticorin and steps taken to restore normalcy.",
+"object": {
+"text": "the situation"
+},
+"action": {
+"verb": {
+"text": "detail",
+"tense": "past"
+},
+"text": "detailed",
+"normalized": "detail"
+}
+},
+{
+"subject": {
+"text": "The report"
+},
+"sentence": " The report detailed the situation in Tuticorin and steps taken to restore normalcy.",
+"object": {
+"text": "normalcy"
+},
+"action": {
+"verb": {
+"text": "restore",
+"tense": "future"
+},
+"text": "to restore",
+"normalized": "to restore"
+}
+},
+{
+"subject": {
+"text": "It"
+},
+"sentence": " It was sent a day after police opened fire and Union home secretary spoke to Tamil Nadu chief secretary to ascertain the situation in Tuticorin.",
+"object": {
+"text": "sent a day"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "was",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "police"
+},
+"sentence": " It was sent a day after police opened fire and Union home secretary spoke to Tamil Nadu chief secretary to ascertain the situation in Tuticorin.",
+"object": {
+"text": "fire"
+},
+"action": {
+"verb": {
+"text": "open",
+"tense": "past"
+},
+"text": "opened",
+"normalized": "open"
+}
+},
+{
+"subject": {
+"text": "police opened fire and Union home secretary"
+},
+"sentence": " It was sent a day after police opened fire and Union home secretary spoke to Tamil Nadu chief secretary to ascertain the situation in Tuticorin.",
+"object": {
+"text": "to ascertain the situation in Tuticorin"
+},
+"action": {
+"verb": {
+"text": "speak",
+"tense": "past"
+},
+"text": "spoke",
+"normalized": "speak"
+}
+},
+{
+"subject": {
+"text": "police"
+},
+"sentence": " It was sent a day after police opened fire and Union home secretary spoke to Tamil Nadu chief secretary to ascertain the situation in Tuticorin.",
+"object": {
+"text": "the situation"
+},
+"action": {
+"verb": {
+"text": "ascertain",
+"tense": "future"
+},
+"text": "to ascertain",
+"normalized": "to ascertain"
+}
+},
+{
+"subject": {
+"text": "The report"
+},
+"sentence": " The report detailed how the protestors set fire to vehicles and made unlawful entry into the collector\u2019s office in violation of orders under Section 144 of the CrPC.",
+"object": {
+"text": "how the protestors set fire to vehicles"
+},
+"action": {
+"verb": {
+"text": "detail",
+"tense": "past"
+},
+"text": "detailed",
+"normalized": "detail"
+}
+},
+{
+"subject": {
+"text": "the protestors"
+},
+"sentence": " The report detailed how the protestors set fire to vehicles and made unlawful entry into the collector\u2019s office in violation of orders under Section 144 of the CrPC.",
+"object": {
+"text": "unlawful entry"
+},
+"action": {
+"verb": {
+"text": "make",
+"tense": "past"
+},
+"text": "made",
+"normalized": "make"
+}
+},
+{
+"subject": {
+"text": "the collector"
+},
+"sentence": " The report detailed how the protestors set fire to vehicles and made unlawful entry into the collector\u2019s office in violation of orders under Section 144 of the CrPC.",
+"object": {
+"text": "office"
+},
+"action": {
+"verb": {
+"text": "has",
+"tense": "present"
+},
+"text": "s",
+"normalized": "s"
+}
+},
+{
+"subject": {
+"text": "The ministry"
+},
+"sentence": " \u201cThe ministry did not seek specific reasons for the firing, but offered to send or another central paramilitary force to tackle the situation.",
+"object": {
+"text": "not seek specific reasons for the firing"
+},
+"action": {
+"verb": {
+"text": "do",
+"tense": "past"
+},
+"text": "did",
+"normalized": "do"
+}
+},
+{
+"subject": {
+"text": "The ministry"
+},
+"sentence": " \u201cThe ministry did not seek specific reasons for the firing, but offered to send or another central paramilitary force to tackle the situation.",
+"object": {
+"text": "specific reasons for the firing"
+},
+"action": {
+"verb": {
+"text": "seek",
+"tense": "past",
+"negated": true
+},
+"text": "seek",
+"normalized": "seek"
+}
+},
+{
+"subject": {
+"text": "central paramilitary force"
+},
+"sentence": " \u201cThe ministry did not seek specific reasons for the firing, but offered to send or another central paramilitary force to tackle the situation.",
+"object": {
+"text": "to tackle the situation"
+},
+"action": {
+"verb": {
+"text": "send",
+"tense": "future"
+},
+"text": "offered to send",
+"normalized": "offer to send"
+}
+},
+{
+"subject": {
+"text": "the official"
+},
+"sentence": " The state government turned down the Centre\u2019s offer,\u201d the official said.",
+"object": {
+"text": "The state government turned down the Centre\u2019s offer"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "we"
+},
+"sentence": " \u201cAfter we sent the report, some officials from the Union home minister asked for more details.",
+"object": {
+"text": "the report"
+},
+"action": {
+"verb": {
+"text": "send",
+"tense": "past"
+},
+"text": "sent",
+"normalized": "send"
+}
+},
+{
+"subject": {
+"text": "some officials from the Union home minister"
+},
+"sentence": " \u201cAfter we sent the report, some officials from the Union home minister asked for more details.",
+"object": {
+"text": "for more details"
+},
+"action": {
+"verb": {
+"text": "ask",
+"tense": "past"
+},
+"text": "asked",
+"normalized": "ask"
+}
+},
+{
+"subject": {
+"text": "We"
+},
+"sentence": " We sent additional details on Friday,\u201d the official said.",
+"object": {
+"text": "additional details"
+},
+"action": {
+"verb": {
+"text": "send",
+"tense": "past"
+},
+"text": "sent",
+"normalized": "send"
+}
+},
+{
+"subject": {
+"text": "the official"
+},
+"sentence": " We sent additional details on Friday,\u201d the official said.",
+"object": {
+"text": "We sent additional details on Friday"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "The government"
+},
+"sentence": " The government also mentioned in the report about sending two senior IAS officers to assess and monitor the situation besides transferring the district collector and superintendent of police.",
+"action": {
+"verb": {
+"text": "mention",
+"tense": "past"
+},
+"text": "mentioned",
+"normalized": "mention"
+}
+},
+{
+"subject": {
+"text": "The government"
+},
+"sentence": " The government also mentioned in the report about sending two senior IAS officers to assess and monitor the situation besides transferring the district collector and superintendent of police.",
+"object": {
+"text": "two senior IAS officers"
+},
+"action": {
+"verb": {
+"text": "send",
+"tense": "present"
+},
+"text": "sending",
+"normalized": "send"
+}
+},
+{
+"subject": {
+"text": "two senior IAS officers"
+},
+"sentence": " The government also mentioned in the report about sending two senior IAS officers to assess and monitor the situation besides transferring the district collector and superintendent of police.",
+"object": {
+"text": "the situation besides transferring the district collector"
+},
+"action": {
+"verb": {
+"text": "assess",
+"tense": "future"
+},
+"text": "to assess",
+"normalized": "to assess"
+}
+},
+{
+"subject": {
+"text": "It"
+},
+"sentence": " It is during the discussions between the Union home secretary and Tamil Nadu chief secretary, the government decided to block internet access in Tuticorin, Tirunelveli and Kanyakumari to check the spread of rumours, said the officer.",
+"action": {
+"verb": {
+"text": "be",
+"tense": "present"
+},
+"text": "is",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "the government"
+},
+"sentence": " It is during the discussions between the Union home secretary and Tamil Nadu chief secretary, the government decided to block internet access in Tuticorin, Tirunelveli and Kanyakumari to check the spread of rumours, said the officer.",
+"object": {
+"text": "to block internet access in Tuticorin, Tirunelveli and Kanyakumari"
+},
+"action": {
+"verb": {
+"text": "decide",
+"tense": "past"
+},
+"text": "decided",
+"normalized": "decide"
+}
+},
+{
+"subject": {
+"text": "the government"
+},
+"sentence": " It is during the discussions between the Union home secretary and Tamil Nadu chief secretary, the government decided to block internet access in Tuticorin, Tirunelveli and Kanyakumari to check the spread of rumours, said the officer.",
+"object": {
+"text": "internet access in Tuticorin, Tirunelveli and Kanyakumari"
+},
+"action": {
+"verb": {
+"text": "block",
+"tense": "future"
+},
+"text": "decided to block",
+"normalized": "decide to block"
+}
+},
+{
+"subject": {
+"text": "the government"
+},
+"sentence": " It is during the discussions between the Union home secretary and Tamil Nadu chief secretary, the government decided to block internet access in Tuticorin, Tirunelveli and Kanyakumari to check the spread of rumours, said the officer.",
+"object": {
+"text": "the spread of rumours"
+},
+"action": {
+"verb": {
+"text": "check",
+"tense": "future"
+},
+"text": "to check",
+"normalized": "to check"
+}
+},
+{
+"subject": {
+"text": "the officer"
+},
+"sentence": " It is during the discussions between the Union home secretary and Tamil Nadu chief secretary, the government decided to block internet access in Tuticorin, Tirunelveli and Kanyakumari to check the spread of rumours, said the officer.",
+"object": {
+"text": "It is during the discussions between the Union home secretary and Tamil Nadu chief secretary, the government decided to block internet access in Tuticorin, Tirunelveli and Kanyakumari to check the spread of rumours"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "The law and order situation in Tuticorin"
+},
+"sentence": " The law and order situation in Tuticorin is fast returning to normal even as miscreants torched a state government bus after intercepting it in a bridge on Friday evening.",
+"object": {
+"text": "fast returning to normal even as miscreants torched a state government bus"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "present"
+},
+"text": "is",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "miscreants"
+},
+"sentence": " The law and order situation in Tuticorin is fast returning to normal even as miscreants torched a state government bus after intercepting it in a bridge on Friday evening.",
+"object": {
+"text": "it"
+},
+"action": {
+"verb": {
+"text": "intercept",
+"tense": "present"
+},
+"text": "intercepting",
+"normalized": "intercept"
+}
+},
+{
+"subject": {
+"text": "Three passengers"
+},
+"sentence": " Three passengers suffered injuries in the incidents and were taken to the hospital.",
+"object": {
+"text": "injuries"
+},
+"action": {
+"verb": {
+"text": "suffer",
+"tense": "past"
+},
+"text": "suffered",
+"normalized": "suffer"
+}
+}
+],
+"relations": [
+{
+"type": "partOf",
+"sentence": "CHENNAI: Suspected involvement of anti-social elements among the protestors in forced the state police to open fire, the government said in its report sent to the Union home ministry on Wednesday.",
+"score": 0.995415,
+"arguments": [
+{
+"text": "police",
+"location": [
+96,
+102
+],
+"entities": [
+{
+"type": "Organization",
+"text": "police",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+},
+{
+"text": "state",
+"location": [
+90,
+95
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Centre"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "The home ministry has taken cognisance of the situation and sought a report on the incident and the prevailing situation from the state government,\" he tweeted.",
+"score": 0.988643,
+"arguments": [
+{
+"text": "he",
+"location": [
+848,
+850
+],
+"entities": [
+{
+"type": "Person",
+"text": "Rajnath Singh"
+}
+]
+},
+{
+"text": "tweeted",
+"location": [
+851,
+858
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "tweeted"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "It was sent a day after police opened fire and Union home secretary spoke to Tamil Nadu chief secretary to ascertain the situation in Tuticorin.",
+"score": 0.89168,
+"arguments": [
+{
+"text": "police",
+"location": [
+968,
+974
+],
+"entities": [
+{
+"type": "Organization",
+"text": "police",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+},
+{
+"text": "opened fire",
+"location": [
+975,
+986
+],
+"entities": [
+{
+"type": "Crime",
+"text": "opened fire"
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "It was sent a day after police opened fire and Union home secretary spoke to Tamil Nadu chief secretary to ascertain the situation in Tuticorin.",
+"score": 0.419173,
+"arguments": [
+{
+"text": "home secretary",
+"location": [
+997,
+1011
+],
+"entities": [
+{
+"type": "Person",
+"text": "home secretary"
+}
+]
+},
+{
+"text": "police",
+"location": [
+968,
+974
+],
+"entities": [
+{
+"type": "Organization",
+"text": "police",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "diedOf",
+"sentence": "It was sent a day after police opened fire and Union home secretary spoke to Tamil Nadu chief secretary to ascertain the situation in Tuticorin.",
+"score": 0.320299,
+"arguments": [
+{
+"text": "home secretary",
+"location": [
+997,
+1011
+],
+"entities": [
+{
+"type": "Person",
+"text": "home secretary"
+}
+]
+},
+{
+"text": "opened fire",
+"location": [
+975,
+986
+],
+"entities": [
+{
+"type": "Crime",
+"text": "opened fire"
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "It was sent a day after police opened fire and Union home secretary spoke to Tamil Nadu chief secretary to ascertain the situation in Tuticorin.",
+"score": 0.460818,
+"arguments": [
+{
+"text": "home secretary",
+"location": [
+997,
+1011
+],
+"entities": [
+{
+"type": "Person",
+"text": "home secretary"
+}
+]
+},
+{
+"text": "Union",
+"location": [
+991,
+996
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Union"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "It was sent a day after police opened fire and Union home secretary spoke to Tamil Nadu chief secretary to ascertain the situation in Tuticorin.",
+"score": 0.987266,
+"arguments": [
+{
+"text": "home secretary",
+"location": [
+997,
+1011
+],
+"entities": [
+{
+"type": "Person",
+"text": "home secretary"
+}
+]
+},
+{
+"text": "spoke",
+"location": [
+1012,
+1017
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "tweeted"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "It was sent a day after police opened fire and Union home secretary spoke to Tamil Nadu chief secretary to ascertain the situation in Tuticorin.",
+"score": 0.836734,
+"arguments": [
+{
+"text": "chief secretary",
+"location": [
+1032,
+1047
+],
+"entities": [
+{
+"type": "Person",
+"text": "chief secretary"
+}
+]
+},
+{
+"text": "spoke",
+"location": [
+1012,
+1017
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "tweeted"
+}
+]
+}
+]
+},
+{
+"type": "residesIn",
+"sentence": "It was sent a day after police opened fire and Union home secretary spoke to Tamil Nadu chief secretary to ascertain the situation in Tuticorin.",
+"score": 0.465442,
+"arguments": [
+{
+"text": "chief secretary",
+"location": [
+1032,
+1047
+],
+"entities": [
+{
+"type": "Person",
+"text": "chief secretary"
+}
+]
+},
+{
+"text": "Tamil Nadu",
+"location": [
+1021,
+1031
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Tamil Nadu"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "It was sent a day after police opened fire and Union home secretary spoke to Tamil Nadu chief secretary to ascertain the situation in Tuticorin.",
+"score": 0.50907,
+"arguments": [
+{
+"text": "chief secretary",
+"location": [
+1032,
+1047
+],
+"entities": [
+{
+"type": "Person",
+"text": "chief secretary"
+}
+]
+},
+{
+"text": "Tuticorin",
+"location": [
+1078,
+1087
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Tuticorin"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "The report detailed how the protestors set fire to vehicles and made unlawful entry into the collector's office in violation of orders under Section 144 of the CrPC.",
+"score": 0.744124,
+"arguments": [
+{
+"text": "protestors",
+"location": [
+1117,
+1127
+],
+"entities": [
+{
+"type": "Person",
+"text": "protestors"
+}
+]
+},
+{
+"text": "vehicles",
+"location": [
+1140,
+1148
+],
+"entities": [
+{
+"type": "Vehicle",
+"text": "vehicles"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "CHENNAI: Suspected involvement of anti-social elements among the protestors in forced the state police to open fire, the government said in its report sent to the Union home ministry on Wednesday.",
+"score": 0.967002,
+"arguments": [
+{
+"text": "government",
+"location": [
+121,
+131
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "government",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+},
+{
+"text": "said",
+"location": [
+132,
+136
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "The report detailed how the protestors set fire to vehicles and made unlawful entry into the collector's office in violation of orders under Section 144 of the CrPC.",
+"score": 0.629111,
+"arguments": [
+{
+"text": "vehicles",
+"location": [
+1140,
+1148
+],
+"entities": [
+{
+"type": "Vehicle",
+"text": "vehicles"
+}
+]
+},
+{
+"text": "office",
+"location": [
+1194,
+1200
+],
+"entities": [
+{
+"type": "Facility",
+"text": "office"
+}
+]
+}
+]
+},
+{
+"type": "ownerOf",
+"sentence": "The report detailed how the protestors set fire to vehicles and made unlawful entry into the collector's office in violation of orders under Section 144 of the CrPC.",
+"score": 0.669469,
+"arguments": [
+{
+"text": "collector",
+"location": [
+1182,
+1191
+],
+"entities": [
+{
+"type": "Person",
+"text": "collector"
+}
+]
+},
+{
+"text": "office",
+"location": [
+1194,
+1200
+],
+"entities": [
+{
+"type": "Facility",
+"text": "office"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "The state government turned down the Centre's offer,\" the official said.",
+"score": 0.983883,
+"arguments": [
+{
+"text": "official",
+"location": [
+1456,
+1464
+],
+"entities": [
+{
+"type": "Person",
+"text": "senior official"
+}
+]
+},
+{
+"text": "said",
+"location": [
+1465,
+1469
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "tweeted"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "We sent additional details on Friday,\" the official said.",
+"score": 0.981767,
+"arguments": [
+{
+"text": "official",
+"location": [
+1609,
+1617
+],
+"entities": [
+{
+"type": "Person",
+"text": "senior official"
+}
+]
+},
+{
+"text": "said",
+"location": [
+1618,
+1622
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "tweeted"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "\"After we sent the report, some officials from the Union home minister asked for more details.",
+"score": 0.667815,
+"arguments": [
+{
+"text": "officials",
+"location": [
+1503,
+1512
+],
+"entities": [
+{
+"type": "Person",
+"text": "officials"
+}
+]
+},
+{
+"text": "asked",
+"location": [
+1542,
+1547
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "asked"
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "\"After we sent the report, some officials from the Union home minister asked for more details.",
+"score": 0.587004,
+"arguments": [
+{
+"text": "home minister",
+"location": [
+1528,
+1541
+],
+"entities": [
+{
+"type": "Person",
+"text": "home minister"
+}
+]
+},
+{
+"text": "Union",
+"location": [
+1522,
+1527
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Union"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "\"After we sent the report, some officials from the Union home minister asked for more details.",
+"score": 0.822506,
+"arguments": [
+{
+"text": "home minister",
+"location": [
+1528,
+1541
+],
+"entities": [
+{
+"type": "Person",
+"text": "home minister"
+}
+]
+},
+{
+"text": "asked",
+"location": [
+1542,
+1547
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "asked"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "The government also mentioned in the report about sending two senior IAS officers to assess and monitor the situation besides transferring the district collector and superintendent of police.",
+"score": 0.853232,
+"arguments": [
+{
+"text": "government",
+"location": [
+1628,
+1638
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "government",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+},
+{
+"text": "mentioned",
+"location": [
+1644,
+1653
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "mentioned"
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "The government also mentioned in the report about sending two senior IAS officers to assess and monitor the situation besides transferring the district collector and superintendent of police.",
+"score": 0.799313,
+"arguments": [
+{
+"text": "officers",
+"location": [
+1697,
+1705
+],
+"entities": [
+{
+"type": "Person",
+"text": "officers"
+}
+]
+},
+{
+"text": "IAS",
+"location": [
+1693,
+1696
+],
+"entities": [
+{
+"type": "Organization",
+"text": "IAS",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "The government also mentioned in the report about sending two senior IAS officers to assess and monitor the situation besides transferring the district collector and superintendent of police.",
+"score": 0.543492,
+"arguments": [
+{
+"text": "collector",
+"location": [
+1776,
+1785
+],
+"entities": [
+{
+"type": "Person",
+"text": "collector"
+}
+]
+},
+{
+"text": "district",
+"location": [
+1767,
+1775
+],
+"entities": [
+{
+"type": "Organization",
+"text": "district"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "It is during the discussions between the Union home secretary and Tamil Nadu chief secretary, the government decided to block internet access in Tuticorin, Tirunelveli and Kanyakumari to check the spread of rumours, said the officer.",
+"score": 0.697628,
+"arguments": [
+{
+"text": "discussions",
+"location": [
+1833,
+1844
+],
+"entities": [
+{
+"type": "EventMeeting",
+"text": "discussions"
+}
+]
+},
+{
+"text": "home",
+"location": [
+1863,
+1867
+],
+"entities": [
+{
+"type": "Facility",
+"text": "home"
+}
+]
+}
+]
+},
+{
+"type": "ownerOf",
+"sentence": "CHENNAI: Suspected involvement of anti-social elements among the protestors in forced the state police to open fire, the government said in its report sent to the Union home ministry on Wednesday.",
+"score": 0.268092,
+"arguments": [
+{
+"text": "Union",
+"location": [
+163,
+168
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Union"
+}
+]
+},
+{
+"text": "home",
+"location": [
+169,
+173
+],
+"entities": [
+{
+"type": "Facility",
+"text": "home"
+}
+]
+}
+]
+},
+{
+"type": "basedIn",
+"sentence": "It is during the discussions between the Union home secretary and Tamil Nadu chief secretary, the government decided to block internet access in Tuticorin, Tirunelveli and Kanyakumari to check the spread of rumours, said the officer.",
+"score": 0.253516,
+"arguments": [
+{
+"text": "Union",
+"location": [
+1857,
+1862
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Union"
+}
+]
+},
+{
+"text": "home",
+"location": [
+1863,
+1867
+],
+"entities": [
+{
+"type": "Facility",
+"text": "home"
+}
+]
+}
+]
+},
+{
+"type": "managerOf",
+"sentence": "It is during the discussions between the Union home secretary and Tamil Nadu chief secretary, the government decided to block internet access in Tuticorin, Tirunelveli and Kanyakumari to check the spread of rumours, said the officer.",
+"score": 0.38556,
+"arguments": [
+{
+"text": "chief secretary",
+"location": [
+1893,
+1908
+],
+"entities": [
+{
+"type": "Person",
+"text": "chief secretary"
+}
+]
+},
+{
+"text": "Tamil Nadu",
+"location": [
+1882,
+1892
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Tamil Nadu",
+"disambiguation": {
+"subtype": [
+"Political"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "It is during the discussions between the Union home secretary and Tamil Nadu chief secretary, the government decided to block internet access in Tuticorin, Tirunelveli and Kanyakumari to check the spread of rumours, said the officer.",
+"score": 0.568559,
+"arguments": [
+{
+"text": "Tuticorin",
+"location": [
+1961,
+1970
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Tuticorin"
+}
+]
+},
+{
+"text": "Tirunelveli",
+"location": [
+1972,
+1983
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Tirunelveli"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "It is during the discussions between the Union home secretary and Tamil Nadu chief secretary, the government decided to block internet access in Tuticorin, Tirunelveli and Kanyakumari to check the spread of rumours, said the officer.",
+"score": 0.638972,
+"arguments": [
+{
+"text": "officer",
+"location": [
+2041,
+2048
+],
+"entities": [
+{
+"type": "Person",
+"text": "officer"
+}
+]
+},
+{
+"text": "said",
+"location": [
+2032,
+2036
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "tweeted"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "The law and order situation in Tuticorin is fast returning to normal even as miscreants torched a state government bus after intercepting it in a bridge on Friday evening.",
+"score": 0.493097,
+"arguments": [
+{
+"text": "miscreants",
+"location": [
+2127,
+2137
+],
+"entities": [
+{
+"type": "Person",
+"text": "miscreants"
+}
+]
+},
+{
+"text": "bridge",
+"location": [
+2196,
+2202
+],
+"entities": [
+{
+"type": "Facility",
+"text": "hospital"
+}
+]
+}
+]
+},
+{
+"type": "ownerOf",
+"sentence": "The law and order situation in Tuticorin is fast returning to normal even as miscreants torched a state government bus after intercepting it in a bridge on Friday evening.",
+"score": 0.814752,
+"arguments": [
+{
+"text": "government",
+"location": [
+2154,
+2164
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "government",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+},
+{
+"text": "bus",
+"location": [
+2165,
+2168
+],
+"entities": [
+{
+"type": "Vehicle",
+"text": "bus"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "The law and order situation in Tuticorin is fast returning to normal even as miscreants torched a state government bus after intercepting it in a bridge on Friday evening.",
+"score": 0.790616,
+"arguments": [
+{
+"text": "bus",
+"location": [
+2165,
+2168
+],
+"entities": [
+{
+"type": "Vehicle",
+"text": "bus"
+}
+]
+},
+{
+"text": "bridge",
+"location": [
+2196,
+2202
+],
+"entities": [
+{
+"type": "Facility",
+"text": "hospital"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Three passengers suffered injuries in the incidents and were taken to the hospital.",
+"score": 0.552499,
+"arguments": [
+{
+"text": "passengers",
+"location": [
+2228,
+2238
+],
+"entities": [
+{
+"type": "Person",
+"text": "passengers"
+}
+]
+},
+{
+"text": "incidents",
+"location": [
+2264,
+2273
+],
+"entities": [
+{
+"type": "EventViolence",
+"text": "incidents"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "A senior official said the state sent a report though the Centre had not sought one.",
+"score": 0.961758,
+"arguments": [
+{
+"text": "senior official",
+"location": [
+422,
+437
+],
+"entities": [
+{
+"type": "Person",
+"text": "senior official"
+}
+]
+},
+{
+"text": "said",
+"location": [
+438,
+442
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "Union home minister Rajnath Singh, however, had tweeted on Thursday that he did seek a report.",
+"score": 0.726395,
+"arguments": [
+{
+"text": "home minister",
+"location": [
+511,
+524
+],
+"entities": [
+{
+"type": "Person",
+"text": "Rajnath Singh"
+}
+]
+},
+{
+"text": "Union",
+"location": [
+505,
+510
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Union"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Union home minister Rajnath Singh, however, had tweeted on Thursday that he did seek a report.",
+"score": 0.941211,
+"arguments": [
+{
+"text": "he",
+"location": [
+578,
+580
+],
+"entities": [
+{
+"type": "Person",
+"text": "Rajnath Singh"
+}
+]
+},
+{
+"text": "report",
+"location": [
+592,
+598
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "report"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "\"I am deeply pained at the loss of precious lives during the agitation at Tuticorin in Tamil Nadu.",
+"score": 0.976974,
+"arguments": [
+{
+"text": "Tuticorin",
+"location": [
+674,
+683
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Tuticorin"
+}
+]
+},
+{
+"text": "Tamil Nadu",
+"location": [
+687,
+697
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Tamil Nadu"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "The home ministry has taken cognisance of the situation and sought a report on the incident and the prevailing situation from the state government,\" he tweeted.",
+"score": 0.651432,
+"arguments": [
+{
+"text": "ministry",
+"location": [
+708,
+716
+],
+"entities": [
+{
+"type": "Organization",
+"text": "ministry",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+},
+{
+"text": "report",
+"location": [
+768,
+774
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "report"
+}
+]
+}
+]
+},
+{
+"type": "partOf",
+"sentence": "The home ministry has taken cognisance of the situation and sought a report on the incident and the prevailing situation from the state government,\" he tweeted.",
+"score": 0.672462,
+"arguments": [
+{
+"text": "government",
+"location": [
+835,
+845
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "government",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+},
+{
+"text": "state",
+"location": [
+829,
+834
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Centre"
+}
+]
+}
+]
+},
+{
+"type": "partOf",
+"sentence": "The state government turned down the Centre's offer,\" the official said.",
+"score": 0.565526,
+"arguments": [
+{
+"text": "government",
+"location": [
+1408,
+1418
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "government",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+},
+{
+"text": "state",
+"location": [
+1402,
+1407
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Centre"
+}
+]
+}
+]
+},
+{
+"type": "partOf",
+"sentence": "The law and order situation in Tuticorin is fast returning to normal even as miscreants torched a state government bus after intercepting it in a bridge on Friday evening.",
+"score": 0.623681,
+"arguments": [
+{
+"text": "government",
+"location": [
+2154,
+2164
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "government",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+},
+{
+"text": "state",
+"location": [
+2148,
+2153
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Centre"
+}
+]
+}
+]
+}
+],
+"language": "en",
+"keywords": [
+{
+"text": "Union home",
+"sentiment": {
+"score": 0.007918,
+"label": "positive"
+},
+"relevance": 0.930614,
+"emotion": {
+"sadness": 0.367662,
+"joy": 0.166504,
+"fear": 0.188465,
+"disgust": 0.269288,
+"anger": 0.226965
+}
+},
+{
+"text": "Nadu chief secretary",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.81956,
+"emotion": {
+"sadness": 0.326128,
+"joy": 0.115285,
+"fear": 0.197156,
+"disgust": 0.249191,
+"anger": 0.389933
+}
+},
+{
+"text": "Tamil Nadu chief",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.810285,
+"emotion": {
+"sadness": 0.326128,
+"joy": 0.115285,
+"fear": 0.197156,
+"disgust": 0.249191,
+"anger": 0.389933
+}
+},
+{
+"text": "Union home secretary",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.776925,
+"emotion": {
+"sadness": 0.326128,
+"joy": 0.115285,
+"fear": 0.197156,
+"disgust": 0.249191,
+"anger": 0.389933
+}
+},
+{
+"text": "Union home minister",
+"sentiment": {
+"score": 0.41619,
+"label": "positive"
+},
+"relevance": 0.774352,
+"emotion": {
+"sadness": 0.335894,
+"joy": 0.248688,
+"fear": 0.117331,
+"disgust": 0.157746,
+"anger": 0.048109
+}
+}
+],
+"entities": [
+{
+"type": "Location",
+"text": "Tuticorin",
+"sentiment": {
+"score": -0.54026,
+"label": "negative"
+},
+"relevance": 0.961184,
+"emotion": {
+"sadness": 0.540181,
+"joy": 0.07345,
+"fear": 0.172444,
+"disgust": 0.195177,
+"anger": 0.342912
+},
+"disambiguation": {
+"subtype": [
+"City"
+],
+"name": "Thoothukudi",
+"dbpedia_resource": "http://dbpedia.org/resource/Thoothukudi"
+},
+"count": 5
+},
+{
+"type": "Organization",
+"text": "Union home ministry",
+"sentiment": {
+"score": -0.396944,
+"label": "negative"
+},
+"relevance": 0.631902,
+"emotion": {
+"sadness": 0.446796,
+"joy": 0.053698,
+"fear": 0.219712,
+"disgust": 0.264163,
+"anger": 0.190689
+},
+"disambiguation": {
+"subtype": [
+"GovernmentAgency"
+],
+"name": "Ministry of Home Affairs (India)",
+"dbpedia_resource": "http://dbpedia.org/resource/Ministry_of_Home_Affairs_(India)"
+},
+"count": 2
+},
+{
+"type": "Organization",
+"text": "Tamil Nadu",
+"sentiment": {
+"score": -0.781003,
+"label": "negative"
+},
+"relevance": 0.625386,
+"emotion": {
+"sadness": 0.555126,
+"joy": 0.114364,
+"fear": 0.135826,
+"disgust": 0.191363,
+"anger": 0.289277
+},
+"count": 3
+},
+{
+"type": "JobTitle",
+"text": "secretary",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.515534,
+"emotion": {
+"sadness": 0.258529,
+"joy": 0.150183,
+"fear": 0.152688,
+"disgust": 0.273584,
+"anger": 0.438971
+},
+"count": 4
+},
+{
+"type": "JobTitle",
+"text": "official",
+"sentiment": {
+"score": 0.404386,
+"label": "positive"
+},
+"relevance": 0.429771,
+"emotion": {
+"sadness": 0.247643,
+"joy": 0.24893,
+"fear": 0.18719,
+"disgust": 0.128828,
+"anger": 0.068647
+},
+"count": 5
+}
+],
+"concepts": [
+{
+"text": "Tamil Nadu",
+"relevance": 0.982601,
+"dbpedia_resource": "http://dbpedia.org/resource/Tamil_Nadu"
+},
+{
+"text": "State",
+"relevance": 0.729751,
+"dbpedia_resource": "http://dbpedia.org/resource/State_(polity)"
+},
+{
+"text": "Lal Krishna Advani",
+"relevance": 0.677143,
+"dbpedia_resource": "http://dbpedia.org/resource/Lal_Krishna_Advani"
+},
+{
+"text": "Government",
+"relevance": 0.666798,
+"dbpedia_resource": "http://dbpedia.org/resource/Government"
+},
+{
+"text": "Paramilitary",
+"relevance": 0.644805,
+"dbpedia_resource": "http://dbpedia.org/resource/Paramilitary"
+}
+],
+"categories": [
+{
+"score": 0.505014,
+"label": "/law, govt and politics/government"
+},
+{
+"score": 0.471651,
+"label": "/law, govt and politics/law enforcement/police"
+},
+{
+"score": 0.38325,
+"label": "/law, govt and politics/government/state and local government"
+}
+]
+}
+}

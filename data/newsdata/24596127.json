@@ -1,0 +1,22 @@
+{
+"source_article_link": "https://www.thehindu.com/news/national/who-put-the-uidai-in-your-phone-book/article24596127.ece",
+"title": "Google says mea culpa on UIDAI in phone books - The Hindu",
+"date_published": "2018-08-03T22:42:31+05:30",
+"source_type": "news",
+"source_name": "Hindu",
+"image_link": [
+"https://www.thehindu.com/news/national/yo43l5/article24596126.ece/ALTERNATES/FREE_1080/man%20surprised"
+],
+"article_body": "Thousands of smartphone users got spooked on Thursday and Friday when they discovered the presence of a mysterious number in their contacts list. The number, 1800-300-1947, was saved under the name \u2018UIDAI\u2019 and is the toll-free helpline of the Unique Identification Authority of India (UIDAI), the statutory body in charge of Aadhaar. But what triggered confusion was the fact that it had entered people\u2019s phone books without their knowledge and consent. Panic on Twitter It all began with a simple question from a French security expert, Robert Baptiste, who goes by the pseudonym, Elliot Alderson on Twitter. \u201cDo you have @UIDAI in your contact list by default?\u201d he tweeted on Thursday. When a flood of replies confirmed that they did, he tweeted again, \u201cI\u2019m thinking aloud: What if it is only the top of the iceberg?\u201d Users began posting screenshots of their contacts list with the number and sought explanations from @UIDAI on how it got added to their phones without their consent. \u201cSo, the #UIDAI is automatically a contact in my phone-book. Creepy much\u2026?\u201d tweeted a user. The UIDAI, service providers, and handset providers all denied responsibility. UIDAI even tweeted that \u201csome vested interest are trying to create unwarranted confusion in the public\u201d. Google clarifies The mystery of how the number got into entered users\u2019 contacts list was eventually resolved when Google owned up to it. \u201cOur internal review has revealed that in 2014, the then UIDAI helpline number and the 112 distress helpline number were inadvertently coded into the SetUp wizard of the Android release given to OEMs [Original Equipment Manufacturers] for use in India and has remained there since. Since the numbers get listed on a user\u2019s contact list, these get transferred accordingly to the contacts on any new device,\u201d clarified a Google spokesperson. \u201cWe would like to assure everyone that this is not a situation of an unauthorised access of their Android devices. Users can manually delete the number from their devices,\u201d he said, adding that this issue would be fixed in the upcoming version of SetUp wizard.",
+"description": "Discovery of the authority\u2019s toll free number in mobile phones triggers panic over surveillance, privacy",
+"time_scraped": "2018-08-17 04:58:24.702502",
+"article_id": "24596127",
+"article_category": "National",
+"image_details": [
+{
+"url": "https://www.thehindu.com/news/national/yo43l5/article24596126.ece/ALTERNATES/FREE_1080/man%20surprised",
+"path": "full/ccbd0e888e2b74d70a20d52366ef99b81b6c802d.jpg",
+"checksum": "28afd1738061b4800d75a1bf8a7c70f7"
+}
+]
+}

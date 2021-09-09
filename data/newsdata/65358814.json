@@ -1,0 +1,1271 @@
+{
+"source_article_link": "https://timesofindia.indiatimes.com/india/gujarat-fisherman-released-from-pakistan-jail-in-june-dies-of-cancer/articleshow/65358814.cms?&utm_source=Articleshow&utm_medium=Organic&utm_campaign=Related_Stories",
+"title": "Gujarat fisherman released from Pakistan jail in June dies of cancer",
+"date_published": "2018-08-10T22:30:17+05:30",
+"source_type": "news_article",
+"source_name": "timesofindia.indiatimes.com",
+"image_link": [],
+"article_body": "VADODARA: A fisherman released from a jail on June 29 this year on account of his poor health has died in the state's Gir Somnath district, a senior fisheries official said on Friday. Dana Arjan Chauhan, who was suffering from cancer, died in his native Paldi village in Una tehsil yesterday, said Veljibhai Masani, chairman of the state-run Gujarat Fisheries Central Cooperatives Association. Chauhan, along with another fisherman Ramabhai Gohil, was released by Pakistan authorities on June 29 after India's Ministry of External Affairs had intervened. Chauhan, after his release from Pakistan, had told PTI that jail authorities in the neighbouring country did not provide him medical help and also made him do laborious tasks. Chauhan was apprehended by the Pakistan Maritime Security Agency for allegedly entering the neighbouring country's waters on May 3, 2017.",
+"description": "VADODARA: A fisherman released from a jail on June 29 this year on account of his poor health has died in the state's Gir Somnath district, a senior fisheries official said on Friday. Dana Arjan Chauhan, who was suffering from cancer, died in his native Paldi village in Una tehsil yesterday, said Veljibhai Masani, chairman of the state-run Gujarat Fisheries Central Cooperatives Association. Chauhan, along with another fisherman Ramabhai Gohil, was released by Pakistan authorities on June 29 after India's Ministry of External Affairs had intervened.",
+"time_scraped": "2018-08-23 15:02:47.425182",
+"article_id": "65358814",
+"article_category": "IndiaNews",
+"image_details": [],
+"ibm_nlu": {
+"usage": {
+"text_units": 1,
+"text_characters": 868,
+"features": 7
+},
+"sentiment": {
+"document": {
+"score": -0.643733,
+"label": "negative"
+}
+},
+"semantic_roles": [
+{
+"subject": {
+"text": "A fisherman"
+},
+"sentence": "VADODARA: A fisherman released from a jail on June 29 this year on account of his poor health has died in the state's Gir Somnath district, a senior fisheries official said on Friday.",
+"action": {
+"verb": {
+"text": "release",
+"tense": "past"
+},
+"text": "released",
+"normalized": "release"
+}
+},
+{
+"subject": {
+"text": "his poor health"
+},
+"sentence": "VADODARA: A fisherman released from a jail on June 29 this year on account of his poor health has died in the state's Gir Somnath district, a senior fisheries official said on Friday.",
+"action": {
+"verb": {
+"text": "die",
+"tense": "past"
+},
+"text": "has died",
+"normalized": "have die"
+}
+},
+{
+"subject": {
+"text": "a senior fisheries official"
+},
+"sentence": "VADODARA: A fisherman released from a jail on June 29 this year on account of his poor health has died in the state's Gir Somnath district, a senior fisheries official said on Friday.",
+"object": {
+"text": "A fisherman released from a jail on June 29 this year on account of his poor health has died in the state's Gir Somnath district"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "suffering"
+},
+"sentence": " Dana Arjan Chauhan, who was suffering from cancer, died in his native Paldi village in Una tehsil yesterday, said Veljibhai Masani, chairman of the state-run Gujarat Fisheries Central Cooperatives Association.",
+"object": {
+"text": "from cancer"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "was",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "Dana Arjan Chauhan"
+},
+"sentence": " Dana Arjan Chauhan, who was suffering from cancer, died in his native Paldi village in Una tehsil yesterday, said Veljibhai Masani, chairman of the state-run Gujarat Fisheries Central Cooperatives Association.",
+"object": {
+"text": "from cancer"
+},
+"action": {
+"verb": {
+"text": "suffer",
+"tense": "past"
+},
+"text": "was suffering",
+"normalized": "be suffer"
+}
+},
+{
+"subject": {
+"text": "Dana Arjan Chauhan, who was suffering from cancer,"
+},
+"sentence": " Dana Arjan Chauhan, who was suffering from cancer, died in his native Paldi village in Una tehsil yesterday, said Veljibhai Masani, chairman of the state-run Gujarat Fisheries Central Cooperatives Association.",
+"action": {
+"verb": {
+"text": "die",
+"tense": "past"
+},
+"text": "died",
+"normalized": "die"
+}
+},
+{
+"subject": {
+"text": "Chauhan, along with another fisherman Ramabhai Gohil,"
+},
+"sentence": " Chauhan, along with another fisherman Ramabhai Gohil, was released by Pakistan authorities on June 29 after India's Ministry of External Affairs had intervened.",
+"object": {
+"text": "released by Pakistan authorities"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "was",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "by Pakistan authorities"
+},
+"sentence": " Chauhan, along with another fisherman Ramabhai Gohil, was released by Pakistan authorities on June 29 after India's Ministry of External Affairs had intervened.",
+"object": {
+"text": "Chauhan, along with another fisherman Ramabhai Gohil,"
+},
+"action": {
+"verb": {
+"text": "release",
+"tense": "past"
+},
+"text": "was released",
+"normalized": "be release"
+}
+},
+{
+"subject": {
+"text": "told PTI that jail authorities in the neighbouring country did not provide him medical help and also made him do laborious tasks"
+},
+"sentence": " Chauhan, after his release from Pakistan, had told PTI that jail authorities in the neighbouring country did not provide him medical help and also made him do laborious tasks.",
+"action": {
+"verb": {
+"text": "have",
+"tense": "past"
+},
+"text": "had",
+"normalized": "have"
+}
+},
+{
+"subject": {
+"text": "Chauhan, after his release from Pakistan,"
+},
+"sentence": " Chauhan, after his release from Pakistan, had told PTI that jail authorities in the neighbouring country did not provide him medical help and also made him do laborious tasks.",
+"object": {
+"text": "that jail authorities in the neighbouring country did not provide him medical help and also made him do laborious tasks"
+},
+"action": {
+"verb": {
+"text": "tell",
+"tense": "past"
+},
+"text": "had told",
+"normalized": "have tell"
+}
+},
+{
+"subject": {
+"text": "jail authorities in the neighbouring country"
+},
+"sentence": " Chauhan, after his release from Pakistan, had told PTI that jail authorities in the neighbouring country did not provide him medical help and also made him do laborious tasks.",
+"object": {
+"text": "him"
+},
+"action": {
+"verb": {
+"text": "provide",
+"tense": "past",
+"negated": true
+},
+"text": "provide",
+"normalized": "provide"
+}
+},
+{
+"subject": {
+"text": "him"
+},
+"sentence": " Chauhan, after his release from Pakistan, had told PTI that jail authorities in the neighbouring country did not provide him medical help and also made him do laborious tasks.",
+"object": {
+"text": "do laborious tasks"
+},
+"action": {
+"verb": {
+"text": "make",
+"tense": "past"
+},
+"text": "made",
+"normalized": "make"
+}
+},
+{
+"subject": {
+"text": "by the Pakistan Maritime Security Agency"
+},
+"sentence": " Chauhan was apprehended by the Pakistan Maritime Security Agency for allegedly entering the neighbouring country's waters on May 3, 2017.",
+"object": {
+"text": "Chauhan"
+},
+"action": {
+"verb": {
+"text": "apprehend",
+"tense": "past"
+},
+"text": "was apprehended",
+"normalized": "be apprehend"
+}
+}
+],
+"relations": [
+{
+"type": "locatedAt",
+"sentence": "VADODARA: A fisherman released from a jail on June 29 this year on account of his poor health has died in the state's Gir Somnath district, a senior fisheries official said on Friday.",
+"score": 0.572244,
+"arguments": [
+{
+"text": "fisherman",
+"location": [
+12,
+21
+],
+"entities": [
+{
+"type": "Person",
+"text": "fisherman"
+}
+]
+},
+{
+"text": "jail",
+"location": [
+38,
+42
+],
+"entities": [
+{
+"type": "Facility",
+"text": "jail"
+}
+]
+}
+]
+},
+{
+"type": "managerOf",
+"sentence": "Dana Arjan Chauhan, who was suffering from cancer, died in his native Paldi village in Una tehsil yesterday, said Veljibhai Masani, chairman of the state-run Gujarat Fisheries Central Cooperatives Association.",
+"score": 0.784173,
+"arguments": [
+{
+"text": "chairman",
+"location": [
+316,
+324
+],
+"entities": [
+{
+"type": "Person",
+"text": "Veljibhai Masani"
+}
+]
+},
+{
+"text": "Fisheries Central Cooperatives Association",
+"location": [
+350,
+392
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Fisheries Central Cooperatives Association"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "Chauhan, along with another fisherman Ramabhai Gohil, was released by Pakistan authorities on June 29 after India's Ministry of External Affairs had intervened.",
+"score": 0.62486,
+"arguments": [
+{
+"text": "Chauhan",
+"location": [
+394,
+401
+],
+"entities": [
+{
+"type": "Person",
+"text": "Dana Arjan Chauhan"
+}
+]
+},
+{
+"text": "released",
+"location": [
+452,
+460
+],
+"entities": [
+{
+"type": "EventCustody",
+"text": "released"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Chauhan, along with another fisherman Ramabhai Gohil, was released by Pakistan authorities on June 29 after India's Ministry of External Affairs had intervened.",
+"score": 0.843373,
+"arguments": [
+{
+"text": "authorities",
+"location": [
+473,
+484
+],
+"entities": [
+{
+"type": "Organization",
+"text": "authorities",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+},
+{
+"text": "released",
+"location": [
+452,
+460
+],
+"entities": [
+{
+"type": "EventCustody",
+"text": "released"
+}
+]
+}
+]
+},
+{
+"type": "timeOf",
+"sentence": "Chauhan, along with another fisherman Ramabhai Gohil, was released by Pakistan authorities on June 29 after India's Ministry of External Affairs had intervened.",
+"score": 0.933843,
+"arguments": [
+{
+"text": "June 29",
+"location": [
+488,
+495
+],
+"entities": [
+{
+"type": "Date",
+"text": "June 29"
+}
+]
+},
+{
+"text": "released",
+"location": [
+452,
+460
+],
+"entities": [
+{
+"type": "EventCustody",
+"text": "released"
+}
+]
+}
+]
+},
+{
+"type": "partOf",
+"sentence": "Chauhan, along with another fisherman Ramabhai Gohil, was released by Pakistan authorities on June 29 after India's Ministry of External Affairs had intervened.",
+"score": 0.981873,
+"arguments": [
+{
+"text": "authorities",
+"location": [
+473,
+484
+],
+"entities": [
+{
+"type": "Organization",
+"text": "authorities",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+},
+{
+"text": "Pakistan",
+"location": [
+464,
+472
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Pakistan",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "partOf",
+"sentence": "Chauhan, along with another fisherman Ramabhai Gohil, was released by Pakistan authorities on June 29 after India's Ministry of External Affairs had intervened.",
+"score": 0.946901,
+"arguments": [
+{
+"text": "Ministry of External Affairs",
+"location": [
+510,
+538
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Ministry of External Affairs",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+},
+{
+"text": "India",
+"location": [
+502,
+507
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "India",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Chauhan, after his release from Pakistan, had told PTI that jail authorities in the neighbouring country did not provide him medical help and also made him do laborious tasks.",
+"score": 0.937864,
+"arguments": [
+{
+"text": "Chauhan",
+"location": [
+555,
+562
+],
+"entities": [
+{
+"type": "Person",
+"text": "Dana Arjan Chauhan"
+}
+]
+},
+{
+"text": "told",
+"location": [
+601,
+605
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "Chauhan, after his release from Pakistan, had told PTI that jail authorities in the neighbouring country did not provide him medical help and also made him do laborious tasks.",
+"score": 0.977387,
+"arguments": [
+{
+"text": "PTI",
+"location": [
+606,
+609
+],
+"entities": [
+{
+"type": "Organization",
+"text": "PTI",
+"disambiguation": {
+"subtype": [
+"Commercial"
+]
+}
+}
+]
+},
+{
+"text": "told",
+"location": [
+601,
+605
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "Chauhan, after his release from Pakistan, had told PTI that jail authorities in the neighbouring country did not provide him medical help and also made him do laborious tasks.",
+"score": 0.524621,
+"arguments": [
+{
+"text": "authorities",
+"location": [
+620,
+631
+],
+"entities": [
+{
+"type": "Organization",
+"text": "authorities"
+}
+]
+},
+{
+"text": "jail",
+"location": [
+615,
+619
+],
+"entities": [
+{
+"type": "Facility",
+"text": "jail"
+}
+]
+}
+]
+},
+{
+"type": "basedIn",
+"sentence": "Chauhan, after his release from Pakistan, had told PTI that jail authorities in the neighbouring country did not provide him medical help and also made him do laborious tasks.",
+"score": 0.551652,
+"arguments": [
+{
+"text": "authorities",
+"location": [
+620,
+631
+],
+"entities": [
+{
+"type": "Organization",
+"text": "authorities"
+}
+]
+},
+{
+"text": "neighbouring",
+"location": [
+639,
+651
+],
+"entities": [
+{
+"type": "Location",
+"text": "neighbouring"
+}
+]
+}
+]
+},
+{
+"type": "partOfMany",
+"sentence": "VADODARA: A fisherman released from a jail on June 29 this year on account of his poor health has died in the state's Gir Somnath district, a senior fisheries official said on Friday.",
+"score": 0.358672,
+"arguments": [
+{
+"text": "Gir Somnath district",
+"location": [
+118,
+138
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Gir Somnath district"
+}
+]
+},
+{
+"text": "state",
+"location": [
+110,
+115
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "state"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "Chauhan, after his release from Pakistan, had told PTI that jail authorities in the neighbouring country did not provide him medical help and also made him do laborious tasks.",
+"score": 0.732283,
+"arguments": [
+{
+"text": "neighbouring",
+"location": [
+639,
+651
+],
+"entities": [
+{
+"type": "Location",
+"text": "neighbouring"
+}
+]
+},
+{
+"text": "country",
+"location": [
+652,
+659
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "country",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "Chauhan was apprehended by the Pakistan Maritime Security Agency for allegedly entering the neighbouring country's waters on May 3, 2017.",
+"score": 0.583674,
+"arguments": [
+{
+"text": "neighbouring",
+"location": [
+823,
+835
+],
+"entities": [
+{
+"type": "Location",
+"text": "neighbouring"
+}
+]
+},
+{
+"text": "country",
+"location": [
+836,
+843
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "country",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "partOf",
+"sentence": "Chauhan was apprehended by the Pakistan Maritime Security Agency for allegedly entering the neighbouring country's waters on May 3, 2017.",
+"score": 0.981679,
+"arguments": [
+{
+"text": "Maritime Security Agency",
+"location": [
+771,
+795
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Maritime Security Agency",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+},
+{
+"text": "Pakistan",
+"location": [
+762,
+770
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Pakistan",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "VADODARA: A fisherman released from a jail on June 29 this year on account of his poor health has died in the state's Gir Somnath district, a senior fisheries official said on Friday.",
+"score": 0.629235,
+"arguments": [
+{
+"text": "official",
+"location": [
+159,
+167
+],
+"entities": [
+{
+"type": "Person",
+"text": "Veljibhai Masani"
+}
+]
+},
+{
+"text": "fisheries",
+"location": [
+149,
+158
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Fisheries Central Cooperatives Association"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "VADODARA: A fisherman released from a jail on June 29 this year on account of his poor health has died in the state's Gir Somnath district, a senior fisheries official said on Friday.",
+"score": 0.744776,
+"arguments": [
+{
+"text": "official",
+"location": [
+159,
+167
+],
+"entities": [
+{
+"type": "Person",
+"text": "Veljibhai Masani"
+}
+]
+},
+{
+"text": "said",
+"location": [
+168,
+172
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Dana Arjan Chauhan, who was suffering from cancer, died in his native Paldi village in Una tehsil yesterday, said Veljibhai Masani, chairman of the state-run Gujarat Fisheries Central Cooperatives Association.",
+"score": 0.854773,
+"arguments": [
+{
+"text": "Veljibhai Masani",
+"location": [
+298,
+314
+],
+"entities": [
+{
+"type": "Person",
+"text": "Veljibhai Masani"
+}
+]
+},
+{
+"text": "said",
+"location": [
+293,
+297
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "timeOf",
+"sentence": "VADODARA: A fisherman released from a jail on June 29 this year on account of his poor health has died in the state's Gir Somnath district, a senior fisheries official said on Friday.",
+"score": 0.986125,
+"arguments": [
+{
+"text": "Friday",
+"location": [
+176,
+182
+],
+"entities": [
+{
+"type": "Date",
+"text": "Friday"
+}
+]
+},
+{
+"text": "said",
+"location": [
+168,
+172
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "diedOn",
+"sentence": "Dana Arjan Chauhan, who was suffering from cancer, died in his native Paldi village in Una tehsil yesterday, said Veljibhai Masani, chairman of the state-run Gujarat Fisheries Central Cooperatives Association.",
+"score": 0.498471,
+"arguments": [
+{
+"text": "Dana Arjan Chauhan",
+"location": [
+184,
+202
+],
+"entities": [
+{
+"type": "Person",
+"text": "Dana Arjan Chauhan"
+}
+]
+},
+{
+"text": "yesterday",
+"location": [
+282,
+291
+],
+"entities": [
+{
+"type": "Date",
+"text": "yesterday"
+}
+]
+}
+]
+},
+{
+"type": "hasAttribute",
+"sentence": "Dana Arjan Chauhan, who was suffering from cancer, died in his native Paldi village in Una tehsil yesterday, said Veljibhai Masani, chairman of the state-run Gujarat Fisheries Central Cooperatives Association.",
+"score": 0.849375,
+"arguments": [
+{
+"text": "who",
+"location": [
+204,
+207
+],
+"entities": [
+{
+"type": "Person",
+"text": "Dana Arjan Chauhan"
+}
+]
+},
+{
+"text": "cancer",
+"location": [
+227,
+233
+],
+"entities": [
+{
+"type": "HealthCondition",
+"text": "cancer"
+}
+]
+}
+]
+},
+{
+"type": "residesIn",
+"sentence": "Dana Arjan Chauhan, who was suffering from cancer, died in his native Paldi village in Una tehsil yesterday, said Veljibhai Masani, chairman of the state-run Gujarat Fisheries Central Cooperatives Association.",
+"score": 0.665238,
+"arguments": [
+{
+"text": "his",
+"location": [
+243,
+246
+],
+"entities": [
+{
+"type": "Person",
+"text": "Dana Arjan Chauhan"
+}
+]
+},
+{
+"text": "village",
+"location": [
+260,
+267
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Una tehsil"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "Dana Arjan Chauhan, who was suffering from cancer, died in his native Paldi village in Una tehsil yesterday, said Veljibhai Masani, chairman of the state-run Gujarat Fisheries Central Cooperatives Association.",
+"score": 0.53459,
+"arguments": [
+{
+"text": "village",
+"location": [
+260,
+267
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Una tehsil"
+}
+]
+},
+{
+"text": "Paldi",
+"location": [
+254,
+259
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Paldi"
+}
+]
+}
+]
+}
+],
+"language": "en",
+"keywords": [
+{
+"text": "Dana Arjan Chauhan",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.967598,
+"emotion": {
+"sadness": 0.141719,
+"joy": 0.191139,
+"fear": 0.08519,
+"disgust": 0.078108,
+"anger": 0.091797
+}
+},
+{
+"text": "state-run Gujarat Fisheries",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.75116,
+"emotion": {
+"sadness": 0.141555,
+"joy": 0.155066,
+"fear": 0.183572,
+"disgust": 0.123199,
+"anger": 0.074039
+}
+},
+{
+"text": "Gir Somnath district",
+"sentiment": {
+"score": -0.449155,
+"label": "negative"
+},
+"relevance": 0.733797,
+"emotion": {
+"sadness": 0.780501,
+"joy": 0.012539,
+"fear": 0.248962,
+"disgust": 0.138702,
+"anger": 0.070292
+}
+},
+{
+"text": "senior fisheries official",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.728791,
+"emotion": {
+"sadness": 0.262786,
+"joy": 0.458189,
+"fear": 0.18106,
+"disgust": 0.077564,
+"anger": 0.085863
+}
+},
+{
+"text": "neighbouring country",
+"sentiment": {
+"score": -0.342271,
+"label": "negative"
+},
+"relevance": 0.713565,
+"emotion": {
+"sadness": 0.438862,
+"joy": 0.123877,
+"fear": 0.110979,
+"disgust": 0.07319,
+"anger": 0.173162
+}
+}
+],
+"entities": [
+{
+"type": "Person",
+"text": "Dana Arjan Chauhan",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.910466,
+"emotion": {
+"sadness": 0.178658,
+"joy": 0.084799,
+"fear": 0.124177,
+"disgust": 0.445413,
+"anger": 0.086128
+},
+"count": 6
+},
+{
+"type": "Organization",
+"text": "Gujarat Fisheries Central Cooperatives Association",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.350606,
+"emotion": {
+"sadness": 0.141555,
+"joy": 0.155066,
+"fear": 0.183572,
+"disgust": 0.123199,
+"anger": 0.074039
+},
+"count": 1
+},
+{
+"type": "Organization",
+"text": "Pakistan Maritime Security Agency",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.312472,
+"emotion": {
+"sadness": 0.052508,
+"joy": 0.069904,
+"fear": 0.437912,
+"disgust": 0.540474,
+"anger": 0.078648
+},
+"count": 1
+},
+{
+"type": "Location",
+"text": "Pakistan",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.293217,
+"emotion": {
+"sadness": 0.191042,
+"joy": 0.121484,
+"fear": 0.16387,
+"disgust": 0.11085,
+"anger": 0.111472
+},
+"disambiguation": {
+"subtype": [
+"GovernmentalJurisdiction",
+"Country"
+],
+"name": "Pakistan",
+"dbpedia_resource": "http://dbpedia.org/resource/Pakistan"
+},
+"count": 2
+},
+{
+"type": "Location",
+"text": "VADODARA",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.258846,
+"emotion": {
+"sadness": 0.0,
+"joy": 0.0,
+"fear": 0.0,
+"disgust": 0.0,
+"anger": 0.0
+},
+"disambiguation": {
+"subtype": [
+"City"
+],
+"name": "Vadodara",
+"dbpedia_resource": "http://dbpedia.org/resource/Vadodara"
+},
+"count": 1
+}
+],
+"concepts": [
+{
+"text": "Gujarat",
+"relevance": 0.948029,
+"dbpedia_resource": "http://dbpedia.org/resource/Gujarat"
+},
+{
+"text": "Ahmedabad",
+"relevance": 0.836397,
+"dbpedia_resource": "http://dbpedia.org/resource/Ahmedabad"
+},
+{
+"text": "United States",
+"relevance": 0.770139,
+"dbpedia_resource": "http://dbpedia.org/resource/United_States"
+},
+{
+"text": "India",
+"relevance": 0.652661,
+"dbpedia_resource": "http://dbpedia.org/resource/India"
+},
+{
+"text": "Release",
+"relevance": 0.612514,
+"dbpedia_resource": "http://dbpedia.org/resource/Release"
+}
+],
+"categories": [
+{
+"score": 0.241959,
+"label": "/law, govt and politics/law enforcement/police"
+},
+{
+"score": 0.2065,
+"label": "/law, govt and politics/government"
+},
+{
+"score": 0.189402,
+"label": "/art and entertainment/movies and tv/bollywood"
+}
+]
+}
+}

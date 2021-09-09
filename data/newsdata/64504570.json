@@ -1,0 +1,735 @@
+{
+"source_article_link": "https://timesofindia.indiatimes.com/india/sc-passes-orders-for-proper-management-of-odishas-jagannath-temple/articleshow/64504570.cms?&utm_source=Articleshow&utm_medium=Organic&utm_campaign=Related_Stories",
+"title": "SC passes orders for proper management of Odisha's Jagannath Temple",
+"date_published": "2018-06-08T12:03:10+05:30",
+"source_type": "news_article",
+"source_name": "timesofindia.indiatimes.com",
+"image_link": [
+"https://timesofindia.indiatimes.com/thumb/msid-64504571,imgsize-213168,width-400,resizemode-4/64504571.jpg"
+],
+"article_body": "NEW DELHI: The on Friday passed a slew of directions for proper management of the of in 's Puri and to prevent exploitation of pilgrims there. The top court also sought a report from the district judge on the difficulties faced by visitors to the temple. The ordered the Odisha government to form a committee to study the practices followed by the administration of other religious shrines. such as Vaishnodevi, Somnath Temple and Golden Temple, and incorporate these in the managment of the Jagannath temple The apex court appointed senior advocate Gopal Subramanium to assist the court in framing guidelines for managing the affairs of Jagannath temple. The SC stressed on the need to look into the welfare of pilgrims. . Pilgrims must have hassle free access to Jagannath temple and any practice to exploit visitors must stop as it is against our culture and society, te court said.",
+"description": "NEW DELHI: The on Friday passed a slew of directions for proper management of the of in 's Puri and to prevent exploitation of pilgrims there. The top court also sought a report from the district judge on the difficulties faced by visitors to the temple.",
+"time_scraped": "2018-08-23 03:03:15.220891",
+"article_id": "64504570",
+"article_category": "IndiaNews",
+"image_details": [
+{
+"url": "https://timesofindia.indiatimes.com/thumb/msid-64504571,imgsize-213168,width-400,resizemode-4/64504571.jpg",
+"path": "full/cced3d18d0a21b2da759b8461cfd952e0d521e68.jpg",
+"checksum": "0f1bf136c390713ef955c4720e21aa33"
+}
+],
+"ibm_nlu": {
+"usage": {
+"text_units": 1,
+"text_characters": 885,
+"features": 7
+},
+"sentiment": {
+"document": {
+"score": 0.510612,
+"label": "positive"
+}
+},
+"semantic_roles": [
+{
+"subject": {
+"text": "a slew of directions for proper management of the of in 's Puri and to prevent exploitation of pilgrims there"
+},
+"sentence": "NEW DELHI: The on Friday passed a slew of directions for proper management of the of in 's Puri and to prevent exploitation of pilgrims there.",
+"action": {
+"verb": {
+"text": "pass",
+"tense": "past"
+},
+"text": "passed",
+"normalized": "pass"
+}
+},
+{
+"subject": {
+"text": "The top court"
+},
+"sentence": " The top court also sought a report from the district judge on the difficulties faced by visitors to the temple.",
+"object": {
+"text": "a report from the district judge on the difficulties faced by visitors to the temple"
+},
+"action": {
+"verb": {
+"text": "seek",
+"tense": "past"
+},
+"text": "sought",
+"normalized": "seek"
+}
+},
+{
+"subject": {
+"text": "by visitors to the temple"
+},
+"sentence": " The top court also sought a report from the district judge on the difficulties faced by visitors to the temple.",
+"object": {
+"text": "the difficulties"
+},
+"action": {
+"verb": {
+"text": "face",
+"tense": "past"
+},
+"text": "faced",
+"normalized": "face"
+}
+},
+{
+"subject": {
+"text": "the Odisha government"
+},
+"sentence": " The ordered the Odisha government to form a committee to study the practices followed by the administration of other religious shrines. such as Vaishnodevi, Somnath Temple and Golden Temple, and incorporate these in the managment of the Jagannath temple The apex court appointed senior advocate Gopal Subramanium to assist the court in framing guidelines for managing the affairs of Jagannath temple.",
+"object": {
+"text": "to form a committee to study the practices followed by the administration of other religious shrines. such as Vaishnodevi, Somnath Temple and Golden Temple"
+},
+"action": {
+"verb": {
+"text": "order",
+"tense": "past"
+},
+"text": "ordered",
+"normalized": "order"
+}
+},
+{
+"subject": {
+"text": "the Odisha government"
+},
+"sentence": " The ordered the Odisha government to form a committee to study the practices followed by the administration of other religious shrines. such as Vaishnodevi, Somnath Temple and Golden Temple, and incorporate these in the managment of the Jagannath temple The apex court appointed senior advocate Gopal Subramanium to assist the court in framing guidelines for managing the affairs of Jagannath temple.",
+"object": {
+"text": "a committee to study the practices followed by the administration of other religious shrines. such as Vaishnodevi, Somnath Temple and Golden Temple, and incorporate these in the managment of the Jagannath temple The apex court appointed senior advocate Gopal Subramanium to assist the court in framing guidelines for managing the affairs of Jagannath temple"
+},
+"action": {
+"verb": {
+"text": "form",
+"tense": "future"
+},
+"text": "to form",
+"normalized": "to form"
+}
+},
+{
+"subject": {
+"text": "guidelines"
+},
+"sentence": " The ordered the Odisha government to form a committee to study the practices followed by the administration of other religious shrines. such as Vaishnodevi, Somnath Temple and Golden Temple, and incorporate these in the managment of the Jagannath temple The apex court appointed senior advocate Gopal Subramanium to assist the court in framing guidelines for managing the affairs of Jagannath temple.",
+"object": {
+"text": "for managing the affairs of Jagannath temple"
+},
+"action": {
+"verb": {
+"text": "frame",
+"tense": "present"
+},
+"text": "framing",
+"normalized": "frame"
+}
+},
+{
+"subject": {
+"text": "The SC"
+},
+"sentence": " The SC stressed on the need to look into the welfare of pilgrims.",
+"object": {
+"text": "on the need to look into the welfare of pilgrims"
+},
+"action": {
+"verb": {
+"text": "stress",
+"tense": "past"
+},
+"text": "stressed",
+"normalized": "stress"
+}
+},
+{
+"subject": {
+"text": "The SC"
+},
+"sentence": " The SC stressed on the need to look into the welfare of pilgrims.",
+"object": {
+"text": "into the welfare of pilgrims"
+},
+"action": {
+"verb": {
+"text": "look",
+"tense": "future"
+},
+"text": "to look",
+"normalized": "to look"
+}
+},
+{
+"subject": {
+"text": "Pilgrims"
+},
+"sentence": " Pilgrims must have hassle free access to Jagannath temple and any practice to exploit visitors must stop as it is against our culture and society, te court said.",
+"object": {
+"text": "hassle free access to Jagannath temple"
+},
+"action": {
+"verb": {
+"text": "have",
+"tense": "future"
+},
+"text": "must have",
+"normalized": "must have"
+}
+},
+{
+"subject": {
+"text": "Pilgrims"
+},
+"sentence": " Pilgrims must have hassle free access to Jagannath temple and any practice to exploit visitors must stop as it is against our culture and society, te court said.",
+"object": {
+"text": "visitors"
+},
+"action": {
+"verb": {
+"text": "exploit",
+"tense": "future"
+},
+"text": "to exploit",
+"normalized": "to exploit"
+}
+},
+{
+"subject": {
+"text": "it"
+},
+"sentence": " Pilgrims must have hassle free access to Jagannath temple and any practice to exploit visitors must stop as it is against our culture and society, te court said.",
+"object": {
+"text": "against our culture and society"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "future"
+},
+"text": "is",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "te court"
+},
+"sentence": " Pilgrims must have hassle free access to Jagannath temple and any practice to exploit visitors must stop as it is against our culture and society, te court said.",
+"object": {
+"text": "Pilgrims must have hassle free access to Jagannath temple and any practice to exploit visitors must stop as it is against our culture and society"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+}
+],
+"relations": [
+{
+"type": "agentOf",
+"sentence": "The top court also sought a report from the district judge on the difficulties faced by visitors to the temple.",
+"score": 0.783436,
+"arguments": [
+{
+"text": "court",
+"location": [
+151,
+156
+],
+"entities": [
+{
+"type": "Organization",
+"text": "court",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+},
+{
+"text": "report",
+"location": [
+171,
+177
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "report"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "The top court also sought a report from the district judge on the difficulties faced by visitors to the temple.",
+"score": 0.929149,
+"arguments": [
+{
+"text": "district judge",
+"location": [
+187,
+201
+],
+"entities": [
+{
+"type": "Person",
+"text": "district judge"
+}
+]
+},
+{
+"text": "report",
+"location": [
+171,
+177
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "report"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "The top court also sought a report from the district judge on the difficulties faced by visitors to the temple.",
+"score": 0.899744,
+"arguments": [
+{
+"text": "visitors",
+"location": [
+231,
+239
+],
+"entities": [
+{
+"type": "Person",
+"text": "visitors"
+}
+]
+},
+{
+"text": "temple",
+"location": [
+247,
+253
+],
+"entities": [
+{
+"type": "Facility",
+"text": "temple"
+}
+]
+}
+]
+},
+{
+"type": "partOf",
+"sentence": "The ordered the Odisha government to form a committee to study the practices followed by the administration of other religious shrines.",
+"score": 0.543111,
+"arguments": [
+{
+"text": "committee",
+"location": [
+299,
+308
+],
+"entities": [
+{
+"type": "Organization",
+"text": "committee",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+},
+{
+"text": "government",
+"location": [
+278,
+288
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "administration",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "ownerOf",
+"sentence": "such as Vaishnodevi, Somnath Temple and Golden Temple, and incorporate these in the managment of the Jagannath temple The apex court appointed senior advocate Gopal Subramanium to assist the court in framing guidelines for managing the affairs of Jagannath temple.",
+"score": 0.368741,
+"arguments": [
+{
+"text": "Jagannath",
+"location": [
+492,
+501
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Jagannath"
+}
+]
+},
+{
+"text": "temple",
+"location": [
+502,
+508
+],
+"entities": [
+{
+"type": "Facility",
+"text": "temple"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "such as Vaishnodevi, Somnath Temple and Golden Temple, and incorporate these in the managment of the Jagannath temple The apex court appointed senior advocate Gopal Subramanium to assist the court in framing guidelines for managing the affairs of Jagannath temple.",
+"score": 0.942377,
+"arguments": [
+{
+"text": "apex court",
+"location": [
+513,
+523
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Jagannath"
+}
+]
+},
+{
+"text": "appointed",
+"location": [
+524,
+533
+],
+"entities": [
+{
+"type": "EventPersonnel",
+"text": "appointed"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "such as Vaishnodevi, Somnath Temple and Golden Temple, and incorporate these in the managment of the Jagannath temple The apex court appointed senior advocate Gopal Subramanium to assist the court in framing guidelines for managing the affairs of Jagannath temple.",
+"score": 0.779524,
+"arguments": [
+{
+"text": "advocate",
+"location": [
+541,
+549
+],
+"entities": [
+{
+"type": "Person",
+"text": "Gopal Subramanium"
+}
+]
+},
+{
+"text": "appointed",
+"location": [
+524,
+533
+],
+"entities": [
+{
+"type": "EventPersonnel",
+"text": "appointed"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Pilgrims must have hassle free access to Jagannath temple and any practice to exploit visitors must stop as it is against our culture and society, te court said.",
+"score": 0.900531,
+"arguments": [
+{
+"text": "court",
+"location": [
+874,
+879
+],
+"entities": [
+{
+"type": "Organization",
+"text": "court"
+}
+]
+},
+{
+"text": "said",
+"location": [
+880,
+884
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+}
+],
+"language": "en",
+"keywords": [
+{
+"text": "Jagannath temple",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.964606,
+"emotion": {
+"sadness": 0.111225,
+"joy": 0.071304,
+"fear": 0.08666,
+"disgust": 0.317605,
+"anger": 0.34106
+}
+},
+{
+"text": "senior advocate Gopal",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.796015,
+"emotion": {
+"sadness": 0.132227,
+"joy": 0.087307,
+"fear": 0.123701,
+"disgust": 0.080363,
+"anger": 0.110649
+}
+},
+{
+"text": "hassle free access",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.773843,
+"emotion": {
+"sadness": 0.12056,
+"joy": 0.092625,
+"fear": 0.068293,
+"disgust": 0.406977,
+"anger": 0.404006
+}
+},
+{
+"text": "NEW DELHI",
+"sentiment": {
+"score": 0.375946,
+"label": "positive"
+},
+"relevance": 0.638051,
+"emotion": {
+"sadness": 0.115132,
+"joy": 0.596039,
+"fear": 0.084006,
+"disgust": 0.034674,
+"anger": 0.046922
+}
+},
+{
+"text": "proper management",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.634707,
+"emotion": {
+"sadness": 0.190839,
+"joy": 0.209787,
+"fear": 0.096127,
+"disgust": 0.03598,
+"anger": 0.426239
+}
+}
+],
+"entities": [
+{
+"type": "Facility",
+"text": "Jagannath temple",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.960182,
+"emotion": {
+"sadness": 0.111225,
+"joy": 0.071304,
+"fear": 0.08666,
+"disgust": 0.317605,
+"anger": 0.34106
+},
+"disambiguation": {
+"subtype": [],
+"name": "Jagannath Temple, Puri",
+"dbpedia_resource": "http://dbpedia.org/resource/Jagannath_Temple,_Puri"
+},
+"count": 2
+},
+{
+"type": "Facility",
+"text": "Jagannath temple The",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.521329,
+"emotion": {
+"sadness": 0.132227,
+"joy": 0.087307,
+"fear": 0.123701,
+"disgust": 0.080363,
+"anger": 0.110649
+},
+"count": 1
+},
+{
+"type": "Facility",
+"text": "Golden Temple",
+"sentiment": {
+"score": 0.312118,
+"label": "positive"
+},
+"relevance": 0.422915,
+"emotion": {
+"sadness": 0.111181,
+"joy": 0.370135,
+"fear": 0.101651,
+"disgust": 0.067456,
+"anger": 0.094257
+},
+"disambiguation": {
+"subtype": [],
+"name": "Harmandir Sahib",
+"dbpedia_resource": "http://dbpedia.org/resource/Harmandir_Sahib"
+},
+"count": 1
+},
+{
+"type": "Facility",
+"text": "Somnath Temple",
+"sentiment": {
+"score": 0.312118,
+"label": "positive"
+},
+"relevance": 0.419959,
+"emotion": {
+"sadness": 0.111181,
+"joy": 0.370135,
+"fear": 0.101651,
+"disgust": 0.067456,
+"anger": 0.094257
+},
+"count": 1
+},
+{
+"type": "Organization",
+"text": "te court",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.35058,
+"emotion": {
+"sadness": 0.037933,
+"joy": 0.024195,
+"fear": 0.112105,
+"disgust": 0.027212,
+"anger": 0.196319
+},
+"count": 1
+}
+],
+"concepts": [
+{
+"text": "Puri",
+"relevance": 0.938306,
+"dbpedia_resource": "http://dbpedia.org/resource/Puri"
+},
+{
+"text": "Jagannath",
+"relevance": 0.873381,
+"dbpedia_resource": "http://dbpedia.org/resource/Jagannath"
+},
+{
+"text": "Management",
+"relevance": 0.854885,
+"dbpedia_resource": "http://dbpedia.org/resource/Management"
+},
+{
+"text": "Jagannath Temple",
+"relevance": 0.79065,
+"dbpedia_resource": "http://dbpedia.org/resource/Jagannath_Temple_(Puri)"
+},
+{
+"text": "Orissa",
+"relevance": 0.779066,
+"dbpedia_resource": "http://dbpedia.org/resource/Orissa"
+}
+],
+"categories": [
+{
+"score": 0.705575,
+"label": "/society/welfare"
+},
+{
+"score": 0.176377,
+"label": "/religion and spirituality/hinduism"
+},
+{
+"score": 0.118668,
+"label": "/law, govt and politics/government"
+}
+]
+}
+}

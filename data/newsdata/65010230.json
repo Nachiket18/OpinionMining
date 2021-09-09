@@ -1,0 +1,585 @@
+{
+"source_article_link": "https://timesofindia.indiatimes.com/india/jk-cricket-association-scam-farooq-abdullah-3-others-charged-for-irregularities/articleshow/65010230.cms?&utm_source=Articleshow&utm_medium=Organic&utm_campaign=Related_Stories",
+"title": "J&K Cricket Association scam: Farooq Abdullah, 3 others charged for irregularities",
+"date_published": "2018-07-16T20:01:24+05:30",
+"source_type": "news_article",
+"source_name": "timesofindia.indiatimes.com",
+"image_link": [
+"https://timesofindia.indiatimes.com/thumb/msid-65010262,imgsize-2218683,width-400,resizemode-4/65010262.jpg"
+],
+"article_body": "NEW DELHI: The Central Bureau of Investigation ( ) on Monday filed a chargesheet against former chief minister and three others for alleged misappropriation of J&K Cricket Association ( ) funds by opening bogus bank accounts. Farooq Abdullah was the president of JKCA when the alleged irregularities were noticed in the state cricket body between 2001 and 2011. It has been alleged that around Rs 113 crore were siphoned off by the JKCA office bearers from the association funds. Among those named in the chargesheet along with Farooq Abdullah include then JKCA general secretary Saleem Khan, treasurer Mohammad Ahsan Mirza and a J&K Bank executive Bashir Ahmed Mansir. \"I will not be addressing this issue separately except to say I have no doubt at the end of the legal process my father will be found innocent and free of any allegations of wrong doing,\" vice president of the National Conference Omar Abdullah said in a tweet. National Conference also released a statement where it said that an FIR was ordered in this particular matter by Farooq Abdullah himself and the leader is certain that \"truth shall prevail\".  The matter was earlier probed by the police, which filed an FIR at Ram Munshi Bagh police station. After CBI filed an FIR in September 2015, Farooq Abdullah had said, \"I am happy that the investigations have begun and I hope that the CBI completes the probe expeditiously\".",
+"description": "NEW DELHI: The Central Bureau of Investigation ( ) on Monday filed a chargesheet against former chief minister and three others for alleged misappropriation of J&K Cricket Association ( ) funds by opening bogus bank accounts.",
+"time_scraped": "2018-08-22 18:01:19.329611",
+"article_id": "65010230",
+"article_category": "IndiaNews",
+"image_details": [
+{
+"url": "https://timesofindia.indiatimes.com/thumb/msid-65010262,imgsize-2218683,width-400,resizemode-4/65010262.jpg",
+"path": "full/c72d0ebf8ef93a3148fa042ebc6b3e443f96c9a9.jpg",
+"checksum": "08a24e51c49c33e859520ae7af05f7b0"
+}
+],
+"ibm_nlu": {
+"usage": {
+"text_units": 1,
+"text_characters": 1396,
+"features": 6
+},
+"sentiment": {
+"document": {
+"score": -0.463329,
+"label": "negative"
+}
+},
+"semantic_roles": [
+{
+"subject": {
+"text": "NEW DELHI: The Central Bureau of Investigation ( )"
+},
+"sentence": "NEW DELHI: The Central Bureau of Investigation ( ) on Monday filed a chargesheet against former chief minister and three others for alleged misappropriation of J&K Cricket Association ( ) funds by opening bogus bank accounts.",
+"object": {
+"text": "a chargesheet"
+},
+"action": {
+"verb": {
+"text": "file",
+"tense": "past"
+},
+"text": "filed",
+"normalized": "file"
+}
+},
+{
+"subject": {
+"text": "Farooq Abdullah"
+},
+"sentence": " Farooq Abdullah was the president of JKCA when the alleged irregularities were noticed in the state cricket body between 2001 and 2011.",
+"object": {
+"text": "the president of JKCA"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "was",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "the alleged irregularities"
+},
+"sentence": " Farooq Abdullah was the president of JKCA when the alleged irregularities were noticed in the state cricket body between 2001 and 2011.",
+"action": {
+"verb": {
+"text": "notice",
+"tense": "past"
+},
+"text": "were noticed",
+"normalized": "be notice"
+}
+},
+{
+"subject": {
+"text": "It"
+},
+"sentence": " It has been alleged that around Rs 113 crore were siphoned off by the JKCA office bearers from the association funds.",
+"object": {
+"text": "been alleged that around Rs 113 crore were siphoned off by the JKCA office bearers from the association funds"
+},
+"action": {
+"verb": {
+"text": "have",
+"tense": "present"
+},
+"text": "has",
+"normalized": "have"
+}
+},
+{
+"subject": {
+"text": "It"
+},
+"sentence": " It has been alleged that around Rs 113 crore were siphoned off by the JKCA office bearers from the association funds.",
+"object": {
+"text": "alleged that around Rs 113 crore were siphoned off by the JKCA office bearers from the association funds"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "been",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "those"
+},
+"sentence": " Among those named in the chargesheet along with Farooq Abdullah include then JKCA general secretary Saleem Khan, treasurer Mohammad Ahsan Mirza and a J&K Bank executive Bashir Ahmed Mansir.",
+"object": {
+"text": "in the chargesheet"
+},
+"action": {
+"verb": {
+"text": "name",
+"tense": "past"
+},
+"text": "named",
+"normalized": "name"
+}
+},
+{
+"subject": {
+"text": "JKCA general secretary Saleem Khan, treasurer Mohammad Ahsan Mirza and a J&K Bank executive Bashir Ahmed Mansir"
+},
+"sentence": " Among those named in the chargesheet along with Farooq Abdullah include then JKCA general secretary Saleem Khan, treasurer Mohammad Ahsan Mirza and a J&K Bank executive Bashir Ahmed Mansir.",
+"object": {
+"text": "Among those named in the chargesheet along with Farooq Abdullah"
+},
+"action": {
+"verb": {
+"text": "include",
+"tense": "present"
+},
+"text": "include",
+"normalized": "include"
+}
+},
+{
+"subject": {
+"text": "I"
+},
+"sentence": " \"I will not be addressing this issue separately except to say I have no doubt at the end of the legal process my father will be found innocent and free of any allegations of wrong doing,\" vice president of the National Conference Omar Abdullah said in a tweet.",
+"object": {
+"text": "this issue"
+},
+"action": {
+"verb": {
+"text": "address",
+"tense": "future",
+"negated": true
+},
+"text": "addressing",
+"normalized": "address"
+}
+},
+{
+"subject": {
+"text": "I"
+},
+"sentence": " \"I will not be addressing this issue separately except to say I have no doubt at the end of the legal process my father will be found innocent and free of any allegations of wrong doing,\" vice president of the National Conference Omar Abdullah said in a tweet.",
+"object": {
+"text": "I have no doubt at the end of the legal process my father will be found innocent and free of any allegations of wrong doing"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "future"
+},
+"text": "to say",
+"normalized": "to say"
+}
+},
+{
+"subject": {
+"text": "the legal process my father"
+},
+"sentence": " \"I will not be addressing this issue separately except to say I have no doubt at the end of the legal process my father will be found innocent and free of any allegations of wrong doing,\" vice president of the National Conference Omar Abdullah said in a tweet.",
+"object": {
+"text": "found innocent"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "future"
+},
+"text": "be",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "vice president of the National Conference Omar Abdullah"
+},
+"sentence": " \"I will not be addressing this issue separately except to say I have no doubt at the end of the legal process my father will be found innocent and free of any allegations of wrong doing,\" vice president of the National Conference Omar Abdullah said in a tweet.",
+"object": {
+"text": "I will not be addressing this issue separately except to say I have no doubt at the end of the legal process my father will be found innocent and free of any allegations of wrong doing"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "National Conference"
+},
+"sentence": " National Conference also released a statement where it said that an FIR was ordered in this particular matter by Farooq Abdullah himself and the leader is certain that \"truth shall prevail\".",
+"object": {
+"text": "a statement where it said that an FIR was ordered in this particular matter by Farooq Abdullah himself and the leader is certain that \"truth shall prevail"
+},
+"action": {
+"verb": {
+"text": "release",
+"tense": "past"
+},
+"text": "released",
+"normalized": "release"
+}
+},
+{
+"subject": {
+"text": "by Farooq Abdullah himself"
+},
+"sentence": " National Conference also released a statement where it said that an FIR was ordered in this particular matter by Farooq Abdullah himself and the leader is certain that \"truth shall prevail\".",
+"object": {
+"text": "an FIR"
+},
+"action": {
+"verb": {
+"text": "order",
+"tense": "past"
+},
+"text": "was ordered",
+"normalized": "be order"
+}
+},
+{
+"subject": {
+"text": "The matter"
+},
+"sentence": " The matter was earlier probed by the police, which filed an FIR at Ram Munshi Bagh police station.",
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "was",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "by the police, which filed an FIR at Ram Munshi Bagh police station"
+},
+"sentence": " The matter was earlier probed by the police, which filed an FIR at Ram Munshi Bagh police station.",
+"object": {
+"text": "The matter"
+},
+"action": {
+"verb": {
+"text": "probe",
+"tense": "past"
+},
+"text": "probed",
+"normalized": "probe"
+}
+},
+{
+"subject": {
+"text": "the police"
+},
+"sentence": " The matter was earlier probed by the police, which filed an FIR at Ram Munshi Bagh police station.",
+"object": {
+"text": "an FIR"
+},
+"action": {
+"verb": {
+"text": "file",
+"tense": "past"
+},
+"text": "filed",
+"normalized": "file"
+}
+},
+{
+"subject": {
+"text": "CBI"
+},
+"sentence": " After CBI filed an FIR in September 2015, Farooq Abdullah had said, \"I am happy that the investigations have begun and I hope that the CBI completes the probe expeditiously\".",
+"object": {
+"text": "an FIR"
+},
+"action": {
+"verb": {
+"text": "file",
+"tense": "past"
+},
+"text": "filed",
+"normalized": "file"
+}
+},
+{
+"subject": {
+"text": "Farooq Abdullah"
+},
+"sentence": " After CBI filed an FIR in September 2015, Farooq Abdullah had said, \"I am happy that the investigations have begun and I hope that the CBI completes the probe expeditiously\".",
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "had said",
+"normalized": "have say"
+}
+},
+{
+"subject": {
+"text": "I"
+},
+"sentence": " After CBI filed an FIR in September 2015, Farooq Abdullah had said, \"I am happy that the investigations have begun and I hope that the CBI completes the probe expeditiously\".",
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "am",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "I"
+},
+"sentence": " After CBI filed an FIR in September 2015, Farooq Abdullah had said, \"I am happy that the investigations have begun and I hope that the CBI completes the probe expeditiously\".",
+"object": {
+"text": "that the CBI completes the probe expeditiously\""
+},
+"action": {
+"verb": {
+"text": "hope",
+"tense": "present"
+},
+"text": "hope",
+"normalized": "hope"
+}
+}
+],
+"language": "en",
+"keywords": [
+{
+"text": "Farooq Abdullah",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.953828,
+"emotion": {
+"sadness": 0.198665,
+"joy": 0.219386,
+"fear": 0.054908,
+"disgust": 0.289217,
+"anger": 0.28098
+}
+},
+{
+"text": "Conference Omar Abdullah",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.832178,
+"emotion": {
+"sadness": 0.301132,
+"joy": 0.30604,
+"fear": 0.042618,
+"disgust": 0.318432,
+"anger": 0.159531
+}
+},
+{
+"text": "treasurer Mohammad Ahsan",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.754268,
+"emotion": {
+"sadness": 0.143406,
+"joy": 0.135891,
+"fear": 0.080219,
+"disgust": 0.054359,
+"anger": 0.111007
+}
+},
+{
+"text": "bogus bank accounts",
+"sentiment": {
+"score": -0.588616,
+"label": "negative"
+},
+"relevance": 0.740312,
+"emotion": {
+"sadness": 0.141626,
+"joy": 0.054913,
+"fear": 0.034106,
+"disgust": 0.147961,
+"anger": 0.164945
+}
+},
+{
+"text": "secretary Saleem Khan",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.733538,
+"emotion": {
+"sadness": 0.125683,
+"joy": 0.16602,
+"fear": 0.077406,
+"disgust": 0.013936,
+"anger": 0.099381
+}
+}
+],
+"entities": [
+{
+"type": "Person",
+"text": "Farooq Abdullah",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.85418,
+"emotion": {
+"sadness": 0.146052,
+"joy": 0.221814,
+"fear": 0.035532,
+"disgust": 0.364947,
+"anger": 0.29724
+},
+"disambiguation": {
+"subtype": [
+"Politician"
+],
+"name": "Farooq Abdullah",
+"dbpedia_resource": "http://dbpedia.org/resource/Farooq_Abdullah"
+},
+"count": 5
+},
+{
+"type": "Person",
+"text": "Omar Abdullah",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.304599,
+"emotion": {
+"sadness": 0.301132,
+"joy": 0.30604,
+"fear": 0.042618,
+"disgust": 0.318432,
+"anger": 0.159531
+},
+"disambiguation": {
+"subtype": [
+"Politician",
+"OfficeHolder"
+],
+"name": "Omar Abdullah",
+"dbpedia_resource": "http://dbpedia.org/resource/Omar_Abdullah"
+},
+"count": 1
+},
+{
+"type": "Organization",
+"text": "JKCA",
+"sentiment": {
+"score": -0.535634,
+"label": "negative"
+},
+"relevance": 0.202714,
+"emotion": {
+"sadness": 0.050922,
+"joy": 0.131857,
+"fear": 0.085294,
+"disgust": 0.140306,
+"anger": 0.121151
+},
+"count": 2
+},
+{
+"type": "GeographicFeature",
+"text": "Ram Munshi Bagh",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.195836,
+"emotion": {
+"sadness": 0.15039,
+"joy": 0.050033,
+"fear": 0.156602,
+"disgust": 0.17286,
+"anger": 0.124882
+},
+"count": 1
+},
+{
+"type": "Organization",
+"text": "J&K Cricket Association",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.194437,
+"emotion": {
+"sadness": 0.327554,
+"joy": 0.290918,
+"fear": 0.149319,
+"disgust": 0.122077,
+"anger": 0.059838
+},
+"count": 1
+}
+],
+"concepts": [
+{
+"text": "Federal Bureau of Investigation",
+"relevance": 0.91624,
+"dbpedia_resource": "http://dbpedia.org/resource/Federal_Bureau_of_Investigation"
+},
+{
+"text": "President",
+"relevance": 0.902641,
+"dbpedia_resource": "http://dbpedia.org/resource/President"
+},
+{
+"text": "President of the United States",
+"relevance": 0.887813,
+"dbpedia_resource": "http://dbpedia.org/resource/President_of_the_United_States"
+},
+{
+"text": "Omar Abdullah",
+"relevance": 0.87699,
+"dbpedia_resource": "http://dbpedia.org/resource/Omar_Abdullah"
+}
+],
+"categories": [
+{
+"score": 0.447464,
+"label": "/religion and spirituality/islam"
+},
+{
+"score": 0.423643,
+"label": "/law, govt and politics/law enforcement/police"
+},
+{
+"score": 0.189552,
+"label": "/law, govt and politics/government"
+}
+],
+"warnings": [
+"relations: cannot analyze: downstream issue"
+]
+}
+}

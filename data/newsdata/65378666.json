@@ -1,0 +1,1870 @@
+{
+"source_article_link": "https://timesofindia.indiatimes.com/india/narendra-modi-government-catered-to-self-interest-in-rafale-deal-congress/articleshow/65378666.cms?&utm_source=Articleshow&utm_medium=Organic&utm_campaign=Related_Stories",
+"title": "Narendra Modi government catered to self-interest in Rafale deal: Congress",
+"date_published": "2018-08-12T22:28:35+05:30",
+"source_type": "news_article",
+"source_name": "timesofindia.indiatimes.com",
+"image_link": [
+"https://timesofindia.indiatimes.com/thumb/msid-65378660,imgsize-315733,width-400,resizemode-4/65378660.jpg"
+],
+"article_body": "NEW DELHI: Targeting the Centre on the 2015 deal to purchase 36 Rafale fighter jets from France, the opposition Congress on Sunday accused the government of ignoring the national interest and catering only to its self-interest. It quoted from the 2016 annual report of Dassault Aviation and a press statement of Reliance Defence Ltd, the local partner chosen by the French firm to meet its 'offset' obligation under the contract, and alleged Prime Minister Modi had made the announcement of \"off-the-shelf\" purchase of the fighters in Paris after paying an \"extra amount\". \"Rafale is a scam and the government is in scam. Indians feel deprived while the BJP ensured that crony capitalism thrived. Instead of protecting India's interest we have the Modi Sarkar protecting their self-interests,\" Congress spokesperson said in a statement. \"The prime minister announced off-the-shelf purchase of 36 Rafale aircraft in Paris on April 10, 2015 for euro 7.5 billion (Rs. 1670.70 crore per aircraft which is Rs. 60,145 crore for 36 aircraft,\" Chaturvedi said. India signed an inter-governmental agreement with France in 2015 for 36 Rafale fighter jets in 'fly-away' condition. The president of the ruling BJP, , on Friday rejected allegations of corruption in the , saying credence should be given to Defence Minister 's statement. Shah said Sitharaman has said the base price of Rafale fighters negotiated by the government is less than what was finalised by the previous UPA dispensation. But the Congress leader said when the international bid opened on December 12, 2012 for Rafale jets, the price negotiated by the UPA government was Rs. 526.10 crore per aircraft for 126 aircraft. As per the UPA deal, the price of 36 aircraft would have been Rs 18,940. Chaturvedi demanded an explanation on why an extra amount of Rs. 41,205 crore of the public money is being paid for the jets. She claimed that by announcing the deal in 2015, Modi had violated the mandatory \"Defence Procurement Procedure\". She asked why the prime minister and the defence minister were averse to placing the details of the commercial purchase price before Parliament. The government has said that a secrecy clause in the 2008 pact between India and France prohibits it from disclosing the pricing details in the purchase of the Rafale fighter jets. Experts describe the Rafale as a twin-engine \"air-dominance\" aircraft. In French, \"Rafale\" means a gust of wind.",
+"description": "NEW DELHI: Targeting the Centre on the 2015 deal to purchase 36 Rafale fighter jets from France, the opposition Congress on Sunday accused the government of ignoring the national interest and catering only to its self-interest. It quoted from the 2016 annual report of Dassault Aviation and a press statement of Reliance Defence Ltd, the local partner chosen by the French firm to meet its 'offset' obligation under the contract, and alleged Prime Minister Modi had made the announcement of \"off-the-shelf\" purchase of the fighters in Paris after paying an \"extra amount\". \"Rafale is a scam and the government is in scam. Indians feel deprived while the BJP ensured that crony capitalism thrived. Instead of protecting India's interest we have the Modi Sarkar protecting their self-interests,\" Congress spokesperson said in a statement.",
+"time_scraped": "2018-08-23 06:01:21.887717",
+"article_id": "65378666",
+"article_category": "IndiaNews",
+"image_details": [
+{
+"url": "https://timesofindia.indiatimes.com/thumb/msid-65378660,imgsize-315733,width-400,resizemode-4/65378660.jpg",
+"path": "full/8fa1d0e525ea5c938628eaa720d8556159473fb3.jpg",
+"checksum": "2285541730b3a5c71899add74a763e18"
+}
+],
+"ibm_nlu": {
+"usage": {
+"text_units": 1,
+"text_characters": 2431,
+"features": 7
+},
+"sentiment": {
+"document": {
+"score": -0.527692,
+"label": "negative"
+}
+},
+"semantic_roles": [
+{
+"subject": {
+"text": "NEW DELHI: Targeting the Centre on the 2015 deal to purchase 36 Rafale fighter jets from France, the opposition Congress on Sunday"
+},
+"sentence": "NEW DELHI: Targeting the Centre on the 2015 deal to purchase 36 Rafale fighter jets from France, the opposition Congress on Sunday accused the government of ignoring the national interest and catering only to its self-interest.",
+"object": {
+"text": "the government"
+},
+"action": {
+"verb": {
+"text": "accuse",
+"tense": "past"
+},
+"text": "accused",
+"normalized": "accuse"
+}
+},
+{
+"subject": {
+"text": "the government"
+},
+"sentence": "NEW DELHI: Targeting the Centre on the 2015 deal to purchase 36 Rafale fighter jets from France, the opposition Congress on Sunday accused the government of ignoring the national interest and catering only to its self-interest.",
+"object": {
+"text": "the national interest and catering only to its self-interest"
+},
+"action": {
+"verb": {
+"text": "ignore",
+"tense": "future"
+},
+"text": "ignoring",
+"normalized": "ignore"
+}
+},
+{
+"subject": {
+"text": "by the French firm"
+},
+"sentence": " It quoted from the 2016 annual report of Dassault Aviation and a press statement of Reliance Defence Ltd, the local partner chosen by the French firm to meet its 'offset' obligation under the contract, and alleged Prime Minister Modi had made the announcement of \"off-the-shelf\" purchase of the fighters in Paris after paying an \"extra amount\".",
+"object": {
+"text": "the local partner"
+},
+"action": {
+"verb": {
+"text": "choose",
+"tense": "past"
+},
+"text": "chosen",
+"normalized": "choose"
+}
+},
+{
+"subject": {
+"text": "alleged Prime Minister Modi"
+},
+"sentence": " It quoted from the 2016 annual report of Dassault Aviation and a press statement of Reliance Defence Ltd, the local partner chosen by the French firm to meet its 'offset' obligation under the contract, and alleged Prime Minister Modi had made the announcement of \"off-the-shelf\" purchase of the fighters in Paris after paying an \"extra amount\".",
+"object": {
+"text": "the announcement of \"off-the-shelf\" purchase of the fighters in Paris"
+},
+"action": {
+"verb": {
+"text": "make",
+"tense": "past"
+},
+"text": "had made",
+"normalized": "have make"
+}
+},
+{
+"subject": {
+"text": "Rafale"
+},
+"sentence": " \"Rafale is a scam and the government is in scam.",
+"object": {
+"text": "a scam"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "present"
+},
+"text": "is",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "the government"
+},
+"sentence": " \"Rafale is a scam and the government is in scam.",
+"object": {
+"text": "in scam"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "present"
+},
+"text": "is",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "Indians"
+},
+"sentence": " Indians feel deprived while the BJP ensured that crony capitalism thrived.",
+"object": {
+"text": "deprived"
+},
+"action": {
+"verb": {
+"text": "feel",
+"tense": "present"
+},
+"text": "feel",
+"normalized": "feel"
+}
+},
+{
+"subject": {
+"text": "Indians"
+},
+"sentence": " Indians feel deprived while the BJP ensured that crony capitalism thrived.",
+"action": {
+"verb": {
+"text": "deprive",
+"tense": "past"
+},
+"text": "feel deprived",
+"normalized": "feel deprive"
+}
+},
+{
+"subject": {
+"text": "the BJP"
+},
+"sentence": " Indians feel deprived while the BJP ensured that crony capitalism thrived.",
+"object": {
+"text": "that crony capitalism thrived"
+},
+"action": {
+"verb": {
+"text": "ensure",
+"tense": "past"
+},
+"text": "ensured",
+"normalized": "ensure"
+}
+},
+{
+"subject": {
+"text": "we"
+},
+"sentence": " Instead of protecting India's interest we have the Modi Sarkar protecting their self-interests,\" Congress spokesperson said in a statement.",
+"object": {
+"text": "the Modi Sarkar protecting their self-interests"
+},
+"action": {
+"verb": {
+"text": "have",
+"tense": "present"
+},
+"text": "have",
+"normalized": "have"
+}
+},
+{
+"subject": {
+"text": "Congress spokesperson"
+},
+"sentence": " Instead of protecting India's interest we have the Modi Sarkar protecting their self-interests,\" Congress spokesperson said in a statement.",
+"object": {
+"text": "Instead of protecting India's interest we have the Modi Sarkar protecting their self-interests"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "The prime minister"
+},
+"sentence": " \"The prime minister announced off-the-shelf purchase of 36 Rafale aircraft in Paris on April 10, 2015 for euro 7.5 billion (Rs. 1670.70 crore per aircraft which is Rs. 60,145 crore for 36 aircraft,\" Chaturvedi said.",
+"object": {
+"text": "off-the-shelf purchase of 36 Rafale aircraft in Paris on April 10, 2015 for euro 7.5 billion (Rs. 1670.70 crore per aircraft which is Rs. 60,145 crore for 36 aircraft"
+},
+"action": {
+"verb": {
+"text": "announce",
+"tense": "past"
+},
+"text": "announced",
+"normalized": "announce"
+}
+},
+{
+"subject": {
+"text": "Chaturvedi"
+},
+"sentence": " \"The prime minister announced off-the-shelf purchase of 36 Rafale aircraft in Paris on April 10, 2015 for euro 7.5 billion (Rs. 1670.70 crore per aircraft which is Rs. 60,145 crore for 36 aircraft,\" Chaturvedi said.",
+"object": {
+"text": "Rs. 1670.70 crore per aircraft which is Rs. 60,145 crore for 36 aircraft"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "India"
+},
+"sentence": " India signed an inter-governmental agreement with France in 2015 for 36 Rafale fighter jets in 'fly-away' condition.",
+"object": {
+"text": "an inter-governmental agreement with France in 2015 for 36 Rafale fighter jets in 'fly-away' condition"
+},
+"action": {
+"verb": {
+"text": "sign",
+"tense": "past"
+},
+"text": "signed",
+"normalized": "sign"
+}
+},
+{
+"subject": {
+"text": "The president of the ruling BJP"
+},
+"sentence": " The president of the ruling BJP, , on Friday rejected allegations of corruption in the , saying credence should be given to Defence Minister 's statement.",
+"object": {
+"text": "allegations of corruption"
+},
+"action": {
+"verb": {
+"text": "reject",
+"tense": "past"
+},
+"text": "rejected",
+"normalized": "reject"
+}
+},
+{
+"subject": {
+"text": "The president of the ruling BJP"
+},
+"sentence": " The president of the ruling BJP, , on Friday rejected allegations of corruption in the , saying credence should be given to Defence Minister 's statement.",
+"object": {
+"text": "credence"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "present"
+},
+"text": "saying",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "credence"
+},
+"sentence": " The president of the ruling BJP, , on Friday rejected allegations of corruption in the , saying credence should be given to Defence Minister 's statement.",
+"object": {
+"text": "given to Defence Minister 's statement"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "future"
+},
+"text": "be",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "credence"
+},
+"sentence": " The president of the ruling BJP, , on Friday rejected allegations of corruption in the , saying credence should be given to Defence Minister 's statement.",
+"object": {
+"text": "to Defence Minister 's statement"
+},
+"action": {
+"verb": {
+"text": "give",
+"tense": "future"
+},
+"text": "should be given",
+"normalized": "should be give"
+}
+},
+{
+"subject": {
+"text": "Shah"
+},
+"sentence": " Shah said Sitharaman has said the base price of Rafale fighters negotiated by the government is less than what was finalised by the previous UPA dispensation.",
+"object": {
+"text": "Sitharaman has said the base price of Rafale fighters negotiated by the government is less than what was finalised by the previous UPA dispensation"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "by the government"
+},
+"sentence": " Shah said Sitharaman has said the base price of Rafale fighters negotiated by the government is less than what was finalised by the previous UPA dispensation.",
+"object": {
+"text": "Rafale fighters"
+},
+"action": {
+"verb": {
+"text": "negotiate",
+"tense": "past"
+},
+"text": "negotiated",
+"normalized": "negotiate"
+}
+},
+{
+"subject": {
+"text": "the Congress leader"
+},
+"sentence": " But the Congress leader said when the international bid opened on December 12, 2012 for Rafale jets, the price negotiated by the UPA government was Rs. 526.10 crore per aircraft for 126 aircraft.",
+"object": {
+"text": "when the international bid opened on December 12, 2012 for Rafale jets, the price negotiated by the UPA government was Rs. 526.10 crore per aircraft for 126 aircraft"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "the international bid"
+},
+"sentence": " But the Congress leader said when the international bid opened on December 12, 2012 for Rafale jets, the price negotiated by the UPA government was Rs. 526.10 crore per aircraft for 126 aircraft.",
+"action": {
+"verb": {
+"text": "open",
+"tense": "past"
+},
+"text": "opened",
+"normalized": "open"
+}
+},
+{
+"subject": {
+"text": "by the UPA government"
+},
+"sentence": " But the Congress leader said when the international bid opened on December 12, 2012 for Rafale jets, the price negotiated by the UPA government was Rs. 526.10 crore per aircraft for 126 aircraft.",
+"object": {
+"text": "the price"
+},
+"action": {
+"verb": {
+"text": "negotiate",
+"tense": "past"
+},
+"text": "negotiated",
+"normalized": "negotiate"
+}
+},
+{
+"subject": {
+"text": "the price of 36 aircraft"
+},
+"sentence": " As per the UPA deal, the price of 36 aircraft would have been Rs 18,940.",
+"object": {
+"text": "Rs 18,940"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "future"
+},
+"text": "would have been",
+"normalized": "would have be"
+}
+},
+{
+"subject": {
+"text": "Chaturvedi"
+},
+"sentence": " Chaturvedi demanded an explanation on why an extra amount of Rs. 41,205 crore of the public money is being paid for the jets.",
+"object": {
+"text": "an explanation on why an extra amount of Rs. 41,205 crore of the public money is being paid for the jets"
+},
+"action": {
+"verb": {
+"text": "demand",
+"tense": "past"
+},
+"text": "demanded",
+"normalized": "demand"
+}
+},
+{
+"subject": {
+"text": "She"
+},
+"sentence": " She claimed that by announcing the deal in 2015, Modi had violated the mandatory \"Defence Procurement Procedure\".",
+"object": {
+"text": "that by announcing the deal in 2015, Modi had violated the mandatory \"Defence Procurement Procedure"
+},
+"action": {
+"verb": {
+"text": "claim",
+"tense": "past"
+},
+"text": "claimed",
+"normalized": "claim"
+}
+},
+{
+"subject": {
+"text": "She"
+},
+"sentence": " She claimed that by announcing the deal in 2015, Modi had violated the mandatory \"Defence Procurement Procedure\".",
+"object": {
+"text": "the deal in 2015"
+},
+"action": {
+"verb": {
+"text": "announce",
+"tense": "present"
+},
+"text": "announcing",
+"normalized": "announce"
+}
+},
+{
+"subject": {
+"text": "She"
+},
+"sentence": " She asked why the prime minister and the defence minister were averse to placing the details of the commercial purchase price before Parliament.",
+"object": {
+"text": "why the prime minister and the defence minister"
+},
+"action": {
+"verb": {
+"text": "ask",
+"tense": "past"
+},
+"text": "asked",
+"normalized": "ask"
+}
+},
+{
+"subject": {
+"text": "The government"
+},
+"sentence": " The government has said that a secrecy clause in the 2008 pact between India and France prohibits it from disclosing the pricing details in the purchase of the Rafale fighter jets.",
+"object": {
+"text": "said that a secrecy clause in the 2008 pact between India and France prohibits it from disclosing the pricing details"
+},
+"action": {
+"verb": {
+"text": "have",
+"tense": "present"
+},
+"text": "has",
+"normalized": "have"
+}
+},
+{
+"subject": {
+"text": "The government"
+},
+"sentence": " The government has said that a secrecy clause in the 2008 pact between India and France prohibits it from disclosing the pricing details in the purchase of the Rafale fighter jets.",
+"object": {
+"text": "that a secrecy clause in the 2008 pact between India and France prohibits it from disclosing the pricing details in the purchase of the Rafale fighter jets"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "has said",
+"normalized": "have say"
+}
+},
+{
+"subject": {
+"text": "it"
+},
+"sentence": " The government has said that a secrecy clause in the 2008 pact between India and France prohibits it from disclosing the pricing details in the purchase of the Rafale fighter jets.",
+"object": {
+"text": "the pricing details in the purchase of the Rafale fighter jets"
+},
+"action": {
+"verb": {
+"text": "disclose",
+"tense": "present"
+},
+"text": "disclosing",
+"normalized": "disclose"
+}
+},
+{
+"subject": {
+"text": "Experts"
+},
+"sentence": " Experts describe the Rafale as a twin-engine \"air-dominance\" aircraft.",
+"object": {
+"text": "the Rafale"
+},
+"action": {
+"verb": {
+"text": "describe",
+"tense": "present"
+},
+"text": "describe",
+"normalized": "describe"
+}
+},
+{
+"subject": {
+"text": "Rafale"
+},
+"sentence": " In French, \"Rafale\" means a gust of wind.",
+"object": {
+"text": "a gust of wind"
+},
+"action": {
+"verb": {
+"text": "mean",
+"tense": "present"
+},
+"text": "means",
+"normalized": "mean"
+}
+}
+],
+"relations": [
+{
+"type": "employedBy",
+"sentence": "NEW DELHI: Targeting the Centre on the 2015 deal to purchase 36 Rafale fighter jets from France, the opposition Congress on Sunday accused the government of ignoring the national interest and catering only to its self-interest.",
+"score": 0.523015,
+"arguments": [
+{
+"text": "opposition",
+"location": [
+101,
+111
+],
+"entities": [
+{
+"type": "Person",
+"text": "opposition"
+}
+]
+},
+{
+"text": "Congress",
+"location": [
+112,
+120
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Congress",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "\"The prime minister announced off-the-shelf purchase of 36 Rafale aircraft in Paris on April 10, 2015 for euro 7.5 billion (Rs. 1670.70 crore per aircraft which is Rs. 60,145 crore for 36 aircraft,\" Chaturvedi said.",
+"score": 0.357274,
+"arguments": [
+{
+"text": "aircraft",
+"location": [
+903,
+911
+],
+"entities": [
+{
+"type": "Vehicle",
+"text": "aircraft"
+}
+]
+},
+{
+"text": "Rafale",
+"location": [
+896,
+902
+],
+"entities": [
+{
+"type": "Facility",
+"text": "Rafale"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "\"The prime minister announced off-the-shelf purchase of 36 Rafale aircraft in Paris on April 10, 2015 for euro 7.5 billion (Rs. 1670.70 crore per aircraft which is Rs. 60,145 crore for 36 aircraft,\" Chaturvedi said.",
+"score": 0.969744,
+"arguments": [
+{
+"text": "aircraft",
+"location": [
+903,
+911
+],
+"entities": [
+{
+"type": "Vehicle",
+"text": "aircraft"
+}
+]
+},
+{
+"text": "Paris",
+"location": [
+915,
+920
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Paris"
+}
+]
+}
+]
+},
+{
+"type": "partner",
+"sentence": "India signed an inter-governmental agreement with France in 2015 for 36 Rafale fighter jets in 'fly-away' condition.",
+"score": 0.506536,
+"arguments": [
+{
+"text": "India",
+"location": [
+1053,
+1058
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "India",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+},
+{
+"text": "France",
+"location": [
+1103,
+1109
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "France",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "timeOf",
+"sentence": "The president of the ruling BJP, , on Friday rejected allegations of corruption in the , saying credence should be given to Defence Minister 's statement.",
+"score": 0.673067,
+"arguments": [
+{
+"text": "Friday",
+"location": [
+1208,
+1214
+],
+"entities": [
+{
+"type": "Date",
+"text": "Friday"
+}
+]
+},
+{
+"text": "saying",
+"location": [
+1259,
+1265
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "saying"
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "The president of the ruling BJP, , on Friday rejected allegations of corruption in the , saying credence should be given to Defence Minister 's statement.",
+"score": 0.619375,
+"arguments": [
+{
+"text": "Minister",
+"location": [
+1302,
+1310
+],
+"entities": [
+{
+"type": "Person",
+"text": "Shah"
+}
+]
+},
+{
+"text": "Defence",
+"location": [
+1294,
+1301
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Defence Procurement Procedure"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Shah said Sitharaman has said the base price of Rafale fighters negotiated by the government is less than what was finalised by the previous UPA dispensation.",
+"score": 0.894326,
+"arguments": [
+{
+"text": "Sitharaman",
+"location": [
+1335,
+1345
+],
+"entities": [
+{
+"type": "Person",
+"text": "Sitharaman"
+}
+]
+},
+{
+"text": "said",
+"location": [
+1350,
+1354
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "announced"
+}
+]
+}
+]
+},
+{
+"type": "participantIn",
+"sentence": "Shah said Sitharaman has said the base price of Rafale fighters negotiated by the government is less than what was finalised by the previous UPA dispensation.",
+"score": 0.977101,
+"arguments": [
+{
+"text": "fighters",
+"location": [
+1380,
+1388
+],
+"entities": [
+{
+"type": "Person",
+"text": "fighters"
+}
+]
+},
+{
+"text": "negotiated",
+"location": [
+1389,
+1399
+],
+"entities": [
+{
+"type": "EventMeeting",
+"text": "negotiated"
+}
+]
+}
+]
+},
+{
+"type": "participantIn",
+"sentence": "Shah said Sitharaman has said the base price of Rafale fighters negotiated by the government is less than what was finalised by the previous UPA dispensation.",
+"score": 0.793641,
+"arguments": [
+{
+"text": "government",
+"location": [
+1407,
+1417
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "France",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+},
+{
+"text": "negotiated",
+"location": [
+1389,
+1399
+],
+"entities": [
+{
+"type": "EventMeeting",
+"text": "negotiated"
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "But the Congress leader said when the international bid opened on December 12, 2012 for Rafale jets, the price negotiated by the UPA government was Rs. 526.10 crore per aircraft for 126 aircraft.",
+"score": 0.888936,
+"arguments": [
+{
+"text": "leader",
+"location": [
+1501,
+1507
+],
+"entities": [
+{
+"type": "Person",
+"text": "Shah"
+}
+]
+},
+{
+"text": "Congress",
+"location": [
+1492,
+1500
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Congress",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Chaturvedi demanded an explanation on why an extra amount of Rs. 41,205 crore of the public money is being paid for the jets.",
+"score": 0.998058,
+"arguments": [
+{
+"text": "Chaturvedi",
+"location": [
+1753,
+1763
+],
+"entities": [
+{
+"type": "Person",
+"text": "Chaturvedi"
+}
+]
+},
+{
+"text": "demanded",
+"location": [
+1764,
+1772
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "demanded"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "NEW DELHI: Targeting the Centre on the 2015 deal to purchase 36 Rafale fighter jets from France, the opposition Congress on Sunday accused the government of ignoring the national interest and catering only to its self-interest.",
+"score": 0.803715,
+"arguments": [
+{
+"text": "opposition",
+"location": [
+101,
+111
+],
+"entities": [
+{
+"type": "Person",
+"text": "opposition"
+}
+]
+},
+{
+"text": "accused",
+"location": [
+131,
+138
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "accused"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "She claimed that by announcing the deal in 2015, Modi had violated the mandatory \"Defence Procurement Procedure\".",
+"score": 0.983007,
+"arguments": [
+{
+"text": "She",
+"location": [
+1879,
+1882
+],
+"entities": [
+{
+"type": "Person",
+"text": "She"
+}
+]
+},
+{
+"text": "claimed",
+"location": [
+1883,
+1890
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "claimed"
+}
+]
+}
+]
+},
+{
+"type": "timeOf",
+"sentence": "She claimed that by announcing the deal in 2015, Modi had violated the mandatory \"Defence Procurement Procedure\".",
+"score": 0.946726,
+"arguments": [
+{
+"text": "2015",
+"location": [
+1922,
+1926
+],
+"entities": [
+{
+"type": "Date",
+"text": "2015"
+}
+]
+},
+{
+"text": "announcing",
+"location": [
+1899,
+1909
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "announcing"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "She claimed that by announcing the deal in 2015, Modi had violated the mandatory \"Defence Procurement Procedure\".",
+"score": 0.361243,
+"arguments": [
+{
+"text": "Modi",
+"location": [
+1928,
+1932
+],
+"entities": [
+{
+"type": "Person",
+"text": "Modi Sarkar"
+}
+]
+},
+{
+"text": "announcing",
+"location": [
+1899,
+1909
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "announcing"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "She claimed that by announcing the deal in 2015, Modi had violated the mandatory \"Defence Procurement Procedure\".",
+"score": 0.928166,
+"arguments": [
+{
+"text": "Modi",
+"location": [
+1928,
+1932
+],
+"entities": [
+{
+"type": "Person",
+"text": "Modi Sarkar"
+}
+]
+},
+{
+"text": "violated",
+"location": [
+1937,
+1945
+],
+"entities": [
+{
+"type": "Crime",
+"text": "violated"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "She asked why the prime minister and the defence minister were averse to placing the details of the commercial purchase price before Parliament.",
+"score": 0.98429,
+"arguments": [
+{
+"text": "She",
+"location": [
+1993,
+1996
+],
+"entities": [
+{
+"type": "Person",
+"text": "She"
+}
+]
+},
+{
+"text": "asked",
+"location": [
+1997,
+2002
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "asked"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "The government has said that a secrecy clause in the 2008 pact between India and France prohibits it from disclosing the pricing details in the purchase of the Rafale fighter jets.",
+"score": 0.915047,
+"arguments": [
+{
+"text": "government",
+"location": [
+2142,
+2152
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "France",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+},
+{
+"text": "said",
+"location": [
+2157,
+2161
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "The government has said that a secrecy clause in the 2008 pact between India and France prohibits it from disclosing the pricing details in the purchase of the Rafale fighter jets.",
+"score": 0.569727,
+"arguments": [
+{
+"text": "fighter",
+"location": [
+2305,
+2312
+],
+"entities": [
+{
+"type": "Person",
+"text": "Modi Sarkar"
+}
+]
+},
+{
+"text": "Rafale",
+"location": [
+2298,
+2304
+],
+"entities": [
+{
+"type": "Facility",
+"text": "Rafale"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Experts describe the Rafale as a twin-engine \"air-dominance\" aircraft.",
+"score": 0.989267,
+"arguments": [
+{
+"text": "Experts",
+"location": [
+2319,
+2326
+],
+"entities": [
+{
+"type": "Person",
+"text": "Experts"
+}
+]
+},
+{
+"text": "describe",
+"location": [
+2327,
+2335
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "describe"
+}
+]
+}
+]
+},
+{
+"type": "timeOf",
+"sentence": "NEW DELHI: Targeting the Centre on the 2015 deal to purchase 36 Rafale fighter jets from France, the opposition Congress on Sunday accused the government of ignoring the national interest and catering only to its self-interest.",
+"score": 0.941957,
+"arguments": [
+{
+"text": "Sunday",
+"location": [
+124,
+130
+],
+"entities": [
+{
+"type": "Date",
+"text": "Sunday"
+}
+]
+},
+{
+"text": "accused",
+"location": [
+131,
+138
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "accused"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "NEW DELHI: Targeting the Centre on the 2015 deal to purchase 36 Rafale fighter jets from France, the opposition Congress on Sunday accused the government of ignoring the national interest and catering only to its self-interest.",
+"score": 0.913129,
+"arguments": [
+{
+"text": "government",
+"location": [
+143,
+153
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "France",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+},
+{
+"text": "accused",
+"location": [
+131,
+138
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "accused"
+}
+]
+}
+]
+},
+{
+"type": "partOf",
+"sentence": "It quoted from the 2016 annual report of Dassault Aviation and a press statement of Reliance Defence Ltd, the local partner chosen by the French firm to meet its 'offset' obligation under the contract, and alleged Prime Minister Modi had made the announcement of \"off-the-shelf\" purchase of the fighters in Paris after paying an \"extra amount\".",
+"score": 0.72145,
+"arguments": [
+{
+"text": "firm",
+"location": [
+373,
+377
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Dassault Aviation",
+"disambiguation": {
+"subtype": [
+"Commercial"
+]
+}
+}
+]
+},
+{
+"text": "French",
+"location": [
+366,
+372
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "France",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "It quoted from the 2016 annual report of Dassault Aviation and a press statement of Reliance Defence Ltd, the local partner chosen by the French firm to meet its 'offset' obligation under the contract, and alleged Prime Minister Modi had made the announcement of \"off-the-shelf\" purchase of the fighters in Paris after paying an \"extra amount\".",
+"score": 0.491953,
+"arguments": [
+{
+"text": "fighters",
+"location": [
+523,
+531
+],
+"entities": [
+{
+"type": "Person",
+"text": "fighters"
+}
+]
+},
+{
+"text": "Paris",
+"location": [
+535,
+540
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Paris"
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "Instead of protecting India's interest we have the Modi Sarkar protecting their self-interests,\" Congress spokesperson said in a statement.",
+"score": 0.67805,
+"arguments": [
+{
+"text": "spokesperson",
+"location": [
+803,
+815
+],
+"entities": [
+{
+"type": "Person",
+"text": "Chaturvedi"
+}
+]
+},
+{
+"text": "Congress",
+"location": [
+794,
+802
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Congress",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Instead of protecting India's interest we have the Modi Sarkar protecting their self-interests,\" Congress spokesperson said in a statement.",
+"score": 0.98413,
+"arguments": [
+{
+"text": "spokesperson",
+"location": [
+803,
+815
+],
+"entities": [
+{
+"type": "Person",
+"text": "Chaturvedi"
+}
+]
+},
+{
+"text": "said",
+"location": [
+816,
+820
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "announced"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "\"The prime minister announced off-the-shelf purchase of 36 Rafale aircraft in Paris on April 10, 2015 for euro 7.5 billion (Rs. 1670.70 crore per aircraft which is Rs. 60,145 crore for 36 aircraft,\" Chaturvedi said.",
+"score": 0.792759,
+"arguments": [
+{
+"text": "Chaturvedi",
+"location": [
+1036,
+1046
+],
+"entities": [
+{
+"type": "Person",
+"text": "Chaturvedi"
+}
+]
+},
+{
+"text": "said",
+"location": [
+1047,
+1051
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "announced"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "\"The prime minister announced off-the-shelf purchase of 36 Rafale aircraft in Paris on April 10, 2015 for euro 7.5 billion (Rs. 1670.70 crore per aircraft which is Rs. 60,145 crore for 36 aircraft,\" Chaturvedi said.",
+"score": 0.976781,
+"arguments": [
+{
+"text": "prime minister",
+"location": [
+842,
+856
+],
+"entities": [
+{
+"type": "Person",
+"text": "Shah"
+}
+]
+},
+{
+"text": "announced",
+"location": [
+857,
+866
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "announced"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Shah said Sitharaman has said the base price of Rafale fighters negotiated by the government is less than what was finalised by the previous UPA dispensation.",
+"score": 0.967416,
+"arguments": [
+{
+"text": "Shah",
+"location": [
+1325,
+1329
+],
+"entities": [
+{
+"type": "Person",
+"text": "Shah"
+}
+]
+},
+{
+"text": "said",
+"location": [
+1330,
+1334
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "announced"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "But the Congress leader said when the international bid opened on December 12, 2012 for Rafale jets, the price negotiated by the UPA government was Rs. 526.10 crore per aircraft for 126 aircraft.",
+"score": 0.990288,
+"arguments": [
+{
+"text": "leader",
+"location": [
+1501,
+1507
+],
+"entities": [
+{
+"type": "Person",
+"text": "Shah"
+}
+]
+},
+{
+"text": "said",
+"location": [
+1508,
+1512
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "announced"
+}
+]
+}
+]
+}
+],
+"language": "en",
+"keywords": [
+{
+"text": "Rafale fighter jets",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.938991,
+"emotion": {
+"sadness": 0.312594,
+"joy": 0.057764,
+"fear": 0.200918,
+"disgust": 0.098328,
+"anger": 0.186005
+}
+},
+{
+"text": "prime minister",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.668559,
+"emotion": {
+"sadness": 0.298213,
+"joy": 0.261221,
+"fear": 0.01177,
+"disgust": 0.092457,
+"anger": 0.019254
+}
+},
+{
+"text": "Rafale jets",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.602254,
+"emotion": {
+"sadness": 0.232976,
+"joy": 0.102626,
+"fear": 0.141672,
+"disgust": 0.061106,
+"anger": 0.137876
+}
+},
+{
+"text": "Prime Minister Modi",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.596125,
+"emotion": {
+"sadness": 0.282135,
+"joy": 0.141214,
+"fear": 0.038533,
+"disgust": 0.102222,
+"anger": 0.067717
+}
+},
+{
+"text": "Rafale aircraft",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.5896,
+"emotion": {
+"sadness": 0.278408,
+"joy": 0.31546,
+"fear": 0.032587,
+"disgust": 0.049128,
+"anger": 0.011137
+}
+}
+],
+"entities": [
+{
+"type": "Company",
+"text": "Rafale",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.950562,
+"emotion": {
+"sadness": 0.327481,
+"joy": 0.051333,
+"fear": 0.161384,
+"disgust": 0.17527,
+"anger": 0.095727
+},
+"count": 2
+},
+{
+"type": "JobTitle",
+"text": "prime minister",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.805712,
+"emotion": {
+"sadness": 0.298213,
+"joy": 0.261221,
+"fear": 0.01177,
+"disgust": 0.092457,
+"anger": 0.019254
+},
+"count": 3
+},
+{
+"type": "Organization",
+"text": "government",
+"sentiment": {
+"score": -0.594673,
+"label": "negative"
+},
+"relevance": 0.778661,
+"emotion": {
+"sadness": 0.346733,
+"joy": 0.029634,
+"fear": 0.046575,
+"disgust": 0.474818,
+"anger": 0.394768
+},
+"disambiguation": {
+"subtype": [
+"FieldOfStudy",
+"BuildingFunction"
+],
+"name": "Government",
+"dbpedia_resource": "http://dbpedia.org/resource/Government"
+},
+"count": 4
+},
+{
+"type": "Location",
+"text": "India",
+"sentiment": {
+"score": -0.458011,
+"label": "negative"
+},
+"relevance": 0.699666,
+"emotion": {
+"sadness": 0.522214,
+"joy": 0.129101,
+"fear": 0.02523,
+"disgust": 0.319769,
+"anger": 0.058013
+},
+"disambiguation": {
+"subtype": [
+"HumanLanguage",
+"Region",
+"GovernmentalJurisdiction",
+"FilmEditor",
+"Country"
+],
+"name": "India",
+"dbpedia_resource": "http://dbpedia.org/resource/India"
+},
+"count": 5
+},
+{
+"type": "Location",
+"text": "France",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.621167,
+"emotion": {
+"sadness": 0.310491,
+"joy": 0.063641,
+"fear": 0.205173,
+"disgust": 0.106221,
+"anger": 0.193128
+},
+"disambiguation": {
+"subtype": [
+"Region",
+"AdministrativeDivision",
+"GovernmentalJurisdiction",
+"FilmDirector",
+"Country"
+],
+"name": "France",
+"dbpedia_resource": "http://dbpedia.org/resource/France"
+},
+"count": 4
+}
+],
+"concepts": [
+{
+"text": "Fighter aircraft",
+"relevance": 0.984977,
+"dbpedia_resource": "http://dbpedia.org/resource/Fighter_aircraft"
+},
+{
+"text": "Dassault Rafale",
+"relevance": 0.855593,
+"dbpedia_resource": "http://dbpedia.org/resource/Dassault_Rafale"
+},
+{
+"text": "France",
+"relevance": 0.772079,
+"dbpedia_resource": "http://dbpedia.org/resource/France"
+},
+{
+"text": "United Progressive Alliance",
+"relevance": 0.768463,
+"dbpedia_resource": "http://dbpedia.org/resource/United_Progressive_Alliance"
+},
+{
+"text": "Prime minister",
+"relevance": 0.723528,
+"dbpedia_resource": "http://dbpedia.org/resource/Prime_minister"
+}
+],
+"categories": [
+{
+"score": 0.696511,
+"label": "/law, govt and politics/government"
+},
+{
+"score": 0.358429,
+"label": "/law, govt and politics/government/parliament"
+},
+{
+"score": 0.258867,
+"label": "/science/social science/linguistics"
+}
+]
+}
+}

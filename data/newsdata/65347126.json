@@ -1,0 +1,1085 @@
+{
+"source_article_link": "https://timesofindia.indiatimes.com/india/triple-talaq-bill-to-be-tabled-in-rajya-sabha-today-all-you-need-to-know/articleshow/65347126.cms?&utm_source=Articleshow&utm_medium=Organic&utm_campaign=Related_Stories",
+"title": "Triple talaq bill to be tabled in Rajya Sabha today: All you need to know",
+"date_published": "2018-08-10T08:56:12+05:30",
+"source_type": "news_article",
+"source_name": "timesofindia.indiatimes.com",
+"image_link": [
+"https://timesofindia.indiatimes.com/thumb/msid-65347105,imgsize-33172,width-400,resizemode-4/65347105.jpg"
+],
+"article_body": "NEW DELHI: On Friday, the last day of the Monsoon session of , the Centre will make a fresh attempt in the to clear the draft law making a criminal offence. This comes a day after the Union Cabinet made some amendments to the draft bill, including adding a bail provision to it. Here's a 10-point round-up of all you need to know about the issue and where it stands currently: 1. On December 28, the passed the Muslim Women (Protection Bill, 2017), which criminalises the practice of talaq-e-bidda. 2. This came after the on August 22, 2017, struck down triple talaq, calling the Islamic practice unconstitutional. 3. The bill - which must be passed by both the Lok Sabha and the Rajya Sabha - criminalises the practice of divorcing by uttering the word \"talaq\" thrice in succession. 4. It also proposes a three-year jail term for men who violate the law. 5. While the draft bill easily passed in the Lok Sabha, it ran into trouble in the Upper House, with some opposition parties demanding that a bail provision be included in the bill. 6. The BJP-ruled Centre hopes that the amendments made in the bill will persuade the opposing parties to support the bill in the Rajya Sabha on Friday. 7. The first amendment allows only a woman, or a close relative, to file a police case against her husband for instant triple talaq. 8. Another amendment makes it clear that the police will lodge an FIR only if approached by the victim, her blood relations or people who become her relatives by marriage. 9. The third amendment makes instant triple talaq \"compoundable\". That is, now, a magistrate can use his powers to settle the dispute between a husband and his wife. 10. If the bill is cleared by the Upper House, it will have to go to the Lok Sabha for approval of amendments.",
+"description": "The Supreme Court on August 22, 2017, struck down triple talaq, calling the Islamic practice unconstitutional On December 28, the Lok Sabha passed the Muslim Women (Protection Bill, 2017), which criminalises the practice of talaq-e-bidda On Friday, the Centre will make a fresh attempt in the Rajya Sabha to clear the draft law ",
+"time_scraped": "2018-08-22 12:01:50.022330",
+"article_id": "65347126",
+"article_category": "IndiaNews",
+"image_details": [
+{
+"url": "https://timesofindia.indiatimes.com/thumb/msid-65347105,imgsize-33172,width-400,resizemode-4/65347105.jpg",
+"path": "full/a19db5943dd95b3854e2e291d7717c7eea574505.jpg",
+"checksum": "83ca35875f6aefe9c23bace8ad1f3a89"
+}
+],
+"ibm_nlu": {
+"usage": {
+"text_units": 1,
+"text_characters": 1771,
+"features": 7
+},
+"sentiment": {
+"document": {
+"score": -0.503755,
+"label": "negative"
+}
+},
+"semantic_roles": [
+{
+"subject": {
+"text": "the Centre"
+},
+"sentence": "NEW DELHI: On Friday, the last day of the Monsoon session of , the Centre will make a fresh attempt in the to clear the draft law making a criminal offence.",
+"object": {
+"text": "a fresh attempt"
+},
+"action": {
+"verb": {
+"text": "make",
+"tense": "future"
+},
+"text": "will make",
+"normalized": "will make"
+}
+},
+{
+"subject": {
+"text": "the Centre"
+},
+"sentence": "NEW DELHI: On Friday, the last day of the Monsoon session of , the Centre will make a fresh attempt in the to clear the draft law making a criminal offence.",
+"object": {
+"text": "the draft law"
+},
+"action": {
+"verb": {
+"text": "clear",
+"tense": "future"
+},
+"text": "to clear",
+"normalized": "to clear"
+}
+},
+{
+"subject": {
+"text": "the draft law"
+},
+"sentence": "NEW DELHI: On Friday, the last day of the Monsoon session of , the Centre will make a fresh attempt in the to clear the draft law making a criminal offence.",
+"object": {
+"text": "a criminal offence"
+},
+"action": {
+"verb": {
+"text": "make",
+"tense": "present"
+},
+"text": "making",
+"normalized": "make"
+}
+},
+{
+"subject": {
+"text": "This"
+},
+"sentence": " This comes a day after the Union Cabinet made some amendments to the draft bill, including adding a bail provision to it.",
+"action": {
+"verb": {
+"text": "come",
+"tense": "present"
+},
+"text": "comes",
+"normalized": "come"
+}
+},
+{
+"subject": {
+"text": "the Union Cabinet"
+},
+"sentence": " This comes a day after the Union Cabinet made some amendments to the draft bill, including adding a bail provision to it.",
+"object": {
+"text": "some amendments"
+},
+"action": {
+"verb": {
+"text": "make",
+"tense": "past"
+},
+"text": "made",
+"normalized": "make"
+}
+},
+{
+"subject": {
+"text": "adding a bail provision to it"
+},
+"sentence": " This comes a day after the Union Cabinet made some amendments to the draft bill, including adding a bail provision to it.",
+"object": {
+"text": "the draft bill"
+},
+"action": {
+"verb": {
+"text": "include",
+"tense": "present"
+},
+"text": "including",
+"normalized": "include"
+}
+},
+{
+"subject": {
+"text": "a bail provision"
+},
+"sentence": " This comes a day after the Union Cabinet made some amendments to the draft bill, including adding a bail provision to it.",
+"object": {
+"text": "to it"
+},
+"action": {
+"verb": {
+"text": "add",
+"tense": "present"
+},
+"text": "adding",
+"normalized": "add"
+}
+},
+{
+"subject": {
+"text": "a 10-point round-up of all you need to know about the issue and where it stands currently: 1"
+},
+"sentence": " Here's a 10-point round-up of all you need to know about the issue and where it stands currently: 1.",
+"action": {
+"verb": {
+"text": "has",
+"tense": "present"
+},
+"text": "has",
+"normalized": "has"
+}
+},
+{
+"subject": {
+"text": "you"
+},
+"sentence": " Here's a 10-point round-up of all you need to know about the issue and where it stands currently: 1.",
+"action": {
+"verb": {
+"text": "know",
+"tense": "future"
+},
+"text": "need to know",
+"normalized": "need to know"
+}
+},
+{
+"subject": {
+"text": "it"
+},
+"sentence": " Here's a 10-point round-up of all you need to know about the issue and where it stands currently: 1.",
+"action": {
+"verb": {
+"text": "stand",
+"tense": "present"
+},
+"text": "stands",
+"normalized": "stand"
+}
+},
+{
+"subject": {
+"text": "This"
+},
+"sentence": " This came after the on August 22, 2017, struck down triple talaq, calling the Islamic practice unconstitutional.",
+"action": {
+"verb": {
+"text": "come",
+"tense": "past"
+},
+"text": "came",
+"normalized": "come"
+}
+},
+{
+"subject": {
+"text": "the Islamic practice"
+},
+"sentence": " This came after the on August 22, 2017, struck down triple talaq, calling the Islamic practice unconstitutional.",
+"object": {
+"text": "unconstitutional"
+},
+"action": {
+"verb": {
+"text": "call",
+"tense": "present"
+},
+"text": "calling",
+"normalized": "call"
+}
+},
+{
+"subject": {
+"text": "by both the Lok Sabha and the Rajya Sabha"
+},
+"sentence": " The bill - which must be passed by both the Lok Sabha and the Rajya Sabha - criminalises the practice of divorcing by uttering the word \"talaq\" thrice in succession.",
+"object": {
+"text": "The bill"
+},
+"action": {
+"verb": {
+"text": "pass",
+"tense": "future"
+},
+"text": "must be passed",
+"normalized": "must be pass"
+}
+},
+{
+"subject": {
+"text": "It"
+},
+"sentence": " It also proposes a three-year jail term for men who violate the law.",
+"object": {
+"text": "a three-year jail term for men who violate the law"
+},
+"action": {
+"verb": {
+"text": "propose",
+"tense": "present"
+},
+"text": "proposes",
+"normalized": "propose"
+}
+},
+{
+"subject": {
+"text": "men"
+},
+"sentence": " It also proposes a three-year jail term for men who violate the law.",
+"object": {
+"text": "the law"
+},
+"action": {
+"verb": {
+"text": "violate",
+"tense": "present"
+},
+"text": "violate",
+"normalized": "violate"
+}
+},
+{
+"subject": {
+"text": "the draft bill"
+},
+"sentence": " While the draft bill easily passed in the Lok Sabha, it ran into trouble in the Upper House, with some opposition parties demanding that a bail provision be included in the bill.",
+"action": {
+"verb": {
+"text": "pass",
+"tense": "past"
+},
+"text": "passed",
+"normalized": "pass"
+}
+},
+{
+"subject": {
+"text": "it"
+},
+"sentence": " While the draft bill easily passed in the Lok Sabha, it ran into trouble in the Upper House, with some opposition parties demanding that a bail provision be included in the bill.",
+"object": {
+"text": "into trouble in the Upper House, with some opposition parties demanding that a bail provision be included in the bill"
+},
+"action": {
+"verb": {
+"text": "run",
+"tense": "past"
+},
+"text": "ran",
+"normalized": "run"
+}
+},
+{
+"subject": {
+"text": "a bail provision"
+},
+"sentence": " While the draft bill easily passed in the Lok Sabha, it ran into trouble in the Upper House, with some opposition parties demanding that a bail provision be included in the bill.",
+"action": {
+"verb": {
+"text": "be",
+"tense": "present"
+},
+"text": "be included",
+"normalized": "be include"
+}
+},
+{
+"subject": {
+"text": "The BJP-ruled Centre"
+},
+"sentence": " The BJP-ruled Centre hopes that the amendments made in the bill will persuade the opposing parties to support the bill in the Rajya Sabha on Friday. 7.",
+"object": {
+"text": "that the amendments made in the bill will persuade the opposing parties to support the bill in the Rajya Sabha on Friday. 7"
+},
+"action": {
+"verb": {
+"text": "hope",
+"tense": "present"
+},
+"text": "hopes",
+"normalized": "hope"
+}
+},
+{
+"subject": {
+"text": "The first amendment"
+},
+"sentence": " The first amendment allows only a woman, or a close relative, to file a police case against her husband for instant triple talaq.",
+"object": {
+"text": "only a woman, or a close relative, to file a police case against her husband for instant triple talaq"
+},
+"action": {
+"verb": {
+"text": "allow",
+"tense": "present"
+},
+"text": "allows",
+"normalized": "allow"
+}
+},
+{
+"subject": {
+"text": "a woman"
+},
+"sentence": " The first amendment allows only a woman, or a close relative, to file a police case against her husband for instant triple talaq.",
+"object": {
+"text": "a police case"
+},
+"action": {
+"verb": {
+"text": "file",
+"tense": "future"
+},
+"text": "to file",
+"normalized": "to file"
+}
+},
+{
+"subject": {
+"text": "her blood relations or people"
+},
+"sentence": " Another amendment makes it clear that the police will lodge an FIR only if approached by the victim, her blood relations or people who become her relatives by marriage.",
+"object": {
+"text": "her relatives by marriage"
+},
+"action": {
+"verb": {
+"text": "become",
+"tense": "present"
+},
+"text": "become",
+"normalized": "become"
+}
+},
+{
+"subject": {
+"text": "The third amendment"
+},
+"sentence": " The third amendment makes instant triple talaq \"compoundable\".",
+"object": {
+"text": "instant triple talaq"
+},
+"action": {
+"verb": {
+"text": "make",
+"tense": "present"
+},
+"text": "makes",
+"normalized": "make"
+}
+},
+{
+"subject": {
+"text": "a magistrate"
+},
+"sentence": " That is, now, a magistrate can use his powers to settle the dispute between a husband and his wife.",
+"object": {
+"text": "his powers"
+},
+"action": {
+"verb": {
+"text": "use",
+"tense": "future"
+},
+"text": "can use",
+"normalized": "can use"
+}
+},
+{
+"subject": {
+"text": "a magistrate"
+},
+"sentence": " That is, now, a magistrate can use his powers to settle the dispute between a husband and his wife.",
+"object": {
+"text": "the dispute between a husband and his wife"
+},
+"action": {
+"verb": {
+"text": "settle",
+"tense": "future"
+},
+"text": "to settle",
+"normalized": "to settle"
+}
+},
+{
+"subject": {
+"text": "the bill"
+},
+"sentence": " If the bill is cleared by the Upper House, it will have to go to the Lok Sabha for approval of amendments.",
+"object": {
+"text": "cleared by the Upper House"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "present"
+},
+"text": "is",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "by the Upper House"
+},
+"sentence": " If the bill is cleared by the Upper House, it will have to go to the Lok Sabha for approval of amendments.",
+"object": {
+"text": "the bill"
+},
+"action": {
+"verb": {
+"text": "clear",
+"tense": "past"
+},
+"text": "is cleared",
+"normalized": "be clear"
+}
+},
+{
+"subject": {
+"text": "it"
+},
+"sentence": " If the bill is cleared by the Upper House, it will have to go to the Lok Sabha for approval of amendments.",
+"object": {
+"text": "to the Lok Sabha"
+},
+"action": {
+"verb": {
+"text": "go",
+"tense": "future"
+},
+"text": "will have to go",
+"normalized": "will have to go"
+}
+}
+],
+"relations": [
+{
+"type": "timeOf",
+"sentence": "NEW DELHI: On Friday, the last day of the Monsoon session of , the Centre will make a fresh attempt in the to clear the draft law making a criminal offence.",
+"score": 0.801411,
+"arguments": [
+{
+"text": "last day",
+"location": [
+26,
+34
+],
+"entities": [
+{
+"type": "Date",
+"text": "last day"
+}
+]
+},
+{
+"text": "session",
+"location": [
+50,
+57
+],
+"entities": [
+{
+"type": "EventMeeting",
+"text": "session"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "The first amendment allows only a woman, or a close relative, to file a police case against her husband for instant triple talaq.",
+"score": 0.882919,
+"arguments": [
+{
+"text": "husband",
+"location": [
+1289,
+1296
+],
+"entities": [
+{
+"type": "Person",
+"text": "husband"
+}
+]
+},
+{
+"text": "case",
+"location": [
+1272,
+1276
+],
+"entities": [
+{
+"type": "EventLegal",
+"text": "case"
+}
+]
+}
+]
+},
+{
+"type": "spouseOf",
+"sentence": "The first amendment allows only a woman, or a close relative, to file a police case against her husband for instant triple talaq.",
+"score": 0.680616,
+"arguments": [
+{
+"text": "her",
+"location": [
+1285,
+1288
+],
+"entities": [
+{
+"type": "Person",
+"text": "magistrate"
+}
+]
+},
+{
+"text": "husband",
+"location": [
+1289,
+1296
+],
+"entities": [
+{
+"type": "Person",
+"text": "husband"
+}
+]
+}
+]
+},
+{
+"type": "spouseOf",
+"sentence": "That is, now, a magistrate can use his powers to settle the dispute between a husband and his wife.",
+"score": 0.604865,
+"arguments": [
+{
+"text": "his",
+"location": [
+1651,
+1654
+],
+"entities": [
+{
+"type": "Person",
+"text": "husband"
+}
+]
+},
+{
+"text": "wife",
+"location": [
+1655,
+1659
+],
+"entities": [
+{
+"type": "Person",
+"text": "magistrate"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "NEW DELHI: On Friday, the last day of the Monsoon session of , the Centre will make a fresh attempt in the to clear the draft law making a criminal offence.",
+"score": 0.738188,
+"arguments": [
+{
+"text": "Monsoon",
+"location": [
+42,
+49
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Monsoon"
+}
+]
+},
+{
+"text": "session",
+"location": [
+50,
+57
+],
+"entities": [
+{
+"type": "EventMeeting",
+"text": "session"
+}
+]
+}
+]
+},
+{
+"type": "partOfMany",
+"sentence": "On December 28, the passed the Muslim Women (Protection Bill, 2017), which criminalises the practice of talaq-e-bidda.",
+"score": 0.856253,
+"arguments": [
+{
+"text": "Bill",
+"location": [
+436,
+440
+],
+"entities": [
+{
+"type": "Person",
+"text": "Bill"
+}
+]
+},
+{
+"text": "Muslim Women",
+"location": [
+411,
+423
+],
+"entities": [
+{
+"type": "Person",
+"text": "Muslim Women"
+}
+]
+}
+]
+},
+{
+"type": "affiliatedWith",
+"sentence": "5. While the draft bill easily passed in the Lok Sabha, it ran into trouble in the Upper House, with some opposition parties demanding that a bail provision be included in the bill.",
+"score": 0.657206,
+"arguments": [
+{
+"text": "parties",
+"location": [
+973,
+980
+],
+"entities": [
+{
+"type": "Organization",
+"text": "parties",
+"disambiguation": {
+"subtype": [
+"Political"
+]
+}
+}
+]
+},
+{
+"text": "opposition",
+"location": [
+962,
+972
+],
+"entities": [
+{
+"type": "Person",
+"text": "opposition"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "5. While the draft bill easily passed in the Lok Sabha, it ran into trouble in the Upper House, with some opposition parties demanding that a bail provision be included in the bill.",
+"score": 0.87931,
+"arguments": [
+{
+"text": "parties",
+"location": [
+973,
+980
+],
+"entities": [
+{
+"type": "Organization",
+"text": "parties",
+"disambiguation": {
+"subtype": [
+"Political"
+]
+}
+}
+]
+},
+{
+"text": "demanding",
+"location": [
+981,
+990
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "demanding"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "The BJP-ruled Centre hopes that the amendments made in the bill will persuade the opposing parties to support the bill in the Rajya Sabha on Friday.",
+"score": 0.498754,
+"arguments": [
+{
+"text": "parties",
+"location": [
+1132,
+1139
+],
+"entities": [
+{
+"type": "Organization",
+"text": "parties",
+"disambiguation": {
+"subtype": [
+"Political"
+]
+}
+}
+]
+},
+{
+"text": "persuade",
+"location": [
+1110,
+1118
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "persuade"
+}
+]
+}
+]
+},
+{
+"type": "timeOf",
+"sentence": "The BJP-ruled Centre hopes that the amendments made in the bill will persuade the opposing parties to support the bill in the Rajya Sabha on Friday.",
+"score": 0.749972,
+"arguments": [
+{
+"text": "Friday",
+"location": [
+1182,
+1188
+],
+"entities": [
+{
+"type": "Date",
+"text": "Friday"
+}
+]
+},
+{
+"text": "persuade",
+"location": [
+1110,
+1118
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "persuade"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "The first amendment allows only a woman, or a close relative, to file a police case against her husband for instant triple talaq.",
+"score": 0.891926,
+"arguments": [
+{
+"text": "police",
+"location": [
+1265,
+1271
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Rajya Sabha"
+}
+]
+},
+{
+"text": "case",
+"location": [
+1272,
+1276
+],
+"entities": [
+{
+"type": "EventLegal",
+"text": "case"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "The first amendment allows only a woman, or a close relative, to file a police case against her husband for instant triple talaq.",
+"score": 0.446231,
+"arguments": [
+{
+"text": "her",
+"location": [
+1285,
+1288
+],
+"entities": [
+{
+"type": "Person",
+"text": "magistrate"
+}
+]
+},
+{
+"text": "case",
+"location": [
+1272,
+1276
+],
+"entities": [
+{
+"type": "EventLegal",
+"text": "case"
+}
+]
+}
+]
+}
+],
+"language": "en",
+"keywords": [
+{
+"text": "Lok Sabha",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.909203,
+"emotion": {
+"sadness": 0.243854,
+"joy": 0.119271,
+"fear": 0.088694,
+"disgust": 0.125117,
+"anger": 0.149904
+}
+},
+{
+"text": "instant triple talaq",
+"sentiment": {
+"score": -0.23865,
+"label": "negative"
+},
+"relevance": 0.80526,
+"emotion": {
+"sadness": 0.25815,
+"joy": 0.069111,
+"fear": 0.180399,
+"disgust": 0.234199,
+"anger": 0.167775
+}
+},
+{
+"text": "Rajya Sabha",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.732369,
+"emotion": {
+"sadness": 0.127985,
+"joy": 0.262478,
+"fear": 0.072466,
+"disgust": 0.262254,
+"anger": 0.313832
+}
+},
+{
+"text": "bail provision",
+"sentiment": {
+"score": -0.478781,
+"label": "negative"
+},
+"relevance": 0.642477,
+"emotion": {
+"sadness": 0.069223,
+"joy": 0.043306,
+"fear": 0.02359,
+"disgust": 0.330087,
+"anger": 0.06327
+}
+},
+{
+"text": "three-year jail term",
+"sentiment": {
+"score": -0.617767,
+"label": "negative"
+},
+"relevance": 0.59347,
+"emotion": {
+"sadness": 0.374269,
+"joy": 0.151461,
+"fear": 0.13092,
+"disgust": 0.313166,
+"anger": 0.192177
+}
+}
+],
+"entities": [
+{
+"type": "Facility",
+"text": "Lok Sabha",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.958749,
+"emotion": {
+"sadness": 0.243854,
+"joy": 0.119271,
+"fear": 0.088694,
+"disgust": 0.125117,
+"anger": 0.149904
+},
+"count": 3
+},
+{
+"type": "Organization",
+"text": "Rajya Sabha",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.730217,
+"emotion": {
+"sadness": 0.127985,
+"joy": 0.262478,
+"fear": 0.072466,
+"disgust": 0.262254,
+"anger": 0.313832
+},
+"disambiguation": {
+"subtype": [
+"GovernmentalBody",
+"Legislature"
+],
+"name": "Rajya Sabha",
+"dbpedia_resource": "http://dbpedia.org/resource/Rajya_Sabha"
+},
+"count": 2
+},
+{
+"type": "Facility",
+"text": "Upper House",
+"sentiment": {
+"score": -0.495459,
+"label": "negative"
+},
+"relevance": 0.385473,
+"emotion": {
+"sadness": 0.197977,
+"joy": 0.128924,
+"fear": 0.380114,
+"disgust": 0.082939,
+"anger": 0.275154
+},
+"count": 2
+}
+],
+"concepts": [
+{
+"text": "United States Constitution",
+"relevance": 0.986541,
+"dbpedia_resource": "http://dbpedia.org/resource/United_States_Constitution"
+},
+{
+"text": "United States Bill of Rights",
+"relevance": 0.96543,
+"dbpedia_resource": "http://dbpedia.org/resource/United_States_Bill_of_Rights"
+},
+{
+"text": "Lok Sabha",
+"relevance": 0.752221,
+"dbpedia_resource": "http://dbpedia.org/resource/Lok_Sabha"
+},
+{
+"text": "Marriage",
+"relevance": 0.743193,
+"dbpedia_resource": "http://dbpedia.org/resource/Marriage"
+},
+{
+"text": "Rajya Sabha",
+"relevance": 0.70392,
+"dbpedia_resource": "http://dbpedia.org/resource/Rajya_Sabha"
+}
+],
+"categories": [
+{
+"score": 0.655663,
+"label": "/law, govt and politics/government/parliament"
+},
+{
+"score": 0.346819,
+"label": "/law, govt and politics"
+},
+{
+"score": 0.301819,
+"label": "/law, govt and politics/government"
+}
+]
+}
+}

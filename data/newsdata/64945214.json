@@ -1,0 +1,2266 @@
+{
+"source_article_link": "https://timesofindia.indiatimes.com/india/nepal-india-to-expedite-raxaul-kathmandu-rail-project/articleshow/64945214.cms?&utm_source=Articleshow&utm_medium=Organic&utm_campaign=Related_Stories",
+"title": "Nepal, India to expedite Raxaul-Kathmandu rail project",
+"date_published": "2018-07-11T14:46:11+05:30",
+"source_type": "news_article",
+"source_name": "timesofindia.indiatimes.com",
+"image_link": [
+"https://timesofindia.indiatimes.com/thumb/msid-64945425,imgsize-383776,width-400,resizemode-4/64945425.jpg"
+],
+"article_body": "KATHMANDU: Nepal and India have agreed to seal an agreement for preliminary engineering cum traffic survey for building a rail link that will connect Raxual in Bihar to the Nepalese capital, weeks after Nepal and China agreed on a feasibility study for a railway line connecting Tibet with the Himalayan nation. Nepal and India had agreed to construct railway line linking Raxaul with Kathmandu during Prime Minister 's visit to India. Apart from , India has already started building five cross border railway lines between Nepal and India. One line from Jayanagar to Janakpur-Kurtha will be completed within a year. Senior government officials from Nepal and India on Monday agreed to seal the Memorandum of Understanding of the Raxaul-Kathmandu rail line as soon as possible. India has despatched the text of the MoU of Raxaul-Kathmandu railway line. During the meeting both sides agreed to put concerted efforts and resolve all issues expeditiously, to complete the railway lines from Jayanagar to Janakpur-Kurtha and from Jogbani to Biratnagar Customs Yard by the October 2018 time line, the Kathmandu Post reported. Ministry of Physical Infrastructure and Transport (MoPIT) Joint Secretary Keshab Kumar Sharma and India's Ministry of External Affairs joint secretary (DPA-III) Namgya Khampa took part in the meeting. The meeting also agreed to take forward work in the remaining stretches of the two rail projects from Kurtha-Bijalpura-Bardibas and from Biratnagar Customs Yard-Biratnagar sections on priority, according to the statement. The meeting appreciated the work undertaken in the final location survey (FLS) for the remaining three rail links, New Jalpaiguri-Kakarbhitta, Nautanwa-Bhairahawa, and Nepalgunj Road-Nepalgunj which are to be implemented under Phase-II. An Indian team has conducted the first round of survey for the railway. \"The Nepali side has conveyed its deep appreciation for the support of Government of India in the development of the India-Nepal cross border rail links, which would enhance people-to-people linkages between the two countries and promote economic growth and development in the region. \"The India side expressed its appreciation for the government of Nepal's commitment to expeditiously resolve all the outstanding issues including making available remaining land required for completion of the ongoing rail link projects,\" the statement said. China and Nepal have agreed to build a strategic railway link connecting Tibet with Kathmandu, which Nepalese Prime Minister Oli sees as an alternative trade route for supply of commodities to the landlocked Himalayan nation. The detailed project planning report (DPR) of the Kerung-Kathmandu rail line would be completed in one-and-a-half years or so. China has been building rail, road and air links in the remote Tibet spending billions of dollars. During the visit of Prime Minister to Nepal in May, Oli had said the two countries have agreed to expedite implementation of all pending projects of bilateral cooperation by Nepal's Constitution Day in September.",
+"description": "KATHMANDU: Nepal and India have agreed to seal an agreement for preliminary engineering cum traffic survey for building a rail link that will connect Raxual in Bihar to the Nepalese capital, weeks after Nepal and China agreed on a feasibility study for a railway line connecting Tibet with the Himalayan nation. Nepal and India had agreed to construct railway line linking Raxaul with Kathmandu during Prime Minister 's visit to India. Apart from , India has already started building five cross border railway lines between Nepal and India. One line from Jayanagar to Janakpur-Kurtha will be completed within a year.",
+"time_scraped": "2018-08-23 00:01:22.961474",
+"article_id": "64945214",
+"article_category": "IndiaNews",
+"image_details": [
+{
+"url": "https://timesofindia.indiatimes.com/thumb/msid-64945425,imgsize-383776,width-400,resizemode-4/64945425.jpg",
+"path": "full/08d2328a1efd90d98ef09d53327f23824bfc3ca6.jpg",
+"checksum": "78e2907c9513d92b74f73e749fe69dcf"
+}
+],
+"ibm_nlu": {
+"usage": {
+"text_units": 1,
+"text_characters": 3060,
+"features": 7
+},
+"sentiment": {
+"document": {
+"score": 0.327276,
+"label": "positive"
+}
+},
+"semantic_roles": [
+{
+"subject": {
+"text": "Nepal and India"
+},
+"sentence": "KATHMANDU: Nepal and India have agreed to seal an agreement for preliminary engineering cum traffic survey for building a rail link that will connect Raxual in Bihar to the Nepalese capital, weeks after Nepal and China agreed on a feasibility study for a railway line connecting Tibet with the Himalayan nation.",
+"object": {
+"text": "to seal an agreement for preliminary engineering cum traffic survey for building a rail link that will connect Raxual in Bihar to the Nepalese capital"
+},
+"action": {
+"verb": {
+"text": "agree",
+"tense": "past"
+},
+"text": "agreed",
+"normalized": "agree"
+}
+},
+{
+"subject": {
+"text": "Nepal and India"
+},
+"sentence": "KATHMANDU: Nepal and India have agreed to seal an agreement for preliminary engineering cum traffic survey for building a rail link that will connect Raxual in Bihar to the Nepalese capital, weeks after Nepal and China agreed on a feasibility study for a railway line connecting Tibet with the Himalayan nation.",
+"object": {
+"text": "an agreement"
+},
+"action": {
+"verb": {
+"text": "seal",
+"tense": "future"
+},
+"text": "have agreed to seal",
+"normalized": "have agree to seal"
+}
+},
+{
+"subject": {
+"text": "a rail link"
+},
+"sentence": "KATHMANDU: Nepal and India have agreed to seal an agreement for preliminary engineering cum traffic survey for building a rail link that will connect Raxual in Bihar to the Nepalese capital, weeks after Nepal and China agreed on a feasibility study for a railway line connecting Tibet with the Himalayan nation.",
+"object": {
+"text": "Raxual"
+},
+"action": {
+"verb": {
+"text": "connect",
+"tense": "future"
+},
+"text": "will connect",
+"normalized": "will connect"
+}
+},
+{
+"subject": {
+"text": "Nepal and China"
+},
+"sentence": "KATHMANDU: Nepal and India have agreed to seal an agreement for preliminary engineering cum traffic survey for building a rail link that will connect Raxual in Bihar to the Nepalese capital, weeks after Nepal and China agreed on a feasibility study for a railway line connecting Tibet with the Himalayan nation.",
+"object": {
+"text": "on a feasibility study for a railway line connecting Tibet with the Himalayan nation"
+},
+"action": {
+"verb": {
+"text": "agree",
+"tense": "past"
+},
+"text": "agreed",
+"normalized": "agree"
+}
+},
+{
+"subject": {
+"text": "Nepal and India"
+},
+"sentence": " Nepal and India had agreed to construct railway line linking Raxaul with Kathmandu during Prime Minister 's visit to India.",
+"object": {
+"text": "to construct railway line linking Raxaul with Kathmandu during Prime Minister 's visit to India"
+},
+"action": {
+"verb": {
+"text": "agree",
+"tense": "past"
+},
+"text": "agreed",
+"normalized": "agree"
+}
+},
+{
+"subject": {
+"text": "Nepal and India"
+},
+"sentence": " Nepal and India had agreed to construct railway line linking Raxaul with Kathmandu during Prime Minister 's visit to India.",
+"object": {
+"text": "railway line"
+},
+"action": {
+"verb": {
+"text": "construct",
+"tense": "past"
+},
+"text": "had agreed to construct",
+"normalized": "have agree to construct"
+}
+},
+{
+"subject": {
+"text": "India"
+},
+"sentence": " Apart from , India has already started building five cross border railway lines between Nepal and India.",
+"object": {
+"text": "already started building five cross border railway lines between Nepal and India"
+},
+"action": {
+"verb": {
+"text": "have",
+"tense": "present"
+},
+"text": "has",
+"normalized": "have"
+}
+},
+{
+"subject": {
+"text": "India"
+},
+"sentence": " Apart from , India has already started building five cross border railway lines between Nepal and India.",
+"object": {
+"text": "building five cross border railway lines between Nepal and India"
+},
+"action": {
+"verb": {
+"text": "start",
+"tense": "past"
+},
+"text": "started",
+"normalized": "start"
+}
+},
+{
+"subject": {
+"text": "India"
+},
+"sentence": " Apart from , India has already started building five cross border railway lines between Nepal and India.",
+"object": {
+"text": "five cross border railway lines between Nepal and India"
+},
+"action": {
+"verb": {
+"text": "build",
+"tense": "present"
+},
+"text": "building",
+"normalized": "build"
+}
+},
+{
+"subject": {
+"text": "One line from Jayanagar to Janakpur-Kurtha"
+},
+"sentence": " One line from Jayanagar to Janakpur-Kurtha will be completed within a year.",
+"object": {
+"text": "completed"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "future"
+},
+"text": "be",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "One line from Jayanagar to Janakpur-Kurtha"
+},
+"sentence": " One line from Jayanagar to Janakpur-Kurtha will be completed within a year.",
+"action": {
+"verb": {
+"text": "complete",
+"tense": "future"
+},
+"text": "will be completed",
+"normalized": "will be complete"
+}
+},
+{
+"subject": {
+"text": "Senior government officials from Nepal and India on Monday"
+},
+"sentence": " Senior government officials from Nepal and India on Monday agreed to seal the Memorandum of Understanding of the Raxaul-Kathmandu rail line as soon as possible.",
+"object": {
+"text": "to seal the Memorandum of Understanding of the Raxaul-Kathmandu rail line as soon as possible"
+},
+"action": {
+"verb": {
+"text": "agree",
+"tense": "past"
+},
+"text": "agreed",
+"normalized": "agree"
+}
+},
+{
+"subject": {
+"text": "Senior government officials from Nepal and India"
+},
+"sentence": " Senior government officials from Nepal and India on Monday agreed to seal the Memorandum of Understanding of the Raxaul-Kathmandu rail line as soon as possible.",
+"object": {
+"text": "the Memorandum of Understanding of the Raxaul-Kathmandu rail line"
+},
+"action": {
+"verb": {
+"text": "seal",
+"tense": "future"
+},
+"text": "agreed to seal",
+"normalized": "agree to seal"
+}
+},
+{
+"subject": {
+"text": "India"
+},
+"sentence": " India has despatched the text of the MoU of Raxaul-Kathmandu railway line.",
+"object": {
+"text": "despatched the text of the MoU of Raxaul-Kathmandu railway line"
+},
+"action": {
+"verb": {
+"text": "have",
+"tense": "present"
+},
+"text": "has",
+"normalized": "have"
+}
+},
+{
+"subject": {
+"text": "India"
+},
+"sentence": " India has despatched the text of the MoU of Raxaul-Kathmandu railway line.",
+"object": {
+"text": "the text of the MoU of Raxaul-Kathmandu railway line"
+},
+"action": {
+"verb": {
+"text": "despatch",
+"tense": "past"
+},
+"text": "has despatched",
+"normalized": "have despatch"
+}
+},
+{
+"subject": {
+"text": "both sides"
+},
+"sentence": " During the meeting both sides agreed to put concerted efforts and resolve all issues expeditiously, to complete the railway lines from Jayanagar to Janakpur-Kurtha and from Jogbani to Biratnagar Customs Yard by the October 2018 time line, the Kathmandu Post reported.",
+"object": {
+"text": "to put concerted efforts and resolve all issues expeditiously, to complete the railway lines from Jayanagar to Janakpur-Kurtha and from Jogbani to Biratnagar Customs Yard by the October 2018 time line"
+},
+"action": {
+"verb": {
+"text": "agree",
+"tense": "past"
+},
+"text": "agreed",
+"normalized": "agree"
+}
+},
+{
+"subject": {
+"text": "both sides"
+},
+"sentence": " During the meeting both sides agreed to put concerted efforts and resolve all issues expeditiously, to complete the railway lines from Jayanagar to Janakpur-Kurtha and from Jogbani to Biratnagar Customs Yard by the October 2018 time line, the Kathmandu Post reported.",
+"object": {
+"text": "concerted efforts and resolve all issues"
+},
+"action": {
+"verb": {
+"text": "put",
+"tense": "future"
+},
+"text": "agreed to put",
+"normalized": "agree to put"
+}
+},
+{
+"subject": {
+"text": "both sides"
+},
+"sentence": " During the meeting both sides agreed to put concerted efforts and resolve all issues expeditiously, to complete the railway lines from Jayanagar to Janakpur-Kurtha and from Jogbani to Biratnagar Customs Yard by the October 2018 time line, the Kathmandu Post reported.",
+"object": {
+"text": "all issues"
+},
+"action": {
+"verb": {
+"text": "resolve",
+"tense": "present"
+},
+"text": "resolve",
+"normalized": "resolve"
+}
+},
+{
+"subject": {
+"text": "the railway lines"
+},
+"sentence": " During the meeting both sides agreed to put concerted efforts and resolve all issues expeditiously, to complete the railway lines from Jayanagar to Janakpur-Kurtha and from Jogbani to Biratnagar Customs Yard by the October 2018 time line, the Kathmandu Post reported.",
+"object": {
+"text": "from Jayanagar"
+},
+"action": {
+"verb": {
+"text": "complete",
+"tense": "future"
+},
+"text": "to complete",
+"normalized": "to complete"
+}
+},
+{
+"subject": {
+"text": "Joint Secretary Keshab Kumar Sharma and India's Ministry of External Affairs joint secretary (DPA-III) Namgya Khampa"
+},
+"sentence": " Ministry of Physical Infrastructure and Transport (MoPIT) Joint Secretary Keshab Kumar Sharma and India's Ministry of External Affairs joint secretary (DPA-III) Namgya Khampa took part in the meeting.",
+"object": {
+"text": "part"
+},
+"action": {
+"verb": {
+"text": "take",
+"tense": "past"
+},
+"text": "took",
+"normalized": "take"
+}
+},
+{
+"subject": {
+"text": "The meeting"
+},
+"sentence": " The meeting also agreed to take forward work in the remaining stretches of the two rail projects from Kurtha-Bijalpura-Bardibas and from Biratnagar Customs Yard-Biratnagar sections on priority, according to the statement.",
+"object": {
+"text": "to take forward work in the remaining stretches of the two rail projects from Kurtha-Bijalpura-Bardibas and from Biratnagar Customs Yard-Biratnagar sections on priority"
+},
+"action": {
+"verb": {
+"text": "agree",
+"tense": "past"
+},
+"text": "agreed",
+"normalized": "agree"
+}
+},
+{
+"subject": {
+"text": "The meeting"
+},
+"sentence": " The meeting also agreed to take forward work in the remaining stretches of the two rail projects from Kurtha-Bijalpura-Bardibas and from Biratnagar Customs Yard-Biratnagar sections on priority, according to the statement.",
+"object": {
+"text": "forward work"
+},
+"action": {
+"verb": {
+"text": "take",
+"tense": "future"
+},
+"text": "agreed to take",
+"normalized": "agree to take"
+}
+},
+{
+"subject": {
+"text": "the two rail projects from Kurtha-Bijalpura-Bardibas and from Biratnagar Customs Yard-Biratnagar sections on priority"
+},
+"sentence": " The meeting also agreed to take forward work in the remaining stretches of the two rail projects from Kurtha-Bijalpura-Bardibas and from Biratnagar Customs Yard-Biratnagar sections on priority, according to the statement.",
+"object": {
+"text": "to the statement"
+},
+"action": {
+"verb": {
+"text": "accord",
+"tense": "present"
+},
+"text": "according",
+"normalized": "accord"
+}
+},
+{
+"subject": {
+"text": "The meeting"
+},
+"sentence": " The meeting appreciated the work undertaken in the final location survey (FLS) for the remaining three rail links, New Jalpaiguri-Kakarbhitta, Nautanwa-Bhairahawa, and Nepalgunj Road-Nepalgunj which are to be implemented under Phase-II.",
+"object": {
+"text": "the work undertaken in the final location survey (FLS) for the remaining three rail links, New Jalpaiguri-Kakarbhitta, Nautanwa-Bhairahawa, and Nepalgunj Road-Nepalgunj which are to be implemented under Phase-II"
+},
+"action": {
+"verb": {
+"text": "appreciate",
+"tense": "past"
+},
+"text": "appreciated",
+"normalized": "appreciate"
+}
+},
+{
+"subject": {
+"text": "the work"
+},
+"sentence": " The meeting appreciated the work undertaken in the final location survey (FLS) for the remaining three rail links, New Jalpaiguri-Kakarbhitta, Nautanwa-Bhairahawa, and Nepalgunj Road-Nepalgunj which are to be implemented under Phase-II.",
+"action": {
+"verb": {
+"text": "undertake",
+"tense": "past"
+},
+"text": "undertaken",
+"normalized": "undertake"
+}
+},
+{
+"subject": {
+"text": "Nepalgunj Road-Nepalgunj"
+},
+"sentence": " The meeting appreciated the work undertaken in the final location survey (FLS) for the remaining three rail links, New Jalpaiguri-Kakarbhitta, Nautanwa-Bhairahawa, and Nepalgunj Road-Nepalgunj which are to be implemented under Phase-II.",
+"object": {
+"text": "implemented under Phase-II"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "future"
+},
+"text": "be",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "New Jalpaiguri-Kakarbhitta, Nautanwa-Bhairahawa, and Nepalgunj Road-Nepalgunj"
+},
+"sentence": " The meeting appreciated the work undertaken in the final location survey (FLS) for the remaining three rail links, New Jalpaiguri-Kakarbhitta, Nautanwa-Bhairahawa, and Nepalgunj Road-Nepalgunj which are to be implemented under Phase-II.",
+"action": {
+"verb": {
+"text": "implement",
+"tense": "past"
+},
+"text": "are to be implemented",
+"normalized": "be to be implement"
+}
+},
+{
+"subject": {
+"text": "An Indian team"
+},
+"sentence": " An Indian team has conducted the first round of survey for the railway.",
+"object": {
+"text": "conducted the first round of survey for the railway"
+},
+"action": {
+"verb": {
+"text": "have",
+"tense": "present"
+},
+"text": "has",
+"normalized": "have"
+}
+},
+{
+"subject": {
+"text": "An Indian team"
+},
+"sentence": " An Indian team has conducted the first round of survey for the railway.",
+"object": {
+"text": "the first round of survey"
+},
+"action": {
+"verb": {
+"text": "conduct",
+"tense": "past"
+},
+"text": "has conducted",
+"normalized": "have conduct"
+}
+},
+{
+"subject": {
+"text": "The Nepali side"
+},
+"sentence": " \"The Nepali side has conveyed its deep appreciation for the support of Government of India in the development of the India-Nepal cross border rail links, which would enhance people-to-people linkages between the two countries and promote economic growth and development in the region.",
+"object": {
+"text": "its deep appreciation for the support of Government of India in the development of the India-Nepal cross border rail links, which would enhance people-to-people linkages between the two countries and promote economic growth and development in the region"
+},
+"action": {
+"verb": {
+"text": "convey",
+"tense": "past"
+},
+"text": "has conveyed",
+"normalized": "have convey"
+}
+},
+{
+"subject": {
+"text": "people-to-people linkages between the two countries"
+},
+"sentence": " \"The Nepali side has conveyed its deep appreciation for the support of Government of India in the development of the India-Nepal cross border rail links, which would enhance people-to-people linkages between the two countries and promote economic growth and development in the region.",
+"object": {
+"text": "the India-Nepal cross border rail links"
+},
+"action": {
+"verb": {
+"text": "enhance",
+"tense": "future"
+},
+"text": "would enhance",
+"normalized": "would enhance"
+}
+},
+{
+"subject": {
+"text": "The India side"
+},
+"sentence": " \"The India side expressed its appreciation for the government of Nepal's commitment to expeditiously resolve all the outstanding issues including making available remaining land required for completion of the ongoing rail link projects,\" the statement said.",
+"object": {
+"text": "its appreciation for the government of Nepal"
+},
+"action": {
+"verb": {
+"text": "express",
+"tense": "past"
+},
+"text": "expressed",
+"normalized": "express"
+}
+},
+{
+"subject": {
+"text": "the government of Nepal"
+},
+"sentence": " \"The India side expressed its appreciation for the government of Nepal's commitment to expeditiously resolve all the outstanding issues including making available remaining land required for completion of the ongoing rail link projects,\" the statement said.",
+"object": {
+"text": "all the outstanding issues including making available remaining land required for completion of the ongoing rail link projects"
+},
+"action": {
+"verb": {
+"text": "resolve",
+"tense": "present"
+},
+"text": "resolve",
+"normalized": "resolve"
+}
+},
+{
+"subject": {
+"text": "making available remaining land required for completion of the ongoing rail link projects"
+},
+"sentence": " \"The India side expressed its appreciation for the government of Nepal's commitment to expeditiously resolve all the outstanding issues including making available remaining land required for completion of the ongoing rail link projects,\" the statement said.",
+"object": {
+"text": "all the outstanding issues"
+},
+"action": {
+"verb": {
+"text": "include",
+"tense": "present"
+},
+"text": "including",
+"normalized": "include"
+}
+},
+{
+"subject": {
+"text": "remaining land"
+},
+"sentence": " \"The India side expressed its appreciation for the government of Nepal's commitment to expeditiously resolve all the outstanding issues including making available remaining land required for completion of the ongoing rail link projects,\" the statement said.",
+"object": {
+"text": "available"
+},
+"action": {
+"verb": {
+"text": "make",
+"tense": "present"
+},
+"text": "making",
+"normalized": "make"
+}
+},
+{
+"subject": {
+"text": "the statement"
+},
+"sentence": " \"The India side expressed its appreciation for the government of Nepal's commitment to expeditiously resolve all the outstanding issues including making available remaining land required for completion of the ongoing rail link projects,\" the statement said.",
+"object": {
+"text": "all the outstanding issues including making available remaining land required for completion of the ongoing rail link projects"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "China and Nepal"
+},
+"sentence": " China and Nepal have agreed to build a strategic railway link connecting Tibet with Kathmandu, which Nepalese Prime Minister Oli sees as an alternative trade route for supply of commodities to the landlocked Himalayan nation.",
+"object": {
+"text": "to build a strategic railway link connecting Tibet with Kathmandu, which Nepalese Prime Minister Oli sees as an alternative trade route for supply of commodities to the landlocked Himalayan nation"
+},
+"action": {
+"verb": {
+"text": "agree",
+"tense": "past"
+},
+"text": "agreed",
+"normalized": "agree"
+}
+},
+{
+"subject": {
+"text": "China and Nepal"
+},
+"sentence": " China and Nepal have agreed to build a strategic railway link connecting Tibet with Kathmandu, which Nepalese Prime Minister Oli sees as an alternative trade route for supply of commodities to the landlocked Himalayan nation.",
+"object": {
+"text": "a strategic railway link"
+},
+"action": {
+"verb": {
+"text": "build",
+"tense": "future"
+},
+"text": "have agreed to build",
+"normalized": "have agree to build"
+}
+},
+{
+"subject": {
+"text": "The detailed project"
+},
+"sentence": " The detailed project planning report (DPR) of the Kerung-Kathmandu rail line would be completed in one-and-a-half years or so.",
+"object": {
+"text": "report (DPR) of the Kerung-Kathmandu rail line"
+},
+"action": {
+"verb": {
+"text": "plan",
+"tense": "present"
+},
+"text": "planning",
+"normalized": "plan"
+}
+},
+{
+"subject": {
+"text": "The detailed project planning report (DPR) of the Kerung-Kathmandu rail line"
+},
+"sentence": " The detailed project planning report (DPR) of the Kerung-Kathmandu rail line would be completed in one-and-a-half years or so.",
+"object": {
+"text": "completed"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "future"
+},
+"text": "be",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "The detailed project planning report (DPR) of the Kerung-Kathmandu rail line"
+},
+"sentence": " The detailed project planning report (DPR) of the Kerung-Kathmandu rail line would be completed in one-and-a-half years or so.",
+"action": {
+"verb": {
+"text": "complete",
+"tense": "future"
+},
+"text": "would be completed",
+"normalized": "would be complete"
+}
+},
+{
+"subject": {
+"text": "China"
+},
+"sentence": " China has been building rail, road and air links in the remote Tibet spending billions of dollars.",
+"object": {
+"text": "been building rail"
+},
+"action": {
+"verb": {
+"text": "have",
+"tense": "present"
+},
+"text": "has",
+"normalized": "have"
+}
+},
+{
+"subject": {
+"text": "China"
+},
+"sentence": " China has been building rail, road and air links in the remote Tibet spending billions of dollars.",
+"object": {
+"text": "building rail, road and air links in the remote Tibet spending billions of dollars"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "been",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "China"
+},
+"sentence": " China has been building rail, road and air links in the remote Tibet spending billions of dollars.",
+"object": {
+"text": "rail, road and air links in the remote Tibet spending billions of dollars"
+},
+"action": {
+"verb": {
+"text": "build",
+"tense": "past"
+},
+"text": "has been building",
+"normalized": "have be build"
+}
+},
+{
+"subject": {
+"text": "Oli"
+},
+"sentence": " During the visit of Prime Minister to Nepal in May, Oli had said the two countries have agreed to expedite implementation of all pending projects of bilateral cooperation by Nepal's Constitution Day in September.",
+"action": {
+"verb": {
+"text": "have",
+"tense": "future"
+},
+"text": "had said",
+"normalized": "have say"
+}
+},
+{
+"subject": {
+"text": "Oli"
+},
+"sentence": " During the visit of Prime Minister to Nepal in May, Oli had said the two countries have agreed to expedite implementation of all pending projects of bilateral cooperation by Nepal's Constitution Day in September.",
+"object": {
+"text": "the two countries have agreed to expedite implementation of all pending projects of bilateral cooperation by Nepal's Constitution Day in September"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "had said",
+"normalized": "have say"
+}
+},
+{
+"subject": {
+"text": "the two countries"
+},
+"sentence": " During the visit of Prime Minister to Nepal in May, Oli had said the two countries have agreed to expedite implementation of all pending projects of bilateral cooperation by Nepal's Constitution Day in September.",
+"action": {
+"verb": {
+"text": "have",
+"tense": "past"
+},
+"text": "have agreed to expedite",
+"normalized": "have agree to expedite"
+}
+},
+{
+"subject": {
+"text": "the two countries"
+},
+"sentence": " During the visit of Prime Minister to Nepal in May, Oli had said the two countries have agreed to expedite implementation of all pending projects of bilateral cooperation by Nepal's Constitution Day in September.",
+"object": {
+"text": "to expedite implementation of all pending projects of bilateral cooperation by Nepal's Constitution Day in September"
+},
+"action": {
+"verb": {
+"text": "agree",
+"tense": "past"
+},
+"text": "agreed",
+"normalized": "agree"
+}
+}
+],
+"relations": [
+{
+"type": "agentOf",
+"sentence": "KATHMANDU: Nepal and India have agreed to seal an agreement for preliminary engineering cum traffic survey for building a rail link that will connect Raxual in Bihar to the Nepalese capital, weeks after Nepal and China agreed on a feasibility study for a railway line connecting Tibet with the Himalayan nation.",
+"score": 0.977166,
+"arguments": [
+{
+"text": "India",
+"location": [
+21,
+26
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "India",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+},
+{
+"text": "agreed",
+"location": [
+32,
+38
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "agreed"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Nepal and India had agreed to construct railway line linking Raxaul with Kathmandu during Prime Minister 's visit to India.",
+"score": 0.615843,
+"arguments": [
+{
+"text": "India",
+"location": [
+322,
+327
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "India",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+},
+{
+"text": "agreed",
+"location": [
+332,
+338
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "agreed"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Senior government officials from Nepal and India on Monday agreed to seal the Memorandum of Understanding of the Raxaul-Kathmandu rail line as soon as possible.",
+"score": 0.498308,
+"arguments": [
+{
+"text": "India",
+"location": [
+660,
+665
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "India",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+},
+{
+"text": "agreed",
+"location": [
+676,
+682
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "agreed"
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "Senior government officials from Nepal and India on Monday agreed to seal the Memorandum of Understanding of the Raxaul-Kathmandu rail line as soon as possible.",
+"score": 0.665332,
+"arguments": [
+{
+"text": "officials",
+"location": [
+635,
+644
+],
+"entities": [
+{
+"type": "Person",
+"text": "officials"
+}
+]
+},
+{
+"text": "Nepal",
+"location": [
+650,
+655
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Nepalese",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "Senior government officials from Nepal and India on Monday agreed to seal the Memorandum of Understanding of the Raxaul-Kathmandu rail line as soon as possible.",
+"score": 0.505598,
+"arguments": [
+{
+"text": "officials",
+"location": [
+635,
+644
+],
+"entities": [
+{
+"type": "Person",
+"text": "officials"
+}
+]
+},
+{
+"text": "India",
+"location": [
+660,
+665
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "India",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "timeOf",
+"sentence": "Senior government officials from Nepal and India on Monday agreed to seal the Memorandum of Understanding of the Raxaul-Kathmandu rail line as soon as possible.",
+"score": 0.86035,
+"arguments": [
+{
+"text": "Monday",
+"location": [
+669,
+675
+],
+"entities": [
+{
+"type": "Date",
+"text": "Monday"
+}
+]
+},
+{
+"text": "agreed",
+"location": [
+676,
+682
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "agreed"
+}
+]
+}
+]
+},
+{
+"type": "partOf",
+"sentence": "During the meeting both sides agreed to put concerted efforts and resolve all issues expeditiously, to complete the railway lines from Jayanagar to Janakpur-Kurtha and from Jogbani to Biratnagar Customs Yard by the October 2018 time line, the Kathmandu Post reported.",
+"score": 0.253062,
+"arguments": [
+{
+"text": "agreed",
+"location": [
+883,
+889
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "agreed"
+}
+]
+},
+{
+"text": "meeting",
+"location": [
+864,
+871
+],
+"entities": [
+{
+"type": "EventMeeting",
+"text": "meeting"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "During the meeting both sides agreed to put concerted efforts and resolve all issues expeditiously, to complete the railway lines from Jayanagar to Janakpur-Kurtha and from Jogbani to Biratnagar Customs Yard by the October 2018 time line, the Kathmandu Post reported.",
+"score": 0.570666,
+"arguments": [
+{
+"text": "sides",
+"location": [
+877,
+882
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "sides",
+"disambiguation": {
+"subtype": [
+"Area"
+]
+}
+}
+]
+},
+{
+"text": "agreed",
+"location": [
+883,
+889
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "agreed"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "During the meeting both sides agreed to put concerted efforts and resolve all issues expeditiously, to complete the railway lines from Jayanagar to Janakpur-Kurtha and from Jogbani to Biratnagar Customs Yard by the October 2018 time line, the Kathmandu Post reported.",
+"score": 0.983109,
+"arguments": [
+{
+"text": "Kathmandu Post",
+"location": [
+1096,
+1110
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Kathmandu Post"
+}
+]
+},
+{
+"text": "reported",
+"location": [
+1111,
+1119
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "reported"
+}
+]
+}
+]
+},
+{
+"type": "partOf",
+"sentence": "Ministry of Physical Infrastructure and Transport (MoPIT) Joint Secretary Keshab Kumar Sharma and India's Ministry of External Affairs joint secretary (DPA-III) Namgya Khampa took part in the meeting.",
+"score": 0.929746,
+"arguments": [
+{
+"text": "Ministry of External Affairs",
+"location": [
+1227,
+1255
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Ministry of External Affairs",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+},
+{
+"text": "India",
+"location": [
+1219,
+1224
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "India",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "Ministry of Physical Infrastructure and Transport (MoPIT) Joint Secretary Keshab Kumar Sharma and India's Ministry of External Affairs joint secretary (DPA-III) Namgya Khampa took part in the meeting.",
+"score": 0.620707,
+"arguments": [
+{
+"text": "secretary",
+"location": [
+1262,
+1271
+],
+"entities": [
+{
+"type": "Person",
+"text": "Keshab Kumar Sharma"
+}
+]
+},
+{
+"text": "Ministry of External Affairs",
+"location": [
+1227,
+1255
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Ministry of External Affairs",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "participantIn",
+"sentence": "Ministry of Physical Infrastructure and Transport (MoPIT) Joint Secretary Keshab Kumar Sharma and India's Ministry of External Affairs joint secretary (DPA-III) Namgya Khampa took part in the meeting.",
+"score": 0.588648,
+"arguments": [
+{
+"text": "Namgya Khampa",
+"location": [
+1282,
+1295
+],
+"entities": [
+{
+"type": "Person",
+"text": "Namgya Khampa"
+}
+]
+},
+{
+"text": "meeting",
+"location": [
+1313,
+1320
+],
+"entities": [
+{
+"type": "EventMeeting",
+"text": "meeting"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "The meeting appreciated the work undertaken in the final location survey (FLS) for the remaining three rail links, New Jalpaiguri-Kakarbhitta, Nautanwa-Bhairahawa, and Nepalgunj Road-Nepalgunj which are to be implemented under Phase-II.",
+"score": 0.973016,
+"arguments": [
+{
+"text": "New Jalpaiguri-Kakarbhitta",
+"location": [
+1659,
+1685
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "New Jalpaiguri-Kakarbhitta"
+}
+]
+},
+{
+"text": "Nautanwa-Bhairahawa",
+"location": [
+1687,
+1706
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Nautanwa-Bhairahawa"
+}
+]
+}
+]
+},
+{
+"type": "capitalOf",
+"sentence": "KATHMANDU: Nepal and India have agreed to seal an agreement for preliminary engineering cum traffic survey for building a rail link that will connect Raxual in Bihar to the Nepalese capital, weeks after Nepal and China agreed on a feasibility study for a railway line connecting Tibet with the Himalayan nation.",
+"score": 0.459491,
+"arguments": [
+{
+"text": "capital",
+"location": [
+182,
+189
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Bihar"
+}
+]
+},
+{
+"text": "Nepalese",
+"location": [
+173,
+181
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Nepalese"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "The meeting appreciated the work undertaken in the final location survey (FLS) for the remaining three rail links, New Jalpaiguri-Kakarbhitta, Nautanwa-Bhairahawa, and Nepalgunj Road-Nepalgunj which are to be implemented under Phase-II.",
+"score": 0.779041,
+"arguments": [
+{
+"text": "Nepalgunj Road",
+"location": [
+1712,
+1726
+],
+"entities": [
+{
+"type": "Facility",
+"text": "Nepalgunj Road"
+}
+]
+},
+{
+"text": "New Jalpaiguri-Kakarbhitta",
+"location": [
+1659,
+1685
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "New Jalpaiguri-Kakarbhitta"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "The meeting appreciated the work undertaken in the final location survey (FLS) for the remaining three rail links, New Jalpaiguri-Kakarbhitta, Nautanwa-Bhairahawa, and Nepalgunj Road-Nepalgunj which are to be implemented under Phase-II.",
+"score": 0.57185,
+"arguments": [
+{
+"text": "Nepalgunj Road",
+"location": [
+1712,
+1726
+],
+"entities": [
+{
+"type": "Facility",
+"text": "Nepalgunj Road"
+}
+]
+},
+{
+"text": "Nautanwa-Bhairahawa",
+"location": [
+1687,
+1706
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Nautanwa-Bhairahawa"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "\"The India side expressed its appreciation for the government of Nepal's commitment to expeditiously resolve all the outstanding issues including making available remaining land required for completion of the ongoing rail link projects,\" the statement said.",
+"score": 0.864058,
+"arguments": [
+{
+"text": "India",
+"location": [
+2143,
+2148
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "India",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+},
+{
+"text": "expressed",
+"location": [
+2154,
+2163
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "expressed"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "China and Nepal have agreed to build a strategic railway link connecting Tibet with Kathmandu, which Nepalese Prime Minister Oli sees as an alternative trade route for supply of commodities to the landlocked Himalayan nation.",
+"score": 0.548235,
+"arguments": [
+{
+"text": "China",
+"location": [
+2396,
+2401
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "China",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+},
+{
+"text": "agreed",
+"location": [
+2417,
+2423
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "agreed"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "China and Nepal have agreed to build a strategic railway link connecting Tibet with Kathmandu, which Nepalese Prime Minister Oli sees as an alternative trade route for supply of commodities to the landlocked Himalayan nation.",
+"score": 0.61246,
+"arguments": [
+{
+"text": "Nepal",
+"location": [
+2406,
+2411
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Nepalese",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+},
+{
+"text": "agreed",
+"location": [
+2417,
+2423
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "agreed"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "China and Nepal have agreed to build a strategic railway link connecting Tibet with Kathmandu, which Nepalese Prime Minister Oli sees as an alternative trade route for supply of commodities to the landlocked Himalayan nation.",
+"score": 0.45444,
+"arguments": [
+{
+"text": "railway",
+"location": [
+2445,
+2452
+],
+"entities": [
+{
+"type": "Organization",
+"text": "MoU of Raxaul-Kathmandu railway"
+}
+]
+},
+{
+"text": "Tibet",
+"location": [
+2469,
+2474
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Tibet"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "China and Nepal have agreed to build a strategic railway link connecting Tibet with Kathmandu, which Nepalese Prime Minister Oli sees as an alternative trade route for supply of commodities to the landlocked Himalayan nation.",
+"score": 0.751686,
+"arguments": [
+{
+"text": "Tibet",
+"location": [
+2469,
+2474
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Tibet"
+}
+]
+},
+{
+"text": "Kathmandu",
+"location": [
+2480,
+2489
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "KATHMANDU"
+}
+]
+}
+]
+},
+{
+"type": "partOf",
+"sentence": "China and Nepal have agreed to build a strategic railway link connecting Tibet with Kathmandu, which Nepalese Prime Minister Oli sees as an alternative trade route for supply of commodities to the landlocked Himalayan nation.",
+"score": 0.218429,
+"arguments": [
+{
+"text": "Nepalese",
+"location": [
+2497,
+2505
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Nepalese",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+},
+{
+"text": "which",
+"location": [
+2491,
+2496
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Tibet"
+}
+]
+}
+]
+},
+{
+"type": "managerOf",
+"sentence": "China and Nepal have agreed to build a strategic railway link connecting Tibet with Kathmandu, which Nepalese Prime Minister Oli sees as an alternative trade route for supply of commodities to the landlocked Himalayan nation.",
+"score": 0.401755,
+"arguments": [
+{
+"text": "Prime Minister",
+"location": [
+2506,
+2520
+],
+"entities": [
+{
+"type": "Person",
+"text": "Oli"
+}
+]
+},
+{
+"text": "Nepalese",
+"location": [
+2497,
+2505
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Nepalese",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "During the visit of Prime Minister to Nepal in May, Oli had said the two countries have agreed to expedite implementation of all pending projects of bilateral cooperation by Nepal's Constitution Day in September.",
+"score": 0.975304,
+"arguments": [
+{
+"text": "Oli",
+"location": [
+2900,
+2903
+],
+"entities": [
+{
+"type": "Person",
+"text": "Oli"
+}
+]
+},
+{
+"text": "said",
+"location": [
+2908,
+2912
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "partner",
+"sentence": "KATHMANDU: Nepal and India have agreed to seal an agreement for preliminary engineering cum traffic survey for building a rail link that will connect Raxual in Bihar to the Nepalese capital, weeks after Nepal and China agreed on a feasibility study for a railway line connecting Tibet with the Himalayan nation.",
+"score": 0.471657,
+"arguments": [
+{
+"text": "Nepal",
+"location": [
+203,
+208
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Nepalese",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+},
+{
+"text": "China",
+"location": [
+213,
+218
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "China",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "During the visit of Prime Minister to Nepal in May, Oli had said the two countries have agreed to expedite implementation of all pending projects of bilateral cooperation by Nepal's Constitution Day in September.",
+"score": 0.941264,
+"arguments": [
+{
+"text": "countries",
+"location": [
+2921,
+2930
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "countries",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+},
+{
+"text": "agreed",
+"location": [
+2936,
+2942
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "agreed"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "KATHMANDU: Nepal and India have agreed to seal an agreement for preliminary engineering cum traffic survey for building a rail link that will connect Raxual in Bihar to the Nepalese capital, weeks after Nepal and China agreed on a feasibility study for a railway line connecting Tibet with the Himalayan nation.",
+"score": 0.692473,
+"arguments": [
+{
+"text": "Tibet",
+"location": [
+279,
+284
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Tibet"
+}
+]
+},
+{
+"text": "Himalayan",
+"location": [
+294,
+303
+],
+"entities": [
+{
+"type": "GeographicFeature",
+"text": "Himalayan"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "KATHMANDU: Nepal and India have agreed to seal an agreement for preliminary engineering cum traffic survey for building a rail link that will connect Raxual in Bihar to the Nepalese capital, weeks after Nepal and China agreed on a feasibility study for a railway line connecting Tibet with the Himalayan nation.",
+"score": 0.682574,
+"arguments": [
+{
+"text": "nation",
+"location": [
+304,
+310
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "nation",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+},
+{
+"text": "Tibet",
+"location": [
+279,
+284
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Tibet"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "KATHMANDU: Nepal and India have agreed to seal an agreement for preliminary engineering cum traffic survey for building a rail link that will connect Raxual in Bihar to the Nepalese capital, weeks after Nepal and China agreed on a feasibility study for a railway line connecting Tibet with the Himalayan nation.",
+"score": 0.268299,
+"arguments": [
+{
+"text": "nation",
+"location": [
+304,
+310
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "nation",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+},
+{
+"text": "Himalayan",
+"location": [
+294,
+303
+],
+"entities": [
+{
+"type": "GeographicFeature",
+"text": "Himalayan"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "China and Nepal have agreed to build a strategic railway link connecting Tibet with Kathmandu, which Nepalese Prime Minister Oli sees as an alternative trade route for supply of commodities to the landlocked Himalayan nation.",
+"score": 0.325962,
+"arguments": [
+{
+"text": "nation",
+"location": [
+2614,
+2620
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "nation",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+},
+{
+"text": "Himalayan",
+"location": [
+2604,
+2613
+],
+"entities": [
+{
+"type": "GeographicFeature",
+"text": "Himalayan"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Nepal and India had agreed to construct railway line linking Raxaul with Kathmandu during Prime Minister 's visit to India.",
+"score": 0.558599,
+"arguments": [
+{
+"text": "Nepal",
+"location": [
+312,
+317
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Nepalese",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+},
+{
+"text": "agreed",
+"location": [
+332,
+338
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "agreed"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "Nepal and India had agreed to construct railway line linking Raxaul with Kathmandu during Prime Minister 's visit to India.",
+"score": 0.906966,
+"arguments": [
+{
+"text": "Raxaul",
+"location": [
+373,
+379
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Raxaul"
+}
+]
+},
+{
+"text": "Kathmandu",
+"location": [
+385,
+394
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "KATHMANDU"
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "Senior government officials from Nepal and India on Monday agreed to seal the Memorandum of Understanding of the Raxaul-Kathmandu rail line as soon as possible.",
+"score": 0.855434,
+"arguments": [
+{
+"text": "officials",
+"location": [
+635,
+644
+],
+"entities": [
+{
+"type": "Person",
+"text": "officials"
+}
+]
+},
+{
+"text": "government",
+"location": [
+624,
+634
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Memorandum of Understanding of the Raxaul-Kathmandu"
+}
+]
+}
+]
+}
+],
+"language": "en",
+"keywords": [
+{
+"text": "railway line",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.935078,
+"emotion": {
+"sadness": 0.256829,
+"joy": 0.465096,
+"fear": 0.066156,
+"disgust": 0.091548,
+"anger": 0.053566
+}
+},
+{
+"text": "Prime Minister",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.896997,
+"emotion": {
+"sadness": 0.178678,
+"joy": 0.39706,
+"fear": 0.030635,
+"disgust": 0.103684,
+"anger": 0.023268
+}
+},
+{
+"text": "Raxaul-Kathmandu rail line",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.893181,
+"emotion": {
+"sadness": 0.246053,
+"joy": 0.280976,
+"fear": 0.132391,
+"disgust": 0.165105,
+"anger": 0.111762
+}
+},
+{
+"text": "rail link",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.862114,
+"emotion": {
+"sadness": 0.148615,
+"joy": 0.220647,
+"fear": 0.07624,
+"disgust": 0.041209,
+"anger": 0.180897
+}
+},
+{
+"text": "Nepal",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.85871,
+"emotion": {
+"sadness": 0.204584,
+"joy": 0.331017,
+"fear": 0.128103,
+"disgust": 0.084908,
+"anger": 0.060497
+}
+}
+],
+"entities": [
+{
+"type": "Location",
+"text": "Nepal",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.800317,
+"emotion": {
+"sadness": 0.202009,
+"joy": 0.336335,
+"fear": 0.114594,
+"disgust": 0.082452,
+"anger": 0.061151
+},
+"disambiguation": {
+"subtype": [
+"GovernmentalJurisdiction",
+"Kingdom",
+"Cuisine",
+"Country"
+],
+"name": "Nepal",
+"dbpedia_resource": "http://dbpedia.org/resource/Nepal"
+},
+"count": 9
+},
+{
+"type": "Location",
+"text": "India",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.797132,
+"emotion": {
+"sadness": 0.218306,
+"joy": 0.243616,
+"fear": 0.164478,
+"disgust": 0.08638,
+"anger": 0.088932
+},
+"disambiguation": {
+"subtype": [
+"HumanLanguage",
+"Region",
+"GovernmentalJurisdiction",
+"FilmEditor",
+"Country"
+],
+"name": "India",
+"dbpedia_resource": "http://dbpedia.org/resource/India"
+},
+"count": 9
+},
+{
+"type": "Location",
+"text": "KATHMANDU",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.43248,
+"emotion": {
+"sadness": 0.15537,
+"joy": 0.484694,
+"fear": 0.079319,
+"disgust": 0.071553,
+"anger": 0.031674
+},
+"disambiguation": {
+"subtype": [
+"TouristAttraction",
+"City"
+],
+"name": "Kathmandu",
+"dbpedia_resource": "http://dbpedia.org/resource/Kathmandu"
+},
+"count": 3
+},
+{
+"type": "JobTitle",
+"text": "Prime Minister",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.34084,
+"emotion": {
+"sadness": 0.178678,
+"joy": 0.39706,
+"fear": 0.030635,
+"disgust": 0.103684,
+"anger": 0.023268
+},
+"count": 3
+},
+{
+"type": "Organization",
+"text": "Government of India",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.313052,
+"emotion": {
+"sadness": 0.222715,
+"joy": 0.247634,
+"fear": 0.272627,
+"disgust": 0.055968,
+"anger": 0.036076
+},
+"count": 1
+}
+],
+"concepts": [
+{
+"text": "Nepal",
+"relevance": 0.952783,
+"dbpedia_resource": "http://dbpedia.org/resource/Nepal"
+},
+{
+"text": "Kathmandu",
+"relevance": 0.912853,
+"dbpedia_resource": "http://dbpedia.org/resource/Kathmandu"
+},
+{
+"text": "Rail transport",
+"relevance": 0.718881,
+"dbpedia_resource": "http://dbpedia.org/resource/Rail_transport"
+},
+{
+"text": "Bihar",
+"relevance": 0.675182,
+"dbpedia_resource": "http://dbpedia.org/resource/Bihar"
+},
+{
+"text": "Rail tracks",
+"relevance": 0.670625,
+"dbpedia_resource": "http://dbpedia.org/resource/Rail_tracks"
+}
+],
+"categories": [
+{
+"score": 0.414878,
+"label": "/law, govt and politics/government"
+},
+{
+"score": 0.407088,
+"label": "/technology and computing/programming languages/javascript"
+},
+{
+"score": 0.391052,
+"label": "/sports/cricket"
+}
+]
+}
+}

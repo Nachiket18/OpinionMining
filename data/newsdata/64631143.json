@@ -1,0 +1,1059 @@
+{
+"source_article_link": "https://timesofindia.indiatimes.com/india/two-terrorists-killed-in-encounter-in-jammu-and-kashmir/articleshow/64631143.cms?&utm_source=Articleshow&utm_medium=Organic&utm_campaign=Related_Stories",
+"title": "Two terrorists killed in encounter in Jammu and Kashmir",
+"date_published": "2018-06-18T12:45:55+05:30",
+"source_type": "news_article",
+"source_name": "timesofindia.indiatimes.com",
+"image_link": [
+"https://timesofindia.indiatimes.com/thumb/msid-64631144,imgsize-424404,width-400,resizemode-4/64631144.jpg"
+],
+"article_body": "SRINAGAR: Two terrorists were killed in a gunbattle with security forces in Bandipora district of on Monday, the Army said. The operation comes a day after the Centre announced its decision not to extend the ceasefire in the state. An Army official said that security forces launched an anti-militancy operation in Bandipora district on Monday morning following information about presence of terrorists in the area. He said two terrorists have been killed so far even as the operation continues to be in progress. The identity and group affiliation of the slain terrorists was not immediately known. Security forces have adopted a proactive approach setting up check barriers at various places across the valley including the summer capital of the state. Police and other security agencies were carrying out random checks of vehicles entering the city at various places. The intensification in the area domination operations and checking of vehicles comes in the wake of significant rise in number of attacks on security forces in the city during the month of Ramzan.",
+"description": "SRINAGAR: Two terrorists were killed in a gunbattle with security forces in Bandipora district of on Monday, the Army said. The operation comes a day after the Centre announced its decision not to extend the ceasefire in the state. An Army official said that security forces launched an anti-militancy operation in Bandipora district on Monday morning following information about presence of terrorists in the area. He said two terrorists have been killed so far even as the operation continues to be in progress.",
+"time_scraped": "2018-08-24 09:02:26.171111",
+"article_id": "64631143",
+"article_category": "IndiaNews",
+"image_details": [
+{
+"url": "https://timesofindia.indiatimes.com/thumb/msid-64631144,imgsize-424404,width-400,resizemode-4/64631144.jpg",
+"path": "full/bfa0e0efde79f7f8bc37ddfecfcda6b0eb35f665.jpg",
+"checksum": "f4a384b5013526a3a1b8cd8c5ac7064a"
+}
+],
+"ibm_nlu": {
+"usage": {
+"text_units": 1,
+"text_characters": 1067,
+"features": 7
+},
+"sentiment": {
+"document": {
+"score": -0.361306,
+"label": "negative"
+}
+},
+"semantic_roles": [
+{
+"subject": {
+"text": "Two terrorists"
+},
+"sentence": "SRINAGAR: Two terrorists were killed in a gunbattle with security forces in Bandipora district of on Monday, the Army said.",
+"object": {
+"text": "killed in a gunbattle with security forces"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "were",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "the Army"
+},
+"sentence": "SRINAGAR: Two terrorists were killed in a gunbattle with security forces in Bandipora district of on Monday, the Army said.",
+"object": {
+"text": "Two terrorists were killed in a gunbattle with security forces in Bandipora district of on Monday"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "The operation"
+},
+"sentence": " The operation comes a day after the Centre announced its decision not to extend the ceasefire in the state.",
+"object": {
+"text": "a day"
+},
+"action": {
+"verb": {
+"text": "come",
+"tense": "present"
+},
+"text": "comes",
+"normalized": "come"
+}
+},
+{
+"subject": {
+"text": "the Centre"
+},
+"sentence": " The operation comes a day after the Centre announced its decision not to extend the ceasefire in the state.",
+"object": {
+"text": "its decision not to extend the ceasefire in the state"
+},
+"action": {
+"verb": {
+"text": "announce",
+"tense": "past"
+},
+"text": "announced",
+"normalized": "announce"
+}
+},
+{
+"subject": {
+"text": "the Centre"
+},
+"sentence": " The operation comes a day after the Centre announced its decision not to extend the ceasefire in the state.",
+"object": {
+"text": "the ceasefire"
+},
+"action": {
+"verb": {
+"text": "extend",
+"tense": "future",
+"negated": true
+},
+"text": "to extend",
+"normalized": "to extend"
+}
+},
+{
+"subject": {
+"text": "An Army official"
+},
+"sentence": " An Army official said that security forces launched an anti-militancy operation in Bandipora district on Monday morning following information about presence of terrorists in the area.",
+"object": {
+"text": "that security forces launched an anti-militancy operation in Bandipora district on Monday morning following information about presence of terrorists in the area"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "He"
+},
+"sentence": " He said two terrorists have been killed so far even as the operation continues to be in progress.",
+"object": {
+"text": "two terrorists have been killed so far even as the operation continues to be in progress"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "two terrorists"
+},
+"sentence": " He said two terrorists have been killed so far even as the operation continues to be in progress.",
+"action": {
+"verb": {
+"text": "kill",
+"tense": "past"
+},
+"text": "have been killed",
+"normalized": "have be kill"
+}
+},
+{
+"subject": {
+"text": "The identity and group affiliation of the slain terrorists"
+},
+"sentence": " The identity and group affiliation of the slain terrorists was not immediately known.",
+"action": {
+"verb": {
+"text": "know",
+"tense": "past",
+"negated": true
+},
+"text": "known",
+"normalized": "know"
+}
+},
+{
+"subject": {
+"text": "Security forces"
+},
+"sentence": " Security forces have adopted a proactive approach setting up check barriers at various places across the valley including the summer capital of the state.",
+"object": {
+"text": "adopted a proactive approach"
+},
+"action": {
+"verb": {
+"text": "have",
+"tense": "present"
+},
+"text": "have",
+"normalized": "have"
+}
+},
+{
+"subject": {
+"text": "Security forces"
+},
+"sentence": " Security forces have adopted a proactive approach setting up check barriers at various places across the valley including the summer capital of the state.",
+"object": {
+"text": "a proactive approach setting up check barriers at various places across the valley including the summer capital of the state"
+},
+"action": {
+"verb": {
+"text": "adopt",
+"tense": "past"
+},
+"text": "have adopted",
+"normalized": "have adopt"
+}
+},
+{
+"subject": {
+"text": "the summer capital of the state"
+},
+"sentence": " Security forces have adopted a proactive approach setting up check barriers at various places across the valley including the summer capital of the state.",
+"object": {
+"text": "the valley"
+},
+"action": {
+"verb": {
+"text": "include",
+"tense": "present"
+},
+"text": "including",
+"normalized": "include"
+}
+},
+{
+"subject": {
+"text": "Police and other security agencies"
+},
+"sentence": " Police and other security agencies were carrying out random checks of vehicles entering the city at various places.",
+"object": {
+"text": "carrying out random checks of vehicles"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "were",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "Police and other security agencies"
+},
+"sentence": " Police and other security agencies were carrying out random checks of vehicles entering the city at various places.",
+"object": {
+"text": "random checks of vehicles"
+},
+"action": {
+"verb": {
+"text": "carry",
+"tense": "past"
+},
+"text": "were carrying",
+"normalized": "be carry"
+}
+},
+{
+"subject": {
+"text": "The intensification in the area domination operations and checking of vehicles"
+},
+"sentence": " The intensification in the area domination operations and checking of vehicles comes in the wake of significant rise in number of attacks on security forces in the city during the month of Ramzan.",
+"action": {
+"verb": {
+"text": "come",
+"tense": "present"
+},
+"text": "comes",
+"normalized": "come"
+}
+}
+],
+"relations": [
+{
+"type": "residesIn",
+"sentence": "SRINAGAR: Two terrorists were killed in a gunbattle with security forces in Bandipora district of on Monday, the Army said.",
+"score": 0.386991,
+"arguments": [
+{
+"text": "terrorists",
+"location": [
+14,
+24
+],
+"entities": [
+{
+"type": "Person",
+"text": "terrorists"
+}
+]
+},
+{
+"text": "SRINAGAR",
+"location": [
+0,
+8
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "SRINAGAR"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "The identity and group affiliation of the slain terrorists was not immediately known.",
+"score": 0.67575,
+"arguments": [
+{
+"text": "terrorists",
+"location": [
+562,
+572
+],
+"entities": [
+{
+"type": "Person",
+"text": "terrorists"
+}
+]
+},
+{
+"text": "slain",
+"location": [
+556,
+561
+],
+"entities": [
+{
+"type": "EventViolence",
+"text": "slain"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "Police and other security agencies were carrying out random checks of vehicles entering the city at various places.",
+"score": 0.587895,
+"arguments": [
+{
+"text": "vehicles",
+"location": [
+825,
+833
+],
+"entities": [
+{
+"type": "Vehicle",
+"text": "vehicles"
+}
+]
+},
+{
+"text": "city",
+"location": [
+847,
+851
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "capital"
+}
+]
+}
+]
+},
+{
+"type": "populationOf",
+"sentence": "Police and other security agencies were carrying out random checks of vehicles entering the city at various places.",
+"score": 0.570832,
+"arguments": [
+{
+"text": "various",
+"location": [
+855,
+862
+],
+"entities": [
+{
+"type": "Cardinal",
+"text": "various"
+}
+]
+},
+{
+"text": "city",
+"location": [
+847,
+851
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "capital"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "Police and other security agencies were carrying out random checks of vehicles entering the city at various places.",
+"score": 0.82482,
+"arguments": [
+{
+"text": "places",
+"location": [
+863,
+869
+],
+"entities": [
+{
+"type": "Location",
+"text": "places"
+}
+]
+},
+{
+"text": "city",
+"location": [
+847,
+851
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "capital"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "The intensification in the area domination operations and checking of vehicles comes in the wake of significant rise in number of attacks on security forces in the city during the month of Ramzan.",
+"score": 0.5308,
+"arguments": [
+{
+"text": "security forces",
+"location": [
+1012,
+1027
+],
+"entities": [
+{
+"type": "Person",
+"text": "Security forces"
+}
+]
+},
+{
+"text": "vehicles",
+"location": [
+941,
+949
+],
+"entities": [
+{
+"type": "Vehicle",
+"text": "vehicles"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "The intensification in the area domination operations and checking of vehicles comes in the wake of significant rise in number of attacks on security forces in the city during the month of Ramzan.",
+"score": 0.427714,
+"arguments": [
+{
+"text": "security forces",
+"location": [
+1012,
+1027
+],
+"entities": [
+{
+"type": "Person",
+"text": "Security forces"
+}
+]
+},
+{
+"text": "attacks",
+"location": [
+1001,
+1008
+],
+"entities": [
+{
+"type": "EventViolence",
+"text": "attacks"
+}
+]
+}
+]
+},
+{
+"type": "residesIn",
+"sentence": "The intensification in the area domination operations and checking of vehicles comes in the wake of significant rise in number of attacks on security forces in the city during the month of Ramzan.",
+"score": 0.75667,
+"arguments": [
+{
+"text": "security forces",
+"location": [
+1012,
+1027
+],
+"entities": [
+{
+"type": "Person",
+"text": "Security forces"
+}
+]
+},
+{
+"text": "city",
+"location": [
+1035,
+1039
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "capital"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "SRINAGAR: Two terrorists were killed in a gunbattle with security forces in Bandipora district of on Monday, the Army said.",
+"score": 0.963032,
+"arguments": [
+{
+"text": "Army",
+"location": [
+113,
+117
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Army",
+"disambiguation": {
+"subtype": [
+"Military"
+]
+}
+}
+]
+},
+{
+"text": "said",
+"location": [
+118,
+122
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "announced"
+}
+]
+}
+]
+},
+{
+"type": "timeOf",
+"sentence": "The operation comes a day after the Centre announced its decision not to extend the ceasefire in the state.",
+"score": 0.951484,
+"arguments": [
+{
+"text": "a day after",
+"location": [
+144,
+155
+],
+"entities": [
+{
+"type": "Date",
+"text": "a day after"
+}
+]
+},
+{
+"text": "announced",
+"location": [
+167,
+176
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "announced"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "The operation comes a day after the Centre announced its decision not to extend the ceasefire in the state.",
+"score": 0.996594,
+"arguments": [
+{
+"text": "Centre",
+"location": [
+160,
+166
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Centre"
+}
+]
+},
+{
+"text": "announced",
+"location": [
+167,
+176
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "announced"
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "An Army official said that security forces launched an anti-militancy operation in Bandipora district on Monday morning following information about presence of terrorists in the area.",
+"score": 0.872929,
+"arguments": [
+{
+"text": "official",
+"location": [
+240,
+248
+],
+"entities": [
+{
+"type": "Person",
+"text": "official"
+}
+]
+},
+{
+"text": "Army",
+"location": [
+235,
+239
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Army",
+"disambiguation": {
+"subtype": [
+"Military"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "An Army official said that security forces launched an anti-militancy operation in Bandipora district on Monday morning following information about presence of terrorists in the area.",
+"score": 0.939464,
+"arguments": [
+{
+"text": "official",
+"location": [
+240,
+248
+],
+"entities": [
+{
+"type": "Person",
+"text": "official"
+}
+]
+},
+{
+"text": "said",
+"location": [
+249,
+253
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "announced"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "He said two terrorists have been killed so far even as the operation continues to be in progress.",
+"score": 0.983471,
+"arguments": [
+{
+"text": "He",
+"location": [
+416,
+418
+],
+"entities": [
+{
+"type": "Person",
+"text": "official"
+}
+]
+},
+{
+"text": "said",
+"location": [
+419,
+423
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "announced"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "An Army official said that security forces launched an anti-militancy operation in Bandipora district on Monday morning following information about presence of terrorists in the area.",
+"score": 0.792883,
+"arguments": [
+{
+"text": "security forces",
+"location": [
+259,
+274
+],
+"entities": [
+{
+"type": "Person",
+"text": "Security forces"
+}
+]
+},
+{
+"text": "Bandipora district",
+"location": [
+315,
+333
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Bandipora district"
+}
+]
+}
+]
+},
+{
+"type": "residesIn",
+"sentence": "An Army official said that security forces launched an anti-militancy operation in Bandipora district on Monday morning following information about presence of terrorists in the area.",
+"score": 0.675078,
+"arguments": [
+{
+"text": "terrorists",
+"location": [
+392,
+402
+],
+"entities": [
+{
+"type": "Person",
+"text": "terrorists"
+}
+]
+},
+{
+"text": "area",
+"location": [
+410,
+414
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "capital"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "The identity and group affiliation of the slain terrorists was not immediately known.",
+"score": 0.624841,
+"arguments": [
+{
+"text": "group",
+"location": [
+531,
+536
+],
+"entities": [
+{
+"type": "Organization",
+"text": "group"
+}
+]
+},
+{
+"text": "slain",
+"location": [
+556,
+561
+],
+"entities": [
+{
+"type": "EventViolence",
+"text": "slain"
+}
+]
+}
+]
+}
+],
+"language": "en",
+"keywords": [
+{
+"text": "security forces",
+"sentiment": {
+"score": -0.373301,
+"label": "negative"
+},
+"relevance": 0.905728,
+"emotion": {
+"sadness": 0.328879,
+"joy": 0.064194,
+"fear": 0.659131,
+"disgust": 0.044278,
+"anger": 0.145726
+}
+},
+{
+"text": "Bandipora district",
+"sentiment": {
+"score": -0.325104,
+"label": "negative"
+},
+"relevance": 0.775427,
+"emotion": {
+"sadness": 0.335631,
+"joy": 0.053958,
+"fear": 0.507736,
+"disgust": 0.184108,
+"anger": 0.263445
+}
+},
+{
+"text": "slain terrorists",
+"sentiment": {
+"score": -0.459398,
+"label": "negative"
+},
+"relevance": 0.730935,
+"emotion": {
+"sadness": 0.25998,
+"joy": 0.024023,
+"fear": 0.472016,
+"disgust": 0.12806,
+"anger": 0.410546
+}
+},
+{
+"text": "area domination operations",
+"sentiment": {
+"score": -0.421498,
+"label": "negative"
+},
+"relevance": 0.730478,
+"emotion": {
+"sadness": 0.377265,
+"joy": 0.032128,
+"fear": 0.517521,
+"disgust": 0.041662,
+"anger": 0.141292
+}
+},
+{
+"text": "various places",
+"sentiment": {
+"score": -0.394252,
+"label": "negative"
+},
+"relevance": 0.69337,
+"emotion": {
+"sadness": 0.205885,
+"joy": 0.078205,
+"fear": 0.502441,
+"disgust": 0.025666,
+"anger": 0.059058
+}
+}
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Army",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.889939,
+"emotion": {
+"sadness": 0.277946,
+"joy": 0.191935,
+"fear": 0.32815,
+"disgust": 0.254258,
+"anger": 0.175233
+},
+"count": 2
+},
+{
+"type": "Location",
+"text": "Bandipora",
+"sentiment": {
+"score": -0.325104,
+"label": "negative"
+},
+"relevance": 0.791512,
+"emotion": {
+"sadness": 0.335631,
+"joy": 0.053958,
+"fear": 0.507736,
+"disgust": 0.184108,
+"anger": 0.263445
+},
+"disambiguation": {
+"subtype": [
+"City"
+],
+"name": "Bandipore",
+"dbpedia_resource": "http://dbpedia.org/resource/Bandipore"
+},
+"count": 2
+},
+{
+"type": "Location",
+"text": "SRINAGAR",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.646444,
+"emotion": {
+"sadness": 0.0,
+"joy": 0.0,
+"fear": 0.0,
+"disgust": 0.0,
+"anger": 0.0
+},
+"disambiguation": {
+"subtype": [
+"City"
+]
+},
+"count": 1
+},
+{
+"type": "JobTitle",
+"text": "official",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.434747,
+"emotion": {
+"sadness": 0.246719,
+"joy": 0.241211,
+"fear": 0.363835,
+"disgust": 0.201534,
+"anger": 0.14606
+},
+"count": 1
+}
+],
+"concepts": [
+{
+"text": "Cheque",
+"relevance": 0.917579,
+"dbpedia_resource": "http://dbpedia.org/resource/Cheque"
+},
+{
+"text": "Police",
+"relevance": 0.593084,
+"dbpedia_resource": "http://dbpedia.org/resource/Police"
+},
+{
+"text": "Adoption",
+"relevance": 0.585779,
+"dbpedia_resource": "http://dbpedia.org/resource/Adoption"
+},
+{
+"text": "State",
+"relevance": 0.584973,
+"dbpedia_resource": "http://dbpedia.org/resource/State"
+},
+{
+"text": "Monday",
+"relevance": 0.57156,
+"dbpedia_resource": "http://dbpedia.org/resource/Monday"
+}
+],
+"categories": [
+{
+"score": 0.539715,
+"label": "/law, govt and politics/armed forces/army"
+},
+{
+"score": 0.349373,
+"label": "/law, govt and politics/government"
+},
+{
+"score": 0.297857,
+"label": "/law, govt and politics/law enforcement/police"
+}
+]
+}
+}

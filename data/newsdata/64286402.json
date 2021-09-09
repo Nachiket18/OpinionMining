@@ -1,0 +1,874 @@
+{
+"source_article_link": "https://timesofindia.indiatimes.com/india/election-commission-rejects-bs-yeddyurappas-charges-of-poll-fraud/articleshow/64286402.cms?&utm_source=Articleshow&utm_medium=Organic&utm_campaign=Related_Stories",
+"title": "Election Commission rejects BS Yeddyurappa's charges of poll fraud",
+"date_published": "2018-05-23T14:51:47+05:30",
+"source_type": "news_article",
+"source_name": "timesofindia.indiatimes.com",
+"image_link": [
+"https://timesofindia.indiatimes.com/thumb/msid-64286441,imgsize-54528,width-400,resizemode-4/64286441.jpg"
+],
+"article_body": "BENGALURU: Karnataka\u2019s Chief Electoral Officer has clarified that boxes carrying VVPATs found in Managuli village of taluk in district did not belong to the (EC). \u201cEight VVPAT-carrying cases were found in a temporary shed. But they had no machines and papers and lacked the unique electronic tracking number too. This must have been dumped just to create confusion. We will initiate strict action against those who are trying to create confusion,\u201d Kumar said. Kumar also said no VVPAT machines were found at the spot when the deputy commissioner and the superintendent of police personally visited the site and conducted inspection. On Tuesday, had written to the Chief Election Commissioner (CEC), alleging \u2018grave irregularities\u2019 in the assembly elections, citing the Managuli incident.",
+"description": "Karnataka\u2019s Chief Electoral Officer Sanjiv Kumar has clarified that boxes carrying VVPATs found in Managuli village of Basavana Bagewadi taluk in Vijayapura district did not belong to the Election Commission (EC).  BS Yeddyurappa had written to the Chief Election Commissioner (CEC), alleging \u2018grave irregularities\u2019 in the Karnataka assembly elections. ",
+"time_scraped": "2018-08-23 21:01:00.851087",
+"article_id": "64286402",
+"article_category": "IndiaNews",
+"image_details": [
+{
+"url": "https://timesofindia.indiatimes.com/thumb/msid-64286441,imgsize-54528,width-400,resizemode-4/64286441.jpg",
+"path": "full/9694b41f3b013c728d3e8125f8a54db99f6f049e.jpg",
+"checksum": "06797a99b6adaf76fc540dc7bcd81da9"
+}
+],
+"ibm_nlu": {
+"usage": {
+"text_units": 1,
+"text_characters": 787,
+"features": 7
+},
+"sentiment": {
+"document": {
+"score": -0.814917,
+"label": "negative"
+}
+},
+"semantic_roles": [
+{
+"subject": {
+"text": "Karnataka\u2019s Chief Electoral Officer"
+},
+"sentence": "BENGALURU: Karnataka\u2019s Chief Electoral Officer has clarified that boxes carrying VVPATs found in Managuli village of taluk in district did not belong to the (EC).",
+"object": {
+"text": "clarified that boxes carrying VVPATs found in Managuli village of taluk in district did not belong"
+},
+"action": {
+"verb": {
+"text": "have",
+"tense": "present"
+},
+"text": "has",
+"normalized": "have"
+}
+},
+{
+"subject": {
+"text": "Karnataka\u2019s Chief Electoral Officer"
+},
+"sentence": "BENGALURU: Karnataka\u2019s Chief Electoral Officer has clarified that boxes carrying VVPATs found in Managuli village of taluk in district did not belong to the (EC).",
+"object": {
+"text": "that boxes carrying VVPATs found in Managuli village of taluk in district did not belong to the (EC)"
+},
+"action": {
+"verb": {
+"text": "clarify",
+"tense": "past"
+},
+"text": "has clarified",
+"normalized": "have clarify"
+}
+},
+{
+"subject": {
+"text": "boxes carrying VVPATs"
+},
+"sentence": "BENGALURU: Karnataka\u2019s Chief Electoral Officer has clarified that boxes carrying VVPATs found in Managuli village of taluk in district did not belong to the (EC).",
+"action": {
+"verb": {
+"text": "find",
+"tense": "past"
+},
+"text": "found",
+"normalized": "find"
+}
+},
+{
+"subject": {
+"text": "boxes carrying VVPATs found in Managuli village of taluk in district"
+},
+"sentence": "BENGALURU: Karnataka\u2019s Chief Electoral Officer has clarified that boxes carrying VVPATs found in Managuli village of taluk in district did not belong to the (EC).",
+"object": {
+"text": "to the (EC)"
+},
+"action": {
+"verb": {
+"text": "belong",
+"tense": "past",
+"negated": true
+},
+"text": "belong",
+"normalized": "belong"
+}
+},
+{
+"subject": {
+"text": "Eight VVPAT-carrying cases"
+},
+"sentence": " \u201cEight VVPAT-carrying cases were found in a temporary shed.",
+"object": {
+"text": "found in a temporary shed"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "were",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "Eight VVPAT-carrying cases"
+},
+"sentence": " \u201cEight VVPAT-carrying cases were found in a temporary shed.",
+"action": {
+"verb": {
+"text": "find",
+"tense": "past"
+},
+"text": "were found",
+"normalized": "be find"
+}
+},
+{
+"subject": {
+"text": "they"
+},
+"sentence": " But they had no machines and papers and lacked the unique electronic tracking number too.",
+"object": {
+"text": "no machines and papers"
+},
+"action": {
+"verb": {
+"text": "have",
+"tense": "past"
+},
+"text": "had",
+"normalized": "have"
+}
+},
+{
+"subject": {
+"text": "they"
+},
+"sentence": " But they had no machines and papers and lacked the unique electronic tracking number too.",
+"object": {
+"text": "the unique electronic tracking number"
+},
+"action": {
+"verb": {
+"text": "lack",
+"tense": "past"
+},
+"text": "lacked",
+"normalized": "lack"
+}
+},
+{
+"subject": {
+"text": "This"
+},
+"sentence": " This must have been dumped just to create confusion.",
+"object": {
+"text": "confusion"
+},
+"action": {
+"verb": {
+"text": "create",
+"tense": "future"
+},
+"text": "to create",
+"normalized": "to create"
+}
+},
+{
+"subject": {
+"text": "We"
+},
+"sentence": " We will initiate strict action against those who are trying to create confusion,\u201d Kumar said.",
+"object": {
+"text": "strict action"
+},
+"action": {
+"verb": {
+"text": "initiate",
+"tense": "future"
+},
+"text": "will initiate",
+"normalized": "will initiate"
+}
+},
+{
+"subject": {
+"text": "those"
+},
+"sentence": " We will initiate strict action against those who are trying to create confusion,\u201d Kumar said.",
+"object": {
+"text": "to create confusion"
+},
+"action": {
+"verb": {
+"text": "try",
+"tense": "present"
+},
+"text": "trying",
+"normalized": "try"
+}
+},
+{
+"subject": {
+"text": "those"
+},
+"sentence": " We will initiate strict action against those who are trying to create confusion,\u201d Kumar said.",
+"object": {
+"text": "confusion"
+},
+"action": {
+"verb": {
+"text": "create",
+"tense": "future"
+},
+"text": "are trying to create",
+"normalized": "be try to create"
+}
+},
+{
+"subject": {
+"text": "Kumar"
+},
+"sentence": " We will initiate strict action against those who are trying to create confusion,\u201d Kumar said.",
+"object": {
+"text": "We will initiate strict action against those who are trying to create confusion"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "Kumar"
+},
+"sentence": " Kumar also said no VVPAT machines were found at the spot when the deputy commissioner and the superintendent of police personally visited the site and conducted inspection.",
+"object": {
+"text": "no VVPAT machines were found at the spot when the deputy commissioner and the superintendent of police personally visited the site and conducted inspection"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "no VVPAT machines"
+},
+"sentence": " Kumar also said no VVPAT machines were found at the spot when the deputy commissioner and the superintendent of police personally visited the site and conducted inspection.",
+"action": {
+"verb": {
+"text": "find",
+"tense": "past"
+},
+"text": "were found",
+"normalized": "be find"
+}
+},
+{
+"subject": {
+"text": "the deputy commissioner and the superintendent of police"
+},
+"sentence": " Kumar also said no VVPAT machines were found at the spot when the deputy commissioner and the superintendent of police personally visited the site and conducted inspection.",
+"object": {
+"text": "the site and conducted inspection"
+},
+"action": {
+"verb": {
+"text": "visit",
+"tense": "past"
+},
+"text": "visited",
+"normalized": "visit"
+}
+},
+{
+"subject": {
+"text": "the deputy commissioner and the superintendent of police"
+},
+"sentence": " Kumar also said no VVPAT machines were found at the spot when the deputy commissioner and the superintendent of police personally visited the site and conducted inspection.",
+"object": {
+"text": "inspection"
+},
+"action": {
+"verb": {
+"text": "conduct",
+"tense": "past"
+},
+"text": "conducted",
+"normalized": "conduct"
+}
+},
+{
+"subject": {
+"text": "written to the Chief Election Commissioner (CEC)"
+},
+"sentence": " On Tuesday, had written to the Chief Election Commissioner (CEC), alleging \u2018grave irregularities\u2019 in the assembly elections, citing the Managuli incident.",
+"action": {
+"verb": {
+"text": "have",
+"tense": "past"
+},
+"text": "had",
+"normalized": "have"
+}
+}
+],
+"relations": [
+{
+"type": "clientOf",
+"sentence": "BENGALURU: Karnataka's Chief Electoral Officer has clarified that boxes carrying VVPATs found in Managuli village of taluk in district did not belong to the (EC).",
+"score": 0.396629,
+"arguments": [
+{
+"text": "Karnataka",
+"location": [
+11,
+20
+],
+"entities": [
+{
+"type": "Person",
+"text": "Karnataka"
+}
+]
+},
+{
+"text": "Chief Electoral Officer",
+"location": [
+23,
+46
+],
+"entities": [
+{
+"type": "Person",
+"text": "Chief Electoral Officer"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "BENGALURU: Karnataka's Chief Electoral Officer has clarified that boxes carrying VVPATs found in Managuli village of taluk in district did not belong to the (EC).",
+"score": 0.86684,
+"arguments": [
+{
+"text": "Chief Electoral Officer",
+"location": [
+23,
+46
+],
+"entities": [
+{
+"type": "Person",
+"text": "Chief Electoral Officer"
+}
+]
+},
+{
+"text": "clarified",
+"location": [
+51,
+60
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "clarified"
+}
+]
+}
+]
+},
+{
+"type": "basedIn",
+"sentence": "BENGALURU: Karnataka's Chief Electoral Officer has clarified that boxes carrying VVPATs found in Managuli village of taluk in district did not belong to the (EC).",
+"score": 0.819429,
+"arguments": [
+{
+"text": "district",
+"location": [
+126,
+134
+],
+"entities": [
+{
+"type": "Organization",
+"text": "district"
+}
+]
+},
+{
+"text": "village",
+"location": [
+106,
+113
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Managuli"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "We will initiate strict action against those who are trying to create confusion,\" Kumar said.",
+"score": 0.998366,
+"arguments": [
+{
+"text": "Kumar",
+"location": [
+448,
+453
+],
+"entities": [
+{
+"type": "Person",
+"text": "Kumar"
+}
+]
+},
+{
+"text": "said",
+"location": [
+454,
+458
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Kumar also said no VVPAT machines were found at the spot when the deputy commissioner and the superintendent of police personally visited the site and conducted inspection.",
+"score": 0.970412,
+"arguments": [
+{
+"text": "Kumar",
+"location": [
+460,
+465
+],
+"entities": [
+{
+"type": "Person",
+"text": "Kumar"
+}
+]
+},
+{
+"text": "said",
+"location": [
+471,
+475
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "managerOf",
+"sentence": "Kumar also said no VVPAT machines were found at the spot when the deputy commissioner and the superintendent of police personally visited the site and conducted inspection.",
+"score": 0.625455,
+"arguments": [
+{
+"text": "superintendent",
+"location": [
+554,
+568
+],
+"entities": [
+{
+"type": "Person",
+"text": "Kumar"
+}
+]
+},
+{
+"text": "police",
+"location": [
+572,
+578
+],
+"entities": [
+{
+"type": "Organization",
+"text": "police",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "timeOf",
+"sentence": "On Tuesday, had written to the Chief Election Commissioner (CEC), alleging \u02bbgrave irregularities' in the assembly elections, citing the Managuli incident.",
+"score": 0.811534,
+"arguments": [
+{
+"text": "Tuesday",
+"location": [
+636,
+643
+],
+"entities": [
+{
+"type": "Date",
+"text": "Tuesday"
+}
+]
+},
+{
+"text": "written",
+"location": [
+649,
+656
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "written"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "On Tuesday, had written to the Chief Election Commissioner (CEC), alleging \u02bbgrave irregularities' in the assembly elections, citing the Managuli incident.",
+"score": 0.369492,
+"arguments": [
+{
+"text": "Chief Election Commissioner",
+"location": [
+664,
+691
+],
+"entities": [
+{
+"type": "Person",
+"text": "Chief Election Commissioner"
+}
+]
+},
+{
+"text": "written",
+"location": [
+649,
+656
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "written"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "On Tuesday, had written to the Chief Election Commissioner (CEC), alleging \u02bbgrave irregularities' in the assembly elections, citing the Managuli incident.",
+"score": 0.450395,
+"arguments": [
+{
+"text": "CEC",
+"location": [
+693,
+696
+],
+"entities": [
+{
+"type": "Organization",
+"text": "CEC",
+"disambiguation": {
+"subtype": [
+"Commercial"
+]
+}
+}
+]
+},
+{
+"text": "written",
+"location": [
+649,
+656
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "written"
+}
+]
+}
+]
+},
+{
+"type": "partOf",
+"sentence": "On Tuesday, had written to the Chief Election Commissioner (CEC), alleging \u02bbgrave irregularities' in the assembly elections, citing the Managuli incident.",
+"score": 0.67571,
+"arguments": [
+{
+"text": "alleging",
+"location": [
+699,
+707
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "alleging"
+}
+]
+},
+{
+"text": "written",
+"location": [
+649,
+656
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "written"
+}
+]
+}
+]
+}
+],
+"language": "en",
+"keywords": [
+{
+"text": "Chief Electoral Officer",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.993137,
+"emotion": {
+"sadness": 0.227394,
+"joy": 0.1158,
+"fear": 0.264121,
+"disgust": 0.168288,
+"anger": 0.336858
+}
+},
+{
+"text": "Chief Election Commissioner",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.890321,
+"emotion": {
+"sadness": 0.335803,
+"joy": 0.067435,
+"fear": 0.332786,
+"disgust": 0.102496,
+"anger": 0.365751
+}
+},
+{
+"text": "unique electronic tracking",
+"sentiment": {
+"score": -0.756584,
+"label": "negative"
+},
+"relevance": 0.756591,
+"emotion": {
+"sadness": 0.092678,
+"joy": 0.10423,
+"fear": 0.048908,
+"disgust": 0.047295,
+"anger": 0.054084
+}
+},
+{
+"text": "deputy commissioner",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.523747,
+"emotion": {
+"sadness": 0.126893,
+"joy": 0.153232,
+"fear": 0.184992,
+"disgust": 0.247554,
+"anger": 0.110683
+}
+},
+{
+"text": "\u2018grave irregularities",
+"sentiment": {
+"score": -0.291861,
+"label": "negative"
+},
+"relevance": 0.455538,
+"emotion": {
+"sadness": 0.497707,
+"joy": 0.034853,
+"fear": 0.128797,
+"disgust": 0.079155,
+"anger": 0.297584
+}
+}
+],
+"entities": [
+{
+"type": "JobTitle",
+"text": "Chief Electoral Officer",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.996529,
+"emotion": {
+"sadness": 0.227394,
+"joy": 0.1158,
+"fear": 0.264121,
+"disgust": 0.168288,
+"anger": 0.336858
+},
+"count": 1
+},
+{
+"type": "Person",
+"text": "Kumar",
+"sentiment": {
+"score": 0.227887,
+"label": "positive"
+},
+"relevance": 0.949049,
+"emotion": {
+"sadness": 0.166985,
+"joy": 0.163444,
+"fear": 0.183311,
+"disgust": 0.261899,
+"anger": 0.128646
+},
+"count": 2
+},
+{
+"type": "JobTitle",
+"text": "deputy commissioner",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.848813,
+"emotion": {
+"sadness": 0.126893,
+"joy": 0.153232,
+"fear": 0.184992,
+"disgust": 0.247554,
+"anger": 0.110683
+},
+"count": 1
+},
+{
+"type": "Location",
+"text": "BENGALURU",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.745605,
+"emotion": {
+"sadness": 0.0,
+"joy": 0.0,
+"fear": 0.0,
+"disgust": 0.0,
+"anger": 0.0
+},
+"disambiguation": {
+"subtype": [
+"AdministrativeDivision",
+"IndianCity",
+"City"
+],
+"name": "Bangalore",
+"dbpedia_resource": "http://dbpedia.org/resource/Bangalore"
+},
+"count": 1
+},
+{
+"type": "JobTitle",
+"text": "Commissioner",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.744251,
+"emotion": {
+"sadness": 0.335803,
+"joy": 0.067435,
+"fear": 0.332786,
+"disgust": 0.102496,
+"anger": 0.365751
+},
+"count": 1
+}
+],
+"concepts": [
+{
+"text": "Election",
+"relevance": 0.92106,
+"dbpedia_resource": "http://dbpedia.org/resource/Election"
+},
+{
+"text": "Elections",
+"relevance": 0.909287,
+"dbpedia_resource": "http://dbpedia.org/resource/Elections"
+}
+],
+"categories": [
+{
+"score": 0.598119,
+"label": "/law, govt and politics/politics/elections"
+},
+{
+"score": 0.497671,
+"label": "/law, govt and politics/law enforcement/police"
+},
+{
+"score": 0.362555,
+"label": "/art and entertainment/music/recording industry/music awards"
+}
+]
+}
+}

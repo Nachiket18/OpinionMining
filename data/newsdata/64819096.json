@@ -1,0 +1,764 @@
+{
+"source_article_link": "https://timesofindia.indiatimes.com/india/supreme-court-reopens-tomorrow-after-summer-break-hectic-week-ahead/articleshow/64819096.cms?&utm_source=Articleshow&utm_medium=Organic&utm_campaign=Related_Stories",
+"title": "Supreme Court reopens tomorrow after summer break, hectic week ahead",
+"date_published": "2018-07-01T23:16:11+05:30",
+"source_type": "news_article",
+"source_name": "timesofindia.indiatimes.com",
+"image_link": [],
+"article_body": "NEW DELHI: With the reopening on Monday after the summer break, several important judgments are likely to be pronounced, including a decision in the Aadhaar case. The top court will resume hearing appeals against an eight-year-old verdict of the on the and those challenging the practice of polygamy among Muslims. It is also expected to deliver its verdict on a batch of pleas on who enjoyed supremacy in administering the national capital -- the Lieutenant Governor or the Delhi government . The apex court, which opens after a 44-day summer vacation, has a lengthy list of matters for tomorrow with cause list running into hundreds of pages. A verdict is likely tomorrow on a plea challenging the appointment of incumbent Chief Vigilance Commissioner K V Chaudhary and Vigilance Commissioner T M Bhasin. Matters pertaining to air pollution in Delhi-NCR, Assam National Register of Citizens, Vaishno Devi - rehabilitation of mule owners and Manipur encounter killings, among others, are likely to come up for hearing. From tomorrow, non-accredited journalists will also be allowed mobile phones into the courtrooms. A circular to this effect read, \"Hon'ble the Chief Justice of India has been pleased to allow the media persons/journalists, who have been issued six months passes by the Registry, to carry mobile phones inside the courtrooms on silent mode.\"",
+"description": "NEW DELHI: With the reopening on Monday after the summer break, several important judgments are likely to be pronounced, including a decision in the Aadhaar case. The top court will resume hearing appeals against an eight-year-old verdict of the on the and those challenging the practice of polygamy among Muslims.",
+"time_scraped": "2018-08-24 06:01:25.447048",
+"article_id": "64819096",
+"article_category": "IndiaNews",
+"image_details": [],
+"ibm_nlu": {
+"usage": {
+"text_units": 1,
+"text_characters": 1360,
+"features": 7
+},
+"sentiment": {
+"document": {
+"score": -0.752627,
+"label": "negative"
+}
+},
+"semantic_roles": [
+{
+"subject": {
+"text": "several important judgments"
+},
+"sentence": "NEW DELHI: With the reopening on Monday after the summer break, several important judgments are likely to be pronounced, including a decision in the Aadhaar case.",
+"action": {
+"verb": {
+"text": "be",
+"tense": "present"
+},
+"text": "are",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "The top court"
+},
+"sentence": " The top court will resume hearing appeals against an eight-year-old verdict of the on the and those challenging the practice of polygamy among Muslims.",
+"object": {
+"text": "appeals"
+},
+"action": {
+"verb": {
+"text": "hear",
+"tense": "future"
+},
+"text": "will resume hearing",
+"normalized": "will resume hear"
+}
+},
+{
+"subject": {
+"text": "those"
+},
+"sentence": " The top court will resume hearing appeals against an eight-year-old verdict of the on the and those challenging the practice of polygamy among Muslims.",
+"object": {
+"text": "the practice"
+},
+"action": {
+"verb": {
+"text": "challenge",
+"tense": "present"
+},
+"text": "challenging",
+"normalized": "challenge"
+}
+},
+{
+"subject": {
+"text": "It"
+},
+"sentence": " It is also expected to deliver its verdict on a batch of pleas on who enjoyed supremacy in administering the national capital -- the Lieutenant Governor or the Delhi government .",
+"object": {
+"text": "its verdict"
+},
+"action": {
+"verb": {
+"text": "deliver",
+"tense": "future"
+},
+"text": "is also expected to deliver",
+"normalized": "be also expect to deliver"
+}
+},
+{
+"subject": {
+"text": "a batch"
+},
+"sentence": " It is also expected to deliver its verdict on a batch of pleas on who enjoyed supremacy in administering the national capital -- the Lieutenant Governor or the Delhi government .",
+"object": {
+"text": "supremacy"
+},
+"action": {
+"verb": {
+"text": "enjoy",
+"tense": "past"
+},
+"text": "enjoyed",
+"normalized": "enjoy"
+}
+},
+{
+"subject": {
+"text": "a batch"
+},
+"sentence": " It is also expected to deliver its verdict on a batch of pleas on who enjoyed supremacy in administering the national capital -- the Lieutenant Governor or the Delhi government .",
+"object": {
+"text": "the national capital -- the Lieutenant Governor or the Delhi government"
+},
+"action": {
+"verb": {
+"text": "administer",
+"tense": "present"
+},
+"text": "administering",
+"normalized": "administer"
+}
+},
+{
+"subject": {
+"text": "The apex court"
+},
+"sentence": " The apex court, which opens after a 44-day summer vacation, has a lengthy list of matters for tomorrow with cause list running into hundreds of pages.",
+"action": {
+"verb": {
+"text": "open",
+"tense": "present"
+},
+"text": "opens",
+"normalized": "open"
+}
+},
+{
+"subject": {
+"text": "The apex court, which opens after a 44-day summer vacation,"
+},
+"sentence": " The apex court, which opens after a 44-day summer vacation, has a lengthy list of matters for tomorrow with cause list running into hundreds of pages.",
+"object": {
+"text": "a lengthy list of matters for tomorrow with cause list running into hundreds of pages"
+},
+"action": {
+"verb": {
+"text": "have",
+"tense": "present"
+},
+"text": "has",
+"normalized": "have"
+}
+},
+{
+"subject": {
+"text": "A verdict"
+},
+"sentence": " A verdict is likely tomorrow on a plea challenging the appointment of incumbent Chief Vigilance Commissioner K V Chaudhary and Vigilance Commissioner T M Bhasin.",
+"object": {
+"text": "likely tomorrow"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "present"
+},
+"text": "is",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "a plea"
+},
+"sentence": " A verdict is likely tomorrow on a plea challenging the appointment of incumbent Chief Vigilance Commissioner K V Chaudhary and Vigilance Commissioner T M Bhasin.",
+"object": {
+"text": "the appointment of incumbent Chief Vigilance Commissioner K V Chaudhary and Vigilance Commissioner T M Bhasin"
+},
+"action": {
+"verb": {
+"text": "challenge",
+"tense": "present"
+},
+"text": "challenging",
+"normalized": "challenge"
+}
+},
+{
+"subject": {
+"text": "Manipur"
+},
+"sentence": " Matters pertaining to air pollution in Delhi-NCR, Assam National Register of Citizens, Vaishno Devi - rehabilitation of mule owners and Manipur encounter killings, among others, are likely to come up for hearing.",
+"object": {
+"text": "killings"
+},
+"action": {
+"verb": {
+"text": "encounter",
+"tense": "present"
+},
+"text": "encounter",
+"normalized": "encounter"
+}
+},
+{
+"subject": {
+"text": "non-accredited journalists"
+},
+"sentence": " From tomorrow, non-accredited journalists will also be allowed mobile phones into the courtrooms.",
+"action": {
+"verb": {
+"text": "be",
+"tense": "future"
+},
+"text": "will also be allowed",
+"normalized": "will also be allow"
+}
+},
+{
+"subject": {
+"text": "Hon'ble the Chief Justice of India"
+},
+"sentence": " A circular to this effect read, \"Hon'ble the Chief Justice of India has been pleased to allow the media persons/journalists, who have been issued six months passes by the Registry, to carry mobile phones inside the courtrooms on silent mode.\"",
+"object": {
+"text": "pleased to allow the media persons/journalists, who have been issued six months passes by the Registry,"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "been",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "Hon'ble the Chief Justice of India"
+},
+"sentence": " A circular to this effect read, \"Hon'ble the Chief Justice of India has been pleased to allow the media persons/journalists, who have been issued six months passes by the Registry, to carry mobile phones inside the courtrooms on silent mode.\"",
+"object": {
+"text": "to allow the media persons/journalists, who have been issued six months passes by the Registry, to carry mobile phones inside the courtrooms on silent mode"
+},
+"action": {
+"verb": {
+"text": "please",
+"tense": "past"
+},
+"text": "has been pleased",
+"normalized": "have be please"
+}
+},
+{
+"subject": {
+"text": "the media persons/journalists"
+},
+"sentence": " A circular to this effect read, \"Hon'ble the Chief Justice of India has been pleased to allow the media persons/journalists, who have been issued six months passes by the Registry, to carry mobile phones inside the courtrooms on silent mode.\"",
+"action": {
+"verb": {
+"text": "issue",
+"tense": "past"
+},
+"text": "have been issued",
+"normalized": "have be issue"
+}
+},
+{
+"subject": {
+"text": "the media persons/journalists, who have been issued six months"
+},
+"sentence": " A circular to this effect read, \"Hon'ble the Chief Justice of India has been pleased to allow the media persons/journalists, who have been issued six months passes by the Registry, to carry mobile phones inside the courtrooms on silent mode.\"",
+"object": {
+"text": "mobile phones"
+},
+"action": {
+"verb": {
+"text": "carry",
+"tense": "future"
+},
+"text": "to carry",
+"normalized": "to carry"
+}
+}
+],
+"relations": [
+{
+"type": "agentOf",
+"sentence": "It is also expected to deliver its verdict on a batch of pleas on who enjoyed supremacy in administering the national capital -- the Lieutenant Governor or the Delhi government .",
+"score": 0.935842,
+"arguments": [
+{
+"text": "its",
+"location": [
+346,
+349
+],
+"entities": [
+{
+"type": "Organization",
+"text": "court",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+},
+{
+"text": "verdict",
+"location": [
+350,
+357
+],
+"entities": [
+{
+"type": "EventLegal",
+"text": "verdict"
+}
+]
+}
+]
+},
+{
+"type": "timeOf",
+"sentence": "A verdict is likely tomorrow on a plea challenging the appointment of incumbent Chief Vigilance Commissioner K V Chaudhary and Vigilance Commissioner T M Bhasin.",
+"score": 0.839987,
+"arguments": [
+{
+"text": "tomorrow",
+"location": [
+665,
+673
+],
+"entities": [
+{
+"type": "Date",
+"text": "tomorrow"
+}
+]
+},
+{
+"text": "verdict",
+"location": [
+647,
+654
+],
+"entities": [
+{
+"type": "EventLegal",
+"text": "verdict"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "A verdict is likely tomorrow on a plea challenging the appointment of incumbent Chief Vigilance Commissioner K V Chaudhary and Vigilance Commissioner T M Bhasin.",
+"score": 0.623659,
+"arguments": [
+{
+"text": "Chief Vigilance Commissioner",
+"location": [
+725,
+753
+],
+"entities": [
+{
+"type": "Person",
+"text": "K V Chaudhary"
+}
+]
+},
+{
+"text": "appointment",
+"location": [
+700,
+711
+],
+"entities": [
+{
+"type": "EventPersonnel",
+"text": "appointment"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "A verdict is likely tomorrow on a plea challenging the appointment of incumbent Chief Vigilance Commissioner K V Chaudhary and Vigilance Commissioner T M Bhasin.",
+"score": 0.542124,
+"arguments": [
+{
+"text": "Vigilance Commissioner T M Bhasin",
+"location": [
+772,
+805
+],
+"entities": [
+{
+"type": "Person",
+"text": "Vigilance Commissioner T M Bhasin"
+}
+]
+},
+{
+"text": "appointment",
+"location": [
+700,
+711
+],
+"entities": [
+{
+"type": "EventPersonnel",
+"text": "appointment"
+}
+]
+}
+]
+},
+{
+"type": "managerOf",
+"sentence": "Matters pertaining to air pollution in Delhi-NCR, Assam National Register of Citizens, Vaishno Devi - rehabilitation of mule owners and Manipur encounter killings, among others, are likely to come up for hearing.",
+"score": 0.268459,
+"arguments": [
+{
+"text": "Citizens",
+"location": [
+884,
+892
+],
+"entities": [
+{
+"type": "Person",
+"text": "Citizens"
+}
+]
+},
+{
+"text": "Assam National Register",
+"location": [
+857,
+880
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Assam National Register",
+"disambiguation": {
+"subtype": [
+"Commercial"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "partOfMany",
+"sentence": "Matters pertaining to air pollution in Delhi-NCR, Assam National Register of Citizens, Vaishno Devi - rehabilitation of mule owners and Manipur encounter killings, among others, are likely to come up for hearing.",
+"score": 0.697886,
+"arguments": [
+{
+"text": "Vaishno Devi -",
+"location": [
+894,
+908
+],
+"entities": [
+{
+"type": "Person",
+"text": "Vaishno Devi -"
+}
+]
+},
+{
+"text": "Citizens",
+"location": [
+884,
+892
+],
+"entities": [
+{
+"type": "Person",
+"text": "Citizens"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "From tomorrow, non-accredited journalists will also be allowed mobile phones into the courtrooms.",
+"score": 0.669448,
+"arguments": [
+{
+"text": "journalists",
+"location": [
+1050,
+1061
+],
+"entities": [
+{
+"type": "Person",
+"text": "journalists"
+}
+]
+},
+{
+"text": "courtrooms",
+"location": [
+1106,
+1116
+],
+"entities": [
+{
+"type": "Location",
+"text": "courtrooms"
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "A circular to this effect read, \"Hon'ble the Chief Justice of India has been pleased to allow the media persons/journalists, who have been issued six months passes by the Registry, to carry mobile phones inside the courtrooms on silent mode.\"",
+"score": 0.577064,
+"arguments": [
+{
+"text": "Chief Justice",
+"location": [
+1163,
+1176
+],
+"entities": [
+{
+"type": "Person",
+"text": "Chief Justice"
+}
+]
+},
+{
+"text": "India",
+"location": [
+1180,
+1185
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "India",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+}
+]
+}
+],
+"language": "en",
+"keywords": [
+{
+"text": "Chief Vigilance Commissioner",
+"sentiment": {
+"score": -0.798336,
+"label": "negative"
+},
+"relevance": 0.929474,
+"emotion": {
+"sadness": 0.272721,
+"joy": 0.062866,
+"fear": 0.397228,
+"disgust": 0.051311,
+"anger": 0.112501
+}
+},
+{
+"text": "44-day summer vacation",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.842712,
+"emotion": {
+"sadness": 0.119812,
+"joy": 0.621463,
+"fear": 0.036777,
+"disgust": 0.014597,
+"anger": 0.07722
+}
+},
+{
+"text": "Assam National Register",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.795258,
+"emotion": {
+"sadness": 0.33937,
+"joy": 0.222497,
+"fear": 0.090887,
+"disgust": 0.161311,
+"anger": 0.082759
+}
+},
+{
+"text": "mobile phones",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.74888,
+"emotion": {
+"sadness": 0.344257,
+"joy": 0.184245,
+"fear": 0.085668,
+"disgust": 0.127011,
+"anger": 0.206464
+}
+},
+{
+"text": "eight-year-old verdict",
+"sentiment": {
+"score": -0.692032,
+"label": "negative"
+},
+"relevance": 0.742494,
+"emotion": {
+"sadness": 0.201692,
+"joy": 0.196255,
+"fear": 0.115816,
+"disgust": 0.349921,
+"anger": 0.133593
+}
+}
+],
+"entities": [
+{
+"type": "Person",
+"text": "Chief Vigilance Commissioner K V Chaudhary",
+"sentiment": {
+"score": -0.798336,
+"label": "negative"
+},
+"relevance": 0.84171,
+"emotion": {
+"sadness": 0.272721,
+"joy": 0.062866,
+"fear": 0.397228,
+"disgust": 0.051311,
+"anger": 0.112501
+},
+"count": 1
+},
+{
+"type": "JobTitle",
+"text": "Chief Justice of India",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.527101,
+"emotion": {
+"sadness": 0.401567,
+"joy": 0.084111,
+"fear": 0.084666,
+"disgust": 0.475213,
+"anger": 0.187109
+},
+"count": 1
+},
+{
+"type": "Location",
+"text": "DELHI",
+"sentiment": {
+"score": 0.295682,
+"label": "positive"
+},
+"relevance": 0.522685,
+"emotion": {
+"sadness": 0.115132,
+"joy": 0.596039,
+"fear": 0.084006,
+"disgust": 0.034674,
+"anger": 0.046922
+},
+"disambiguation": {
+"subtype": [
+"Country"
+]
+},
+"count": 1
+},
+{
+"type": "Organization",
+"text": "Assam National Register of Citizens",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.5217,
+"emotion": {
+"sadness": 0.33937,
+"joy": 0.222497,
+"fear": 0.090887,
+"disgust": 0.161311,
+"anger": 0.082759
+},
+"count": 1
+}
+],
+"concepts": [
+{
+"text": "Delhi",
+"relevance": 0.933471,
+"dbpedia_resource": "http://dbpedia.org/resource/Delhi"
+},
+{
+"text": "Mobile phone",
+"relevance": 0.90368,
+"dbpedia_resource": "http://dbpedia.org/resource/Mobile_phone"
+},
+{
+"text": "India",
+"relevance": 0.883923,
+"dbpedia_resource": "http://dbpedia.org/resource/India"
+},
+{
+"text": "Windows Registry",
+"relevance": 0.881921,
+"dbpedia_resource": "http://dbpedia.org/resource/Windows_Registry"
+},
+{
+"text": "Summer",
+"relevance": 0.824307,
+"dbpedia_resource": "http://dbpedia.org/resource/Summer"
+}
+],
+"categories": [
+{
+"score": 0.318763,
+"label": "/law, govt and politics/government"
+},
+{
+"score": 0.294229,
+"label": "/news"
+},
+{
+"score": 0.239206,
+"label": "/education/school"
+}
+]
+}
+}

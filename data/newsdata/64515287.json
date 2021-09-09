@@ -1,0 +1,1642 @@
+{
+"source_article_link": "https://timesofindia.indiatimes.com/india/forces-got-red-scare-during-pm-event-in-bijapur/articleshow/64515287.cms?&utm_source=Articleshow&utm_medium=Organic&utm_campaign=Related_Stories",
+"title": "Forces got Red scare during PM event in Bijapur",
+"date_published": "2018-06-09T05:44:34+05:30",
+"source_type": "news_article",
+"source_name": "timesofindia.indiatimes.com",
+"image_link": [
+"https://timesofindia.indiatimes.com/thumb/msid-64515286,imgsize-74614,width-400,resizemode-4/64515286.jpg"
+],
+"article_body": "NEW DELHI: Security forces had gone into a tizzy when Prime Minister visited in Chhattisgarh on April 13 to launch the Ayushman scheme, following reports of strong presence of in the area, considered the hotbed of naxalite activities. After the Pune police recovered a letter, purportedly written by Maoists, pointing to a possible plot to kill the PM last year, sources said there was no intelligence input to suggest a plan to attack Modi during the Bijapur visit, but the concentration of 200-300 naxalite was seen as an ominous sign. According to sources, a day before Modi was to arrive in Bijapur, intelligence agencies alerted about the presence of 1st battalion of (PLGA) of Maoists, headed by dreaded Maoist commander Hidma and considered the most dangerous \u2018unit\u2019 in the area. CRPF and Chhattisgarh police, in fact, had a couple of skirmishes with PLGA cadres ahead of the PM\u2019s arrival in the state. The 1st battalion of PLGA is known for carrying out deadly attacks. It has highly trained men and women who are equipped with rifles and other arms and they usually operate in the Sukma-Bijapur region. An officer said drones were used on April 13 to know about the concentration of the unit while CoBRA battalions were deployed on the ground to push them into the jungle. \u201cFortunately, we managed to push them inside and no incident was reported in whole of Bijapur district,\u201d said the officer. \u201cIt is impossible to penetrate the security of the PM unless there is a major human error or diversion from the Standard Operating Procedures (SOPs),\u201d said an MHA official. Officials said Maoists are on the backfoot having lost a lot of area which was under their control while their funding is being closely monitored by investigating agencies like NIA. \u201cThe Maoists are fighting a losing battle. They are now active in only 10 districts in the country,\u201d home minister Rajnath Singh told reporters in Jammu.",
+"description": "NEW DELHI: Security forces had gone into a tizzy when Prime Minister visited in Chhattisgarh on April 13 to launch the Ayushman scheme, following reports of strong presence of in the area, considered the hotbed of naxalite activities. After the Pune police recovered a letter, purportedly written by Maoists, pointing to a possible plot to kill the PM last year, sources said there was no intelligence input to suggest a plan to attack Modi during the Bijapur visit, but the concentration of 200-300 naxalite was seen as an ominous sign.",
+"time_scraped": "2018-08-22 18:02:49.909306",
+"article_id": "64515287",
+"article_category": "IndiaNews",
+"image_details": [
+{
+"url": "https://timesofindia.indiatimes.com/thumb/msid-64515286,imgsize-74614,width-400,resizemode-4/64515286.jpg",
+"path": "full/b9854a2328588900dc22ad238c282a3fd8d8787b.jpg",
+"checksum": "40f1fdcb6de1be51c46c26e6565135f9"
+}
+],
+"ibm_nlu": {
+"usage": {
+"text_units": 1,
+"text_characters": 1913,
+"features": 7
+},
+"sentiment": {
+"document": {
+"score": -0.335466,
+"label": "negative"
+}
+},
+"semantic_roles": [
+{
+"subject": {
+"text": "Security forces"
+},
+"sentence": "NEW DELHI: Security forces had gone into a tizzy when Prime Minister visited in Chhattisgarh on April 13 to launch the Ayushman scheme, following reports of strong presence of in the area, considered the hotbed of naxalite activities.",
+"object": {
+"text": "gone into a tizzy"
+},
+"action": {
+"verb": {
+"text": "have",
+"tense": "past"
+},
+"text": "had",
+"normalized": "have"
+}
+},
+{
+"subject": {
+"text": "Security forces"
+},
+"sentence": "NEW DELHI: Security forces had gone into a tizzy when Prime Minister visited in Chhattisgarh on April 13 to launch the Ayushman scheme, following reports of strong presence of in the area, considered the hotbed of naxalite activities.",
+"object": {
+"text": "into a tizzy"
+},
+"action": {
+"verb": {
+"text": "go",
+"tense": "past"
+},
+"text": "had gone",
+"normalized": "have go"
+}
+},
+{
+"subject": {
+"text": "Prime Minister"
+},
+"sentence": "NEW DELHI: Security forces had gone into a tizzy when Prime Minister visited in Chhattisgarh on April 13 to launch the Ayushman scheme, following reports of strong presence of in the area, considered the hotbed of naxalite activities.",
+"action": {
+"verb": {
+"text": "visit",
+"tense": "past"
+},
+"text": "visited",
+"normalized": "visit"
+}
+},
+{
+"subject": {
+"text": "Prime Minister"
+},
+"sentence": "NEW DELHI: Security forces had gone into a tizzy when Prime Minister visited in Chhattisgarh on April 13 to launch the Ayushman scheme, following reports of strong presence of in the area, considered the hotbed of naxalite activities.",
+"object": {
+"text": "the Ayushman scheme, following reports of strong presence of in the area, considered the hotbed of naxalite activities"
+},
+"action": {
+"verb": {
+"text": "launch",
+"tense": "future"
+},
+"text": "to launch",
+"normalized": "to launch"
+}
+},
+{
+"subject": {
+"text": "the Pune police"
+},
+"sentence": " After the Pune police recovered a letter, purportedly written by Maoists, pointing to a possible plot to kill the PM last year, sources said there was no intelligence input to suggest a plan to attack Modi during the Bijapur visit, but the concentration of 200-300 naxalite was seen as an ominous sign.",
+"object": {
+"text": "a letter, purportedly written by Maoists"
+},
+"action": {
+"verb": {
+"text": "recover",
+"tense": "past"
+},
+"text": "recovered",
+"normalized": "recover"
+}
+},
+{
+"subject": {
+"text": "by Maoists"
+},
+"sentence": " After the Pune police recovered a letter, purportedly written by Maoists, pointing to a possible plot to kill the PM last year, sources said there was no intelligence input to suggest a plan to attack Modi during the Bijapur visit, but the concentration of 200-300 naxalite was seen as an ominous sign.",
+"object": {
+"text": "a letter"
+},
+"action": {
+"verb": {
+"text": "write",
+"tense": "past"
+},
+"text": "purportedly written",
+"normalized": "purportedly write"
+}
+},
+{
+"subject": {
+"text": "to kill the PM last year"
+},
+"sentence": " After the Pune police recovered a letter, purportedly written by Maoists, pointing to a possible plot to kill the PM last year, sources said there was no intelligence input to suggest a plan to attack Modi during the Bijapur visit, but the concentration of 200-300 naxalite was seen as an ominous sign.",
+"object": {
+"text": "to a possible plot"
+},
+"action": {
+"verb": {
+"text": "point",
+"tense": "present"
+},
+"text": "pointing",
+"normalized": "point"
+}
+},
+{
+"subject": {
+"text": "the PM"
+},
+"sentence": " After the Pune police recovered a letter, purportedly written by Maoists, pointing to a possible plot to kill the PM last year, sources said there was no intelligence input to suggest a plan to attack Modi during the Bijapur visit, but the concentration of 200-300 naxalite was seen as an ominous sign.",
+"action": {
+"verb": {
+"text": "kill",
+"tense": "future"
+},
+"text": "to kill",
+"normalized": "to kill"
+}
+},
+{
+"subject": {
+"text": "sources"
+},
+"sentence": " After the Pune police recovered a letter, purportedly written by Maoists, pointing to a possible plot to kill the PM last year, sources said there was no intelligence input to suggest a plan to attack Modi during the Bijapur visit, but the concentration of 200-300 naxalite was seen as an ominous sign.",
+"object": {
+"text": "there was no intelligence input to suggest a plan to attack Modi during the Bijapur visit"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "the concentration of 200-300 naxalite"
+},
+"sentence": " After the Pune police recovered a letter, purportedly written by Maoists, pointing to a possible plot to kill the PM last year, sources said there was no intelligence input to suggest a plan to attack Modi during the Bijapur visit, but the concentration of 200-300 naxalite was seen as an ominous sign.",
+"object": {
+"text": "seen as an ominous sign"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "was",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "by dreaded Maoist commander Hidma"
+},
+"sentence": " According to sources, a day before Modi was to arrive in Bijapur, intelligence agencies alerted about the presence of 1st battalion of (PLGA) of Maoists, headed by dreaded Maoist commander Hidma and considered the most dangerous \u2018unit\u2019 in the area.",
+"object": {
+"text": "Maoists"
+},
+"action": {
+"verb": {
+"text": "head",
+"tense": "past"
+},
+"text": "headed",
+"normalized": "head"
+}
+},
+{
+"subject": {
+"text": "CRPF and Chhattisgarh police"
+},
+"sentence": " CRPF and Chhattisgarh police, in fact, had a couple of skirmishes with PLGA cadres ahead of the PM\u2019s arrival in the state.",
+"object": {
+"text": "a couple of skirmishes with PLGA cadres ahead of the PM\u2019s arrival in the state"
+},
+"action": {
+"verb": {
+"text": "have",
+"tense": "past"
+},
+"text": "had",
+"normalized": "have"
+}
+},
+{
+"subject": {
+"text": "The 1st battalion of PLGA"
+},
+"sentence": " The 1st battalion of PLGA is known for carrying out deadly attacks.",
+"object": {
+"text": "known for carrying out deadly attacks"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "present"
+},
+"text": "is",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "The 1st battalion of PLGA"
+},
+"sentence": " The 1st battalion of PLGA is known for carrying out deadly attacks.",
+"object": {
+"text": "for carrying out deadly attacks"
+},
+"action": {
+"verb": {
+"text": "know",
+"tense": "past"
+},
+"text": "is known",
+"normalized": "be know"
+}
+},
+{
+"subject": {
+"text": "The 1st battalion of PLGA"
+},
+"sentence": " The 1st battalion of PLGA is known for carrying out deadly attacks.",
+"object": {
+"text": "deadly attacks"
+},
+"action": {
+"verb": {
+"text": "carry",
+"tense": "present"
+},
+"text": "carrying",
+"normalized": "carry"
+}
+},
+{
+"subject": {
+"text": "It"
+},
+"sentence": " It has highly trained men and women who are equipped with rifles and other arms and they usually operate in the Sukma-Bijapur region.",
+"object": {
+"text": "highly trained men and women who are equipped with rifles and other arms and they usually operate in the Sukma-Bijapur region"
+},
+"action": {
+"verb": {
+"text": "have",
+"tense": "present"
+},
+"text": "has",
+"normalized": "have"
+}
+},
+{
+"subject": {
+"text": "highly trained men and women"
+},
+"sentence": " It has highly trained men and women who are equipped with rifles and other arms and they usually operate in the Sukma-Bijapur region.",
+"object": {
+"text": "with rifles and other arms"
+},
+"action": {
+"verb": {
+"text": "equip",
+"tense": "past"
+},
+"text": "are equipped",
+"normalized": "be equip"
+}
+},
+{
+"subject": {
+"text": "they"
+},
+"sentence": " It has highly trained men and women who are equipped with rifles and other arms and they usually operate in the Sukma-Bijapur region.",
+"action": {
+"verb": {
+"text": "operate",
+"tense": "present"
+},
+"text": "operate",
+"normalized": "operate"
+}
+},
+{
+"subject": {
+"text": "An officer"
+},
+"sentence": " An officer said drones were used on April 13 to know about the concentration of the unit while CoBRA battalions were deployed on the ground to push them into the jungle.",
+"object": {
+"text": "drones were used on April 13 to know about the concentration of the unit while CoBRA battalions were deployed on the ground to push them into the jungle"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "drones"
+},
+"sentence": " An officer said drones were used on April 13 to know about the concentration of the unit while CoBRA battalions were deployed on the ground to push them into the jungle.",
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "were used",
+"normalized": "be use"
+}
+},
+{
+"subject": {
+"text": "drones"
+},
+"sentence": " An officer said drones were used on April 13 to know about the concentration of the unit while CoBRA battalions were deployed on the ground to push them into the jungle.",
+"object": {
+"text": "to know about the concentration of the unit"
+},
+"action": {
+"verb": {
+"text": "use",
+"tense": "past"
+},
+"text": "were used",
+"normalized": "be use"
+}
+},
+{
+"subject": {
+"text": "drones"
+},
+"sentence": " An officer said drones were used on April 13 to know about the concentration of the unit while CoBRA battalions were deployed on the ground to push them into the jungle.",
+"object": {
+"text": "about the concentration of the unit"
+},
+"action": {
+"verb": {
+"text": "know",
+"tense": "future"
+},
+"text": "to know",
+"normalized": "to know"
+}
+},
+{
+"subject": {
+"text": "CoBRA battalions"
+},
+"sentence": " An officer said drones were used on April 13 to know about the concentration of the unit while CoBRA battalions were deployed on the ground to push them into the jungle.",
+"object": {
+"text": "them"
+},
+"action": {
+"verb": {
+"text": "push",
+"tense": "future"
+},
+"text": "to push",
+"normalized": "to push"
+}
+},
+{
+"subject": {
+"text": "we"
+},
+"sentence": " \u201cFortunately, we managed to push them inside and no incident was reported in whole of Bijapur district,\u201d said the officer.",
+"object": {
+"text": "to push them inside and no incident"
+},
+"action": {
+"verb": {
+"text": "manage",
+"tense": "past"
+},
+"text": "managed",
+"normalized": "manage"
+}
+},
+{
+"subject": {
+"text": "we"
+},
+"sentence": " \u201cFortunately, we managed to push them inside and no incident was reported in whole of Bijapur district,\u201d said the officer.",
+"object": {
+"text": "them"
+},
+"action": {
+"verb": {
+"text": "push",
+"tense": "future"
+},
+"text": "managed to push",
+"normalized": "manage to push"
+}
+},
+{
+"subject": {
+"text": "no incident"
+},
+"sentence": " \u201cFortunately, we managed to push them inside and no incident was reported in whole of Bijapur district,\u201d said the officer.",
+"object": {
+"text": "reported in whole of Bijapur district"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "was",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "no incident"
+},
+"sentence": " \u201cFortunately, we managed to push them inside and no incident was reported in whole of Bijapur district,\u201d said the officer.",
+"action": {
+"verb": {
+"text": "report",
+"tense": "past"
+},
+"text": "was reported",
+"normalized": "be report"
+}
+},
+{
+"subject": {
+"text": "the officer"
+},
+"sentence": " \u201cFortunately, we managed to push them inside and no incident was reported in whole of Bijapur district,\u201d said the officer.",
+"object": {
+"text": "Fortunately, we managed to push them inside and no incident was reported in whole of Bijapur district"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "a major human error"
+},
+"sentence": " \u201cIt is impossible to penetrate the security of the PM unless there is a major human error or diversion from the Standard Operating Procedures (SOPs),\u201d said an MHA official.",
+"object": {
+"text": "from the Standard Operating Procedures"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "present"
+},
+"text": "is",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "an MHA official"
+},
+"sentence": " \u201cIt is impossible to penetrate the security of the PM unless there is a major human error or diversion from the Standard Operating Procedures (SOPs),\u201d said an MHA official.",
+"object": {
+"text": "It is impossible to penetrate the security of the PM unless there is a major human error or diversion from the Standard Operating Procedures (SOPs)"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "Officials"
+},
+"sentence": " Officials said Maoists are on the backfoot having lost a lot of area which was under their control while their funding is being closely monitored by investigating agencies like NIA.",
+"object": {
+"text": "Maoists are on the backfoot having lost a lot of area which was under their control while their funding is being closely monitored by investigating agencies like NIA"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "Maoists"
+},
+"sentence": " Officials said Maoists are on the backfoot having lost a lot of area which was under their control while their funding is being closely monitored by investigating agencies like NIA.",
+"object": {
+"text": "a lot of area which was under their control"
+},
+"action": {
+"verb": {
+"text": "lose",
+"tense": "past"
+},
+"text": "having lost",
+"normalized": "have lose"
+}
+},
+{
+"subject": {
+"text": "by investigating agencies like NIA"
+},
+"sentence": " Officials said Maoists are on the backfoot having lost a lot of area which was under their control while their funding is being closely monitored by investigating agencies like NIA.",
+"object": {
+"text": "their funding"
+},
+"action": {
+"verb": {
+"text": "monitor",
+"tense": "past"
+},
+"text": "monitored",
+"normalized": "monitor"
+}
+},
+{
+"subject": {
+"text": "The Maoists"
+},
+"sentence": " \u201cThe Maoists are fighting a losing battle.",
+"object": {
+"text": "a losing battle"
+},
+"action": {
+"verb": {
+"text": "fight",
+"tense": "present"
+},
+"text": "are fighting",
+"normalized": "be fight"
+}
+},
+{
+"subject": {
+"text": "They"
+},
+"sentence": " They are now active in only 10 districts in the country,\u201d home minister Rajnath Singh told reporters in Jammu.",
+"action": {
+"verb": {
+"text": "be",
+"tense": "present"
+},
+"text": "are",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "home minister Rajnath Singh"
+},
+"sentence": " They are now active in only 10 districts in the country,\u201d home minister Rajnath Singh told reporters in Jammu.",
+"object": {
+"text": "They are now active in only 10 districts in the country"
+},
+"action": {
+"verb": {
+"text": "tell",
+"tense": "past"
+},
+"text": "told",
+"normalized": "tell"
+}
+}
+],
+"relations": [
+{
+"type": "residesIn",
+"sentence": "NEW DELHI: Security forces had gone into a tizzy when Prime Minister visited in Chhattisgarh on April 13 to launch the Ayushman scheme, following reports of strong presence of in the area, considered the hotbed of naxalite activities.",
+"score": 0.439353,
+"arguments": [
+{
+"text": "Security forces",
+"location": [
+11,
+26
+],
+"entities": [
+{
+"type": "Person",
+"text": "Security forces"
+}
+]
+},
+{
+"text": "NEW DELHI",
+"location": [
+0,
+9
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "NEW DELHI"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "According to sources, a day before Modi was to arrive in Bijapur, intelligence agencies alerted about the presence of 1st battalion of (PLGA) of Maoists, headed by dreaded Maoist commander Hidma and considered the most dangerous \u02bbunit' in the area.",
+"score": 0.982411,
+"arguments": [
+{
+"text": "intelligence agencies",
+"location": [
+604,
+625
+],
+"entities": [
+{
+"type": "Organization",
+"text": "intelligence agencies",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+},
+{
+"text": "alerted",
+"location": [
+626,
+633
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "alerted"
+}
+]
+}
+]
+},
+{
+"type": "partOf",
+"sentence": "CRPF and Chhattisgarh police, in fact, had a couple of skirmishes with PLGA cadres ahead of the PM's arrival in the state.",
+"score": 0.827979,
+"arguments": [
+{
+"text": "police",
+"location": [
+809,
+815
+],
+"entities": [
+{
+"type": "Organization",
+"text": "police",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+},
+{
+"text": "Chhattisgarh",
+"location": [
+796,
+808
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Chhattisgarh",
+"disambiguation": {
+"subtype": [
+"Commercial"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "It has highly trained men and women who are equipped with rifles and other arms and they usually operate in the Sukma-Bijapur region.",
+"score": 0.65209,
+"arguments": [
+{
+"text": "they",
+"location": [
+1062,
+1066
+],
+"entities": [
+{
+"type": "Person",
+"text": "women"
+}
+]
+},
+{
+"text": "Sukma-Bijapur region",
+"location": [
+1090,
+1110
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Sukma-Bijapur region"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "An officer said drones were used on April 13 to know about the concentration of the unit while CoBRA battalions were deployed on the ground to push them into the jungle.",
+"score": 0.961313,
+"arguments": [
+{
+"text": "officer",
+"location": [
+1115,
+1122
+],
+"entities": [
+{
+"type": "Person",
+"text": "officer"
+}
+]
+},
+{
+"text": "said",
+"location": [
+1123,
+1127
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "\"Fortunately, we managed to push them inside and no incident was reported in whole of Bijapur district,\" said the officer.",
+"score": 0.859711,
+"arguments": [
+{
+"text": "officer",
+"location": [
+1396,
+1403
+],
+"entities": [
+{
+"type": "Person",
+"text": "officer"
+}
+]
+},
+{
+"text": "said",
+"location": [
+1387,
+1391
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "An officer said drones were used on April 13 to know about the concentration of the unit while CoBRA battalions were deployed on the ground to push them into the jungle.",
+"score": 0.734742,
+"arguments": [
+{
+"text": "them",
+"location": [
+1260,
+1264
+],
+"entities": [
+{
+"type": "Person",
+"text": "women"
+}
+]
+},
+{
+"text": "jungle",
+"location": [
+1274,
+1280
+],
+"entities": [
+{
+"type": "GeographicFeature",
+"text": "jungle"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "\"It is impossible to penetrate the security of the PM unless there is a major human error or diversion from the Standard Operating Procedures (SOPs),\" said an MHA official.",
+"score": 0.729077,
+"arguments": [
+{
+"text": "official",
+"location": [
+1568,
+1576
+],
+"entities": [
+{
+"type": "Person",
+"text": "official"
+}
+]
+},
+{
+"text": "said",
+"location": [
+1556,
+1560
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "\"It is impossible to penetrate the security of the PM unless there is a major human error or diversion from the Standard Operating Procedures (SOPs),\" said an MHA official.",
+"score": 0.426216,
+"arguments": [
+{
+"text": "official",
+"location": [
+1568,
+1576
+],
+"entities": [
+{
+"type": "Person",
+"text": "official"
+}
+]
+},
+{
+"text": "MHA",
+"location": [
+1564,
+1567
+],
+"entities": [
+{
+"type": "Organization",
+"text": "MHA"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Officials said Maoists are on the backfoot having lost a lot of area which was under their control while their funding is being closely monitored by investigating agencies like NIA.",
+"score": 0.972989,
+"arguments": [
+{
+"text": "Officials",
+"location": [
+1578,
+1587
+],
+"entities": [
+{
+"type": "Person",
+"text": "Officials"
+}
+]
+},
+{
+"text": "said",
+"location": [
+1588,
+1592
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "Officials said Maoists are on the backfoot having lost a lot of area which was under their control while their funding is being closely monitored by investigating agencies like NIA.",
+"score": 0.713826,
+"arguments": [
+{
+"text": "agencies",
+"location": [
+1741,
+1749
+],
+"entities": [
+{
+"type": "Organization",
+"text": "agencies",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+},
+{
+"text": "investigating",
+"location": [
+1727,
+1740
+],
+"entities": [
+{
+"type": "EventLegal",
+"text": "investigating"
+}
+]
+}
+]
+},
+{
+"type": "partOf",
+"sentence": "Officials said Maoists are on the backfoot having lost a lot of area which was under their control while their funding is being closely monitored by investigating agencies like NIA.",
+"score": 0.599322,
+"arguments": [
+{
+"text": "agencies",
+"location": [
+1741,
+1749
+],
+"entities": [
+{
+"type": "Organization",
+"text": "agencies",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+},
+{
+"text": "NIA",
+"location": [
+1755,
+1758
+],
+"entities": [
+{
+"type": "Organization",
+"text": "NIA"
+}
+]
+}
+]
+},
+{
+"type": "residesIn",
+"sentence": "NEW DELHI: Security forces had gone into a tizzy when Prime Minister visited in Chhattisgarh on April 13 to launch the Ayushman scheme, following reports of strong presence of in the area, considered the hotbed of naxalite activities.",
+"score": 0.368272,
+"arguments": [
+{
+"text": "Prime Minister",
+"location": [
+54,
+68
+],
+"entities": [
+{
+"type": "Person",
+"text": "Prime Minister"
+}
+]
+},
+{
+"text": "Chhattisgarh",
+"location": [
+80,
+92
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Chhattisgarh"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "They are now active in only 10 districts in the country,\" home minister Rajnath Singh told reporters in Jammu.",
+"score": 0.956939,
+"arguments": [
+{
+"text": "Rajnath Singh",
+"location": [
+1875,
+1888
+],
+"entities": [
+{
+"type": "Person",
+"text": "Rajnath Singh"
+}
+]
+},
+{
+"text": "told",
+"location": [
+1889,
+1893
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "They are now active in only 10 districts in the country,\" home minister Rajnath Singh told reporters in Jammu.",
+"score": 0.359506,
+"arguments": [
+{
+"text": "Rajnath Singh",
+"location": [
+1875,
+1888
+],
+"entities": [
+{
+"type": "Person",
+"text": "Rajnath Singh"
+}
+]
+},
+{
+"text": "Jammu",
+"location": [
+1907,
+1912
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Jammu"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "They are now active in only 10 districts in the country,\" home minister Rajnath Singh told reporters in Jammu.",
+"score": 0.993229,
+"arguments": [
+{
+"text": "reporters",
+"location": [
+1894,
+1903
+],
+"entities": [
+{
+"type": "Person",
+"text": "reporters"
+}
+]
+},
+{
+"text": "told",
+"location": [
+1889,
+1893
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "partOf",
+"sentence": "After the Pune police recovered a letter, purportedly written by Maoists, pointing to a possible plot to kill the PM last year, sources said there was no intelligence input to suggest a plan to attack Modi during the Bijapur visit, but the concentration of 200-300 naxalite was seen as an ominous sign.",
+"score": 0.997677,
+"arguments": [
+{
+"text": "police",
+"location": [
+250,
+256
+],
+"entities": [
+{
+"type": "Organization",
+"text": "police",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+},
+{
+"text": "Pune",
+"location": [
+245,
+249
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Pune"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "After the Pune police recovered a letter, purportedly written by Maoists, pointing to a possible plot to kill the PM last year, sources said there was no intelligence input to suggest a plan to attack Modi during the Bijapur visit, but the concentration of 200-300 naxalite was seen as an ominous sign.",
+"score": 0.721932,
+"arguments": [
+{
+"text": "PM",
+"location": [
+349,
+351
+],
+"entities": [
+{
+"type": "Person",
+"text": "Prime Minister"
+}
+]
+},
+{
+"text": "kill",
+"location": [
+340,
+344
+],
+"entities": [
+{
+"type": "EventViolence",
+"text": "attack"
+}
+]
+}
+]
+},
+{
+"type": "timeOf",
+"sentence": "After the Pune police recovered a letter, purportedly written by Maoists, pointing to a possible plot to kill the PM last year, sources said there was no intelligence input to suggest a plan to attack Modi during the Bijapur visit, but the concentration of 200-300 naxalite was seen as an ominous sign.",
+"score": 0.944227,
+"arguments": [
+{
+"text": "last year",
+"location": [
+352,
+361
+],
+"entities": [
+{
+"type": "Date",
+"text": "last year"
+}
+]
+},
+{
+"text": "kill",
+"location": [
+340,
+344
+],
+"entities": [
+{
+"type": "EventViolence",
+"text": "attack"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "After the Pune police recovered a letter, purportedly written by Maoists, pointing to a possible plot to kill the PM last year, sources said there was no intelligence input to suggest a plan to attack Modi during the Bijapur visit, but the concentration of 200-300 naxalite was seen as an ominous sign.",
+"score": 0.994897,
+"arguments": [
+{
+"text": "sources",
+"location": [
+363,
+370
+],
+"entities": [
+{
+"type": "Person",
+"text": "sources"
+}
+]
+},
+{
+"text": "said",
+"location": [
+371,
+375
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "After the Pune police recovered a letter, purportedly written by Maoists, pointing to a possible plot to kill the PM last year, sources said there was no intelligence input to suggest a plan to attack Modi during the Bijapur visit, but the concentration of 200-300 naxalite was seen as an ominous sign.",
+"score": 0.495163,
+"arguments": [
+{
+"text": "Modi",
+"location": [
+436,
+440
+],
+"entities": [
+{
+"type": "Person",
+"text": "Modi"
+}
+]
+},
+{
+"text": "attack",
+"location": [
+429,
+435
+],
+"entities": [
+{
+"type": "EventViolence",
+"text": "attack"
+}
+]
+}
+]
+},
+{
+"type": "timeOf",
+"sentence": "According to sources, a day before Modi was to arrive in Bijapur, intelligence agencies alerted about the presence of 1st battalion of (PLGA) of Maoists, headed by dreaded Maoist commander Hidma and considered the most dangerous \u02bbunit' in the area.",
+"score": 0.503701,
+"arguments": [
+{
+"text": "a day before",
+"location": [
+560,
+572
+],
+"entities": [
+{
+"type": "Date",
+"text": "a day before"
+}
+]
+},
+{
+"text": "alerted",
+"location": [
+626,
+633
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "alerted"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "According to sources, a day before Modi was to arrive in Bijapur, intelligence agencies alerted about the presence of 1st battalion of (PLGA) of Maoists, headed by dreaded Maoist commander Hidma and considered the most dangerous \u02bbunit' in the area.",
+"score": 0.359239,
+"arguments": [
+{
+"text": "Modi",
+"location": [
+573,
+577
+],
+"entities": [
+{
+"type": "Person",
+"text": "Modi"
+}
+]
+},
+{
+"text": "Bijapur",
+"location": [
+595,
+602
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Bijapur district"
+}
+]
+}
+]
+}
+],
+"language": "en",
+"keywords": [
+{
+"text": "Maoist commander Hidma",
+"sentiment": {
+"score": -0.598252,
+"label": "negative"
+},
+"relevance": 0.955004,
+"emotion": {
+"sadness": 0.161879,
+"joy": 0.020232,
+"fear": 0.840601,
+"disgust": 0.042224,
+"anger": 0.077495
+}
+},
+{
+"text": "minister Rajnath Singh",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.894177,
+"emotion": {
+"sadness": 0.285243,
+"joy": 0.206204,
+"fear": 0.137757,
+"disgust": 0.112536,
+"anger": 0.067906
+}
+},
+{
+"text": "major human error",
+"sentiment": {
+"score": -0.632427,
+"label": "negative"
+},
+"relevance": 0.887763,
+"emotion": {
+"sadness": 0.798212,
+"joy": 0.023909,
+"fear": 0.097898,
+"disgust": 0.067656,
+"anger": 0.151289
+}
+},
+{
+"text": "Standard Operating Procedures",
+"sentiment": {
+"score": -0.632427,
+"label": "negative"
+},
+"relevance": 0.885916,
+"emotion": {
+"sadness": 0.798212,
+"joy": 0.023909,
+"fear": 0.097898,
+"disgust": 0.067656,
+"anger": 0.151289
+}
+},
+{
+"text": "naxalite activities",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.844028,
+"emotion": {
+"sadness": 0.059017,
+"joy": 0.306569,
+"fear": 0.08565,
+"disgust": 0.058624,
+"anger": 0.06632
+}
+}
+],
+"entities": [
+{
+"type": "Organization",
+"text": "PLGA",
+"sentiment": {
+"score": -0.29957,
+"label": "negative"
+},
+"relevance": 0.894437,
+"emotion": {
+"sadness": 0.315691,
+"joy": 0.083125,
+"fear": 0.549426,
+"disgust": 0.085553,
+"anger": 0.121128
+},
+"count": 3
+},
+{
+"type": "Location",
+"text": "Bijapur",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.697107,
+"emotion": {
+"sadness": 0.437536,
+"joy": 0.066479,
+"fear": 0.354598,
+"disgust": 0.030566,
+"anger": 0.147083
+},
+"disambiguation": {
+"subtype": [
+"City"
+],
+"name": "Bijapur district, Karnataka",
+"dbpedia_resource": "http://dbpedia.org/resource/Bijapur_district,_Karnataka"
+},
+"count": 3
+},
+{
+"type": "Person",
+"text": "Modi",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.633832,
+"emotion": {
+"sadness": 0.337969,
+"joy": 0.107674,
+"fear": 0.359476,
+"disgust": 0.031472,
+"anger": 0.132907
+},
+"count": 2
+},
+{
+"type": "Organization",
+"text": "1st battalion",
+"sentiment": {
+"score": -0.359323,
+"label": "negative"
+},
+"relevance": 0.564548,
+"emotion": {
+"sadness": 0.080981,
+"joy": 0.104436,
+"fear": 0.631552,
+"disgust": 0.052685,
+"anger": 0.082718
+},
+"disambiguation": {
+"subtype": [
+"MilitaryUnit"
+],
+"name": "Black Watch",
+"dbpedia_resource": "http://dbpedia.org/resource/Black_Watch"
+},
+"count": 2
+},
+{
+"type": "JobTitle",
+"text": "officer",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.515828,
+"emotion": {
+"sadness": 0.25298,
+"joy": 0.099113,
+"fear": 0.128763,
+"disgust": 0.178105,
+"anger": 0.216487
+},
+"count": 2
+}
+],
+"concepts": [
+{
+"text": "Maoism",
+"relevance": 0.935762,
+"dbpedia_resource": "http://dbpedia.org/resource/Maoism"
+},
+{
+"text": "Bharatiya Janata Party",
+"relevance": 0.932142,
+"dbpedia_resource": "http://dbpedia.org/resource/Bharatiya_Janata_Party"
+},
+{
+"text": "Uttar Pradesh",
+"relevance": 0.839102,
+"dbpedia_resource": "http://dbpedia.org/resource/Uttar_Pradesh"
+},
+{
+"text": "Unified Communist Party of Nepal",
+"relevance": 0.796818,
+"dbpedia_resource": "http://dbpedia.org/resource/Unified_Communist_Party_of_Nepal_(Maoist)"
+},
+{
+"text": "Lal Krishna Advani",
+"relevance": 0.752248,
+"dbpedia_resource": "http://dbpedia.org/resource/Lal_Krishna_Advani"
+}
+],
+"categories": [
+{
+"score": 0.457975,
+"label": "/law, govt and politics/law enforcement/police"
+},
+{
+"score": 0.397582,
+"label": "/law, govt and politics/government"
+},
+{
+"score": 0.280955,
+"label": "/law, govt and politics/politics/political parties"
+}
+]
+}
+}

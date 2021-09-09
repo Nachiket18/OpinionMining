@@ -1,0 +1,1099 @@
+{
+"source_article_link": "https://timesofindia.indiatimes.com/india/39-trafficked-nepali-girls-rescued-in-delhi/articleshow/65226352.cms?&utm_source=Articleshow&utm_medium=Organic&utm_campaign=Related_Stories",
+"title": "39 trafficked Nepali girls rescued in Delhi",
+"date_published": "2018-08-01T14:38:12+05:30",
+"source_type": "news_article",
+"source_name": "timesofindia.indiatimes.com",
+"image_link": [
+"https://timesofindia.indiatimes.com/thumb/msid-65226345,imgsize-1170818,width-400,resizemode-4/65226345.jpg"
+],
+"article_body": "NEW DELHI: The Delhi Commission for Women ( ) on Wednesday said that it rescued 39 Nepali women, who had become victims of human . The Commission said that it received a tip-off and rescued the girls from Hotel Hriday Inn in Delhi's Paharganj area on Tuesday night. \"The raid lasted the entire night and assistance was provided by Delhi Police. The entire hotel only had trafficked Nepali girls who were being sent to Gulf countries,\" DCW Chief Swati Maliwal said. In a similar incident earlier, the Commission had rescued 18 women -- two of them were from Bengal and the rest were Nepali. Last week, DCW rescued 16 Nepali girls who were about to be trafficked to Gulf countries. \"Within a week 3 rescue operations, 73 Nepali girls were rescued from , Maidangarhi and Paharganj,\" Maliwal tweeted. \"The poorest of the poor women and girls of Nepal are being exploited. True, Delhi is slowly becoming Trafficking Capital of the world!\" she added.",
+"description": "NEW DELHI: The Delhi Commission for Women ( ) on Wednesday said that it rescued 39 Nepali women, who had become victims of human . The Commission said that it received a tip-off and rescued the girls from Hotel Hriday Inn in Delhi's Paharganj area on Tuesday night. \"The raid lasted the entire night and assistance was provided by Delhi Police. The entire hotel only had trafficked Nepali girls who were being sent to Gulf countries,\" DCW Chief Swati Maliwal said.",
+"time_scraped": "2018-08-22 15:01:22.386330",
+"article_id": "65226352",
+"article_category": "IndiaNews",
+"image_details": [
+{
+"url": "https://timesofindia.indiatimes.com/thumb/msid-65226345,imgsize-1170818,width-400,resizemode-4/65226345.jpg",
+"path": "full/3441edb86ec2ee390dc9d09f5072bf04141b5c04.jpg",
+"checksum": "af5adee938a2044e51a843aacf6a8cca"
+}
+],
+"ibm_nlu": {
+"usage": {
+"text_units": 1,
+"text_characters": 944,
+"features": 7
+},
+"sentiment": {
+"document": {
+"score": -0.707924,
+"label": "negative"
+}
+},
+"semantic_roles": [
+{
+"subject": {
+"text": "NEW DELHI: The Delhi Commission for Women ( )"
+},
+"sentence": "NEW DELHI: The Delhi Commission for Women ( ) on Wednesday said that it rescued 39 Nepali women, who had become victims of human .",
+"object": {
+"text": "that it rescued 39 Nepali women, who had become victims of human"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "39 Nepali women"
+},
+"sentence": "NEW DELHI: The Delhi Commission for Women ( ) on Wednesday said that it rescued 39 Nepali women, who had become victims of human .",
+"object": {
+"text": "victims of human"
+},
+"action": {
+"verb": {
+"text": "become",
+"tense": "past"
+},
+"text": "had become",
+"normalized": "have become"
+}
+},
+{
+"subject": {
+"text": "The Commission"
+},
+"sentence": " The Commission said that it received a tip-off and rescued the girls from Hotel Hriday Inn in Delhi's Paharganj area on Tuesday night.",
+"object": {
+"text": "that it received a tip-off and rescued the girls from Hotel Hriday Inn in Delhi's Paharganj area on Tuesday night"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "it"
+},
+"sentence": " The Commission said that it received a tip-off and rescued the girls from Hotel Hriday Inn in Delhi's Paharganj area on Tuesday night.",
+"object": {
+"text": "the girls"
+},
+"action": {
+"verb": {
+"text": "rescue",
+"tense": "past"
+},
+"text": "rescued",
+"normalized": "rescue"
+}
+},
+{
+"subject": {
+"text": "The raid"
+},
+"sentence": " \"The raid lasted the entire night and assistance was provided by Delhi Police.",
+"object": {
+"text": "the entire night"
+},
+"action": {
+"verb": {
+"text": "last",
+"tense": "past"
+},
+"text": "lasted",
+"normalized": "last"
+}
+},
+{
+"subject": {
+"text": "assistance"
+},
+"sentence": " \"The raid lasted the entire night and assistance was provided by Delhi Police.",
+"object": {
+"text": "provided by Delhi Police"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "was",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "by Delhi Police"
+},
+"sentence": " \"The raid lasted the entire night and assistance was provided by Delhi Police.",
+"object": {
+"text": "assistance"
+},
+"action": {
+"verb": {
+"text": "provide",
+"tense": "past"
+},
+"text": "was provided",
+"normalized": "be provide"
+}
+},
+{
+"subject": {
+"text": "The entire hotel"
+},
+"sentence": " The entire hotel only had trafficked Nepali girls who were being sent to Gulf countries,\" DCW Chief Swati Maliwal said.",
+"object": {
+"text": "trafficked Nepali girls who were being sent to Gulf countries"
+},
+"action": {
+"verb": {
+"text": "have",
+"tense": "past"
+},
+"text": "had",
+"normalized": "have"
+}
+},
+{
+"subject": {
+"text": "Nepali girls"
+},
+"sentence": " The entire hotel only had trafficked Nepali girls who were being sent to Gulf countries,\" DCW Chief Swati Maliwal said.",
+"object": {
+"text": "to Gulf countries"
+},
+"action": {
+"verb": {
+"text": "send",
+"tense": "past"
+},
+"text": "were being sent",
+"normalized": "be be send"
+}
+},
+{
+"subject": {
+"text": "DCW Chief Swati Maliwal"
+},
+"sentence": " The entire hotel only had trafficked Nepali girls who were being sent to Gulf countries,\" DCW Chief Swati Maliwal said.",
+"object": {
+"text": "The entire hotel only had trafficked Nepali girls who were being sent to Gulf countries"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "the Commission"
+},
+"sentence": " In a similar incident earlier, the Commission had rescued 18 women -- two of them were from Bengal and the rest were Nepali.",
+"object": {
+"text": "rescued 18 women"
+},
+"action": {
+"verb": {
+"text": "have",
+"tense": "past"
+},
+"text": "had",
+"normalized": "have"
+}
+},
+{
+"subject": {
+"text": "the Commission"
+},
+"sentence": " In a similar incident earlier, the Commission had rescued 18 women -- two of them were from Bengal and the rest were Nepali.",
+"object": {
+"text": "18 women"
+},
+"action": {
+"verb": {
+"text": "rescue",
+"tense": "past"
+},
+"text": "had rescued",
+"normalized": "have rescue"
+}
+},
+{
+"subject": {
+"text": "two of them"
+},
+"sentence": " In a similar incident earlier, the Commission had rescued 18 women -- two of them were from Bengal and the rest were Nepali.",
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "were",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "the rest"
+},
+"sentence": " In a similar incident earlier, the Commission had rescued 18 women -- two of them were from Bengal and the rest were Nepali.",
+"object": {
+"text": "Nepali"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "were",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "DCW"
+},
+"sentence": " Last week, DCW rescued 16 Nepali girls who were about to be trafficked to Gulf countries.",
+"object": {
+"text": "16 Nepali girls who were about to be trafficked to Gulf countries"
+},
+"action": {
+"verb": {
+"text": "rescue",
+"tense": "past"
+},
+"text": "rescued",
+"normalized": "rescue"
+}
+},
+{
+"subject": {
+"text": "16 Nepali girls"
+},
+"sentence": " Last week, DCW rescued 16 Nepali girls who were about to be trafficked to Gulf countries.",
+"object": {
+"text": "to Gulf countries"
+},
+"action": {
+"verb": {
+"text": "traffic",
+"tense": "past"
+},
+"text": "to be trafficked",
+"normalized": "to be traffic"
+}
+},
+{
+"subject": {
+"text": "73 Nepali girls"
+},
+"sentence": " \"Within a week 3 rescue operations, 73 Nepali girls were rescued from , Maidangarhi and Paharganj,\" Maliwal tweeted.",
+"action": {
+"verb": {
+"text": "rescue",
+"tense": "past"
+},
+"text": "were rescued",
+"normalized": "be rescue"
+}
+},
+{
+"subject": {
+"text": "Maliwal"
+},
+"sentence": " \"Within a week 3 rescue operations, 73 Nepali girls were rescued from , Maidangarhi and Paharganj,\" Maliwal tweeted.",
+"object": {
+"text": "Within a week 3 rescue operations, 73 Nepali girls were rescued from"
+},
+"action": {
+"verb": {
+"text": "tweet",
+"tense": "past"
+},
+"text": "tweeted",
+"normalized": "tweet"
+}
+},
+{
+"subject": {
+"text": "Delhi"
+},
+"sentence": " True, Delhi is slowly becoming Trafficking Capital of the world!\" she added.",
+"object": {
+"text": "slowly becoming Trafficking Capital of the world"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "present"
+},
+"text": "is",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "Delhi"
+},
+"sentence": " True, Delhi is slowly becoming Trafficking Capital of the world!\" she added.",
+"object": {
+"text": "Trafficking Capital of the world"
+},
+"action": {
+"verb": {
+"text": "become",
+"tense": "present"
+},
+"text": "becoming",
+"normalized": "become"
+}
+}
+],
+"relations": [
+{
+"type": "basedIn",
+"sentence": "NEW DELHI: The Delhi Commission for Women ( ) on Wednesday said that it rescued 39 Nepali women, who had become victims of human .",
+"score": 0.682786,
+"arguments": [
+{
+"text": "Delhi Commission for Women",
+"location": [
+15,
+41
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Delhi Commission for Women"
+}
+]
+},
+{
+"text": "NEW DELHI",
+"location": [
+0,
+9
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "NEW DELHI"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "The entire hotel only had trafficked Nepali girls who were being sent to Gulf countries,\" DCW Chief Swati Maliwal said.",
+"score": 0.901079,
+"arguments": [
+{
+"text": "countries",
+"location": [
+423,
+432
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "countries",
+"disambiguation": {
+"subtype": [
+"Area"
+]
+}
+}
+]
+},
+{
+"text": "Gulf",
+"location": [
+418,
+422
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Gulf"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "Last week, DCW rescued 16 Nepali girls who were about to be trafficked to Gulf countries.",
+"score": 0.827206,
+"arguments": [
+{
+"text": "countries",
+"location": [
+669,
+678
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "countries",
+"disambiguation": {
+"subtype": [
+"Area"
+]
+}
+}
+]
+},
+{
+"text": "Gulf",
+"location": [
+664,
+668
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Gulf"
+}
+]
+}
+]
+},
+{
+"type": "residesIn",
+"sentence": "\"Within a week 3 rescue operations, 73 Nepali girls were rescued from , Maidangarhi and Paharganj,\" Maliwal tweeted.",
+"score": 0.428602,
+"arguments": [
+{
+"text": "girls",
+"location": [
+726,
+731
+],
+"entities": [
+{
+"type": "Person",
+"text": "girls"
+}
+]
+},
+{
+"text": "Maidangarhi",
+"location": [
+752,
+763
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Maidangarhi"
+}
+]
+}
+]
+},
+{
+"type": "residesIn",
+"sentence": "\"The poorest of the poor women and girls of Nepal are being exploited.",
+"score": 0.357112,
+"arguments": [
+{
+"text": "girls",
+"location": [
+832,
+837
+],
+"entities": [
+{
+"type": "Person",
+"text": "girls"
+}
+]
+},
+{
+"text": "Nepal",
+"location": [
+841,
+846
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Nepal",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "residesIn",
+"sentence": "True, Delhi is slowly becoming Trafficking Capital of the world!",
+"score": 0.533939,
+"arguments": [
+{
+"text": "True",
+"location": [
+868,
+872
+],
+"entities": [
+{
+"type": "Person",
+"text": "True"
+}
+]
+},
+{
+"text": "Delhi",
+"location": [
+874,
+879
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "NEW DELHI"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "\" she added.",
+"score": 0.981495,
+"arguments": [
+{
+"text": "she",
+"location": [
+934,
+937
+],
+"entities": [
+{
+"type": "Person",
+"text": "True"
+}
+]
+},
+{
+"text": "added",
+"location": [
+938,
+943
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "added"
+}
+]
+}
+]
+},
+{
+"type": "timeOf",
+"sentence": "NEW DELHI: The Delhi Commission for Women ( ) on Wednesday said that it rescued 39 Nepali women, who had become victims of human .",
+"score": 0.965205,
+"arguments": [
+{
+"text": "Wednesday",
+"location": [
+49,
+58
+],
+"entities": [
+{
+"type": "Date",
+"text": "Wednesday"
+}
+]
+},
+{
+"text": "said",
+"location": [
+59,
+63
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "The Commission said that it received a tip-off and rescued the girls from Hotel Hriday Inn in Delhi's Paharganj area on Tuesday night.",
+"score": 0.976304,
+"arguments": [
+{
+"text": "Commission",
+"location": [
+135,
+145
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Commission"
+}
+]
+},
+{
+"text": "said",
+"location": [
+146,
+150
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "basedIn",
+"sentence": "The Commission said that it received a tip-off and rescued the girls from Hotel Hriday Inn in Delhi's Paharganj area on Tuesday night.",
+"score": 0.741252,
+"arguments": [
+{
+"text": "Hotel Hriday Inn",
+"location": [
+205,
+221
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Hotel Hriday Inn"
+}
+]
+},
+{
+"text": "Delhi",
+"location": [
+225,
+230
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "NEW DELHI"
+}
+]
+}
+]
+},
+{
+"type": "basedIn",
+"sentence": "The Commission said that it received a tip-off and rescued the girls from Hotel Hriday Inn in Delhi's Paharganj area on Tuesday night.",
+"score": 0.340466,
+"arguments": [
+{
+"text": "Hotel Hriday Inn",
+"location": [
+205,
+221
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Hotel Hriday Inn"
+}
+]
+},
+{
+"text": "Paharganj area",
+"location": [
+233,
+247
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Paharganj area"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "The Commission said that it received a tip-off and rescued the girls from Hotel Hriday Inn in Delhi's Paharganj area on Tuesday night.",
+"score": 0.87688,
+"arguments": [
+{
+"text": "Paharganj area",
+"location": [
+233,
+247
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Paharganj area"
+}
+]
+},
+{
+"text": "Delhi",
+"location": [
+225,
+230
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "NEW DELHI"
+}
+]
+}
+]
+},
+{
+"type": "timeOf",
+"sentence": "\"The raid lasted the entire night and assistance was provided by Delhi Police.",
+"score": 0.432047,
+"arguments": [
+{
+"text": "night",
+"location": [
+294,
+299
+],
+"entities": [
+{
+"type": "Time",
+"text": "night"
+}
+]
+},
+{
+"text": "raid",
+"location": [
+271,
+275
+],
+"entities": [
+{
+"type": "EventViolence",
+"text": "raid"
+}
+]
+}
+]
+},
+{
+"type": "partOf",
+"sentence": "\"The raid lasted the entire night and assistance was provided by Delhi Police.",
+"score": 0.998098,
+"arguments": [
+{
+"text": "Police",
+"location": [
+337,
+343
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Police",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+},
+{
+"text": "Delhi",
+"location": [
+331,
+336
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Delhi Commission for Women"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "The entire hotel only had trafficked Nepali girls who were being sent to Gulf countries,\" DCW Chief Swati Maliwal said.",
+"score": 0.364426,
+"arguments": [
+{
+"text": "who",
+"location": [
+395,
+398
+],
+"entities": [
+{
+"type": "Person",
+"text": "girls"
+}
+]
+},
+{
+"text": "Gulf",
+"location": [
+418,
+422
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Gulf"
+}
+]
+}
+]
+}
+],
+"language": "en",
+"keywords": [
+{
+"text": "Nepali girls",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.944286,
+"emotion": {
+"sadness": 0.157363,
+"joy": 0.437811,
+"fear": 0.077302,
+"disgust": 0.17059,
+"anger": 0.164427
+}
+},
+{
+"text": "DCW Chief Swati",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.775678,
+"emotion": {
+"sadness": 0.439152,
+"joy": 0.057703,
+"fear": 0.298791,
+"disgust": 0.180504,
+"anger": 0.346096
+}
+},
+{
+"text": "Nepali women",
+"sentiment": {
+"score": 0.259927,
+"label": "positive"
+},
+"relevance": 0.742187,
+"emotion": {
+"sadness": 0.249686,
+"joy": 0.539749,
+"fear": 0.14171,
+"disgust": 0.092137,
+"anger": 0.00977
+}
+},
+{
+"text": "Gulf countries",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.685887,
+"emotion": {
+"sadness": 0.153552,
+"joy": 0.368083,
+"fear": 0.077356,
+"disgust": 0.151872,
+"anger": 0.262896
+}
+},
+{
+"text": "Hotel Hriday Inn",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.6785,
+"emotion": {
+"sadness": 0.152044,
+"joy": 0.646731,
+"fear": 0.081593,
+"disgust": 0.127504,
+"anger": 0.014771
+}
+}
+],
+"entities": [
+{
+"type": "Location",
+"text": "DELHI",
+"sentiment": {
+"score": 0.0264291,
+"label": "positive"
+},
+"relevance": 0.886428,
+"emotion": {
+"sadness": 0.548414,
+"joy": 0.341269,
+"fear": 0.033987,
+"disgust": 0.079536,
+"anger": 0.04757
+},
+"disambiguation": {
+"subtype": [
+"Country"
+]
+},
+"count": 3
+},
+{
+"type": "Organization",
+"text": "Delhi Commission for Women",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.738568,
+"emotion": {
+"sadness": 0.365481,
+"joy": 0.190805,
+"fear": 0.126388,
+"disgust": 0.25415,
+"anger": 0.171953
+},
+"count": 1
+},
+{
+"type": "Person",
+"text": "Chief Swati Maliwal",
+"sentiment": {
+"score": 0.495131,
+"label": "positive"
+},
+"relevance": 0.542548,
+"emotion": {
+"sadness": 0.321322,
+"joy": 0.170883,
+"fear": 0.228765,
+"disgust": 0.217564,
+"anger": 0.298345
+},
+"count": 3
+},
+{
+"type": "Organization",
+"text": "Delhi Police",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.498641,
+"emotion": {
+"sadness": 0.354822,
+"joy": 0.071223,
+"fear": 0.138856,
+"disgust": 0.101291,
+"anger": 0.068587
+},
+"count": 1
+},
+{
+"type": "Organization",
+"text": "DCW",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.496209,
+"emotion": {
+"sadness": 0.36041,
+"joy": 0.181654,
+"fear": 0.214702,
+"disgust": 0.172851,
+"anger": 0.270354
+},
+"count": 2
+}
+],
+"concepts": [
+{
+"text": "India",
+"relevance": 0.977822,
+"dbpedia_resource": "http://dbpedia.org/resource/India"
+},
+{
+"text": "Poverty",
+"relevance": 0.809327,
+"dbpedia_resource": "http://dbpedia.org/resource/Poverty"
+},
+{
+"text": "Rescue",
+"relevance": 0.808409,
+"dbpedia_resource": "http://dbpedia.org/resource/Rescue"
+},
+{
+"text": "Human trafficking",
+"relevance": 0.658166,
+"dbpedia_resource": "http://dbpedia.org/resource/Human_trafficking"
+},
+{
+"text": "British Raj",
+"relevance": 0.622538,
+"dbpedia_resource": "http://dbpedia.org/resource/British_Raj"
+}
+],
+"categories": [
+{
+"score": 0.51752,
+"label": "/travel/tourist facilities/hotel"
+},
+{
+"score": 0.501439,
+"label": "/law, govt and politics/law enforcement/police"
+},
+{
+"score": 0.500499,
+"label": "/business and industrial/business operations"
+}
+]
+}
+}

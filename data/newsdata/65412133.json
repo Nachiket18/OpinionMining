@@ -1,0 +1,2396 @@
+{
+"source_article_link": "https://timesofindia.indiatimes.com/india/jk-governor-nn-vohra-praises-security-forces-hope-for-better-ties-with-pakistan/articleshow/65412133.cms?&utm_source=Articleshow&utm_medium=Organic&utm_campaign=Related_Stories",
+"title": "J&K governor NN Vohra praises security forces, hope for better ties with Pakistan",
+"date_published": "2018-08-15T13:19:37+05:30",
+"source_type": "news_article",
+"source_name": "timesofindia.indiatimes.com",
+"image_link": [
+"https://timesofindia.indiatimes.com/thumb/msid-65412143,imgsize-26165,width-400,resizemode-4/65412143.jpg"
+],
+"article_body": "SRINAGAR: Jammu and Kashmir governor on Wednesday praised the security forces in the state, saying they have successfully pushed back against the proxy war waged by but hoped that a new leadership in Islamabad would help improve bilateral ties. In his Independence Day address at Sher-e-Kashmir Stadium in Srinagar, he said Pakistan has tried to send \"an unusually large number of trained terrorists\" into India during the past one year. But \"our Army and police forces carried out effective operations and neutralised, perhaps, the largest ever number of terrorists in the past many years\", Vohra said. India suffered because of the terrorists and several security forces personnel and civilians died, he said. The governor said there has been a progressive increase in attempts by terrorists to infiltrate into Indian territory. \"Till June this year, there were repeated ceasefire violations by Pakistan which caused manifold sufferings for our people living in villages along the ,\" he said. Vohra, who took office of the state's governor 10 years ago, lauded the Army for enforcing strict vigil on the frontiers in the face of a difficult terrain and climate. \"I take this opportunity to raise my hand in salute to our fearless officers and men and pay respectful homage to the brave hearts of the state police, and the Army who made the supreme sacrifice to preserve the territorial integrity of our country,\" he added. The governor said that the central government has taken several initiatives to improve ties with Pakistan but these efforts are yet to borne any result. \"Elections have just been concluded in Pakistan and a new prime minister shall be soon taking over. I very much hope that the new leadership in Islamabad will recognise the futility of continuing with its terrorist agenda in J&K and accept that peace between our two countries will contribute towards the establishment of fruitful relations, growing trade, prosperity and all around mutual benefits,\" he said. The new government in Pakistan with as prime minister is expected to be sworn-in on August 18. He said Jammu and Kashmir is striving to achieve its developmental goals despite several disadvantages such as long distance from major markets and inadequate connectivity. \"But most of all, steady growth and advancement suffered because of Pakistan's continuing proxy war and its unceasing campaigns for the past nearly three decades now...,\" he said. On the militancy front, Vohra said he was pleased that several youths who had joined militancy have returned home. He urged community leaders to influence the young men to return home and pursue their career goals.",
+"description": "SRINAGAR: Jammu and Kashmir governor on Wednesday praised the security forces in the state, saying they have successfully pushed back against the proxy war waged by but hoped that a new leadership in Islamabad would help improve bilateral ties. In his Independence Day address at Sher-e-Kashmir Stadium in Srinagar, he said Pakistan has tried to send \"an unusually large number of trained terrorists\" into India during the past one year. But \"our Army and police forces carried out effective operations and neutralised, perhaps, the largest ever number of terrorists in the past many years\", Vohra said.",
+"time_scraped": "2018-08-22 03:01:39.347252",
+"article_id": "65412133",
+"article_category": "IndiaNews",
+"image_details": [
+{
+"url": "https://timesofindia.indiatimes.com/thumb/msid-65412143,imgsize-26165,width-400,resizemode-4/65412143.jpg",
+"path": "full/99bc21848a65e6da49041061423b68b377768a5f.jpg",
+"checksum": "6bca2b36b3ab2cef4f32964ddcc3e6cf"
+}
+],
+"ibm_nlu": {
+"usage": {
+"text_units": 1,
+"text_characters": 2650,
+"features": 7
+},
+"sentiment": {
+"document": {
+"score": -0.184919,
+"label": "negative"
+}
+},
+"semantic_roles": [
+{
+"subject": {
+"text": "Jammu and Kashmir governor"
+},
+"sentence": "SRINAGAR: Jammu and Kashmir governor on Wednesday praised the security forces in the state, saying they have successfully pushed back against the proxy war waged by but hoped that a new leadership in Islamabad would help improve bilateral ties.",
+"object": {
+"text": "the security forces"
+},
+"action": {
+"verb": {
+"text": "praise",
+"tense": "past"
+},
+"text": "praised",
+"normalized": "praise"
+}
+},
+{
+"subject": {
+"text": "SRINAGAR: Jammu and Kashmir governor on Wednesday"
+},
+"sentence": "SRINAGAR: Jammu and Kashmir governor on Wednesday praised the security forces in the state, saying they have successfully pushed back against the proxy war waged by but hoped that a new leadership in Islamabad would help improve bilateral ties.",
+"object": {
+"text": "they have successfully pushed back against the proxy war waged by but hoped that a new leadership in Islamabad"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "present"
+},
+"text": "saying",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "they"
+},
+"sentence": "SRINAGAR: Jammu and Kashmir governor on Wednesday praised the security forces in the state, saying they have successfully pushed back against the proxy war waged by but hoped that a new leadership in Islamabad would help improve bilateral ties.",
+"object": {
+"text": "pushed back against the proxy war waged by but hoped that a new leadership in Islamabad"
+},
+"action": {
+"verb": {
+"text": "have",
+"tense": "present"
+},
+"text": "have",
+"normalized": "have"
+}
+},
+{
+"subject": {
+"text": "they"
+},
+"sentence": "SRINAGAR: Jammu and Kashmir governor on Wednesday praised the security forces in the state, saying they have successfully pushed back against the proxy war waged by but hoped that a new leadership in Islamabad would help improve bilateral ties.",
+"object": {
+"text": "that a new leadership in Islamabad would help improve bilateral ties"
+},
+"action": {
+"verb": {
+"text": "hope",
+"tense": "past"
+},
+"text": "hoped",
+"normalized": "hope"
+}
+},
+{
+"subject": {
+"text": "a new leadership in Islamabad"
+},
+"sentence": "SRINAGAR: Jammu and Kashmir governor on Wednesday praised the security forces in the state, saying they have successfully pushed back against the proxy war waged by but hoped that a new leadership in Islamabad would help improve bilateral ties.",
+"object": {
+"text": "improve bilateral ties"
+},
+"action": {
+"verb": {
+"text": "help",
+"tense": "future"
+},
+"text": "help",
+"normalized": "help"
+}
+},
+{
+"subject": {
+"text": "he"
+},
+"sentence": " In his Independence Day address at Sher-e-Kashmir Stadium in Srinagar, he said Pakistan has tried to send \"an unusually large number of trained terrorists\" into India during the past one year.",
+"object": {
+"text": "Pakistan has tried to send \"an unusually large number of trained terrorists\" into India during the past one year"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "Pakistan"
+},
+"sentence": " In his Independence Day address at Sher-e-Kashmir Stadium in Srinagar, he said Pakistan has tried to send \"an unusually large number of trained terrorists\" into India during the past one year.",
+"object": {
+"text": "to send \"an unusually large number of trained terrorists\" into India during the past one year"
+},
+"action": {
+"verb": {
+"text": "try",
+"tense": "past"
+},
+"text": "tried",
+"normalized": "try"
+}
+},
+{
+"subject": {
+"text": "Pakistan"
+},
+"sentence": " In his Independence Day address at Sher-e-Kashmir Stadium in Srinagar, he said Pakistan has tried to send \"an unusually large number of trained terrorists\" into India during the past one year.",
+"object": {
+"text": "an unusually large number of trained terrorists\""
+},
+"action": {
+"verb": {
+"text": "send",
+"tense": "future"
+},
+"text": "has tried to send",
+"normalized": "have try to send"
+}
+},
+{
+"subject": {
+"text": "Pakistan"
+},
+"sentence": " In his Independence Day address at Sher-e-Kashmir Stadium in Srinagar, he said Pakistan has tried to send \"an unusually large number of trained terrorists\" into India during the past one year.",
+"object": {
+"text": "terrorists"
+},
+"action": {
+"verb": {
+"text": "train",
+"tense": "past"
+},
+"text": "trained",
+"normalized": "train"
+}
+},
+{
+"subject": {
+"text": "our Army and police forces"
+},
+"sentence": " But \"our Army and police forces carried out effective operations and neutralised, perhaps, the largest ever number of terrorists in the past many years\", Vohra said.",
+"object": {
+"text": "effective operations"
+},
+"action": {
+"verb": {
+"text": "carry",
+"tense": "past"
+},
+"text": "carried",
+"normalized": "carry"
+}
+},
+{
+"subject": {
+"text": "Vohra"
+},
+"sentence": " But \"our Army and police forces carried out effective operations and neutralised, perhaps, the largest ever number of terrorists in the past many years\", Vohra said.",
+"object": {
+"text": "But \"our Army and police forces carried out effective operations and neutralised, perhaps, the largest ever number of terrorists in the past many years\""
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "he"
+},
+"sentence": " India suffered because of the terrorists and several security forces personnel and civilians died, he said.",
+"object": {
+"text": "India suffered because of the terrorists and several security forces personnel and civilians died"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "The governor"
+},
+"sentence": " The governor said there has been a progressive increase in attempts by terrorists to infiltrate into Indian territory.",
+"object": {
+"text": "there has been a progressive increase in attempts by terrorists to infiltrate into Indian territory"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "a progressive increase"
+},
+"sentence": " The governor said there has been a progressive increase in attempts by terrorists to infiltrate into Indian territory.",
+"object": {
+"text": "by terrorists to infiltrate into Indian territory"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "has been",
+"normalized": "have be"
+}
+},
+{
+"subject": {
+"text": "repeated ceasefire violations"
+},
+"sentence": " \"Till June this year, there were repeated ceasefire violations by Pakistan which caused manifold sufferings for our people living in villages along the ,\" he said.",
+"object": {
+"text": "by Pakistan which caused manifold sufferings for our people living in villages along the ,\" he said"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "were",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "by Pakistan which caused manifold sufferings for our people living in villages along the"
+},
+"sentence": " \"Till June this year, there were repeated ceasefire violations by Pakistan which caused manifold sufferings for our people living in villages along the ,\" he said.",
+"object": {
+"text": "ceasefire violations"
+},
+"action": {
+"verb": {
+"text": "repeat",
+"tense": "past"
+},
+"text": "repeated",
+"normalized": "repeat"
+}
+},
+{
+"subject": {
+"text": "Pakistan"
+},
+"sentence": " \"Till June this year, there were repeated ceasefire violations by Pakistan which caused manifold sufferings for our people living in villages along the ,\" he said.",
+"object": {
+"text": "manifold sufferings for our people living in villages along the"
+},
+"action": {
+"verb": {
+"text": "cause",
+"tense": "past"
+},
+"text": "caused",
+"normalized": "cause"
+}
+},
+{
+"subject": {
+"text": "our people"
+},
+"sentence": " \"Till June this year, there were repeated ceasefire violations by Pakistan which caused manifold sufferings for our people living in villages along the ,\" he said.",
+"action": {
+"verb": {
+"text": "live",
+"tense": "present"
+},
+"text": "living",
+"normalized": "live"
+}
+},
+{
+"subject": {
+"text": "he"
+},
+"sentence": " \"Till June this year, there were repeated ceasefire violations by Pakistan which caused manifold sufferings for our people living in villages along the ,\" he said.",
+"object": {
+"text": "Till June this year, there were repeated ceasefire violations by Pakistan which caused manifold sufferings for our people living in villages along the"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "Vohra"
+},
+"sentence": " Vohra, who took office of the state's governor 10 years ago, lauded the Army for enforcing strict vigil on the frontiers in the face of a difficult terrain and climate.",
+"object": {
+"text": "office of the state's governor"
+},
+"action": {
+"verb": {
+"text": "take",
+"tense": "past"
+},
+"text": "took",
+"normalized": "take"
+}
+},
+{
+"subject": {
+"text": "Vohra, who took office of the state's governor 10 years ago,"
+},
+"sentence": " Vohra, who took office of the state's governor 10 years ago, lauded the Army for enforcing strict vigil on the frontiers in the face of a difficult terrain and climate.",
+"object": {
+"text": "the Army"
+},
+"action": {
+"verb": {
+"text": "laud",
+"tense": "past"
+},
+"text": "lauded",
+"normalized": "laud"
+}
+},
+{
+"subject": {
+"text": "the Army"
+},
+"sentence": " Vohra, who took office of the state's governor 10 years ago, lauded the Army for enforcing strict vigil on the frontiers in the face of a difficult terrain and climate.",
+"object": {
+"text": "strict vigil on the frontiers in the face of a difficult terrain and climate"
+},
+"action": {
+"verb": {
+"text": "enforce",
+"tense": "present"
+},
+"text": "enforcing",
+"normalized": "enforce"
+}
+},
+{
+"subject": {
+"text": "I"
+},
+"sentence": " \"I take this opportunity to raise my hand in salute to our fearless officers and men and pay respectful homage to the brave hearts of the state police, and the Army who made the supreme sacrifice to preserve the territorial integrity of our country,\" he added.",
+"object": {
+"text": "this opportunity"
+},
+"action": {
+"verb": {
+"text": "take",
+"tense": "present"
+},
+"text": "take",
+"normalized": "take"
+}
+},
+{
+"subject": {
+"text": "I"
+},
+"sentence": " \"I take this opportunity to raise my hand in salute to our fearless officers and men and pay respectful homage to the brave hearts of the state police, and the Army who made the supreme sacrifice to preserve the territorial integrity of our country,\" he added.",
+"object": {
+"text": "my hand"
+},
+"action": {
+"verb": {
+"text": "raise",
+"tense": "future"
+},
+"text": "to raise",
+"normalized": "to raise"
+}
+},
+{
+"subject": {
+"text": "I"
+},
+"sentence": " \"I take this opportunity to raise my hand in salute to our fearless officers and men and pay respectful homage to the brave hearts of the state police, and the Army who made the supreme sacrifice to preserve the territorial integrity of our country,\" he added.",
+"object": {
+"text": "respectful homage"
+},
+"action": {
+"verb": {
+"text": "pay",
+"tense": "present"
+},
+"text": "pay",
+"normalized": "pay"
+}
+},
+{
+"subject": {
+"text": "the Army"
+},
+"sentence": " \"I take this opportunity to raise my hand in salute to our fearless officers and men and pay respectful homage to the brave hearts of the state police, and the Army who made the supreme sacrifice to preserve the territorial integrity of our country,\" he added.",
+"object": {
+"text": "the supreme sacrifice"
+},
+"action": {
+"verb": {
+"text": "make",
+"tense": "past"
+},
+"text": "made",
+"normalized": "make"
+}
+},
+{
+"subject": {
+"text": "the Army"
+},
+"sentence": " \"I take this opportunity to raise my hand in salute to our fearless officers and men and pay respectful homage to the brave hearts of the state police, and the Army who made the supreme sacrifice to preserve the territorial integrity of our country,\" he added.",
+"object": {
+"text": "the territorial integrity of our country"
+},
+"action": {
+"verb": {
+"text": "preserve",
+"tense": "future"
+},
+"text": "to preserve",
+"normalized": "to preserve"
+}
+},
+{
+"subject": {
+"text": "he"
+},
+"sentence": " \"I take this opportunity to raise my hand in salute to our fearless officers and men and pay respectful homage to the brave hearts of the state police, and the Army who made the supreme sacrifice to preserve the territorial integrity of our country,\" he added.",
+"object": {
+"text": "I take this opportunity to raise my hand in salute to our fearless officers and men and pay respectful homage to the brave hearts of the state police, and the Army who made the supreme sacrifice to preserve the territorial integrity of our country"
+},
+"action": {
+"verb": {
+"text": "add",
+"tense": "past"
+},
+"text": "added",
+"normalized": "add"
+}
+},
+{
+"subject": {
+"text": "The governor"
+},
+"sentence": " The governor said that the central government has taken several initiatives to improve ties with Pakistan but these efforts are yet to borne any result.",
+"object": {
+"text": "that the central government has taken several initiatives to improve ties with Pakistan but these efforts are yet to borne any result"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "the central government"
+},
+"sentence": " The governor said that the central government has taken several initiatives to improve ties with Pakistan but these efforts are yet to borne any result.",
+"object": {
+"text": "ties with Pakistan"
+},
+"action": {
+"verb": {
+"text": "improve",
+"tense": "future"
+},
+"text": "to improve",
+"normalized": "to improve"
+}
+},
+{
+"subject": {
+"text": "these efforts"
+},
+"sentence": " The governor said that the central government has taken several initiatives to improve ties with Pakistan but these efforts are yet to borne any result.",
+"action": {
+"verb": {
+"text": "be",
+"tense": "present"
+},
+"text": "are",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "these efforts"
+},
+"sentence": " The governor said that the central government has taken several initiatives to improve ties with Pakistan but these efforts are yet to borne any result.",
+"object": {
+"text": "any result"
+},
+"action": {
+"verb": {
+"text": "bear",
+"tense": "future"
+},
+"text": "to borne",
+"normalized": "to bear"
+}
+},
+{
+"subject": {
+"text": "Elections"
+},
+"sentence": " \"Elections have just been concluded in Pakistan and a new prime minister shall be soon taking over.",
+"object": {
+"text": "just been concluded in Pakistan"
+},
+"action": {
+"verb": {
+"text": "have",
+"tense": "present"
+},
+"text": "have",
+"normalized": "have"
+}
+},
+{
+"subject": {
+"text": "Elections"
+},
+"sentence": " \"Elections have just been concluded in Pakistan and a new prime minister shall be soon taking over.",
+"object": {
+"text": "concluded in Pakistan"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "been",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "Elections"
+},
+"sentence": " \"Elections have just been concluded in Pakistan and a new prime minister shall be soon taking over.",
+"action": {
+"verb": {
+"text": "conclude",
+"tense": "past"
+},
+"text": "have just been concluded",
+"normalized": "have just be conclude"
+}
+},
+{
+"subject": {
+"text": "a new prime minister"
+},
+"sentence": " \"Elections have just been concluded in Pakistan and a new prime minister shall be soon taking over.",
+"action": {
+"verb": {
+"text": "be",
+"tense": "future"
+},
+"text": "be",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "a new prime minister"
+},
+"sentence": " \"Elections have just been concluded in Pakistan and a new prime minister shall be soon taking over.",
+"action": {
+"verb": {
+"text": "take",
+"tense": "future"
+},
+"text": "taking",
+"normalized": "take"
+}
+},
+{
+"subject": {
+"text": "the new leadership in Islamabad"
+},
+"sentence": " I very much hope that the new leadership in Islamabad will recognise the futility of continuing with its terrorist agenda in J&K and accept that peace between our two countries will contribute towards the establishment of fruitful relations, growing trade, prosperity and all around mutual benefits,\" he said.",
+"object": {
+"text": "the futility of continuing with its terrorist agenda in J&K and accept that peace between our two countries will contribute towards the establishment of fruitful relations, growing trade, prosperity and all around mutual benefits"
+},
+"action": {
+"verb": {
+"text": "recognise",
+"tense": "future"
+},
+"text": "will recognise",
+"normalized": "will recognise"
+}
+},
+{
+"subject": {
+"text": "the new leadership in Islamabad"
+},
+"sentence": " I very much hope that the new leadership in Islamabad will recognise the futility of continuing with its terrorist agenda in J&K and accept that peace between our two countries will contribute towards the establishment of fruitful relations, growing trade, prosperity and all around mutual benefits,\" he said.",
+"object": {
+"text": "that peace between our two countries will contribute towards the establishment of fruitful relations, growing trade"
+},
+"action": {
+"verb": {
+"text": "accept",
+"tense": "present"
+},
+"text": "accept",
+"normalized": "accept"
+}
+},
+{
+"subject": {
+"text": "he"
+},
+"sentence": " I very much hope that the new leadership in Islamabad will recognise the futility of continuing with its terrorist agenda in J&K and accept that peace between our two countries will contribute towards the establishment of fruitful relations, growing trade, prosperity and all around mutual benefits,\" he said.",
+"object": {
+"text": "I very much hope that the new leadership in Islamabad will recognise the futility of continuing with its terrorist agenda in J&K and accept that peace between our two countries will contribute towards the establishment of fruitful relations, growing trade, prosperity and all around mutual benefits"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "He"
+},
+"sentence": " He said Jammu and Kashmir is striving to achieve its developmental goals despite several disadvantages such as long distance from major markets and inadequate connectivity.",
+"object": {
+"text": "Jammu and Kashmir is striving to achieve its developmental goals despite several disadvantages such as long distance from major markets and inadequate connectivity"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "Jammu and Kashmir"
+},
+"sentence": " He said Jammu and Kashmir is striving to achieve its developmental goals despite several disadvantages such as long distance from major markets and inadequate connectivity.",
+"object": {
+"text": "to achieve its developmental goals despite several disadvantages such as long distance from major markets and inadequate connectivity"
+},
+"action": {
+"verb": {
+"text": "strive",
+"tense": "present"
+},
+"text": "striving",
+"normalized": "strive"
+}
+},
+{
+"subject": {
+"text": "he"
+},
+"sentence": " \"But most of all, steady growth and advancement suffered because of Pakistan's continuing proxy war and its unceasing campaigns for the past nearly three decades now...,\" he said.",
+"object": {
+"text": "But most of all, steady growth and advancement suffered because of Pakistan's continuing proxy war and its unceasing campaigns for the past nearly three decades now"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "Vohra"
+},
+"sentence": " On the militancy front, Vohra said he was pleased that several youths who had joined militancy have returned home.",
+"object": {
+"text": "he was pleased that several youths who had joined militancy have returned home"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "several youths"
+},
+"sentence": " On the militancy front, Vohra said he was pleased that several youths who had joined militancy have returned home.",
+"object": {
+"text": "joined militancy"
+},
+"action": {
+"verb": {
+"text": "have",
+"tense": "past"
+},
+"text": "had",
+"normalized": "have"
+}
+},
+{
+"subject": {
+"text": "several youths"
+},
+"sentence": " On the militancy front, Vohra said he was pleased that several youths who had joined militancy have returned home.",
+"object": {
+"text": "militancy"
+},
+"action": {
+"verb": {
+"text": "join",
+"tense": "past"
+},
+"text": "had joined",
+"normalized": "have join"
+}
+},
+{
+"subject": {
+"text": "He"
+},
+"sentence": " He urged community leaders to influence the young men to return home and pursue their career goals.",
+"object": {
+"text": "community leaders"
+},
+"action": {
+"verb": {
+"text": "urge",
+"tense": "past"
+},
+"text": "urged",
+"normalized": "urge"
+}
+},
+{
+"subject": {
+"text": "community leaders"
+},
+"sentence": " He urged community leaders to influence the young men to return home and pursue their career goals.",
+"object": {
+"text": "the young men to return home"
+},
+"action": {
+"verb": {
+"text": "influence",
+"tense": "future"
+},
+"text": "to influence",
+"normalized": "to influence"
+}
+}
+],
+"relations": [
+{
+"type": "residesIn",
+"sentence": "SRINAGAR: Jammu and Kashmir governor on Wednesday praised the security forces in the state, saying they have successfully pushed back against the proxy war waged by but hoped that a new leadership in Islamabad would help improve bilateral ties.",
+"score": 0.664233,
+"arguments": [
+{
+"text": "governor",
+"location": [
+28,
+36
+],
+"entities": [
+{
+"type": "Person",
+"text": "governor"
+}
+]
+},
+{
+"text": "Kashmir",
+"location": [
+20,
+27
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Kashmir"
+}
+]
+}
+]
+},
+{
+"type": "partOfMany",
+"sentence": "India suffered because of the terrorists and several security forces personnel and civilians died, he said.",
+"score": 0.868346,
+"arguments": [
+{
+"text": "personnel",
+"location": [
+673,
+682
+],
+"entities": [
+{
+"type": "Person",
+"text": "personnel"
+}
+]
+},
+{
+"text": "security forces",
+"location": [
+657,
+672
+],
+"entities": [
+{
+"type": "Person",
+"text": "security forces"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "The governor said there has been a progressive increase in attempts by terrorists to infiltrate into Indian territory.",
+"score": 0.977598,
+"arguments": [
+{
+"text": "governor",
+"location": [
+716,
+724
+],
+"entities": [
+{
+"type": "Person",
+"text": "governor"
+}
+]
+},
+{
+"text": "said",
+"location": [
+725,
+729
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "praised"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "\"Till June this year, there were repeated ceasefire violations by Pakistan which caused manifold sufferings for our people living in villages along the ,\" he said.",
+"score": 0.969059,
+"arguments": [
+{
+"text": "he",
+"location": [
+986,
+988
+],
+"entities": [
+{
+"type": "Person",
+"text": "governor"
+}
+]
+},
+{
+"text": "said",
+"location": [
+989,
+993
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "praised"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "\"I take this opportunity to raise my hand in salute to our fearless officers and men and pay respectful homage to the brave hearts of the state police, and the Army who made the supreme sacrifice to preserve the territorial integrity of our country,\" he added.",
+"score": 0.994005,
+"arguments": [
+{
+"text": "he",
+"location": [
+1415,
+1417
+],
+"entities": [
+{
+"type": "Person",
+"text": "governor"
+}
+]
+},
+{
+"text": "added",
+"location": [
+1418,
+1423
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "praised"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "The governor said that the central government has taken several initiatives to improve ties with Pakistan but these efforts are yet to borne any result.",
+"score": 0.979113,
+"arguments": [
+{
+"text": "governor",
+"location": [
+1429,
+1437
+],
+"entities": [
+{
+"type": "Person",
+"text": "governor"
+}
+]
+},
+{
+"text": "said",
+"location": [
+1438,
+1442
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "praised"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "I very much hope that the new leadership in Islamabad will recognise the futility of continuing with its terrorist agenda in J&K and accept that peace between our two countries will contribute towards the establishment of fruitful relations, growing trade, prosperity and all around mutual benefits,\" he said.",
+"score": 0.983122,
+"arguments": [
+{
+"text": "he",
+"location": [
+1979,
+1981
+],
+"entities": [
+{
+"type": "Person",
+"text": "governor"
+}
+]
+},
+{
+"text": "said",
+"location": [
+1982,
+1986
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "praised"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "He said Jammu and Kashmir is striving to achieve its developmental goals despite several disadvantages such as long distance from major markets and inadequate connectivity.",
+"score": 0.978025,
+"arguments": [
+{
+"text": "He",
+"location": [
+2083,
+2085
+],
+"entities": [
+{
+"type": "Person",
+"text": "governor"
+}
+]
+},
+{
+"text": "said",
+"location": [
+2086,
+2090
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "praised"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "\"But most of all, steady growth and advancement suffered because of Pakistan's continuing proxy war and its unceasing campaigns for the past nearly three decades now...,\" he said.",
+"score": 0.983071,
+"arguments": [
+{
+"text": "he",
+"location": [
+2427,
+2429
+],
+"entities": [
+{
+"type": "Person",
+"text": "governor"
+}
+]
+},
+{
+"text": "said",
+"location": [
+2430,
+2434
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "praised"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "The governor said there has been a progressive increase in attempts by terrorists to infiltrate into Indian territory.",
+"score": 0.884407,
+"arguments": [
+{
+"text": "territory",
+"location": [
+820,
+829
+],
+"entities": [
+{
+"type": "Location",
+"text": "territory"
+}
+]
+},
+{
+"text": "Indian",
+"location": [
+813,
+819
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Indian",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "\"Till June this year, there were repeated ceasefire violations by Pakistan which caused manifold sufferings for our people living in villages along the ,\" he said.",
+"score": 0.604356,
+"arguments": [
+{
+"text": "our",
+"location": [
+943,
+946
+],
+"entities": [
+{
+"type": "Person",
+"text": "security forces"
+}
+]
+},
+{
+"text": "villages",
+"location": [
+964,
+972
+],
+"entities": [
+{
+"type": "Facility",
+"text": "villages"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "\"Till June this year, there were repeated ceasefire violations by Pakistan which caused manifold sufferings for our people living in villages along the ,\" he said.",
+"score": 0.953437,
+"arguments": [
+{
+"text": "people",
+"location": [
+947,
+953
+],
+"entities": [
+{
+"type": "Person",
+"text": "people"
+}
+]
+},
+{
+"text": "villages",
+"location": [
+964,
+972
+],
+"entities": [
+{
+"type": "Facility",
+"text": "villages"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Vohra, who took office of the state's governor 10 years ago, lauded the Army for enforcing strict vigil on the frontiers in the face of a difficult terrain and climate.",
+"score": 0.836653,
+"arguments": [
+{
+"text": "Vohra",
+"location": [
+995,
+1000
+],
+"entities": [
+{
+"type": "Person",
+"text": "Vohra"
+}
+]
+},
+{
+"text": "lauded",
+"location": [
+1056,
+1062
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "lauded"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Vohra, who took office of the state's governor 10 years ago, lauded the Army for enforcing strict vigil on the frontiers in the face of a difficult terrain and climate.",
+"score": 0.830434,
+"arguments": [
+{
+"text": "who",
+"location": [
+1002,
+1005
+],
+"entities": [
+{
+"type": "Person",
+"text": "Vohra"
+}
+]
+},
+{
+"text": "took office",
+"location": [
+1006,
+1017
+],
+"entities": [
+{
+"type": "EventPersonnel",
+"text": "took office"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "Vohra, who took office of the state's governor 10 years ago, lauded the Army for enforcing strict vigil on the frontiers in the face of a difficult terrain and climate.",
+"score": 0.362746,
+"arguments": [
+{
+"text": "took office",
+"location": [
+1006,
+1017
+],
+"entities": [
+{
+"type": "EventPersonnel",
+"text": "took office"
+}
+]
+},
+{
+"text": "state",
+"location": [
+1025,
+1030
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "state"
+}
+]
+}
+]
+},
+{
+"type": "timeOf",
+"sentence": "Vohra, who took office of the state's governor 10 years ago, lauded the Army for enforcing strict vigil on the frontiers in the face of a difficult terrain and climate.",
+"score": 0.983911,
+"arguments": [
+{
+"text": "10 years ago",
+"location": [
+1042,
+1054
+],
+"entities": [
+{
+"type": "Date",
+"text": "10 years ago"
+}
+]
+},
+{
+"text": "took office",
+"location": [
+1006,
+1017
+],
+"entities": [
+{
+"type": "EventPersonnel",
+"text": "took office"
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "Vohra, who took office of the state's governor 10 years ago, lauded the Army for enforcing strict vigil on the frontiers in the face of a difficult terrain and climate.",
+"score": 0.257497,
+"arguments": [
+{
+"text": "governor",
+"location": [
+1033,
+1041
+],
+"entities": [
+{
+"type": "Person",
+"text": "governor"
+}
+]
+},
+{
+"text": "state",
+"location": [
+1025,
+1030
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "state"
+}
+]
+}
+]
+},
+{
+"type": "timeOf",
+"sentence": "SRINAGAR: Jammu and Kashmir governor on Wednesday praised the security forces in the state, saying they have successfully pushed back against the proxy war waged by but hoped that a new leadership in Islamabad would help improve bilateral ties.",
+"score": 0.939419,
+"arguments": [
+{
+"text": "Wednesday",
+"location": [
+40,
+49
+],
+"entities": [
+{
+"type": "Date",
+"text": "Wednesday"
+}
+]
+},
+{
+"text": "praised",
+"location": [
+50,
+57
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "praised"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "Vohra, who took office of the state's governor 10 years ago, lauded the Army for enforcing strict vigil on the frontiers in the face of a difficult terrain and climate.",
+"score": 0.730947,
+"arguments": [
+{
+"text": "Army",
+"location": [
+1067,
+1071
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Army",
+"disambiguation": {
+"subtype": [
+"Military"
+]
+}
+}
+]
+},
+{
+"text": "lauded",
+"location": [
+1056,
+1062
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "lauded"
+}
+]
+}
+]
+},
+{
+"type": "partOf",
+"sentence": "\"I take this opportunity to raise my hand in salute to our fearless officers and men and pay respectful homage to the brave hearts of the state police, and the Army who made the supreme sacrifice to preserve the territorial integrity of our country,\" he added.",
+"score": 0.996999,
+"arguments": [
+{
+"text": "police",
+"location": [
+1308,
+1314
+],
+"entities": [
+{
+"type": "Organization",
+"text": "police",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+},
+{
+"text": "state",
+"location": [
+1302,
+1307
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "state"
+}
+]
+}
+]
+},
+{
+"type": "residesIn",
+"sentence": "\"I take this opportunity to raise my hand in salute to our fearless officers and men and pay respectful homage to the brave hearts of the state police, and the Army who made the supreme sacrifice to preserve the territorial integrity of our country,\" he added.",
+"score": 0.434512,
+"arguments": [
+{
+"text": "our",
+"location": [
+1401,
+1404
+],
+"entities": [
+{
+"type": "Person",
+"text": "security forces"
+}
+]
+},
+{
+"text": "country",
+"location": [
+1405,
+1412
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "India",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "\"Elections have just been concluded in Pakistan and a new prime minister shall be soon taking over.",
+"score": 0.751389,
+"arguments": [
+{
+"text": "Elections",
+"location": [
+1579,
+1588
+],
+"entities": [
+{
+"type": "EventElection",
+"text": "Elections"
+}
+]
+},
+{
+"text": "Pakistan",
+"location": [
+1617,
+1625
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Pakistan",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "I very much hope that the new leadership in Islamabad will recognise the futility of continuing with its terrorist agenda in J&K and accept that peace between our two countries will contribute towards the establishment of fruitful relations, growing trade, prosperity and all around mutual benefits,\" he said.",
+"score": 0.466551,
+"arguments": [
+{
+"text": "its",
+"location": [
+1779,
+1782
+],
+"entities": [
+{
+"type": "Organization",
+"text": "its"
+}
+]
+},
+{
+"text": "J&K",
+"location": [
+1803,
+1806
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "J&K"
+}
+]
+}
+]
+},
+{
+"type": "basedIn",
+"sentence": "The new government in Pakistan with as prime minister is expected to be sworn-in on August 18.",
+"score": 0.367052,
+"arguments": [
+{
+"text": "government",
+"location": [
+1996,
+2006
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Pakistan",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+},
+{
+"text": "Pakistan",
+"location": [
+2010,
+2018
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Pakistan",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "On the militancy front, Vohra said he was pleased that several youths who had joined militancy have returned home.",
+"score": 0.638484,
+"arguments": [
+{
+"text": "who",
+"location": [
+2506,
+2509
+],
+"entities": [
+{
+"type": "Person",
+"text": "youths"
+}
+]
+},
+{
+"text": "home",
+"location": [
+2545,
+2549
+],
+"entities": [
+{
+"type": "Location",
+"text": "home"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "On the militancy front, Vohra said he was pleased that several youths who had joined militancy have returned home.",
+"score": 0.401175,
+"arguments": [
+{
+"text": "militancy",
+"location": [
+2521,
+2530
+],
+"entities": [
+{
+"type": "Person",
+"text": "militancy"
+}
+]
+},
+{
+"text": "home",
+"location": [
+2545,
+2549
+],
+"entities": [
+{
+"type": "Location",
+"text": "home"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "He urged community leaders to influence the young men to return home and pursue their career goals.",
+"score": 0.992016,
+"arguments": [
+{
+"text": "He",
+"location": [
+2551,
+2553
+],
+"entities": [
+{
+"type": "Person",
+"text": "Vohra"
+}
+]
+},
+{
+"text": "urged",
+"location": [
+2554,
+2559
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "urged"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "He urged community leaders to influence the young men to return home and pursue their career goals.",
+"score": 0.528051,
+"arguments": [
+{
+"text": "leaders",
+"location": [
+2570,
+2577
+],
+"entities": [
+{
+"type": "Person",
+"text": "leaders"
+}
+]
+},
+{
+"text": "urged",
+"location": [
+2554,
+2559
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "urged"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "SRINAGAR: Jammu and Kashmir governor on Wednesday praised the security forces in the state, saying they have successfully pushed back against the proxy war waged by but hoped that a new leadership in Islamabad would help improve bilateral ties.",
+"score": 0.679943,
+"arguments": [
+{
+"text": "security forces",
+"location": [
+62,
+77
+],
+"entities": [
+{
+"type": "Person",
+"text": "security forces"
+}
+]
+},
+{
+"text": "praised",
+"location": [
+50,
+57
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "praised"
+}
+]
+}
+]
+},
+{
+"type": "partOfMany",
+"sentence": "He urged community leaders to influence the young men to return home and pursue their career goals.",
+"score": 0.480541,
+"arguments": [
+{
+"text": "leaders",
+"location": [
+2570,
+2577
+],
+"entities": [
+{
+"type": "Person",
+"text": "leaders"
+}
+]
+},
+{
+"text": "community",
+"location": [
+2560,
+2569
+],
+"entities": [
+{
+"type": "Person",
+"text": "community"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "He urged community leaders to influence the young men to return home and pursue their career goals.",
+"score": 0.377234,
+"arguments": [
+{
+"text": "men",
+"location": [
+2601,
+2604
+],
+"entities": [
+{
+"type": "Person",
+"text": "leaders"
+}
+]
+},
+{
+"text": "home",
+"location": [
+2615,
+2619
+],
+"entities": [
+{
+"type": "Location",
+"text": "home"
+}
+]
+}
+]
+},
+{
+"type": "partOf",
+"sentence": "SRINAGAR: Jammu and Kashmir governor on Wednesday praised the security forces in the state, saying they have successfully pushed back against the proxy war waged by but hoped that a new leadership in Islamabad would help improve bilateral ties.",
+"score": 0.649626,
+"arguments": [
+{
+"text": "saying",
+"location": [
+92,
+98
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "saying"
+}
+]
+},
+{
+"text": "praised",
+"location": [
+50,
+57
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "praised"
+}
+]
+}
+]
+},
+{
+"type": "residesIn",
+"sentence": "SRINAGAR: Jammu and Kashmir governor on Wednesday praised the security forces in the state, saying they have successfully pushed back against the proxy war waged by but hoped that a new leadership in Islamabad would help improve bilateral ties.",
+"score": 0.803821,
+"arguments": [
+{
+"text": "security forces",
+"location": [
+62,
+77
+],
+"entities": [
+{
+"type": "Person",
+"text": "security forces"
+}
+]
+},
+{
+"text": "state",
+"location": [
+85,
+90
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "state"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "In his Independence Day address at Sher-e-Kashmir Stadium in Srinagar, he said Pakistan has tried to send \"an unusually large number of trained terrorists\" into India during the past one year.",
+"score": 0.959365,
+"arguments": [
+{
+"text": "Kashmir Stadium",
+"location": [
+287,
+302
+],
+"entities": [
+{
+"type": "Facility",
+"text": "Kashmir Stadium"
+}
+]
+},
+{
+"text": "Srinagar",
+"location": [
+306,
+314
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "SRINAGAR"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "In his Independence Day address at Sher-e-Kashmir Stadium in Srinagar, he said Pakistan has tried to send \"an unusually large number of trained terrorists\" into India during the past one year.",
+"score": 0.975898,
+"arguments": [
+{
+"text": "he",
+"location": [
+316,
+318
+],
+"entities": [
+{
+"type": "Person",
+"text": "his"
+}
+]
+},
+{
+"text": "said",
+"location": [
+319,
+323
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "praised"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "India suffered because of the terrorists and several security forces personnel and civilians died, he said.",
+"score": 0.975525,
+"arguments": [
+{
+"text": "he",
+"location": [
+703,
+705
+],
+"entities": [
+{
+"type": "Person",
+"text": "his"
+}
+]
+},
+{
+"text": "said",
+"location": [
+706,
+710
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "praised"
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "But \"our Army and police forces carried out effective operations and neutralised, perhaps, the largest ever number of terrorists in the past many years\", Vohra said.",
+"score": 0.848399,
+"arguments": [
+{
+"text": "forces",
+"location": [
+463,
+469
+],
+"entities": [
+{
+"type": "Person",
+"text": "security forces"
+}
+]
+},
+{
+"text": "police",
+"location": [
+456,
+462
+],
+"entities": [
+{
+"type": "Organization",
+"text": "police",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "But \"our Army and police forces carried out effective operations and neutralised, perhaps, the largest ever number of terrorists in the past many years\", Vohra said.",
+"score": 0.997521,
+"arguments": [
+{
+"text": "Vohra",
+"location": [
+592,
+597
+],
+"entities": [
+{
+"type": "Person",
+"text": "Vohra"
+}
+]
+},
+{
+"text": "said",
+"location": [
+598,
+602
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "praised"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "On the militancy front, Vohra said he was pleased that several youths who had joined militancy have returned home.",
+"score": 0.995913,
+"arguments": [
+{
+"text": "Vohra",
+"location": [
+2460,
+2465
+],
+"entities": [
+{
+"type": "Person",
+"text": "Vohra"
+}
+]
+},
+{
+"text": "said",
+"location": [
+2466,
+2470
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "praised"
+}
+]
+}
+]
+}
+],
+"language": "en",
+"keywords": [
+{
+"text": "security forces",
+"sentiment": {
+"score": -0.508837,
+"label": "negative"
+},
+"relevance": 0.959159,
+"emotion": {
+"sadness": 0.822805,
+"joy": 0.00925,
+"fear": 0.246241,
+"disgust": 0.091851,
+"anger": 0.093468
+}
+},
+{
+"text": "unusually large number",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.944999,
+"emotion": {
+"sadness": 0.421526,
+"joy": 0.014945,
+"fear": 0.298167,
+"disgust": 0.246075,
+"anger": 0.253223
+}
+},
+{
+"text": "proxy war",
+"sentiment": {
+"score": -0.473015,
+"label": "negative"
+},
+"relevance": 0.93584,
+"emotion": {
+"sadness": 0.805203,
+"joy": 0.063598,
+"fear": 0.176918,
+"disgust": 0.046361,
+"anger": 0.058103
+}
+},
+{
+"text": "new leadership",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.916901,
+"emotion": {
+"sadness": 0.172631,
+"joy": 0.549311,
+"fear": 0.106707,
+"disgust": 0.023715,
+"anger": 0.065264
+}
+},
+{
+"text": "security forces personnel",
+"sentiment": {
+"score": -0.561819,
+"label": "negative"
+},
+"relevance": 0.912195,
+"emotion": {
+"sadness": 0.705926,
+"joy": 0.004468,
+"fear": 0.38837,
+"disgust": 0.087,
+"anger": 0.129579
+}
+}
+],
+"entities": [
+{
+"type": "Location",
+"text": "Pakistan",
+"sentiment": {
+"score": -0.362187,
+"label": "negative"
+},
+"relevance": 0.963408,
+"emotion": {
+"sadness": 0.702009,
+"joy": 0.061091,
+"fear": 0.122029,
+"disgust": 0.102172,
+"anger": 0.196174
+},
+"disambiguation": {
+"subtype": [
+"GovernmentalJurisdiction",
+"Country"
+],
+"name": "Pakistan",
+"dbpedia_resource": "http://dbpedia.org/resource/Pakistan"
+},
+"count": 6
+},
+{
+"type": "Person",
+"text": "Vohra",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.905484,
+"emotion": {
+"sadness": 0.460032,
+"joy": 0.617738,
+"fear": 0.052122,
+"disgust": 0.054958,
+"anger": 0.052641
+},
+"count": 6
+},
+{
+"type": "Organization",
+"text": "Army",
+"sentiment": {
+"score": -0.307666,
+"label": "negative"
+},
+"relevance": 0.584009,
+"emotion": {
+"sadness": 0.397872,
+"joy": 0.033548,
+"fear": 0.388662,
+"disgust": 0.254176,
+"anger": 0.207237
+},
+"count": 3
+},
+{
+"type": "Location",
+"text": "SRINAGAR",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.576144,
+"emotion": {
+"sadness": 0.149538,
+"joy": 0.455074,
+"fear": 0.040365,
+"disgust": 0.042785,
+"anger": 0.075564
+},
+"disambiguation": {
+"subtype": [
+"IndianCity",
+"City"
+],
+"name": "Srinagar",
+"dbpedia_resource": "http://dbpedia.org/resource/Srinagar"
+},
+"count": 2
+},
+{
+"type": "Location",
+"text": "Islamabad",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.520946,
+"emotion": {
+"sadness": 0.172631,
+"joy": 0.549311,
+"fear": 0.106707,
+"disgust": 0.023715,
+"anger": 0.065264
+},
+"disambiguation": {
+"subtype": [
+"City"
+],
+"name": "Islamabad",
+"dbpedia_resource": "http://dbpedia.org/resource/Islamabad"
+},
+"count": 2
+}
+],
+"concepts": [
+{
+"text": "Kashmir",
+"relevance": 0.97586,
+"dbpedia_resource": "http://dbpedia.org/resource/Kashmir"
+},
+{
+"text": "United States",
+"relevance": 0.825717,
+"dbpedia_resource": "http://dbpedia.org/resource/United_States"
+},
+{
+"text": "Jammu and Kashmir",
+"relevance": 0.705913,
+"dbpedia_resource": "http://dbpedia.org/resource/Jammu_and_Kashmir"
+},
+{
+"text": "Kashmir conflict",
+"relevance": 0.654107,
+"dbpedia_resource": "http://dbpedia.org/resource/Kashmir_conflict"
+},
+{
+"text": "Pakistan",
+"relevance": 0.623122,
+"dbpedia_resource": "http://dbpedia.org/resource/Pakistan"
+}
+],
+"categories": [
+{
+"score": 0.466567,
+"label": "/law, govt and politics/government"
+},
+{
+"score": 0.409909,
+"label": "/law, govt and politics/espionage and intelligence/terrorism"
+},
+{
+"score": 0.396833,
+"label": "/society/unrest and war"
+}
+]
+}
+}

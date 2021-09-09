@@ -1,0 +1,1723 @@
+{
+"source_article_link": "https://timesofindia.indiatimes.com/india/plum-posts-for-shiv-sena-in-maharashtra-cabinet/articleshow/64492353.cms?&utm_source=Articleshow&utm_medium=Organic&utm_campaign=Related_Stories",
+"title": "Plum posts for Shiv Sena in Maharashtra Cabinet?",
+"date_published": "2018-06-07T14:52:29+05:30",
+"source_type": "news_article",
+"source_name": "timesofindia.indiatimes.com",
+"image_link": [
+"https://timesofindia.indiatimes.com/thumb/msid-64492353,width-400,resizemode-4/64492353.jpg"
+],
+"article_body": "BJP president and Shiv Sena chief held a one-on-one closeddoor meeting at the latter\u2019s residence in Matoshree on Wednesday. Although what transpired at the meeting was not known, the meeting came in the backdrop of BJP trying to reach out to Sena to continue with the alliance for the 2019 and assembly polls. According to party insiders, the BJP has promised the Sena plum cabinet berths in the upcoming cabinet reshuffle in Maharashtra as well as posts for its senior leaders in the Centre. Prior to the one-on-one meeting Shah and Maharashtra chief minister Devendra Fadnavis held a meeting for around 30 minutes with Uddhav and his son Aditya. Shah and Uddhav have quite a frosty relations. Shah has visited Matoshree only a couple of times since he became the BJP chief. However, on Wednesday, Shah s t ayed back at Matoshree and interacted with other members of the Thackeray household, according to BJP leaders.  A sizeable section of the Sena\u2019s MPs and MLAs want an alliance with BJP as they believe that the party would be without power otherwise. There are others in the party, however, who don\u2019t favour an alliance as they feel that the BJP\u2019s growth has been at the expense of the Sena. In any case, Sena leaders said that they would ponder over the BJP\u2019s request for an alliance to increase their bargaining power.  Shah will also hold a meeting with sangathan mantri Vijay Puranik and BJP officials to look in to preparations for the 2019 polls. He will hold a meeting with Fadnavis and Puranik at Varsha the official residence of Fadnavis. Earlier in the day, Shah met actress Nene and industrialist as part of BJP\u2019s outreach programme. ",
+"description": "BJP president and Shiv Sena chief held a one-on-one closeddoor meeting at the latter\u2019s residence in Matoshree on Wednesday. Although what transpired at the meeting was not known, the meeting came in the backdrop of BJP trying to reach out to Sena to continue with the alliance for the 2019 and assembly polls. According to party insiders, the BJP has promised the Sena plum cabinet berths in the upcoming cabinet reshuffle in Maharashtra as well as posts for its senior leaders in the Centre. Prior to the one-on-one meeting Shah and Maharashtra chief minister Devendra Fadnavis held a meeting for around 30 minutes with Uddhav and his son Aditya. Shah and Uddhav have quite a frosty relations. Shah has visited Matoshree only a couple of times since he became the BJP chief. However, on Wednesday, Shah s t ayed back at Matoshree and interacted with other members of the Thackeray household, according to BJP leaders.",
+"time_scraped": "2018-08-24 09:01:20.168422",
+"article_id": "64492353",
+"article_category": "IndiaNews",
+"image_details": [
+{
+"url": "https://timesofindia.indiatimes.com/thumb/msid-64492353,width-400,resizemode-4/64492353.jpg",
+"path": "full/3346dd2e3bae9664e4e09e538c7a90a73e50b9b5.jpg",
+"checksum": "0aebaeb30e768635b6e9d6f23e2ccb39"
+}
+],
+"ibm_nlu": {
+"usage": {
+"text_units": 1,
+"text_characters": 1651,
+"features": 7
+},
+"sentiment": {
+"document": {
+"score": 0.583349,
+"label": "positive"
+}
+},
+"semantic_roles": [
+{
+"subject": {
+"text": "BJP president and Shiv Sena chief"
+},
+"sentence": "BJP president and Shiv Sena chief held a one-on-one closeddoor meeting at the latter\u2019s residence in Matoshree on Wednesday.",
+"object": {
+"text": "a one-on-one closeddoor meeting"
+},
+"action": {
+"verb": {
+"text": "hold",
+"tense": "past"
+},
+"text": "held",
+"normalized": "hold"
+}
+},
+{
+"subject": {
+"text": "the meeting"
+},
+"sentence": " Although what transpired at the meeting was not known, the meeting came in the backdrop of BJP trying to reach out to Sena to continue with the alliance for the 2019 and assembly polls.",
+"object": {
+"text": "in the backdrop of BJP trying to reach out to Sena to continue with the alliance for the 2019 and assembly polls"
+},
+"action": {
+"verb": {
+"text": "come",
+"tense": "past"
+},
+"text": "came",
+"normalized": "come"
+}
+},
+{
+"subject": {
+"text": "the BJP"
+},
+"sentence": " According to party insiders, the BJP has promised the Sena plum cabinet berths in the upcoming cabinet reshuffle in Maharashtra as well as posts for its senior leaders in the Centre.",
+"object": {
+"text": "promised the Sena plum cabinet berths in the upcoming cabinet reshuffle in Maharashtra as well as posts for its senior leaders in the Centre"
+},
+"action": {
+"verb": {
+"text": "have",
+"tense": "present"
+},
+"text": "has",
+"normalized": "have"
+}
+},
+{
+"subject": {
+"text": "Shah and Maharashtra chief minister Devendra Fadnavis"
+},
+"sentence": " Prior to the one-on-one meeting Shah and Maharashtra chief minister Devendra Fadnavis held a meeting for around 30 minutes with Uddhav and his son Aditya.",
+"object": {
+"text": "a meeting"
+},
+"action": {
+"verb": {
+"text": "hold",
+"tense": "past"
+},
+"text": "held",
+"normalized": "hold"
+}
+},
+{
+"subject": {
+"text": "Shah and Uddhav"
+},
+"sentence": " Shah and Uddhav have quite a frosty relations.",
+"object": {
+"text": "quite a frosty relations"
+},
+"action": {
+"verb": {
+"text": "have",
+"tense": "present"
+},
+"text": "have",
+"normalized": "have"
+}
+},
+{
+"subject": {
+"text": "Shah"
+},
+"sentence": " Shah has visited Matoshree only a couple of times since he became the BJP chief.",
+"object": {
+"text": "visited Matoshree only a couple of times since he became the BJP chief"
+},
+"action": {
+"verb": {
+"text": "have",
+"tense": "present"
+},
+"text": "has",
+"normalized": "have"
+}
+},
+{
+"subject": {
+"text": "Shah s t"
+},
+"sentence": " However, on Wednesday, Shah s t ayed back at Matoshree and interacted with other members of the Thackeray household, according to BJP leaders.",
+"action": {
+"verb": {
+"text": "ayed",
+"tense": "past"
+},
+"text": "ayed",
+"normalized": "ayed"
+}
+},
+{
+"subject": {
+"text": "Shah s"
+},
+"sentence": " However, on Wednesday, Shah s t ayed back at Matoshree and interacted with other members of the Thackeray household, according to BJP leaders.",
+"action": {
+"verb": {
+"text": "interact",
+"tense": "past"
+},
+"text": "interacted",
+"normalized": "interact"
+}
+},
+{
+"subject": {
+"text": "Shah s t ayed back at Matoshree and interacted with other members of the Thackeray household"
+},
+"sentence": " However, on Wednesday, Shah s t ayed back at Matoshree and interacted with other members of the Thackeray household, according to BJP leaders.",
+"object": {
+"text": "to BJP leaders"
+},
+"action": {
+"verb": {
+"text": "accord",
+"tense": "present"
+},
+"text": "according",
+"normalized": "accord"
+}
+},
+{
+"subject": {
+"text": "they"
+},
+"sentence": " A sizeable section of the Sena\u2019s MPs and MLAs want an alliance with BJP as they believe that the party would be without power otherwise.",
+"object": {
+"text": "that the party would be without power otherwise"
+},
+"action": {
+"verb": {
+"text": "believe",
+"tense": "present"
+},
+"text": "believe",
+"normalized": "believe"
+}
+},
+{
+"subject": {
+"text": "others"
+},
+"sentence": " There are others in the party, however, who don\u2019t favour an alliance as they feel that the BJP\u2019s growth has been at the expense of the Sena.",
+"object": {
+"text": "in the party, however, who don\u2019t favour an alliance as they feel that the BJP\u2019s growth has been at the expense of the Sena"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "present"
+},
+"text": "are",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "n\u2019t favour"
+},
+"sentence": " There are others in the party, however, who don\u2019t favour an alliance as they feel that the BJP\u2019s growth has been at the expense of the Sena.",
+"object": {
+"text": "an alliance"
+},
+"action": {
+"verb": {
+"text": "do",
+"tense": "present"
+},
+"text": "do",
+"normalized": "do"
+}
+},
+{
+"subject": {
+"text": "the BJP\u2019s growth"
+},
+"sentence": " There are others in the party, however, who don\u2019t favour an alliance as they feel that the BJP\u2019s growth has been at the expense of the Sena.",
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "has been",
+"normalized": "have be"
+}
+},
+{
+"subject": {
+"text": "Sena leaders"
+},
+"sentence": " In any case, Sena leaders said that they would ponder over the BJP\u2019s request for an alliance to increase their bargaining power.",
+"object": {
+"text": "that they would ponder over the BJP\u2019s request for an alliance to increase their bargaining power"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "they"
+},
+"sentence": " In any case, Sena leaders said that they would ponder over the BJP\u2019s request for an alliance to increase their bargaining power.",
+"object": {
+"text": "for an alliance"
+},
+"action": {
+"verb": {
+"text": "request",
+"tense": "present"
+},
+"text": "request",
+"normalized": "request"
+}
+},
+{
+"subject": {
+"text": "they"
+},
+"sentence": " In any case, Sena leaders said that they would ponder over the BJP\u2019s request for an alliance to increase their bargaining power.",
+"object": {
+"text": "their bargaining power"
+},
+"action": {
+"verb": {
+"text": "increase",
+"tense": "future"
+},
+"text": "to increase",
+"normalized": "to increase"
+}
+},
+{
+"subject": {
+"text": "Shah"
+},
+"sentence": " Shah will also hold a meeting with sangathan mantri Vijay Puranik and BJP officials to look in to preparations for the 2019 polls.",
+"object": {
+"text": "a meeting"
+},
+"action": {
+"verb": {
+"text": "hold",
+"tense": "future"
+},
+"text": "will also hold",
+"normalized": "will also hold"
+}
+},
+{
+"subject": {
+"text": "BJP officials"
+},
+"sentence": " Shah will also hold a meeting with sangathan mantri Vijay Puranik and BJP officials to look in to preparations for the 2019 polls.",
+"action": {
+"verb": {
+"text": "look",
+"tense": "future"
+},
+"text": "to look",
+"normalized": "to look"
+}
+},
+{
+"subject": {
+"text": "He"
+},
+"sentence": " He will hold a meeting with Fadnavis and Puranik at Varsha the official residence of Fadnavis.",
+"object": {
+"text": "a meeting"
+},
+"action": {
+"verb": {
+"text": "hold",
+"tense": "future"
+},
+"text": "will hold",
+"normalized": "will hold"
+}
+},
+{
+"subject": {
+"text": "Shah"
+},
+"sentence": " Earlier in the day, Shah met actress Nene and industrialist as part of BJP\u2019s outreach programme.",
+"object": {
+"text": "actress Nene and industrialist"
+},
+"action": {
+"verb": {
+"text": "meet",
+"tense": "past"
+},
+"text": "met",
+"normalized": "meet"
+}
+}
+],
+"relations": [
+{
+"type": "locatedAt",
+"sentence": "BJP president and Shiv Sena chief held a one-on-one closeddoor meeting at the latter's residence in Matoshree on Wednesday.",
+"score": 0.46752,
+"arguments": [
+{
+"text": "president",
+"location": [
+4,
+13
+],
+"entities": [
+{
+"type": "Person",
+"text": "president"
+}
+]
+},
+{
+"text": "residence",
+"location": [
+87,
+96
+],
+"entities": [
+{
+"type": "Facility",
+"text": "residence"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "BJP president and Shiv Sena chief held a one-on-one closeddoor meeting at the latter's residence in Matoshree on Wednesday.",
+"score": 0.510894,
+"arguments": [
+{
+"text": "chief",
+"location": [
+28,
+33
+],
+"entities": [
+{
+"type": "Person",
+"text": "president"
+}
+]
+},
+{
+"text": "residence",
+"location": [
+87,
+96
+],
+"entities": [
+{
+"type": "Facility",
+"text": "residence"
+}
+]
+}
+]
+},
+{
+"type": "participantIn",
+"sentence": "Prior to the one-on-one meeting Shah and Maharashtra chief minister Devendra Fadnavis held a meeting for around 30 minutes with Uddhav and his son Aditya.",
+"score": 0.863164,
+"arguments": [
+{
+"text": "Shah",
+"location": [
+525,
+529
+],
+"entities": [
+{
+"type": "Person",
+"text": "Shah"
+}
+]
+},
+{
+"text": "meeting",
+"location": [
+517,
+524
+],
+"entities": [
+{
+"type": "EventMeeting",
+"text": "meeting"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "Prior to the one-on-one meeting Shah and Maharashtra chief minister Devendra Fadnavis held a meeting for around 30 minutes with Uddhav and his son Aditya.",
+"score": 0.44896,
+"arguments": [
+{
+"text": "chief minister",
+"location": [
+546,
+560
+],
+"entities": [
+{
+"type": "Person",
+"text": "Devendra Fadnavis"
+}
+]
+},
+{
+"text": "Maharashtra",
+"location": [
+534,
+545
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Maharashtra"
+}
+]
+}
+]
+},
+{
+"type": "participantIn",
+"sentence": "Prior to the one-on-one meeting Shah and Maharashtra chief minister Devendra Fadnavis held a meeting for around 30 minutes with Uddhav and his son Aditya.",
+"score": 0.886756,
+"arguments": [
+{
+"text": "Devendra Fadnavis",
+"location": [
+561,
+578
+],
+"entities": [
+{
+"type": "Person",
+"text": "Devendra Fadnavis"
+}
+]
+},
+{
+"text": "meeting",
+"location": [
+586,
+593
+],
+"entities": [
+{
+"type": "EventMeeting",
+"text": "meeting"
+}
+]
+}
+]
+},
+{
+"type": "parentOf",
+"sentence": "Prior to the one-on-one meeting Shah and Maharashtra chief minister Devendra Fadnavis held a meeting for around 30 minutes with Uddhav and his son Aditya.",
+"score": 0.786914,
+"arguments": [
+{
+"text": "his",
+"location": [
+632,
+635
+],
+"entities": [
+{
+"type": "Person",
+"text": "Uddhav"
+}
+]
+},
+{
+"text": "son",
+"location": [
+636,
+639
+],
+"entities": [
+{
+"type": "Person",
+"text": "Aditya"
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "Shah has visited Matoshree only a couple of times since he became the BJP chief.",
+"score": 0.791068,
+"arguments": [
+{
+"text": "chief",
+"location": [
+769,
+774
+],
+"entities": [
+{
+"type": "Person",
+"text": "chief"
+}
+]
+},
+{
+"text": "BJP",
+"location": [
+765,
+768
+],
+"entities": [
+{
+"type": "Organization",
+"text": "BJP",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "However, on Wednesday, Shah s t ayed back at Matoshree and interacted with other members of the Thackeray household, according to BJP leaders.",
+"score": 0.776545,
+"arguments": [
+{
+"text": "members",
+"location": [
+857,
+864
+],
+"entities": [
+{
+"type": "Person",
+"text": "members"
+}
+]
+},
+{
+"text": "household",
+"location": [
+882,
+891
+],
+"entities": [
+{
+"type": "Facility",
+"text": "household"
+}
+]
+}
+]
+},
+{
+"type": "managerOf",
+"sentence": "A sizeable section of the Sena's MPs and MLAs want an alliance with BJP as they believe that the party would be without power otherwise.",
+"score": 0.37887,
+"arguments": [
+{
+"text": "Sena",
+"location": [
+946,
+950
+],
+"entities": [
+{
+"type": "Person",
+"text": "Shiv Sena"
+}
+]
+},
+{
+"text": "MPs and MLAs",
+"location": [
+953,
+965
+],
+"entities": [
+{
+"type": "Organization",
+"text": "MPs and MLAs"
+}
+]
+}
+]
+},
+{
+"type": "managerOf",
+"sentence": "In any case, Sena leaders said that they would ponder over the BJP's request for an alliance to increase their bargaining power.",
+"score": 0.696636,
+"arguments": [
+{
+"text": "Sena",
+"location": [
+1211,
+1215
+],
+"entities": [
+{
+"type": "Person",
+"text": "Shiv Sena"
+}
+]
+},
+{
+"text": "leaders",
+"location": [
+1216,
+1223
+],
+"entities": [
+{
+"type": "Person",
+"text": "leaders"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "In any case, Sena leaders said that they would ponder over the BJP's request for an alliance to increase their bargaining power.",
+"score": 0.99359,
+"arguments": [
+{
+"text": "leaders",
+"location": [
+1216,
+1223
+],
+"entities": [
+{
+"type": "Person",
+"text": "leaders"
+}
+]
+},
+{
+"text": "said",
+"location": [
+1224,
+1228
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "In any case, Sena leaders said that they would ponder over the BJP's request for an alliance to increase their bargaining power.",
+"score": 0.986186,
+"arguments": [
+{
+"text": "BJP",
+"location": [
+1261,
+1264
+],
+"entities": [
+{
+"type": "Organization",
+"text": "BJP",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+},
+{
+"text": "request",
+"location": [
+1267,
+1274
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "request"
+}
+]
+}
+]
+},
+{
+"type": "colleague",
+"sentence": "BJP president and Shiv Sena chief held a one-on-one closeddoor meeting at the latter's residence in Matoshree on Wednesday.",
+"score": 0.515578,
+"arguments": [
+{
+"text": "chief",
+"location": [
+28,
+33
+],
+"entities": [
+{
+"type": "Person",
+"text": "president"
+}
+]
+},
+{
+"text": "Shiv Sena",
+"location": [
+18,
+27
+],
+"entities": [
+{
+"type": "Person",
+"text": "Shiv Sena"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "In any case, Sena leaders said that they would ponder over the BJP's request for an alliance to increase their bargaining power.",
+"score": 0.808948,
+"arguments": [
+{
+"text": "alliance",
+"location": [
+1282,
+1290
+],
+"entities": [
+{
+"type": "Organization",
+"text": "alliance"
+}
+]
+},
+{
+"text": "request",
+"location": [
+1267,
+1274
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "request"
+}
+]
+}
+]
+},
+{
+"type": "participantIn",
+"sentence": "Shah will also hold a meeting with sangathan mantri Vijay Puranik and BJP officials to look in to preparations for the 2019 polls.",
+"score": 0.784961,
+"arguments": [
+{
+"text": "officials",
+"location": [
+1402,
+1411
+],
+"entities": [
+{
+"type": "Person",
+"text": "officials"
+}
+]
+},
+{
+"text": "meeting",
+"location": [
+1350,
+1357
+],
+"entities": [
+{
+"type": "EventMeeting",
+"text": "meeting"
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "Shah will also hold a meeting with sangathan mantri Vijay Puranik and BJP officials to look in to preparations for the 2019 polls.",
+"score": 0.870871,
+"arguments": [
+{
+"text": "officials",
+"location": [
+1402,
+1411
+],
+"entities": [
+{
+"type": "Person",
+"text": "officials"
+}
+]
+},
+{
+"text": "BJP",
+"location": [
+1398,
+1401
+],
+"entities": [
+{
+"type": "Organization",
+"text": "BJP",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "timeOf",
+"sentence": "Shah will also hold a meeting with sangathan mantri Vijay Puranik and BJP officials to look in to preparations for the 2019 polls.",
+"score": 0.939645,
+"arguments": [
+{
+"text": "2019",
+"location": [
+1447,
+1451
+],
+"entities": [
+{
+"type": "Date",
+"text": "2019"
+}
+]
+},
+{
+"text": "polls",
+"location": [
+1452,
+1457
+],
+"entities": [
+{
+"type": "EventElection",
+"text": "polls"
+}
+]
+}
+]
+},
+{
+"type": "participantIn",
+"sentence": "He will hold a meeting with Fadnavis and Puranik at Varsha the official residence of Fadnavis.",
+"score": 0.531456,
+"arguments": [
+{
+"text": "He",
+"location": [
+1459,
+1461
+],
+"entities": [
+{
+"type": "Person",
+"text": "Shah"
+}
+]
+},
+{
+"text": "meeting",
+"location": [
+1474,
+1481
+],
+"entities": [
+{
+"type": "EventMeeting",
+"text": "meeting"
+}
+]
+}
+]
+},
+{
+"type": "participantIn",
+"sentence": "He will hold a meeting with Fadnavis and Puranik at Varsha the official residence of Fadnavis.",
+"score": 0.965563,
+"arguments": [
+{
+"text": "Fadnavis",
+"location": [
+1487,
+1495
+],
+"entities": [
+{
+"type": "Person",
+"text": "Devendra Fadnavis"
+}
+]
+},
+{
+"text": "meeting",
+"location": [
+1474,
+1481
+],
+"entities": [
+{
+"type": "EventMeeting",
+"text": "meeting"
+}
+]
+}
+]
+},
+{
+"type": "participantIn",
+"sentence": "He will hold a meeting with Fadnavis and Puranik at Varsha the official residence of Fadnavis.",
+"score": 0.843095,
+"arguments": [
+{
+"text": "Puranik",
+"location": [
+1500,
+1507
+],
+"entities": [
+{
+"type": "Person",
+"text": "Vijay Puranik"
+}
+]
+},
+{
+"text": "meeting",
+"location": [
+1474,
+1481
+],
+"entities": [
+{
+"type": "EventMeeting",
+"text": "meeting"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "He will hold a meeting with Fadnavis and Puranik at Varsha the official residence of Fadnavis.",
+"score": 0.780106,
+"arguments": [
+{
+"text": "meeting",
+"location": [
+1474,
+1481
+],
+"entities": [
+{
+"type": "EventMeeting",
+"text": "meeting"
+}
+]
+},
+{
+"text": "residence",
+"location": [
+1531,
+1540
+],
+"entities": [
+{
+"type": "Facility",
+"text": "residence"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "He will hold a meeting with Fadnavis and Puranik at Varsha the official residence of Fadnavis.",
+"score": 0.458663,
+"arguments": [
+{
+"text": "Puranik",
+"location": [
+1500,
+1507
+],
+"entities": [
+{
+"type": "Person",
+"text": "Vijay Puranik"
+}
+]
+},
+{
+"text": "Varsha",
+"location": [
+1511,
+1517
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Varsha",
+"disambiguation": {
+"subtype": [
+"Commercial"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "He will hold a meeting with Fadnavis and Puranik at Varsha the official residence of Fadnavis.",
+"score": 0.555861,
+"arguments": [
+{
+"text": "Varsha",
+"location": [
+1511,
+1517
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Varsha",
+"disambiguation": {
+"subtype": [
+"Commercial"
+]
+}
+}
+]
+},
+{
+"text": "residence",
+"location": [
+1531,
+1540
+],
+"entities": [
+{
+"type": "Facility",
+"text": "residence"
+}
+]
+}
+]
+},
+{
+"type": "participantIn",
+"sentence": "BJP president and Shiv Sena chief held a one-on-one closeddoor meeting at the latter's residence in Matoshree on Wednesday.",
+"score": 0.537896,
+"arguments": [
+{
+"text": "chief",
+"location": [
+28,
+33
+],
+"entities": [
+{
+"type": "Person",
+"text": "president"
+}
+]
+},
+{
+"text": "meeting",
+"location": [
+63,
+70
+],
+"entities": [
+{
+"type": "EventMeeting",
+"text": "meeting"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "He will hold a meeting with Fadnavis and Puranik at Varsha the official residence of Fadnavis.",
+"score": 0.595328,
+"arguments": [
+{
+"text": "Varsha",
+"location": [
+1511,
+1517
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Varsha",
+"disambiguation": {
+"subtype": [
+"Commercial"
+]
+}
+}
+]
+},
+{
+"text": "Fadnavis",
+"location": [
+1544,
+1552
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Fadnavis"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "He will hold a meeting with Fadnavis and Puranik at Varsha the official residence of Fadnavis.",
+"score": 0.901039,
+"arguments": [
+{
+"text": "residence",
+"location": [
+1531,
+1540
+],
+"entities": [
+{
+"type": "Facility",
+"text": "residence"
+}
+]
+},
+{
+"text": "Fadnavis",
+"location": [
+1544,
+1552
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Fadnavis"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "BJP president and Shiv Sena chief held a one-on-one closeddoor meeting at the latter's residence in Matoshree on Wednesday.",
+"score": 0.911463,
+"arguments": [
+{
+"text": "meeting",
+"location": [
+63,
+70
+],
+"entities": [
+{
+"type": "EventMeeting",
+"text": "meeting"
+}
+]
+},
+{
+"text": "residence",
+"location": [
+87,
+96
+],
+"entities": [
+{
+"type": "Facility",
+"text": "residence"
+}
+]
+}
+]
+},
+{
+"type": "timeOf",
+"sentence": "BJP president and Shiv Sena chief held a one-on-one closeddoor meeting at the latter's residence in Matoshree on Wednesday.",
+"score": 0.629245,
+"arguments": [
+{
+"text": "Wednesday",
+"location": [
+113,
+122
+],
+"entities": [
+{
+"type": "Date",
+"text": "Wednesday"
+}
+]
+},
+{
+"text": "meeting",
+"location": [
+63,
+70
+],
+"entities": [
+{
+"type": "EventMeeting",
+"text": "meeting"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "BJP president and Shiv Sena chief held a one-on-one closeddoor meeting at the latter's residence in Matoshree on Wednesday.",
+"score": 0.983322,
+"arguments": [
+{
+"text": "residence",
+"location": [
+87,
+96
+],
+"entities": [
+{
+"type": "Facility",
+"text": "residence"
+}
+]
+},
+{
+"text": "Matoshree",
+"location": [
+100,
+109
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Matoshree"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "According to party insiders, the BJP has promised the Sena plum cabinet berths in the upcoming cabinet reshuffle in Maharashtra as well as posts for its senior leaders in the Centre.",
+"score": 0.884527,
+"arguments": [
+{
+"text": "BJP",
+"location": [
+343,
+346
+],
+"entities": [
+{
+"type": "Organization",
+"text": "BJP",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+},
+{
+"text": "promised",
+"location": [
+351,
+359
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "promised"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "According to party insiders, the BJP has promised the Sena plum cabinet berths in the upcoming cabinet reshuffle in Maharashtra as well as posts for its senior leaders in the Centre.",
+"score": 0.561478,
+"arguments": [
+{
+"text": "cabinet",
+"location": [
+405,
+412
+],
+"entities": [
+{
+"type": "Organization",
+"text": "cabinet"
+}
+]
+},
+{
+"text": "Maharashtra",
+"location": [
+426,
+437
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Maharashtra"
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "According to party insiders, the BJP has promised the Sena plum cabinet berths in the upcoming cabinet reshuffle in Maharashtra as well as posts for its senior leaders in the Centre.",
+"score": 0.487405,
+"arguments": [
+{
+"text": "leaders",
+"location": [
+470,
+477
+],
+"entities": [
+{
+"type": "Person",
+"text": "leaders"
+}
+]
+},
+{
+"text": "its",
+"location": [
+459,
+462
+],
+"entities": [
+{
+"type": "Organization",
+"text": "BJP",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "However, on Wednesday, Shah s t ayed back at Matoshree and interacted with other members of the Thackeray household, according to BJP leaders.",
+"score": 0.586911,
+"arguments": [
+{
+"text": "leaders",
+"location": [
+910,
+917
+],
+"entities": [
+{
+"type": "Person",
+"text": "leaders"
+}
+]
+},
+{
+"text": "BJP",
+"location": [
+906,
+909
+],
+"entities": [
+{
+"type": "Organization",
+"text": "BJP",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+}
+]
+}
+],
+"language": "en",
+"keywords": [
+{
+"text": "BJP",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.954991,
+"emotion": {
+"sadness": 0.242749,
+"joy": 0.194472,
+"fear": 0.11112,
+"disgust": 0.168015,
+"anger": 0.194156
+}
+},
+{
+"text": "BJP president",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.853376,
+"emotion": {
+"sadness": 0.313935,
+"joy": 0.263705,
+"fear": 0.156556,
+"disgust": 0.037828,
+"anger": 0.297733
+}
+},
+{
+"text": "BJP chief",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.799665,
+"emotion": {
+"sadness": 0.378587,
+"joy": 0.166223,
+"fear": 0.216212,
+"disgust": 0.126763,
+"anger": 0.229013
+}
+},
+{
+"text": "BJP leaders",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.774933,
+"emotion": {
+"sadness": 0.015849,
+"joy": 0.184436,
+"fear": 0.102121,
+"disgust": 0.395185,
+"anger": 0.164713
+}
+},
+{
+"text": "Shiv Sena chief",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.766764,
+"emotion": {
+"sadness": 0.313935,
+"joy": 0.263705,
+"fear": 0.156556,
+"disgust": 0.037828,
+"anger": 0.297733
+}
+}
+],
+"entities": [
+{
+"type": "Organization",
+"text": "BJP",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.933346,
+"emotion": {
+"sadness": 0.220109,
+"joy": 0.19918,
+"fear": 0.093605,
+"disgust": 0.17489,
+"anger": 0.188346
+},
+"disambiguation": {
+"subtype": [
+"PoliticalParty",
+"Actor",
+"OfficeHolder"
+],
+"name": "Bharatiya Janata Party",
+"dbpedia_resource": "http://dbpedia.org/resource/Bharatiya_Janata_Party"
+},
+"count": 9
+},
+{
+"type": "Person",
+"text": "Shah",
+"sentiment": {
+"score": 0.534099,
+"label": "positive"
+},
+"relevance": 0.423762,
+"emotion": {
+"sadness": 0.250814,
+"joy": 0.279941,
+"fear": 0.133918,
+"disgust": 0.102127,
+"anger": 0.176294
+},
+"disambiguation": {
+"subtype": [
+"MusicalArtist"
+],
+"name": "Lalon",
+"dbpedia_resource": "http://dbpedia.org/resource/Lalon"
+},
+"count": 9
+},
+{
+"type": "Person",
+"text": "Shiv Sena",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.300253,
+"emotion": {
+"sadness": 0.407955,
+"joy": 0.169291,
+"fear": 0.081885,
+"disgust": 0.067786,
+"anger": 0.260468
+},
+"count": 2
+},
+{
+"type": "Person",
+"text": "Sena",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.186662,
+"emotion": {
+"sadness": 0.248247,
+"joy": 0.313986,
+"fear": 0.095687,
+"disgust": 0.09663,
+"anger": 0.269464
+},
+"count": 1
+},
+{
+"type": "Person",
+"text": "Devendra Fadnavis",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.152885,
+"emotion": {
+"sadness": 0.214579,
+"joy": 0.445561,
+"fear": 0.10701,
+"disgust": 0.028329,
+"anger": 0.248041
+},
+"count": 3
+}
+],
+"concepts": [
+{
+"text": "Maharashtra",
+"relevance": 0.95271,
+"dbpedia_resource": "http://dbpedia.org/resource/Maharashtra"
+},
+{
+"text": "Shiv Sena",
+"relevance": 0.7386,
+"dbpedia_resource": "http://dbpedia.org/resource/Shiv_Sena"
+},
+{
+"text": "Uddhav Thackeray",
+"relevance": 0.559828,
+"dbpedia_resource": "http://dbpedia.org/resource/Uddhav_Thackeray"
+},
+{
+"text": "Bharatiya Janata Party",
+"relevance": 0.543528,
+"dbpedia_resource": "http://dbpedia.org/resource/Bharatiya_Janata_Party"
+},
+{
+"text": "Bal Thackeray",
+"relevance": 0.466425,
+"dbpedia_resource": "http://dbpedia.org/resource/Bal_Thackeray"
+}
+],
+"categories": [
+{
+"score": 0.536184,
+"label": "/law, govt and politics/politics/elections"
+},
+{
+"score": 0.386905,
+"label": "/law, govt and politics/government"
+},
+{
+"score": 0.325695,
+"label": "/religion and spirituality/hinduism"
+}
+]
+}
+}

@@ -1,0 +1,1714 @@
+{
+"source_article_link": "https://www.firstpost.com/india/in-uk-rahul-gandhi-says-21st-century-should-be-defined-by-mahatmas-message-of-compassion-non-violence-5039491.html",
+"title": "In UK, Rahul Gandhi says 21st Century should be defined by Mahatma's message of compassion, non-violence",
+"date_published": "2018-08-24T20:12:54+05:30",
+"source_type": "news_article",
+"source_name": "FirstPost",
+"image_link": [
+"https://images.firstpost.com/wp-content/uploads/2018/08/rahul_gandhi_uk_twitteratincindia.jpg"
+],
+"article_body": "London: The 21st Century should be defined by Mahatma Gandhi's message of compassion and non-violence, Congress party president Rahul Gandhi said in London on Friday. Rahul, who is the first foreign Leader of Opposition to be invited to speak at the Grand Committee Room of the UK Parliament, said that India and the UK are connected as they fight people on ideas. The other prominent speakers who have spoken at the Grand Committee Room in the House of Commons are Tibetan spiritual leader the Dalai Lama, former South African president Nelson Mandela and former president of erstwhile Soviet Union Mikhail Gorbachev. Congress president Rahul Gandhi and Indian Overseas Congress chairman Sam Pitroda at UK parliament on Friday. Twitter@INCIndia \"What connects India and the UK is that we fight people on ideas... In the 21st century, the greatest idea is compassion and non-violence as laid out by my hero Mahatma Gandhi,\" he told an audience of parliamentarians and local political leaders. \"Even though the British ruled us, they left us with many ideas and some strengths as well,\" he said. He also hailed the Indian-origin politicians that are part of the British political establishment. \"It is rooms like this from where Britain governed India... and many Indian people are today helping run Britain. How far the world has come,\" he said at the event titled 'India and the World' attended by senior Opposition Labour party MPs Keith Vaz, Virendra Sharma and Seema Malhotra.",
+"description": "London: The 21st Century should be defined by Mahatma Gandhi's message of compassion and non-violence, Congress party president Rahul Gandhi said in London on Friday. Rahul, who is the first foreign Leader of Opposition to be invited to speak at the Grand Committee Room of the UK Parliament, said that India and the UK are connected as they fight people on ideas. The other prominent speakers who have spoken at the Grand Committee Room in the House of Commons are Tibetan spiritual leader the Dalai Lama, former South African president Nelson Mandela and former president of erstwhile Soviet Union Mikhail Gorbachev. Congress president Rahul Gandhi and Indian Overseas Congress chairman Sam Pitroda at UK parliament on Friday. Twitter@INCIndia",
+"time_scraped": "2018-08-24 21:04:28.193381",
+"article_id": "5039491",
+"article_category": "India",
+"image_details": [
+{
+"url": "https://images.firstpost.com/wp-content/uploads/2018/08/rahul_gandhi_uk_twitteratincindia.jpg",
+"path": "full/b8d8724e5a2af1bb8e6bea0f6daca3fa35837dbe.jpg",
+"checksum": "7ef2f54182dff46661b60f507bb18a50"
+}
+],
+"ibm_nlu": {
+"usage": {
+"text_units": 1,
+"text_characters": 1480,
+"features": 7
+},
+"sentiment": {
+"document": {
+"score": 0.535469,
+"label": "positive"
+}
+},
+"semantic_roles": [
+{
+"subject": {
+"text": "by Mahatma Gandhi's message of compassion and non-violence"
+},
+"sentence": "London: The 21st Century should be defined by Mahatma Gandhi's message of compassion and non-violence, Congress party president Rahul Gandhi said in London on Friday.",
+"object": {
+"text": "The 21st Century"
+},
+"action": {
+"verb": {
+"text": "define",
+"tense": "future"
+},
+"text": "should be defined",
+"normalized": "should be define"
+}
+},
+{
+"subject": {
+"text": "Congress party president Rahul Gandhi"
+},
+"sentence": "London: The 21st Century should be defined by Mahatma Gandhi's message of compassion and non-violence, Congress party president Rahul Gandhi said in London on Friday.",
+"object": {
+"text": "The 21st Century should be defined by Mahatma Gandhi's message of compassion and non-violence"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "Rahul, who is the first foreign Leader of Opposition to be invited"
+},
+"sentence": " Rahul, who is the first foreign Leader of Opposition to be invited to speak at the Grand Committee Room of the UK Parliament, said that India and the UK are connected as they fight people on ideas.",
+"object": {
+"text": "that India and the UK are connected as they fight people on ideas"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "the UK"
+},
+"sentence": " Rahul, who is the first foreign Leader of Opposition to be invited to speak at the Grand Committee Room of the UK Parliament, said that India and the UK are connected as they fight people on ideas.",
+"action": {
+"verb": {
+"text": "be",
+"tense": "present"
+},
+"text": "are connected",
+"normalized": "be connect"
+}
+},
+{
+"subject": {
+"text": "The other prominent speakers"
+},
+"sentence": " The other prominent speakers who have spoken at the Grand Committee Room in the House of Commons are Tibetan spiritual leader the Dalai Lama, former South African president Nelson Mandela and former president of erstwhile Soviet Union Mikhail Gorbachev.",
+"object": {
+"text": "spoken at the Grand Committee Room in the House of Commons"
+},
+"action": {
+"verb": {
+"text": "have",
+"tense": "present"
+},
+"text": "have",
+"normalized": "have"
+}
+},
+{
+"subject": {
+"text": "The other prominent speakers"
+},
+"sentence": " The other prominent speakers who have spoken at the Grand Committee Room in the House of Commons are Tibetan spiritual leader the Dalai Lama, former South African president Nelson Mandela and former president of erstwhile Soviet Union Mikhail Gorbachev.",
+"action": {
+"verb": {
+"text": "speak",
+"tense": "past"
+},
+"text": "have spoken",
+"normalized": "have speak"
+}
+},
+{
+"subject": {
+"text": "Twitter@INCIndia"
+},
+"sentence": " Twitter@INCIndia \"What connects India and the UK is that we fight people on ideas...",
+"object": {
+"text": "India"
+},
+"action": {
+"verb": {
+"text": "connect",
+"tense": "present"
+},
+"text": "connects",
+"normalized": "connect"
+}
+},
+{
+"subject": {
+"text": "we"
+},
+"sentence": " Twitter@INCIndia \"What connects India and the UK is that we fight people on ideas...",
+"object": {
+"text": "people"
+},
+"action": {
+"verb": {
+"text": "fight",
+"tense": "present"
+},
+"text": "fight",
+"normalized": "fight"
+}
+},
+{
+"subject": {
+"text": "the greatest idea"
+},
+"sentence": " In the 21st century, the greatest idea is compassion and non-violence as laid out by my hero Mahatma Gandhi,\" he told an audience of parliamentarians and local political leaders.",
+"object": {
+"text": "compassion"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "present"
+},
+"text": "is",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "he"
+},
+"sentence": " In the 21st century, the greatest idea is compassion and non-violence as laid out by my hero Mahatma Gandhi,\" he told an audience of parliamentarians and local political leaders.",
+"object": {
+"text": "In the 21st century, the greatest idea is compassion and non-violence as laid out by my hero Mahatma Gandhi"
+},
+"action": {
+"verb": {
+"text": "tell",
+"tense": "past"
+},
+"text": "told",
+"normalized": "tell"
+}
+},
+{
+"subject": {
+"text": "they"
+},
+"sentence": " \"Even though the British ruled us, they left us with many ideas and some strengths as well,\" he said.",
+"object": {
+"text": "with many ideas and some strengths"
+},
+"action": {
+"verb": {
+"text": "leave",
+"tense": "past"
+},
+"text": "left",
+"normalized": "leave"
+}
+},
+{
+"subject": {
+"text": "he"
+},
+"sentence": " \"Even though the British ruled us, they left us with many ideas and some strengths as well,\" he said.",
+"object": {
+"text": "with many ideas and some strengths as well"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "He"
+},
+"sentence": " He also hailed the Indian-origin politicians that are part of the British political establishment.",
+"object": {
+"text": "that are part of the British political establishment"
+},
+"action": {
+"verb": {
+"text": "hail",
+"tense": "past"
+},
+"text": "hailed",
+"normalized": "hail"
+}
+},
+{
+"subject": {
+"text": "the Indian-origin politicians that"
+},
+"sentence": " He also hailed the Indian-origin politicians that are part of the British political establishment.",
+"object": {
+"text": "part of the British political establishment"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "present"
+},
+"text": "are",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "Britain"
+},
+"sentence": " \"It is rooms like this from where Britain governed India... and many Indian people are today helping run Britain.",
+"object": {
+"text": "India"
+},
+"action": {
+"verb": {
+"text": "govern",
+"tense": "past"
+},
+"text": "governed",
+"normalized": "govern"
+}
+},
+{
+"subject": {
+"text": "many Indian people"
+},
+"sentence": " \"It is rooms like this from where Britain governed India... and many Indian people are today helping run Britain.",
+"action": {
+"verb": {
+"text": "be",
+"tense": "present"
+},
+"text": "are",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "many Indian people"
+},
+"sentence": " \"It is rooms like this from where Britain governed India... and many Indian people are today helping run Britain.",
+"object": {
+"text": "run Britain"
+},
+"action": {
+"verb": {
+"text": "help",
+"tense": "present"
+},
+"text": "helping",
+"normalized": "help"
+}
+},
+{
+"subject": {
+"text": "many Indian people"
+},
+"sentence": " \"It is rooms like this from where Britain governed India... and many Indian people are today helping run Britain.",
+"object": {
+"text": "Britain"
+},
+"action": {
+"verb": {
+"text": "run",
+"tense": "present"
+},
+"text": "helping run",
+"normalized": "help run"
+}
+},
+{
+"subject": {
+"text": "the world"
+},
+"sentence": " How far the world has come,\" he said at the event titled 'India and the World' attended by senior Opposition Labour party MPs Keith Vaz, Virendra Sharma and Seema Malhotra.",
+"object": {
+"text": "How far"
+},
+"action": {
+"verb": {
+"text": "come",
+"tense": "past"
+},
+"text": "has come",
+"normalized": "have come"
+}
+},
+{
+"subject": {
+"text": "he"
+},
+"sentence": " How far the world has come,\" he said at the event titled 'India and the World' attended by senior Opposition Labour party MPs Keith Vaz, Virendra Sharma and Seema Malhotra.",
+"object": {
+"text": "How far the world has come"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "the event"
+},
+"sentence": " How far the world has come,\" he said at the event titled 'India and the World' attended by senior Opposition Labour party MPs Keith Vaz, Virendra Sharma and Seema Malhotra.",
+"object": {
+"text": "'India"
+},
+"action": {
+"verb": {
+"text": "title",
+"tense": "past"
+},
+"text": "titled",
+"normalized": "title"
+}
+}
+],
+"relations": [
+{
+"type": "partOf",
+"sentence": "London: The 21st Century should be defined by Mahatma Gandhi's message of compassion and non-violence, Congress party president Rahul Gandhi said in London on Friday.",
+"score": 0.887567,
+"arguments": [
+{
+"text": "party",
+"location": [
+112,
+117
+],
+"entities": [
+{
+"type": "Organization",
+"text": "party"
+}
+]
+},
+{
+"text": "Congress",
+"location": [
+103,
+111
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Congress",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "Rahul, who is the first foreign Leader of Opposition to be invited to speak at the Grand Committee Room of the UK Parliament, said that India and the UK are connected as they fight people on ideas.",
+"score": 0.482498,
+"arguments": [
+{
+"text": "speak",
+"location": [
+237,
+242
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "speak"
+}
+]
+},
+{
+"text": "Grand Committee Room",
+"location": [
+250,
+270
+],
+"entities": [
+{
+"type": "Facility",
+"text": "Grand Committee Room"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "Rahul, who is the first foreign Leader of Opposition to be invited to speak at the Grand Committee Room of the UK Parliament, said that India and the UK are connected as they fight people on ideas.",
+"score": 0.654151,
+"arguments": [
+{
+"text": "Grand Committee Room",
+"location": [
+250,
+270
+],
+"entities": [
+{
+"type": "Facility",
+"text": "Grand Committee Room"
+}
+]
+},
+{
+"text": "UK",
+"location": [
+278,
+280
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "UK",
+"disambiguation": {
+"subtype": [
+"Area"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "basedIn",
+"sentence": "Rahul, who is the first foreign Leader of Opposition to be invited to speak at the Grand Committee Room of the UK Parliament, said that India and the UK are connected as they fight people on ideas.",
+"score": 0.50589,
+"arguments": [
+{
+"text": "Parliament",
+"location": [
+281,
+291
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Parliament",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+},
+{
+"text": "UK",
+"location": [
+278,
+280
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "UK",
+"disambiguation": {
+"subtype": [
+"Area"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "The other prominent speakers who have spoken at the Grand Committee Room in the House of Commons are Tibetan spiritual leader the Dalai Lama, former South African president Nelson Mandela and former president of erstwhile Soviet Union Mikhail Gorbachev.",
+"score": 0.960922,
+"arguments": [
+{
+"text": "who",
+"location": [
+394,
+397
+],
+"entities": [
+{
+"type": "Person",
+"text": "speakers"
+}
+]
+},
+{
+"text": "spoken",
+"location": [
+403,
+409
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "spoken"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "The other prominent speakers who have spoken at the Grand Committee Room in the House of Commons are Tibetan spiritual leader the Dalai Lama, former South African president Nelson Mandela and former president of erstwhile Soviet Union Mikhail Gorbachev.",
+"score": 0.916589,
+"arguments": [
+{
+"text": "who",
+"location": [
+394,
+397
+],
+"entities": [
+{
+"type": "Person",
+"text": "speakers"
+}
+]
+},
+{
+"text": "Grand Committee Room",
+"location": [
+417,
+437
+],
+"entities": [
+{
+"type": "Facility",
+"text": "Grand Committee Room"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "The other prominent speakers who have spoken at the Grand Committee Room in the House of Commons are Tibetan spiritual leader the Dalai Lama, former South African president Nelson Mandela and former president of erstwhile Soviet Union Mikhail Gorbachev.",
+"score": 0.710365,
+"arguments": [
+{
+"text": "Grand Committee Room",
+"location": [
+417,
+437
+],
+"entities": [
+{
+"type": "Facility",
+"text": "Grand Committee Room"
+}
+]
+},
+{
+"text": "Tibetan",
+"location": [
+466,
+473
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Tibetan"
+}
+]
+}
+]
+},
+{
+"type": "residesIn",
+"sentence": "The other prominent speakers who have spoken at the Grand Committee Room in the House of Commons are Tibetan spiritual leader the Dalai Lama, former South African president Nelson Mandela and former president of erstwhile Soviet Union Mikhail Gorbachev.",
+"score": 0.489362,
+"arguments": [
+{
+"text": "spiritual leader",
+"location": [
+474,
+490
+],
+"entities": [
+{
+"type": "Person",
+"text": "Dalai Lama"
+}
+]
+},
+{
+"text": "Tibetan",
+"location": [
+466,
+473
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Tibetan"
+}
+]
+}
+]
+},
+{
+"type": "managerOf",
+"sentence": "The other prominent speakers who have spoken at the Grand Committee Room in the House of Commons are Tibetan spiritual leader the Dalai Lama, former South African president Nelson Mandela and former president of erstwhile Soviet Union Mikhail Gorbachev.",
+"score": 0.609888,
+"arguments": [
+{
+"text": "president",
+"location": [
+528,
+537
+],
+"entities": [
+{
+"type": "Person",
+"text": "Nelson Mandela"
+}
+]
+},
+{
+"text": "South African",
+"location": [
+514,
+527
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "South African",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "managerOf",
+"sentence": "The other prominent speakers who have spoken at the Grand Committee Room in the House of Commons are Tibetan spiritual leader the Dalai Lama, former South African president Nelson Mandela and former president of erstwhile Soviet Union Mikhail Gorbachev.",
+"score": 0.577815,
+"arguments": [
+{
+"text": "Mikhail Gorbachev",
+"location": [
+600,
+617
+],
+"entities": [
+{
+"type": "Person",
+"text": "Mikhail Gorbachev"
+}
+]
+},
+{
+"text": "Soviet Union",
+"location": [
+587,
+599
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Soviet Union",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "managerOf",
+"sentence": "Congress president Rahul Gandhi and Indian Overseas Congress chairman Sam Pitroda at UK parliament on Friday.",
+"score": 0.707109,
+"arguments": [
+{
+"text": "president",
+"location": [
+628,
+637
+],
+"entities": [
+{
+"type": "Person",
+"text": "Rahul Gandhi"
+}
+]
+},
+{
+"text": "Congress",
+"location": [
+619,
+627
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Congress",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "London: The 21st Century should be defined by Mahatma Gandhi's message of compassion and non-violence, Congress party president Rahul Gandhi said in London on Friday.",
+"score": 0.440951,
+"arguments": [
+{
+"text": "president",
+"location": [
+118,
+127
+],
+"entities": [
+{
+"type": "Person",
+"text": "Rahul Gandhi"
+}
+]
+},
+{
+"text": "Congress",
+"location": [
+103,
+111
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Congress",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "Congress president Rahul Gandhi and Indian Overseas Congress chairman Sam Pitroda at UK parliament on Friday.",
+"score": 0.63175,
+"arguments": [
+{
+"text": "chairman",
+"location": [
+680,
+688
+],
+"entities": [
+{
+"type": "Person",
+"text": "Sam Pitroda"
+}
+]
+},
+{
+"text": "Congress",
+"location": [
+671,
+679
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Congress",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "Congress president Rahul Gandhi and Indian Overseas Congress chairman Sam Pitroda at UK parliament on Friday.",
+"score": 0.451958,
+"arguments": [
+{
+"text": "Sam Pitroda",
+"location": [
+689,
+700
+],
+"entities": [
+{
+"type": "Person",
+"text": "Sam Pitroda"
+}
+]
+},
+{
+"text": "parliament",
+"location": [
+707,
+717
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Parliament",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "partOf",
+"sentence": "Congress president Rahul Gandhi and Indian Overseas Congress chairman Sam Pitroda at UK parliament on Friday.",
+"score": 0.510251,
+"arguments": [
+{
+"text": "parliament",
+"location": [
+707,
+717
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Parliament",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+},
+{
+"text": "UK",
+"location": [
+704,
+706
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "UK",
+"disambiguation": {
+"subtype": [
+"Area"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Twitter@INCIndia \"What connects India and the UK is that we fight people on ideas... In the 21st century, the greatest idea is compassion and non-violence as laid out by my hero Mahatma Gandhi,\" he told an audience of parliamentarians and local political leaders.",
+"score": 0.997093,
+"arguments": [
+{
+"text": "he",
+"location": [
+924,
+926
+],
+"entities": [
+{
+"type": "Person",
+"text": "Nelson Mandela"
+}
+]
+},
+{
+"text": "told",
+"location": [
+927,
+931
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "\"Even though the British ruled us, they left us with many ideas and some strengths as well,\" he said.",
+"score": 0.967605,
+"arguments": [
+{
+"text": "he",
+"location": [
+1086,
+1088
+],
+"entities": [
+{
+"type": "Person",
+"text": "Nelson Mandela"
+}
+]
+},
+{
+"text": "said",
+"location": [
+1089,
+1093
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "How far the world has come,\" he said at the event titled 'India and the World' attended by senior Opposition Labour party MPs Keith Vaz, Virendra Sharma and Seema Malhotra.",
+"score": 0.989446,
+"arguments": [
+{
+"text": "he",
+"location": [
+1337,
+1339
+],
+"entities": [
+{
+"type": "Person",
+"text": "Nelson Mandela"
+}
+]
+},
+{
+"text": "said",
+"location": [
+1340,
+1344
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "Twitter@INCIndia \"What connects India and the UK is that we fight people on ideas... In the 21st century, the greatest idea is compassion and non-violence as laid out by my hero Mahatma Gandhi,\" he told an audience of parliamentarians and local political leaders.",
+"score": 0.746189,
+"arguments": [
+{
+"text": "audience",
+"location": [
+935,
+943
+],
+"entities": [
+{
+"type": "Person",
+"text": "parliamentarians"
+}
+]
+},
+{
+"text": "told",
+"location": [
+927,
+931
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "\"Even though the British ruled us, they left us with many ideas and some strengths as well,\" he said.",
+"score": 0.699046,
+"arguments": [
+{
+"text": "us",
+"location": [
+1024,
+1026
+],
+"entities": [
+{
+"type": "Person",
+"text": "they"
+}
+]
+},
+{
+"text": "ruled",
+"location": [
+1018,
+1023
+],
+"entities": [
+{
+"type": "EventLegal",
+"text": "ruled"
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "He also hailed the Indian-origin politicians that are part of the British political establishment.",
+"score": 0.928263,
+"arguments": [
+{
+"text": "politicians",
+"location": [
+1128,
+1139
+],
+"entities": [
+{
+"type": "Person",
+"text": "politicians"
+}
+]
+},
+{
+"text": "Indian",
+"location": [
+1114,
+1120
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Indian",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "partOfMany",
+"sentence": "\"It is rooms like this from where Britain governed India... and many Indian people are today helping run Britain.",
+"score": 0.902121,
+"arguments": [
+{
+"text": "people",
+"location": [
+1270,
+1276
+],
+"entities": [
+{
+"type": "Person",
+"text": "people"
+}
+]
+},
+{
+"text": "Indian",
+"location": [
+1263,
+1269
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Indian",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "affiliatedWith",
+"sentence": "How far the world has come,\" he said at the event titled 'India and the World' attended by senior Opposition Labour party MPs Keith Vaz, Virendra Sharma and Seema Malhotra.",
+"score": 0.506127,
+"arguments": [
+{
+"text": "party",
+"location": [
+1424,
+1429
+],
+"entities": [
+{
+"type": "Organization",
+"text": "MPs"
+}
+]
+},
+{
+"text": "Opposition Labour",
+"location": [
+1406,
+1423
+],
+"entities": [
+{
+"type": "Person",
+"text": "Opposition Labour"
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "How far the world has come,\" he said at the event titled 'India and the World' attended by senior Opposition Labour party MPs Keith Vaz, Virendra Sharma and Seema Malhotra.",
+"score": 0.476188,
+"arguments": [
+{
+"text": "Keith Vaz",
+"location": [
+1434,
+1443
+],
+"entities": [
+{
+"type": "Person",
+"text": "Keith Vaz"
+}
+]
+},
+{
+"text": "MPs",
+"location": [
+1430,
+1433
+],
+"entities": [
+{
+"type": "Organization",
+"text": "MPs"
+}
+]
+}
+]
+},
+{
+"type": "managerOf",
+"sentence": "London: The 21st Century should be defined by Mahatma Gandhi's message of compassion and non-violence, Congress party president Rahul Gandhi said in London on Friday.",
+"score": 0.615452,
+"arguments": [
+{
+"text": "president",
+"location": [
+118,
+127
+],
+"entities": [
+{
+"type": "Person",
+"text": "Rahul Gandhi"
+}
+]
+},
+{
+"text": "party",
+"location": [
+112,
+117
+],
+"entities": [
+{
+"type": "Organization",
+"text": "party"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "London: The 21st Century should be defined by Mahatma Gandhi's message of compassion and non-violence, Congress party president Rahul Gandhi said in London on Friday.",
+"score": 0.996141,
+"arguments": [
+{
+"text": "Rahul Gandhi",
+"location": [
+128,
+140
+],
+"entities": [
+{
+"type": "Person",
+"text": "Rahul Gandhi"
+}
+]
+},
+{
+"text": "said",
+"location": [
+141,
+145
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "London: The 21st Century should be defined by Mahatma Gandhi's message of compassion and non-violence, Congress party president Rahul Gandhi said in London on Friday.",
+"score": 0.610777,
+"arguments": [
+{
+"text": "Rahul Gandhi",
+"location": [
+128,
+140
+],
+"entities": [
+{
+"type": "Person",
+"text": "Rahul Gandhi"
+}
+]
+},
+{
+"text": "London",
+"location": [
+149,
+155
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "London"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "London: The 21st Century should be defined by Mahatma Gandhi's message of compassion and non-violence, Congress party president Rahul Gandhi said in London on Friday.",
+"score": 0.732455,
+"arguments": [
+{
+"text": "said",
+"location": [
+141,
+145
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+},
+{
+"text": "London",
+"location": [
+149,
+155
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "London"
+}
+]
+}
+]
+},
+{
+"type": "timeOf",
+"sentence": "London: The 21st Century should be defined by Mahatma Gandhi's message of compassion and non-violence, Congress party president Rahul Gandhi said in London on Friday.",
+"score": 0.975219,
+"arguments": [
+{
+"text": "Friday",
+"location": [
+159,
+165
+],
+"entities": [
+{
+"type": "Date",
+"text": "Friday"
+}
+]
+},
+{
+"text": "said",
+"location": [
+141,
+145
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "Rahul, who is the first foreign Leader of Opposition to be invited to speak at the Grand Committee Room of the UK Parliament, said that India and the UK are connected as they fight people on ideas.",
+"score": 0.468381,
+"arguments": [
+{
+"text": "Leader",
+"location": [
+199,
+205
+],
+"entities": [
+{
+"type": "Person",
+"text": "Leader"
+}
+]
+},
+{
+"text": "Grand Committee Room",
+"location": [
+250,
+270
+],
+"entities": [
+{
+"type": "Facility",
+"text": "Grand Committee Room"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Rahul, who is the first foreign Leader of Opposition to be invited to speak at the Grand Committee Room of the UK Parliament, said that India and the UK are connected as they fight people on ideas.",
+"score": 0.670686,
+"arguments": [
+{
+"text": "Opposition",
+"location": [
+209,
+219
+],
+"entities": [
+{
+"type": "Person",
+"text": "Opposition"
+}
+]
+},
+{
+"text": "speak",
+"location": [
+237,
+242
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "speak"
+}
+]
+}
+]
+}
+],
+"language": "en",
+"keywords": [
+{
+"text": "president Rahul Gandhi",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.965937,
+"emotion": {
+"sadness": 0.345716,
+"joy": 0.310933,
+"fear": 0.045792,
+"disgust": 0.253041,
+"anger": 0.182863
+}
+},
+{
+"text": "Grand Committee Room",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.790385,
+"emotion": {
+"sadness": 0.030784,
+"joy": 0.676727,
+"fear": 0.140272,
+"disgust": 0.123234,
+"anger": 0.098643
+}
+},
+{
+"text": "party president Rahul",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.735501,
+"emotion": {
+"sadness": 0.171323,
+"joy": 0.471615,
+"fear": 0.07344,
+"disgust": 0.194005,
+"anger": 0.159026
+}
+},
+{
+"text": "Congress president Rahul",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.717432,
+"emotion": {
+"sadness": 0.480633,
+"joy": 0.143061,
+"fear": 0.057084,
+"disgust": 0.263105,
+"anger": 0.182986
+}
+},
+{
+"text": "Mahatma Gandhi",
+"sentiment": {
+"score": 0.422821,
+"label": "positive"
+},
+"relevance": 0.713087,
+"emotion": {
+"sadness": 0.218253,
+"joy": 0.671609,
+"fear": 0.061457,
+"disgust": 0.061006,
+"anger": 0.025957
+}
+}
+],
+"entities": [
+{
+"type": "Person",
+"text": "Rahul Gandhi",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.889451,
+"emotion": {
+"sadness": 0.336242,
+"joy": 0.318219,
+"fear": 0.044593,
+"disgust": 0.25288,
+"anger": 0.18624
+},
+"disambiguation": {
+"subtype": [
+"Politician",
+"OfficeHolder"
+],
+"name": "Rahul Gandhi",
+"dbpedia_resource": "http://dbpedia.org/resource/Rahul_Gandhi"
+},
+"count": 3
+},
+{
+"type": "Person",
+"text": "Mahatma Gandhi",
+"sentiment": {
+"score": 0.422821,
+"label": "positive"
+},
+"relevance": 0.618145,
+"emotion": {
+"sadness": 0.218253,
+"joy": 0.671609,
+"fear": 0.061457,
+"disgust": 0.061006,
+"anger": 0.025957
+},
+"disambiguation": {
+"subtype": [],
+"name": "Mahatma Gandhi",
+"dbpedia_resource": "http://dbpedia.org/resource/Mahatma_Gandhi"
+},
+"count": 2
+},
+{
+"type": "JobTitle",
+"text": "president",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.556007,
+"emotion": {
+"sadness": 0.02391,
+"joy": 0.692442,
+"fear": 0.150039,
+"disgust": 0.058067,
+"anger": 0.070998
+},
+"count": 4
+},
+{
+"type": "Organization",
+"text": "Congress party",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.451529,
+"emotion": {
+"sadness": 0.139307,
+"joy": 0.198361,
+"fear": 0.08248,
+"disgust": 0.07836,
+"anger": 0.092968
+},
+"disambiguation": {
+"subtype": [
+"PoliticalParty"
+],
+"name": "Indian National Congress",
+"dbpedia_resource": "http://dbpedia.org/resource/Indian_National_Congress"
+},
+"count": 2
+},
+{
+"type": "Organization",
+"text": "UK Parliament",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.436458,
+"emotion": {
+"sadness": 0.0,
+"joy": 0.0,
+"fear": 0.0,
+"disgust": 0.0,
+"anger": 0.0
+},
+"disambiguation": {
+"subtype": [
+"GovernmentalBody",
+"Legislature"
+],
+"name": "Parliament of the United Kingdom",
+"dbpedia_resource": "http://dbpedia.org/resource/Parliament_of_the_United_Kingdom"
+},
+"count": 2
+}
+],
+"concepts": [
+{
+"text": "United Kingdom",
+"relevance": 0.989636,
+"dbpedia_resource": "http://dbpedia.org/resource/United_Kingdom"
+},
+{
+"text": "House of Lords",
+"relevance": 0.681235,
+"dbpedia_resource": "http://dbpedia.org/resource/House_of_Lords"
+},
+{
+"text": "Parliament of the United Kingdom",
+"relevance": 0.588555,
+"dbpedia_resource": "http://dbpedia.org/resource/Parliament_of_the_United_Kingdom"
+},
+{
+"text": "London",
+"relevance": 0.580407,
+"dbpedia_resource": "http://dbpedia.org/resource/London"
+},
+{
+"text": "England",
+"relevance": 0.57654,
+"dbpedia_resource": "http://dbpedia.org/resource/England"
+}
+],
+"categories": [
+{
+"score": 0.330799,
+"label": "/law, govt and politics/government"
+},
+{
+"score": 0.309904,
+"label": "/law, govt and politics/government/parliament"
+},
+{
+"score": 0.30046,
+"label": "/law, govt and politics/politics/political parties"
+}
+]
+}
+}

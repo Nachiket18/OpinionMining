@@ -1,0 +1,353 @@
+{
+"source_article_link": "https://timesofindia.indiatimes.com/india/modi4-the-report-card/articleshow/64326906.cms?&utm_source=Articleshow&utm_medium=Organic&utm_campaign=Related_Stories",
+"title": "Modi@4: The report card",
+"date_published": "2018-05-26T06:56+00:00",
+"source_type": "news_article",
+"source_name": "timesofindia.indiatimes.com",
+"image_link": [],
+"article_body": "The Modi government has just completed its fourth anniversary at the Center. To understand whether the it has lived up to expectations, the Times Group conducted an online survey in nine languages across nine properties from May 23-25, 2018 and the results were concealed from respondents during the three days of online polling to negate any motivated voting. The survey received over 8.4 lakh responses. Barring employment generation, majority of the respondents voted in favour of the Modi government and its policies. Here\u2019s a look how people rated it on variety of parameters... ",
+"description": "The Modi government has just completed its fourth anniversary at the Center. To understand whether the it has lived up to expectations, the Times Group conducted an online survey in nine languages across nine properties from May 23-25, 2018 and the results were concealed from respondents during the three days of online polling to negate any motivated voting. The survey received over 8.4 lakh responses. Barring employment generation, majority of the respondents voted in favour of the Modi government and its policies. Here\u2019s a look how people rated it on variety of parameters... ",
+"time_scraped": "2018-08-22 06:01:11.578360",
+"article_id": "64326906",
+"article_category": "IndiaNews",
+"image_details": [],
+"ibm_nlu": {
+"usage": {
+"text_units": 1,
+"text_characters": 584,
+"features": 7
+},
+"sentiment": {
+"document": {
+"score": 0.0964538,
+"label": "positive"
+}
+},
+"semantic_roles": [
+{
+"subject": {
+"text": "The Modi government"
+},
+"sentence": "The Modi government has just completed its fourth anniversary at the Center.",
+"object": {
+"text": "just completed its fourth anniversary"
+},
+"action": {
+"verb": {
+"text": "have",
+"tense": "present"
+},
+"text": "has",
+"normalized": "have"
+}
+},
+{
+"subject": {
+"text": "The Modi government"
+},
+"sentence": "The Modi government has just completed its fourth anniversary at the Center.",
+"object": {
+"text": "its fourth anniversary"
+},
+"action": {
+"verb": {
+"text": "complete",
+"tense": "past"
+},
+"text": "has just completed",
+"normalized": "have just complete"
+}
+},
+{
+"subject": {
+"text": "the Times Group"
+},
+"sentence": " To understand whether the it has lived up to expectations, the Times Group conducted an online survey in nine languages across nine properties from May 23-25, 2018 and the results were concealed from respondents during the three days of online polling to negate any motivated voting.",
+"object": {
+"text": "an online survey"
+},
+"action": {
+"verb": {
+"text": "conduct",
+"tense": "past"
+},
+"text": "conducted",
+"normalized": "conduct"
+}
+},
+{
+"subject": {
+"text": "the results"
+},
+"sentence": " To understand whether the it has lived up to expectations, the Times Group conducted an online survey in nine languages across nine properties from May 23-25, 2018 and the results were concealed from respondents during the three days of online polling to negate any motivated voting.",
+"object": {
+"text": "concealed from respondents"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "were",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "the results"
+},
+"sentence": " To understand whether the it has lived up to expectations, the Times Group conducted an online survey in nine languages across nine properties from May 23-25, 2018 and the results were concealed from respondents during the three days of online polling to negate any motivated voting.",
+"object": {
+"text": "from respondents"
+},
+"action": {
+"verb": {
+"text": "conceal",
+"tense": "past"
+},
+"text": "were concealed",
+"normalized": "be conceal"
+}
+},
+{
+"subject": {
+"text": "the three days of online polling"
+},
+"sentence": " To understand whether the it has lived up to expectations, the Times Group conducted an online survey in nine languages across nine properties from May 23-25, 2018 and the results were concealed from respondents during the three days of online polling to negate any motivated voting.",
+"object": {
+"text": "any motivated voting"
+},
+"action": {
+"verb": {
+"text": "negate",
+"tense": "future"
+},
+"text": "to negate",
+"normalized": "to negate"
+}
+},
+{
+"subject": {
+"text": "majority of the respondents"
+},
+"sentence": " Barring employment generation, majority of the respondents voted in favour of the Modi government and its policies.",
+"action": {
+"verb": {
+"text": "vote",
+"tense": "past"
+},
+"text": "voted",
+"normalized": "vote"
+}
+}
+],
+"relations": [
+{
+"type": "partOfMany",
+"sentence": "Barring employment generation, majority of the respondents voted in favour of the Modi government and its policies.",
+"score": 0.933157,
+"arguments": [
+{
+"text": "majority",
+"location": [
+437,
+445
+],
+"entities": [
+{
+"type": "Cardinal",
+"text": "majority"
+}
+]
+},
+{
+"text": "respondents",
+"location": [
+453,
+464
+],
+"entities": [
+{
+"type": "Person",
+"text": "respondents"
+}
+]
+}
+]
+}
+],
+"language": "en",
+"keywords": [
+{
+"text": "Modi government",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.9058,
+"emotion": {
+"sadness": 0.212389,
+"joy": 0.153065,
+"fear": 0.02385,
+"disgust": 0.380193,
+"anger": 0.176395
+}
+},
+{
+"text": "lakh responses",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.736907,
+"emotion": {
+"sadness": 0.192697,
+"joy": 0.227271,
+"fear": 0.010409,
+"disgust": 0.116327,
+"anger": 0.059916
+}
+},
+{
+"text": "online polling",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.646369,
+"emotion": {
+"sadness": 0.287733,
+"joy": 0.467457,
+"fear": 0.065303,
+"disgust": 0.028277,
+"anger": 0.080288
+}
+},
+{
+"text": "Times Group",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.639138,
+"emotion": {
+"sadness": 0.172796,
+"joy": 0.331171,
+"fear": 0.242226,
+"disgust": 0.084436,
+"anger": 0.042034
+}
+},
+{
+"text": "employment generation",
+"sentiment": {
+"score": -0.571205,
+"label": "negative"
+},
+"relevance": 0.609789,
+"emotion": {
+"sadness": 0.621491,
+"joy": 0.08676,
+"fear": 0.023883,
+"disgust": 0.190556,
+"anger": 0.02214
+}
+}
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Modi government",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.821351,
+"emotion": {
+"sadness": 0.212389,
+"joy": 0.153065,
+"fear": 0.02385,
+"disgust": 0.380193,
+"anger": 0.176395
+},
+"count": 2
+},
+{
+"type": "Organization",
+"text": "Times Group",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.293342,
+"emotion": {
+"sadness": 0.172796,
+"joy": 0.331171,
+"fear": 0.242226,
+"disgust": 0.084436,
+"anger": 0.042034
+},
+"disambiguation": {
+"subtype": [
+"Company",
+"Magazine"
+],
+"name": "The Times Group",
+"dbpedia_resource": "http://dbpedia.org/resource/The_Times_Group"
+},
+"count": 1
+},
+{
+"type": "Quantity",
+"text": "three days",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.293342,
+"count": 1
+}
+],
+"concepts": [
+{
+"text": "Voting",
+"relevance": 0.938227,
+"dbpedia_resource": "http://dbpedia.org/resource/Voting"
+},
+{
+"text": "Poll",
+"relevance": 0.909247,
+"dbpedia_resource": "http://dbpedia.org/resource/Poll"
+},
+{
+"text": "Plurality voting system",
+"relevance": 0.880267,
+"dbpedia_resource": "http://dbpedia.org/resource/Plurality_voting_system"
+},
+{
+"text": "Democracy",
+"relevance": 0.78905,
+"dbpedia_resource": "http://dbpedia.org/resource/Democracy"
+},
+{
+"text": "The Times Group",
+"relevance": 0.776098,
+"dbpedia_resource": "http://dbpedia.org/resource/The_Times_Group"
+}
+],
+"categories": [
+{
+"score": 0.644244,
+"label": "/law, govt and politics/government"
+},
+{
+"score": 0.376668,
+"label": "/law, govt and politics/government/state and local government"
+},
+{
+"score": 0.363553,
+"label": "/finance/personal finance/lending/home financing"
+}
+]
+}
+}

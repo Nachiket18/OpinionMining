@@ -1,0 +1,1888 @@
+{
+"source_article_link": "https://timesofindia.indiatimes.com/india/note-ban-happened-instantly-why-not-ram-mandir-uddhav-thackeray-to-bjp/articleshow/64991339.cms?&utm_source=Articleshow&utm_medium=Organic&utm_campaign=Related_Stories",
+"title": "Note ban happened instantly, why not Ram Mandir: Uddhav Thackeray to BJP",
+"date_published": "2018-07-14T21:57:12+05:30",
+"source_type": "news_article",
+"source_name": "timesofindia.indiatimes.com",
+"image_link": [
+"https://timesofindia.indiatimes.com/thumb/msid-64991350,imgsize-139827,width-400,resizemode-4/64991350.jpg"
+],
+"article_body": "PUNE: chief today asked why the BJP-led Central government does not take a quick decision to build the Ram Temple at Ayodhya, the way it did in the case of demonetisation. \"They (BJP) talk about building a , bringing and repealing section 370 in Jammu and Kashmir before the election, but which election, 2019 or 2050, they do not specify,\" Thackeray told reporters after a meeting of party leaders. \"The way you (the BJP government) took the decision of noteban instantly, you can take the decision to build the Ram Mandir instantly, because you have a majority,\" said Thackeray, whose party often spars with the BJP despite being an ally. So far, development was the BJP's agenda but now it has been replaced by the Ram Mandir issue, he said further. The Shiv Sena chief further alleged that the benefits of the loan waiver announced by the Maharashtra government last year did not reach farmers. He also reiterated his opposition to the West Coast refinery at Nanar, saying the project will harm the ecology of Konkan region. \"Such a disastrous development cannot be afforded and that is why we are with the people of Nanar (in opposing it). One thing is clear, this project will never happen,\" he said. On allegations by opposition parties that the state government was distributing copies of the Bhagavad Gita in schools in Mumbai (which the government has denied), he said the BJP was resorting to such gimmicks to divert people's attention from the mismanagement of Mumbai University.",
+"description": "PUNE: chief today asked why the BJP-led Central government does not take a quick decision to build the Ram Temple at Ayodhya, the way it did in the case of demonetisation. \"They (BJP) talk about building a , bringing",
+"time_scraped": "2018-08-23 18:01:50.333785",
+"article_id": "64991339",
+"article_category": "IndiaNews",
+"image_details": [
+{
+"url": "https://timesofindia.indiatimes.com/thumb/msid-64991350,imgsize-139827,width-400,resizemode-4/64991350.jpg",
+"path": "full/cbe0842b3836339f54eab01212d7b21c449d372e.jpg",
+"checksum": "1ae89f0e6a713ac1f61c8b2c47d5253b"
+}
+],
+"ibm_nlu": {
+"usage": {
+"text_units": 1,
+"text_characters": 1491,
+"features": 7
+},
+"sentiment": {
+"document": {
+"score": -0.137964,
+"label": "negative"
+}
+},
+"semantic_roles": [
+{
+"subject": {
+"text": "why the BJP-led Central government does not take a quick decision to build the Ram Temple at Ayodhya, the way it did in the case of demonetisation"
+},
+"sentence": "PUNE: chief today asked why the BJP-led Central government does not take a quick decision to build the Ram Temple at Ayodhya, the way it did in the case of demonetisation.",
+"object": {
+"text": "chief"
+},
+"action": {
+"verb": {
+"text": "ask",
+"tense": "past"
+},
+"text": "asked",
+"normalized": "ask"
+}
+},
+{
+"subject": {
+"text": "the BJP-led Central government"
+},
+"sentence": "PUNE: chief today asked why the BJP-led Central government does not take a quick decision to build the Ram Temple at Ayodhya, the way it did in the case of demonetisation.",
+"object": {
+"text": "not take a quick decision to build the Ram Temple at Ayodhya, the way it did in the case of demonetisation"
+},
+"action": {
+"verb": {
+"text": "do",
+"tense": "present"
+},
+"text": "does",
+"normalized": "do"
+}
+},
+{
+"subject": {
+"text": "the BJP-led Central government"
+},
+"sentence": "PUNE: chief today asked why the BJP-led Central government does not take a quick decision to build the Ram Temple at Ayodhya, the way it did in the case of demonetisation.",
+"object": {
+"text": "a quick decision to build the Ram Temple at Ayodhya, the way it did in the case of demonetisation"
+},
+"action": {
+"verb": {
+"text": "take",
+"tense": "present",
+"negated": true
+},
+"text": "take",
+"normalized": "take"
+}
+},
+{
+"subject": {
+"text": "the BJP-led Central government"
+},
+"sentence": "PUNE: chief today asked why the BJP-led Central government does not take a quick decision to build the Ram Temple at Ayodhya, the way it did in the case of demonetisation.",
+"object": {
+"text": "the Ram Temple"
+},
+"action": {
+"verb": {
+"text": "build",
+"tense": "future"
+},
+"text": "to build",
+"normalized": "to build"
+}
+},
+{
+"subject": {
+"text": "it"
+},
+"sentence": "PUNE: chief today asked why the BJP-led Central government does not take a quick decision to build the Ram Temple at Ayodhya, the way it did in the case of demonetisation.",
+"action": {
+"verb": {
+"text": "do",
+"tense": "past"
+},
+"text": "did",
+"normalized": "do"
+}
+},
+{
+"subject": {
+"text": "They"
+},
+"sentence": " \"They (BJP) talk about building a , bringing and repealing section 370 in Jammu and Kashmir before the election, but which election, 2019 or 2050, they do not specify,\" Thackeray told reporters after a meeting of party leaders.",
+"object": {
+"text": "a"
+},
+"action": {
+"verb": {
+"text": "build",
+"tense": "present"
+},
+"text": "building",
+"normalized": "build"
+}
+},
+{
+"subject": {
+"text": "section 370"
+},
+"sentence": " \"They (BJP) talk about building a , bringing and repealing section 370 in Jammu and Kashmir before the election, but which election, 2019 or 2050, they do not specify,\" Thackeray told reporters after a meeting of party leaders.",
+"action": {
+"verb": {
+"text": "repeal",
+"tense": "present"
+},
+"text": "repealing",
+"normalized": "repeal"
+}
+},
+{
+"subject": {
+"text": "they"
+},
+"sentence": " \"They (BJP) talk about building a , bringing and repealing section 370 in Jammu and Kashmir before the election, but which election, 2019 or 2050, they do not specify,\" Thackeray told reporters after a meeting of party leaders.",
+"object": {
+"text": "not specify"
+},
+"action": {
+"verb": {
+"text": "do",
+"tense": "present"
+},
+"text": "do",
+"normalized": "do"
+}
+},
+{
+"subject": {
+"text": "Thackeray"
+},
+"sentence": " \"They (BJP) talk about building a , bringing and repealing section 370 in Jammu and Kashmir before the election, but which election, 2019 or 2050, they do not specify,\" Thackeray told reporters after a meeting of party leaders.",
+"object": {
+"text": "They (BJP) talk about building a , bringing and repealing section 370 in Jammu and Kashmir before the election, but which election, 2019 or 2050, they do not specify"
+},
+"action": {
+"verb": {
+"text": "tell",
+"tense": "past"
+},
+"text": "told",
+"normalized": "tell"
+}
+},
+{
+"subject": {
+"text": "The way you (the BJP government)"
+},
+"sentence": " \"The way you (the BJP government) took the decision of noteban instantly, you can take the decision to build the Ram Mandir instantly, because you have a majority,\" said Thackeray, whose party often spars with the BJP despite being an ally.",
+"object": {
+"text": "the decision of noteban"
+},
+"action": {
+"verb": {
+"text": "take",
+"tense": "past"
+},
+"text": "took",
+"normalized": "take"
+}
+},
+{
+"subject": {
+"text": "you"
+},
+"sentence": " \"The way you (the BJP government) took the decision of noteban instantly, you can take the decision to build the Ram Mandir instantly, because you have a majority,\" said Thackeray, whose party often spars with the BJP despite being an ally.",
+"object": {
+"text": "the decision to build the Ram Mandir"
+},
+"action": {
+"verb": {
+"text": "take",
+"tense": "future"
+},
+"text": "can take",
+"normalized": "can take"
+}
+},
+{
+"subject": {
+"text": "you"
+},
+"sentence": " \"The way you (the BJP government) took the decision of noteban instantly, you can take the decision to build the Ram Mandir instantly, because you have a majority,\" said Thackeray, whose party often spars with the BJP despite being an ally.",
+"object": {
+"text": "the Ram Mandir"
+},
+"action": {
+"verb": {
+"text": "build",
+"tense": "future"
+},
+"text": "to build",
+"normalized": "to build"
+}
+},
+{
+"subject": {
+"text": "you"
+},
+"sentence": " \"The way you (the BJP government) took the decision of noteban instantly, you can take the decision to build the Ram Mandir instantly, because you have a majority,\" said Thackeray, whose party often spars with the BJP despite being an ally.",
+"object": {
+"text": "a majority"
+},
+"action": {
+"verb": {
+"text": "have",
+"tense": "present"
+},
+"text": "have",
+"normalized": "have"
+}
+},
+{
+"subject": {
+"text": "development"
+},
+"sentence": " So far, development was the BJP's agenda but now it has been replaced by the Ram Mandir issue, he said further.",
+"object": {
+"text": "the BJP's agenda"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "was",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "it"
+},
+"sentence": " So far, development was the BJP's agenda but now it has been replaced by the Ram Mandir issue, he said further.",
+"object": {
+"text": "been replaced by the Ram Mandir issue"
+},
+"action": {
+"verb": {
+"text": "have",
+"tense": "present"
+},
+"text": "has",
+"normalized": "have"
+}
+},
+{
+"subject": {
+"text": "it"
+},
+"sentence": " So far, development was the BJP's agenda but now it has been replaced by the Ram Mandir issue, he said further.",
+"object": {
+"text": "replaced by the Ram Mandir issue"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "been",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "it"
+},
+"sentence": " So far, development was the BJP's agenda but now it has been replaced by the Ram Mandir issue, he said further.",
+"object": {
+"text": "by the Ram Mandir issue"
+},
+"action": {
+"verb": {
+"text": "replace",
+"tense": "past"
+},
+"text": "has been replaced",
+"normalized": "have be replace"
+}
+},
+{
+"subject": {
+"text": "he"
+},
+"sentence": " So far, development was the BJP's agenda but now it has been replaced by the Ram Mandir issue, he said further.",
+"object": {
+"text": "by the Ram Mandir issue"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "by the Maharashtra government"
+},
+"sentence": " The Shiv Sena chief further alleged that the benefits of the loan waiver announced by the Maharashtra government last year did not reach farmers.",
+"object": {
+"text": "the loan waiver"
+},
+"action": {
+"verb": {
+"text": "announce",
+"tense": "past"
+},
+"text": "announced",
+"normalized": "announce"
+}
+},
+{
+"subject": {
+"text": "the benefits of the loan waiver announced by the Maharashtra government"
+},
+"sentence": " The Shiv Sena chief further alleged that the benefits of the loan waiver announced by the Maharashtra government last year did not reach farmers.",
+"object": {
+"text": "not reach farmers"
+},
+"action": {
+"verb": {
+"text": "do",
+"tense": "past"
+},
+"text": "did",
+"normalized": "do"
+}
+},
+{
+"subject": {
+"text": "the benefits of the loan waiver announced by the Maharashtra government"
+},
+"sentence": " The Shiv Sena chief further alleged that the benefits of the loan waiver announced by the Maharashtra government last year did not reach farmers.",
+"object": {
+"text": "farmers"
+},
+"action": {
+"verb": {
+"text": "reach",
+"tense": "past",
+"negated": true
+},
+"text": "reach",
+"normalized": "reach"
+}
+},
+{
+"subject": {
+"text": "He"
+},
+"sentence": " He also reiterated his opposition to the West Coast refinery at Nanar, saying the project will harm the ecology of Konkan region.",
+"object": {
+"text": "his opposition to the West Coast refinery at Nanar"
+},
+"action": {
+"verb": {
+"text": "reiterate",
+"tense": "past"
+},
+"text": "reiterated",
+"normalized": "reiterate"
+}
+},
+{
+"subject": {
+"text": "He"
+},
+"sentence": " He also reiterated his opposition to the West Coast refinery at Nanar, saying the project will harm the ecology of Konkan region.",
+"object": {
+"text": "the project will harm the ecology of Konkan region"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "present"
+},
+"text": "saying",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "we"
+},
+"sentence": " \"Such a disastrous development cannot be afforded and that is why we are with the people of Nanar (in opposing it).",
+"object": {
+"text": "with the people of Nanar"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "present"
+},
+"text": "are",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "we"
+},
+"sentence": " \"Such a disastrous development cannot be afforded and that is why we are with the people of Nanar (in opposing it).",
+"object": {
+"text": "it"
+},
+"action": {
+"verb": {
+"text": "oppose",
+"tense": "present"
+},
+"text": "opposing",
+"normalized": "oppose"
+}
+},
+{
+"subject": {
+"text": "One thing"
+},
+"sentence": " One thing is clear, this project will never happen,\" he said.",
+"object": {
+"text": "clear"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "present"
+},
+"text": "is",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "this project"
+},
+"sentence": " One thing is clear, this project will never happen,\" he said.",
+"action": {
+"verb": {
+"text": "happen",
+"tense": "future"
+},
+"text": "happen",
+"normalized": "happen"
+}
+},
+{
+"subject": {
+"text": "he"
+},
+"sentence": " One thing is clear, this project will never happen,\" he said.",
+"object": {
+"text": "One thing is clear, this project will never happen"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "the state government"
+},
+"sentence": " On allegations by opposition parties that the state government was distributing copies of the Bhagavad Gita in schools in Mumbai (which the government has denied), he said the BJP was resorting to such gimmicks to divert people's attention from the mismanagement of Mumbai University.",
+"object": {
+"text": "distributing copies of the Bhagavad Gita in schools in Mumbai (which the government has denied), he said the BJP was resorting to such gimmicks to divert people's attention from the mismanagement of Mumbai University"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "was",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "the state government"
+},
+"sentence": " On allegations by opposition parties that the state government was distributing copies of the Bhagavad Gita in schools in Mumbai (which the government has denied), he said the BJP was resorting to such gimmicks to divert people's attention from the mismanagement of Mumbai University.",
+"object": {
+"text": "copies of the Bhagavad Gita in schools in Mumbai (which the government has denied)"
+},
+"action": {
+"verb": {
+"text": "distribute",
+"tense": "past"
+},
+"text": "was distributing",
+"normalized": "be distribute"
+}
+},
+{
+"subject": {
+"text": "the BJP"
+},
+"sentence": " On allegations by opposition parties that the state government was distributing copies of the Bhagavad Gita in schools in Mumbai (which the government has denied), he said the BJP was resorting to such gimmicks to divert people's attention from the mismanagement of Mumbai University.",
+"object": {
+"text": "people's attention"
+},
+"action": {
+"verb": {
+"text": "divert",
+"tense": "future"
+},
+"text": "to divert",
+"normalized": "to divert"
+}
+}
+],
+"relations": [
+{
+"type": "timeOf",
+"sentence": "PUNE: chief today asked why the BJP-led Central government does not take a quick decision to build the Ram Temple at Ayodhya, the way it did in the case of demonetisation.",
+"score": 0.928417,
+"arguments": [
+{
+"text": "today",
+"location": [
+12,
+17
+],
+"entities": [
+{
+"type": "Date",
+"text": "today"
+}
+]
+},
+{
+"text": "asked",
+"location": [
+18,
+23
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "asked"
+}
+]
+}
+]
+},
+{
+"type": "managerOf",
+"sentence": "\"The way you (the BJP government) took the decision of noteban instantly, you can take the decision to build the Ram Mandir instantly, because you have a majority,\" said Thackeray, whose party often spars with the BJP despite being an ally.",
+"score": 0.882034,
+"arguments": [
+{
+"text": "whose",
+"location": [
+581,
+586
+],
+"entities": [
+{
+"type": "Person",
+"text": "Thackeray"
+}
+]
+},
+{
+"text": "party",
+"location": [
+587,
+592
+],
+"entities": [
+{
+"type": "Organization",
+"text": "party",
+"disambiguation": {
+"subtype": [
+"Political"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "So far, development was the BJP's agenda but now it has been replaced by the Ram Mandir issue, he said further.",
+"score": 0.333442,
+"arguments": [
+{
+"text": "replaced",
+"location": [
+702,
+710
+],
+"entities": [
+{
+"type": "EventPersonnel",
+"text": "replaced"
+}
+]
+},
+{
+"text": "Ram Mandir",
+"location": [
+718,
+728
+],
+"entities": [
+{
+"type": "Facility",
+"text": "Ram Mandir"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "So far, development was the BJP's agenda but now it has been replaced by the Ram Mandir issue, he said further.",
+"score": 0.812385,
+"arguments": [
+{
+"text": "he",
+"location": [
+736,
+738
+],
+"entities": [
+{
+"type": "Person",
+"text": "Thackeray"
+}
+]
+},
+{
+"text": "replaced",
+"location": [
+702,
+710
+],
+"entities": [
+{
+"type": "EventPersonnel",
+"text": "replaced"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "So far, development was the BJP's agenda but now it has been replaced by the Ram Mandir issue, he said further.",
+"score": 0.473992,
+"arguments": [
+{
+"text": "he",
+"location": [
+736,
+738
+],
+"entities": [
+{
+"type": "Person",
+"text": "Thackeray"
+}
+]
+},
+{
+"text": "Ram Mandir",
+"location": [
+718,
+728
+],
+"entities": [
+{
+"type": "Facility",
+"text": "Ram Mandir"
+}
+]
+}
+]
+},
+{
+"type": "colleague",
+"sentence": "The Shiv Sena chief further alleged that the benefits of the loan waiver announced by the Maharashtra government last year did not reach farmers.",
+"score": 0.511568,
+"arguments": [
+{
+"text": "chief",
+"location": [
+767,
+772
+],
+"entities": [
+{
+"type": "Person",
+"text": "chief"
+}
+]
+},
+{
+"text": "Shiv Sena",
+"location": [
+757,
+766
+],
+"entities": [
+{
+"type": "Person",
+"text": "Shiv Sena"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "The Shiv Sena chief further alleged that the benefits of the loan waiver announced by the Maharashtra government last year did not reach farmers.",
+"score": 0.718773,
+"arguments": [
+{
+"text": "Maharashtra government",
+"location": [
+843,
+865
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Maharashtra government"
+}
+]
+},
+{
+"text": "announced",
+"location": [
+826,
+835
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "announced"
+}
+]
+}
+]
+},
+{
+"type": "timeOf",
+"sentence": "The Shiv Sena chief further alleged that the benefits of the loan waiver announced by the Maharashtra government last year did not reach farmers.",
+"score": 0.956639,
+"arguments": [
+{
+"text": "last year",
+"location": [
+866,
+875
+],
+"entities": [
+{
+"type": "Date",
+"text": "last year"
+}
+]
+},
+{
+"text": "announced",
+"location": [
+826,
+835
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "announced"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "He also reiterated his opposition to the West Coast refinery at Nanar, saying the project will harm the ecology of Konkan region.",
+"score": 0.644515,
+"arguments": [
+{
+"text": "opposition",
+"location": [
+922,
+932
+],
+"entities": [
+{
+"type": "Person",
+"text": "opposition"
+}
+]
+},
+{
+"text": "reiterated",
+"location": [
+907,
+917
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "reiterated"
+}
+]
+}
+]
+},
+{
+"type": "partOf",
+"sentence": "He also reiterated his opposition to the West Coast refinery at Nanar, saying the project will harm the ecology of Konkan region.",
+"score": 0.62723,
+"arguments": [
+{
+"text": "saying",
+"location": [
+970,
+976
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "saying"
+}
+]
+},
+{
+"text": "reiterated",
+"location": [
+907,
+917
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "reiterated"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "He also reiterated his opposition to the West Coast refinery at Nanar, saying the project will harm the ecology of Konkan region.",
+"score": 0.574844,
+"arguments": [
+{
+"text": "opposition",
+"location": [
+922,
+932
+],
+"entities": [
+{
+"type": "Person",
+"text": "opposition"
+}
+]
+},
+{
+"text": "refinery",
+"location": [
+951,
+959
+],
+"entities": [
+{
+"type": "Facility",
+"text": "refinery"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "PUNE: chief today asked why the BJP-led Central government does not take a quick decision to build the Ram Temple at Ayodhya, the way it did in the case of demonetisation.",
+"score": 0.972684,
+"arguments": [
+{
+"text": "Ram Temple",
+"location": [
+103,
+113
+],
+"entities": [
+{
+"type": "Facility",
+"text": "Ram Temple"
+}
+]
+},
+{
+"text": "Ayodhya",
+"location": [
+117,
+124
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Ayodhya"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "He also reiterated his opposition to the West Coast refinery at Nanar, saying the project will harm the ecology of Konkan region.",
+"score": 0.946509,
+"arguments": [
+{
+"text": "refinery",
+"location": [
+951,
+959
+],
+"entities": [
+{
+"type": "Facility",
+"text": "refinery"
+}
+]
+},
+{
+"text": "West Coast",
+"location": [
+940,
+950
+],
+"entities": [
+{
+"type": "Location",
+"text": "West Coast"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "He also reiterated his opposition to the West Coast refinery at Nanar, saying the project will harm the ecology of Konkan region.",
+"score": 0.948311,
+"arguments": [
+{
+"text": "refinery",
+"location": [
+951,
+959
+],
+"entities": [
+{
+"type": "Facility",
+"text": "refinery"
+}
+]
+},
+{
+"text": "Nanar",
+"location": [
+963,
+968
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Nanar"
+}
+]
+}
+]
+},
+{
+"type": "residesIn",
+"sentence": "\"Such a disastrous development cannot be afforded and that is why we are with the people of Nanar (in opposing it).",
+"score": 0.571954,
+"arguments": [
+{
+"text": "people",
+"location": [
+1111,
+1117
+],
+"entities": [
+{
+"type": "Person",
+"text": "people"
+}
+]
+},
+{
+"text": "Nanar",
+"location": [
+1121,
+1126
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Nanar"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "One thing is clear, this project will never happen,\" he said.",
+"score": 0.983071,
+"arguments": [
+{
+"text": "he",
+"location": [
+1198,
+1200
+],
+"entities": [
+{
+"type": "Person",
+"text": "Thackeray"
+}
+]
+},
+{
+"text": "said",
+"location": [
+1201,
+1205
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "On allegations by opposition parties that the state government was distributing copies of the Bhagavad Gita in schools in Mumbai (which the government has denied), he said the BJP was resorting to such gimmicks to divert people's attention from the mismanagement of Mumbai University.",
+"score": 0.989416,
+"arguments": [
+{
+"text": "he",
+"location": [
+1371,
+1373
+],
+"entities": [
+{
+"type": "Person",
+"text": "Thackeray"
+}
+]
+},
+{
+"text": "said",
+"location": [
+1374,
+1378
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "affiliatedWith",
+"sentence": "On allegations by opposition parties that the state government was distributing copies of the Bhagavad Gita in schools in Mumbai (which the government has denied), he said the BJP was resorting to such gimmicks to divert people's attention from the mismanagement of Mumbai University.",
+"score": 0.743957,
+"arguments": [
+{
+"text": "parties",
+"location": [
+1236,
+1243
+],
+"entities": [
+{
+"type": "Organization",
+"text": "parties",
+"disambiguation": {
+"subtype": [
+"Political"
+]
+}
+}
+]
+},
+{
+"text": "opposition",
+"location": [
+1225,
+1235
+],
+"entities": [
+{
+"type": "Person",
+"text": "opposition"
+}
+]
+}
+]
+},
+{
+"type": "partOf",
+"sentence": "On allegations by opposition parties that the state government was distributing copies of the Bhagavad Gita in schools in Mumbai (which the government has denied), he said the BJP was resorting to such gimmicks to divert people's attention from the mismanagement of Mumbai University.",
+"score": 0.593212,
+"arguments": [
+{
+"text": "government",
+"location": [
+1259,
+1269
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "government",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+},
+{
+"text": "state",
+"location": [
+1253,
+1258
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "BJP-led Central government"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "On allegations by opposition parties that the state government was distributing copies of the Bhagavad Gita in schools in Mumbai (which the government has denied), he said the BJP was resorting to such gimmicks to divert people's attention from the mismanagement of Mumbai University.",
+"score": 0.615471,
+"arguments": [
+{
+"text": "Bhagavad Gita",
+"location": [
+1301,
+1314
+],
+"entities": [
+{
+"type": "Facility",
+"text": "Bhagavad Gita"
+}
+]
+},
+{
+"text": "Mumbai",
+"location": [
+1329,
+1335
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Mumbai University"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "On allegations by opposition parties that the state government was distributing copies of the Bhagavad Gita in schools in Mumbai (which the government has denied), he said the BJP was resorting to such gimmicks to divert people's attention from the mismanagement of Mumbai University.",
+"score": 0.350344,
+"arguments": [
+{
+"text": "schools",
+"location": [
+1318,
+1325
+],
+"entities": [
+{
+"type": "Organization",
+"text": "schools",
+"disambiguation": {
+"subtype": [
+"Educational"
+]
+}
+}
+]
+},
+{
+"text": "which",
+"location": [
+1337,
+1342
+],
+"entities": [
+{
+"type": "Facility",
+"text": "refinery"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "On allegations by opposition parties that the state government was distributing copies of the Bhagavad Gita in schools in Mumbai (which the government has denied), he said the BJP was resorting to such gimmicks to divert people's attention from the mismanagement of Mumbai University.",
+"score": 0.500571,
+"arguments": [
+{
+"text": "which",
+"location": [
+1337,
+1342
+],
+"entities": [
+{
+"type": "Facility",
+"text": "refinery"
+}
+]
+},
+{
+"text": "Mumbai",
+"location": [
+1329,
+1335
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Mumbai University"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "On allegations by opposition parties that the state government was distributing copies of the Bhagavad Gita in schools in Mumbai (which the government has denied), he said the BJP was resorting to such gimmicks to divert people's attention from the mismanagement of Mumbai University.",
+"score": 0.951501,
+"arguments": [
+{
+"text": "government",
+"location": [
+1347,
+1357
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "government",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+},
+{
+"text": "denied",
+"location": [
+1362,
+1368
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "denied"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "\"They (BJP) talk about building a , bringing and repealing section 370 in Jammu and Kashmir before the election, but which election, 2019 or 2050, they do not specify,\" Thackeray told reporters after a meeting of party leaders.",
+"score": 0.840356,
+"arguments": [
+{
+"text": "They",
+"location": [
+173,
+177
+],
+"entities": [
+{
+"type": "Person",
+"text": "they"
+}
+]
+},
+{
+"text": "talk",
+"location": [
+184,
+188
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "talk"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "\"They (BJP) talk about building a , bringing and repealing section 370 in Jammu and Kashmir before the election, but which election, 2019 or 2050, they do not specify,\" Thackeray told reporters after a meeting of party leaders.",
+"score": 0.997101,
+"arguments": [
+{
+"text": "Thackeray",
+"location": [
+341,
+350
+],
+"entities": [
+{
+"type": "Person",
+"text": "Thackeray"
+}
+]
+},
+{
+"text": "told",
+"location": [
+351,
+355
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "reiterated"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "\"The way you (the BJP government) took the decision of noteban instantly, you can take the decision to build the Ram Mandir instantly, because you have a majority,\" said Thackeray, whose party often spars with the BJP despite being an ally.",
+"score": 0.954123,
+"arguments": [
+{
+"text": "Thackeray",
+"location": [
+570,
+579
+],
+"entities": [
+{
+"type": "Person",
+"text": "Thackeray"
+}
+]
+},
+{
+"text": "said",
+"location": [
+565,
+569
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "reiterated"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "So far, development was the BJP's agenda but now it has been replaced by the Ram Mandir issue, he said further.",
+"score": 0.974984,
+"arguments": [
+{
+"text": "he",
+"location": [
+736,
+738
+],
+"entities": [
+{
+"type": "Person",
+"text": "Thackeray"
+}
+]
+},
+{
+"text": "said",
+"location": [
+739,
+743
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "reiterated"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "He also reiterated his opposition to the West Coast refinery at Nanar, saying the project will harm the ecology of Konkan region.",
+"score": 0.99018,
+"arguments": [
+{
+"text": "He",
+"location": [
+899,
+901
+],
+"entities": [
+{
+"type": "Person",
+"text": "Thackeray"
+}
+]
+},
+{
+"text": "reiterated",
+"location": [
+907,
+917
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "reiterated"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "\"They (BJP) talk about building a , bringing and repealing section 370 in Jammu and Kashmir before the election, but which election, 2019 or 2050, they do not specify,\" Thackeray told reporters after a meeting of party leaders.",
+"score": 0.991855,
+"arguments": [
+{
+"text": "reporters",
+"location": [
+356,
+365
+],
+"entities": [
+{
+"type": "Person",
+"text": "reporters"
+}
+]
+},
+{
+"text": "told",
+"location": [
+351,
+355
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "reiterated"
+}
+]
+}
+]
+},
+{
+"type": "partOf",
+"sentence": "\"They (BJP) talk about building a , bringing and repealing section 370 in Jammu and Kashmir before the election, but which election, 2019 or 2050, they do not specify,\" Thackeray told reporters after a meeting of party leaders.",
+"score": 0.661508,
+"arguments": [
+{
+"text": "told",
+"location": [
+351,
+355
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "reiterated"
+}
+]
+},
+{
+"text": "meeting",
+"location": [
+374,
+381
+],
+"entities": [
+{
+"type": "EventMeeting",
+"text": "meeting"
+}
+]
+}
+]
+},
+{
+"type": "participantIn",
+"sentence": "\"They (BJP) talk about building a , bringing and repealing section 370 in Jammu and Kashmir before the election, but which election, 2019 or 2050, they do not specify,\" Thackeray told reporters after a meeting of party leaders.",
+"score": 0.743121,
+"arguments": [
+{
+"text": "leaders",
+"location": [
+391,
+398
+],
+"entities": [
+{
+"type": "Person",
+"text": "leaders"
+}
+]
+},
+{
+"text": "meeting",
+"location": [
+374,
+381
+],
+"entities": [
+{
+"type": "EventMeeting",
+"text": "meeting"
+}
+]
+}
+]
+},
+{
+"type": "managerOf",
+"sentence": "\"They (BJP) talk about building a , bringing and repealing section 370 in Jammu and Kashmir before the election, but which election, 2019 or 2050, they do not specify,\" Thackeray told reporters after a meeting of party leaders.",
+"score": 0.814687,
+"arguments": [
+{
+"text": "leaders",
+"location": [
+391,
+398
+],
+"entities": [
+{
+"type": "Person",
+"text": "leaders"
+}
+]
+},
+{
+"text": "party",
+"location": [
+385,
+390
+],
+"entities": [
+{
+"type": "Organization",
+"text": "party",
+"disambiguation": {
+"subtype": [
+"Political"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "managerOf",
+"sentence": "\"The way you (the BJP government) took the decision of noteban instantly, you can take the decision to build the Ram Mandir instantly, because you have a majority,\" said Thackeray, whose party often spars with the BJP despite being an ally.",
+"score": 0.671784,
+"arguments": [
+{
+"text": "you",
+"location": [
+409,
+412
+],
+"entities": [
+{
+"type": "Person",
+"text": "you"
+}
+]
+},
+{
+"text": "government",
+"location": [
+422,
+432
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "government",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+}
+]
+}
+],
+"language": "en",
+"keywords": [
+{
+"text": "BJP",
+"sentiment": {
+"score": -0.434312,
+"label": "negative"
+},
+"relevance": 0.924122,
+"emotion": {
+"sadness": 0.662928,
+"joy": 0.034461,
+"fear": 0.09852,
+"disgust": 0.255715,
+"anger": 0.183331
+}
+},
+{
+"text": "BJP government",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.877268,
+"emotion": {
+"sadness": 0.237257,
+"joy": 0.033557,
+"fear": 0.133716,
+"disgust": 0.313586,
+"anger": 0.231898
+}
+},
+{
+"text": "Ram Mandir",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.870696,
+"emotion": {
+"sadness": 0.299989,
+"joy": 0.108194,
+"fear": 0.045975,
+"disgust": 0.063616,
+"anger": 0.224829
+}
+},
+{
+"text": "Ram Mandir issue",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.830953,
+"emotion": {
+"sadness": 0.455888,
+"joy": 0.048791,
+"fear": 0.020314,
+"disgust": 0.038367,
+"anger": 0.236373
+}
+}
+],
+"entities": [
+{
+"type": "Organization",
+"text": "BJP",
+"sentiment": {
+"score": -0.434312,
+"label": "negative"
+},
+"relevance": 0.897602,
+"emotion": {
+"sadness": 0.609166,
+"joy": 0.048384,
+"fear": 0.090965,
+"disgust": 0.211406,
+"anger": 0.145412
+},
+"disambiguation": {
+"subtype": [
+"PoliticalParty",
+"Actor",
+"OfficeHolder"
+],
+"name": "Bharatiya Janata Party",
+"dbpedia_resource": "http://dbpedia.org/resource/Bharatiya_Janata_Party"
+},
+"count": 5
+},
+{
+"type": "Person",
+"text": "Thackeray",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.37537,
+"emotion": {
+"sadness": 0.247831,
+"joy": 0.443488,
+"fear": 0.06921,
+"disgust": 0.087917,
+"anger": 0.222099
+},
+"count": 3
+},
+{
+"type": "Facility",
+"text": "Ram Mandir",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.373921,
+"emotion": {
+"sadness": 0.299989,
+"joy": 0.108194,
+"fear": 0.045975,
+"disgust": 0.063616,
+"anger": 0.224829
+},
+"count": 2
+},
+{
+"type": "Organization",
+"text": "Maharashtra government",
+"sentiment": {
+"score": -0.550021,
+"label": "negative"
+},
+"relevance": 0.291309,
+"emotion": {
+"sadness": 0.332517,
+"joy": 0.026487,
+"fear": 0.042974,
+"disgust": 0.340639,
+"anger": 0.323857
+},
+"disambiguation": {
+"subtype": [],
+"name": "Government of Maharashtra",
+"dbpedia_resource": "http://dbpedia.org/resource/Government_of_Maharashtra"
+},
+"count": 2
+},
+{
+"type": "Organization",
+"text": "BJP-led Central government",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.278456,
+"emotion": {
+"sadness": 0.319909,
+"joy": 0.104954,
+"fear": 0.230225,
+"disgust": 0.116796,
+"anger": 0.359798
+},
+"count": 1
+}
+],
+"concepts": [
+{
+"text": "Maharashtra",
+"relevance": 0.974678,
+"dbpedia_resource": "http://dbpedia.org/resource/Maharashtra"
+},
+{
+"text": "Mumbai",
+"relevance": 0.807235,
+"dbpedia_resource": "http://dbpedia.org/resource/Mumbai"
+},
+{
+"text": "Bharatiya Janata Party",
+"relevance": 0.718183,
+"dbpedia_resource": "http://dbpedia.org/resource/Bharatiya_Janata_Party"
+},
+{
+"text": "Shiv Sena",
+"relevance": 0.680383,
+"dbpedia_resource": "http://dbpedia.org/resource/Shiv_Sena"
+},
+{
+"text": "Sanskrit",
+"relevance": 0.64572,
+"dbpedia_resource": "http://dbpedia.org/resource/Sanskrit"
+}
+],
+"categories": [
+{
+"score": 0.407762,
+"label": "/business and industrial/business operations/management/project management"
+},
+{
+"score": 0.343286,
+"label": "/law, govt and politics/legal issues/civil rights"
+},
+{
+"score": 0.334949,
+"label": "/law, govt and politics/government"
+}
+]
+}
+}

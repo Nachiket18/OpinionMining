@@ -1,0 +1,784 @@
+{
+"source_article_link": "https://timesofindia.indiatimes.com/india/bjp-eyes-lingayat-resentment/articleshow/64200872.cms?&utm_source=Articleshow&utm_medium=Organic&utm_campaign=Related_Stories",
+"title": "BJP eyes Lingayat resentment",
+"date_published": "2018-05-17T10:52:31+05:30",
+"source_type": "news_article",
+"source_name": "timesofindia.indiatimes.com",
+"image_link": [
+"https://timesofindia.indiatimes.com/thumb/msid-64200910,imgsize-328679,width-400,resizemode-4/64200910.jpg"
+],
+"article_body": "NEW DELHI: With Karnataka governor inviting BS to take oath as chief minister, is looking for support from Lingayat MLAs in rival camps who could be unhappy at the Congress-JD(S) alliance that seeks to catapult HD , a Vokkaliga, as CM. There are about a dozen Lingayat MLAs in and JD(S) who could rally around to backing Yeddyurappa, considered the tallest politician from the community. The community supported BJP, largely rejecting Congress\u2019s move to offer religious minority status to Lingayats, choosing instead to back their leader for the CM post. remember Kumaraswamy\u2019s refusal to relinquish the CM\u2019s chair in 2007 and honour a tenure sharing deal with BJP. The party is also looking at three-four other MLAs to garner the numbers to form the government and this would mean legislators who have been wooed to switch sides could be asked to vote in favour of BSY in a trust vote.",
+"description": "NEW DELHI: With Karnataka governor inviting BS to take oath as chief minister, is looking for support from Lingayat MLAs in rival camps who could be unhappy at the Congress-JD(S) alliance that seeks to catapult HD , a Vokkaliga, as CM.",
+"time_scraped": "2018-08-24 21:01:12.797976",
+"article_id": "64200872",
+"article_category": "IndiaNews",
+"image_details": [
+{
+"url": "https://timesofindia.indiatimes.com/thumb/msid-64200910,imgsize-328679,width-400,resizemode-4/64200910.jpg",
+"path": "full/4d1e8bde7718863999e7a39e7edee6809be48b8a.jpg",
+"checksum": "006187f731d92f1ba4e5198267766887"
+}
+],
+"ibm_nlu": {
+"usage": {
+"text_units": 1,
+"text_characters": 886,
+"features": 7
+},
+"sentiment": {
+"document": {
+"score": 0.0,
+"label": "neutral"
+}
+},
+"semantic_roles": [
+{
+"subject": {
+"text": "With Karnataka governor"
+},
+"sentence": "NEW DELHI: With Karnataka governor inviting BS to take oath as chief minister, is looking for support from Lingayat MLAs in rival camps who could be unhappy at the Congress-JD(S) alliance that seeks to catapult HD , a Vokkaliga, as CM.",
+"object": {
+"text": "BS"
+},
+"action": {
+"verb": {
+"text": "invite",
+"tense": "present"
+},
+"text": "inviting",
+"normalized": "invite"
+}
+},
+{
+"subject": {
+"text": "oath"
+},
+"sentence": "NEW DELHI: With Karnataka governor inviting BS to take oath as chief minister, is looking for support from Lingayat MLAs in rival camps who could be unhappy at the Congress-JD(S) alliance that seeks to catapult HD , a Vokkaliga, as CM.",
+"object": {
+"text": "as chief minister"
+},
+"action": {
+"verb": {
+"text": "take",
+"tense": "future"
+},
+"text": "to take",
+"normalized": "to take"
+}
+},
+{
+"subject": {
+"text": "NEW DELHI: With Karnataka governor inviting BS"
+},
+"sentence": "NEW DELHI: With Karnataka governor inviting BS to take oath as chief minister, is looking for support from Lingayat MLAs in rival camps who could be unhappy at the Congress-JD(S) alliance that seeks to catapult HD , a Vokkaliga, as CM.",
+"object": {
+"text": "for support from Lingayat MLAs in rival camps who could be unhappy at the Congress-JD(S) alliance that seeks to catapult HD"
+},
+"action": {
+"verb": {
+"text": "look",
+"tense": "present"
+},
+"text": "is looking",
+"normalized": "be look"
+}
+},
+{
+"subject": {
+"text": "the Congress-JD(S) alliance"
+},
+"sentence": "NEW DELHI: With Karnataka governor inviting BS to take oath as chief minister, is looking for support from Lingayat MLAs in rival camps who could be unhappy at the Congress-JD(S) alliance that seeks to catapult HD , a Vokkaliga, as CM.",
+"object": {
+"text": "to catapult HD , a Vokkaliga, as CM"
+},
+"action": {
+"verb": {
+"text": "seek",
+"tense": "present"
+},
+"text": "seeks",
+"normalized": "seek"
+}
+},
+{
+"subject": {
+"text": "a dozen Lingayat MLAs in and JD(S)"
+},
+"sentence": " There are about a dozen Lingayat MLAs in and JD(S) who could rally around to backing Yeddyurappa, considered the tallest politician from the community.",
+"object": {
+"text": "Yeddyurappa"
+},
+"action": {
+"verb": {
+"text": "back",
+"tense": "future"
+},
+"text": "backing",
+"normalized": "back"
+}
+},
+{
+"subject": {
+"text": "a dozen Lingayat MLAs in and JD(S) who could rally around to backing Yeddyurappa"
+},
+"sentence": " There are about a dozen Lingayat MLAs in and JD(S) who could rally around to backing Yeddyurappa, considered the tallest politician from the community.",
+"object": {
+"text": "the tallest politician"
+},
+"action": {
+"verb": {
+"text": "consider",
+"tense": "past"
+},
+"text": "considered",
+"normalized": "consider"
+}
+},
+{
+"subject": {
+"text": "The community"
+},
+"sentence": " The community supported BJP, largely rejecting Congress\u2019s move to offer religious minority status to Lingayats, choosing instead to back their leader for the CM post. remember Kumaraswamy\u2019s refusal to relinquish the CM\u2019s chair in 2007 and honour a tenure sharing deal with BJP.",
+"object": {
+"text": "BJP"
+},
+"action": {
+"verb": {
+"text": "support",
+"tense": "past"
+},
+"text": "supported",
+"normalized": "support"
+}
+},
+{
+"subject": {
+"text": "Congress\u2019s"
+},
+"sentence": " The community supported BJP, largely rejecting Congress\u2019s move to offer religious minority status to Lingayats, choosing instead to back their leader for the CM post. remember Kumaraswamy\u2019s refusal to relinquish the CM\u2019s chair in 2007 and honour a tenure sharing deal with BJP.",
+"object": {
+"text": "religious minority status"
+},
+"action": {
+"verb": {
+"text": "offer",
+"tense": "future"
+},
+"text": "move to offer",
+"normalized": "move to offer"
+}
+},
+{
+"subject": {
+"text": "The community"
+},
+"sentence": " The community supported BJP, largely rejecting Congress\u2019s move to offer religious minority status to Lingayats, choosing instead to back their leader for the CM post. remember Kumaraswamy\u2019s refusal to relinquish the CM\u2019s chair in 2007 and honour a tenure sharing deal with BJP.",
+"object": {
+"text": "to back their leader"
+},
+"action": {
+"verb": {
+"text": "choose",
+"tense": "present"
+},
+"text": "choosing",
+"normalized": "choose"
+}
+},
+{
+"subject": {
+"text": "Kumaraswamy"
+},
+"sentence": " The community supported BJP, largely rejecting Congress\u2019s move to offer religious minority status to Lingayats, choosing instead to back their leader for the CM post. remember Kumaraswamy\u2019s refusal to relinquish the CM\u2019s chair in 2007 and honour a tenure sharing deal with BJP.",
+"object": {
+"text": "refusal"
+},
+"action": {
+"verb": {
+"text": "has",
+"tense": "present"
+},
+"text": "s",
+"normalized": "s"
+}
+},
+{
+"subject": {
+"text": "Kumaraswamy\u2019s"
+},
+"sentence": " The community supported BJP, largely rejecting Congress\u2019s move to offer religious minority status to Lingayats, choosing instead to back their leader for the CM post. remember Kumaraswamy\u2019s refusal to relinquish the CM\u2019s chair in 2007 and honour a tenure sharing deal with BJP.",
+"object": {
+"text": "the CM\u2019s chair"
+},
+"action": {
+"verb": {
+"text": "relinquish",
+"tense": "future"
+},
+"text": "to relinquish",
+"normalized": "to relinquish"
+}
+},
+{
+"subject": {
+"text": "Congress\u2019s move"
+},
+"sentence": " The community supported BJP, largely rejecting Congress\u2019s move to offer religious minority status to Lingayats, choosing instead to back their leader for the CM post. remember Kumaraswamy\u2019s refusal to relinquish the CM\u2019s chair in 2007 and honour a tenure sharing deal with BJP.",
+"object": {
+"text": "a tenure sharing deal"
+},
+"action": {
+"verb": {
+"text": "honour",
+"tense": "present"
+},
+"text": "honour",
+"normalized": "honour"
+}
+},
+{
+"subject": {
+"text": "The party"
+},
+"sentence": " The party is also looking at three-four other MLAs to garner the numbers to form the government and this would mean legislators who have been wooed to switch sides could be asked to vote in favour of BSY in a trust vote.",
+"object": {
+"text": "at three-four other MLAs"
+},
+"action": {
+"verb": {
+"text": "look",
+"tense": "present"
+},
+"text": "is also looking",
+"normalized": "be also look"
+}
+},
+{
+"subject": {
+"text": "The party"
+},
+"sentence": " The party is also looking at three-four other MLAs to garner the numbers to form the government and this would mean legislators who have been wooed to switch sides could be asked to vote in favour of BSY in a trust vote.",
+"object": {
+"text": "the numbers to form the government"
+},
+"action": {
+"verb": {
+"text": "garner",
+"tense": "future"
+},
+"text": "to garner",
+"normalized": "to garner"
+}
+},
+{
+"subject": {
+"text": "The party"
+},
+"sentence": " The party is also looking at three-four other MLAs to garner the numbers to form the government and this would mean legislators who have been wooed to switch sides could be asked to vote in favour of BSY in a trust vote.",
+"object": {
+"text": "the government"
+},
+"action": {
+"verb": {
+"text": "form",
+"tense": "future"
+},
+"text": "to form",
+"normalized": "to form"
+}
+},
+{
+"subject": {
+"text": "legislators"
+},
+"sentence": " The party is also looking at three-four other MLAs to garner the numbers to form the government and this would mean legislators who have been wooed to switch sides could be asked to vote in favour of BSY in a trust vote.",
+"object": {
+"text": "sides"
+},
+"action": {
+"verb": {
+"text": "switch",
+"tense": "future"
+},
+"text": "have been wooed to switch",
+"normalized": "have be woo to switch"
+}
+}
+],
+"relations": [
+{
+"type": "employedBy",
+"sentence": "NEW DELHI: With Karnataka governor inviting BS to take oath as chief minister, is looking for support from Lingayat MLAs in rival camps who could be unhappy at the Congress-JD(S) alliance that seeks to catapult HD , a Vokkaliga, as CM.",
+"score": 0.689925,
+"arguments": [
+{
+"text": "governor",
+"location": [
+26,
+34
+],
+"entities": [
+{
+"type": "Person",
+"text": "governor"
+}
+]
+},
+{
+"text": "Karnataka",
+"location": [
+16,
+25
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Karnataka"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "NEW DELHI: With Karnataka governor inviting BS to take oath as chief minister, is looking for support from Lingayat MLAs in rival camps who could be unhappy at the Congress-JD(S) alliance that seeks to catapult HD , a Vokkaliga, as CM.",
+"score": 0.993889,
+"arguments": [
+{
+"text": "governor",
+"location": [
+26,
+34
+],
+"entities": [
+{
+"type": "Person",
+"text": "governor"
+}
+]
+},
+{
+"text": "inviting",
+"location": [
+35,
+43
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "inviting"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "NEW DELHI: With Karnataka governor inviting BS to take oath as chief minister, is looking for support from Lingayat MLAs in rival camps who could be unhappy at the Congress-JD(S) alliance that seeks to catapult HD , a Vokkaliga, as CM.",
+"score": 0.686506,
+"arguments": [
+{
+"text": "Lingayat MLAs",
+"location": [
+107,
+120
+],
+"entities": [
+{
+"type": "Person",
+"text": "Lingayat MLAs"
+}
+]
+},
+{
+"text": "camps",
+"location": [
+130,
+135
+],
+"entities": [
+{
+"type": "Facility",
+"text": "camps"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "NEW DELHI: With Karnataka governor inviting BS to take oath as chief minister, is looking for support from Lingayat MLAs in rival camps who could be unhappy at the Congress-JD(S) alliance that seeks to catapult HD , a Vokkaliga, as CM.",
+"score": 0.434511,
+"arguments": [
+{
+"text": "who",
+"location": [
+136,
+139
+],
+"entities": [
+{
+"type": "Person",
+"text": "Lingayat MLAs"
+}
+]
+},
+{
+"text": "camps",
+"location": [
+130,
+135
+],
+"entities": [
+{
+"type": "Facility",
+"text": "camps"
+}
+]
+}
+]
+},
+{
+"type": "partOf",
+"sentence": "NEW DELHI: With Karnataka governor inviting BS to take oath as chief minister, is looking for support from Lingayat MLAs in rival camps who could be unhappy at the Congress-JD(S) alliance that seeks to catapult HD , a Vokkaliga, as CM.",
+"score": 0.544914,
+"arguments": [
+{
+"text": "alliance",
+"location": [
+179,
+187
+],
+"entities": [
+{
+"type": "Organization",
+"text": "alliance"
+}
+]
+},
+{
+"text": "Congress",
+"location": [
+164,
+172
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Congress",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "partOfMany",
+"sentence": "There are about a dozen Lingayat MLAs in and JD(S) who could rally around to backing Yeddyurappa, considered the tallest politician from the community.",
+"score": 0.512001,
+"arguments": [
+{
+"text": "politician",
+"location": [
+357,
+367
+],
+"entities": [
+{
+"type": "Person",
+"text": "Yeddyurappa"
+}
+]
+},
+{
+"text": "community",
+"location": [
+377,
+386
+],
+"entities": [
+{
+"type": "Person",
+"text": "community"
+}
+]
+}
+]
+},
+{
+"type": "parentOf",
+"sentence": "The community supported BJP, largely rejecting Congress's move to offer religious minority status to Lingayats, choosing instead to back their leader for the CM post.",
+"score": 0.266757,
+"arguments": [
+{
+"text": "leader",
+"location": [
+531,
+537
+],
+"entities": [
+{
+"type": "Person",
+"text": "Kumaraswamy"
+}
+]
+},
+{
+"text": "their",
+"location": [
+525,
+530
+],
+"entities": [
+{
+"type": "Person",
+"text": "community"
+}
+]
+}
+]
+},
+{
+"type": "managerOf",
+"sentence": "The party is also looking at three-four other MLAs to garner the numbers to form the government and this would mean legislators who have been wooed to switch sides could be asked to vote in favour of BSY in a trust vote.",
+"score": 0.328173,
+"arguments": [
+{
+"text": "MLAs",
+"location": [
+712,
+716
+],
+"entities": [
+{
+"type": "Person",
+"text": "Lingayat MLAs"
+}
+]
+},
+{
+"text": "party",
+"location": [
+670,
+675
+],
+"entities": [
+{
+"type": "Organization",
+"text": "alliance"
+}
+]
+}
+]
+}
+],
+"language": "en",
+"keywords": [
+{
+"text": "dozen Lingayat MLAs",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.9623,
+"emotion": {
+"sadness": 0.024621,
+"joy": 0.0886,
+"fear": 0.031502,
+"disgust": 0.06835,
+"anger": 0.034643
+}
+},
+{
+"text": "CM post. remember",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.772258,
+"emotion": {
+"sadness": 0.46607,
+"joy": 0.168014,
+"fear": 0.152973,
+"disgust": 0.164787,
+"anger": 0.184606
+}
+},
+{
+"text": "tenure sharing deal",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.68166,
+"emotion": {
+"sadness": 0.46607,
+"joy": 0.168014,
+"fear": 0.152973,
+"disgust": 0.164787,
+"anger": 0.184606
+}
+},
+{
+"text": "religious minority status",
+"sentiment": {
+"score": -0.368649,
+"label": "negative"
+},
+"relevance": 0.663306,
+"emotion": {
+"sadness": 0.373836,
+"joy": 0.01783,
+"fear": 0.115589,
+"disgust": 0.139395,
+"anger": 0.177874
+}
+},
+{
+"text": "three-four other MLAs",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.661523,
+"emotion": {
+"sadness": 0.143443,
+"joy": 0.537632,
+"fear": 0.040764,
+"disgust": 0.12252,
+"anger": 0.116667
+}
+}
+],
+"entities": [
+{
+"type": "Organization",
+"text": "BJP",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.803996,
+"emotion": {
+"sadness": 0.364359,
+"joy": 0.170093,
+"fear": 0.108322,
+"disgust": 0.169153,
+"anger": 0.163556
+},
+"count": 2
+},
+{
+"type": "Location",
+"text": "Karnataka",
+"sentiment": {
+"score": 0.486697,
+"label": "positive"
+},
+"relevance": 0.468811,
+"emotion": {
+"sadness": 0.323111,
+"joy": 0.171811,
+"fear": 0.305832,
+"disgust": 0.190838,
+"anger": 0.13368
+},
+"disambiguation": {
+"subtype": [
+"StateOrCounty"
+]
+},
+"count": 1
+},
+{
+"type": "Location",
+"text": "Lingayats",
+"sentiment": {
+"score": -0.368649,
+"label": "negative"
+},
+"relevance": 0.466319,
+"emotion": {
+"sadness": 0.373836,
+"joy": 0.01783,
+"fear": 0.115589,
+"disgust": 0.139395,
+"anger": 0.177874
+},
+"disambiguation": {
+"subtype": [
+"City"
+]
+},
+"count": 1
+},
+{
+"type": "Location",
+"text": "DELHI",
+"sentiment": {
+"score": 0.474909,
+"label": "positive"
+},
+"relevance": 0.455059,
+"emotion": {
+"sadness": 0.115132,
+"joy": 0.596039,
+"fear": 0.084006,
+"disgust": 0.034674,
+"anger": 0.046922
+},
+"disambiguation": {
+"subtype": [
+"Country"
+]
+},
+"count": 1
+}
+],
+"concepts": [
+{
+"text": "Bharatiya Janata Party",
+"relevance": 0.943212,
+"dbpedia_resource": "http://dbpedia.org/resource/Bharatiya_Janata_Party"
+},
+{
+"text": "Delhi",
+"relevance": 0.911589,
+"dbpedia_resource": "http://dbpedia.org/resource/Delhi"
+},
+{
+"text": "B. S. Yeddyurappa",
+"relevance": 0.84133,
+"dbpedia_resource": "http://dbpedia.org/resource/B._S._Yeddyurappa"
+},
+{
+"text": "Minority group",
+"relevance": 0.838154,
+"dbpedia_resource": "http://dbpedia.org/resource/Minority_group"
+},
+{
+"text": "India",
+"relevance": 0.83332,
+"dbpedia_resource": "http://dbpedia.org/resource/India"
+}
+],
+"categories": [
+{
+"score": 0.365874,
+"label": "/law, govt and politics/government"
+},
+{
+"score": 0.263513,
+"label": "/law, govt and politics/politics/elections"
+},
+{
+"score": 0.172801,
+"label": "/law, govt and politics/politics/political parties"
+}
+]
+}
+}

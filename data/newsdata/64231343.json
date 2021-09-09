@@ -1,0 +1,1218 @@
+{
+"source_article_link": "https://timesofindia.indiatimes.com/india/hdk-says-he-will-become-chief-minister/articleshow/64231343.cms?&utm_source=Articleshow&utm_medium=Organic&utm_campaign=Related_Stories",
+"title": "HD Kumaraswamy says he will become chief minister",
+"date_published": "2018-05-19T10:35:17+05:30",
+"source_type": "news_article",
+"source_name": "timesofindia.indiatimes.com",
+"image_link": [
+"https://timesofindia.indiatimes.com/thumb/msid-64231368,imgsize-313759,width-400,resizemode-4/64231368.jpg"
+],
+"article_body": "HYDERABAD: JD(S) leader HD on Friday said he is \u201cextremely confident\u201d of becoming chief minister of , when asked what his chances were, just before he left Hyderabad for Bengaluru after meeting his MLAs. Kumaraswamy, who walked into the star hotel at in Hyderabad on Friday evening, held a strategy meeting with former chief minister and leader , and with party MLAs. Asked if he would be able to prove on the floor of the house that the JD(S) and Congress had the majority to form the government, Kumaraswamy emphatically said \u201cYes.\u201d The star hotel where the Congress MLAs were lodged virtually turned into a fortress with increased security cover. No restrictions were placed on the MLAs on making or receiving calls. Their movement in the hotel was not restricted either as they spent time in their rooms and in the lobby.",
+"description": "HYDERABAD: JD(S) leader HD on Friday said he is \u201cextremely confident\u201d of becoming chief minister of , when asked what his chances were, just before he left Hyderabad for Bengaluru after meeting his MLAs. Kumaraswamy, who walked into the star hotel at in Hyderabad on Friday evening, held a strategy meeting with former chief minister and",
+"time_scraped": "2018-08-24 09:01:29.872525",
+"article_id": "64231343",
+"article_category": "IndiaNews",
+"image_details": [
+{
+"url": "https://timesofindia.indiatimes.com/thumb/msid-64231368,imgsize-313759,width-400,resizemode-4/64231368.jpg",
+"path": "full/d9b090d0da5fab8e1fe438ee644c69772e6065a4.jpg",
+"checksum": "b2b4a00bd5bb9082c80467218dfcd1bd"
+}
+],
+"ibm_nlu": {
+"usage": {
+"text_units": 1,
+"text_characters": 825,
+"features": 7
+},
+"sentiment": {
+"document": {
+"score": 0.642785,
+"label": "positive"
+}
+},
+"semantic_roles": [
+{
+"subject": {
+"text": "HYDERABAD: JD(S) leader HD"
+},
+"sentence": "HYDERABAD: JD(S) leader HD on Friday said he is \u201cextremely confident\u201d of becoming chief minister of , when asked what his chances were, just before he left Hyderabad for Bengaluru after meeting his MLAs.",
+"object": {
+"text": "he is \u201cextremely confident\u201d of becoming chief minister of , when asked what his chances were, just before he left Hyderabad for Bengaluru after meeting his MLAs"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "he"
+},
+"sentence": "HYDERABAD: JD(S) leader HD on Friday said he is \u201cextremely confident\u201d of becoming chief minister of , when asked what his chances were, just before he left Hyderabad for Bengaluru after meeting his MLAs.",
+"action": {
+"verb": {
+"text": "be",
+"tense": "present"
+},
+"text": "is",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "he"
+},
+"sentence": "HYDERABAD: JD(S) leader HD on Friday said he is \u201cextremely confident\u201d of becoming chief minister of , when asked what his chances were, just before he left Hyderabad for Bengaluru after meeting his MLAs.",
+"object": {
+"text": "chief"
+},
+"action": {
+"verb": {
+"text": "become",
+"tense": "future"
+},
+"text": "becoming",
+"normalized": "become"
+}
+},
+{
+"subject": {
+"text": "his chances"
+},
+"sentence": "HYDERABAD: JD(S) leader HD on Friday said he is \u201cextremely confident\u201d of becoming chief minister of , when asked what his chances were, just before he left Hyderabad for Bengaluru after meeting his MLAs.",
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "were",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "he"
+},
+"sentence": "HYDERABAD: JD(S) leader HD on Friday said he is \u201cextremely confident\u201d of becoming chief minister of , when asked what his chances were, just before he left Hyderabad for Bengaluru after meeting his MLAs.",
+"object": {
+"text": "his MLAs"
+},
+"action": {
+"verb": {
+"text": "meet",
+"tense": "present"
+},
+"text": "meeting",
+"normalized": "meet"
+}
+},
+{
+"subject": {
+"text": "Kumaraswamy, who walked into the star hotel at in Hyderabad on Friday evening,"
+},
+"sentence": " Kumaraswamy, who walked into the star hotel at in Hyderabad on Friday evening, held a strategy meeting with former chief minister and leader , and with party MLAs.",
+"object": {
+"text": "a strategy meeting"
+},
+"action": {
+"verb": {
+"text": "hold",
+"tense": "past"
+},
+"text": "held",
+"normalized": "hold"
+}
+},
+{
+"subject": {
+"text": "the JD(S) and Congress"
+},
+"sentence": " Asked if he would be able to prove on the floor of the house that the JD(S) and Congress had the majority to form the government, Kumaraswamy emphatically said \u201cYes.\u201d The star hotel where the Congress MLAs were lodged virtually turned into a fortress with increased security cover.",
+"object": {
+"text": "the majority to form the government"
+},
+"action": {
+"verb": {
+"text": "have",
+"tense": "past"
+},
+"text": "had",
+"normalized": "have"
+}
+},
+{
+"subject": {
+"text": "Kumaraswamy"
+},
+"sentence": " Asked if he would be able to prove on the floor of the house that the JD(S) and Congress had the majority to form the government, Kumaraswamy emphatically said \u201cYes.\u201d The star hotel where the Congress MLAs were lodged virtually turned into a fortress with increased security cover.",
+"object": {
+"text": "Yes.\u201d The star hotel where the Congress MLAs were lodged virtually turned into a fortress with increased security cover"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "the Congress MLAs"
+},
+"sentence": " Asked if he would be able to prove on the floor of the house that the JD(S) and Congress had the majority to form the government, Kumaraswamy emphatically said \u201cYes.\u201d The star hotel where the Congress MLAs were lodged virtually turned into a fortress with increased security cover.",
+"object": {
+"text": "virtually turned into a fortress with increased security cover"
+},
+"action": {
+"verb": {
+"text": "lodge",
+"tense": "past"
+},
+"text": "lodged",
+"normalized": "lodge"
+}
+},
+{
+"subject": {
+"text": "No restrictions"
+},
+"sentence": " No restrictions were placed on the MLAs on making or receiving calls.",
+"object": {
+"text": "on the MLAs"
+},
+"action": {
+"verb": {
+"text": "place",
+"tense": "past"
+},
+"text": "were placed",
+"normalized": "be place"
+}
+},
+{
+"subject": {
+"text": "the MLAs"
+},
+"sentence": " No restrictions were placed on the MLAs on making or receiving calls.",
+"object": {
+"text": "calls"
+},
+"action": {
+"verb": {
+"text": "receive",
+"tense": "present"
+},
+"text": "receiving",
+"normalized": "receive"
+}
+},
+{
+"subject": {
+"text": "Their movement in the hotel"
+},
+"sentence": " Their movement in the hotel was not restricted either as they spent time in their rooms and in the lobby.",
+"object": {
+"text": "not restricted either"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "was",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "Their movement in the hotel"
+},
+"sentence": " Their movement in the hotel was not restricted either as they spent time in their rooms and in the lobby.",
+"action": {
+"verb": {
+"text": "restrict",
+"tense": "past",
+"negated": true
+},
+"text": "restricted",
+"normalized": "restrict"
+}
+},
+{
+"subject": {
+"text": "they"
+},
+"sentence": " Their movement in the hotel was not restricted either as they spent time in their rooms and in the lobby.",
+"object": {
+"text": "time"
+},
+"action": {
+"verb": {
+"text": "spend",
+"tense": "past"
+},
+"text": "spent",
+"normalized": "spend"
+}
+}
+],
+"relations": [
+{
+"type": "timeOf",
+"sentence": "HYDERABAD: JD(S) leader HD on Friday said he is \"extremely confident\" of becoming chief minister of , when asked what his chances were, just before he left Hyderabad for Bengaluru after meeting his MLAs.",
+"score": 0.925921,
+"arguments": [
+{
+"text": "Friday",
+"location": [
+30,
+36
+],
+"entities": [
+{
+"type": "Date",
+"text": "Friday"
+}
+]
+},
+{
+"text": "said",
+"location": [
+37,
+41
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "participantIn",
+"sentence": "Kumaraswamy, who walked into the star hotel at in Hyderabad on Friday evening, held a strategy meeting with former chief minister and leader , and with party MLAs.",
+"score": 0.697014,
+"arguments": [
+{
+"text": "Kumaraswamy",
+"location": [
+204,
+215
+],
+"entities": [
+{
+"type": "Person",
+"text": "Kumaraswamy emphatically"
+}
+]
+},
+{
+"text": "meeting",
+"location": [
+299,
+306
+],
+"entities": [
+{
+"type": "EventMeeting",
+"text": "meeting"
+}
+]
+}
+]
+},
+{
+"type": "managerOf",
+"sentence": "Kumaraswamy, who walked into the star hotel at in Hyderabad on Friday evening, held a strategy meeting with former chief minister and leader , and with party MLAs.",
+"score": 0.303633,
+"arguments": [
+{
+"text": "star",
+"location": [
+237,
+241
+],
+"entities": [
+{
+"type": "Person",
+"text": "Kumaraswamy emphatically"
+}
+]
+},
+{
+"text": "hotel",
+"location": [
+242,
+247
+],
+"entities": [
+{
+"type": "Organization",
+"text": "hotel",
+"disambiguation": {
+"subtype": [
+"Commercial"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "managerOf",
+"sentence": "\" The star hotel where the Congress MLAs were lodged virtually turned into a fortress with increased security cover.",
+"score": 0.386521,
+"arguments": [
+{
+"text": "star",
+"location": [
+539,
+543
+],
+"entities": [
+{
+"type": "Person",
+"text": "Kumaraswamy emphatically"
+}
+]
+},
+{
+"text": "hotel",
+"location": [
+544,
+549
+],
+"entities": [
+{
+"type": "Organization",
+"text": "hotel",
+"disambiguation": {
+"subtype": [
+"Commercial"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "Kumaraswamy, who walked into the star hotel at in Hyderabad on Friday evening, held a strategy meeting with former chief minister and leader , and with party MLAs.",
+"score": 0.850877,
+"arguments": [
+{
+"text": "hotel",
+"location": [
+242,
+247
+],
+"entities": [
+{
+"type": "Organization",
+"text": "hotel",
+"disambiguation": {
+"subtype": [
+"Commercial"
+]
+}
+}
+]
+},
+{
+"text": "Hyderabad",
+"location": [
+254,
+263
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Hyderabad"
+}
+]
+}
+]
+},
+{
+"type": "timeOf",
+"sentence": "Kumaraswamy, who walked into the star hotel at in Hyderabad on Friday evening, held a strategy meeting with former chief minister and leader , and with party MLAs.",
+"score": 0.569732,
+"arguments": [
+{
+"text": "Friday evening",
+"location": [
+267,
+281
+],
+"entities": [
+{
+"type": "Date",
+"text": "Friday evening"
+}
+]
+},
+{
+"text": "meeting",
+"location": [
+299,
+306
+],
+"entities": [
+{
+"type": "EventMeeting",
+"text": "meeting"
+}
+]
+}
+]
+},
+{
+"type": "participantIn",
+"sentence": "Kumaraswamy, who walked into the star hotel at in Hyderabad on Friday evening, held a strategy meeting with former chief minister and leader , and with party MLAs.",
+"score": 0.792938,
+"arguments": [
+{
+"text": "chief minister",
+"location": [
+319,
+333
+],
+"entities": [
+{
+"type": "Person",
+"text": "chief minister"
+}
+]
+},
+{
+"text": "meeting",
+"location": [
+299,
+306
+],
+"entities": [
+{
+"type": "EventMeeting",
+"text": "meeting"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "Asked if he would be able to prove on the floor of the house that the JD(S) and Congress had the majority to form the government, Kumaraswamy emphatically said \"Yes.",
+"score": 0.815577,
+"arguments": [
+{
+"text": "he",
+"location": [
+377,
+379
+],
+"entities": [
+{
+"type": "Person",
+"text": "leader"
+}
+]
+},
+{
+"text": "Asked",
+"location": [
+368,
+373
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "Asked"
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "Asked if he would be able to prove on the floor of the house that the JD(S) and Congress had the majority to form the government, Kumaraswamy emphatically said \"Yes.",
+"score": 0.614506,
+"arguments": [
+{
+"text": "majority",
+"location": [
+465,
+473
+],
+"entities": [
+{
+"type": "Person",
+"text": "majority"
+}
+]
+},
+{
+"text": "Congress",
+"location": [
+448,
+456
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Congress MLAs",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Asked if he would be able to prove on the floor of the house that the JD(S) and Congress had the majority to form the government, Kumaraswamy emphatically said \"Yes.",
+"score": 0.970899,
+"arguments": [
+{
+"text": "Kumaraswamy emphatically",
+"location": [
+498,
+522
+],
+"entities": [
+{
+"type": "Person",
+"text": "Kumaraswamy emphatically"
+}
+]
+},
+{
+"text": "said",
+"location": [
+523,
+527
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "\" The star hotel where the Congress MLAs were lodged virtually turned into a fortress with increased security cover.",
+"score": 0.27071,
+"arguments": [
+{
+"text": "star",
+"location": [
+539,
+543
+],
+"entities": [
+{
+"type": "Person",
+"text": "Kumaraswamy emphatically"
+}
+]
+},
+{
+"text": "where",
+"location": [
+550,
+555
+],
+"entities": [
+{
+"type": "Facility",
+"text": "where"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "\" The star hotel where the Congress MLAs were lodged virtually turned into a fortress with increased security cover.",
+"score": 0.542363,
+"arguments": [
+{
+"text": "hotel",
+"location": [
+544,
+549
+],
+"entities": [
+{
+"type": "Organization",
+"text": "hotel",
+"disambiguation": {
+"subtype": [
+"Commercial"
+]
+}
+}
+]
+},
+{
+"text": "where",
+"location": [
+550,
+555
+],
+"entities": [
+{
+"type": "Facility",
+"text": "where"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "HYDERABAD: JD(S) leader HD on Friday said he is \"extremely confident\" of becoming chief minister of , when asked what his chances were, just before he left Hyderabad for Bengaluru after meeting his MLAs.",
+"score": 0.520912,
+"arguments": [
+{
+"text": "he",
+"location": [
+42,
+44
+],
+"entities": [
+{
+"type": "Person",
+"text": "leader"
+}
+]
+},
+{
+"text": "said",
+"location": [
+37,
+41
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "Their movement in the hotel was not restricted either as they spent time in their rooms and in the lobby.",
+"score": 0.605457,
+"arguments": [
+{
+"text": "Their",
+"location": [
+720,
+725
+],
+"entities": [
+{
+"type": "Person",
+"text": "their"
+}
+]
+},
+{
+"text": "hotel",
+"location": [
+742,
+747
+],
+"entities": [
+{
+"type": "Organization",
+"text": "hotel",
+"disambiguation": {
+"subtype": [
+"Commercial"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "ownerOf",
+"sentence": "Their movement in the hotel was not restricted either as they spent time in their rooms and in the lobby.",
+"score": 0.47032,
+"arguments": [
+{
+"text": "their",
+"location": [
+796,
+801
+],
+"entities": [
+{
+"type": "Person",
+"text": "their"
+}
+]
+},
+{
+"text": "rooms",
+"location": [
+802,
+807
+],
+"entities": [
+{
+"type": "Facility",
+"text": "rooms"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "HYDERABAD: JD(S) leader HD on Friday said he is \"extremely confident\" of becoming chief minister of , when asked what his chances were, just before he left Hyderabad for Bengaluru after meeting his MLAs.",
+"score": 0.73812,
+"arguments": [
+{
+"text": "he",
+"location": [
+148,
+150
+],
+"entities": [
+{
+"type": "Person",
+"text": "leader"
+}
+]
+},
+{
+"text": "left",
+"location": [
+151,
+155
+],
+"entities": [
+{
+"type": "EventPersonnel",
+"text": "left"
+}
+]
+}
+]
+},
+{
+"type": "residesIn",
+"sentence": "HYDERABAD: JD(S) leader HD on Friday said he is \"extremely confident\" of becoming chief minister of , when asked what his chances were, just before he left Hyderabad for Bengaluru after meeting his MLAs.",
+"score": 0.578011,
+"arguments": [
+{
+"text": "he",
+"location": [
+148,
+150
+],
+"entities": [
+{
+"type": "Person",
+"text": "leader"
+}
+]
+},
+{
+"text": "Hyderabad",
+"location": [
+156,
+165
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Hyderabad"
+}
+]
+}
+]
+},
+{
+"type": "before",
+"sentence": "HYDERABAD: JD(S) leader HD on Friday said he is \"extremely confident\" of becoming chief minister of , when asked what his chances were, just before he left Hyderabad for Bengaluru after meeting his MLAs.",
+"score": 0.266712,
+"arguments": [
+{
+"text": "meeting",
+"location": [
+186,
+193
+],
+"entities": [
+{
+"type": "EventMeeting",
+"text": "meeting"
+}
+]
+},
+{
+"text": "left",
+"location": [
+151,
+155
+],
+"entities": [
+{
+"type": "EventPersonnel",
+"text": "left"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "HYDERABAD: JD(S) leader HD on Friday said he is \"extremely confident\" of becoming chief minister of , when asked what his chances were, just before he left Hyderabad for Bengaluru after meeting his MLAs.",
+"score": 0.723151,
+"arguments": [
+{
+"text": "Hyderabad",
+"location": [
+156,
+165
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Hyderabad"
+}
+]
+},
+{
+"text": "Bengaluru",
+"location": [
+170,
+179
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Bengaluru"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "HYDERABAD: JD(S) leader HD on Friday said he is \"extremely confident\" of becoming chief minister of , when asked what his chances were, just before he left Hyderabad for Bengaluru after meeting his MLAs.",
+"score": 0.561187,
+"arguments": [
+{
+"text": "meeting",
+"location": [
+186,
+193
+],
+"entities": [
+{
+"type": "EventMeeting",
+"text": "meeting"
+}
+]
+},
+{
+"text": "Hyderabad",
+"location": [
+156,
+165
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Hyderabad"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "HYDERABAD: JD(S) leader HD on Friday said he is \"extremely confident\" of becoming chief minister of , when asked what his chances were, just before he left Hyderabad for Bengaluru after meeting his MLAs.",
+"score": 0.493578,
+"arguments": [
+{
+"text": "meeting",
+"location": [
+186,
+193
+],
+"entities": [
+{
+"type": "EventMeeting",
+"text": "meeting"
+}
+]
+},
+{
+"text": "Bengaluru",
+"location": [
+170,
+179
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Bengaluru"
+}
+]
+}
+]
+},
+{
+"type": "participantIn",
+"sentence": "HYDERABAD: JD(S) leader HD on Friday said he is \"extremely confident\" of becoming chief minister of , when asked what his chances were, just before he left Hyderabad for Bengaluru after meeting his MLAs.",
+"score": 0.549424,
+"arguments": [
+{
+"text": "his",
+"location": [
+194,
+197
+],
+"entities": [
+{
+"type": "Person",
+"text": "leader"
+}
+]
+},
+{
+"text": "meeting",
+"location": [
+186,
+193
+],
+"entities": [
+{
+"type": "EventMeeting",
+"text": "meeting"
+}
+]
+}
+]
+}
+],
+"language": "en",
+"keywords": [
+{
+"text": "chief minister",
+"sentiment": {
+"score": 0.543769,
+"label": "positive"
+},
+"relevance": 0.914769,
+"emotion": {
+"sadness": 0.483192,
+"joy": 0.170535,
+"fear": 0.282205,
+"disgust": 0.108765,
+"anger": 0.08813
+}
+},
+{
+"text": "MLAs",
+"sentiment": {
+"score": 0.215271,
+"label": "positive"
+},
+"relevance": 0.889902,
+"emotion": {
+"sadness": 0.128365,
+"joy": 0.579085,
+"fear": 0.032012,
+"disgust": 0.189326,
+"anger": 0.118288
+}
+},
+{
+"text": "party MLAs",
+"sentiment": {
+"score": 0.444703,
+"label": "positive"
+},
+"relevance": 0.826895,
+"emotion": {
+"sadness": 0.073174,
+"joy": 0.722049,
+"fear": 0.078466,
+"disgust": 0.064788,
+"anger": 0.045021
+}
+},
+{
+"text": "Congress MLAs",
+"sentiment": {
+"score": -0.229431,
+"label": "negative"
+},
+"relevance": 0.812602,
+"emotion": {
+"sadness": 0.143127,
+"joy": 0.259564,
+"fear": 0.158344,
+"disgust": 0.380815,
+"anger": 0.099576
+}
+},
+{
+"text": "star hotel",
+"sentiment": {
+"score": -0.229431,
+"label": "negative"
+},
+"relevance": 0.77584,
+"emotion": {
+"sadness": 0.076616,
+"joy": 0.577695,
+"fear": 0.106249,
+"disgust": 0.233142,
+"anger": 0.048339
+}
+}
+],
+"entities": [
+{
+"type": "Location",
+"text": "HYDERABAD",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.795206,
+"emotion": {
+"sadness": 0.096614,
+"joy": 0.759797,
+"fear": 0.029435,
+"disgust": 0.049901,
+"anger": 0.089769
+},
+"disambiguation": {
+"subtype": [
+"City"
+]
+},
+"count": 3
+},
+{
+"type": "Organization",
+"text": "Congress",
+"sentiment": {
+"score": -0.229431,
+"label": "negative"
+},
+"relevance": 0.410764,
+"emotion": {
+"sadness": 0.140469,
+"joy": 0.191096,
+"fear": 0.077515,
+"disgust": 0.461978,
+"anger": 0.106775
+},
+"count": 2
+},
+{
+"type": "Location",
+"text": "Bengaluru",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.373374,
+"emotion": {
+"sadness": 0.456382,
+"joy": 0.306466,
+"fear": 0.061675,
+"disgust": 0.032396,
+"anger": 0.177621
+},
+"disambiguation": {
+"subtype": [
+"AdministrativeDivision",
+"IndianCity",
+"City"
+],
+"name": "Bangalore",
+"dbpedia_resource": "http://dbpedia.org/resource/Bangalore"
+},
+"count": 1
+},
+{
+"type": "Person",
+"text": "Kumaraswamy",
+"sentiment": {
+"score": 0.361072,
+"label": "positive"
+},
+"relevance": 0.363307,
+"emotion": {
+"sadness": 0.544268,
+"joy": 0.133437,
+"fear": 0.131842,
+"disgust": 0.190605,
+"anger": 0.174079
+},
+"count": 2
+}
+],
+"concepts": [
+{
+"text": "Hotel",
+"relevance": 0.989651,
+"dbpedia_resource": "http://dbpedia.org/resource/Hotel"
+},
+{
+"text": "Lodging",
+"relevance": 0.590515,
+"dbpedia_resource": "http://dbpedia.org/resource/Lodging"
+},
+{
+"text": "United States Congress",
+"relevance": 0.567359,
+"dbpedia_resource": "http://dbpedia.org/resource/United_States_Congress"
+}
+],
+"categories": [
+{
+"score": 0.460637,
+"label": "/law, govt and politics/politics/elections"
+},
+{
+"score": 0.40443,
+"label": "/law, govt and politics/government/legislative"
+},
+{
+"score": 0.400378,
+"label": "/travel/tourist facilities/hotel"
+}
+]
+}
+}

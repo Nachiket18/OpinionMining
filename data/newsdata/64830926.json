@@ -1,0 +1,1091 @@
+{
+"source_article_link": "https://timesofindia.indiatimes.com/india/oxytocin-ban-put-on-hold-till-september/articleshow/64830926.cms?&utm_source=Articleshow&utm_medium=Organic&utm_campaign=Related_Stories",
+"title": "Oxytocin ban put on hold till September",
+"date_published": "2018-07-02T20:26:17+05:30",
+"source_type": "news_article",
+"source_name": "timesofindia.indiatimes.com",
+"image_link": [],
+"article_body": "NEW DELHI: The government has to put on hold by two months its decision to restrict the manufacturing and supply of only through the Antibiotics and Pharmaceuticals Ltd (KAPL). The move comes in the wake of anticipation that the restriction may result in shortage of the drug used widely for maternity during childbirth. The government had imposed a ban on manufacturing and sale of the drug except for PSU Karnataka Antibiotic from July 1 to prevent its misuse in diary. However, the ministry decided to reconsider the decision following concerns that the PSU may not have enough capacity to cater to the demand across the country. Moreover, since the ban also included retail sale in open market, it looked like a humongous task for KAPL to distribute the drug in remote areas of the country. \u201cThe demand for the medicine is very high and since it is used during childbirth, it is needed in remotest of areas. Therefore, distribution of the medicine through KAPL is a challenge,\u201d an official said. Sources said health ministry may also reconsider to restructure the implementation of the restriction on sale the drug. The two-month relaxation will be used by the ministry for deliberations with states for the smooth implementation of its decision. Oxytocin is a naturally-occurring hormone that causes uterine contractions during labour and helps new mothers lactate. It is a powerful hormone that acts as a neurotransmitter in the brain and regulates social interaction. Oxytocin is the recommended first-choice uterotonic drug for the prevention of postpartum haemorrhage (PPH), a leading cause of maternal mortality in caesarean sections. The drug is widely misused in the dairy industry where livestock is injected with oxytocin to make them release milk at a time convenient to farmers. The hormone is also used to increase the size of vegetables such as pumpkins, watermelons, brinjals, gourds and cucumbers. The restriction was proposed with an idea to stop this misuse. The drug is so much in demand that many small time pharma units illegally make it. In fact, the drug regulator has recently seized consignments along with illegally imported raw material of the drug from China. The regulator said such inspections and raid on illegal manufacturing will continue.",
+"description": "NEW DELHI: The government has to put on hold by two months its decision to restrict the manufacturing and supply of only through the Antibiotics and Pharmaceuticals Ltd (KAPL). The move comes in the wake of anticipation that the restriction may result in shortage of the drug used widely for maternity during childbirth. The government had imposed a ban on manufacturing and sale of the drug except for PSU Karnataka Antibiotic from July 1 to prevent its misuse in diary. However, the ministry decided to reconsider the decision following concerns that the PSU may not have enough capacity to cater to the demand across the country. Moreover, since the ban also included retail sale in open market, it looked like a humongous task for KAPL to distribute the drug in remote areas of the country.",
+"time_scraped": "2018-08-23 06:01:32.630819",
+"article_id": "64830926",
+"article_category": "IndiaNews",
+"image_details": [],
+"ibm_nlu": {
+"usage": {
+"text_units": 1,
+"text_characters": 2276,
+"features": 7
+},
+"sentiment": {
+"document": {
+"score": -0.340863,
+"label": "negative"
+}
+},
+"semantic_roles": [
+{
+"subject": {
+"text": "The government"
+},
+"sentence": "NEW DELHI: The government has to put on hold by two months its decision to restrict the manufacturing and supply of only through the Antibiotics and Pharmaceuticals Ltd (KAPL).",
+"action": {
+"verb": {
+"text": "put",
+"tense": "future"
+},
+"text": "has to put",
+"normalized": "have to put"
+}
+},
+{
+"subject": {
+"text": "The government"
+},
+"sentence": "NEW DELHI: The government has to put on hold by two months its decision to restrict the manufacturing and supply of only through the Antibiotics and Pharmaceuticals Ltd (KAPL).",
+"object": {
+"text": "the manufacturing and supply of only through the Antibiotics and Pharmaceuticals Ltd (KAPL)"
+},
+"action": {
+"verb": {
+"text": "restrict",
+"tense": "future"
+},
+"text": "to restrict",
+"normalized": "to restrict"
+}
+},
+{
+"subject": {
+"text": "The move"
+},
+"sentence": " The move comes in the wake of anticipation that the restriction may result in shortage of the drug used widely for maternity during childbirth.",
+"action": {
+"verb": {
+"text": "come",
+"tense": "present"
+},
+"text": "comes",
+"normalized": "come"
+}
+},
+{
+"subject": {
+"text": "the restriction"
+},
+"sentence": " The move comes in the wake of anticipation that the restriction may result in shortage of the drug used widely for maternity during childbirth.",
+"object": {
+"text": "in shortage of the drug used widely for maternity during childbirth"
+},
+"action": {
+"verb": {
+"text": "result",
+"tense": "future"
+},
+"text": "may result",
+"normalized": "may result"
+}
+},
+{
+"subject": {
+"text": "The government"
+},
+"sentence": " The government had imposed a ban on manufacturing and sale of the drug except for PSU Karnataka Antibiotic from July 1 to prevent its misuse in diary.",
+"object": {
+"text": "imposed a ban on manufacturing and sale of the drug"
+},
+"action": {
+"verb": {
+"text": "have",
+"tense": "past"
+},
+"text": "had",
+"normalized": "have"
+}
+},
+{
+"subject": {
+"text": "The government"
+},
+"sentence": " The government had imposed a ban on manufacturing and sale of the drug except for PSU Karnataka Antibiotic from July 1 to prevent its misuse in diary.",
+"object": {
+"text": "a ban on manufacturing and sale of the drug"
+},
+"action": {
+"verb": {
+"text": "impose",
+"tense": "past"
+},
+"text": "had imposed",
+"normalized": "have impose"
+}
+},
+{
+"subject": {
+"text": "The government"
+},
+"sentence": " The government had imposed a ban on manufacturing and sale of the drug except for PSU Karnataka Antibiotic from July 1 to prevent its misuse in diary.",
+"object": {
+"text": "its misuse in diary"
+},
+"action": {
+"verb": {
+"text": "prevent",
+"tense": "future"
+},
+"text": "to prevent",
+"normalized": "to prevent"
+}
+},
+{
+"subject": {
+"text": "the ministry"
+},
+"sentence": " However, the ministry decided to reconsider the decision following concerns that the PSU may not have enough capacity to cater to the demand across the country.",
+"object": {
+"text": "to reconsider the decision following concerns that the PSU may not have enough capacity to cater to the demand across the country"
+},
+"action": {
+"verb": {
+"text": "decide",
+"tense": "past"
+},
+"text": "decided",
+"normalized": "decide"
+}
+},
+{
+"subject": {
+"text": "the ministry"
+},
+"sentence": " However, the ministry decided to reconsider the decision following concerns that the PSU may not have enough capacity to cater to the demand across the country.",
+"object": {
+"text": "the decision following concerns that the PSU may not have enough capacity to cater to the demand across the country"
+},
+"action": {
+"verb": {
+"text": "reconsider",
+"tense": "future"
+},
+"text": "decided to reconsider",
+"normalized": "decide to reconsider"
+}
+},
+{
+"subject": {
+"text": "the PSU"
+},
+"sentence": " However, the ministry decided to reconsider the decision following concerns that the PSU may not have enough capacity to cater to the demand across the country.",
+"object": {
+"text": "enough capacity to cater to the demand across the country"
+},
+"action": {
+"verb": {
+"text": "have",
+"tense": "future",
+"negated": true
+},
+"text": "have",
+"normalized": "have"
+}
+},
+{
+"subject": {
+"text": "retail sale in open market"
+},
+"sentence": " Moreover, since the ban also included retail sale in open market, it looked like a humongous task for KAPL to distribute the drug in remote areas of the country.",
+"object": {
+"text": "the ban"
+},
+"action": {
+"verb": {
+"text": "include",
+"tense": "past"
+},
+"text": "included",
+"normalized": "include"
+}
+},
+{
+"subject": {
+"text": "it"
+},
+"sentence": " Moreover, since the ban also included retail sale in open market, it looked like a humongous task for KAPL to distribute the drug in remote areas of the country.",
+"object": {
+"text": "like a humongous task for KAPL to distribute the drug in remote areas of the country"
+},
+"action": {
+"verb": {
+"text": "look",
+"tense": "past"
+},
+"text": "looked",
+"normalized": "look"
+}
+},
+{
+"subject": {
+"text": "The demand for the medicine"
+},
+"sentence": " \u201cThe demand for the medicine is very high and since it is used during childbirth, it is needed in remotest of areas.",
+"object": {
+"text": "very high"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "present"
+},
+"text": "is",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "it"
+},
+"sentence": " \u201cThe demand for the medicine is very high and since it is used during childbirth, it is needed in remotest of areas.",
+"action": {
+"verb": {
+"text": "use",
+"tense": "past"
+},
+"text": "is used",
+"normalized": "be use"
+}
+},
+{
+"subject": {
+"text": "it"
+},
+"sentence": " \u201cThe demand for the medicine is very high and since it is used during childbirth, it is needed in remotest of areas.",
+"object": {
+"text": "needed in remotest of areas"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "present"
+},
+"text": "is",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "it"
+},
+"sentence": " \u201cThe demand for the medicine is very high and since it is used during childbirth, it is needed in remotest of areas.",
+"action": {
+"verb": {
+"text": "need",
+"tense": "past"
+},
+"text": "is needed",
+"normalized": "be need"
+}
+},
+{
+"subject": {
+"text": "distribution of the medicine through KAPL"
+},
+"sentence": " Therefore, distribution of the medicine through KAPL is a challenge,\u201d an official said.",
+"object": {
+"text": "a challenge"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "present"
+},
+"text": "is",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "an official"
+},
+"sentence": " Therefore, distribution of the medicine through KAPL is a challenge,\u201d an official said.",
+"object": {
+"text": "Therefore, distribution of the medicine through KAPL is a challenge"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "Sources"
+},
+"sentence": " Sources said health ministry may also reconsider to restructure the implementation of the restriction on sale the drug.",
+"object": {
+"text": "health ministry may also reconsider to restructure the implementation of the restriction on sale the drug"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "by the ministry for deliberations"
+},
+"sentence": " The two-month relaxation will be used by the ministry for deliberations with states for the smooth implementation of its decision.",
+"object": {
+"text": "The two-month relaxation"
+},
+"action": {
+"verb": {
+"text": "use",
+"tense": "future"
+},
+"text": "will be used",
+"normalized": "will be use"
+}
+},
+{
+"subject": {
+"text": "Oxytocin"
+},
+"sentence": " Oxytocin is a naturally-occurring hormone that causes uterine contractions during labour and helps new mothers lactate.",
+"object": {
+"text": "a naturally-occurring hormone"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "present"
+},
+"text": "is",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "a naturally-occurring hormone"
+},
+"sentence": " Oxytocin is a naturally-occurring hormone that causes uterine contractions during labour and helps new mothers lactate.",
+"object": {
+"text": "uterine contractions"
+},
+"action": {
+"verb": {
+"text": "cause",
+"tense": "present"
+},
+"text": "causes",
+"normalized": "cause"
+}
+},
+{
+"subject": {
+"text": "a naturally-occurring hormone"
+},
+"sentence": " Oxytocin is a naturally-occurring hormone that causes uterine contractions during labour and helps new mothers lactate.",
+"object": {
+"text": "new mothers lactate"
+},
+"action": {
+"verb": {
+"text": "help",
+"tense": "present"
+},
+"text": "helps",
+"normalized": "help"
+}
+},
+{
+"subject": {
+"text": "It"
+},
+"sentence": " It is a powerful hormone that acts as a neurotransmitter in the brain and regulates social interaction.",
+"object": {
+"text": "a powerful hormone that acts"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "present"
+},
+"text": "is",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "a powerful hormone"
+},
+"sentence": " It is a powerful hormone that acts as a neurotransmitter in the brain and regulates social interaction.",
+"object": {
+"text": "as a neurotransmitter"
+},
+"action": {
+"verb": {
+"text": "act",
+"tense": "present"
+},
+"text": "acts",
+"normalized": "act"
+}
+},
+{
+"subject": {
+"text": "a powerful hormone"
+},
+"sentence": " It is a powerful hormone that acts as a neurotransmitter in the brain and regulates social interaction.",
+"object": {
+"text": "social interaction"
+},
+"action": {
+"verb": {
+"text": "regulate",
+"tense": "present"
+},
+"text": "regulates",
+"normalized": "regulate"
+}
+},
+{
+"subject": {
+"text": "Oxytocin"
+},
+"sentence": " Oxytocin is the recommended first-choice uterotonic drug for the prevention of postpartum haemorrhage (PPH), a leading cause of maternal mortality in caesarean sections.",
+"object": {
+"text": "the recommended first-choice uterotonic drug"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "present"
+},
+"text": "is",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "The drug"
+},
+"sentence": " The drug is widely misused in the dairy industry where livestock is injected with oxytocin to make them release milk at a time convenient to farmers.",
+"object": {
+"text": "widely misused"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "present"
+},
+"text": "is",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "The drug"
+},
+"sentence": " The drug is widely misused in the dairy industry where livestock is injected with oxytocin to make them release milk at a time convenient to farmers.",
+"action": {
+"verb": {
+"text": "misuse",
+"tense": "past"
+},
+"text": "misused",
+"normalized": "misuse"
+}
+},
+{
+"subject": {
+"text": "livestock"
+},
+"sentence": " The drug is widely misused in the dairy industry where livestock is injected with oxytocin to make them release milk at a time convenient to farmers.",
+"object": {
+"text": "injected with oxytocin"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "present"
+},
+"text": "is",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "livestock"
+},
+"sentence": " The drug is widely misused in the dairy industry where livestock is injected with oxytocin to make them release milk at a time convenient to farmers.",
+"object": {
+"text": "with oxytocin"
+},
+"action": {
+"verb": {
+"text": "inject",
+"tense": "past"
+},
+"text": "is injected",
+"normalized": "be inject"
+}
+},
+{
+"subject": {
+"text": "oxytocin"
+},
+"sentence": " The drug is widely misused in the dairy industry where livestock is injected with oxytocin to make them release milk at a time convenient to farmers.",
+"object": {
+"text": "them"
+},
+"action": {
+"verb": {
+"text": "make",
+"tense": "future"
+},
+"text": "to make",
+"normalized": "to make"
+}
+},
+{
+"subject": {
+"text": "them"
+},
+"sentence": " The drug is widely misused in the dairy industry where livestock is injected with oxytocin to make them release milk at a time convenient to farmers.",
+"object": {
+"text": "milk"
+},
+"action": {
+"verb": {
+"text": "release",
+"tense": "present"
+},
+"text": "release",
+"normalized": "release"
+}
+},
+{
+"subject": {
+"text": "The hormone"
+},
+"sentence": " The hormone is also used to increase the size of vegetables such as pumpkins, watermelons, brinjals, gourds and cucumbers.",
+"object": {
+"text": "to increase the size of vegetables such as pumpkins, watermelons, brinjals, gourds and cucumbers"
+},
+"action": {
+"verb": {
+"text": "use",
+"tense": "past"
+},
+"text": "is also used",
+"normalized": "be also use"
+}
+},
+{
+"subject": {
+"text": "The hormone"
+},
+"sentence": " The hormone is also used to increase the size of vegetables such as pumpkins, watermelons, brinjals, gourds and cucumbers.",
+"object": {
+"text": "the size of vegetables such as pumpkins, watermelons, brinjals, gourds and cucumbers"
+},
+"action": {
+"verb": {
+"text": "increase",
+"tense": "future"
+},
+"text": "to increase",
+"normalized": "to increase"
+}
+},
+{
+"subject": {
+"text": "The drug"
+},
+"sentence": " The drug is so much in demand that many small time pharma units illegally make it.",
+"object": {
+"text": "so much"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "present"
+},
+"text": "is",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "many small time pharma units"
+},
+"sentence": " The drug is so much in demand that many small time pharma units illegally make it.",
+"object": {
+"text": "it"
+},
+"action": {
+"verb": {
+"text": "make",
+"tense": "present"
+},
+"text": "make",
+"normalized": "make"
+}
+},
+{
+"subject": {
+"text": "the drug regulator"
+},
+"sentence": " In fact, the drug regulator has recently seized consignments along with illegally imported raw material of the drug from China.",
+"object": {
+"text": "recently seized consignments along with illegally imported raw material of the drug from China"
+},
+"action": {
+"verb": {
+"text": "have",
+"tense": "present"
+},
+"text": "has",
+"normalized": "have"
+}
+},
+{
+"subject": {
+"text": "the drug regulator"
+},
+"sentence": " In fact, the drug regulator has recently seized consignments along with illegally imported raw material of the drug from China.",
+"object": {
+"text": "consignments"
+},
+"action": {
+"verb": {
+"text": "seize",
+"tense": "past"
+},
+"text": "seized",
+"normalized": "seize"
+}
+},
+{
+"subject": {
+"text": "The regulator"
+},
+"sentence": " The regulator said such inspections and raid on illegal manufacturing will continue.",
+"object": {
+"text": "such inspections and raid on illegal manufacturing will continue"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+}
+],
+"relations": [
+{
+"type": "locatedAt",
+"sentence": "NEW DELHI: The government has to put on hold by two months its decision to restrict the manufacturing and supply of only through the Antibiotics and Pharmaceuticals Ltd (KAPL).",
+"score": 0.425239,
+"arguments": [
+{
+"text": "government",
+"location": [
+15,
+25
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "government",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+},
+{
+"text": "NEW DELHI",
+"location": [
+0,
+9
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "NEW DELHI"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Therefore, distribution of the medicine through KAPL is a challenge,\" an official said.",
+"score": 0.981767,
+"arguments": [
+{
+"text": "official",
+"location": [
+985,
+993
+],
+"entities": [
+{
+"type": "Person",
+"text": "official"
+}
+]
+},
+{
+"text": "said",
+"location": [
+994,
+998
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Sources said health ministry may also reconsider to restructure the implementation of the restriction on sale the drug.",
+"score": 0.973708,
+"arguments": [
+{
+"text": "Sources",
+"location": [
+1000,
+1007
+],
+"entities": [
+{
+"type": "Person",
+"text": "Sources"
+}
+]
+},
+{
+"text": "said",
+"location": [
+1008,
+1012
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "In fact, the drug regulator has recently seized consignments along with illegally imported raw material of the drug from China.",
+"score": 0.542306,
+"arguments": [
+{
+"text": "drug",
+"location": [
+2077,
+2081
+],
+"entities": [
+{
+"type": "Substance",
+"text": "Antibiotics"
+}
+]
+},
+{
+"text": "regulator",
+"location": [
+2082,
+2091
+],
+"entities": [
+{
+"type": "Facility",
+"text": "regulator"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "In fact, the drug regulator has recently seized consignments along with illegally imported raw material of the drug from China.",
+"score": 0.937807,
+"arguments": [
+{
+"text": "drug",
+"location": [
+2175,
+2179
+],
+"entities": [
+{
+"type": "Substance",
+"text": "Antibiotics"
+}
+]
+},
+{
+"text": "China",
+"location": [
+2185,
+2190
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "China",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "The regulator said such inspections and raid on illegal manufacturing will continue.",
+"score": 0.43065,
+"arguments": [
+{
+"text": "regulator",
+"location": [
+2196,
+2205
+],
+"entities": [
+{
+"type": "Facility",
+"text": "regulator"
+}
+]
+},
+{
+"text": "raid",
+"location": [
+2232,
+2236
+],
+"entities": [
+{
+"type": "EventViolence",
+"text": "raid"
+}
+]
+}
+]
+}
+],
+"language": "en",
+"keywords": [
+{
+"text": "PSU Karnataka Antibiotic",
+"sentiment": {
+"score": -0.771683,
+"label": "negative"
+},
+"relevance": 0.912382,
+"emotion": {
+"sadness": 0.42485,
+"joy": 0.013468,
+"fear": 0.353838,
+"disgust": 0.082497,
+"anger": 0.391099
+}
+},
+{
+"text": "first-choice uterotonic drug",
+"sentiment": {
+"score": -0.372783,
+"label": "negative"
+},
+"relevance": 0.857586,
+"emotion": {
+"sadness": 0.545115,
+"joy": 0.179929,
+"fear": 0.044489,
+"disgust": 0.056001,
+"anger": 0.052055
+}
+},
+{
+"text": "small time pharma",
+"sentiment": {
+"score": -0.745764,
+"label": "negative"
+},
+"relevance": 0.794939,
+"emotion": {
+"sadness": 0.389055,
+"joy": 0.156003,
+"fear": 0.103873,
+"disgust": 0.042583,
+"anger": 0.098834
+}
+},
+{
+"text": "naturally-occurring hormone",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.683734,
+"emotion": {
+"sadness": 0.376644,
+"joy": 0.147137,
+"fear": 0.315458,
+"disgust": 0.157082,
+"anger": 0.09053
+}
+}
+],
+"entities": [
+{
+"type": "Company",
+"text": "KAPL",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.876904,
+"emotion": {
+"sadness": 0.188244,
+"joy": 0.063273,
+"fear": 0.136795,
+"disgust": 0.064345,
+"anger": 0.065236
+},
+"count": 2
+},
+{
+"type": "Organization",
+"text": "KAPL",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.802639,
+"emotion": {
+"sadness": 0.188244,
+"joy": 0.063273,
+"fear": 0.136795,
+"disgust": 0.064345,
+"anger": 0.065236
+},
+"disambiguation": {
+"subtype": [
+"RadioStation"
+],
+"name": "KAPL",
+"dbpedia_resource": "http://dbpedia.org/resource/KAPL"
+},
+"count": 1
+},
+{
+"type": "Drug",
+"text": "Oxytocin",
+"sentiment": {
+"score": -0.372783,
+"label": "negative"
+},
+"relevance": 0.687304,
+"emotion": {
+"sadness": 0.707808,
+"joy": 0.13339,
+"fear": 0.088552,
+"disgust": 0.080356,
+"anger": 0.077125
+},
+"count": 5
+},
+{
+"type": "Location",
+"text": "DELHI",
+"sentiment": {
+"score": 0.215896,
+"label": "positive"
+},
+"relevance": 0.498813,
+"emotion": {
+"sadness": 0.115132,
+"joy": 0.596039,
+"fear": 0.084006,
+"disgust": 0.034674,
+"anger": 0.046922
+},
+"disambiguation": {
+"subtype": [
+"Country"
+]
+},
+"count": 1
+}
+],
+"concepts": [
+{
+"text": "Childbirth",
+"relevance": 0.974561,
+"dbpedia_resource": "http://dbpedia.org/resource/Childbirth"
+},
+{
+"text": "Obstetrics",
+"relevance": 0.910835,
+"dbpedia_resource": "http://dbpedia.org/resource/Obstetrics"
+},
+{
+"text": "Pharmacology",
+"relevance": 0.546459,
+"dbpedia_resource": "http://dbpedia.org/resource/Pharmacology"
+},
+{
+"text": "Retailing",
+"relevance": 0.52857,
+"dbpedia_resource": "http://dbpedia.org/resource/Retailing"
+},
+{
+"text": "Caesarean section",
+"relevance": 0.503346,
+"dbpedia_resource": "http://dbpedia.org/resource/Caesarean_section"
+}
+],
+"categories": [
+{
+"score": 0.493572,
+"label": "/science/medicine"
+},
+{
+"score": 0.48104,
+"label": "/food and drink/food/fruits and vegetables"
+},
+{
+"score": 0.375705,
+"label": "/shopping/auctions"
+}
+]
+}
+}

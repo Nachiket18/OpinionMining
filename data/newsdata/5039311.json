@@ -1,0 +1,1151 @@
+{
+"source_article_link": "https://www.firstpost.com/india/powerful-7-1-magnitude-earthquake-hits-peru-brazil-border-no-initial-reports-of-casualties-say-officials-5039311.html",
+"title": "Powerful 7.1-magnitude earthquake hits Peru-Brazil border; no initial reports of casualties, say officials",
+"date_published": "2018-08-24T20:13:03+05:30",
+"source_type": "news_article",
+"source_name": "FirstPost",
+"image_link": [],
+"article_body": "Lima (Peru): A powerful 7.1 magnitude earthquake struck Peru's border with Brazil on Friday, the US Geological Survey said, but national authorities said there were no initial reports of casualties or damage in the sparsely-populated region. \"So far, no damage or victims have been reported and monitoring continues,\"said Peru's National Institute of Civil Defense (INDECI). The US agency said the quake hit at a depth of 609 kilometres on Peru's eastern frontier with Brazil. Jorge Chavez, the civil defense chief, said the depth of the quake had caused its force to dissipate, blunting its impact on the surface.\"The depth has made it so there is no surface damage,\" he said on RPP radio. The earthquake hit shortly after 0900 GMT, about 140 kilometers west of the Peruvian town of Iberia, the USGS said.",
+"description": "Lima (Peru): A powerful 7.1 magnitude earthquake struck Peru's border with Brazil on Friday, the US Geological Survey said, but national authorities said there were no initial reports of casualties or damage in the sparsely-populated region. \"So far, no damage or victims have been reported and monitoring continues,\"said Peru's National Institute of Civil Defense (INDECI). The US agency said the quake hit at a depth of 609 kilometres on Peru's eastern frontier with Brazil. Jorge Chavez, the civil defense chief, said the depth of the quake had caused its force to dissipate, blunting its impact on the surface.\"The depth has made it so there is no surface damage,\" he said on RPP radio.",
+"time_scraped": "2018-08-24 21:04:28.532730",
+"article_id": "5039311",
+"article_category": "India",
+"image_details": [],
+"ibm_nlu": {
+"usage": {
+"text_units": 1,
+"text_characters": 806,
+"features": 7
+},
+"sentiment": {
+"document": {
+"score": -0.592213,
+"label": "negative"
+}
+},
+"semantic_roles": [
+{
+"subject": {
+"text": "the US Geological Survey"
+},
+"sentence": "Lima (Peru): A powerful 7.1 magnitude earthquake struck Peru's border with Brazil on Friday, the US Geological Survey said, but national authorities said there were no initial reports of casualties or damage in the sparsely-populated region.",
+"object": {
+"text": "A powerful 7.1 magnitude earthquake struck Peru's border with Brazil on Friday"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "national authorities"
+},
+"sentence": "Lima (Peru): A powerful 7.1 magnitude earthquake struck Peru's border with Brazil on Friday, the US Geological Survey said, but national authorities said there were no initial reports of casualties or damage in the sparsely-populated region.",
+"object": {
+"text": "there were no initial reports of casualties or damage in the sparsely-populated region"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "no damage or victims"
+},
+"sentence": " \"So far, no damage or victims have been reported and monitoring continues,\"said Peru's National Institute of Civil Defense (INDECI).",
+"action": {
+"verb": {
+"text": "report",
+"tense": "past"
+},
+"text": "have been reported",
+"normalized": "have be report"
+}
+},
+{
+"subject": {
+"text": "Peru's National Institute of Civil Defense (INDECI)"
+},
+"sentence": " \"So far, no damage or victims have been reported and monitoring continues,\"said Peru's National Institute of Civil Defense (INDECI).",
+"object": {
+"text": "So far, no damage or victims have been reported and monitoring continues"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "The US agency"
+},
+"sentence": " The US agency said the quake hit at a depth of 609 kilometres on Peru's eastern frontier with Brazil.",
+"object": {
+"text": "the quake hit at a depth of 609 kilometres on Peru's eastern frontier with Brazil"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "the quake"
+},
+"sentence": " The US agency said the quake hit at a depth of 609 kilometres on Peru's eastern frontier with Brazil.",
+"action": {
+"verb": {
+"text": "hit",
+"tense": "past"
+},
+"text": "hit",
+"normalized": "hit"
+}
+},
+{
+"subject": {
+"text": "Jorge Chavez, the civil defense chief,"
+},
+"sentence": " Jorge Chavez, the civil defense chief, said the depth of the quake had caused its force to dissipate, blunting its impact on the surface.\"The depth has made it so there is no surface damage,\" he said on RPP radio.",
+"object": {
+"text": "the depth of the quake had caused its force to dissipate, blunting its impact on the surface.\"The depth has made it so there is no surface damage"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "the depth of the quake"
+},
+"sentence": " Jorge Chavez, the civil defense chief, said the depth of the quake had caused its force to dissipate, blunting its impact on the surface.\"The depth has made it so there is no surface damage,\" he said on RPP radio.",
+"object": {
+"text": "its impact"
+},
+"action": {
+"verb": {
+"text": "blunt",
+"tense": "present"
+},
+"text": "blunting",
+"normalized": "blunt"
+}
+},
+{
+"subject": {
+"text": "he"
+},
+"sentence": " Jorge Chavez, the civil defense chief, said the depth of the quake had caused its force to dissipate, blunting its impact on the surface.\"The depth has made it so there is no surface damage,\" he said on RPP radio.",
+"object": {
+"text": "The depth has made it so there is no surface damage"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "The earthquake"
+},
+"sentence": " The earthquake hit shortly after 0900 GMT, about 140 kilometers west of the Peruvian town of Iberia, the USGS said.",
+"action": {
+"verb": {
+"text": "hit",
+"tense": "past"
+},
+"text": "hit",
+"normalized": "hit"
+}
+},
+{
+"subject": {
+"text": "the USGS"
+},
+"sentence": " The earthquake hit shortly after 0900 GMT, about 140 kilometers west of the Peruvian town of Iberia, the USGS said.",
+"object": {
+"text": "The earthquake hit shortly after 0900 GMT, about 140 kilometers west of the Peruvian town of Iberia"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+}
+],
+"relations": [
+{
+"type": "affectedBy",
+"sentence": "Lima (Peru): A powerful 7.1 magnitude earthquake struck Peru's border with Brazil on Friday, the US Geological Survey said, but national authorities said there were no initial reports of casualties or damage in the sparsely-populated region.",
+"score": 0.37386,
+"arguments": [
+{
+"text": "border",
+"location": [
+63,
+69
+],
+"entities": [
+{
+"type": "Location",
+"text": "border"
+}
+]
+},
+{
+"text": "earthquake",
+"location": [
+38,
+48
+],
+"entities": [
+{
+"type": "NaturalDisaster",
+"text": "earthquake"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "\"So far, no damage or victims have been reported and monitoring continues,\"said Peru's National Institute of Civil Defense (INDECI).",
+"score": 0.752561,
+"arguments": [
+{
+"text": "victims",
+"location": [
+264,
+271
+],
+"entities": [
+{
+"type": "Person",
+"text": "victims"
+}
+]
+},
+{
+"text": "reported",
+"location": [
+282,
+290
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "reported"
+}
+]
+}
+]
+},
+{
+"type": "partOf",
+"sentence": "\"So far, no damage or victims have been reported and monitoring continues,\"said Peru's National Institute of Civil Defense (INDECI).",
+"score": 0.956546,
+"arguments": [
+{
+"text": "National Institute of Civil Defense",
+"location": [
+329,
+364
+],
+"entities": [
+{
+"type": "Organization",
+"text": "National Institute of Civil Defense",
+"disambiguation": {
+"subtype": [
+"Educational"
+]
+}
+}
+]
+},
+{
+"text": "Peru",
+"location": [
+322,
+326
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Peru"
+}
+]
+}
+]
+},
+{
+"type": "basedIn",
+"sentence": "The US agency said the quake hit at a depth of 609 kilometres on Peru's eastern frontier with Brazil.",
+"score": 0.933449,
+"arguments": [
+{
+"text": "agency",
+"location": [
+382,
+388
+],
+"entities": [
+{
+"type": "Organization",
+"text": "agency"
+}
+]
+},
+{
+"text": "US",
+"location": [
+379,
+381
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "US",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "The US agency said the quake hit at a depth of 609 kilometres on Peru's eastern frontier with Brazil.",
+"score": 0.852042,
+"arguments": [
+{
+"text": "agency",
+"location": [
+382,
+388
+],
+"entities": [
+{
+"type": "Organization",
+"text": "agency"
+}
+]
+},
+{
+"text": "said",
+"location": [
+389,
+393
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "The US agency said the quake hit at a depth of 609 kilometres on Peru's eastern frontier with Brazil.",
+"score": 0.205355,
+"arguments": [
+{
+"text": "eastern frontier",
+"location": [
+447,
+463
+],
+"entities": [
+{
+"type": "Location",
+"text": "eastern frontier"
+}
+]
+},
+{
+"text": "Peru",
+"location": [
+440,
+444
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Peru"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "The US agency said the quake hit at a depth of 609 kilometres on Peru's eastern frontier with Brazil.",
+"score": 0.6675,
+"arguments": [
+{
+"text": "eastern frontier",
+"location": [
+447,
+463
+],
+"entities": [
+{
+"type": "Location",
+"text": "eastern frontier"
+}
+]
+},
+{
+"text": "Brazil",
+"location": [
+469,
+475
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Brazil",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Jorge Chavez, the civil defense chief, said the depth of the quake had caused its force to dissipate, blunting its impact on the surface.",
+"score": 0.59688,
+"arguments": [
+{
+"text": "Jorge Chavez",
+"location": [
+477,
+489
+],
+"entities": [
+{
+"type": "Person",
+"text": "Jorge Chavez"
+}
+]
+},
+{
+"text": "said",
+"location": [
+516,
+520
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "\"The depth has made it so there is no surface damage,\" he said on RPP radio.",
+"score": 0.981783,
+"arguments": [
+{
+"text": "he",
+"location": [
+669,
+671
+],
+"entities": [
+{
+"type": "Person",
+"text": "Jorge Chavez"
+}
+]
+},
+{
+"text": "said",
+"location": [
+672,
+676
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "timeOf",
+"sentence": "The earthquake hit shortly after 0900 GMT, about 140 kilometers west of the Peruvian town of Iberia, the USGS said.",
+"score": 0.61544,
+"arguments": [
+{
+"text": "after 0900 GMT",
+"location": [
+718,
+732
+],
+"entities": [
+{
+"type": "Time",
+"text": "after 0900 GMT"
+}
+]
+},
+{
+"text": "earthquake",
+"location": [
+695,
+705
+],
+"entities": [
+{
+"type": "NaturalDisaster",
+"text": "earthquake"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "The earthquake hit shortly after 0900 GMT, about 140 kilometers west of the Peruvian town of Iberia, the USGS said.",
+"score": 0.573582,
+"arguments": [
+{
+"text": "west",
+"location": [
+755,
+759
+],
+"entities": [
+{
+"type": "Location",
+"text": "west"
+}
+]
+},
+{
+"text": "town",
+"location": [
+776,
+780
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Iberia"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "The earthquake hit shortly after 0900 GMT, about 140 kilometers west of the Peruvian town of Iberia, the USGS said.",
+"score": 0.89503,
+"arguments": [
+{
+"text": "USGS",
+"location": [
+796,
+800
+],
+"entities": [
+{
+"type": "Organization",
+"text": "USGS"
+}
+]
+},
+{
+"text": "said",
+"location": [
+801,
+805
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "Lima (Peru): A powerful 7.1 magnitude earthquake struck Peru's border with Brazil on Friday, the US Geological Survey said, but national authorities said there were no initial reports of casualties or damage in the sparsely-populated region.",
+"score": 0.634764,
+"arguments": [
+{
+"text": "Peru",
+"location": [
+56,
+60
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Peru",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+},
+{
+"text": "struck",
+"location": [
+49,
+55
+],
+"entities": [
+{
+"type": "EventViolence",
+"text": "struck"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "Lima (Peru): A powerful 7.1 magnitude earthquake struck Peru's border with Brazil on Friday, the US Geological Survey said, but national authorities said there were no initial reports of casualties or damage in the sparsely-populated region.",
+"score": 0.833197,
+"arguments": [
+{
+"text": "border",
+"location": [
+63,
+69
+],
+"entities": [
+{
+"type": "Location",
+"text": "border"
+}
+]
+},
+{
+"text": "struck",
+"location": [
+49,
+55
+],
+"entities": [
+{
+"type": "EventViolence",
+"text": "struck"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "Lima (Peru): A powerful 7.1 magnitude earthquake struck Peru's border with Brazil on Friday, the US Geological Survey said, but national authorities said there were no initial reports of casualties or damage in the sparsely-populated region.",
+"score": 0.605525,
+"arguments": [
+{
+"text": "Brazil",
+"location": [
+75,
+81
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Brazil",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+},
+{
+"text": "struck",
+"location": [
+49,
+55
+],
+"entities": [
+{
+"type": "EventViolence",
+"text": "struck"
+}
+]
+}
+]
+},
+{
+"type": "timeOf",
+"sentence": "Lima (Peru): A powerful 7.1 magnitude earthquake struck Peru's border with Brazil on Friday, the US Geological Survey said, but national authorities said there were no initial reports of casualties or damage in the sparsely-populated region.",
+"score": 0.98266,
+"arguments": [
+{
+"text": "Friday",
+"location": [
+85,
+91
+],
+"entities": [
+{
+"type": "Date",
+"text": "Friday"
+}
+]
+},
+{
+"text": "struck",
+"location": [
+49,
+55
+],
+"entities": [
+{
+"type": "EventViolence",
+"text": "struck"
+}
+]
+}
+]
+},
+{
+"type": "near",
+"sentence": "Lima (Peru): A powerful 7.1 magnitude earthquake struck Peru's border with Brazil on Friday, the US Geological Survey said, but national authorities said there were no initial reports of casualties or damage in the sparsely-populated region.",
+"score": 0.482251,
+"arguments": [
+{
+"text": "border",
+"location": [
+63,
+69
+],
+"entities": [
+{
+"type": "Location",
+"text": "border"
+}
+]
+},
+{
+"text": "Peru",
+"location": [
+56,
+60
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Peru",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "Lima (Peru): A powerful 7.1 magnitude earthquake struck Peru's border with Brazil on Friday, the US Geological Survey said, but national authorities said there were no initial reports of casualties or damage in the sparsely-populated region.",
+"score": 0.394912,
+"arguments": [
+{
+"text": "border",
+"location": [
+63,
+69
+],
+"entities": [
+{
+"type": "Location",
+"text": "border"
+}
+]
+},
+{
+"text": "Brazil",
+"location": [
+75,
+81
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Brazil",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Lima (Peru): A powerful 7.1 magnitude earthquake struck Peru's border with Brazil on Friday, the US Geological Survey said, but national authorities said there were no initial reports of casualties or damage in the sparsely-populated region.",
+"score": 0.781072,
+"arguments": [
+{
+"text": "US Geological Survey",
+"location": [
+97,
+117
+],
+"entities": [
+{
+"type": "Organization",
+"text": "US Geological Survey",
+"disambiguation": {
+"subtype": [
+"Commercial"
+]
+}
+}
+]
+},
+{
+"text": "said",
+"location": [
+118,
+122
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Lima (Peru): A powerful 7.1 magnitude earthquake struck Peru's border with Brazil on Friday, the US Geological Survey said, but national authorities said there were no initial reports of casualties or damage in the sparsely-populated region.",
+"score": 0.765414,
+"arguments": [
+{
+"text": "authorities",
+"location": [
+137,
+148
+],
+"entities": [
+{
+"type": "Organization",
+"text": "authorities",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+},
+{
+"text": "said",
+"location": [
+149,
+153
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+}
+],
+"language": "en",
+"keywords": [
+{
+"text": "civil defense",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.96182,
+"emotion": {
+"sadness": 0.550757,
+"joy": 0.036628,
+"fear": 0.225163,
+"disgust": 0.374726,
+"anger": 0.092156
+}
+},
+{
+"text": "civil defense chief",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.899775,
+"emotion": {
+"sadness": 0.557829,
+"joy": 0.019678,
+"fear": 0.258473,
+"disgust": 0.343785,
+"anger": 0.107857
+}
+},
+{
+"text": "magnitude earthquake",
+"sentiment": {
+"score": 0.488166,
+"label": "positive"
+},
+"relevance": 0.793709,
+"emotion": {
+"sadness": 0.162588,
+"joy": 0.453495,
+"fear": 0.208857,
+"disgust": 0.042541,
+"anger": 0.079667
+}
+},
+{
+"text": "Peru",
+"sentiment": {
+"score": 0.437423,
+"label": "positive"
+},
+"relevance": 0.740977,
+"emotion": {
+"sadness": 0.0,
+"joy": 0.0,
+"fear": 0.0,
+"disgust": 0.0,
+"anger": 0.0
+}
+},
+{
+"text": "initial reports",
+"sentiment": {
+"score": -0.468745,
+"label": "negative"
+},
+"relevance": 0.686566,
+"emotion": {
+"sadness": 0.671771,
+"joy": 0.075389,
+"fear": 0.14949,
+"disgust": 0.149955,
+"anger": 0.097119
+}
+}
+],
+"entities": [
+{
+"type": "Location",
+"text": "Peru",
+"sentiment": {
+"score": 0.437423,
+"label": "positive"
+},
+"relevance": 0.804247,
+"emotion": {
+"sadness": 0.144548,
+"joy": 0.186943,
+"fear": 0.087573,
+"disgust": 0.077654,
+"anger": 0.090723
+},
+"disambiguation": {
+"subtype": [
+"GovernmentalJurisdiction",
+"Country"
+],
+"name": "Peru",
+"dbpedia_resource": "http://dbpedia.org/resource/Peru"
+},
+"count": 4
+},
+{
+"type": "Organization",
+"text": "National Institute of Civil Defense",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.453676,
+"emotion": {
+"sadness": 0.510554,
+"joy": 0.072602,
+"fear": 0.18254,
+"disgust": 0.356402,
+"anger": 0.071349
+},
+"count": 1
+},
+{
+"type": "Person",
+"text": "Jorge Chavez",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.427524,
+"emotion": {
+"sadness": 0.144548,
+"joy": 0.185315,
+"fear": 0.087573,
+"disgust": 0.077654,
+"anger": 0.090723
+},
+"disambiguation": {
+"subtype": [
+"AwardWinner"
+],
+"name": "Jorge F. Chavez",
+"dbpedia_resource": "http://dbpedia.org/resource/Jorge_F._Chavez"
+},
+"count": 1
+},
+{
+"type": "Location",
+"text": "US",
+"sentiment": {
+"score": 0.488166,
+"label": "positive"
+},
+"relevance": 0.424784,
+"emotion": {
+"sadness": 0.314646,
+"joy": 0.305594,
+"fear": 0.222613,
+"disgust": 0.102189,
+"anger": 0.125187
+},
+"disambiguation": {
+"subtype": [
+"Region",
+"AdministrativeDivision",
+"GovernmentalJurisdiction",
+"FilmEditor",
+"Country"
+],
+"name": "United States",
+"dbpedia_resource": "http://dbpedia.org/resource/United_States"
+},
+"count": 3
+},
+{
+"type": "Location",
+"text": "Brazil",
+"sentiment": {
+"score": 0.488166,
+"label": "positive"
+},
+"relevance": 0.351613,
+"emotion": {
+"sadness": 0.25868,
+"joy": 0.325031,
+"fear": 0.2259,
+"disgust": 0.086077,
+"anger": 0.14017
+},
+"disambiguation": {
+"subtype": [
+"Country"
+]
+},
+"count": 2
+}
+],
+"concepts": [
+{
+"text": "Peru",
+"relevance": 0.949266,
+"dbpedia_resource": "http://dbpedia.org/resource/Peru"
+},
+{
+"text": "United States Geological Survey",
+"relevance": 0.83929,
+"dbpedia_resource": "http://dbpedia.org/resource/United_States_Geological_Survey"
+},
+{
+"text": "Earthquake",
+"relevance": 0.81585,
+"dbpedia_resource": "http://dbpedia.org/resource/Earthquake"
+},
+{
+"text": "Earthquake engineering",
+"relevance": 0.78703,
+"dbpedia_resource": "http://dbpedia.org/resource/Earthquake_engineering"
+},
+{
+"text": "Amazon River",
+"relevance": 0.749601,
+"dbpedia_resource": "http://dbpedia.org/resource/Amazon_River"
+}
+],
+"categories": [
+{
+"score": 0.45987,
+"label": "/science/geology/seismology/earthquakes"
+},
+{
+"score": 0.270413,
+"label": "/travel/tourist destinations/japan"
+},
+{
+"score": 0.245476,
+"label": "/travel/tourist destinations/national parks"
+}
+]
+}
+}

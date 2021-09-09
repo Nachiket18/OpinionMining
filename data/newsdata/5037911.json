@@ -1,0 +1,1822 @@
+{
+"source_article_link": "https://www.firstpost.com/india/bjps-rp-singh-alleges-rahul-gandhi-invoked-guru-nanak-dev-only-for-votes-says-he-should-apologise-for-1984-riots-5037911.html",
+"title": "BJP's RP Singh alleges Rahul Gandhi invoked Guru Nanak Dev only for votes, says he should apologise for 1984 riots",
+"date_published": "2018-08-24T16:59:10+05:30",
+"source_type": "news_article",
+"source_name": "FirstPost",
+"image_link": [
+"https://images.firstpost.com/wp-content/uploads/2018/08/rahul-berkeley-380-PTI1.jpg"
+],
+"article_body": "The BJP on Friday lashed out at Congress president Rahul Gandhi for invoking Guru Nanak Dev, the first Sikh guru, during his address in Berlin, saying his party is identified with anti-Sikh riots in 1984 and he should apologise for the \"heinous crime\" at the Golden Temple. Gandhi is invoking Guru Nanak Dev merely for vote-bank politics. For him, Sikhs are merely a vote bank, BJP national secretary RP Singh said. File image of Rahul Gandhi. PTI Addressing the Indian diaspora at a function organised by the Indian Overseas Congress in Berlin on Thursdaynight, Gandhi said the Congress's thought of \"unity in diversity\" came from the times of Guru Nanak Dev, and the BJP-RSS divides people and spreads hatred. In a sharp reaction to his remarks, Singh said Gandhi's thoughts are actually in line with the Congress culture of divide and rule. \"We are pained to know that Gandhi, who reminds us of anti-Slkh riots of 1984, claims that his thoughts resemble to the first Sikh guru \u2014 Guru Nanak Devji. Actually his thoughts are in line with Congress culture of divide and rule,\" Singh said. Congress leaders justified the 1984 killings of innocent Sikhs and they treated Sikhs like demons, he claimed, while demanding \"Rahul should apologise for the heinous crime in front of Akal Takht at Golden Temple in Amritsar\". Akal Takht is the highest body of Sikhs and Golden Temple is the most prominent shrine of the religion. Taking on Gandhi over the same issue, BJP spokesperson Sudhanshu Trivedi said the Congress president has demeaned the Indian culture and he is an immature politician. Leave aside leading the country, Gandhi is even incapable of heading a political party, he further said.",
+"description": "The BJP on Friday lashed out at Congress president Rahul Gandhi for invoking Guru Nanak Dev, the first Sikh guru, during his address in Berlin, saying his party is identified with anti-Sikh riots in 1984 and he should apologise for the \"heinous crime\" at the Golden Temple. Gandhi is invoking Guru Nanak Dev merely for vote-bank politics. For him, Sikhs are merely a vote bank, BJP national secretary RP Singh said. File image of Rahul Gandhi. PTI Addressing the Indian diaspora at a function organised by the Indian Overseas Congress in Berlin on Thursdaynight, Gandhi said the Congress's thought of \"unity in diversity\" came from the times of Guru Nanak Dev, and the BJP-RSS divides people and spreads hatred. In a sharp reaction to his remarks, Singh said Gandhi's thoughts are actually in line with the Congress culture of divide and rule. \"We are pained to know that Gandhi, who reminds us of anti-Slkh riots of 1984, claims that his thoughts resemble to the first Sikh guru \u2014 Guru Nanak Devji. Actually his thoughts are in line with Congress culture of divide and rule,\" Singh said.",
+"time_scraped": "2018-08-24 18:04:57.346750",
+"article_id": "5037911",
+"article_category": "India",
+"image_details": [
+{
+"url": "https://images.firstpost.com/wp-content/uploads/2018/08/rahul-berkeley-380-PTI1.jpg",
+"path": "full/ca7c536326fb5ab8000b9e9ae2c9611d1ef6a9b3.jpg",
+"checksum": "9bc0328f1711732c83910caffd022722"
+}
+],
+"ibm_nlu": {
+"usage": {
+"text_units": 1,
+"text_characters": 1691,
+"features": 7
+},
+"sentiment": {
+"document": {
+"score": -0.343509,
+"label": "negative"
+}
+},
+"semantic_roles": [
+{
+"subject": {
+"text": "his party"
+},
+"sentence": "The BJP on Friday lashed out at Congress president Rahul Gandhi for invoking Guru Nanak Dev, the first Sikh guru, during his address in Berlin, saying his party is identified with anti-Sikh riots in 1984 and he should apologise for the \"heinous crime\" at the Golden Temple.",
+"object": {
+"text": "identified with anti-Sikh riots"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "present"
+},
+"text": "is",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "his party"
+},
+"sentence": "The BJP on Friday lashed out at Congress president Rahul Gandhi for invoking Guru Nanak Dev, the first Sikh guru, during his address in Berlin, saying his party is identified with anti-Sikh riots in 1984 and he should apologise for the \"heinous crime\" at the Golden Temple.",
+"object": {
+"text": "with anti-Sikh riots"
+},
+"action": {
+"verb": {
+"text": "identify",
+"tense": "past"
+},
+"text": "is identified",
+"normalized": "be identify"
+}
+},
+{
+"subject": {
+"text": "he"
+},
+"sentence": "The BJP on Friday lashed out at Congress president Rahul Gandhi for invoking Guru Nanak Dev, the first Sikh guru, during his address in Berlin, saying his party is identified with anti-Sikh riots in 1984 and he should apologise for the \"heinous crime\" at the Golden Temple.",
+"object": {
+"text": "for the \"heinous crime\""
+},
+"action": {
+"verb": {
+"text": "apologise",
+"tense": "future"
+},
+"text": "should apologise",
+"normalized": "should apologise"
+}
+},
+{
+"subject": {
+"text": "Gandhi"
+},
+"sentence": " Gandhi is invoking Guru Nanak Dev merely for vote-bank politics.",
+"object": {
+"text": "invoking Guru Nanak Dev merely for vote-bank politics"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "present"
+},
+"text": "is",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "Gandhi"
+},
+"sentence": " Gandhi is invoking Guru Nanak Dev merely for vote-bank politics.",
+"object": {
+"text": "Guru Nanak Dev"
+},
+"action": {
+"verb": {
+"text": "invoke",
+"tense": "present"
+},
+"text": "is invoking",
+"normalized": "be invoke"
+}
+},
+{
+"subject": {
+"text": "Sikhs"
+},
+"sentence": " For him, Sikhs are merely a vote bank, BJP national secretary RP Singh said.",
+"object": {
+"text": "merely a vote bank"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "present"
+},
+"text": "are",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "BJP national secretary RP Singh"
+},
+"sentence": " For him, Sikhs are merely a vote bank, BJP national secretary RP Singh said.",
+"object": {
+"text": "For him, Sikhs are merely a vote bank"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "by the Indian Overseas Congress in Berlin"
+},
+"sentence": " PTI Addressing the Indian diaspora at a function organised by the Indian Overseas Congress in Berlin on Thursdaynight, Gandhi said the Congress's thought of \"unity in diversity\" came from the times of Guru Nanak Dev, and the BJP-RSS divides people and spreads hatred.",
+"object": {
+"text": "a function"
+},
+"action": {
+"verb": {
+"text": "organise",
+"tense": "past"
+},
+"text": "organised",
+"normalized": "organise"
+}
+},
+{
+"subject": {
+"text": "Gandhi"
+},
+"sentence": " PTI Addressing the Indian diaspora at a function organised by the Indian Overseas Congress in Berlin on Thursdaynight, Gandhi said the Congress's thought of \"unity in diversity\" came from the times of Guru Nanak Dev, and the BJP-RSS divides people and spreads hatred.",
+"object": {
+"text": "the Congress's thought of \"unity in diversity\" came from the times of Guru Nanak Dev, and the BJP-RSS divides people and spreads hatred"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "Singh"
+},
+"sentence": " In a sharp reaction to his remarks, Singh said Gandhi's thoughts are actually in line with the Congress culture of divide and rule.",
+"object": {
+"text": "Gandhi's thoughts are actually in line with the Congress culture of divide and rule"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "We"
+},
+"sentence": " \"We are pained to know that Gandhi, who reminds us of anti-Slkh riots of 1984, claims that his thoughts resemble to the first Sikh guru \u2014 Guru Nanak Devji.",
+"object": {
+"text": "to know that Gandhi"
+},
+"action": {
+"verb": {
+"text": "pain",
+"tense": "past"
+},
+"text": "pained",
+"normalized": "pain"
+}
+},
+{
+"subject": {
+"text": "We"
+},
+"sentence": " \"We are pained to know that Gandhi, who reminds us of anti-Slkh riots of 1984, claims that his thoughts resemble to the first Sikh guru \u2014 Guru Nanak Devji.",
+"object": {
+"text": "that Gandhi"
+},
+"action": {
+"verb": {
+"text": "know",
+"tense": "future"
+},
+"text": "are pained to know",
+"normalized": "be pain to know"
+}
+},
+{
+"subject": {
+"text": "Gandhi"
+},
+"sentence": " \"We are pained to know that Gandhi, who reminds us of anti-Slkh riots of 1984, claims that his thoughts resemble to the first Sikh guru \u2014 Guru Nanak Devji.",
+"object": {
+"text": "of anti-Slkh riots of 1984, claims that his thoughts resemble to the first Sikh guru \u2014 Guru Nanak Devji"
+},
+"action": {
+"verb": {
+"text": "remind",
+"tense": "present"
+},
+"text": "reminds",
+"normalized": "remind"
+}
+},
+{
+"subject": {
+"text": "Gandhi, who reminds us of anti-Slkh riots of 1984,"
+},
+"sentence": " \"We are pained to know that Gandhi, who reminds us of anti-Slkh riots of 1984, claims that his thoughts resemble to the first Sikh guru \u2014 Guru Nanak Devji.",
+"object": {
+"text": "that his thoughts resemble to the first Sikh guru \u2014 Guru Nanak Devji"
+},
+"action": {
+"verb": {
+"text": "claim",
+"tense": "present"
+},
+"text": "claims",
+"normalized": "claim"
+}
+},
+{
+"subject": {
+"text": "his thoughts"
+},
+"sentence": " Actually his thoughts are in line with Congress culture of divide and rule,\" Singh said.",
+"object": {
+"text": "in line"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "present"
+},
+"text": "are",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "Singh"
+},
+"sentence": " Actually his thoughts are in line with Congress culture of divide and rule,\" Singh said.",
+"object": {
+"text": "his thoughts are in line with Congress culture of divide and rule"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "Congress leaders"
+},
+"sentence": " Congress leaders justified the 1984 killings of innocent Sikhs and they treated Sikhs like demons, he claimed, while demanding \"Rahul should apologise for the heinous crime in front of Akal Takht at Golden Temple in Amritsar\".",
+"object": {
+"text": "the 1984 killings of innocent Sikhs"
+},
+"action": {
+"verb": {
+"text": "justify",
+"tense": "past"
+},
+"text": "justified",
+"normalized": "justify"
+}
+},
+{
+"subject": {
+"text": "they"
+},
+"sentence": " Congress leaders justified the 1984 killings of innocent Sikhs and they treated Sikhs like demons, he claimed, while demanding \"Rahul should apologise for the heinous crime in front of Akal Takht at Golden Temple in Amritsar\".",
+"object": {
+"text": "Sikhs"
+},
+"action": {
+"verb": {
+"text": "treat",
+"tense": "past"
+},
+"text": "treated",
+"normalized": "treat"
+}
+},
+{
+"subject": {
+"text": "he"
+},
+"sentence": " Congress leaders justified the 1984 killings of innocent Sikhs and they treated Sikhs like demons, he claimed, while demanding \"Rahul should apologise for the heinous crime in front of Akal Takht at Golden Temple in Amritsar\".",
+"object": {
+"text": "the 1984 killings of innocent Sikhs and they treated Sikhs like demons"
+},
+"action": {
+"verb": {
+"text": "claim",
+"tense": "past"
+},
+"text": "claimed",
+"normalized": "claim"
+}
+},
+{
+"subject": {
+"text": "Rahul"
+},
+"sentence": " Congress leaders justified the 1984 killings of innocent Sikhs and they treated Sikhs like demons, he claimed, while demanding \"Rahul should apologise for the heinous crime in front of Akal Takht at Golden Temple in Amritsar\".",
+"object": {
+"text": "for the heinous crime"
+},
+"action": {
+"verb": {
+"text": "apologise",
+"tense": "future"
+},
+"text": "should apologise",
+"normalized": "should apologise"
+}
+},
+{
+"subject": {
+"text": "Akal Takht"
+},
+"sentence": " Akal Takht is the highest body of Sikhs and Golden Temple is the most prominent shrine of the religion.",
+"object": {
+"text": "the highest body of Sikhs"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "present"
+},
+"text": "is",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "the highest body of Sikhs and Golden Temple"
+},
+"sentence": " Akal Takht is the highest body of Sikhs and Golden Temple is the most prominent shrine of the religion.",
+"object": {
+"text": "the most prominent shrine of the religion"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "present"
+},
+"text": "is",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "BJP spokesperson"
+},
+"sentence": " Taking on Gandhi over the same issue, BJP spokesperson Sudhanshu Trivedi said the Congress president has demeaned the Indian culture and he is an immature politician.",
+"action": {
+"verb": {
+"text": "Taking",
+"tense": "present"
+},
+"text": "Taking",
+"normalized": "Taking"
+}
+},
+{
+"subject": {
+"text": "BJP spokesperson Sudhanshu Trivedi"
+},
+"sentence": " Taking on Gandhi over the same issue, BJP spokesperson Sudhanshu Trivedi said the Congress president has demeaned the Indian culture and he is an immature politician.",
+"object": {
+"text": "the Congress president has demeaned the Indian culture and he is an immature politician"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "Gandhi"
+},
+"sentence": " Leave aside leading the country, Gandhi is even incapable of heading a political party, he further said.",
+"object": {
+"text": "even incapable of heading a political party"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "present"
+},
+"text": "is",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "he"
+},
+"sentence": " Leave aside leading the country, Gandhi is even incapable of heading a political party, he further said.",
+"object": {
+"text": "a political party"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+}
+],
+"relations": [
+{
+"type": "managerOf",
+"sentence": "The BJP on Friday lashed out at Congress president Rahul Gandhi for invoking Guru Nanak Dev, the first Sikh guru, during his address in Berlin, saying his party is identified with anti-Sikh riots in 1984 and he should apologise for the \"heinous crime\" at the Golden Temple.",
+"score": 0.687414,
+"arguments": [
+{
+"text": "president",
+"location": [
+41,
+50
+],
+"entities": [
+{
+"type": "Person",
+"text": "Rahul Gandhi"
+}
+]
+},
+{
+"text": "Congress",
+"location": [
+32,
+40
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Congress",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "PTI Addressing the Indian diaspora at a function organised by the Indian Overseas Congress in Berlin on Thursdaynight, Gandhi said the Congress's thought of \"unity in diversity\" came from the times of Guru Nanak Dev, and the BJP-RSS divides people and spreads hatred.",
+"score": 0.510381,
+"arguments": [
+{
+"text": "Congress",
+"location": [
+526,
+534
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Congress",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+},
+{
+"text": "said",
+"location": [
+570,
+574
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "PTI Addressing the Indian diaspora at a function organised by the Indian Overseas Congress in Berlin on Thursdaynight, Gandhi said the Congress's thought of \"unity in diversity\" came from the times of Guru Nanak Dev, and the BJP-RSS divides people and spreads hatred.",
+"score": 0.798716,
+"arguments": [
+{
+"text": "Berlin",
+"location": [
+538,
+544
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Berlin"
+}
+]
+},
+{
+"text": "Thursdaynight",
+"location": [
+548,
+561
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Thursdaynight"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "PTI Addressing the Indian diaspora at a function organised by the Indian Overseas Congress in Berlin on Thursdaynight, Gandhi said the Congress's thought of \"unity in diversity\" came from the times of Guru Nanak Dev, and the BJP-RSS divides people and spreads hatred.",
+"score": 0.505587,
+"arguments": [
+{
+"text": "Gandhi",
+"location": [
+563,
+569
+],
+"entities": [
+{
+"type": "Person",
+"text": "Rahul Gandhi"
+}
+]
+},
+{
+"text": "Berlin",
+"location": [
+538,
+544
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Berlin"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "PTI Addressing the Indian diaspora at a function organised by the Indian Overseas Congress in Berlin on Thursdaynight, Gandhi said the Congress's thought of \"unity in diversity\" came from the times of Guru Nanak Dev, and the BJP-RSS divides people and spreads hatred.",
+"score": 0.754668,
+"arguments": [
+{
+"text": "Gandhi",
+"location": [
+563,
+569
+],
+"entities": [
+{
+"type": "Person",
+"text": "Rahul Gandhi"
+}
+]
+},
+{
+"text": "said",
+"location": [
+570,
+574
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Leave aside leading the country, Gandhi is even incapable of heading a political party, he further said.",
+"score": 0.859578,
+"arguments": [
+{
+"text": "he",
+"location": [
+1675,
+1677
+],
+"entities": [
+{
+"type": "Person",
+"text": "Rahul Gandhi"
+}
+]
+},
+{
+"text": "said",
+"location": [
+1686,
+1690
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "\"We are pained to know that Gandhi, who reminds us of anti-Slkh riots of 1984, claims that his thoughts resemble to the first Sikh guru \u2014 Guru Nanak Devji.",
+"score": 0.805509,
+"arguments": [
+{
+"text": "Gandhi",
+"location": [
+872,
+878
+],
+"entities": [
+{
+"type": "Person",
+"text": "Rahul Gandhi"
+}
+]
+},
+{
+"text": "claims",
+"location": [
+923,
+929
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "claims"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "\"We are pained to know that Gandhi, who reminds us of anti-Slkh riots of 1984, claims that his thoughts resemble to the first Sikh guru \u2014 Guru Nanak Devji.",
+"score": 0.928691,
+"arguments": [
+{
+"text": "who",
+"location": [
+880,
+883
+],
+"entities": [
+{
+"type": "Person",
+"text": "Rahul Gandhi"
+}
+]
+},
+{
+"text": "riots",
+"location": [
+908,
+913
+],
+"entities": [
+{
+"type": "Crime",
+"text": "riots"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "\"We are pained to know that Gandhi, who reminds us of anti-Slkh riots of 1984, claims that his thoughts resemble to the first Sikh guru \u2014 Guru Nanak Devji.",
+"score": 0.943925,
+"arguments": [
+{
+"text": "us",
+"location": [
+892,
+894
+],
+"entities": [
+{
+"type": "Person",
+"text": "us"
+}
+]
+},
+{
+"text": "riots",
+"location": [
+908,
+913
+],
+"entities": [
+{
+"type": "Crime",
+"text": "riots"
+}
+]
+}
+]
+},
+{
+"type": "timeOf",
+"sentence": "\"We are pained to know that Gandhi, who reminds us of anti-Slkh riots of 1984, claims that his thoughts resemble to the first Sikh guru \u2014 Guru Nanak Devji.",
+"score": 0.837837,
+"arguments": [
+{
+"text": "1984",
+"location": [
+917,
+921
+],
+"entities": [
+{
+"type": "Date",
+"text": "1984"
+}
+]
+},
+{
+"text": "riots",
+"location": [
+908,
+913
+],
+"entities": [
+{
+"type": "Crime",
+"text": "riots"
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "Congress leaders justified the 1984 killings of innocent Sikhs and they treated Sikhs like demons, he claimed, while demanding \"Rahul should apologise for the heinous crime in front of Akal Takht at Golden Temple in Amritsar\".",
+"score": 0.441779,
+"arguments": [
+{
+"text": "leaders",
+"location": [
+1098,
+1105
+],
+"entities": [
+{
+"type": "Person",
+"text": "leaders"
+}
+]
+},
+{
+"text": "Congress",
+"location": [
+1089,
+1097
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Congress",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Congress leaders justified the 1984 killings of innocent Sikhs and they treated Sikhs like demons, he claimed, while demanding \"Rahul should apologise for the heinous crime in front of Akal Takht at Golden Temple in Amritsar\".",
+"score": 0.809042,
+"arguments": [
+{
+"text": "leaders",
+"location": [
+1098,
+1105
+],
+"entities": [
+{
+"type": "Person",
+"text": "leaders"
+}
+]
+},
+{
+"text": "killings",
+"location": [
+1125,
+1133
+],
+"entities": [
+{
+"type": "Crime",
+"text": "killings"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "The BJP on Friday lashed out at Congress president Rahul Gandhi for invoking Guru Nanak Dev, the first Sikh guru, during his address in Berlin, saying his party is identified with anti-Sikh riots in 1984 and he should apologise for the \"heinous crime\" at the Golden Temple.",
+"score": 0.490485,
+"arguments": [
+{
+"text": "guru",
+"location": [
+108,
+112
+],
+"entities": [
+{
+"type": "Person",
+"text": "Guru Nanak Devji"
+}
+]
+},
+{
+"text": "Berlin",
+"location": [
+136,
+142
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Berlin"
+}
+]
+}
+]
+},
+{
+"type": "timeOf",
+"sentence": "Congress leaders justified the 1984 killings of innocent Sikhs and they treated Sikhs like demons, he claimed, while demanding \"Rahul should apologise for the heinous crime in front of Akal Takht at Golden Temple in Amritsar\".",
+"score": 0.753597,
+"arguments": [
+{
+"text": "1984",
+"location": [
+1120,
+1124
+],
+"entities": [
+{
+"type": "Date",
+"text": "1984"
+}
+]
+},
+{
+"text": "killings",
+"location": [
+1125,
+1133
+],
+"entities": [
+{
+"type": "Crime",
+"text": "killings"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Congress leaders justified the 1984 killings of innocent Sikhs and they treated Sikhs like demons, he claimed, while demanding \"Rahul should apologise for the heinous crime in front of Akal Takht at Golden Temple in Amritsar\".",
+"score": 0.534087,
+"arguments": [
+{
+"text": "Sikhs",
+"location": [
+1146,
+1151
+],
+"entities": [
+{
+"type": "Person",
+"text": "Sikhs"
+}
+]
+},
+{
+"text": "killings",
+"location": [
+1125,
+1133
+],
+"entities": [
+{
+"type": "Crime",
+"text": "killings"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Congress leaders justified the 1984 killings of innocent Sikhs and they treated Sikhs like demons, he claimed, while demanding \"Rahul should apologise for the heinous crime in front of Akal Takht at Golden Temple in Amritsar\".",
+"score": 0.968217,
+"arguments": [
+{
+"text": "he",
+"location": [
+1188,
+1190
+],
+"entities": [
+{
+"type": "Person",
+"text": "Guru Nanak Devji"
+}
+]
+},
+{
+"text": "claimed",
+"location": [
+1191,
+1198
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "claimed"
+}
+]
+}
+]
+},
+{
+"type": "partOf",
+"sentence": "Congress leaders justified the 1984 killings of innocent Sikhs and they treated Sikhs like demons, he claimed, while demanding \"Rahul should apologise for the heinous crime in front of Akal Takht at Golden Temple in Amritsar\".",
+"score": 0.553468,
+"arguments": [
+{
+"text": "demanding",
+"location": [
+1206,
+1215
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "demanding"
+}
+]
+},
+{
+"text": "claimed",
+"location": [
+1191,
+1198
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "claimed"
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "Congress leaders justified the 1984 killings of innocent Sikhs and they treated Sikhs like demons, he claimed, while demanding \"Rahul should apologise for the heinous crime in front of Akal Takht at Golden Temple in Amritsar\".",
+"score": 0.375146,
+"arguments": [
+{
+"text": "Rahul",
+"location": [
+1217,
+1222
+],
+"entities": [
+{
+"type": "Person",
+"text": "Rahul Gandhi"
+}
+]
+},
+{
+"text": "Akal Takht",
+"location": [
+1274,
+1284
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Akal Takht"
+}
+]
+}
+]
+},
+{
+"type": "basedIn",
+"sentence": "Congress leaders justified the 1984 killings of innocent Sikhs and they treated Sikhs like demons, he claimed, while demanding \"Rahul should apologise for the heinous crime in front of Akal Takht at Golden Temple in Amritsar\".",
+"score": 0.491601,
+"arguments": [
+{
+"text": "Akal Takht",
+"location": [
+1274,
+1284
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Akal Takht"
+}
+]
+},
+{
+"text": "Golden Temple",
+"location": [
+1288,
+1301
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Golden Temple"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "Congress leaders justified the 1984 killings of innocent Sikhs and they treated Sikhs like demons, he claimed, while demanding \"Rahul should apologise for the heinous crime in front of Akal Takht at Golden Temple in Amritsar\".",
+"score": 0.95796,
+"arguments": [
+{
+"text": "Golden Temple",
+"location": [
+1288,
+1301
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Golden Temple"
+}
+]
+},
+{
+"text": "Amritsar",
+"location": [
+1305,
+1313
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Amritsar"
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "Taking on Gandhi over the same issue, BJP spokesperson Sudhanshu Trivedi said the Congress president has demeaned the Indian culture and he is an immature politician.",
+"score": 0.503364,
+"arguments": [
+{
+"text": "spokesperson",
+"location": [
+1462,
+1474
+],
+"entities": [
+{
+"type": "Person",
+"text": "Sudhanshu Trivedi"
+}
+]
+},
+{
+"text": "BJP",
+"location": [
+1458,
+1461
+],
+"entities": [
+{
+"type": "Organization",
+"text": "BJP"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Taking on Gandhi over the same issue, BJP spokesperson Sudhanshu Trivedi said the Congress president has demeaned the Indian culture and he is an immature politician.",
+"score": 0.994764,
+"arguments": [
+{
+"text": "Sudhanshu Trivedi",
+"location": [
+1475,
+1492
+],
+"entities": [
+{
+"type": "Person",
+"text": "Sudhanshu Trivedi"
+}
+]
+},
+{
+"text": "said",
+"location": [
+1493,
+1497
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "Taking on Gandhi over the same issue, BJP spokesperson Sudhanshu Trivedi said the Congress president has demeaned the Indian culture and he is an immature politician.",
+"score": 0.624216,
+"arguments": [
+{
+"text": "president",
+"location": [
+1511,
+1520
+],
+"entities": [
+{
+"type": "Person",
+"text": "Rahul Gandhi"
+}
+]
+},
+{
+"text": "Congress",
+"location": [
+1502,
+1510
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Congress",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "The BJP on Friday lashed out at Congress president Rahul Gandhi for invoking Guru Nanak Dev, the first Sikh guru, during his address in Berlin, saying his party is identified with anti-Sikh riots in 1984 and he should apologise for the \"heinous crime\" at the Golden Temple.",
+"score": 0.491461,
+"arguments": [
+{
+"text": "guru",
+"location": [
+108,
+112
+],
+"entities": [
+{
+"type": "Person",
+"text": "Guru Nanak Devji"
+}
+]
+},
+{
+"text": "saying",
+"location": [
+144,
+150
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "saying"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "Taking on Gandhi over the same issue, BJP spokesperson Sudhanshu Trivedi said the Congress president has demeaned the Indian culture and he is an immature politician.",
+"score": 0.467079,
+"arguments": [
+{
+"text": "president",
+"location": [
+1511,
+1520
+],
+"entities": [
+{
+"type": "Person",
+"text": "Rahul Gandhi"
+}
+]
+},
+{
+"text": "Indian",
+"location": [
+1538,
+1544
+],
+"entities": [
+{
+"type": "Facility",
+"text": "Indian diaspora"
+}
+]
+}
+]
+},
+{
+"type": "managerOf",
+"sentence": "The BJP on Friday lashed out at Congress president Rahul Gandhi for invoking Guru Nanak Dev, the first Sikh guru, during his address in Berlin, saying his party is identified with anti-Sikh riots in 1984 and he should apologise for the \"heinous crime\" at the Golden Temple.",
+"score": 0.873297,
+"arguments": [
+{
+"text": "his",
+"location": [
+151,
+154
+],
+"entities": [
+{
+"type": "Person",
+"text": "Guru Nanak Devji"
+}
+]
+},
+{
+"text": "party",
+"location": [
+155,
+160
+],
+"entities": [
+{
+"type": "Organization",
+"text": "party"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "The BJP on Friday lashed out at Congress president Rahul Gandhi for invoking Guru Nanak Dev, the first Sikh guru, during his address in Berlin, saying his party is identified with anti-Sikh riots in 1984 and he should apologise for the \"heinous crime\" at the Golden Temple.",
+"score": 0.810149,
+"arguments": [
+{
+"text": "party",
+"location": [
+155,
+160
+],
+"entities": [
+{
+"type": "Organization",
+"text": "party"
+}
+]
+},
+{
+"text": "riots",
+"location": [
+190,
+195
+],
+"entities": [
+{
+"type": "Crime",
+"text": "riots"
+}
+]
+}
+]
+},
+{
+"type": "timeOf",
+"sentence": "The BJP on Friday lashed out at Congress president Rahul Gandhi for invoking Guru Nanak Dev, the first Sikh guru, during his address in Berlin, saying his party is identified with anti-Sikh riots in 1984 and he should apologise for the \"heinous crime\" at the Golden Temple.",
+"score": 0.656857,
+"arguments": [
+{
+"text": "1984",
+"location": [
+199,
+203
+],
+"entities": [
+{
+"type": "Date",
+"text": "1984"
+}
+]
+},
+{
+"text": "riots",
+"location": [
+190,
+195
+],
+"entities": [
+{
+"type": "Crime",
+"text": "riots"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "For him, Sikhs are merely a vote bank, BJP national secretary RP Singh said.",
+"score": 0.995664,
+"arguments": [
+{
+"text": "RP Singh",
+"location": [
+401,
+409
+],
+"entities": [
+{
+"type": "Person",
+"text": "RP Singh"
+}
+]
+},
+{
+"text": "said",
+"location": [
+410,
+414
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "In a sharp reaction to his remarks, Singh said Gandhi's thoughts are actually in line with the Congress culture of divide and rule.",
+"score": 0.996241,
+"arguments": [
+{
+"text": "Singh",
+"location": [
+748,
+753
+],
+"entities": [
+{
+"type": "Person",
+"text": "RP Singh"
+}
+]
+},
+{
+"text": "said",
+"location": [
+754,
+758
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Actually his thoughts are in line with Congress culture of divide and rule,\" Singh said.",
+"score": 0.997911,
+"arguments": [
+{
+"text": "Singh",
+"location": [
+1077,
+1082
+],
+"entities": [
+{
+"type": "Person",
+"text": "RP Singh"
+}
+]
+},
+{
+"text": "said",
+"location": [
+1083,
+1087
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "PTI Addressing the Indian diaspora at a function organised by the Indian Overseas Congress in Berlin on Thursdaynight, Gandhi said the Congress's thought of \"unity in diversity\" came from the times of Guru Nanak Dev, and the BJP-RSS divides people and spreads hatred.",
+"score": 0.62048,
+"arguments": [
+{
+"text": "Indian diaspora",
+"location": [
+463,
+478
+],
+"entities": [
+{
+"type": "Facility",
+"text": "Indian diaspora"
+}
+]
+},
+{
+"text": "Berlin",
+"location": [
+538,
+544
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Berlin"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "PTI Addressing the Indian diaspora at a function organised by the Indian Overseas Congress in Berlin on Thursdaynight, Gandhi said the Congress's thought of \"unity in diversity\" came from the times of Guru Nanak Dev, and the BJP-RSS divides people and spreads hatred.",
+"score": 0.527995,
+"arguments": [
+{
+"text": "Congress",
+"location": [
+526,
+534
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Congress",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+},
+{
+"text": "Berlin",
+"location": [
+538,
+544
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Berlin"
+}
+]
+}
+]
+}
+],
+"language": "en",
+"keywords": [
+{
+"text": "Guru Nanak Dev",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.984013,
+"emotion": {
+"sadness": 0.197779,
+"joy": 0.311266,
+"fear": 0.044088,
+"disgust": 0.276015,
+"anger": 0.227451
+}
+},
+{
+"text": "president Rahul Gandhi",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.65545,
+"emotion": {
+"sadness": 0.163964,
+"joy": 0.216428,
+"fear": 0.088285,
+"disgust": 0.240384,
+"anger": 0.256525
+}
+},
+{
+"text": "Guru Nanak Devji",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.549588,
+"emotion": {
+"sadness": 0.347254,
+"joy": 0.189093,
+"fear": 0.091971,
+"disgust": 0.09846,
+"anger": 0.080206
+}
+},
+{
+"text": "Golden Temple",
+"sentiment": {
+"score": -0.0208096,
+"label": "negative"
+},
+"relevance": 0.545498,
+"emotion": {
+"sadness": 0.094809,
+"joy": 0.341494,
+"fear": 0.101977,
+"disgust": 0.224809,
+"anger": 0.220336
+}
+},
+{
+"text": "Sikh guru",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.51693,
+"emotion": {
+"sadness": 0.313294,
+"joy": 0.26267,
+"fear": 0.079556,
+"disgust": 0.096823,
+"anger": 0.079237
+}
+}
+],
+"entities": [
+{
+"type": "Person",
+"text": "Rahul Gandhi",
+"sentiment": {
+"score": -0.46421,
+"label": "negative"
+},
+"relevance": 0.911288,
+"emotion": {
+"sadness": 0.478406,
+"joy": 0.139412,
+"fear": 0.077902,
+"disgust": 0.166558,
+"anger": 0.131213
+},
+"disambiguation": {
+"subtype": [
+"Politician",
+"OfficeHolder"
+],
+"name": "Rahul Gandhi",
+"dbpedia_resource": "http://dbpedia.org/resource/Rahul_Gandhi"
+},
+"count": 10
+},
+{
+"type": "Person",
+"text": "Guru Nanak Dev",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.601091,
+"emotion": {
+"sadness": 0.192268,
+"joy": 0.319572,
+"fear": 0.04262,
+"disgust": 0.273655,
+"anger": 0.228814
+},
+"count": 4
+},
+{
+"type": "Organization",
+"text": "Congress",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.406456,
+"emotion": {
+"sadness": 0.326181,
+"joy": 0.04334,
+"fear": 0.049211,
+"disgust": 0.516287,
+"anger": 0.362816
+},
+"disambiguation": {
+"subtype": [
+"PoliticalParty"
+],
+"name": "Indian National Congress",
+"dbpedia_resource": "http://dbpedia.org/resource/Indian_National_Congress"
+},
+"count": 5
+},
+{
+"type": "Person",
+"text": "RP Singh",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.283858,
+"emotion": {
+"sadness": 0.531031,
+"joy": 0.065463,
+"fear": 0.113901,
+"disgust": 0.301937,
+"anger": 0.190614
+},
+"disambiguation": {
+"subtype": [
+"Athlete",
+"CricketBowler",
+"CricketPlayer"
+],
+"name": "R. P. Singh",
+"dbpedia_resource": "http://dbpedia.org/resource/R._P._Singh"
+},
+"count": 4
+},
+{
+"type": "Person",
+"text": "Guru Nanak Devji",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.272635,
+"emotion": {
+"sadness": 0.347254,
+"joy": 0.189093,
+"fear": 0.091971,
+"disgust": 0.09846,
+"anger": 0.080206
+},
+"count": 1
+}
+],
+"concepts": [
+{
+"text": "Sikh",
+"relevance": 0.94642,
+"dbpedia_resource": "http://dbpedia.org/resource/Sikh"
+},
+{
+"text": "Guru Granth Sahib",
+"relevance": 0.838451,
+"dbpedia_resource": "http://dbpedia.org/resource/Guru_Granth_Sahib"
+},
+{
+"text": "Sikhism",
+"relevance": 0.798335,
+"dbpedia_resource": "http://dbpedia.org/resource/Sikhism"
+},
+{
+"text": "Guru Nanak Dev",
+"relevance": 0.781827,
+"dbpedia_resource": "http://dbpedia.org/resource/Guru_Nanak_Dev"
+},
+{
+"text": "Harmandir Sahib",
+"relevance": 0.621069,
+"dbpedia_resource": "http://dbpedia.org/resource/Harmandir_Sahib"
+}
+],
+"categories": [
+{
+"score": 0.499402,
+"label": "/religion and spirituality/hinduism"
+},
+{
+"score": 0.385476,
+"label": "/law, govt and politics/politics"
+},
+{
+"score": 0.36964,
+"label": "/religion and spirituality"
+}
+]
+}
+}

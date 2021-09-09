@@ -1,0 +1,3070 @@
+{
+"source_article_link": "https://www.firstpost.com/india/rahul-gandhi-compares-rss-with-muslim-brotherhood-attacks-modi-in-london-address-5037681.html",
+"title": "Rahul Gandhi compares RSS with Muslim Brotherhood, attacks Modi in London address",
+"date_published": "2018-08-24T17:08:14+05:30",
+"source_type": "news_article",
+"source_name": "FirstPost",
+"image_link": [
+"https://images.firstpost.com/wp-content/uploads/2018/08/xxxw.jpg"
+],
+"article_body": "Comparing the Rashtriya Swayamsevak Sangh (RSS) to the Muslim Brotherhood in the Arab world, Congress president Rahul Gandhi on Friday unleashed a no-holds-barred attack on the Narendra Modi government and the ideological parent of the BJP while addressing students in the Strategic Studies Institute in London. Rahul gandhi at Strategic Studies Institute in London. Courtesy: Twitter/@INCIndia \"RSS is trying to change the nature of India. Other parties haven't tried to capture India's institutions. RSS's idea is similar to the idea of Muslim Brotherhood in the Arab world,\" said Rahul. He said, \"In the year 1947 the West did not trust India, but India proved the West wrong. We got success because thousands of people have created institutions and this is the institutions which are being attacked today.\" The Congress chief also blamed the RSS for the idea of demonetisation. \"The idea came directly from the RSS, bypassed the finance minister and RBI, and was planted in the prime minister's head,\"he said. Rahul also criticised the Modi government for its poor strategy regarding Pakistan. \"I would like to say that even with Pakistan, they lack a coherent strategy,\" he said.\"One of my main complaints about the current governmentin India is that I don't see a coherent strategy based on India's strengths. I only see knee-jerk reactions,\" he claimed. Rahul even accused Modi of centralising power.He said that India succeeded only when the power was decentralised and that there has been a centralisation of power in the last four years. \"Today the full power of power has become concentrated with theprime minister,\" he said. Rahul praised the Chinese governance system and stated that India should learn how to run local governments from China, as the prime minister in India \"holds too much power\". Attacking the Ministry of External Affairs, Rahul stated that all that Foreign Minister Sushma Swaraj does is issue visas. \"By breaking the monopoly of MEA and by making it more accessible to other elements of society a modern MEA can be formed. The Foreign Minister of India spends a massive amount of time in just issuing visas,\" he said. While talking about the DokaLa standoff in 2017, the Congress president claimed that if Modi was careful enough, the standoff could have been stopped. \"It was not an isolated issue, it was a part of a sequence of events. The prime minister is episodic, he views DokaLa as an event. If he was carefully watching the process, he could've stopped it,\" said Rahul.He also claimed that the Chinese troops are still present in Doka La till date. Rahul in his earlier address in Berlin attacked the divisive politics of the RSS and the BJPand stated that the ruling party's ideology is in contrast with that ofCongress'. He claimed that the BJP and RSS are working to divide our own people and spread hate in our own country\u2019 instead of watching over India\u2019s actual competition, which is China. Rahul is on a five-day tour to Germany and the UK. On Thursday, he addressed a gathering at the Bucerius Summer School in Hamburg, Germany where he cited the creation of Islamic State terrorist group to warn against a similar situation in India if people are excluded from the development process.",
+"description": "Comparing the Rashtriya Swayamsevak Sangh (RSS) to the Muslim Brotherhood in the Arab world, Congress president Rahul Gandhi on Friday unleashed a no-holds-barred attack on the Narendra Modi government and the ideological parent of the BJP while addressing students in the Strategic Studies Institute in London. Rahul gandhi at Strategic Studies Institute in London. Courtesy: Twitter/@INCIndia \"RSS is trying to change the nature of India. Other parties haven't tried to capture India's institutions. RSS's idea is similar to the idea of Muslim Brotherhood in the Arab world,\" said Rahul. He said, \"In the year 1947 the West did not trust India, but India proved the West wrong. We got success because thousands of people have created institutions and this is the institutions which are being attacked today.\" The Congress chief also blamed the RSS for the idea of demonetisation.",
+"time_scraped": "2018-08-24 18:04:59.779297",
+"article_id": "5037681",
+"article_category": "India",
+"image_details": [
+{
+"url": "https://images.firstpost.com/wp-content/uploads/2018/08/xxxw.jpg",
+"path": "full/f1eb52fe11c606635b0755e93665e2f0d24750ce.jpg",
+"checksum": "098456282eef3c8bea87ea82901ff06f"
+}
+],
+"ibm_nlu": {
+"usage": {
+"text_units": 1,
+"text_characters": 3238,
+"features": 7
+},
+"sentiment": {
+"document": {
+"score": -0.24938,
+"label": "negative"
+}
+},
+"semantic_roles": [
+{
+"subject": {
+"text": "Congress president Rahul Gandhi on Friday"
+},
+"sentence": "Comparing the Rashtriya Swayamsevak Sangh (RSS) to the Muslim Brotherhood in the Arab world, Congress president Rahul Gandhi on Friday unleashed a no-holds-barred attack on the Narendra Modi government and the ideological parent of the BJP while addressing students in the Strategic Studies Institute in London.",
+"object": {
+"text": "the Rashtriya Swayamsevak Sangh (RSS)"
+},
+"action": {
+"verb": {
+"text": "Comparing",
+"tense": "present"
+},
+"text": "Comparing",
+"normalized": "Comparing"
+}
+},
+{
+"subject": {
+"text": "Congress president Rahul Gandhi on Friday"
+},
+"sentence": "Comparing the Rashtriya Swayamsevak Sangh (RSS) to the Muslim Brotherhood in the Arab world, Congress president Rahul Gandhi on Friday unleashed a no-holds-barred attack on the Narendra Modi government and the ideological parent of the BJP while addressing students in the Strategic Studies Institute in London.",
+"object": {
+"text": "a no-holds-barred attack on the Narendra Modi government and the ideological parent of the BJP"
+},
+"action": {
+"verb": {
+"text": "unleash",
+"tense": "past"
+},
+"text": "unleashed",
+"normalized": "unleash"
+}
+},
+{
+"subject": {
+"text": "students"
+},
+"sentence": "Comparing the Rashtriya Swayamsevak Sangh (RSS) to the Muslim Brotherhood in the Arab world, Congress president Rahul Gandhi on Friday unleashed a no-holds-barred attack on the Narendra Modi government and the ideological parent of the BJP while addressing students in the Strategic Studies Institute in London.",
+"action": {
+"verb": {
+"text": "address",
+"tense": "present"
+},
+"text": "addressing",
+"normalized": "address"
+}
+},
+{
+"subject": {
+"text": "RSS"
+},
+"sentence": " Courtesy: Twitter/@INCIndia \"RSS is trying to change the nature of India.",
+"object": {
+"text": "to change the nature of India"
+},
+"action": {
+"verb": {
+"text": "try",
+"tense": "present"
+},
+"text": "trying",
+"normalized": "try"
+}
+},
+{
+"subject": {
+"text": "RSS"
+},
+"sentence": " Courtesy: Twitter/@INCIndia \"RSS is trying to change the nature of India.",
+"object": {
+"text": "the nature of India"
+},
+"action": {
+"verb": {
+"text": "change",
+"tense": "future"
+},
+"text": "is trying to change",
+"normalized": "be try to change"
+}
+},
+{
+"subject": {
+"text": "Other parties"
+},
+"sentence": " Other parties haven't tried to capture India's institutions.",
+"object": {
+"text": "n't tried to capture India's institutions"
+},
+"action": {
+"verb": {
+"text": "have",
+"tense": "present"
+},
+"text": "have",
+"normalized": "have"
+}
+},
+{
+"subject": {
+"text": "Other parties"
+},
+"sentence": " Other parties haven't tried to capture India's institutions.",
+"object": {
+"text": "to capture India's institutions"
+},
+"action": {
+"verb": {
+"text": "try",
+"tense": "future",
+"negated": true
+},
+"text": "tried",
+"normalized": "try"
+}
+},
+{
+"subject": {
+"text": "Other parties"
+},
+"sentence": " Other parties haven't tried to capture India's institutions.",
+"object": {
+"text": "India"
+},
+"action": {
+"verb": {
+"text": "capture",
+"tense": "future"
+},
+"text": "haven't tried to capture",
+"normalized": "haven't try to capture"
+}
+},
+{
+"subject": {
+"text": "RSS's idea"
+},
+"sentence": " RSS's idea is similar to the idea of Muslim Brotherhood in the Arab world,\" said Rahul.",
+"object": {
+"text": "similar to the idea of Muslim Brotherhood in the Arab world"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "present"
+},
+"text": "is",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "Rahul"
+},
+"sentence": " RSS's idea is similar to the idea of Muslim Brotherhood in the Arab world,\" said Rahul.",
+"object": {
+"text": "RSS's idea is similar to the idea of Muslim Brotherhood in the Arab world"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "He"
+},
+"sentence": " He said, \"In the year 1947 the West did not trust India, but India proved the West wrong.",
+"object": {
+"text": "In the year 1947 the West did not trust India"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "the West"
+},
+"sentence": " He said, \"In the year 1947 the West did not trust India, but India proved the West wrong.",
+"object": {
+"text": "India"
+},
+"action": {
+"verb": {
+"text": "trust",
+"tense": "past",
+"negated": true
+},
+"text": "trust",
+"normalized": "trust"
+}
+},
+{
+"subject": {
+"text": "India"
+},
+"sentence": " He said, \"In the year 1947 the West did not trust India, but India proved the West wrong.",
+"action": {
+"verb": {
+"text": "prove",
+"tense": "past"
+},
+"text": "proved",
+"normalized": "prove"
+}
+},
+{
+"subject": {
+"text": "We"
+},
+"sentence": " We got success because thousands of people have created institutions and this is the institutions which are being attacked today.\"",
+"object": {
+"text": "success"
+},
+"action": {
+"verb": {
+"text": "get",
+"tense": "past"
+},
+"text": "got",
+"normalized": "get"
+}
+},
+{
+"subject": {
+"text": "thousands of people"
+},
+"sentence": " We got success because thousands of people have created institutions and this is the institutions which are being attacked today.\"",
+"object": {
+"text": "created institutions"
+},
+"action": {
+"verb": {
+"text": "have",
+"tense": "present"
+},
+"text": "have",
+"normalized": "have"
+}
+},
+{
+"subject": {
+"text": "thousands of people"
+},
+"sentence": " We got success because thousands of people have created institutions and this is the institutions which are being attacked today.\"",
+"object": {
+"text": "institutions"
+},
+"action": {
+"verb": {
+"text": "create",
+"tense": "past"
+},
+"text": "have created",
+"normalized": "have create"
+}
+},
+{
+"subject": {
+"text": "thousands of people have created institutions and this"
+},
+"sentence": " We got success because thousands of people have created institutions and this is the institutions which are being attacked today.\"",
+"object": {
+"text": "the institutions which are being attacked today"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "present"
+},
+"text": "is",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "the institutions"
+},
+"sentence": " We got success because thousands of people have created institutions and this is the institutions which are being attacked today.\"",
+"action": {
+"verb": {
+"text": "attack",
+"tense": "past"
+},
+"text": "are being attacked",
+"normalized": "be be attack"
+}
+},
+{
+"subject": {
+"text": "The Congress chief"
+},
+"sentence": " The Congress chief also blamed the RSS for the idea of demonetisation.",
+"object": {
+"text": "the RSS"
+},
+"action": {
+"verb": {
+"text": "blame",
+"tense": "past"
+},
+"text": "blamed",
+"normalized": "blame"
+}
+},
+{
+"subject": {
+"text": "The idea"
+},
+"sentence": " \"The idea came directly from the RSS, bypassed the finance minister and RBI, and was planted in the prime minister's head,\"he said.",
+"object": {
+"text": "from the RSS"
+},
+"action": {
+"verb": {
+"text": "come",
+"tense": "past"
+},
+"text": "came",
+"normalized": "come"
+}
+},
+{
+"subject": {
+"text": "he"
+},
+"sentence": " \"The idea came directly from the RSS, bypassed the finance minister and RBI, and was planted in the prime minister's head,\"he said.",
+"object": {
+"text": "The idea came directly from the RSS, bypassed the finance minister and RBI, and was planted in the prime minister's head"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "Rahul"
+},
+"sentence": " Rahul also criticised the Modi government for its poor strategy regarding Pakistan.",
+"object": {
+"text": "the Modi government"
+},
+"action": {
+"verb": {
+"text": "criticise",
+"tense": "past"
+},
+"text": "criticised",
+"normalized": "criticise"
+}
+},
+{
+"subject": {
+"text": "its poor strategy"
+},
+"sentence": " Rahul also criticised the Modi government for its poor strategy regarding Pakistan.",
+"object": {
+"text": "Pakistan"
+},
+"action": {
+"verb": {
+"text": "regard",
+"tense": "present"
+},
+"text": "regarding",
+"normalized": "regard"
+}
+},
+{
+"subject": {
+"text": "I"
+},
+"sentence": " \"I would like to say that even with Pakistan, they lack a coherent strategy,\" he said.\"One of my main complaints about the current governmentin India is that I don't see a coherent strategy based on India's strengths.",
+"object": {
+"text": "to say that even with Pakistan, they lack a coherent strategy"
+},
+"action": {
+"verb": {
+"text": "like",
+"tense": "future"
+},
+"text": "like",
+"normalized": "like"
+}
+},
+{
+"subject": {
+"text": "I"
+},
+"sentence": " \"I would like to say that even with Pakistan, they lack a coherent strategy,\" he said.\"One of my main complaints about the current governmentin India is that I don't see a coherent strategy based on India's strengths.",
+"object": {
+"text": "that even with Pakistan"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "future"
+},
+"text": "would like to say",
+"normalized": "would like to say"
+}
+},
+{
+"subject": {
+"text": "I"
+},
+"sentence": " \"I would like to say that even with Pakistan, they lack a coherent strategy,\" he said.\"One of my main complaints about the current governmentin India is that I don't see a coherent strategy based on India's strengths.",
+"object": {
+"text": "a coherent strategy based on India's strengths"
+},
+"action": {
+"verb": {
+"text": "see",
+"tense": "future",
+"negated": true
+},
+"text": "see",
+"normalized": "see"
+}
+},
+{
+"subject": {
+"text": "I"
+},
+"sentence": " I only see knee-jerk reactions,\" he claimed.",
+"object": {
+"text": "knee-jerk reactions"
+},
+"action": {
+"verb": {
+"text": "see",
+"tense": "present"
+},
+"text": "see",
+"normalized": "see"
+}
+},
+{
+"subject": {
+"text": "he"
+},
+"sentence": " I only see knee-jerk reactions,\" he claimed.",
+"object": {
+"text": "I only see knee-jerk reactions"
+},
+"action": {
+"verb": {
+"text": "claim",
+"tense": "past"
+},
+"text": "claimed",
+"normalized": "claim"
+}
+},
+{
+"subject": {
+"text": "Rahul"
+},
+"sentence": " Rahul even accused Modi of centralising power.He said that India succeeded only when the power was decentralised and that there has been a centralisation of power in the last four years.",
+"object": {
+"text": "Modi"
+},
+"action": {
+"verb": {
+"text": "accuse",
+"tense": "past"
+},
+"text": "accused",
+"normalized": "accuse"
+}
+},
+{
+"subject": {
+"text": "Modi"
+},
+"sentence": " Rahul even accused Modi of centralising power.He said that India succeeded only when the power was decentralised and that there has been a centralisation of power in the last four years.",
+"object": {
+"text": "power.He"
+},
+"action": {
+"verb": {
+"text": "centralise",
+"tense": "future"
+},
+"text": "centralising",
+"normalized": "centralise"
+}
+},
+{
+"subject": {
+"text": "Modi of centralising power.He"
+},
+"sentence": " Rahul even accused Modi of centralising power.He said that India succeeded only when the power was decentralised and that there has been a centralisation of power in the last four years.",
+"object": {
+"text": "that India succeeded only when the power was decentralised and that there has been a centralisation of power in the last four years"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "India"
+},
+"sentence": " Rahul even accused Modi of centralising power.He said that India succeeded only when the power was decentralised and that there has been a centralisation of power in the last four years.",
+"action": {
+"verb": {
+"text": "succeed",
+"tense": "past"
+},
+"text": "succeeded",
+"normalized": "succeed"
+}
+},
+{
+"subject": {
+"text": "been a centralisation of power"
+},
+"sentence": " Rahul even accused Modi of centralising power.He said that India succeeded only when the power was decentralised and that there has been a centralisation of power in the last four years.",
+"action": {
+"verb": {
+"text": "have",
+"tense": "past"
+},
+"text": "has",
+"normalized": "have"
+}
+},
+{
+"subject": {
+"text": "a centralisation of power"
+},
+"sentence": " Rahul even accused Modi of centralising power.He said that India succeeded only when the power was decentralised and that there has been a centralisation of power in the last four years.",
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "has been",
+"normalized": "have be"
+}
+},
+{
+"subject": {
+"text": "the full power of power"
+},
+"sentence": " \"Today the full power of power has become concentrated with theprime minister,\" he said.",
+"object": {
+"text": "concentrated with theprime minister"
+},
+"action": {
+"verb": {
+"text": "become",
+"tense": "past"
+},
+"text": "has become",
+"normalized": "have become"
+}
+},
+{
+"subject": {
+"text": "he"
+},
+"sentence": " \"Today the full power of power has become concentrated with theprime minister,\" he said.",
+"object": {
+"text": "Today the full power of power has become concentrated with theprime minister"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "Rahul"
+},
+"sentence": " Rahul praised the Chinese governance system and stated that India should learn how to run local governments from China, as the prime minister in India \"holds too much power\".",
+"object": {
+"text": "the Chinese governance system"
+},
+"action": {
+"verb": {
+"text": "praise",
+"tense": "past"
+},
+"text": "praised",
+"normalized": "praise"
+}
+},
+{
+"subject": {
+"text": "India"
+},
+"sentence": " Rahul praised the Chinese governance system and stated that India should learn how to run local governments from China, as the prime minister in India \"holds too much power\".",
+"object": {
+"text": "how to run local governments from China"
+},
+"action": {
+"verb": {
+"text": "learn",
+"tense": "future"
+},
+"text": "should learn",
+"normalized": "should learn"
+}
+},
+{
+"subject": {
+"text": "the prime minister in India"
+},
+"sentence": " Rahul praised the Chinese governance system and stated that India should learn how to run local governments from China, as the prime minister in India \"holds too much power\".",
+"object": {
+"text": "too much power"
+},
+"action": {
+"verb": {
+"text": "hold",
+"tense": "present"
+},
+"text": "holds",
+"normalized": "hold"
+}
+},
+{
+"subject": {
+"text": "Rahul"
+},
+"sentence": " Attacking the Ministry of External Affairs, Rahul stated that all that Foreign Minister Sushma Swaraj does is issue visas.",
+"object": {
+"text": "the Ministry of External Affairs"
+},
+"action": {
+"verb": {
+"text": "Attacking",
+"tense": "present"
+},
+"text": "Attacking",
+"normalized": "Attacking"
+}
+},
+{
+"subject": {
+"text": "Rahul"
+},
+"sentence": " Attacking the Ministry of External Affairs, Rahul stated that all that Foreign Minister Sushma Swaraj does is issue visas.",
+"object": {
+"text": "that all that Foreign Minister Sushma Swaraj does is issue visas"
+},
+"action": {
+"verb": {
+"text": "state",
+"tense": "past"
+},
+"text": "stated",
+"normalized": "state"
+}
+},
+{
+"subject": {
+"text": "The Foreign Minister of India"
+},
+"sentence": " The Foreign Minister of India spends a massive amount of time in just issuing visas,\" he said.",
+"object": {
+"text": "a massive amount of time in just issuing visas"
+},
+"action": {
+"verb": {
+"text": "spend",
+"tense": "present"
+},
+"text": "spends",
+"normalized": "spend"
+}
+},
+{
+"subject": {
+"text": "The Foreign Minister of India"
+},
+"sentence": " The Foreign Minister of India spends a massive amount of time in just issuing visas,\" he said.",
+"object": {
+"text": "visas"
+},
+"action": {
+"verb": {
+"text": "issue",
+"tense": "present"
+},
+"text": "issuing",
+"normalized": "issue"
+}
+},
+{
+"subject": {
+"text": "he"
+},
+"sentence": " The Foreign Minister of India spends a massive amount of time in just issuing visas,\" he said.",
+"object": {
+"text": "The Foreign Minister of India spends a massive amount of time in just issuing visas"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "the Congress president"
+},
+"sentence": " While talking about the DokaLa standoff in 2017, the Congress president claimed that if Modi was careful enough, the standoff could have been stopped.",
+"object": {
+"text": "that if Modi was careful enough, the standoff could have been stopped"
+},
+"action": {
+"verb": {
+"text": "claim",
+"tense": "past"
+},
+"text": "claimed",
+"normalized": "claim"
+}
+},
+{
+"subject": {
+"text": "it"
+},
+"sentence": " \"It was not an isolated issue, it was a part of a sequence of events.",
+"object": {
+"text": "a part of a sequence of events"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "was",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "The prime minister"
+},
+"sentence": " The prime minister is episodic, he views DokaLa as an event.",
+"object": {
+"text": "episodic"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "present"
+},
+"text": "is",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "he"
+},
+"sentence": " The prime minister is episodic, he views DokaLa as an event.",
+"object": {
+"text": "DokaLa"
+},
+"action": {
+"verb": {
+"text": "view",
+"tense": "present"
+},
+"text": "views",
+"normalized": "view"
+}
+},
+{
+"subject": {
+"text": "he"
+},
+"sentence": " If he was carefully watching the process, he could've stopped it,\" said Rahul.He also claimed that the Chinese troops are still present in Doka La till date.",
+"object": {
+"text": "watching the process"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "was",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "he"
+},
+"sentence": " If he was carefully watching the process, he could've stopped it,\" said Rahul.He also claimed that the Chinese troops are still present in Doka La till date.",
+"object": {
+"text": "the process"
+},
+"action": {
+"verb": {
+"text": "watch",
+"tense": "past"
+},
+"text": "watching",
+"normalized": "watch"
+}
+}
+],
+"relations": [
+{
+"type": "affiliatedWith",
+"sentence": "Comparing the Rashtriya Swayamsevak Sangh (RSS) to the Muslim Brotherhood in the Arab world, Congress president Rahul Gandhi on Friday unleashed a no-holds-barred attack on the Narendra Modi government and the ideological parent of the BJP while addressing students in the Strategic Studies Institute in London.",
+"score": 0.525663,
+"arguments": [
+{
+"text": "world",
+"location": [
+86,
+91
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "West"
+}
+]
+},
+{
+"text": "Arab",
+"location": [
+81,
+85
+],
+"entities": [
+{
+"type": "Person",
+"text": "Arab"
+}
+]
+}
+]
+},
+{
+"type": "affiliatedWith",
+"sentence": "RSS's idea is similar to the idea of Muslim Brotherhood in the Arab world,\" said Rahul.",
+"score": 0.501441,
+"arguments": [
+{
+"text": "world",
+"location": [
+570,
+575
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "West"
+}
+]
+},
+{
+"text": "Arab",
+"location": [
+565,
+569
+],
+"entities": [
+{
+"type": "Person",
+"text": "Arab"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "RSS's idea is similar to the idea of Muslim Brotherhood in the Arab world,\" said Rahul.",
+"score": 0.652758,
+"arguments": [
+{
+"text": "Muslim Brotherhood",
+"location": [
+539,
+557
+],
+"entities": [
+{
+"type": "Facility",
+"text": "Muslim Brotherhood"
+}
+]
+},
+{
+"text": "world",
+"location": [
+570,
+575
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "West"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "RSS's idea is similar to the idea of Muslim Brotherhood in the Arab world,\" said Rahul.",
+"score": 0.980287,
+"arguments": [
+{
+"text": "Rahul",
+"location": [
+583,
+588
+],
+"entities": [
+{
+"type": "Person",
+"text": "Rahul Gandhi"
+}
+]
+},
+{
+"text": "said",
+"location": [
+578,
+582
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "addressed"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "He said, \"In the year 1947 the West did not trust India, but India proved the West wrong.",
+"score": 0.982361,
+"arguments": [
+{
+"text": "He",
+"location": [
+590,
+592
+],
+"entities": [
+{
+"type": "Person",
+"text": "Rahul Gandhi"
+}
+]
+},
+{
+"text": "said",
+"location": [
+593,
+597
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "addressed"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "\"The idea came directly from the RSS, bypassed the finance minister and RBI, and was planted in the prime minister's head,\"he said.",
+"score": 0.985077,
+"arguments": [
+{
+"text": "he",
+"location": [
+1005,
+1007
+],
+"entities": [
+{
+"type": "Person",
+"text": "Rahul Gandhi"
+}
+]
+},
+{
+"text": "said",
+"location": [
+1008,
+1012
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "addressed"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "\"I would like to say that even with Pakistan, they lack a coherent strategy,\" he said.",
+"score": 0.987099,
+"arguments": [
+{
+"text": "he",
+"location": [
+1176,
+1178
+],
+"entities": [
+{
+"type": "Person",
+"text": "Rahul Gandhi"
+}
+]
+},
+{
+"text": "said",
+"location": [
+1179,
+1183
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "addressed"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "We got success because thousands of people have created institutions and this is the institutions which are being attacked today.",
+"score": 0.398094,
+"arguments": [
+{
+"text": "which",
+"location": [
+778,
+783
+],
+"entities": [
+{
+"type": "Organization",
+"text": "institutions"
+}
+]
+},
+{
+"text": "attacked",
+"location": [
+794,
+802
+],
+"entities": [
+{
+"type": "NaturalDisaster",
+"text": "attacked"
+}
+]
+}
+]
+},
+{
+"type": "timeOf",
+"sentence": "We got success because thousands of people have created institutions and this is the institutions which are being attacked today.",
+"score": 0.955219,
+"arguments": [
+{
+"text": "today",
+"location": [
+803,
+808
+],
+"entities": [
+{
+"type": "Date",
+"text": "today"
+}
+]
+},
+{
+"text": "attacked",
+"location": [
+794,
+802
+],
+"entities": [
+{
+"type": "NaturalDisaster",
+"text": "attacked"
+}
+]
+}
+]
+},
+{
+"type": "managerOf",
+"sentence": "\" The Congress chief also blamed the RSS for the idea of demonetisation.",
+"score": 0.711034,
+"arguments": [
+{
+"text": "chief",
+"location": [
+824,
+829
+],
+"entities": [
+{
+"type": "Person",
+"text": "chief"
+}
+]
+},
+{
+"text": "Congress",
+"location": [
+815,
+823
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Congress",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "\" The Congress chief also blamed the RSS for the idea of demonetisation.",
+"score": 0.865889,
+"arguments": [
+{
+"text": "chief",
+"location": [
+824,
+829
+],
+"entities": [
+{
+"type": "Person",
+"text": "chief"
+}
+]
+},
+{
+"text": "blamed",
+"location": [
+835,
+841
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "blamed"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Rahul also criticised the Modi government for its poor strategy regarding Pakistan.",
+"score": 0.924602,
+"arguments": [
+{
+"text": "Rahul",
+"location": [
+1014,
+1019
+],
+"entities": [
+{
+"type": "Person",
+"text": "Rahul Gandhi"
+}
+]
+},
+{
+"text": "criticised",
+"location": [
+1025,
+1035
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "criticised"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "Rahul also criticised the Modi government for its poor strategy regarding Pakistan.",
+"score": 0.871333,
+"arguments": [
+{
+"text": "government",
+"location": [
+1045,
+1055
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Chinese",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+},
+{
+"text": "criticised",
+"location": [
+1025,
+1035
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "criticised"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "I only see knee-jerk reactions,\" he claimed.",
+"score": 0.990833,
+"arguments": [
+{
+"text": "he",
+"location": [
+1349,
+1351
+],
+"entities": [
+{
+"type": "Person",
+"text": "Rahul Gandhi"
+}
+]
+},
+{
+"text": "claimed",
+"location": [
+1352,
+1359
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "claimed"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Rahul even accused Modi of centralising power.",
+"score": 0.879491,
+"arguments": [
+{
+"text": "Rahul",
+"location": [
+1361,
+1366
+],
+"entities": [
+{
+"type": "Person",
+"text": "Rahul Gandhi"
+}
+]
+},
+{
+"text": "accused",
+"location": [
+1372,
+1379
+],
+"entities": [
+{
+"type": "EventLegal",
+"text": "accused"
+}
+]
+}
+]
+},
+{
+"type": "managerOf",
+"sentence": "Comparing the Rashtriya Swayamsevak Sangh (RSS) to the Muslim Brotherhood in the Arab world, Congress president Rahul Gandhi on Friday unleashed a no-holds-barred attack on the Narendra Modi government and the ideological parent of the BJP while addressing students in the Strategic Studies Institute in London.",
+"score": 0.687227,
+"arguments": [
+{
+"text": "president",
+"location": [
+102,
+111
+],
+"entities": [
+{
+"type": "Person",
+"text": "Rahul Gandhi"
+}
+]
+},
+{
+"text": "Congress",
+"location": [
+93,
+101
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Congress",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "Rahul even accused Modi of centralising power.",
+"score": 0.969157,
+"arguments": [
+{
+"text": "Modi",
+"location": [
+1380,
+1384
+],
+"entities": [
+{
+"type": "Person",
+"text": "Narendra Modi"
+}
+]
+},
+{
+"text": "accused",
+"location": [
+1372,
+1379
+],
+"entities": [
+{
+"type": "EventLegal",
+"text": "accused"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "He said that India succeeded only when the power was decentralised and that there has been a centralisation of power in the last four years.",
+"score": 0.975669,
+"arguments": [
+{
+"text": "He",
+"location": [
+1407,
+1409
+],
+"entities": [
+{
+"type": "Person",
+"text": "Rahul Gandhi"
+}
+]
+},
+{
+"text": "said",
+"location": [
+1410,
+1414
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "\"Today the full power of power has become concentrated with theprime minister,\" he said.",
+"score": 0.987099,
+"arguments": [
+{
+"text": "he",
+"location": [
+1628,
+1630
+],
+"entities": [
+{
+"type": "Person",
+"text": "Rahul Gandhi"
+}
+]
+},
+{
+"text": "said",
+"location": [
+1631,
+1635
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Rahul praised the Chinese governance system and stated that India should learn how to run local governments from China, as the prime minister in India \"holds too much power\".",
+"score": 0.977597,
+"arguments": [
+{
+"text": "Rahul",
+"location": [
+1637,
+1642
+],
+"entities": [
+{
+"type": "Person",
+"text": "Rahul Gandhi"
+}
+]
+},
+{
+"text": "praised",
+"location": [
+1643,
+1650
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "praised"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "Rahul praised the Chinese governance system and stated that India should learn how to run local governments from China, as the prime minister in India \"holds too much power\".",
+"score": 0.574015,
+"arguments": [
+{
+"text": "prime minister",
+"location": [
+1764,
+1778
+],
+"entities": [
+{
+"type": "Person",
+"text": "prime minister"
+}
+]
+},
+{
+"text": "India",
+"location": [
+1782,
+1787
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "India",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Attacking the Ministry of External Affairs, Rahul stated that all that Foreign Minister Sushma Swaraj does is issue visas.",
+"score": 0.957143,
+"arguments": [
+{
+"text": "Rahul",
+"location": [
+1856,
+1861
+],
+"entities": [
+{
+"type": "Person",
+"text": "Rahul Gandhi"
+}
+]
+},
+{
+"text": "stated",
+"location": [
+1862,
+1868
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "stated"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "The Foreign Minister of India spends a massive amount of time in just issuing visas,\" he said.",
+"score": 0.980297,
+"arguments": [
+{
+"text": "he",
+"location": [
+2144,
+2146
+],
+"entities": [
+{
+"type": "Person",
+"text": "Rahul Gandhi"
+}
+]
+},
+{
+"text": "said",
+"location": [
+2147,
+2151
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "stated"
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "The Foreign Minister of India spends a massive amount of time in just issuing visas,\" he said.",
+"score": 0.487757,
+"arguments": [
+{
+"text": "Foreign Minister of",
+"location": [
+2062,
+2081
+],
+"entities": [
+{
+"type": "Person",
+"text": "Foreign Minister of"
+}
+]
+},
+{
+"text": "India",
+"location": [
+2082,
+2087
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "India",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "timeOf",
+"sentence": "While talking about the DokaLa standoff in 2017, the Congress president claimed that if Modi was careful enough, the standoff could have been stopped.",
+"score": 0.665433,
+"arguments": [
+{
+"text": "2017",
+"location": [
+2196,
+2200
+],
+"entities": [
+{
+"type": "Date",
+"text": "2017"
+}
+]
+},
+{
+"text": "talking",
+"location": [
+2159,
+2166
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "talking"
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "While talking about the DokaLa standoff in 2017, the Congress president claimed that if Modi was careful enough, the standoff could have been stopped.",
+"score": 0.660038,
+"arguments": [
+{
+"text": "president",
+"location": [
+2215,
+2224
+],
+"entities": [
+{
+"type": "Person",
+"text": "Rahul Gandhi"
+}
+]
+},
+{
+"text": "Congress",
+"location": [
+2206,
+2214
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Congress",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "While talking about the DokaLa standoff in 2017, the Congress president claimed that if Modi was careful enough, the standoff could have been stopped.",
+"score": 0.99101,
+"arguments": [
+{
+"text": "president",
+"location": [
+2215,
+2224
+],
+"entities": [
+{
+"type": "Person",
+"text": "Rahul Gandhi"
+}
+]
+},
+{
+"text": "claimed",
+"location": [
+2225,
+2232
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "claimed"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "If he was carefully watching the process, he could've stopped it,\" said Rahul.He also claimed that the Chinese troops are still present in Doka La till date.",
+"score": 0.865291,
+"arguments": [
+{
+"text": "Rahul.He",
+"location": [
+2507,
+2515
+],
+"entities": [
+{
+"type": "Person",
+"text": "Rahul Gandhi"
+}
+]
+},
+{
+"text": "claimed",
+"location": [
+2521,
+2528
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "claimed"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "If he was carefully watching the process, he could've stopped it,\" said Rahul.He also claimed that the Chinese troops are still present in Doka La till date.",
+"score": 0.983428,
+"arguments": [
+{
+"text": "Rahul.He",
+"location": [
+2507,
+2515
+],
+"entities": [
+{
+"type": "Person",
+"text": "Rahul Gandhi"
+}
+]
+},
+{
+"text": "said",
+"location": [
+2502,
+2506
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "managerOf",
+"sentence": "Comparing the Rashtriya Swayamsevak Sangh (RSS) to the Muslim Brotherhood in the Arab world, Congress president Rahul Gandhi on Friday unleashed a no-holds-barred attack on the Narendra Modi government and the ideological parent of the BJP while addressing students in the Strategic Studies Institute in London.",
+"score": 0.941337,
+"arguments": [
+{
+"text": "Narendra Modi",
+"location": [
+177,
+190
+],
+"entities": [
+{
+"type": "Person",
+"text": "Narendra Modi"
+}
+]
+},
+{
+"text": "government",
+"location": [
+191,
+201
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Chinese",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "managerOf",
+"sentence": "Rahul also criticised the Modi government for its poor strategy regarding Pakistan.",
+"score": 0.975028,
+"arguments": [
+{
+"text": "Modi",
+"location": [
+1040,
+1044
+],
+"entities": [
+{
+"type": "Person",
+"text": "Narendra Modi"
+}
+]
+},
+{
+"text": "government",
+"location": [
+1045,
+1055
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Chinese",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "If he was carefully watching the process, he could've stopped it,\" said Rahul.He also claimed that the Chinese troops are still present in Doka La till date.",
+"score": 0.986614,
+"arguments": [
+{
+"text": "troops",
+"location": [
+2546,
+2552
+],
+"entities": [
+{
+"type": "Person",
+"text": "troops"
+}
+]
+},
+{
+"text": "Chinese",
+"location": [
+2538,
+2545
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Chinese",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "If he was carefully watching the process, he could've stopped it,\" said Rahul.He also claimed that the Chinese troops are still present in Doka La till date.",
+"score": 0.82495,
+"arguments": [
+{
+"text": "troops",
+"location": [
+2546,
+2552
+],
+"entities": [
+{
+"type": "Person",
+"text": "troops"
+}
+]
+},
+{
+"text": "Doka La",
+"location": [
+2574,
+2581
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Doka La"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Rahul in his earlier address in Berlin attacked the divisive politics of the RSS and the BJPand stated that the ruling party's ideology is in contrast with that ofCongress'.",
+"score": 0.528005,
+"arguments": [
+{
+"text": "Rahul",
+"location": [
+2593,
+2598
+],
+"entities": [
+{
+"type": "Person",
+"text": "Rahul Gandhi"
+}
+]
+},
+{
+"text": "attacked",
+"location": [
+2632,
+2640
+],
+"entities": [
+{
+"type": "EventViolence",
+"text": "attack"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "He claimed that the BJP and RSS are working to divide our own people and spread hate in our own country' instead of watching over India's actual competition, which is China.",
+"score": 0.986084,
+"arguments": [
+{
+"text": "He",
+"location": [
+2767,
+2769
+],
+"entities": [
+{
+"type": "Person",
+"text": "prime minister"
+}
+]
+},
+{
+"text": "claimed",
+"location": [
+2770,
+2777
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "claimed"
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "He claimed that the BJP and RSS are working to divide our own people and spread hate in our own country' instead of watching over India's actual competition, which is China.",
+"score": 0.761862,
+"arguments": [
+{
+"text": "people",
+"location": [
+2829,
+2835
+],
+"entities": [
+{
+"type": "Person",
+"text": "people"
+}
+]
+},
+{
+"text": "our",
+"location": [
+2821,
+2824
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Chinese",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "He claimed that the BJP and RSS are working to divide our own people and spread hate in our own country' instead of watching over India's actual competition, which is China.",
+"score": 0.309704,
+"arguments": [
+{
+"text": "our",
+"location": [
+2855,
+2858
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Chinese",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+},
+{
+"text": "country",
+"location": [
+2863,
+2870
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Pakistan",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "timeOf",
+"sentence": "On Thursday, he addressed a gathering at the Bucerius Summer School in Hamburg, Germany where he cited the creation of Islamic State terrorist group to warn against a similar situation in India if people are excluded from the development process.",
+"score": 0.729395,
+"arguments": [
+{
+"text": "Thursday",
+"location": [
+2995,
+3003
+],
+"entities": [
+{
+"type": "Date",
+"text": "Thursday"
+}
+]
+},
+{
+"text": "addressed",
+"location": [
+3008,
+3017
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "addressed"
+}
+]
+}
+]
+},
+{
+"type": "timeOf",
+"sentence": "On Thursday, he addressed a gathering at the Bucerius Summer School in Hamburg, Germany where he cited the creation of Islamic State terrorist group to warn against a similar situation in India if people are excluded from the development process.",
+"score": 0.518838,
+"arguments": [
+{
+"text": "Thursday",
+"location": [
+2995,
+3003
+],
+"entities": [
+{
+"type": "Date",
+"text": "Thursday"
+}
+]
+},
+{
+"text": "gathering",
+"location": [
+3020,
+3029
+],
+"entities": [
+{
+"type": "EventMeeting",
+"text": "gathering"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "On Thursday, he addressed a gathering at the Bucerius Summer School in Hamburg, Germany where he cited the creation of Islamic State terrorist group to warn against a similar situation in India if people are excluded from the development process.",
+"score": 0.996835,
+"arguments": [
+{
+"text": "he",
+"location": [
+3005,
+3007
+],
+"entities": [
+{
+"type": "Person",
+"text": "prime minister"
+}
+]
+},
+{
+"text": "addressed",
+"location": [
+3008,
+3017
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "addressed"
+}
+]
+}
+]
+},
+{
+"type": "participantIn",
+"sentence": "On Thursday, he addressed a gathering at the Bucerius Summer School in Hamburg, Germany where he cited the creation of Islamic State terrorist group to warn against a similar situation in India if people are excluded from the development process.",
+"score": 0.49158,
+"arguments": [
+{
+"text": "he",
+"location": [
+3005,
+3007
+],
+"entities": [
+{
+"type": "Person",
+"text": "prime minister"
+}
+]
+},
+{
+"text": "gathering",
+"location": [
+3020,
+3029
+],
+"entities": [
+{
+"type": "EventMeeting",
+"text": "gathering"
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "Comparing the Rashtriya Swayamsevak Sangh (RSS) to the Muslim Brotherhood in the Arab world, Congress president Rahul Gandhi on Friday unleashed a no-holds-barred attack on the Narendra Modi government and the ideological parent of the BJP while addressing students in the Strategic Studies Institute in London.",
+"score": 0.523848,
+"arguments": [
+{
+"text": "students",
+"location": [
+257,
+265
+],
+"entities": [
+{
+"type": "Person",
+"text": "students"
+}
+]
+},
+{
+"text": "Strategic Studies Institute",
+"location": [
+273,
+300
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Strategic Studies Institute"
+}
+]
+}
+]
+},
+{
+"type": "participantIn",
+"sentence": "On Thursday, he addressed a gathering at the Bucerius Summer School in Hamburg, Germany where he cited the creation of Islamic State terrorist group to warn against a similar situation in India if people are excluded from the development process.",
+"score": 0.613272,
+"arguments": [
+{
+"text": "Bucerius Summer School",
+"location": [
+3037,
+3059
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Bucerius Summer School"
+}
+]
+},
+{
+"text": "gathering",
+"location": [
+3020,
+3029
+],
+"entities": [
+{
+"type": "EventMeeting",
+"text": "gathering"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "On Thursday, he addressed a gathering at the Bucerius Summer School in Hamburg, Germany where he cited the creation of Islamic State terrorist group to warn against a similar situation in India if people are excluded from the development process.",
+"score": 0.496437,
+"arguments": [
+{
+"text": "gathering",
+"location": [
+3020,
+3029
+],
+"entities": [
+{
+"type": "EventMeeting",
+"text": "gathering"
+}
+]
+},
+{
+"text": "Hamburg",
+"location": [
+3063,
+3070
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Hamburg"
+}
+]
+}
+]
+},
+{
+"type": "basedIn",
+"sentence": "On Thursday, he addressed a gathering at the Bucerius Summer School in Hamburg, Germany where he cited the creation of Islamic State terrorist group to warn against a similar situation in India if people are excluded from the development process.",
+"score": 0.945949,
+"arguments": [
+{
+"text": "Bucerius Summer School",
+"location": [
+3037,
+3059
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Bucerius Summer School"
+}
+]
+},
+{
+"text": "Hamburg",
+"location": [
+3063,
+3070
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Hamburg"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "On Thursday, he addressed a gathering at the Bucerius Summer School in Hamburg, Germany where he cited the creation of Islamic State terrorist group to warn against a similar situation in India if people are excluded from the development process.",
+"score": 0.813153,
+"arguments": [
+{
+"text": "Hamburg",
+"location": [
+3063,
+3070
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Hamburg"
+}
+]
+},
+{
+"text": "Germany",
+"location": [
+3072,
+3079
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Germany",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "On Thursday, he addressed a gathering at the Bucerius Summer School in Hamburg, Germany where he cited the creation of Islamic State terrorist group to warn against a similar situation in India if people are excluded from the development process.",
+"score": 0.461416,
+"arguments": [
+{
+"text": "where",
+"location": [
+3080,
+3085
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Germany",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+},
+{
+"text": "cited",
+"location": [
+3089,
+3094
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "cited"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "On Thursday, he addressed a gathering at the Bucerius Summer School in Hamburg, Germany where he cited the creation of Islamic State terrorist group to warn against a similar situation in India if people are excluded from the development process.",
+"score": 0.852875,
+"arguments": [
+{
+"text": "he",
+"location": [
+3086,
+3088
+],
+"entities": [
+{
+"type": "Person",
+"text": "prime minister"
+}
+]
+},
+{
+"text": "cited",
+"location": [
+3089,
+3094
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "cited"
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "On Thursday, he addressed a gathering at the Bucerius Summer School in Hamburg, Germany where he cited the creation of Islamic State terrorist group to warn against a similar situation in India if people are excluded from the development process.",
+"score": 0.424209,
+"arguments": [
+{
+"text": "Islamic",
+"location": [
+3111,
+3118
+],
+"entities": [
+{
+"type": "Person",
+"text": "Islamic"
+}
+]
+},
+{
+"text": "State",
+"location": [
+3119,
+3124
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Bucerius Summer School"
+}
+]
+}
+]
+},
+{
+"type": "affiliatedWith",
+"sentence": "On Thursday, he addressed a gathering at the Bucerius Summer School in Hamburg, Germany where he cited the creation of Islamic State terrorist group to warn against a similar situation in India if people are excluded from the development process.",
+"score": 0.485304,
+"arguments": [
+{
+"text": "terrorist group",
+"location": [
+3125,
+3140
+],
+"entities": [
+{
+"type": "Organization",
+"text": "terrorist group",
+"disambiguation": {
+"subtype": [
+"Political"
+]
+}
+}
+]
+},
+{
+"text": "Islamic",
+"location": [
+3111,
+3118
+],
+"entities": [
+{
+"type": "Person",
+"text": "Islamic"
+}
+]
+}
+]
+},
+{
+"type": "partOf",
+"sentence": "On Thursday, he addressed a gathering at the Bucerius Summer School in Hamburg, Germany where he cited the creation of Islamic State terrorist group to warn against a similar situation in India if people are excluded from the development process.",
+"score": 0.920622,
+"arguments": [
+{
+"text": "terrorist group",
+"location": [
+3125,
+3140
+],
+"entities": [
+{
+"type": "Organization",
+"text": "terrorist group",
+"disambiguation": {
+"subtype": [
+"Political"
+]
+}
+}
+]
+},
+{
+"text": "State",
+"location": [
+3119,
+3124
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Bucerius Summer School"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "On Thursday, he addressed a gathering at the Bucerius Summer School in Hamburg, Germany where he cited the creation of Islamic State terrorist group to warn against a similar situation in India if people are excluded from the development process.",
+"score": 0.304752,
+"arguments": [
+{
+"text": "people",
+"location": [
+3189,
+3195
+],
+"entities": [
+{
+"type": "Person",
+"text": "people"
+}
+]
+},
+{
+"text": "India",
+"location": [
+3180,
+3185
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "India",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "Comparing the Rashtriya Swayamsevak Sangh (RSS) to the Muslim Brotherhood in the Arab world, Congress president Rahul Gandhi on Friday unleashed a no-holds-barred attack on the Narendra Modi government and the ideological parent of the BJP while addressing students in the Strategic Studies Institute in London.",
+"score": 0.575874,
+"arguments": [
+{
+"text": "Strategic Studies Institute",
+"location": [
+273,
+300
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Strategic Studies Institute"
+}
+]
+},
+{
+"text": "London",
+"location": [
+304,
+310
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "London"
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "Rahul gandhi at Strategic Studies Institute in London.",
+"score": 0.664806,
+"arguments": [
+{
+"text": "Rahul gandhi",
+"location": [
+312,
+324
+],
+"entities": [
+{
+"type": "Person",
+"text": "Rahul Gandhi"
+}
+]
+},
+{
+"text": "Strategic Studies Institute",
+"location": [
+328,
+355
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Strategic Studies Institute"
+}
+]
+}
+]
+},
+{
+"type": "basedIn",
+"sentence": "Rahul gandhi at Strategic Studies Institute in London.",
+"score": 0.574828,
+"arguments": [
+{
+"text": "Strategic Studies Institute",
+"location": [
+328,
+355
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Strategic Studies Institute"
+}
+]
+},
+{
+"text": "London",
+"location": [
+359,
+365
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "London"
+}
+]
+}
+]
+},
+{
+"type": "partOf",
+"sentence": "Other parties haven't tried to capture India's institutions.",
+"score": 0.976094,
+"arguments": [
+{
+"text": "institutions",
+"location": [
+488,
+500
+],
+"entities": [
+{
+"type": "Organization",
+"text": "institutions"
+}
+]
+},
+{
+"text": "India",
+"location": [
+480,
+485
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "India",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "RSS's idea is similar to the idea of Muslim Brotherhood in the Arab world,\" said Rahul.",
+"score": 0.395506,
+"arguments": [
+{
+"text": "Arab",
+"location": [
+565,
+569
+],
+"entities": [
+{
+"type": "Person",
+"text": "Arab"
+}
+]
+},
+{
+"text": "Muslim Brotherhood",
+"location": [
+539,
+557
+],
+"entities": [
+{
+"type": "Facility",
+"text": "Muslim Brotherhood"
+}
+]
+}
+]
+}
+],
+"language": "en",
+"keywords": [
+{
+"text": "Strategic Studies Institute",
+"sentiment": {
+"score": -0.42661,
+"label": "negative"
+},
+"relevance": 0.949628,
+"emotion": {
+"sadness": 0.163998,
+"joy": 0.151359,
+"fear": 0.178739,
+"disgust": 0.253051,
+"anger": 0.325257
+}
+},
+{
+"text": "Rahul",
+"sentiment": {
+"score": -0.390837,
+"label": "negative"
+},
+"relevance": 0.945948,
+"emotion": {
+"sadness": 0.498669,
+"joy": 0.446241,
+"fear": 0.160552,
+"disgust": 0.155644,
+"anger": 0.143131
+}
+},
+{
+"text": "president Rahul Gandhi",
+"sentiment": {
+"score": -0.42661,
+"label": "negative"
+},
+"relevance": 0.928555,
+"emotion": {
+"sadness": 0.191192,
+"joy": 0.067971,
+"fear": 0.200374,
+"disgust": 0.362679,
+"anger": 0.345739
+}
+},
+{
+"text": "prime minister",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.851519,
+"emotion": {
+"sadness": 0.277526,
+"joy": 0.191485,
+"fear": 0.084784,
+"disgust": 0.102024,
+"anger": 0.021766
+}
+},
+{
+"text": "Narendra Modi government",
+"sentiment": {
+"score": -0.42661,
+"label": "negative"
+},
+"relevance": 0.773203,
+"emotion": {
+"sadness": 0.191192,
+"joy": 0.067971,
+"fear": 0.200374,
+"disgust": 0.362679,
+"anger": 0.345739
+}
+}
+],
+"entities": [
+{
+"type": "Person",
+"text": "Rahul Gandhi",
+"sentiment": {
+"score": -0.479723,
+"label": "negative"
+},
+"relevance": 0.93032,
+"emotion": {
+"sadness": 0.471845,
+"joy": 0.415684,
+"fear": 0.130452,
+"disgust": 0.132973,
+"anger": 0.436626
+},
+"disambiguation": {
+"subtype": [
+"Politician",
+"OfficeHolder"
+],
+"name": "Rahul Gandhi",
+"dbpedia_resource": "http://dbpedia.org/resource/Rahul_Gandhi"
+},
+"count": 15
+},
+{
+"type": "Location",
+"text": "India",
+"sentiment": {
+"score": -0.47589,
+"label": "negative"
+},
+"relevance": 0.545691,
+"emotion": {
+"sadness": 0.559991,
+"joy": 0.505664,
+"fear": 0.077188,
+"disgust": 0.131793,
+"anger": 0.113039
+},
+"disambiguation": {
+"subtype": [
+"HumanLanguage",
+"Region",
+"GovernmentalJurisdiction",
+"FilmEditor",
+"Country"
+],
+"name": "India",
+"dbpedia_resource": "http://dbpedia.org/resource/India"
+},
+"count": 11
+},
+{
+"type": "JobTitle",
+"text": "prime minister",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.32594,
+"emotion": {
+"sadness": 0.277526,
+"joy": 0.191485,
+"fear": 0.084784,
+"disgust": 0.102024,
+"anger": 0.021766
+},
+"count": 3
+},
+{
+"type": "Organization",
+"text": "Foreign Minister of India",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.297639,
+"emotion": {
+"sadness": 0.292669,
+"joy": 0.058491,
+"fear": 0.256392,
+"disgust": 0.165963,
+"anger": 0.152719
+},
+"count": 1
+},
+{
+"type": "Organization",
+"text": "Narendra Modi government",
+"sentiment": {
+"score": -0.399764,
+"label": "negative"
+},
+"relevance": 0.289105,
+"emotion": {
+"sadness": 0.273327,
+"joy": 0.037914,
+"fear": 0.24428,
+"disgust": 0.396685,
+"anger": 0.255913
+},
+"count": 2
+}
+],
+"concepts": [
+{
+"text": "Bharatiya Janata Party",
+"relevance": 0.976037,
+"dbpedia_resource": "http://dbpedia.org/resource/Bharatiya_Janata_Party"
+},
+{
+"text": "Narendra Modi",
+"relevance": 0.661338,
+"dbpedia_resource": "http://dbpedia.org/resource/Narendra_Modi"
+},
+{
+"text": "Islam",
+"relevance": 0.578716,
+"dbpedia_resource": "http://dbpedia.org/resource/Islam"
+},
+{
+"text": "Gujarat",
+"relevance": 0.543028,
+"dbpedia_resource": "http://dbpedia.org/resource/Gujarat"
+},
+{
+"text": "Indian National Congress",
+"relevance": 0.502785,
+"dbpedia_resource": "http://dbpedia.org/resource/Indian_National_Congress"
+}
+],
+"categories": [
+{
+"score": 0.568744,
+"label": "/law, govt and politics/government"
+},
+{
+"score": 0.499731,
+"label": "/travel/specialty travel/sightseeing tours"
+},
+{
+"score": 0.499138,
+"label": "/law, govt and politics/government/government agencies"
+}
+]
+}
+}

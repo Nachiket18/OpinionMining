@@ -1,0 +1,1207 @@
+{
+"source_article_link": "https://timesofindia.indiatimes.com/india/over-a-lakh-entered-first-draft-with-forged-papers/articleshow/65265562.cms?&utm_source=Articleshow&utm_medium=Organic&utm_campaign=Related_Stories",
+"title": "Over a lakh entered first draft with forged papers",
+"date_published": "2018-08-04T16:24:27+05:30",
+"source_type": "news_article",
+"source_name": "timesofindia.indiatimes.com",
+"image_link": [
+"https://timesofindia.indiatimes.com/thumb/msid-65265569,imgsize-222976,width-400,resizemode-4/65265569.jpg"
+],
+"article_body": "GUWAHATI: Over a lakh men and women who had been declared foreigners by tribunals or marked \u2018doubtful\u2019 voters had managed to forge their way into the first draft published on December 31. PAN cards, voter identity cards, children\u2019s birth certificates and even stealing legacy data codes of others were different modes used by these people for their inclusion in the draft. All these names were deleted in the updated draft released on July 30. Over 48,000 married women included in the earlier draft had submitted forged panchayat certificates as linkage documents. The forgery was discovered during the re-verification ahead of the updated NRC draft. Hemen Das, deputy commissioner of Morigaon , said, \u201cThe most common case of forgery was fake birth certificates all of which had the name of one public health centre. When we sent them for verification, the hospital authorities informed us that these documents were never issued by them. We even found forged voter identity cards and some of them were found to have intentionally used wrong legacy data. We are still looking to identify these people and legal action will be taken against them after the NRC process is over.\u201d But the biggest fraud that these people resorted to was stealing legacy data of others to link themselves to randomly selected families. They too made it to the first draft, but during the course of the family tree investigation, 65,694 of these applicants were detected and their names deleted. Since the legacy data of the 1951 NRC and the voters lists up to 1971 were made accessible online, many unscrupulous people used these details to forge their citizenship claims. NRC coordinator Prateek Hajela has already said, \u201cWe have already put a disclaimer on our website that as and when we find any name that has been wrongly included, we will delete it. The scrutiny process is still on.\u201d",
+"description": "Over 48,000 married women included in the earlier draft had submitted forged panchayat certificates as linkage documents. The forgery was discovered during the re-verification ahead of the updated NRC draft.",
+"time_scraped": "2018-08-23 03:03:20.891952",
+"article_id": "65265562",
+"article_category": "IndiaNews",
+"image_details": [
+{
+"url": "https://timesofindia.indiatimes.com/thumb/msid-65265569,imgsize-222976,width-400,resizemode-4/65265569.jpg",
+"path": "full/ced15d8031b1043231498515089291ac6d1bde9d.jpg",
+"checksum": "d8af3a687385d55d44bb483123d7d9c9"
+}
+],
+"ibm_nlu": {
+"usage": {
+"text_units": 1,
+"text_characters": 1869,
+"features": 7
+},
+"sentiment": {
+"document": {
+"score": -0.639589,
+"label": "negative"
+}
+},
+"semantic_roles": [
+{
+"subject": {
+"text": "a lakh men and women"
+},
+"sentence": "GUWAHATI: Over a lakh men and women who had been declared foreigners by tribunals or marked \u2018doubtful\u2019 voters had managed to forge their way into the first draft published on December 31.",
+"object": {
+"text": "declared foreigners by tribunals"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "been",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "voters"
+},
+"sentence": "GUWAHATI: Over a lakh men and women who had been declared foreigners by tribunals or marked \u2018doubtful\u2019 voters had managed to forge their way into the first draft published on December 31.",
+"object": {
+"text": "to forge their way into the first draft published on December 31"
+},
+"action": {
+"verb": {
+"text": "manage",
+"tense": "past"
+},
+"text": "managed",
+"normalized": "manage"
+}
+},
+{
+"subject": {
+"text": "Over a lakh men and women who had been declared foreigners by tribunals or marked \u2018doubtful\u2019 voters"
+},
+"sentence": "GUWAHATI: Over a lakh men and women who had been declared foreigners by tribunals or marked \u2018doubtful\u2019 voters had managed to forge their way into the first draft published on December 31.",
+"object": {
+"text": "their way"
+},
+"action": {
+"verb": {
+"text": "forge",
+"tense": "past"
+},
+"text": "had managed to forge",
+"normalized": "have manage to forge"
+}
+},
+{
+"subject": {
+"text": "the first draft"
+},
+"sentence": "GUWAHATI: Over a lakh men and women who had been declared foreigners by tribunals or marked \u2018doubtful\u2019 voters had managed to forge their way into the first draft published on December 31.",
+"action": {
+"verb": {
+"text": "publish",
+"tense": "past"
+},
+"text": "published",
+"normalized": "publish"
+}
+},
+{
+"subject": {
+"text": "by these people"
+},
+"sentence": " PAN cards, voter identity cards, children\u2019s birth certificates and even stealing legacy data codes of others were different modes used by these people for their inclusion in the draft.",
+"object": {
+"text": "different modes"
+},
+"action": {
+"verb": {
+"text": "use",
+"tense": "past"
+},
+"text": "used",
+"normalized": "use"
+}
+},
+{
+"subject": {
+"text": "All these names"
+},
+"sentence": " All these names were deleted in the updated draft released on July 30.",
+"object": {
+"text": "deleted in the updated draft"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "were",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "All these names"
+},
+"sentence": " All these names were deleted in the updated draft released on July 30.",
+"action": {
+"verb": {
+"text": "delete",
+"tense": "past"
+},
+"text": "were deleted",
+"normalized": "be delete"
+}
+},
+{
+"subject": {
+"text": "the updated draft"
+},
+"sentence": " All these names were deleted in the updated draft released on July 30.",
+"action": {
+"verb": {
+"text": "release",
+"tense": "past"
+},
+"text": "released",
+"normalized": "release"
+}
+},
+{
+"subject": {
+"text": "the earlier draft"
+},
+"sentence": " Over 48,000 married women included in the earlier draft had submitted forged panchayat certificates as linkage documents.",
+"object": {
+"text": "submitted forged panchayat certificates as linkage documents"
+},
+"action": {
+"verb": {
+"text": "have",
+"tense": "past"
+},
+"text": "had",
+"normalized": "have"
+}
+},
+{
+"subject": {
+"text": "The forgery"
+},
+"sentence": " The forgery was discovered during the re-verification ahead of the updated NRC draft.",
+"object": {
+"text": "discovered"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "was",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "The forgery"
+},
+"sentence": " The forgery was discovered during the re-verification ahead of the updated NRC draft.",
+"action": {
+"verb": {
+"text": "discover",
+"tense": "past"
+},
+"text": "was discovered",
+"normalized": "be discover"
+}
+},
+{
+"subject": {
+"text": "Hemen Das, deputy commissioner of Morigaon ,"
+},
+"sentence": " Hemen Das, deputy commissioner of Morigaon , said, \u201cThe most common case of forgery was fake birth certificates all of which had the name of one public health centre.",
+"object": {
+"text": "The most common case of forgery was fake birth certificates all of which had the name of one public health centre"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "we"
+},
+"sentence": " When we sent them for verification, the hospital authorities informed us that these documents were never issued by them.",
+"object": {
+"text": "them"
+},
+"action": {
+"verb": {
+"text": "send",
+"tense": "past"
+},
+"text": "sent",
+"normalized": "send"
+}
+},
+{
+"subject": {
+"text": "the hospital authorities"
+},
+"sentence": " When we sent them for verification, the hospital authorities informed us that these documents were never issued by them.",
+"object": {
+"text": "us"
+},
+"action": {
+"verb": {
+"text": "inform",
+"tense": "past"
+},
+"text": "informed",
+"normalized": "inform"
+}
+},
+{
+"subject": {
+"text": "these documents"
+},
+"sentence": " When we sent them for verification, the hospital authorities informed us that these documents were never issued by them.",
+"object": {
+"text": "never issued by them"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "were",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "by them"
+},
+"sentence": " When we sent them for verification, the hospital authorities informed us that these documents were never issued by them.",
+"object": {
+"text": "these documents"
+},
+"action": {
+"verb": {
+"text": "issue",
+"tense": "past"
+},
+"text": "issued",
+"normalized": "issue"
+}
+},
+{
+"subject": {
+"text": "We"
+},
+"sentence": " We even found forged voter identity cards and some of them were found to have intentionally used wrong legacy data.",
+"object": {
+"text": "forged voter identity cards"
+},
+"action": {
+"verb": {
+"text": "find",
+"tense": "past"
+},
+"text": "found",
+"normalized": "find"
+}
+},
+{
+"subject": {
+"text": "We"
+},
+"sentence": " We even found forged voter identity cards and some of them were found to have intentionally used wrong legacy data.",
+"object": {
+"text": "voter identity cards"
+},
+"action": {
+"verb": {
+"text": "forge",
+"tense": "past"
+},
+"text": "found forged",
+"normalized": "find forge"
+}
+},
+{
+"subject": {
+"text": "some of them"
+},
+"sentence": " We even found forged voter identity cards and some of them were found to have intentionally used wrong legacy data.",
+"object": {
+"text": "found to have intentionally used wrong legacy data"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "were",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "We"
+},
+"sentence": " We are still looking to identify these people and legal action will be taken against them after the NRC process is over.\u201d But the biggest fraud that these people resorted to was stealing legacy data of others to link themselves to randomly selected families.",
+"action": {
+"verb": {
+"text": "be",
+"tense": "present"
+},
+"text": "are still looking to identify",
+"normalized": "be still look to identify"
+}
+},
+{
+"subject": {
+"text": "We"
+},
+"sentence": " We are still looking to identify these people and legal action will be taken against them after the NRC process is over.\u201d But the biggest fraud that these people resorted to was stealing legacy data of others to link themselves to randomly selected families.",
+"object": {
+"text": "to identify these people and legal action"
+},
+"action": {
+"verb": {
+"text": "look",
+"tense": "present"
+},
+"text": "looking",
+"normalized": "look"
+}
+},
+{
+"subject": {
+"text": "We"
+},
+"sentence": " We are still looking to identify these people and legal action will be taken against them after the NRC process is over.\u201d But the biggest fraud that these people resorted to was stealing legacy data of others to link themselves to randomly selected families.",
+"object": {
+"text": "these people"
+},
+"action": {
+"verb": {
+"text": "identify",
+"tense": "future"
+},
+"text": "are still looking to identify",
+"normalized": "be still look to identify"
+}
+},
+{
+"subject": {
+"text": "these people and legal action"
+},
+"sentence": " We are still looking to identify these people and legal action will be taken against them after the NRC process is over.\u201d But the biggest fraud that these people resorted to was stealing legacy data of others to link themselves to randomly selected families.",
+"action": {
+"verb": {
+"text": "be",
+"tense": "future"
+},
+"text": "will be taken",
+"normalized": "will be take"
+}
+},
+{
+"subject": {
+"text": "these people and legal action"
+},
+"sentence": " We are still looking to identify these people and legal action will be taken against them after the NRC process is over.\u201d But the biggest fraud that these people resorted to was stealing legacy data of others to link themselves to randomly selected families.",
+"object": {
+"text": "against them"
+},
+"action": {
+"verb": {
+"text": "take",
+"tense": "future"
+},
+"text": "will be taken",
+"normalized": "will be take"
+}
+},
+{
+"subject": {
+"text": "the NRC process"
+},
+"sentence": " We are still looking to identify these people and legal action will be taken against them after the NRC process is over.\u201d But the biggest fraud that these people resorted to was stealing legacy data of others to link themselves to randomly selected families.",
+"object": {
+"text": "over.\u201d"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "present"
+},
+"text": "is",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "these people"
+},
+"sentence": " We are still looking to identify these people and legal action will be taken against them after the NRC process is over.\u201d But the biggest fraud that these people resorted to was stealing legacy data of others to link themselves to randomly selected families.",
+"object": {
+"text": "legacy data of others"
+},
+"action": {
+"verb": {
+"text": "steal",
+"tense": "past"
+},
+"text": "was stealing",
+"normalized": "be steal"
+}
+},
+{
+"subject": {
+"text": "They"
+},
+"sentence": " They too made it to the first draft, but during the course of the family tree investigation, 65,694 of these applicants were detected and their names deleted.",
+"object": {
+"text": "it"
+},
+"action": {
+"verb": {
+"text": "make",
+"tense": "past"
+},
+"text": "made",
+"normalized": "make"
+}
+},
+{
+"subject": {
+"text": "65,694 of these applicants"
+},
+"sentence": " They too made it to the first draft, but during the course of the family tree investigation, 65,694 of these applicants were detected and their names deleted.",
+"action": {
+"verb": {
+"text": "detect",
+"tense": "past"
+},
+"text": "were detected",
+"normalized": "be detect"
+}
+},
+{
+"subject": {
+"text": "the legacy data of the 1951 NRC and the voters lists"
+},
+"sentence": " Since the legacy data of the 1951 NRC and the voters lists up to 1971 were made accessible online, many unscrupulous people used these details to forge their citizenship claims.",
+"object": {
+"text": "accessible online"
+},
+"action": {
+"verb": {
+"text": "make",
+"tense": "past"
+},
+"text": "were made",
+"normalized": "be make"
+}
+},
+{
+"subject": {
+"text": "many unscrupulous people"
+},
+"sentence": " Since the legacy data of the 1951 NRC and the voters lists up to 1971 were made accessible online, many unscrupulous people used these details to forge their citizenship claims.",
+"object": {
+"text": "these details"
+},
+"action": {
+"verb": {
+"text": "use",
+"tense": "past"
+},
+"text": "used",
+"normalized": "use"
+}
+},
+{
+"subject": {
+"text": "many unscrupulous people"
+},
+"sentence": " Since the legacy data of the 1951 NRC and the voters lists up to 1971 were made accessible online, many unscrupulous people used these details to forge their citizenship claims.",
+"object": {
+"text": "their citizenship claims"
+},
+"action": {
+"verb": {
+"text": "forge",
+"tense": "future"
+},
+"text": "to forge",
+"normalized": "to forge"
+}
+},
+{
+"subject": {
+"text": "NRC coordinator Prateek Hajela"
+},
+"sentence": " NRC coordinator Prateek Hajela has already said, \u201cWe have already put a disclaimer on our website that as and when we find any name that has been wrongly included, we will delete it.",
+"action": {
+"verb": {
+"text": "have",
+"tense": "present"
+},
+"text": "has",
+"normalized": "have"
+}
+},
+{
+"subject": {
+"text": "NRC coordinator Prateek Hajela"
+},
+"sentence": " NRC coordinator Prateek Hajela has already said, \u201cWe have already put a disclaimer on our website that as and when we find any name that has been wrongly included, we will delete it.",
+"object": {
+"text": "We have already put a disclaimer on our website that as and when we find any name that has been wrongly included, we will delete it"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "We"
+},
+"sentence": " NRC coordinator Prateek Hajela has already said, \u201cWe have already put a disclaimer on our website that as and when we find any name that has been wrongly included, we will delete it.",
+"object": {
+"text": "a disclaimer"
+},
+"action": {
+"verb": {
+"text": "put",
+"tense": "past"
+},
+"text": "put",
+"normalized": "put"
+}
+},
+{
+"subject": {
+"text": "The scrutiny process"
+},
+"sentence": " The scrutiny process is still on.\u201d",
+"action": {
+"verb": {
+"text": "be",
+"tense": "present"
+},
+"text": "is",
+"normalized": "be"
+}
+}
+],
+"relations": [
+{
+"type": "agentOf",
+"sentence": "GUWAHATI: Over a lakh men and women who had been declared foreigners by tribunals or marked \u02bbdoubtful' voters had managed to forge their way into the first draft published on December 31.",
+"score": 0.85273,
+"arguments": [
+{
+"text": "who",
+"location": [
+36,
+39
+],
+"entities": [
+{
+"type": "Person",
+"text": "women"
+}
+]
+},
+{
+"text": "declared",
+"location": [
+49,
+57
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "declared"
+}
+]
+}
+]
+},
+{
+"type": "partOfMany",
+"sentence": "They too made it to the first draft, but during the course of the family tree investigation, 65,694 of these applicants were detected and their names deleted.",
+"score": 0.448296,
+"arguments": [
+{
+"text": "applicants",
+"location": [
+1424,
+1434
+],
+"entities": [
+{
+"type": "Person",
+"text": "applicants"
+}
+]
+},
+{
+"text": "their",
+"location": [
+1453,
+1458
+],
+"entities": [
+{
+"type": "Person",
+"text": "themselves"
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "NRC coordinator Prateek Hajela has already said, \"We have already put a disclaimer on our website that as and when we find any name that has been wrongly included, we will delete it.",
+"score": 0.640567,
+"arguments": [
+{
+"text": "coordinator",
+"location": [
+1656,
+1667
+],
+"entities": [
+{
+"type": "Person",
+"text": "Prateek Hajela"
+}
+]
+},
+{
+"text": "NRC",
+"location": [
+1652,
+1655
+],
+"entities": [
+{
+"type": "Organization",
+"text": "NRC"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "NRC coordinator Prateek Hajela has already said, \"We have already put a disclaimer on our website that as and when we find any name that has been wrongly included, we will delete it.",
+"score": 0.983633,
+"arguments": [
+{
+"text": "Prateek Hajela",
+"location": [
+1668,
+1682
+],
+"entities": [
+{
+"type": "Person",
+"text": "Prateek Hajela"
+}
+]
+},
+{
+"text": "said",
+"location": [
+1695,
+1699
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "GUWAHATI: Over a lakh men and women who had been declared foreigners by tribunals or marked \u02bbdoubtful' voters had managed to forge their way into the first draft published on December 31.",
+"score": 0.642962,
+"arguments": [
+{
+"text": "foreigners",
+"location": [
+58,
+68
+],
+"entities": [
+{
+"type": "Person",
+"text": "foreigners"
+}
+]
+},
+{
+"text": "declared",
+"location": [
+49,
+57
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "declared"
+}
+]
+}
+]
+},
+{
+"type": "partOfMany",
+"sentence": "GUWAHATI: Over a lakh men and women who had been declared foreigners by tribunals or marked \u02bbdoubtful' voters had managed to forge their way into the first draft published on December 31.",
+"score": 0.394632,
+"arguments": [
+{
+"text": "foreigners",
+"location": [
+58,
+68
+],
+"entities": [
+{
+"type": "Person",
+"text": "foreigners"
+}
+]
+},
+{
+"text": "tribunals",
+"location": [
+72,
+81
+],
+"entities": [
+{
+"type": "Person",
+"text": "tribunals"
+}
+]
+}
+]
+},
+{
+"type": "partOfMany",
+"sentence": "PAN cards, voter identity cards, children's birth certificates and even stealing legacy data codes of others were different modes used by these people for their inclusion in the draft.",
+"score": 0.735566,
+"arguments": [
+{
+"text": "children",
+"location": [
+221,
+229
+],
+"entities": [
+{
+"type": "Person",
+"text": "children"
+}
+]
+},
+{
+"text": "others",
+"location": [
+290,
+296
+],
+"entities": [
+{
+"type": "Person",
+"text": "others"
+}
+]
+}
+]
+},
+{
+"type": "partOfMany",
+"sentence": "PAN cards, voter identity cards, children's birth certificates and even stealing legacy data codes of others were different modes used by these people for their inclusion in the draft.",
+"score": 0.6042,
+"arguments": [
+{
+"text": "certificates",
+"location": [
+238,
+250
+],
+"entities": [
+{
+"type": "Person",
+"text": "certificates"
+}
+]
+},
+{
+"text": "others",
+"location": [
+290,
+296
+],
+"entities": [
+{
+"type": "Person",
+"text": "others"
+}
+]
+}
+]
+},
+{
+"type": "residesIn",
+"sentence": "Hemen Das, deputy commissioner of Morigaon , said, \"The most common case of forgery was fake birth certificates all of which had the name of one public health centre.",
+"score": 0.851634,
+"arguments": [
+{
+"text": "deputy commissioner",
+"location": [
+663,
+682
+],
+"entities": [
+{
+"type": "Person",
+"text": "Hemen Das"
+}
+]
+},
+{
+"text": "Morigaon",
+"location": [
+686,
+694
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Morigaon"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "When we sent them for verification, the hospital authorities informed us that these documents were never issued by them.",
+"score": 0.978761,
+"arguments": [
+{
+"text": "hospital authorities",
+"location": [
+859,
+879
+],
+"entities": [
+{
+"type": "Organization",
+"text": "hospital authorities"
+}
+]
+},
+{
+"text": "informed",
+"location": [
+880,
+888
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "informed"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "When we sent them for verification, the hospital authorities informed us that these documents were never issued by them.",
+"score": 0.910939,
+"arguments": [
+{
+"text": "us",
+"location": [
+889,
+891
+],
+"entities": [
+{
+"type": "Person",
+"text": "them"
+}
+]
+},
+{
+"text": "informed",
+"location": [
+880,
+888
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "informed"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "They too made it to the first draft, but during the course of the family tree investigation, 65,694 of these applicants were detected and their names deleted.",
+"score": 0.683385,
+"arguments": [
+{
+"text": "family",
+"location": [
+1381,
+1387
+],
+"entities": [
+{
+"type": "Person",
+"text": "family"
+}
+]
+},
+{
+"text": "investigation",
+"location": [
+1393,
+1406
+],
+"entities": [
+{
+"type": "EventLegal",
+"text": "investigation"
+}
+]
+}
+]
+}
+],
+"language": "en",
+"keywords": [
+{
+"text": "legacy data",
+"sentiment": {
+"score": -0.660267,
+"label": "negative"
+},
+"relevance": 0.90305,
+"emotion": {
+"sadness": 0.582666,
+"joy": 0.131871,
+"fear": 0.041591,
+"disgust": 0.170514,
+"anger": 0.262401
+}
+},
+{
+"text": "legacy data codes",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.780677,
+"emotion": {
+"sadness": 0.220864,
+"joy": 0.297239,
+"fear": 0.023719,
+"disgust": 0.127652,
+"anger": 0.242171
+}
+},
+{
+"text": "NRC coordinator Prateek",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.7792,
+"emotion": {
+"sadness": 0.502139,
+"joy": 0.135445,
+"fear": 0.126017,
+"disgust": 0.144741,
+"anger": 0.125591
+}
+},
+{
+"text": "voter identity",
+"sentiment": {
+"score": -0.592977,
+"label": "negative"
+},
+"relevance": 0.770723,
+"emotion": {
+"sadness": 0.514688,
+"joy": 0.03921,
+"fear": 0.226781,
+"disgust": 0.183931,
+"anger": 0.254681
+}
+},
+{
+"text": "birth certificates",
+"sentiment": {
+"score": -0.30723,
+"label": "negative"
+},
+"relevance": 0.765157,
+"emotion": {
+"sadness": 0.322049,
+"joy": 0.190637,
+"fear": 0.037873,
+"disgust": 0.233414,
+"anger": 0.356954
+}
+}
+],
+"entities": [
+{
+"type": "Organization",
+"text": "NRC",
+"sentiment": {
+"score": -0.458468,
+"label": "negative"
+},
+"relevance": 0.798708,
+"emotion": {
+"sadness": 0.35683,
+"joy": 0.312055,
+"fear": 0.088378,
+"disgust": 0.147609,
+"anger": 0.131229
+},
+"count": 4
+},
+{
+"type": "Crime",
+"text": "forgery",
+"sentiment": {
+"score": -0.30723,
+"label": "negative"
+},
+"relevance": 0.43347,
+"emotion": {
+"sadness": 0.306189,
+"joy": 0.221329,
+"fear": 0.056698,
+"disgust": 0.21009,
+"anger": 0.247347
+},
+"count": 2
+},
+{
+"type": "Location",
+"text": "GUWAHATI",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.394349,
+"emotion": {
+"sadness": 0.0,
+"joy": 0.0,
+"fear": 0.0,
+"disgust": 0.0,
+"anger": 0.0
+},
+"disambiguation": {
+"subtype": [
+"IndianCity",
+"City"
+],
+"name": "Guwahati",
+"dbpedia_resource": "http://dbpedia.org/resource/Guwahati"
+},
+"count": 1
+},
+{
+"type": "Person",
+"text": "Hemen Das",
+"sentiment": {
+"score": 0.389667,
+"label": "positive"
+},
+"relevance": 0.296444,
+"emotion": {
+"sadness": 0.144548,
+"joy": 0.185315,
+"fear": 0.087573,
+"disgust": 0.077654,
+"anger": 0.090723
+},
+"count": 1
+},
+{
+"type": "JobTitle",
+"text": "deputy commissioner",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.29567,
+"emotion": {
+"sadness": 0.148831,
+"joy": 0.179551,
+"fear": 0.091248,
+"disgust": 0.074744,
+"anger": 0.088473
+},
+"count": 1
+}
+],
+"concepts": [
+{
+"text": "Identity theft",
+"relevance": 0.915532,
+"dbpedia_resource": "http://dbpedia.org/resource/Identity_theft"
+},
+{
+"text": "Fraud",
+"relevance": 0.8883,
+"dbpedia_resource": "http://dbpedia.org/resource/Fraud"
+},
+{
+"text": "Passport",
+"relevance": 0.648135,
+"dbpedia_resource": "http://dbpedia.org/resource/Passport"
+}
+],
+"categories": [
+{
+"score": 0.485617,
+"label": "/technology and computing/software/databases"
+},
+{
+"score": 0.32498,
+"label": "/law, govt and politics/politics/elections"
+},
+{
+"score": 0.284201,
+"label": "/society/crime/property crime/fraud"
+}
+]
+}
+}

@@ -1,0 +1,798 @@
+{
+"source_article_link": "https://timesofindia.indiatimes.com/india/cabinet-okays-bill-on-dam-safety-makes-owners-responsible/articleshow/64580440.cms?&utm_source=Articleshow&utm_medium=Organic&utm_campaign=Related_Stories",
+"title": "Cabinet okays Bill on dam safety, makes 'owners' responsible",
+"date_published": "2018-06-14T06:25:20+05:30",
+"source_type": "news_article",
+"source_name": "timesofindia.indiatimes.com",
+"image_link": [
+"https://timesofindia.indiatimes.com/thumb/msid-64580441,imgsize-28195,width-400,resizemode-4/64580441.jpg"
+],
+"article_body": "NEW DELHI: The Centre has decided to bring a which will empower authorities to take regulatory action and lay down safety standards for existing and new dams in the country. The proposed law lays the onus of dam safety on the dam owner and includes \u2018penal provisions\u2019. The draft law \u2014 Dam Safety Bill, 2018 \u2014 was approved by the Union cabinet on Wednesday. The bill will be introduced in Parliament in the forthcoming monsoon session beginning in July. \u201cIt will help all states and Union Territories adopt uniform dam safety procedures. It will ensure safety of dams and help in safeguarding human life, livestock and property,\u201d said an official, referring to the bill\u2019s provisions. The bill provides for mandatory surveillance, emergency action plan, comprehensive dam safety review, inspection and operation & maintenance of all dams in the country to ensure their safe functioning. The bill also provides for setting up a national committee on dam safety which will recommend necessary regulation.  Besides, the proposed legislation talks about setting up a National Dam Safety Authority as a central regulatory body which will implement policy, guidelines and standards for dam safety across the country. Lack of legal and institutional architecture for dam safety has long been an issue of concern in India. The country has reported 36 dam disasters, the worst in (Machudam in Morbi) where 2,000 people died and 12,700 houses were destroyed in 1979. Construction of Machu dam was completed in 1972 but its flanks were washed away in heavy floods seven years later. Learning from the disasters, the Centre initiated the Dam Rehabilitation and Improvement Project (DRIP-I) in 2012 for strengthening dam safety and operational performance through comprehensive repair and rehabilitation work. It will continue till June 2020.",
+"description": "NEW DELHI: The Centre has decided to bring a which will empower authorities to take regulatory action and lay down safety standards for existing and new dams in the country. The proposed law lays the onus of dam safety on the dam owner and includes \u2018penal provisions\u2019. The draft law \u2014 Dam Safety Bill, 2018 \u2014 was approved by the Union cabinet on Wednesday. The bill will be introduced in Parliament in the forthcoming monsoon session beginning in July. \u201cIt will help all states and Union Territories adopt uniform dam safety procedures. It will ensure safety of dams and help in safeguarding human life, livestock and property,\u201d said an official, referring to the bill\u2019s provisions. The bill provides for mandatory surveillance, emergency action plan, comprehensive dam safety review, inspection and operation & maintenance of all dams in the country to ensure their safe functioning. The bill also provides for setting up a national committee on dam safety which will recommend necessary regulation.",
+"time_scraped": "2018-08-24 03:02:36.135934",
+"article_id": "64580440",
+"article_category": "IndiaNews",
+"image_details": [
+{
+"url": "https://timesofindia.indiatimes.com/thumb/msid-64580441,imgsize-28195,width-400,resizemode-4/64580441.jpg",
+"path": "full/0803cdedfb7c212c099748ba0a466fa3c09131be.jpg",
+"checksum": "3bb6f76e1f33053f7309aed9afaffc5b"
+}
+],
+"ibm_nlu": {
+"usage": {
+"text_units": 1,
+"text_characters": 1827,
+"features": 7
+},
+"sentiment": {
+"document": {
+"score": 0.0832527,
+"label": "positive"
+}
+},
+"semantic_roles": [
+{
+"subject": {
+"text": "The Centre"
+},
+"sentence": "NEW DELHI: The Centre has decided to bring a which will empower authorities to take regulatory action and lay down safety standards for existing and new dams in the country.",
+"object": {
+"text": "to bring a which will empower authorities to take regulatory action and lay down safety standards for existing and new dams in the country"
+},
+"action": {
+"verb": {
+"text": "decide",
+"tense": "past"
+},
+"text": "decided",
+"normalized": "decide"
+}
+},
+{
+"subject": {
+"text": "The Centre"
+},
+"sentence": "NEW DELHI: The Centre has decided to bring a which will empower authorities to take regulatory action and lay down safety standards for existing and new dams in the country.",
+"object": {
+"text": "a which will empower authorities to take regulatory action and lay down safety standards for existing and new dams in the country"
+},
+"action": {
+"verb": {
+"text": "bring",
+"tense": "future"
+},
+"text": "has decided to bring",
+"normalized": "have decide to bring"
+}
+},
+{
+"subject": {
+"text": "authorities"
+},
+"sentence": "NEW DELHI: The Centre has decided to bring a which will empower authorities to take regulatory action and lay down safety standards for existing and new dams in the country.",
+"object": {
+"text": "to take regulatory action"
+},
+"action": {
+"verb": {
+"text": "empower",
+"tense": "future"
+},
+"text": "will empower",
+"normalized": "will empower"
+}
+},
+{
+"subject": {
+"text": "The proposed law"
+},
+"sentence": " The proposed law lays the onus of dam safety on the dam owner and includes \u2018penal provisions\u2019.",
+"object": {
+"text": "the onus of dam safety"
+},
+"action": {
+"verb": {
+"text": "lay",
+"tense": "present"
+},
+"text": "lays",
+"normalized": "lay"
+}
+},
+{
+"subject": {
+"text": "\u2018penal provisions"
+},
+"sentence": " The proposed law lays the onus of dam safety on the dam owner and includes \u2018penal provisions\u2019.",
+"object": {
+"text": "The proposed law"
+},
+"action": {
+"verb": {
+"text": "include",
+"tense": "present"
+},
+"text": "includes",
+"normalized": "include"
+}
+},
+{
+"subject": {
+"text": "The draft law \u2014 Dam Safety Bill, 2018 \u2014"
+},
+"sentence": " The draft law \u2014 Dam Safety Bill, 2018 \u2014 was approved by the Union cabinet on Wednesday.",
+"object": {
+"text": "approved by the Union cabinet on Wednesday"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "was",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "by the Union cabinet"
+},
+"sentence": " The draft law \u2014 Dam Safety Bill, 2018 \u2014 was approved by the Union cabinet on Wednesday.",
+"object": {
+"text": "The draft law \u2014 Dam Safety Bill, 2018 \u2014"
+},
+"action": {
+"verb": {
+"text": "approve",
+"tense": "past"
+},
+"text": "was approved",
+"normalized": "be approve"
+}
+},
+{
+"subject": {
+"text": "The bill"
+},
+"sentence": " The bill will be introduced in Parliament in the forthcoming monsoon session beginning in July.",
+"object": {
+"text": "introduced in Parliament"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "future"
+},
+"text": "be",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "The bill"
+},
+"sentence": " The bill will be introduced in Parliament in the forthcoming monsoon session beginning in July.",
+"action": {
+"verb": {
+"text": "introduce",
+"tense": "future"
+},
+"text": "will be introduced",
+"normalized": "will be introduce"
+}
+},
+{
+"subject": {
+"text": "the forthcoming monsoon session"
+},
+"sentence": " The bill will be introduced in Parliament in the forthcoming monsoon session beginning in July.",
+"action": {
+"verb": {
+"text": "begin",
+"tense": "present"
+},
+"text": "beginning",
+"normalized": "begin"
+}
+},
+{
+"subject": {
+"text": "It"
+},
+"sentence": " \u201cIt will help all states and Union Territories adopt uniform dam safety procedures.",
+"object": {
+"text": "all states and Union Territories adopt uniform dam safety procedures"
+},
+"action": {
+"verb": {
+"text": "help",
+"tense": "future"
+},
+"text": "will help",
+"normalized": "will help"
+}
+},
+{
+"subject": {
+"text": "It"
+},
+"sentence": " It will ensure safety of dams and help in safeguarding human life, livestock and property,\u201d said an official, referring to the bill\u2019s provisions.",
+"object": {
+"text": "safety of dams"
+},
+"action": {
+"verb": {
+"text": "ensure",
+"tense": "future"
+},
+"text": "will ensure",
+"normalized": "will ensure"
+}
+},
+{
+"subject": {
+"text": "an official"
+},
+"sentence": " It will ensure safety of dams and help in safeguarding human life, livestock and property,\u201d said an official, referring to the bill\u2019s provisions.",
+"object": {
+"text": "It will ensure safety of dams and help in safeguarding human life, livestock and property"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "an official"
+},
+"sentence": " It will ensure safety of dams and help in safeguarding human life, livestock and property,\u201d said an official, referring to the bill\u2019s provisions.",
+"object": {
+"text": "to the bill\u2019s provisions"
+},
+"action": {
+"verb": {
+"text": "refer",
+"tense": "present"
+},
+"text": "referring",
+"normalized": "refer"
+}
+},
+{
+"subject": {
+"text": "The bill"
+},
+"sentence": " The bill provides for mandatory surveillance, emergency action plan, comprehensive dam safety review, inspection and operation & maintenance of all dams in the country to ensure their safe functioning.",
+"object": {
+"text": "for mandatory surveillance, emergency action plan, comprehensive dam safety review, inspection and operation & maintenance of all dams in the country to ensure their safe functioning"
+},
+"action": {
+"verb": {
+"text": "provide",
+"tense": "present"
+},
+"text": "provides",
+"normalized": "provide"
+}
+},
+{
+"subject": {
+"text": "The bill"
+},
+"sentence": " The bill also provides for setting up a national committee on dam safety which will recommend necessary regulation.",
+"object": {
+"text": "for setting up a national committee on dam safety which will recommend necessary regulation"
+},
+"action": {
+"verb": {
+"text": "provide",
+"tense": "present"
+},
+"text": "provides",
+"normalized": "provide"
+}
+},
+{
+"subject": {
+"text": "The bill"
+},
+"sentence": " The bill also provides for setting up a national committee on dam safety which will recommend necessary regulation.",
+"object": {
+"text": "a national committee"
+},
+"action": {
+"verb": {
+"text": "set",
+"tense": "present"
+},
+"text": "setting",
+"normalized": "set"
+}
+},
+{
+"subject": {
+"text": "dam safety"
+},
+"sentence": " The bill also provides for setting up a national committee on dam safety which will recommend necessary regulation.",
+"object": {
+"text": "necessary regulation"
+},
+"action": {
+"verb": {
+"text": "recommend",
+"tense": "future"
+},
+"text": "will recommend",
+"normalized": "will recommend"
+}
+},
+{
+"subject": {
+"text": "a central regulatory body"
+},
+"sentence": " Besides, the proposed legislation talks about setting up a National Dam Safety Authority as a central regulatory body which will implement policy, guidelines and standards for dam safety across the country.",
+"object": {
+"text": "policy, guidelines and standards for dam safety across the country"
+},
+"action": {
+"verb": {
+"text": "implement",
+"tense": "future"
+},
+"text": "will implement",
+"normalized": "will implement"
+}
+},
+{
+"subject": {
+"text": "Lack of legal and institutional architecture for dam safety"
+},
+"sentence": " Lack of legal and institutional architecture for dam safety has long been an issue of concern in India.",
+"object": {
+"text": "long been an issue of concern in India"
+},
+"action": {
+"verb": {
+"text": "have",
+"tense": "present"
+},
+"text": "has",
+"normalized": "have"
+}
+},
+{
+"subject": {
+"text": "Lack of legal and institutional architecture for dam safety"
+},
+"sentence": " Lack of legal and institutional architecture for dam safety has long been an issue of concern in India.",
+"object": {
+"text": "an issue of concern in India"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "been",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "The country"
+},
+"sentence": " The country has reported 36 dam disasters, the worst in (Machudam in Morbi) where 2,000 people died and 12,700 houses were destroyed in 1979.",
+"object": {
+"text": "reported 36 dam disasters, the worst in (Machudam in Morbi) where 2,000 people died and 12,700 houses were destroyed in 1979"
+},
+"action": {
+"verb": {
+"text": "have",
+"tense": "present"
+},
+"text": "has",
+"normalized": "have"
+}
+},
+{
+"subject": {
+"text": "The country"
+},
+"sentence": " The country has reported 36 dam disasters, the worst in (Machudam in Morbi) where 2,000 people died and 12,700 houses were destroyed in 1979.",
+"object": {
+"text": "36 dam disasters, the worst in (Machudam in Morbi) where 2,000 people died and 12,700 houses were destroyed in 1979"
+},
+"action": {
+"verb": {
+"text": "report",
+"tense": "past"
+},
+"text": "has reported",
+"normalized": "have report"
+}
+},
+{
+"subject": {
+"text": "12,700 houses"
+},
+"sentence": " The country has reported 36 dam disasters, the worst in (Machudam in Morbi) where 2,000 people died and 12,700 houses were destroyed in 1979.",
+"action": {
+"verb": {
+"text": "destroy",
+"tense": "past"
+},
+"text": "were destroyed",
+"normalized": "be destroy"
+}
+},
+{
+"subject": {
+"text": "the Centre"
+},
+"sentence": " Learning from the disasters, the Centre initiated the Dam Rehabilitation and Improvement Project (DRIP-I) in 2012 for strengthening dam safety and operational performance through comprehensive repair and rehabilitation work.",
+"object": {
+"text": "from the disasters"
+},
+"action": {
+"verb": {
+"text": "Learning",
+"tense": "present"
+},
+"text": "Learning",
+"normalized": "Learning"
+}
+},
+{
+"subject": {
+"text": "the Centre"
+},
+"sentence": " Learning from the disasters, the Centre initiated the Dam Rehabilitation and Improvement Project (DRIP-I) in 2012 for strengthening dam safety and operational performance through comprehensive repair and rehabilitation work.",
+"object": {
+"text": "the Dam Rehabilitation and Improvement Project (DRIP-I)"
+},
+"action": {
+"verb": {
+"text": "initiate",
+"tense": "past"
+},
+"text": "initiated",
+"normalized": "initiate"
+}
+},
+{
+"subject": {
+"text": "It"
+},
+"sentence": " It will continue till June 2020.",
+"action": {
+"verb": {
+"text": "continue",
+"tense": "future"
+},
+"text": "will continue",
+"normalized": "will continue"
+}
+}
+],
+"relations": [
+{
+"type": "basedIn",
+"sentence": "\"It will help all states and Union Territories adopt uniform dam safety procedures.",
+"score": 0.229514,
+"arguments": [
+{
+"text": "Union",
+"location": [
+482,
+487
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Union cabinet"
+}
+]
+},
+{
+"text": "Territories",
+"location": [
+488,
+499
+],
+"entities": [
+{
+"type": "Location",
+"text": "Territories"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "It will ensure safety of dams and help in safeguarding human life, livestock and property,\" said an official, referring to the bill's provisions.",
+"score": 0.84986,
+"arguments": [
+{
+"text": "official",
+"location": [
+637,
+645
+],
+"entities": [
+{
+"type": "Person",
+"text": "official"
+}
+]
+},
+{
+"text": "said",
+"location": [
+629,
+633
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "The country has reported 36 dam disasters, the worst in (Machudam in Morbi) where 2,000 people died and 12,700 houses were destroyed in 1979.",
+"score": 0.443955,
+"arguments": [
+{
+"text": "people",
+"location": [
+1401,
+1407
+],
+"entities": [
+{
+"type": "Person",
+"text": "people"
+}
+]
+},
+{
+"text": "houses",
+"location": [
+1424,
+1430
+],
+"entities": [
+{
+"type": "Facility",
+"text": "houses"
+}
+]
+}
+]
+}
+],
+"language": "en",
+"keywords": [
+{
+"text": "dam safety",
+"sentiment": {
+"score": -0.0286088,
+"label": "negative"
+},
+"relevance": 0.909279,
+"emotion": {
+"sadness": 0.108735,
+"joy": 0.064876,
+"fear": 0.086873,
+"disgust": 0.061897,
+"anger": 0.071704
+}
+},
+{
+"text": "dam safety procedures",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.703292,
+"emotion": {
+"sadness": 0.202668,
+"joy": 0.076479,
+"fear": 0.080591,
+"disgust": 0.033302,
+"anger": 0.051305
+}
+},
+{
+"text": "dam safety review",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.694278,
+"emotion": {
+"sadness": 0.036884,
+"joy": 0.084268,
+"fear": 0.071946,
+"disgust": 0.049311,
+"anger": 0.02181
+}
+},
+{
+"text": "National Dam Safety",
+"sentiment": {
+"score": -0.428073,
+"label": "negative"
+},
+"relevance": 0.683544,
+"emotion": {
+"sadness": 0.049122,
+"joy": 0.053578,
+"fear": 0.092907,
+"disgust": 0.037075,
+"anger": 0.113904
+}
+},
+{
+"text": "dam owner",
+"sentiment": {
+"score": -0.526545,
+"label": "negative"
+},
+"relevance": 0.648046,
+"emotion": {
+"sadness": 0.088053,
+"joy": 0.024521,
+"fear": 0.169246,
+"disgust": 0.08919,
+"anger": 0.154406
+}
+}
+],
+"entities": [
+{
+"type": "Organization",
+"text": "National Dam Safety Authority",
+"sentiment": {
+"score": -0.428073,
+"label": "negative"
+},
+"relevance": 0.972649,
+"emotion": {
+"sadness": 0.049122,
+"joy": 0.053578,
+"fear": 0.092907,
+"disgust": 0.037075,
+"anger": 0.113904
+},
+"count": 1
+},
+{
+"type": "GeographicFeature",
+"text": "Machu dam",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.772804,
+"emotion": {
+"sadness": 0.12482,
+"joy": 0.307816,
+"fear": 0.070904,
+"disgust": 0.110749,
+"anger": 0.118057
+},
+"count": 1
+},
+{
+"type": "Organization",
+"text": "Dam Rehabilitation and Improvement Project",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.706806,
+"emotion": {
+"sadness": 0.041656,
+"joy": 0.355052,
+"fear": 0.055363,
+"disgust": 0.041962,
+"anger": 0.147675
+},
+"count": 1
+},
+{
+"type": "Organization",
+"text": "Union cabinet",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.293084,
+"emotion": {
+"sadness": 0.251618,
+"joy": 0.311521,
+"fear": 0.083321,
+"disgust": 0.036153,
+"anger": 0.051304
+},
+"disambiguation": {
+"subtype": [],
+"name": "Cabinet of India",
+"dbpedia_resource": "http://dbpedia.org/resource/Cabinet_of_India"
+},
+"count": 1
+},
+{
+"type": "Location",
+"text": "Morbi",
+"sentiment": {
+"score": -0.217366,
+"label": "negative"
+},
+"relevance": 0.288936,
+"emotion": {
+"sadness": 0.144548,
+"joy": 0.185315,
+"fear": 0.087573,
+"disgust": 0.077654,
+"anger": 0.090723
+},
+"disambiguation": {
+"subtype": [
+"City"
+],
+"name": "Morbi",
+"dbpedia_resource": "http://dbpedia.org/resource/Morbi"
+},
+"count": 1
+}
+],
+"concepts": [
+{
+"text": "India",
+"relevance": 0.920595,
+"dbpedia_resource": "http://dbpedia.org/resource/India"
+},
+{
+"text": "Flood",
+"relevance": 0.90379,
+"dbpedia_resource": "http://dbpedia.org/resource/Flood"
+},
+{
+"text": "Delhi",
+"relevance": 0.872407,
+"dbpedia_resource": "http://dbpedia.org/resource/Delhi"
+},
+{
+"text": "Law",
+"relevance": 0.687221,
+"dbpedia_resource": "http://dbpedia.org/resource/Law"
+}
+],
+"categories": [
+{
+"score": 0.601997,
+"label": "/law, govt and politics/government/parliament"
+},
+{
+"score": 0.400374,
+"label": "/law, govt and politics/legal issues/legislation"
+},
+{
+"score": 0.20361,
+"label": "/law, govt and politics"
+}
+]
+}
+}

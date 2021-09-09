@@ -1,0 +1,2002 @@
+{
+"source_article_link": "https://timesofindia.indiatimes.com/india/army-pays-floral-tribute-to-rifleman-aurangzeb/articleshow/64603247.cms?&utm_source=Articleshow&utm_medium=Organic&utm_campaign=Related_Stories",
+"title": "Army pays floral tribute to rifleman Aurangzeb",
+"date_published": "2018-06-15T17:39:29+05:30",
+"source_type": "news_article",
+"source_name": "timesofindia.indiatimes.com",
+"image_link": [
+"https://timesofindia.indiatimes.com/thumb/msid-64603467,imgsize-567151,width-400,resizemode-4/64603467.jpg"
+],
+"article_body": "SRINAGAR: Army on Friday paid floral tribute to rifleman who was abducted and later killed by terrorists in of Jammu and Kashmir yesterday. A tribute was also paid to rifleman Manvendra Singh who lost his life during an operation in Panar forests in Bandipora district in which two terrorists were killed.  Army today paid befitting tribute to two of its comrades, who made the supreme sacrifice on 14 June 2018 in the Kashmir Valley, an Army official said. In a solemn ceremony at Badamibagh Cantonment here, Lt Gen AK Bhatt, Chinar Corps Commander and all ranks, paid homage to the martyrs on behalf of a proud nation, the official added. Representatives from other security agencies also joined in paying their last respects to the jawans, the official said. \"Aurangzeb sustained multiple bullet injuries in a dastardly act wherein he was kidnapped and killed by the terrorists in Gasu village of enroute his home on leave to celebrate Eid with his family,\" the official said. Hailing from village Salani in Poonch, Jammu and Kashmir, 24-year-old Aurangzeb joined the Army in 2012. He is survived by his wife, parents and three brothers, the official said. Singh (30) had joined the Army in 2008 and hailed from village Kabiltha in Rudraprayag, Uttrakhand. He is survived by his wife, a daughter and a son. The official said the mortal remains of the martyrs were flown for the last rites to their native places, where they would be laid to rest with full military honours. In this hour of grief, the Army stands in solidarity with the bereaved families of the martyrs and remains committed to their dignity and well being, the official said.",
+"description": "SRINAGAR: Army on Friday paid floral tribute to rifleman who was abducted and later killed by terrorists in of Jammu and Kashmir yesterday. A tribute was also paid to rifleman Manvendra Singh who lost his life during an operation in Panar forests in Bandipora district in which two terrorists were killed. ",
+"time_scraped": "2018-08-23 15:02:12.053798",
+"article_id": "64603247",
+"article_category": "IndiaNews",
+"image_details": [
+{
+"url": "https://timesofindia.indiatimes.com/thumb/msid-64603467,imgsize-567151,width-400,resizemode-4/64603467.jpg",
+"path": "full/f36b1a169695710a52ac05d0d181e398de79909b.jpg",
+"checksum": "1cb07456eb0233ed38f1be4ee00a5ad7"
+}
+],
+"ibm_nlu": {
+"usage": {
+"text_units": 1,
+"text_characters": 1645,
+"features": 7
+},
+"sentiment": {
+"document": {
+"score": -0.481639,
+"label": "negative"
+}
+},
+"semantic_roles": [
+{
+"subject": {
+"text": "Army"
+},
+"sentence": "SRINAGAR: Army on Friday paid floral tribute to rifleman who was abducted and later killed by terrorists in of Jammu and Kashmir yesterday.",
+"object": {
+"text": "floral tribute"
+},
+"action": {
+"verb": {
+"text": "pay",
+"tense": "past"
+},
+"text": "paid",
+"normalized": "pay"
+}
+},
+{
+"subject": {
+"text": "Army"
+},
+"sentence": "SRINAGAR: Army on Friday paid floral tribute to rifleman who was abducted and later killed by terrorists in of Jammu and Kashmir yesterday.",
+"object": {
+"text": "who was abducted and later killed by terrorists in of Jammu and Kashmir yesterday"
+},
+"action": {
+"verb": {
+"text": "rifleman",
+"tense": "future"
+},
+"text": "to rifleman",
+"normalized": "to rifleman"
+}
+},
+{
+"subject": {
+"text": "by terrorists in of Jammu and Kashmir yesterday"
+},
+"sentence": "SRINAGAR: Army on Friday paid floral tribute to rifleman who was abducted and later killed by terrorists in of Jammu and Kashmir yesterday.",
+"action": {
+"verb": {
+"text": "kill",
+"tense": "past"
+},
+"text": "killed",
+"normalized": "kill"
+}
+},
+{
+"subject": {
+"text": "A tribute"
+},
+"sentence": " A tribute was also paid to rifleman Manvendra Singh who lost his life during an operation in Panar forests in Bandipora district in which two terrorists were killed.",
+"object": {
+"text": "to rifleman Manvendra Singh who lost his life during an operation in Panar forests in Bandipora district in which two terrorists were killed"
+},
+"action": {
+"verb": {
+"text": "pay",
+"tense": "past"
+},
+"text": "was also paid",
+"normalized": "be also pay"
+}
+},
+{
+"subject": {
+"text": "rifleman Manvendra Singh"
+},
+"sentence": " A tribute was also paid to rifleman Manvendra Singh who lost his life during an operation in Panar forests in Bandipora district in which two terrorists were killed.",
+"object": {
+"text": "his life"
+},
+"action": {
+"verb": {
+"text": "lose",
+"tense": "past"
+},
+"text": "lost",
+"normalized": "lose"
+}
+},
+{
+"subject": {
+"text": "Army"
+},
+"sentence": " Army today paid befitting tribute to two of its comrades, who made the supreme sacrifice on 14 June 2018 in the Kashmir Valley, an Army official said.",
+"object": {
+"text": "befitting tribute to two of its comrades, who made the supreme sacrifice on 14 June 2018 in the Kashmir Valley, an Army official"
+},
+"action": {
+"verb": {
+"text": "pay",
+"tense": "past"
+},
+"text": "paid",
+"normalized": "pay"
+}
+},
+{
+"subject": {
+"text": "its comrades"
+},
+"sentence": " Army today paid befitting tribute to two of its comrades, who made the supreme sacrifice on 14 June 2018 in the Kashmir Valley, an Army official said.",
+"object": {
+"text": "the supreme sacrifice"
+},
+"action": {
+"verb": {
+"text": "make",
+"tense": "past"
+},
+"text": "made",
+"normalized": "make"
+}
+},
+{
+"subject": {
+"text": "an Army official"
+},
+"sentence": " Army today paid befitting tribute to two of its comrades, who made the supreme sacrifice on 14 June 2018 in the Kashmir Valley, an Army official said.",
+"object": {
+"text": "Army today paid befitting tribute to two of its comrades, who made the supreme sacrifice on 14 June 2018 in the Kashmir Valley"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "Lt Gen AK Bhatt, Chinar Corps Commander and all ranks,"
+},
+"sentence": " In a solemn ceremony at Badamibagh Cantonment here, Lt Gen AK Bhatt, Chinar Corps Commander and all ranks, paid homage to the martyrs on behalf of a proud nation, the official added.",
+"object": {
+"text": "homage"
+},
+"action": {
+"verb": {
+"text": "pay",
+"tense": "past"
+},
+"text": "paid",
+"normalized": "pay"
+}
+},
+{
+"subject": {
+"text": "the official"
+},
+"sentence": " In a solemn ceremony at Badamibagh Cantonment here, Lt Gen AK Bhatt, Chinar Corps Commander and all ranks, paid homage to the martyrs on behalf of a proud nation, the official added.",
+"object": {
+"text": "paid homage to the martyrs on behalf of a proud nation"
+},
+"action": {
+"verb": {
+"text": "add",
+"tense": "past"
+},
+"text": "added",
+"normalized": "add"
+}
+},
+{
+"subject": {
+"text": "the official"
+},
+"sentence": " Representatives from other security agencies also joined in paying their last respects to the jawans, the official said.",
+"object": {
+"text": "Representatives from other security agencies also joined in paying their last respects to the jawans"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "Aurangzeb"
+},
+"sentence": " \"Aurangzeb sustained multiple bullet injuries in a dastardly act wherein he was kidnapped and killed by the terrorists in Gasu village of enroute his home on leave to celebrate Eid with his family,\" the official said.",
+"object": {
+"text": "multiple bullet injuries"
+},
+"action": {
+"verb": {
+"text": "sustain",
+"tense": "past"
+},
+"text": "sustained",
+"normalized": "sustain"
+}
+},
+{
+"subject": {
+"text": "by the terrorists"
+},
+"sentence": " \"Aurangzeb sustained multiple bullet injuries in a dastardly act wherein he was kidnapped and killed by the terrorists in Gasu village of enroute his home on leave to celebrate Eid with his family,\" the official said.",
+"object": {
+"text": "he"
+},
+"action": {
+"verb": {
+"text": "kill",
+"tense": "past"
+},
+"text": "was kidnapped and killed",
+"normalized": "be kidnap and kill"
+}
+},
+{
+"subject": {
+"text": "he"
+},
+"sentence": " \"Aurangzeb sustained multiple bullet injuries in a dastardly act wherein he was kidnapped and killed by the terrorists in Gasu village of enroute his home on leave to celebrate Eid with his family,\" the official said.",
+"object": {
+"text": "Eid"
+},
+"action": {
+"verb": {
+"text": "celebrate",
+"tense": "future"
+},
+"text": "to celebrate",
+"normalized": "to celebrate"
+}
+},
+{
+"subject": {
+"text": "the official"
+},
+"sentence": " \"Aurangzeb sustained multiple bullet injuries in a dastardly act wherein he was kidnapped and killed by the terrorists in Gasu village of enroute his home on leave to celebrate Eid with his family,\" the official said.",
+"object": {
+"text": "Aurangzeb sustained multiple bullet injuries in a dastardly act wherein he was kidnapped and killed by the terrorists in Gasu village of enroute his home on leave to celebrate Eid with his family"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "Jammu and Kashmir, 24-year-old Aurangzeb"
+},
+"sentence": " Hailing from village Salani in Poonch, Jammu and Kashmir, 24-year-old Aurangzeb joined the Army in 2012.",
+"object": {
+"text": "the Army"
+},
+"action": {
+"verb": {
+"text": "join",
+"tense": "past"
+},
+"text": "joined",
+"normalized": "join"
+}
+},
+{
+"subject": {
+"text": "by his wife, parents"
+},
+"sentence": " He is survived by his wife, parents and three brothers, the official said.",
+"object": {
+"text": "He"
+},
+"action": {
+"verb": {
+"text": "survive",
+"tense": "past"
+},
+"text": "is survived",
+"normalized": "be survive"
+}
+},
+{
+"subject": {
+"text": "the official"
+},
+"sentence": " He is survived by his wife, parents and three brothers, the official said.",
+"object": {
+"text": "He is survived by his wife, parents and three brothers"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "Singh (30)"
+},
+"sentence": " Singh (30) had joined the Army in 2008 and hailed from village Kabiltha in Rudraprayag, Uttrakhand.",
+"object": {
+"text": "joined the Army"
+},
+"action": {
+"verb": {
+"text": "have",
+"tense": "past"
+},
+"text": "had",
+"normalized": "have"
+}
+},
+{
+"subject": {
+"text": "Singh (30)"
+},
+"sentence": " Singh (30) had joined the Army in 2008 and hailed from village Kabiltha in Rudraprayag, Uttrakhand.",
+"object": {
+"text": "the Army"
+},
+"action": {
+"verb": {
+"text": "join",
+"tense": "past"
+},
+"text": "had joined",
+"normalized": "have join"
+}
+},
+{
+"subject": {
+"text": "by his wife, a daughter and a son"
+},
+"sentence": " He is survived by his wife, a daughter and a son.",
+"object": {
+"text": "He"
+},
+"action": {
+"verb": {
+"text": "survive",
+"tense": "past"
+},
+"text": "is survived",
+"normalized": "be survive"
+}
+},
+{
+"subject": {
+"text": "The official"
+},
+"sentence": " The official said the mortal remains of the martyrs were flown for the last rites to their native places, where they would be laid to rest with full military honours.",
+"object": {
+"text": "the mortal remains of the martyrs were flown for the last rites to their native places, where they would be laid to rest with full military honours"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "they"
+},
+"sentence": " The official said the mortal remains of the martyrs were flown for the last rites to their native places, where they would be laid to rest with full military honours.",
+"object": {
+"text": "laid to rest with full military honours"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "future"
+},
+"text": "be",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "they"
+},
+"sentence": " The official said the mortal remains of the martyrs were flown for the last rites to their native places, where they would be laid to rest with full military honours.",
+"object": {
+"text": "to rest"
+},
+"action": {
+"verb": {
+"text": "lay",
+"tense": "future"
+},
+"text": "laid",
+"normalized": "lay"
+}
+},
+{
+"subject": {
+"text": "the Army"
+},
+"sentence": " In this hour of grief, the Army stands in solidarity with the bereaved families of the martyrs and remains committed to their dignity and well being, the official said.",
+"object": {
+"text": "in solidarity with the bereaved families of the martyrs"
+},
+"action": {
+"verb": {
+"text": "stand",
+"tense": "present"
+},
+"text": "stands",
+"normalized": "stand"
+}
+},
+{
+"subject": {
+"text": "the official"
+},
+"sentence": " In this hour of grief, the Army stands in solidarity with the bereaved families of the martyrs and remains committed to their dignity and well being, the official said.",
+"object": {
+"text": "In this hour of grief, the Army stands in solidarity with the bereaved families of the martyrs and remains committed to their dignity and well being"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+}
+],
+"relations": [
+{
+"type": "affectedBy",
+"sentence": "SRINAGAR: Army on Friday paid floral tribute to rifleman who was abducted and later killed by terrorists in of Jammu and Kashmir yesterday.",
+"score": 0.852521,
+"arguments": [
+{
+"text": "who",
+"location": [
+57,
+60
+],
+"entities": [
+{
+"type": "Person",
+"text": "rifleman Manvendra Singh"
+}
+]
+},
+{
+"text": "abducted",
+"location": [
+65,
+73
+],
+"entities": [
+{
+"type": "EventCustody",
+"text": "abducted"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "\"Aurangzeb sustained multiple bullet injuries in a dastardly act wherein he was kidnapped and killed by the terrorists in Gasu village of enroute his home on leave to celebrate Eid with his family,\" the official said.",
+"score": 0.371462,
+"arguments": [
+{
+"text": "terrorists",
+"location": [
+870,
+880
+],
+"entities": [
+{
+"type": "Person",
+"text": "terrorists"
+}
+]
+},
+{
+"text": "kidnapped",
+"location": [
+842,
+851
+],
+"entities": [
+{
+"type": "EventCustody",
+"text": "kidnapped"
+}
+]
+}
+]
+},
+{
+"type": "residesIn",
+"sentence": "\"Aurangzeb sustained multiple bullet injuries in a dastardly act wherein he was kidnapped and killed by the terrorists in Gasu village of enroute his home on leave to celebrate Eid with his family,\" the official said.",
+"score": 0.683709,
+"arguments": [
+{
+"text": "terrorists",
+"location": [
+870,
+880
+],
+"entities": [
+{
+"type": "Person",
+"text": "terrorists"
+}
+]
+},
+{
+"text": "village",
+"location": [
+889,
+896
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "village"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "\"Aurangzeb sustained multiple bullet injuries in a dastardly act wherein he was kidnapped and killed by the terrorists in Gasu village of enroute his home on leave to celebrate Eid with his family,\" the official said.",
+"score": 0.458493,
+"arguments": [
+{
+"text": "terrorists",
+"location": [
+870,
+880
+],
+"entities": [
+{
+"type": "Person",
+"text": "terrorists"
+}
+]
+},
+{
+"text": "home",
+"location": [
+912,
+916
+],
+"entities": [
+{
+"type": "Facility",
+"text": "home"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "\"Aurangzeb sustained multiple bullet injuries in a dastardly act wherein he was kidnapped and killed by the terrorists in Gasu village of enroute his home on leave to celebrate Eid with his family,\" the official said.",
+"score": 0.645298,
+"arguments": [
+{
+"text": "village",
+"location": [
+889,
+896
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "village"
+}
+]
+},
+{
+"text": "Gasu",
+"location": [
+884,
+888
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Gasu"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "\"Aurangzeb sustained multiple bullet injuries in a dastardly act wherein he was kidnapped and killed by the terrorists in Gasu village of enroute his home on leave to celebrate Eid with his family,\" the official said.",
+"score": 0.725091,
+"arguments": [
+{
+"text": "home",
+"location": [
+912,
+916
+],
+"entities": [
+{
+"type": "Facility",
+"text": "home"
+}
+]
+},
+{
+"text": "village",
+"location": [
+889,
+896
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "village"
+}
+]
+}
+]
+},
+{
+"type": "residesIn",
+"sentence": "\"Aurangzeb sustained multiple bullet injuries in a dastardly act wherein he was kidnapped and killed by the terrorists in Gasu village of enroute his home on leave to celebrate Eid with his family,\" the official said.",
+"score": 0.492618,
+"arguments": [
+{
+"text": "his",
+"location": [
+908,
+911
+],
+"entities": [
+{
+"type": "Person",
+"text": "rifleman Manvendra Singh"
+}
+]
+},
+{
+"text": "home",
+"location": [
+912,
+916
+],
+"entities": [
+{
+"type": "Facility",
+"text": "home"
+}
+]
+}
+]
+},
+{
+"type": "partOfMany",
+"sentence": "\"Aurangzeb sustained multiple bullet injuries in a dastardly act wherein he was kidnapped and killed by the terrorists in Gasu village of enroute his home on leave to celebrate Eid with his family,\" the official said.",
+"score": 0.869917,
+"arguments": [
+{
+"text": "Eid",
+"location": [
+939,
+942
+],
+"entities": [
+{
+"type": "Person",
+"text": "Eid"
+}
+]
+},
+{
+"text": "family",
+"location": [
+952,
+958
+],
+"entities": [
+{
+"type": "Person",
+"text": "family"
+}
+]
+}
+]
+},
+{
+"type": "relative",
+"sentence": "\"Aurangzeb sustained multiple bullet injuries in a dastardly act wherein he was kidnapped and killed by the terrorists in Gasu village of enroute his home on leave to celebrate Eid with his family,\" the official said.",
+"score": 0.456735,
+"arguments": [
+{
+"text": "his",
+"location": [
+948,
+951
+],
+"entities": [
+{
+"type": "Person",
+"text": "rifleman Manvendra Singh"
+}
+]
+},
+{
+"text": "family",
+"location": [
+952,
+958
+],
+"entities": [
+{
+"type": "Person",
+"text": "family"
+}
+]
+}
+]
+},
+{
+"type": "partOfMany",
+"sentence": "Hailing from village Salani in Poonch, Jammu and Kashmir, 24-year-old Aurangzeb joined the Army in 2012.",
+"score": 0.376383,
+"arguments": [
+{
+"text": "Salani",
+"location": [
+1001,
+1007
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Salani"
+}
+]
+},
+{
+"text": "village",
+"location": [
+993,
+1000
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "village"
+}
+]
+}
+]
+},
+{
+"type": "partOfMany",
+"sentence": "Hailing from village Salani in Poonch, Jammu and Kashmir, 24-year-old Aurangzeb joined the Army in 2012.",
+"score": 0.762088,
+"arguments": [
+{
+"text": "Poonch",
+"location": [
+1011,
+1017
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Poonch"
+}
+]
+},
+{
+"text": "village",
+"location": [
+993,
+1000
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "village"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "SRINAGAR: Army on Friday paid floral tribute to rifleman who was abducted and later killed by terrorists in of Jammu and Kashmir yesterday.",
+"score": 0.394588,
+"arguments": [
+{
+"text": "terrorists",
+"location": [
+94,
+104
+],
+"entities": [
+{
+"type": "Person",
+"text": "terrorists"
+}
+]
+},
+{
+"text": "abducted",
+"location": [
+65,
+73
+],
+"entities": [
+{
+"type": "EventCustody",
+"text": "abducted"
+}
+]
+}
+]
+},
+{
+"type": "partOfMany",
+"sentence": "Hailing from village Salani in Poonch, Jammu and Kashmir, 24-year-old Aurangzeb joined the Army in 2012.",
+"score": 0.678895,
+"arguments": [
+{
+"text": "Jammu",
+"location": [
+1019,
+1024
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Jammu"
+}
+]
+},
+{
+"text": "village",
+"location": [
+993,
+1000
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "village"
+}
+]
+}
+]
+},
+{
+"type": "partOfMany",
+"sentence": "Hailing from village Salani in Poonch, Jammu and Kashmir, 24-year-old Aurangzeb joined the Army in 2012.",
+"score": 0.557822,
+"arguments": [
+{
+"text": "Kashmir",
+"location": [
+1029,
+1036
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Kashmir Valley"
+}
+]
+},
+{
+"text": "village",
+"location": [
+993,
+1000
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "village"
+}
+]
+}
+]
+},
+{
+"type": "hasAttribute",
+"sentence": "Hailing from village Salani in Poonch, Jammu and Kashmir, 24-year-old Aurangzeb joined the Army in 2012.",
+"score": 0.989076,
+"arguments": [
+{
+"text": "Aurangzeb",
+"location": [
+1050,
+1059
+],
+"entities": [
+{
+"type": "Person",
+"text": "Aurangzeb"
+}
+]
+},
+{
+"text": "24-year-old",
+"location": [
+1038,
+1049
+],
+"entities": [
+{
+"type": "Age",
+"text": "24-year-old"
+}
+]
+}
+]
+},
+{
+"type": "spouseOf",
+"sentence": "He is survived by his wife, parents and three brothers, the official said.",
+"score": 0.797943,
+"arguments": [
+{
+"text": "his",
+"location": [
+1103,
+1106
+],
+"entities": [
+{
+"type": "Person",
+"text": "rifleman Manvendra Singh"
+}
+]
+},
+{
+"text": "wife",
+"location": [
+1107,
+1111
+],
+"entities": [
+{
+"type": "Person",
+"text": "wife"
+}
+]
+}
+]
+},
+{
+"type": "spouseOf",
+"sentence": "He is survived by his wife, a daughter and a son.",
+"score": 0.81997,
+"arguments": [
+{
+"text": "his",
+"location": [
+1278,
+1281
+],
+"entities": [
+{
+"type": "Person",
+"text": "rifleman Manvendra Singh"
+}
+]
+},
+{
+"text": "wife",
+"location": [
+1282,
+1286
+],
+"entities": [
+{
+"type": "Person",
+"text": "wife"
+}
+]
+}
+]
+},
+{
+"type": "partOfMany",
+"sentence": "He is survived by his wife, parents and three brothers, the official said.",
+"score": 0.493035,
+"arguments": [
+{
+"text": "his",
+"location": [
+1103,
+1106
+],
+"entities": [
+{
+"type": "Person",
+"text": "rifleman Manvendra Singh"
+}
+]
+},
+{
+"text": "parents",
+"location": [
+1113,
+1120
+],
+"entities": [
+{
+"type": "Person",
+"text": "parents"
+}
+]
+}
+]
+},
+{
+"type": "partOfMany",
+"sentence": "He is survived by his wife, parents and three brothers, the official said.",
+"score": 0.44513,
+"arguments": [
+{
+"text": "wife",
+"location": [
+1107,
+1111
+],
+"entities": [
+{
+"type": "Person",
+"text": "wife"
+}
+]
+},
+{
+"text": "parents",
+"location": [
+1113,
+1120
+],
+"entities": [
+{
+"type": "Person",
+"text": "parents"
+}
+]
+}
+]
+},
+{
+"type": "hasAttribute",
+"sentence": "Singh (30) had joined the Army in 2008 and hailed from village Kabiltha in Rudraprayag, Uttrakhand.",
+"score": 0.987631,
+"arguments": [
+{
+"text": "Singh",
+"location": [
+1160,
+1165
+],
+"entities": [
+{
+"type": "Person",
+"text": "rifleman Manvendra Singh"
+}
+]
+},
+{
+"text": "30",
+"location": [
+1167,
+1169
+],
+"entities": [
+{
+"type": "Age",
+"text": "30"
+}
+]
+}
+]
+},
+{
+"type": "partOfMany",
+"sentence": "Singh (30) had joined the Army in 2008 and hailed from village Kabiltha in Rudraprayag, Uttrakhand.",
+"score": 0.305982,
+"arguments": [
+{
+"text": "Kabiltha",
+"location": [
+1223,
+1231
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Kabiltha"
+}
+]
+},
+{
+"text": "village",
+"location": [
+1215,
+1222
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "village"
+}
+]
+}
+]
+},
+{
+"type": "partOfMany",
+"sentence": "Singh (30) had joined the Army in 2008 and hailed from village Kabiltha in Rudraprayag, Uttrakhand.",
+"score": 0.708911,
+"arguments": [
+{
+"text": "Rudraprayag",
+"location": [
+1235,
+1246
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Rudraprayag"
+}
+]
+},
+{
+"text": "village",
+"location": [
+1215,
+1222
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "village"
+}
+]
+}
+]
+},
+{
+"type": "partOfMany",
+"sentence": "Singh (30) had joined the Army in 2008 and hailed from village Kabiltha in Rudraprayag, Uttrakhand.",
+"score": 0.408775,
+"arguments": [
+{
+"text": "village",
+"location": [
+1215,
+1222
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "village"
+}
+]
+},
+{
+"text": "Uttrakhand",
+"location": [
+1248,
+1258
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Uttrakhand"
+}
+]
+}
+]
+},
+{
+"type": "timeOf",
+"sentence": "SRINAGAR: Army on Friday paid floral tribute to rifleman who was abducted and later killed by terrorists in of Jammu and Kashmir yesterday.",
+"score": 0.613155,
+"arguments": [
+{
+"text": "yesterday",
+"location": [
+129,
+138
+],
+"entities": [
+{
+"type": "Date",
+"text": "yesterday"
+}
+]
+},
+{
+"text": "abducted",
+"location": [
+65,
+73
+],
+"entities": [
+{
+"type": "EventCustody",
+"text": "abducted"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "Singh (30) had joined the Army in 2008 and hailed from village Kabiltha in Rudraprayag, Uttrakhand.",
+"score": 0.964667,
+"arguments": [
+{
+"text": "Rudraprayag",
+"location": [
+1235,
+1246
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Rudraprayag"
+}
+]
+},
+{
+"text": "Uttrakhand",
+"location": [
+1248,
+1258
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Uttrakhand"
+}
+]
+}
+]
+},
+{
+"type": "ownerOf",
+"sentence": "In this hour of grief, the Army stands in solidarity with the bereaved families of the martyrs and remains committed to their dignity and well being, the official said.",
+"score": 0.364007,
+"arguments": [
+{
+"text": "Army",
+"location": [
+1504,
+1508
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Army",
+"disambiguation": {
+"subtype": [
+"Military"
+]
+}
+}
+]
+},
+{
+"text": "stands",
+"location": [
+1509,
+1515
+],
+"entities": [
+{
+"type": "Facility",
+"text": "stands"
+}
+]
+}
+]
+},
+{
+"type": "partOfMany",
+"sentence": "In this hour of grief, the Army stands in solidarity with the bereaved families of the martyrs and remains committed to their dignity and well being, the official said.",
+"score": 0.434171,
+"arguments": [
+{
+"text": "families",
+"location": [
+1548,
+1556
+],
+"entities": [
+{
+"type": "Person",
+"text": "families"
+}
+]
+},
+{
+"text": "martyrs",
+"location": [
+1564,
+1571
+],
+"entities": [
+{
+"type": "Person",
+"text": "martyrs"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "SRINAGAR: Army on Friday paid floral tribute to rifleman who was abducted and later killed by terrorists in of Jammu and Kashmir yesterday.",
+"score": 0.422413,
+"arguments": [
+{
+"text": "terrorists",
+"location": [
+94,
+104
+],
+"entities": [
+{
+"type": "Person",
+"text": "terrorists"
+}
+]
+},
+{
+"text": "Jammu",
+"location": [
+111,
+116
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Jammu"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "A tribute was also paid to rifleman Manvendra Singh who lost his life during an operation in Panar forests in Bandipora district in which two terrorists were killed.",
+"score": 0.825549,
+"arguments": [
+{
+"text": "forests",
+"location": [
+239,
+246
+],
+"entities": [
+{
+"type": "GeographicFeature",
+"text": "forests"
+}
+]
+},
+{
+"text": "Bandipora district",
+"location": [
+250,
+268
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Bandipora district"
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "Army today paid befitting tribute to two of its comrades, who made the supreme sacrifice on 14 June 2018 in the Kashmir Valley, an Army official said.",
+"score": 0.867894,
+"arguments": [
+{
+"text": "official",
+"location": [
+443,
+451
+],
+"entities": [
+{
+"type": "Person",
+"text": "official"
+}
+]
+},
+{
+"text": "Army",
+"location": [
+438,
+442
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Army",
+"disambiguation": {
+"subtype": [
+"Military"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Army today paid befitting tribute to two of its comrades, who made the supreme sacrifice on 14 June 2018 in the Kashmir Valley, an Army official said.",
+"score": 0.949863,
+"arguments": [
+{
+"text": "official",
+"location": [
+443,
+451
+],
+"entities": [
+{
+"type": "Person",
+"text": "official"
+}
+]
+},
+{
+"text": "said",
+"location": [
+452,
+456
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "added"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "In a solemn ceremony at Badamibagh Cantonment here, Lt Gen AK Bhatt, Chinar Corps Commander and all ranks, paid homage to the martyrs on behalf of a proud nation, the official added.",
+"score": 0.978469,
+"arguments": [
+{
+"text": "official",
+"location": [
+625,
+633
+],
+"entities": [
+{
+"type": "Person",
+"text": "official"
+}
+]
+},
+{
+"text": "added",
+"location": [
+634,
+639
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "added"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Representatives from other security agencies also joined in paying their last respects to the jawans, the official said.",
+"score": 0.968889,
+"arguments": [
+{
+"text": "official",
+"location": [
+747,
+755
+],
+"entities": [
+{
+"type": "Person",
+"text": "official"
+}
+]
+},
+{
+"text": "said",
+"location": [
+756,
+760
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "added"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "\"Aurangzeb sustained multiple bullet injuries in a dastardly act wherein he was kidnapped and killed by the terrorists in Gasu village of enroute his home on leave to celebrate Eid with his family,\" the official said.",
+"score": 0.943663,
+"arguments": [
+{
+"text": "official",
+"location": [
+965,
+973
+],
+"entities": [
+{
+"type": "Person",
+"text": "official"
+}
+]
+},
+{
+"text": "said",
+"location": [
+974,
+978
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "added"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "He is survived by his wife, parents and three brothers, the official said.",
+"score": 0.950151,
+"arguments": [
+{
+"text": "official",
+"location": [
+1145,
+1153
+],
+"entities": [
+{
+"type": "Person",
+"text": "official"
+}
+]
+},
+{
+"text": "said",
+"location": [
+1154,
+1158
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "added"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "The official said the mortal remains of the martyrs were flown for the last rites to their native places, where they would be laid to rest with full military honours.",
+"score": 0.970219,
+"arguments": [
+{
+"text": "official",
+"location": [
+1314,
+1322
+],
+"entities": [
+{
+"type": "Person",
+"text": "official"
+}
+]
+},
+{
+"text": "said",
+"location": [
+1323,
+1327
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "added"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "In this hour of grief, the Army stands in solidarity with the bereaved families of the martyrs and remains committed to their dignity and well being, the official said.",
+"score": 0.959432,
+"arguments": [
+{
+"text": "official",
+"location": [
+1631,
+1639
+],
+"entities": [
+{
+"type": "Person",
+"text": "official"
+}
+]
+},
+{
+"text": "said",
+"location": [
+1640,
+1644
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "added"
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "Representatives from other security agencies also joined in paying their last respects to the jawans, the official said.",
+"score": 0.685623,
+"arguments": [
+{
+"text": "Representatives",
+"location": [
+641,
+656
+],
+"entities": [
+{
+"type": "Person",
+"text": "Representatives"
+}
+]
+},
+{
+"text": "security agencies",
+"location": [
+668,
+685
+],
+"entities": [
+{
+"type": "Organization",
+"text": "security agencies"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "\"Aurangzeb sustained multiple bullet injuries in a dastardly act wherein he was kidnapped and killed by the terrorists in Gasu village of enroute his home on leave to celebrate Eid with his family,\" the official said.",
+"score": 0.901007,
+"arguments": [
+{
+"text": "he",
+"location": [
+835,
+837
+],
+"entities": [
+{
+"type": "Person",
+"text": "rifleman Manvendra Singh"
+}
+]
+},
+{
+"text": "kidnapped",
+"location": [
+842,
+851
+],
+"entities": [
+{
+"type": "EventCustody",
+"text": "kidnapped"
+}
+]
+}
+]
+}
+],
+"language": "en",
+"keywords": [
+{
+"text": "Gen AK Bhatt",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.916502,
+"emotion": {
+"sadness": 0.031494,
+"joy": 0.125091,
+"fear": 0.009118,
+"disgust": 0.01881,
+"anger": 0.02086
+}
+},
+{
+"text": "Chinar Corps Commander",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.872986,
+"emotion": {
+"sadness": 0.141719,
+"joy": 0.188377,
+"fear": 0.08519,
+"disgust": 0.078108,
+"anger": 0.113539
+}
+},
+{
+"text": "multiple bullet injuries",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.861199,
+"emotion": {
+"sadness": 0.496383,
+"joy": 0.024614,
+"fear": 0.32936,
+"disgust": 0.146578,
+"anger": 0.368538
+}
+},
+{
+"text": "24-year-old Aurangzeb",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.762784,
+"emotion": {
+"sadness": 0.318909,
+"joy": 0.178837,
+"fear": 0.155748,
+"disgust": 0.353988,
+"anger": 0.239053
+}
+},
+{
+"text": "Kashmir Valley",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.743925,
+"emotion": {
+"sadness": 0.588325,
+"joy": 0.120081,
+"fear": 0.040081,
+"disgust": 0.045641,
+"anger": 0.03913
+}
+}
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Army",
+"sentiment": {
+"score": -0.477414,
+"label": "negative"
+},
+"relevance": 0.910725,
+"emotion": {
+"sadness": 0.588869,
+"joy": 0.178969,
+"fear": 0.137986,
+"disgust": 0.239534,
+"anger": 0.198376
+},
+"count": 6
+},
+{
+"type": "JobTitle",
+"text": "official",
+"sentiment": {
+"score": -0.40413,
+"label": "negative"
+},
+"relevance": 0.830355,
+"emotion": {
+"sadness": 0.204068,
+"joy": 0.248538,
+"fear": 0.154494,
+"disgust": 0.241884,
+"anger": 0.164383
+},
+"count": 7
+},
+{
+"type": "Person",
+"text": "Aurangzeb",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.588887,
+"emotion": {
+"sadness": 0.454685,
+"joy": 0.033395,
+"fear": 0.309901,
+"disgust": 0.186648,
+"anger": 0.393248
+},
+"disambiguation": {
+"subtype": [
+"Monarch",
+"NoblePerson"
+],
+"name": "Aurangzeb",
+"dbpedia_resource": "http://dbpedia.org/resource/Aurangzeb"
+},
+"count": 4
+},
+{
+"type": "Person",
+"text": "Manvendra Singh",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.540385,
+"emotion": {
+"sadness": 0.557535,
+"joy": 0.054035,
+"fear": 0.378367,
+"disgust": 0.123548,
+"anger": 0.188445
+},
+"disambiguation": {
+"subtype": [
+"Politician",
+"OfficeHolder"
+],
+"name": "Manvendra Singh",
+"dbpedia_resource": "http://dbpedia.org/resource/Manvendra_Singh"
+},
+"count": 3
+},
+{
+"type": "Location",
+"text": "Kashmir",
+"sentiment": {
+"score": -0.483578,
+"label": "negative"
+},
+"relevance": 0.476414,
+"emotion": {
+"sadness": 0.607112,
+"joy": 0.047685,
+"fear": 0.165159,
+"disgust": 0.129436,
+"anger": 0.344484
+},
+"disambiguation": {
+"subtype": [
+"Country"
+]
+},
+"count": 2
+}
+],
+"concepts": [
+{
+"text": "Jammu and Kashmir",
+"relevance": 0.964074,
+"dbpedia_resource": "http://dbpedia.org/resource/Jammu_and_Kashmir"
+},
+{
+"text": "Kashmir",
+"relevance": 0.956714,
+"dbpedia_resource": "http://dbpedia.org/resource/Kashmir"
+},
+{
+"text": "Srinagar",
+"relevance": 0.865227,
+"dbpedia_resource": "http://dbpedia.org/resource/Srinagar"
+},
+{
+"text": "Azad Kashmir",
+"relevance": 0.766065,
+"dbpedia_resource": "http://dbpedia.org/resource/Azad_Kashmir"
+},
+{
+"text": "Jammu",
+"relevance": 0.7636,
+"dbpedia_resource": "http://dbpedia.org/resource/Jammu"
+}
+],
+"categories": [
+{
+"score": 0.68322,
+"label": "/law, govt and politics/armed forces/army"
+},
+{
+"score": 0.481622,
+"label": "/family and parenting/children"
+},
+{
+"score": 0.283134,
+"label": "/law, govt and politics/government/government agencies"
+}
+]
+}
+}

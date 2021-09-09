@@ -1,0 +1,1220 @@
+{
+"source_article_link": "https://www.firstpost.com/india/maharashtra-congress-chief-ashok-chavan-visits-lalu-prasad-yadav-at-mumbai-hospital-5039361.html",
+"title": "Maharashtra Congress chief Ashok Chavan visits Lalu Prasad Yadav at Mumbai hospital",
+"date_published": "2018-08-24T18:53:55+05:30",
+"source_type": "news_article",
+"source_name": "FirstPost",
+"image_link": [
+"https://images.firstpost.com/wp-content/uploads/2018/05/Lalu_NEW_AFP.jpg"
+],
+"article_body": "Mumbai: Maharashtra Congress chief Ashok Chavan on Friday called on former Bihar chief minister Lalu Prasad Yadav, who is undergoing treatment at a hospital in Mumbai. File image of Lalu Prasad Yadav. AFP Chavan visited the Asian Heart Institute at Bandra Kurla Complex (BKC) on Friday morning to meet Yadav and enquire about his health. Senior Congress leader and former minister Arif Mohammed Naseeb Khan, who accompanied Chavan, gave information about their visit to the hospital. The Rashtriya Janata Dal (RJD) chief has been undergoing treatment at the hospital since last week. Four days back, the RJD supremo's son and former Bihar deputy chief minister Tejashwi Yadav had also met him at the hospital. Tejashwi had later tweeted that his father was hospitalised due to \"various diseases\".",
+"description": "Mumbai: Maharashtra Congress chief Ashok Chavan on Friday called on former Bihar chief minister Lalu Prasad Yadav, who is undergoing treatment at a hospital in Mumbai. File image of Lalu Prasad Yadav. AFP Chavan visited the Asian Heart Institute at Bandra Kurla Complex (BKC) on Friday morning to meet Yadav and enquire about his health. Senior Congress leader and former minister Arif Mohammed Naseeb Khan, who accompanied Chavan, gave information about their visit to the hospital.",
+"time_scraped": "2018-08-24 21:04:33.882251",
+"article_id": "5039361",
+"article_category": "India",
+"image_details": [
+{
+"url": "https://images.firstpost.com/wp-content/uploads/2018/05/Lalu_NEW_AFP.jpg",
+"path": "full/2d6545d1bc4d2a36db8af0ed550b94673c8fdc63.jpg",
+"checksum": "f5f67483e73a17151d268c364f1dfb48"
+}
+],
+"ibm_nlu": {
+"usage": {
+"text_units": 1,
+"text_characters": 796,
+"features": 7
+},
+"sentiment": {
+"document": {
+"score": 0.0,
+"label": "neutral"
+}
+},
+"semantic_roles": [
+{
+"subject": {
+"text": "Maharashtra Congress chief Ashok Chavan"
+},
+"sentence": "Mumbai: Maharashtra Congress chief Ashok Chavan on Friday called on former Bihar chief minister Lalu Prasad Yadav, who is undergoing treatment at a hospital in Mumbai.",
+"action": {
+"verb": {
+"text": "call",
+"tense": "past"
+},
+"text": "called",
+"normalized": "call"
+}
+},
+{
+"subject": {
+"text": "AFP Chavan"
+},
+"sentence": " AFP Chavan visited the Asian Heart Institute at Bandra Kurla Complex (BKC) on Friday morning to meet Yadav and enquire about his health.",
+"object": {
+"text": "the Asian Heart Institute"
+},
+"action": {
+"verb": {
+"text": "visit",
+"tense": "past"
+},
+"text": "visited",
+"normalized": "visit"
+}
+},
+{
+"subject": {
+"text": "AFP Chavan visited the Asian Heart Institute"
+},
+"sentence": " AFP Chavan visited the Asian Heart Institute at Bandra Kurla Complex (BKC) on Friday morning to meet Yadav and enquire about his health.",
+"object": {
+"text": "Yadav and enquire about his health"
+},
+"action": {
+"verb": {
+"text": "meet",
+"tense": "future"
+},
+"text": "to meet",
+"normalized": "to meet"
+}
+},
+{
+"subject": {
+"text": "Senior Congress leader and former minister Arif Mohammed Naseeb Khan"
+},
+"sentence": " Senior Congress leader and former minister Arif Mohammed Naseeb Khan, who accompanied Chavan, gave information about their visit to the hospital.",
+"object": {
+"text": "Chavan"
+},
+"action": {
+"verb": {
+"text": "accompany",
+"tense": "past"
+},
+"text": "accompanied",
+"normalized": "accompany"
+}
+},
+{
+"subject": {
+"text": "Senior Congress leader and former minister Arif Mohammed Naseeb Khan, who accompanied Chavan,"
+},
+"sentence": " Senior Congress leader and former minister Arif Mohammed Naseeb Khan, who accompanied Chavan, gave information about their visit to the hospital.",
+"object": {
+"text": "information about their visit"
+},
+"action": {
+"verb": {
+"text": "give",
+"tense": "past"
+},
+"text": "gave",
+"normalized": "give"
+}
+},
+{
+"subject": {
+"text": "The Rashtriya Janata Dal (RJD) chief"
+},
+"sentence": " The Rashtriya Janata Dal (RJD) chief has been undergoing treatment at the hospital since last week.",
+"action": {
+"verb": {
+"text": "have",
+"tense": "present"
+},
+"text": "has been undergoing",
+"normalized": "have be undergo"
+}
+},
+{
+"subject": {
+"text": "The Rashtriya Janata Dal (RJD) chief"
+},
+"sentence": " The Rashtriya Janata Dal (RJD) chief has been undergoing treatment at the hospital since last week.",
+"object": {
+"text": "undergoing treatment"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "been",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "The Rashtriya Janata Dal (RJD) chief"
+},
+"sentence": " The Rashtriya Janata Dal (RJD) chief has been undergoing treatment at the hospital since last week.",
+"object": {
+"text": "treatment at the hospital"
+},
+"action": {
+"verb": {
+"text": "undergo",
+"tense": "past"
+},
+"text": "has been undergoing",
+"normalized": "have be undergo"
+}
+},
+{
+"subject": {
+"text": "the RJD supremo's son and former Bihar deputy chief minister Tejashwi Yadav"
+},
+"sentence": " Four days back, the RJD supremo's son and former Bihar deputy chief minister Tejashwi Yadav had also met him at the hospital.",
+"object": {
+"text": "him"
+},
+"action": {
+"verb": {
+"text": "meet",
+"tense": "past"
+},
+"text": "had also met",
+"normalized": "have also meet"
+}
+},
+{
+"subject": {
+"text": "Tejashwi"
+},
+"sentence": " Tejashwi had later tweeted that his father was hospitalised due to \"various diseases\".",
+"action": {
+"verb": {
+"text": "have",
+"tense": "past"
+},
+"text": "had",
+"normalized": "have"
+}
+},
+{
+"subject": {
+"text": "Tejashwi"
+},
+"sentence": " Tejashwi had later tweeted that his father was hospitalised due to \"various diseases\".",
+"object": {
+"text": "that his father was hospitalised due to \"various diseases\""
+},
+"action": {
+"verb": {
+"text": "tweet",
+"tense": "past"
+},
+"text": "tweeted",
+"normalized": "tweet"
+}
+}
+],
+"relations": [
+{
+"type": "locatedAt",
+"sentence": "Mumbai: Maharashtra Congress chief Ashok Chavan on Friday called on former Bihar chief minister Lalu Prasad Yadav, who is undergoing treatment at a hospital in Mumbai.",
+"score": 0.714879,
+"arguments": [
+{
+"text": "Mumbai",
+"location": [
+0,
+6
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Mumbai"
+}
+]
+},
+{
+"text": "Maharashtra",
+"location": [
+8,
+19
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Maharashtra"
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "AFP Chavan visited the Asian Heart Institute at Bandra Kurla Complex (BKC) on Friday morning to meet Yadav and enquire about his health.",
+"score": 0.747509,
+"arguments": [
+{
+"text": "Chavan",
+"location": [
+205,
+211
+],
+"entities": [
+{
+"type": "Person",
+"text": "Ashok Chavan"
+}
+]
+},
+{
+"text": "AFP",
+"location": [
+201,
+204
+],
+"entities": [
+{
+"type": "Organization",
+"text": "AFP",
+"disambiguation": {
+"subtype": [
+"Commercial"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "AFP Chavan visited the Asian Heart Institute at Bandra Kurla Complex (BKC) on Friday morning to meet Yadav and enquire about his health.",
+"score": 0.417883,
+"arguments": [
+{
+"text": "Chavan",
+"location": [
+205,
+211
+],
+"entities": [
+{
+"type": "Person",
+"text": "Ashok Chavan"
+}
+]
+},
+{
+"text": "Asian Heart Institute",
+"location": [
+224,
+245
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Asian Heart Institute"
+}
+]
+}
+]
+},
+{
+"type": "partOf",
+"sentence": "AFP Chavan visited the Asian Heart Institute at Bandra Kurla Complex (BKC) on Friday morning to meet Yadav and enquire about his health.",
+"score": 0.613384,
+"arguments": [
+{
+"text": "Asian Heart Institute",
+"location": [
+224,
+245
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Asian Heart Institute"
+}
+]
+},
+{
+"text": "Bandra Kurla Complex",
+"location": [
+249,
+269
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Bandra Kurla Complex"
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "Senior Congress leader and former minister Arif Mohammed Naseeb Khan, who accompanied Chavan, gave information about their visit to the hospital.",
+"score": 0.794787,
+"arguments": [
+{
+"text": "leader",
+"location": [
+354,
+360
+],
+"entities": [
+{
+"type": "Person",
+"text": "leader"
+}
+]
+},
+{
+"text": "Congress",
+"location": [
+345,
+353
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Congress",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "partOfMany",
+"sentence": "Senior Congress leader and former minister Arif Mohammed Naseeb Khan, who accompanied Chavan, gave information about their visit to the hospital.",
+"score": 0.681728,
+"arguments": [
+{
+"text": "who",
+"location": [
+408,
+411
+],
+"entities": [
+{
+"type": "Person",
+"text": "Arif Mohammed Naseeb Khan"
+}
+]
+},
+{
+"text": "their",
+"location": [
+455,
+460
+],
+"entities": [
+{
+"type": "Person",
+"text": "their"
+}
+]
+}
+]
+},
+{
+"type": "partOfMany",
+"sentence": "Senior Congress leader and former minister Arif Mohammed Naseeb Khan, who accompanied Chavan, gave information about their visit to the hospital.",
+"score": 0.959233,
+"arguments": [
+{
+"text": "Chavan",
+"location": [
+424,
+430
+],
+"entities": [
+{
+"type": "Person",
+"text": "Ashok Chavan"
+}
+]
+},
+{
+"text": "their",
+"location": [
+455,
+460
+],
+"entities": [
+{
+"type": "Person",
+"text": "their"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "Senior Congress leader and former minister Arif Mohammed Naseeb Khan, who accompanied Chavan, gave information about their visit to the hospital.",
+"score": 0.528859,
+"arguments": [
+{
+"text": "their",
+"location": [
+455,
+460
+],
+"entities": [
+{
+"type": "Person",
+"text": "their"
+}
+]
+},
+{
+"text": "hospital",
+"location": [
+474,
+482
+],
+"entities": [
+{
+"type": "Organization",
+"text": "hospital",
+"disambiguation": {
+"subtype": [
+"Commercial"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "Four days back, the RJD supremo's son and former Bihar deputy chief minister Tejashwi Yadav had also met him at the hospital.",
+"score": 0.512883,
+"arguments": [
+{
+"text": "son",
+"location": [
+618,
+621
+],
+"entities": [
+{
+"type": "Person",
+"text": "Ashok Chavan"
+}
+]
+},
+{
+"text": "RJD supremo",
+"location": [
+604,
+615
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Rashtriya Janata Dal"
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "Four days back, the RJD supremo's son and former Bihar deputy chief minister Tejashwi Yadav had also met him at the hospital.",
+"score": 0.751909,
+"arguments": [
+{
+"text": "deputy chief minister",
+"location": [
+639,
+660
+],
+"entities": [
+{
+"type": "Person",
+"text": "Tejashwi Yadav"
+}
+]
+},
+{
+"text": "Bihar",
+"location": [
+633,
+638
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Bihar"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "Four days back, the RJD supremo's son and former Bihar deputy chief minister Tejashwi Yadav had also met him at the hospital.",
+"score": 0.424557,
+"arguments": [
+{
+"text": "Tejashwi Yadav",
+"location": [
+661,
+675
+],
+"entities": [
+{
+"type": "Person",
+"text": "Tejashwi Yadav"
+}
+]
+},
+{
+"text": "hospital",
+"location": [
+700,
+708
+],
+"entities": [
+{
+"type": "Organization",
+"text": "hospital"
+}
+]
+}
+]
+},
+{
+"type": "basedIn",
+"sentence": "Mumbai: Maharashtra Congress chief Ashok Chavan on Friday called on former Bihar chief minister Lalu Prasad Yadav, who is undergoing treatment at a hospital in Mumbai.",
+"score": 0.481408,
+"arguments": [
+{
+"text": "Congress",
+"location": [
+20,
+28
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Congress",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+},
+{
+"text": "Maharashtra",
+"location": [
+8,
+19
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Maharashtra"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "Four days back, the RJD supremo's son and former Bihar deputy chief minister Tejashwi Yadav had also met him at the hospital.",
+"score": 0.32619,
+"arguments": [
+{
+"text": "him",
+"location": [
+689,
+692
+],
+"entities": [
+{
+"type": "Person",
+"text": "Ashok Chavan"
+}
+]
+},
+{
+"text": "hospital",
+"location": [
+700,
+708
+],
+"entities": [
+{
+"type": "Organization",
+"text": "hospital"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Tejashwi had later tweeted that his father was hospitalised due to \"various diseases\".",
+"score": 0.977268,
+"arguments": [
+{
+"text": "Tejashwi",
+"location": [
+710,
+718
+],
+"entities": [
+{
+"type": "Person",
+"text": "Tejashwi Yadav"
+}
+]
+},
+{
+"text": "tweeted",
+"location": [
+729,
+736
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "tweeted"
+}
+]
+}
+]
+},
+{
+"type": "parentOf",
+"sentence": "Tejashwi had later tweeted that his father was hospitalised due to \"various diseases\".",
+"score": 0.697054,
+"arguments": [
+{
+"text": "father",
+"location": [
+746,
+752
+],
+"entities": [
+{
+"type": "Person",
+"text": "father"
+}
+]
+},
+{
+"text": "his",
+"location": [
+742,
+745
+],
+"entities": [
+{
+"type": "Person",
+"text": "Tejashwi Yadav"
+}
+]
+}
+]
+},
+{
+"type": "hasAttribute",
+"sentence": "Tejashwi had later tweeted that his father was hospitalised due to \"various diseases\".",
+"score": 0.493011,
+"arguments": [
+{
+"text": "father",
+"location": [
+746,
+752
+],
+"entities": [
+{
+"type": "Person",
+"text": "father"
+}
+]
+},
+{
+"text": "diseases",
+"location": [
+786,
+794
+],
+"entities": [
+{
+"type": "HealthCondition",
+"text": "diseases"
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "Mumbai: Maharashtra Congress chief Ashok Chavan on Friday called on former Bihar chief minister Lalu Prasad Yadav, who is undergoing treatment at a hospital in Mumbai.",
+"score": 0.571187,
+"arguments": [
+{
+"text": "chief",
+"location": [
+29,
+34
+],
+"entities": [
+{
+"type": "Person",
+"text": "Ashok Chavan"
+}
+]
+},
+{
+"text": "Congress",
+"location": [
+20,
+28
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Congress",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Mumbai: Maharashtra Congress chief Ashok Chavan on Friday called on former Bihar chief minister Lalu Prasad Yadav, who is undergoing treatment at a hospital in Mumbai.",
+"score": 0.845589,
+"arguments": [
+{
+"text": "Ashok Chavan",
+"location": [
+35,
+47
+],
+"entities": [
+{
+"type": "Person",
+"text": "Ashok Chavan"
+}
+]
+},
+{
+"text": "called on",
+"location": [
+58,
+67
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "called on"
+}
+]
+}
+]
+},
+{
+"type": "timeOf",
+"sentence": "Mumbai: Maharashtra Congress chief Ashok Chavan on Friday called on former Bihar chief minister Lalu Prasad Yadav, who is undergoing treatment at a hospital in Mumbai.",
+"score": 0.825849,
+"arguments": [
+{
+"text": "Friday",
+"location": [
+51,
+57
+],
+"entities": [
+{
+"type": "Date",
+"text": "Friday"
+}
+]
+},
+{
+"text": "called on",
+"location": [
+58,
+67
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "called on"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "Mumbai: Maharashtra Congress chief Ashok Chavan on Friday called on former Bihar chief minister Lalu Prasad Yadav, who is undergoing treatment at a hospital in Mumbai.",
+"score": 0.649053,
+"arguments": [
+{
+"text": "chief minister",
+"location": [
+81,
+95
+],
+"entities": [
+{
+"type": "Person",
+"text": "Lalu Prasad Yadav"
+}
+]
+},
+{
+"text": "called on",
+"location": [
+58,
+67
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "called on"
+}
+]
+}
+]
+},
+{
+"type": "residesIn",
+"sentence": "Mumbai: Maharashtra Congress chief Ashok Chavan on Friday called on former Bihar chief minister Lalu Prasad Yadav, who is undergoing treatment at a hospital in Mumbai.",
+"score": 0.355176,
+"arguments": [
+{
+"text": "chief minister",
+"location": [
+81,
+95
+],
+"entities": [
+{
+"type": "Person",
+"text": "Lalu Prasad Yadav"
+}
+]
+},
+{
+"text": "Bihar",
+"location": [
+75,
+80
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Bihar"
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "Mumbai: Maharashtra Congress chief Ashok Chavan on Friday called on former Bihar chief minister Lalu Prasad Yadav, who is undergoing treatment at a hospital in Mumbai.",
+"score": 0.508006,
+"arguments": [
+{
+"text": "who",
+"location": [
+115,
+118
+],
+"entities": [
+{
+"type": "Person",
+"text": "Lalu Prasad Yadav"
+}
+]
+},
+{
+"text": "hospital",
+"location": [
+148,
+156
+],
+"entities": [
+{
+"type": "Organization",
+"text": "hospital",
+"disambiguation": {
+"subtype": [
+"Commercial"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "Mumbai: Maharashtra Congress chief Ashok Chavan on Friday called on former Bihar chief minister Lalu Prasad Yadav, who is undergoing treatment at a hospital in Mumbai.",
+"score": 0.822794,
+"arguments": [
+{
+"text": "hospital",
+"location": [
+148,
+156
+],
+"entities": [
+{
+"type": "Organization",
+"text": "hospital",
+"disambiguation": {
+"subtype": [
+"Commercial"
+]
+}
+}
+]
+},
+{
+"text": "Mumbai",
+"location": [
+160,
+166
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Mumbai"
+}
+]
+}
+]
+}
+],
+"language": "en",
+"keywords": [
+{
+"text": "Lalu Prasad Yadav",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.927487,
+"emotion": {
+"sadness": 0.41714,
+"joy": 0.126912,
+"fear": 0.210696,
+"disgust": 0.360442,
+"anger": 0.137173
+}
+},
+{
+"text": "chief Ashok Chavan",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.783206,
+"emotion": {
+"sadness": 0.490142,
+"joy": 0.117756,
+"fear": 0.272022,
+"disgust": 0.220407,
+"anger": 0.158915
+}
+},
+{
+"text": "chief minister Lalu",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.746974,
+"emotion": {
+"sadness": 0.490142,
+"joy": 0.117756,
+"fear": 0.272022,
+"disgust": 0.220407,
+"anger": 0.158915
+}
+},
+{
+"text": "minister Tejashwi Yadav",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.668862,
+"emotion": {
+"sadness": 0.492641,
+"joy": 0.253493,
+"fear": 0.200916,
+"disgust": 0.117888,
+"anger": 0.055759
+}
+},
+{
+"text": "Bihar deputy chief",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.590563,
+"emotion": {
+"sadness": 0.492641,
+"joy": 0.253493,
+"fear": 0.200916,
+"disgust": 0.117888,
+"anger": 0.055759
+}
+}
+],
+"entities": [
+{
+"type": "Person",
+"text": "Lalu Prasad Yadav",
+"sentiment": {
+"score": 0.455145,
+"label": "positive"
+},
+"relevance": 0.893206,
+"emotion": {
+"sadness": 0.258855,
+"joy": 0.523832,
+"fear": 0.107796,
+"disgust": 0.143549,
+"anger": 0.064246
+},
+"disambiguation": {
+"subtype": [
+"Politician",
+"OfficeHolder"
+],
+"name": "Lalu Prasad Yadav",
+"dbpedia_resource": "http://dbpedia.org/resource/Lalu_Prasad_Yadav"
+},
+"count": 5
+},
+{
+"type": "Person",
+"text": "Ashok Chavan",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.412135,
+"emotion": {
+"sadness": 0.331109,
+"joy": 0.371633,
+"fear": 0.224236,
+"disgust": 0.0542,
+"anger": 0.126295
+},
+"disambiguation": {
+"subtype": [],
+"name": "Ashok Chavan",
+"dbpedia_resource": "http://dbpedia.org/resource/Ashok_Chavan"
+},
+"count": 3
+},
+{
+"type": "JobTitle",
+"text": "deputy chief",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.191168,
+"emotion": {
+"sadness": 0.492641,
+"joy": 0.253493,
+"fear": 0.200916,
+"disgust": 0.117888,
+"anger": 0.055759
+},
+"count": 1
+},
+{
+"type": "Organization",
+"text": "Rashtriya Janata Dal",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.169277,
+"emotion": {
+"sadness": 0.139307,
+"joy": 0.198361,
+"fear": 0.08248,
+"disgust": 0.07836,
+"anger": 0.092968
+},
+"disambiguation": {
+"subtype": [
+"PoliticalParty"
+],
+"name": "Rashtriya Janata Dal",
+"dbpedia_resource": "http://dbpedia.org/resource/Rashtriya_Janata_Dal"
+},
+"count": 1
+}
+],
+"concepts": [
+{
+"text": "Bihar",
+"relevance": 0.982129,
+"dbpedia_resource": "http://dbpedia.org/resource/Bihar"
+},
+{
+"text": "United Progressive Alliance",
+"relevance": 0.849277,
+"dbpedia_resource": "http://dbpedia.org/resource/United_Progressive_Alliance"
+},
+{
+"text": "Rashtriya Janata Dal",
+"relevance": 0.759034,
+"dbpedia_resource": "http://dbpedia.org/resource/Rashtriya_Janata_Dal"
+},
+{
+"text": "Rabri Devi",
+"relevance": 0.687267,
+"dbpedia_resource": "http://dbpedia.org/resource/Rabri_Devi"
+},
+{
+"text": "Nitish Kumar",
+"relevance": 0.684792,
+"dbpedia_resource": "http://dbpedia.org/resource/Nitish_Kumar"
+}
+],
+"categories": [
+{
+"score": 0.489867,
+"label": "/society/welfare/healthcare/hospital"
+},
+{
+"score": 0.476242,
+"label": "/law, govt and politics/government"
+},
+{
+"score": 0.37374,
+"label": "/law, govt and politics/politics/elections"
+}
+]
+}
+}

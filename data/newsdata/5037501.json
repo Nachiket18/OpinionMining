@@ -1,0 +1,1211 @@
+{
+"source_article_link": "https://www.firstpost.com/india/curfew-in-rajasthans-malpura-town-a-day-after-clashes-erupted-between-kanwariyas-and-locals-5037501.html",
+"title": "Curfew in Rajasthan's Malpura town day after clashes erupted between Kanwariyas and locals",
+"date_published": "2018-08-24T16:36:11+05:30",
+"source_type": "news_article",
+"source_name": "FirstPost",
+"image_link": [
+"https://images.firstpost.com/wp-content/uploads/2018/08/Kanwariya_PTI_3803.jpg"
+],
+"article_body": "A curfew was imposed in Malpura area in Rajasthan's Tonk district on Friday as fresh violence erupted a day after locals pelted stones at the Kanwariyas. \"An unruly mob on Friday gathered in the town and torched a shop. We dispersed them and a curfew was imposed,\" said additional SP Goverdhan Sekaria. File photo of the Kanwariya pilgrims. PTI Members ofa minority community had attacked the Kanwariyas while they were passing through a Muslim-dominated area in Malpura onThursday. The incident led to tension in the area following which Section 144 of CrPC, which prohibits the gathering of crowds, was imposed. On Thursday, in a clash between Kanwariyas and local people in the district, stones were hurled and a vehicle set on fire during the incident. The Kanwariyas were passing through a Muslim-dominated area in Malpura when some miscreants hurled stones on them,Sekaria said. Fifteen pilgrims were injured, he said. An SUV was then torched, station house officer at Malpura Navnit said. \u201cThe yatris had an altercation with local residents following which some miscreants resorted to violence,\u201d said IGP Ajmer range, Biju George Joseph, according to a report by",
+"description": "A curfew was imposed in Malpura area in Rajasthan's Tonk district on Friday as fresh violence erupted a day after locals pelted stones at the Kanwariyas. \"An unruly mob on Friday gathered in the town and torched a shop. We dispersed them and a curfew was imposed,\" said additional SP Goverdhan Sekaria. File photo of the Kanwariya pilgrims. PTI Members ofa minority community had attacked the Kanwariyas while they were passing through a Muslim-dominated area in Malpura onThursday. The incident led to tension in the area following which Section 144 of CrPC, which prohibits the gathering of crowds, was imposed. On Thursday, in a",
+"time_scraped": "2018-08-24 18:04:57.268513",
+"article_id": "5037501",
+"article_category": "India",
+"image_details": [
+{
+"url": "https://images.firstpost.com/wp-content/uploads/2018/08/Kanwariya_PTI_3803.jpg",
+"path": "full/dd3ad60dad85a6ffe36c1a5ee32aef781e193d7b.jpg",
+"checksum": "b780e0019b9ffabf7c0e858c19dbcf75"
+}
+],
+"ibm_nlu": {
+"usage": {
+"text_units": 1,
+"text_characters": 1169,
+"features": 7
+},
+"sentiment": {
+"document": {
+"score": -0.375371,
+"label": "negative"
+}
+},
+"semantic_roles": [
+{
+"subject": {
+"text": "A curfew"
+},
+"sentence": "A curfew was imposed in Malpura area in Rajasthan's Tonk district on Friday as fresh violence erupted a day after locals pelted stones at the Kanwariyas.",
+"object": {
+"text": "imposed in Malpura area"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "was",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "A curfew"
+},
+"sentence": "A curfew was imposed in Malpura area in Rajasthan's Tonk district on Friday as fresh violence erupted a day after locals pelted stones at the Kanwariyas.",
+"action": {
+"verb": {
+"text": "impose",
+"tense": "past"
+},
+"text": "was imposed",
+"normalized": "be impose"
+}
+},
+{
+"subject": {
+"text": "fresh violence"
+},
+"sentence": "A curfew was imposed in Malpura area in Rajasthan's Tonk district on Friday as fresh violence erupted a day after locals pelted stones at the Kanwariyas.",
+"action": {
+"verb": {
+"text": "erupt",
+"tense": "past"
+},
+"text": "erupted",
+"normalized": "erupt"
+}
+},
+{
+"subject": {
+"text": "locals"
+},
+"sentence": "A curfew was imposed in Malpura area in Rajasthan's Tonk district on Friday as fresh violence erupted a day after locals pelted stones at the Kanwariyas.",
+"object": {
+"text": "stones"
+},
+"action": {
+"verb": {
+"text": "pelt",
+"tense": "past"
+},
+"text": "pelted",
+"normalized": "pelt"
+}
+},
+{
+"subject": {
+"text": "An unruly mob"
+},
+"sentence": " \"An unruly mob on Friday gathered in the town and torched a shop.",
+"action": {
+"verb": {
+"text": "gather",
+"tense": "past"
+},
+"text": "gathered",
+"normalized": "gather"
+}
+},
+{
+"subject": {
+"text": "An unruly mob on Friday"
+},
+"sentence": " \"An unruly mob on Friday gathered in the town and torched a shop.",
+"object": {
+"text": "a shop"
+},
+"action": {
+"verb": {
+"text": "torch",
+"tense": "past"
+},
+"text": "torched",
+"normalized": "torch"
+}
+},
+{
+"subject": {
+"text": "We"
+},
+"sentence": " We dispersed them and a curfew was imposed,\" said additional SP Goverdhan Sekaria.",
+"object": {
+"text": "them"
+},
+"action": {
+"verb": {
+"text": "disperse",
+"tense": "past"
+},
+"text": "dispersed",
+"normalized": "disperse"
+}
+},
+{
+"subject": {
+"text": "a curfew"
+},
+"sentence": " We dispersed them and a curfew was imposed,\" said additional SP Goverdhan Sekaria.",
+"object": {
+"text": "imposed"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "was",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "additional SP Goverdhan Sekaria"
+},
+"sentence": " We dispersed them and a curfew was imposed,\" said additional SP Goverdhan Sekaria.",
+"object": {
+"text": "We dispersed them and a curfew was imposed"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "PTI Members ofa minority community"
+},
+"sentence": " PTI Members ofa minority community had attacked the Kanwariyas while they were passing through a Muslim-dominated area in Malpura onThursday.",
+"object": {
+"text": "the Kanwariyas"
+},
+"action": {
+"verb": {
+"text": "attack",
+"tense": "past"
+},
+"text": "had attacked",
+"normalized": "have attack"
+}
+},
+{
+"subject": {
+"text": "they"
+},
+"sentence": " PTI Members ofa minority community had attacked the Kanwariyas while they were passing through a Muslim-dominated area in Malpura onThursday.",
+"object": {
+"text": "passing through a Muslim-dominated area in Malpura onThursday"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "were",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "The incident"
+},
+"sentence": " The incident led to tension in the area following which Section 144 of CrPC, which prohibits the gathering of crowds, was imposed.",
+"action": {
+"verb": {
+"text": "lead",
+"tense": "past"
+},
+"text": "led",
+"normalized": "lead"
+}
+},
+{
+"subject": {
+"text": "CrPC"
+},
+"sentence": " The incident led to tension in the area following which Section 144 of CrPC, which prohibits the gathering of crowds, was imposed.",
+"object": {
+"text": "the gathering of crowds"
+},
+"action": {
+"verb": {
+"text": "prohibit",
+"tense": "present"
+},
+"text": "prohibits",
+"normalized": "prohibit"
+}
+},
+{
+"subject": {
+"text": "stones"
+},
+"sentence": " On Thursday, in a clash between Kanwariyas and local people in the district, stones were hurled and a vehicle set on fire during the incident.",
+"action": {
+"verb": {
+"text": "hurl",
+"tense": "past"
+},
+"text": "were hurled",
+"normalized": "be hurl"
+}
+},
+{
+"subject": {
+"text": "a vehicle"
+},
+"sentence": " On Thursday, in a clash between Kanwariyas and local people in the district, stones were hurled and a vehicle set on fire during the incident.",
+"object": {
+"text": "on fire"
+},
+"action": {
+"verb": {
+"text": "set",
+"tense": "past"
+},
+"text": "set",
+"normalized": "set"
+}
+},
+{
+"subject": {
+"text": "The Kanwariyas"
+},
+"sentence": " The Kanwariyas were passing through a Muslim-dominated area in Malpura when some miscreants hurled stones on them,Sekaria said.",
+"object": {
+"text": "passing through a Muslim-dominated area in Malpura"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "were",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "The Kanwariyas"
+},
+"sentence": " The Kanwariyas were passing through a Muslim-dominated area in Malpura when some miscreants hurled stones on them,Sekaria said.",
+"action": {
+"verb": {
+"text": "pass",
+"tense": "past"
+},
+"text": "were passing",
+"normalized": "be pass"
+}
+},
+{
+"subject": {
+"text": "some miscreants"
+},
+"sentence": " The Kanwariyas were passing through a Muslim-dominated area in Malpura when some miscreants hurled stones on them,Sekaria said.",
+"object": {
+"text": "stones"
+},
+"action": {
+"verb": {
+"text": "hurl",
+"tense": "past"
+},
+"text": "hurled",
+"normalized": "hurl"
+}
+},
+{
+"subject": {
+"text": "Fifteen pilgrims"
+},
+"sentence": " Fifteen pilgrims were injured, he said.",
+"object": {
+"text": "injured"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "were",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "he"
+},
+"sentence": " Fifteen pilgrims were injured, he said.",
+"object": {
+"text": "Fifteen pilgrims were injured"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "An SUV"
+},
+"sentence": " An SUV was then torched, station house officer at Malpura Navnit said.",
+"action": {
+"verb": {
+"text": "torch",
+"tense": "past"
+},
+"text": "torched",
+"normalized": "torch"
+}
+},
+{
+"subject": {
+"text": "station house officer at Malpura Navnit"
+},
+"sentence": " An SUV was then torched, station house officer at Malpura Navnit said.",
+"object": {
+"text": "An SUV was then torched"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "The yatris"
+},
+"sentence": " \u201cThe yatris had an altercation with local residents following which some miscreants resorted to violence,\u201d said IGP Ajmer range, Biju George Joseph, according to a report by",
+"object": {
+"text": "an altercation with local residents"
+},
+"action": {
+"verb": {
+"text": "have",
+"tense": "past"
+},
+"text": "had",
+"normalized": "have"
+}
+},
+{
+"subject": {
+"text": "some miscreants"
+},
+"sentence": " \u201cThe yatris had an altercation with local residents following which some miscreants resorted to violence,\u201d said IGP Ajmer range, Biju George Joseph, according to a report by",
+"object": {
+"text": "to violence"
+},
+"action": {
+"verb": {
+"text": "resort",
+"tense": "past"
+},
+"text": "resorted",
+"normalized": "resort"
+}
+},
+{
+"subject": {
+"text": "IGP Ajmer range, Biju George Joseph"
+},
+"sentence": " \u201cThe yatris had an altercation with local residents following which some miscreants resorted to violence,\u201d said IGP Ajmer range, Biju George Joseph, according to a report by",
+"object": {
+"text": "The yatris had an altercation with local residents following which some miscreants resorted to violence"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "The yatris had an altercation with local residents following which some miscreants resorted to violence,\u201d said IGP Ajmer range, Biju George Joseph,"
+},
+"sentence": " \u201cThe yatris had an altercation with local residents following which some miscreants resorted to violence,\u201d said IGP Ajmer range, Biju George Joseph, according to a report by",
+"object": {
+"text": "to a report by"
+},
+"action": {
+"verb": {
+"text": "accord",
+"tense": "present"
+},
+"text": "according",
+"normalized": "accord"
+}
+}
+],
+"relations": [
+{
+"type": "locatedAt",
+"sentence": "A curfew was imposed in Malpura area in Rajasthan's Tonk district on Friday as fresh violence erupted a day after locals pelted stones at the Kanwariyas.",
+"score": 0.579611,
+"arguments": [
+{
+"text": "Malpura area",
+"location": [
+24,
+36
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Malpura area"
+}
+]
+},
+{
+"text": "Rajasthan",
+"location": [
+40,
+49
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Rajasthan"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "On Thursday, in a clash between Kanwariyas and local people in the district, stones were hurled and a vehicle set on fire during the incident.",
+"score": 0.713364,
+"arguments": [
+{
+"text": "people",
+"location": [
+667,
+673
+],
+"entities": [
+{
+"type": "Person",
+"text": "people"
+}
+]
+},
+{
+"text": "vehicle",
+"location": [
+716,
+723
+],
+"entities": [
+{
+"type": "Vehicle",
+"text": "vehicle"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "The Kanwariyas were passing through a Muslim-dominated area in Malpura when some miscreants hurled stones on them,Sekaria said.",
+"score": 0.998339,
+"arguments": [
+{
+"text": "Sekaria",
+"location": [
+871,
+878
+],
+"entities": [
+{
+"type": "Person",
+"text": "Sekaria"
+}
+]
+},
+{
+"text": "said",
+"location": [
+879,
+883
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Fifteen pilgrims were injured, he said.",
+"score": 0.983071,
+"arguments": [
+{
+"text": "he",
+"location": [
+916,
+918
+],
+"entities": [
+{
+"type": "Person",
+"text": "Sekaria"
+}
+]
+},
+{
+"text": "said",
+"location": [
+919,
+923
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "An SUV was then torched, station house officer at Malpura Navnit said.",
+"score": 0.758942,
+"arguments": [
+{
+"text": "officer",
+"location": [
+964,
+971
+],
+"entities": [
+{
+"type": "Person",
+"text": "officer"
+}
+]
+},
+{
+"text": "Malpura Navnit",
+"location": [
+975,
+989
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Malpura Navnit",
+"disambiguation": {
+"subtype": [
+"Commercial"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "An SUV was then torched, station house officer at Malpura Navnit said.",
+"score": 0.578326,
+"arguments": [
+{
+"text": "officer",
+"location": [
+964,
+971
+],
+"entities": [
+{
+"type": "Person",
+"text": "officer"
+}
+]
+},
+{
+"text": "said",
+"location": [
+990,
+994
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "\"The yatris had an altercation with local residents following which some miscreants resorted to violence,\" said IGP Ajmer range, Biju George Joseph, according to a report by",
+"score": 0.931025,
+"arguments": [
+{
+"text": "IGP Ajmer",
+"location": [
+1108,
+1117
+],
+"entities": [
+{
+"type": "Person",
+"text": "IGP Ajmer"
+}
+]
+},
+{
+"text": "said",
+"location": [
+1103,
+1107
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "A curfew was imposed in Malpura area in Rajasthan's Tonk district on Friday as fresh violence erupted a day after locals pelted stones at the Kanwariyas.",
+"score": 0.57102,
+"arguments": [
+{
+"text": "Malpura area",
+"location": [
+24,
+36
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Malpura area"
+}
+]
+},
+{
+"text": "Tonk district",
+"location": [
+52,
+65
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Tonk district"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "A curfew was imposed in Malpura area in Rajasthan's Tonk district on Friday as fresh violence erupted a day after locals pelted stones at the Kanwariyas.",
+"score": 0.682971,
+"arguments": [
+{
+"text": "Tonk district",
+"location": [
+52,
+65
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Tonk district"
+}
+]
+},
+{
+"text": "Rajasthan",
+"location": [
+40,
+49
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Rajasthan"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "PTI Members ofa minority community had attacked the Kanwariyas while they were passing through a Muslim-dominated area in Malpura onThursday.",
+"score": 0.833215,
+"arguments": [
+{
+"text": "minority community",
+"location": [
+357,
+375
+],
+"entities": [
+{
+"type": "Person",
+"text": "minority community"
+}
+]
+},
+{
+"text": "attacked",
+"location": [
+380,
+388
+],
+"entities": [
+{
+"type": "Crime",
+"text": "attacked"
+}
+]
+}
+]
+},
+{
+"type": "partOfMany",
+"sentence": "PTI Members ofa minority community had attacked the Kanwariyas while they were passing through a Muslim-dominated area in Malpura onThursday.",
+"score": 0.451245,
+"arguments": [
+{
+"text": "minority community",
+"location": [
+357,
+375
+],
+"entities": [
+{
+"type": "Person",
+"text": "minority community"
+}
+]
+},
+{
+"text": "they",
+"location": [
+410,
+414
+],
+"entities": [
+{
+"type": "Person",
+"text": "they"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "PTI Members ofa minority community had attacked the Kanwariyas while they were passing through a Muslim-dominated area in Malpura onThursday.",
+"score": 0.550245,
+"arguments": [
+{
+"text": "they",
+"location": [
+410,
+414
+],
+"entities": [
+{
+"type": "Person",
+"text": "they"
+}
+]
+},
+{
+"text": "attacked",
+"location": [
+380,
+388
+],
+"entities": [
+{
+"type": "Crime",
+"text": "attacked"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "PTI Members ofa minority community had attacked the Kanwariyas while they were passing through a Muslim-dominated area in Malpura onThursday.",
+"score": 0.49532,
+"arguments": [
+{
+"text": "they",
+"location": [
+410,
+414
+],
+"entities": [
+{
+"type": "Person",
+"text": "they"
+}
+]
+},
+{
+"text": "area",
+"location": [
+455,
+459
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "area"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "PTI Members ofa minority community had attacked the Kanwariyas while they were passing through a Muslim-dominated area in Malpura onThursday.",
+"score": 0.555938,
+"arguments": [
+{
+"text": "area",
+"location": [
+455,
+459
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "area"
+}
+]
+},
+{
+"text": "Malpura",
+"location": [
+463,
+470
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Malpura area"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "The Kanwariyas were passing through a Muslim-dominated area in Malpura when some miscreants hurled stones on them,Sekaria said.",
+"score": 0.632677,
+"arguments": [
+{
+"text": "area",
+"location": [
+812,
+816
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "area"
+}
+]
+},
+{
+"text": "Malpura",
+"location": [
+820,
+827
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Malpura area"
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "On Thursday, in a clash between Kanwariyas and local people in the district, stones were hurled and a vehicle set on fire during the incident.",
+"score": 0.56237,
+"arguments": [
+{
+"text": "people",
+"location": [
+667,
+673
+],
+"entities": [
+{
+"type": "Person",
+"text": "people"
+}
+]
+},
+{
+"text": "district",
+"location": [
+681,
+689
+],
+"entities": [
+{
+"type": "Organization",
+"text": "district"
+}
+]
+}
+]
+}
+],
+"language": "en",
+"keywords": [
+{
+"text": "IGP Ajmer range",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.900539,
+"emotion": {
+"sadness": 0.21841,
+"joy": 0.035858,
+"fear": 0.09283,
+"disgust": 0.034657,
+"anger": 0.096363
+}
+},
+{
+"text": "additional SP Goverdhan",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.875488,
+"emotion": {
+"sadness": 0.030102,
+"joy": 0.103149,
+"fear": 0.054303,
+"disgust": 0.097271,
+"anger": 0.042048
+}
+},
+{
+"text": "Biju George Joseph",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.865928,
+"emotion": {
+"sadness": 0.189352,
+"joy": 0.167859,
+"fear": 0.067048,
+"disgust": 0.151399,
+"anger": 0.099203
+}
+},
+{
+"text": "station house officer",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.823393,
+"emotion": {
+"sadness": 0.247219,
+"joy": 0.059281,
+"fear": 0.243558,
+"disgust": 0.268057,
+"anger": 0.406071
+}
+},
+{
+"text": "Muslim-dominated area",
+"sentiment": {
+"score": -0.304869,
+"label": "negative"
+},
+"relevance": 0.820312,
+"emotion": {
+"sadness": 0.457514,
+"joy": 0.041604,
+"fear": 0.076188,
+"disgust": 0.402009,
+"anger": 0.254145
+}
+}
+],
+"entities": [
+{
+"type": "Location",
+"text": "Kanwariyas",
+"sentiment": {
+"score": -0.425798,
+"label": "negative"
+},
+"relevance": 0.752155,
+"emotion": {
+"sadness": 0.465665,
+"joy": 0.162305,
+"fear": 0.066648,
+"disgust": 0.283802,
+"anger": 0.25738
+},
+"disambiguation": {
+"subtype": [
+"City"
+]
+},
+"count": 3
+},
+{
+"type": "Location",
+"text": "Malpura",
+"sentiment": {
+"score": -0.425798,
+"label": "negative"
+},
+"relevance": 0.636042,
+"emotion": {
+"sadness": 0.310928,
+"joy": 0.442306,
+"fear": 0.040326,
+"disgust": 0.166129,
+"anger": 0.154103
+},
+"disambiguation": {
+"subtype": [
+"City"
+],
+"name": "Malpura",
+"dbpedia_resource": "http://dbpedia.org/resource/Malpura"
+},
+"count": 2
+},
+{
+"type": "Facility",
+"text": "Kanwariya pilgrims",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.570485,
+"emotion": {
+"sadness": 0.15809,
+"joy": 0.456032,
+"fear": 0.037822,
+"disgust": 0.06978,
+"anger": 0.057315
+},
+"count": 1
+},
+{
+"type": "Person",
+"text": "Biju George Joseph",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.526547,
+"emotion": {
+"sadness": 0.189352,
+"joy": 0.167859,
+"fear": 0.067048,
+"disgust": 0.151399,
+"anger": 0.099203
+},
+"count": 1
+},
+{
+"type": "Company",
+"text": "Malpura Navnit",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.468224,
+"emotion": {
+"sadness": 0.247219,
+"joy": 0.059281,
+"fear": 0.243558,
+"disgust": 0.268057,
+"anger": 0.406071
+},
+"count": 1
+}
+],
+"concepts": [
+{
+"text": "English-language films",
+"relevance": 0.960513,
+"dbpedia_resource": "http://dbpedia.org/resource/English-language_films"
+},
+{
+"text": "Tonk district",
+"relevance": 0.800132,
+"dbpedia_resource": "http://dbpedia.org/resource/Tonk_district"
+},
+{
+"text": "Rajasthan",
+"relevance": 0.789487,
+"dbpedia_resource": "http://dbpedia.org/resource/Rajasthan"
+},
+{
+"text": "Malpura",
+"relevance": 0.740334,
+"dbpedia_resource": "http://dbpedia.org/resource/Malpura"
+},
+{
+"text": "The Gathering",
+"relevance": 0.628109,
+"dbpedia_resource": "http://dbpedia.org/resource/The_Gathering"
+}
+],
+"categories": [
+{
+"score": 0.730824,
+"label": "/law, govt and politics/law enforcement/police"
+},
+{
+"score": 0.314205,
+"label": "/travel/transports/road travel/road accident"
+},
+{
+"score": 0.145751,
+"label": "/automotive and vehicles/cars"
+}
+]
+}
+}

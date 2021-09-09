@@ -1,0 +1,2157 @@
+{
+"source_article_link": "https://timesofindia.indiatimes.com/india/mans-death-in-grenade-blast-other-violence-mar-eid-in-kashmir/articleshow/64613660.cms?&utm_source=Articleshow&utm_medium=Organic&utm_campaign=Related_Stories",
+"title": "Man's death in grenade blast, other violence mar Eid in Kashmir",
+"date_published": "2018-06-16T15:25:17+05:30",
+"source_type": "news_article",
+"source_name": "timesofindia.indiatimes.com",
+"image_link": [
+"https://timesofindia.indiatimes.com/thumb/msid-64613666,imgsize-188994,width-400,resizemode-4/64613666.jpg"
+],
+"article_body": "SRINAGAR: A man was killed apparently in a grenade blast during one of several clashes today between protesters and security forces in Kashmir, marring Eid festivities and prayers. Also today, a 21-year-old Army jawan, Bikas Gurung, was killed when Pakistani troopers targeted a patrol party along the line of control in Rajouri district of . Militants also fired at a security forces party at Lasjan on the outskirts of the city, injuring a CRPF Jawan. Constable Dinesh Paswan has been shifted to 92 Base Hosptial at Army's Badamibagh in Srinagar. The grenade blast which killed a protester took place at Brakpora village in of south Kashmir. \"Preliminary investigation reveals that a hand grenade exploded resulting in the death of Sheraz Ahmad due to splinter injuries,\" a police spokesman said, referring to the grenade blast incident in Anantnag district. Ahmad's right hand was severely damaged, the spokesman said. The police spokesperson said further details are awaited. One person sustained injuries in the clashes in Safakadal area of Srinagar city soon after the prayers, a police official said. Clashes between protestors and law enforcing agencies were reported from and areas in north Kashmir, the official said, adding the situation in other parts of the Valley was peaceful so far. Muslims from all walks of life made a beeline for Eidgahs (prayer ground) and mosques to offer Eid prayers as a thanksgiving for the month-long fasting of Ramadhan. Officials said the biggest gathering was witnessed at Hazratbal shrine where thousands of faithful offered Eid prayers. They said the second largest gathering was held at Eidgah in the old city. Big gatherings of Eid prayers were also held in Sonawar and Soura Shrines in the heart of the city, they said, adding similar gatherings were held at all districts headquarters and major towns of the Kashmir Valley.",
+"description": "SRINAGAR: A man was killed apparently in a grenade blast during one of several clashes today between protesters and security forces in Kashmir, marring Eid festivities and prayers. Also today, a 21-year-old Army jawan, Bikas Gurung, was killed when Pakistani troopers targeted a patrol party along the line of control in Rajouri district of . Militants also fired at a security forces party at Lasjan on the outskirts of the city, injuring a CRPF Jawan. Constable Dinesh Paswan has been shifted to 92 Base Hosptial at Army's Badamibagh in Srinagar. The grenade blast which killed a protester took place at Brakpora village in",
+"time_scraped": "2018-08-22 21:01:19.261172",
+"article_id": "64613660",
+"article_category": "IndiaNews",
+"image_details": [
+{
+"url": "https://timesofindia.indiatimes.com/thumb/msid-64613666,imgsize-188994,width-400,resizemode-4/64613666.jpg",
+"path": "full/5d75650e2b91cb8e01955e21d1e1c8cf946f09b8.jpg",
+"checksum": "bd2b64d9a220c19a4703abfe8c7332b7"
+}
+],
+"ibm_nlu": {
+"usage": {
+"text_units": 1,
+"text_characters": 1874,
+"features": 7
+},
+"sentiment": {
+"document": {
+"score": -0.607286,
+"label": "negative"
+}
+},
+"semantic_roles": [
+{
+"subject": {
+"text": "A man"
+},
+"sentence": "SRINAGAR: A man was killed apparently in a grenade blast during one of several clashes today between protesters and security forces in Kashmir, marring Eid festivities and prayers.",
+"object": {
+"text": "killed apparently in a grenade blast"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "was",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "A man"
+},
+"sentence": "SRINAGAR: A man was killed apparently in a grenade blast during one of several clashes today between protesters and security forces in Kashmir, marring Eid festivities and prayers.",
+"action": {
+"verb": {
+"text": "kill",
+"tense": "past"
+},
+"text": "was killed",
+"normalized": "be kill"
+}
+},
+{
+"subject": {
+"text": "A man was killed apparently in a grenade"
+},
+"sentence": "SRINAGAR: A man was killed apparently in a grenade blast during one of several clashes today between protesters and security forces in Kashmir, marring Eid festivities and prayers.",
+"object": {
+"text": "Eid festivities"
+},
+"action": {
+"verb": {
+"text": "mar",
+"tense": "present"
+},
+"text": "marring",
+"normalized": "mar"
+}
+},
+{
+"subject": {
+"text": "a 21-year-old Army jawan, Bikas Gurung,"
+},
+"sentence": " Also today, a 21-year-old Army jawan, Bikas Gurung, was killed when Pakistani troopers targeted a patrol party along the line of control in Rajouri district of .",
+"object": {
+"text": "killed"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "was",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "a 21-year-old Army jawan, Bikas Gurung,"
+},
+"sentence": " Also today, a 21-year-old Army jawan, Bikas Gurung, was killed when Pakistani troopers targeted a patrol party along the line of control in Rajouri district of .",
+"action": {
+"verb": {
+"text": "kill",
+"tense": "past"
+},
+"text": "was killed",
+"normalized": "be kill"
+}
+},
+{
+"subject": {
+"text": "Pakistani troopers"
+},
+"sentence": " Also today, a 21-year-old Army jawan, Bikas Gurung, was killed when Pakistani troopers targeted a patrol party along the line of control in Rajouri district of .",
+"object": {
+"text": "a patrol party along the line of control in Rajouri district of"
+},
+"action": {
+"verb": {
+"text": "target",
+"tense": "past"
+},
+"text": "targeted",
+"normalized": "target"
+}
+},
+{
+"subject": {
+"text": "Militants"
+},
+"sentence": " Militants also fired at a security forces party at Lasjan on the outskirts of the city, injuring a CRPF Jawan.",
+"action": {
+"verb": {
+"text": "fire",
+"tense": "past"
+},
+"text": "fired",
+"normalized": "fire"
+}
+},
+{
+"subject": {
+"text": "Militants"
+},
+"sentence": " Militants also fired at a security forces party at Lasjan on the outskirts of the city, injuring a CRPF Jawan.",
+"object": {
+"text": "a CRPF Jawan"
+},
+"action": {
+"verb": {
+"text": "injure",
+"tense": "present"
+},
+"text": "injuring",
+"normalized": "injure"
+}
+},
+{
+"subject": {
+"text": "Constable Dinesh Paswan"
+},
+"sentence": " Constable Dinesh Paswan has been shifted to 92 Base Hosptial at Army's Badamibagh in Srinagar.",
+"object": {
+"text": "to 92 Base Hosptial"
+},
+"action": {
+"verb": {
+"text": "shift",
+"tense": "past"
+},
+"text": "has been shifted",
+"normalized": "have be shift"
+}
+},
+{
+"subject": {
+"text": "The grenade blast"
+},
+"sentence": " The grenade blast which killed a protester took place at Brakpora village in of south Kashmir.",
+"object": {
+"text": "a protester"
+},
+"action": {
+"verb": {
+"text": "kill",
+"tense": "past"
+},
+"text": "killed",
+"normalized": "kill"
+}
+},
+{
+"subject": {
+"text": "Preliminary investigation"
+},
+"sentence": " \"Preliminary investigation reveals that a hand grenade exploded resulting in the death of Sheraz Ahmad due to splinter injuries,\" a police spokesman said, referring to the grenade blast incident in Anantnag district.",
+"object": {
+"text": "that a hand grenade exploded resulting in the death of Sheraz Ahmad due to splinter injuries"
+},
+"action": {
+"verb": {
+"text": "reveal",
+"tense": "present"
+},
+"text": "reveals",
+"normalized": "reveal"
+}
+},
+{
+"subject": {
+"text": "in the death of Sheraz Ahmad"
+},
+"sentence": " \"Preliminary investigation reveals that a hand grenade exploded resulting in the death of Sheraz Ahmad due to splinter injuries,\" a police spokesman said, referring to the grenade blast incident in Anantnag district.",
+"object": {
+"text": "a hand grenade"
+},
+"action": {
+"verb": {
+"text": "result",
+"tense": "present"
+},
+"text": "exploded resulting",
+"normalized": "explode result"
+}
+},
+{
+"subject": {
+"text": "a police spokesman"
+},
+"sentence": " \"Preliminary investigation reveals that a hand grenade exploded resulting in the death of Sheraz Ahmad due to splinter injuries,\" a police spokesman said, referring to the grenade blast incident in Anantnag district.",
+"object": {
+"text": "Preliminary investigation reveals that a hand grenade exploded resulting in the death of Sheraz Ahmad due to splinter injuries"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "a police spokesman"
+},
+"sentence": " \"Preliminary investigation reveals that a hand grenade exploded resulting in the death of Sheraz Ahmad due to splinter injuries,\" a police spokesman said, referring to the grenade blast incident in Anantnag district.",
+"object": {
+"text": "to the grenade blast incident in Anantnag district"
+},
+"action": {
+"verb": {
+"text": "refer",
+"tense": "present"
+},
+"text": "referring",
+"normalized": "refer"
+}
+},
+{
+"subject": {
+"text": "Ahmad's right hand"
+},
+"sentence": " Ahmad's right hand was severely damaged, the spokesman said.",
+"object": {
+"text": "severely damaged"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "was",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "the spokesman"
+},
+"sentence": " Ahmad's right hand was severely damaged, the spokesman said.",
+"object": {
+"text": "Ahmad's right hand was severely damaged"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "The police spokesperson"
+},
+"sentence": " The police spokesperson said further details are awaited.",
+"object": {
+"text": "further details are awaited"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "One person"
+},
+"sentence": " One person sustained injuries in the clashes in Safakadal area of Srinagar city soon after the prayers, a police official said.",
+"object": {
+"text": "injuries"
+},
+"action": {
+"verb": {
+"text": "sustain",
+"tense": "past"
+},
+"text": "sustained",
+"normalized": "sustain"
+}
+},
+{
+"subject": {
+"text": "a police official"
+},
+"sentence": " One person sustained injuries in the clashes in Safakadal area of Srinagar city soon after the prayers, a police official said.",
+"object": {
+"text": "the prayers"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "the official"
+},
+"sentence": " Clashes between protestors and law enforcing agencies were reported from and areas in north Kashmir, the official said, adding the situation in other parts of the Valley was peaceful so far.",
+"object": {
+"text": "Clashes between protestors and law enforcing agencies were reported from and areas in north Kashmir"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "the official"
+},
+"sentence": " Clashes between protestors and law enforcing agencies were reported from and areas in north Kashmir, the official said, adding the situation in other parts of the Valley was peaceful so far.",
+"object": {
+"text": "the situation"
+},
+"action": {
+"verb": {
+"text": "add",
+"tense": "present"
+},
+"text": "adding",
+"normalized": "add"
+}
+},
+{
+"subject": {
+"text": "other parts of the Valley"
+},
+"sentence": " Clashes between protestors and law enforcing agencies were reported from and areas in north Kashmir, the official said, adding the situation in other parts of the Valley was peaceful so far.",
+"object": {
+"text": "peaceful"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "was",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "Muslims from all walks of life"
+},
+"sentence": " Muslims from all walks of life made a beeline for Eidgahs (prayer ground) and mosques to offer Eid prayers as a thanksgiving for the month-long fasting of Ramadhan.",
+"object": {
+"text": "a beeline"
+},
+"action": {
+"verb": {
+"text": "make",
+"tense": "past"
+},
+"text": "made",
+"normalized": "make"
+}
+},
+{
+"subject": {
+"text": "Officials"
+},
+"sentence": " Officials said the biggest gathering was witnessed at Hazratbal shrine where thousands of faithful offered Eid prayers.",
+"object": {
+"text": "the biggest gathering was witnessed at Hazratbal shrine where thousands of faithful offered Eid prayers"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "the biggest gathering"
+},
+"sentence": " Officials said the biggest gathering was witnessed at Hazratbal shrine where thousands of faithful offered Eid prayers.",
+"action": {
+"verb": {
+"text": "witness",
+"tense": "past"
+},
+"text": "was witnessed",
+"normalized": "be witness"
+}
+},
+{
+"subject": {
+"text": "Hazratbal"
+},
+"sentence": " Officials said the biggest gathering was witnessed at Hazratbal shrine where thousands of faithful offered Eid prayers.",
+"action": {
+"verb": {
+"text": "shrine",
+"tense": "past"
+},
+"text": "shrine",
+"normalized": "shrine"
+}
+},
+{
+"subject": {
+"text": "They"
+},
+"sentence": " They said the second largest gathering was held at Eidgah in the old city.",
+"object": {
+"text": "the second largest gathering was held at Eidgah in the old city"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "Big gatherings of Eid prayers"
+},
+"sentence": " Big gatherings of Eid prayers were also held in Sonawar and Soura Shrines in the heart of the city, they said, adding similar gatherings were held at all districts headquarters and major towns of the Kashmir Valley.",
+"action": {
+"verb": {
+"text": "hold",
+"tense": "past"
+},
+"text": "were also held",
+"normalized": "be also hold"
+}
+},
+{
+"subject": {
+"text": "they"
+},
+"sentence": " Big gatherings of Eid prayers were also held in Sonawar and Soura Shrines in the heart of the city, they said, adding similar gatherings were held at all districts headquarters and major towns of the Kashmir Valley.",
+"object": {
+"text": "Big gatherings of Eid prayers were also held in Sonawar and Soura Shrines in the heart of the city"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "they"
+},
+"sentence": " Big gatherings of Eid prayers were also held in Sonawar and Soura Shrines in the heart of the city, they said, adding similar gatherings were held at all districts headquarters and major towns of the Kashmir Valley.",
+"object": {
+"text": "similar gatherings were held at all districts headquarters and major towns of the Kashmir Valley"
+},
+"action": {
+"verb": {
+"text": "add",
+"tense": "present"
+},
+"text": "adding",
+"normalized": "add"
+}
+},
+{
+"subject": {
+"text": "similar gatherings"
+},
+"sentence": " Big gatherings of Eid prayers were also held in Sonawar and Soura Shrines in the heart of the city, they said, adding similar gatherings were held at all districts headquarters and major towns of the Kashmir Valley.",
+"action": {
+"verb": {
+"text": "hold",
+"tense": "past"
+},
+"text": "were held",
+"normalized": "be hold"
+}
+}
+],
+"relations": [
+{
+"type": "diedOf",
+"sentence": "SRINAGAR: A man was killed apparently in a grenade blast during one of several clashes today between protesters and security forces in Kashmir, marring Eid festivities and prayers.",
+"score": 0.33067,
+"arguments": [
+{
+"text": "man",
+"location": [
+12,
+15
+],
+"entities": [
+{
+"type": "Person",
+"text": "Constable Dinesh Paswan"
+}
+]
+},
+{
+"text": "blast",
+"location": [
+51,
+56
+],
+"entities": [
+{
+"type": "EventViolence",
+"text": "blast"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "Constable Dinesh Paswan has been shifted to 92 Base Hosptial at Army's Badamibagh in Srinagar.",
+"score": 0.483176,
+"arguments": [
+{
+"text": "Constable Dinesh Paswan",
+"location": [
+454,
+477
+],
+"entities": [
+{
+"type": "Person",
+"text": "Constable Dinesh Paswan"
+}
+]
+},
+{
+"text": "Base Hosptial",
+"location": [
+501,
+514
+],
+"entities": [
+{
+"type": "Facility",
+"text": "Base Hosptial"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "Constable Dinesh Paswan has been shifted to 92 Base Hosptial at Army's Badamibagh in Srinagar.",
+"score": 0.896931,
+"arguments": [
+{
+"text": "Base Hosptial",
+"location": [
+501,
+514
+],
+"entities": [
+{
+"type": "Facility",
+"text": "Base Hosptial"
+}
+]
+},
+{
+"text": "Srinagar",
+"location": [
+539,
+547
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Srinagar"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "The grenade blast which killed a protester took place at Brakpora village in of south Kashmir.",
+"score": 0.558418,
+"arguments": [
+{
+"text": "village",
+"location": [
+615,
+622
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Brakpora"
+}
+]
+},
+{
+"text": "south",
+"location": [
+629,
+634
+],
+"entities": [
+{
+"type": "Location",
+"text": "south"
+}
+]
+}
+]
+},
+{
+"type": "near",
+"sentence": "The grenade blast which killed a protester took place at Brakpora village in of south Kashmir.",
+"score": 0.413579,
+"arguments": [
+{
+"text": "village",
+"location": [
+615,
+622
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Brakpora"
+}
+]
+},
+{
+"text": "Kashmir",
+"location": [
+635,
+642
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Kashmir"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "The grenade blast which killed a protester took place at Brakpora village in of south Kashmir.",
+"score": 0.93868,
+"arguments": [
+{
+"text": "south",
+"location": [
+629,
+634
+],
+"entities": [
+{
+"type": "Location",
+"text": "south"
+}
+]
+},
+{
+"text": "Kashmir",
+"location": [
+635,
+642
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Kashmir"
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "\"Preliminary investigation reveals that a hand grenade exploded resulting in the death of Sheraz Ahmad due to splinter injuries,\" a police spokesman said, referring to the grenade blast incident in Anantnag district.",
+"score": 0.543968,
+"arguments": [
+{
+"text": "spokesman",
+"location": [
+783,
+792
+],
+"entities": [
+{
+"type": "Person",
+"text": "spokesperson"
+}
+]
+},
+{
+"text": "police",
+"location": [
+776,
+782
+],
+"entities": [
+{
+"type": "Organization",
+"text": "police",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "The police spokesperson said further details are awaited.",
+"score": 0.536213,
+"arguments": [
+{
+"text": "spokesperson",
+"location": [
+933,
+945
+],
+"entities": [
+{
+"type": "Person",
+"text": "spokesperson"
+}
+]
+},
+{
+"text": "police",
+"location": [
+926,
+932
+],
+"entities": [
+{
+"type": "Organization",
+"text": "police",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "\"Preliminary investigation reveals that a hand grenade exploded resulting in the death of Sheraz Ahmad due to splinter injuries,\" a police spokesman said, referring to the grenade blast incident in Anantnag district.",
+"score": 0.991112,
+"arguments": [
+{
+"text": "spokesman",
+"location": [
+783,
+792
+],
+"entities": [
+{
+"type": "Person",
+"text": "spokesperson"
+}
+]
+},
+{
+"text": "said",
+"location": [
+793,
+797
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "adding"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Ahmad's right hand was severely damaged, the spokesman said.",
+"score": 0.987805,
+"arguments": [
+{
+"text": "spokesman",
+"location": [
+906,
+915
+],
+"entities": [
+{
+"type": "Person",
+"text": "spokesperson"
+}
+]
+},
+{
+"text": "said",
+"location": [
+916,
+920
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "adding"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "The police spokesperson said further details are awaited.",
+"score": 0.974938,
+"arguments": [
+{
+"text": "spokesperson",
+"location": [
+933,
+945
+],
+"entities": [
+{
+"type": "Person",
+"text": "spokesperson"
+}
+]
+},
+{
+"text": "said",
+"location": [
+946,
+950
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "adding"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "\"Preliminary investigation reveals that a hand grenade exploded resulting in the death of Sheraz Ahmad due to splinter injuries,\" a police spokesman said, referring to the grenade blast incident in Anantnag district.",
+"score": 0.50117,
+"arguments": [
+{
+"text": "spokesman",
+"location": [
+783,
+792
+],
+"entities": [
+{
+"type": "Person",
+"text": "spokesperson"
+}
+]
+},
+{
+"text": "incident",
+"location": [
+830,
+838
+],
+"entities": [
+{
+"type": "Crime",
+"text": "incident"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "\"Preliminary investigation reveals that a hand grenade exploded resulting in the death of Sheraz Ahmad due to splinter injuries,\" a police spokesman said, referring to the grenade blast incident in Anantnag district.",
+"score": 0.695445,
+"arguments": [
+{
+"text": "Anantnag district",
+"location": [
+842,
+859
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Anantnag district"
+}
+]
+},
+{
+"text": "blast",
+"location": [
+824,
+829
+],
+"entities": [
+{
+"type": "EventViolence",
+"text": "blast"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "\"Preliminary investigation reveals that a hand grenade exploded resulting in the death of Sheraz Ahmad due to splinter injuries,\" a police spokesman said, referring to the grenade blast incident in Anantnag district.",
+"score": 0.921197,
+"arguments": [
+{
+"text": "incident",
+"location": [
+830,
+838
+],
+"entities": [
+{
+"type": "Crime",
+"text": "incident"
+}
+]
+},
+{
+"text": "Anantnag district",
+"location": [
+842,
+859
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Anantnag district"
+}
+]
+}
+]
+},
+{
+"type": "instrumentOf",
+"sentence": "SRINAGAR: A man was killed apparently in a grenade blast during one of several clashes today between protesters and security forces in Kashmir, marring Eid festivities and prayers.",
+"score": 0.67195,
+"arguments": [
+{
+"text": "grenade",
+"location": [
+43,
+50
+],
+"entities": [
+{
+"type": "Weapon",
+"text": "grenade"
+}
+]
+},
+{
+"text": "blast",
+"location": [
+51,
+56
+],
+"entities": [
+{
+"type": "EventViolence",
+"text": "blast"
+}
+]
+}
+]
+},
+{
+"type": "instrumentOf",
+"sentence": "\"Preliminary investigation reveals that a hand grenade exploded resulting in the death of Sheraz Ahmad due to splinter injuries,\" a police spokesman said, referring to the grenade blast incident in Anantnag district.",
+"score": 0.612515,
+"arguments": [
+{
+"text": "grenade",
+"location": [
+816,
+823
+],
+"entities": [
+{
+"type": "Weapon",
+"text": "grenade"
+}
+]
+},
+{
+"text": "blast",
+"location": [
+824,
+829
+],
+"entities": [
+{
+"type": "EventViolence",
+"text": "blast"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "One person sustained injuries in the clashes in Safakadal area of Srinagar city soon after the prayers, a police official said.",
+"score": 0.550459,
+"arguments": [
+{
+"text": "area",
+"location": [
+1038,
+1042
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Srinagar"
+}
+]
+},
+{
+"text": "Safakadal",
+"location": [
+1028,
+1037
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Safakadal"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "One person sustained injuries in the clashes in Safakadal area of Srinagar city soon after the prayers, a police official said.",
+"score": 0.39586,
+"arguments": [
+{
+"text": "city",
+"location": [
+1055,
+1059
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Safakadal"
+}
+]
+},
+{
+"text": "Srinagar",
+"location": [
+1046,
+1054
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Srinagar"
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "One person sustained injuries in the clashes in Safakadal area of Srinagar city soon after the prayers, a police official said.",
+"score": 0.911041,
+"arguments": [
+{
+"text": "official",
+"location": [
+1093,
+1101
+],
+"entities": [
+{
+"type": "Person",
+"text": "official"
+}
+]
+},
+{
+"text": "police",
+"location": [
+1086,
+1092
+],
+"entities": [
+{
+"type": "Organization",
+"text": "police",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "One person sustained injuries in the clashes in Safakadal area of Srinagar city soon after the prayers, a police official said.",
+"score": 0.818662,
+"arguments": [
+{
+"text": "official",
+"location": [
+1093,
+1101
+],
+"entities": [
+{
+"type": "Person",
+"text": "official"
+}
+]
+},
+{
+"text": "said",
+"location": [
+1102,
+1106
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "adding"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Clashes between protestors and law enforcing agencies were reported from and areas in north Kashmir, the official said, adding the situation in other parts of the Valley was peaceful so far.",
+"score": 0.939527,
+"arguments": [
+{
+"text": "official",
+"location": [
+1213,
+1221
+],
+"entities": [
+{
+"type": "Person",
+"text": "official"
+}
+]
+},
+{
+"text": "said",
+"location": [
+1222,
+1226
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "adding"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "Clashes between protestors and law enforcing agencies were reported from and areas in north Kashmir, the official said, adding the situation in other parts of the Valley was peaceful so far.",
+"score": 0.966218,
+"arguments": [
+{
+"text": "north",
+"location": [
+1194,
+1199
+],
+"entities": [
+{
+"type": "Location",
+"text": "north"
+}
+]
+},
+{
+"text": "Kashmir",
+"location": [
+1200,
+1207
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Kashmir"
+}
+]
+}
+]
+},
+{
+"type": "residesIn",
+"sentence": "Clashes between protestors and law enforcing agencies were reported from and areas in north Kashmir, the official said, adding the situation in other parts of the Valley was peaceful so far.",
+"score": 0.442827,
+"arguments": [
+{
+"text": "official",
+"location": [
+1213,
+1221
+],
+"entities": [
+{
+"type": "Person",
+"text": "official"
+}
+]
+},
+{
+"text": "Kashmir",
+"location": [
+1200,
+1207
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Kashmir"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Officials said the biggest gathering was witnessed at Hazratbal shrine where thousands of faithful offered Eid prayers.",
+"score": 0.96374,
+"arguments": [
+{
+"text": "Officials",
+"location": [
+1464,
+1473
+],
+"entities": [
+{
+"type": "Person",
+"text": "Officials"
+}
+]
+},
+{
+"text": "said",
+"location": [
+1474,
+1478
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "adding"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "They said the second largest gathering was held at Eidgah in the old city.",
+"score": 0.989795,
+"arguments": [
+{
+"text": "They",
+"location": [
+1584,
+1588
+],
+"entities": [
+{
+"type": "Person",
+"text": "Officials"
+}
+]
+},
+{
+"text": "said",
+"location": [
+1589,
+1593
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "adding"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Big gatherings of Eid prayers were also held in Sonawar and Soura Shrines in the heart of the city, they said, adding similar gatherings were held at all districts headquarters and major towns of the Kashmir Valley.",
+"score": 0.951641,
+"arguments": [
+{
+"text": "they",
+"location": [
+1759,
+1763
+],
+"entities": [
+{
+"type": "Person",
+"text": "Officials"
+}
+]
+},
+{
+"text": "said",
+"location": [
+1764,
+1768
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "adding"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Officials said the biggest gathering was witnessed at Hazratbal shrine where thousands of faithful offered Eid prayers.",
+"score": 0.538603,
+"arguments": [
+{
+"text": "Hazratbal shrine",
+"location": [
+1518,
+1534
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Hazratbal shrine",
+"disambiguation": {
+"subtype": [
+"Commercial"
+]
+}
+}
+]
+},
+{
+"text": "offered",
+"location": [
+1563,
+1570
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "offered"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Officials said the biggest gathering was witnessed at Hazratbal shrine where thousands of faithful offered Eid prayers.",
+"score": 0.826462,
+"arguments": [
+{
+"text": "faithful",
+"location": [
+1554,
+1562
+],
+"entities": [
+{
+"type": "Person",
+"text": "faithful"
+}
+]
+},
+{
+"text": "offered",
+"location": [
+1563,
+1570
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "offered"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "Officials said the biggest gathering was witnessed at Hazratbal shrine where thousands of faithful offered Eid prayers.",
+"score": 0.631125,
+"arguments": [
+{
+"text": "Eid",
+"location": [
+1571,
+1574
+],
+"entities": [
+{
+"type": "Person",
+"text": "Eid"
+}
+]
+},
+{
+"text": "offered",
+"location": [
+1563,
+1570
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "offered"
+}
+]
+}
+]
+},
+{
+"type": "timeOf",
+"sentence": "SRINAGAR: A man was killed apparently in a grenade blast during one of several clashes today between protesters and security forces in Kashmir, marring Eid festivities and prayers.",
+"score": 0.743512,
+"arguments": [
+{
+"text": "today",
+"location": [
+87,
+92
+],
+"entities": [
+{
+"type": "Date",
+"text": "today"
+}
+]
+},
+{
+"text": "blast",
+"location": [
+51,
+56
+],
+"entities": [
+{
+"type": "EventViolence",
+"text": "blast"
+}
+]
+}
+]
+},
+{
+"type": "participantIn",
+"sentence": "They said the second largest gathering was held at Eidgah in the old city.",
+"score": 0.516731,
+"arguments": [
+{
+"text": "They",
+"location": [
+1584,
+1588
+],
+"entities": [
+{
+"type": "Person",
+"text": "Officials"
+}
+]
+},
+{
+"text": "gathering",
+"location": [
+1613,
+1622
+],
+"entities": [
+{
+"type": "EventMeeting",
+"text": "gathering"
+}
+]
+}
+]
+},
+{
+"type": "participantIn",
+"sentence": "They said the second largest gathering was held at Eidgah in the old city.",
+"score": 0.360727,
+"arguments": [
+{
+"text": "Eidgah",
+"location": [
+1635,
+1641
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Eidgah"
+}
+]
+},
+{
+"text": "gathering",
+"location": [
+1613,
+1622
+],
+"entities": [
+{
+"type": "EventMeeting",
+"text": "gathering"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "Big gatherings of Eid prayers were also held in Sonawar and Soura Shrines in the heart of the city, they said, adding similar gatherings were held at all districts headquarters and major towns of the Kashmir Valley.",
+"score": 0.596881,
+"arguments": [
+{
+"text": "Soura Shrines",
+"location": [
+1719,
+1732
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Soura Shrines"
+}
+]
+},
+{
+"text": "city",
+"location": [
+1753,
+1757
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Sonawar"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "Big gatherings of Eid prayers were also held in Sonawar and Soura Shrines in the heart of the city, they said, adding similar gatherings were held at all districts headquarters and major towns of the Kashmir Valley.",
+"score": 0.518992,
+"arguments": [
+{
+"text": "headquarters",
+"location": [
+1823,
+1835
+],
+"entities": [
+{
+"type": "Facility",
+"text": "headquarters"
+}
+]
+},
+{
+"text": "towns",
+"location": [
+1846,
+1851
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "towns"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "Big gatherings of Eid prayers were also held in Sonawar and Soura Shrines in the heart of the city, they said, adding similar gatherings were held at all districts headquarters and major towns of the Kashmir Valley.",
+"score": 0.834581,
+"arguments": [
+{
+"text": "towns",
+"location": [
+1846,
+1851
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "towns"
+}
+]
+},
+{
+"text": "Kashmir Valley",
+"location": [
+1859,
+1873
+],
+"entities": [
+{
+"type": "Facility",
+"text": "Kashmir Valley"
+}
+]
+}
+]
+},
+{
+"type": "hasAttribute",
+"sentence": "Also today, a 21-year-old Army jawan, Bikas Gurung, was killed when Pakistani troopers targeted a patrol party along the line of control in Rajouri district of .",
+"score": 0.877449,
+"arguments": [
+{
+"text": "jawan",
+"location": [
+212,
+217
+],
+"entities": [
+{
+"type": "Person",
+"text": "Bikas Gurung"
+}
+]
+},
+{
+"text": "21-year-old",
+"location": [
+195,
+206
+],
+"entities": [
+{
+"type": "Age",
+"text": "21-year-old"
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "Also today, a 21-year-old Army jawan, Bikas Gurung, was killed when Pakistani troopers targeted a patrol party along the line of control in Rajouri district of .",
+"score": 0.752109,
+"arguments": [
+{
+"text": "jawan",
+"location": [
+212,
+217
+],
+"entities": [
+{
+"type": "Person",
+"text": "Bikas Gurung"
+}
+]
+},
+{
+"text": "Army",
+"location": [
+207,
+211
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Army",
+"disambiguation": {
+"subtype": [
+"Military"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "partOfMany",
+"sentence": "Also today, a 21-year-old Army jawan, Bikas Gurung, was killed when Pakistani troopers targeted a patrol party along the line of control in Rajouri district of .",
+"score": 0.886943,
+"arguments": [
+{
+"text": "troopers",
+"location": [
+259,
+267
+],
+"entities": [
+{
+"type": "Person",
+"text": "troopers"
+}
+]
+},
+{
+"text": "Pakistani",
+"location": [
+249,
+258
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Pakistani",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "Militants also fired at a security forces party at Lasjan on the outskirts of the city, injuring a CRPF Jawan.",
+"score": 0.658116,
+"arguments": [
+{
+"text": "security forces",
+"location": [
+369,
+384
+],
+"entities": [
+{
+"type": "Person",
+"text": "security forces"
+}
+]
+},
+{
+"text": "fired",
+"location": [
+358,
+363
+],
+"entities": [
+{
+"type": "EventPersonnel",
+"text": "fired"
+}
+]
+}
+]
+},
+{
+"type": "affiliatedWith",
+"sentence": "Militants also fired at a security forces party at Lasjan on the outskirts of the city, injuring a CRPF Jawan.",
+"score": 0.648488,
+"arguments": [
+{
+"text": "party",
+"location": [
+385,
+390
+],
+"entities": [
+{
+"type": "Organization",
+"text": "party",
+"disambiguation": {
+"subtype": [
+"Political"
+]
+}
+}
+]
+},
+{
+"text": "security forces",
+"location": [
+369,
+384
+],
+"entities": [
+{
+"type": "Person",
+"text": "security forces"
+}
+]
+}
+]
+},
+{
+"type": "basedIn",
+"sentence": "Militants also fired at a security forces party at Lasjan on the outskirts of the city, injuring a CRPF Jawan.",
+"score": 0.415729,
+"arguments": [
+{
+"text": "party",
+"location": [
+385,
+390
+],
+"entities": [
+{
+"type": "Organization",
+"text": "party",
+"disambiguation": {
+"subtype": [
+"Political"
+]
+}
+}
+]
+},
+{
+"text": "Lasjan",
+"location": [
+394,
+400
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Lasjan"
+}
+]
+}
+]
+}
+],
+"language": "en",
+"keywords": [
+{
+"text": "grenade blast",
+"sentiment": {
+"score": -0.51619,
+"label": "negative"
+},
+"relevance": 0.918743,
+"emotion": {
+"sadness": 0.682684,
+"joy": 0.025424,
+"fear": 0.082478,
+"disgust": 0.152492,
+"anger": 0.352461
+}
+},
+{
+"text": "Eid prayers",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.793133,
+"emotion": {
+"sadness": 0.481117,
+"joy": 0.463133,
+"fear": 0.04738,
+"disgust": 0.010161,
+"anger": 0.03194
+}
+},
+{
+"text": "grenade blast incident",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.751312,
+"emotion": {
+"sadness": 0.082473,
+"joy": 0.176361,
+"fear": 0.010788,
+"disgust": 0.201958,
+"anger": 0.180547
+}
+},
+{
+"text": "faithful offered Eid",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.662728,
+"emotion": {
+"sadness": 0.497992,
+"joy": 0.241561,
+"fear": 0.164106,
+"disgust": 0.072821,
+"anger": 0.105549
+}
+},
+{
+"text": "21-year-old Army jawan",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.6369,
+"emotion": {
+"sadness": 0.442159,
+"joy": 0.037369,
+"fear": 0.079304,
+"disgust": 0.513088,
+"anger": 0.194371
+}
+}
+],
+"entities": [
+{
+"type": "Location",
+"text": "SRINAGAR",
+"sentiment": {
+"score": -0.537105,
+"label": "negative"
+},
+"relevance": 0.78344,
+"emotion": {
+"sadness": 0.706202,
+"joy": 0.07835,
+"fear": 0.114365,
+"disgust": 0.026335,
+"anger": 0.081894
+},
+"disambiguation": {
+"subtype": [
+"IndianCity",
+"City"
+],
+"name": "Srinagar",
+"dbpedia_resource": "http://dbpedia.org/resource/Srinagar"
+},
+"count": 3
+},
+{
+"type": "Person",
+"text": "Eid",
+"sentiment": {
+"score": -0.443045,
+"label": "negative"
+},
+"relevance": 0.635062,
+"emotion": {
+"sadness": 0.553634,
+"joy": 0.267909,
+"fear": 0.141826,
+"disgust": 0.030832,
+"anger": 0.082602
+},
+"count": 2
+},
+{
+"type": "Person",
+"text": "Sheraz Ahmad",
+"sentiment": {
+"score": -0.391924,
+"label": "negative"
+},
+"relevance": 0.558128,
+"emotion": {
+"sadness": 0.639372,
+"joy": 0.085919,
+"fear": 0.178556,
+"disgust": 0.065326,
+"anger": 0.228275
+},
+"count": 2
+},
+{
+"type": "Location",
+"text": "Kashmir",
+"sentiment": {
+"score": -0.623562,
+"label": "negative"
+},
+"relevance": 0.485053,
+"emotion": {
+"sadness": 0.686029,
+"joy": 0.01226,
+"fear": 0.164656,
+"disgust": 0.156255,
+"anger": 0.311123
+},
+"disambiguation": {
+"subtype": [
+"Country"
+]
+},
+"count": 1
+},
+{
+"type": "GeographicFeature",
+"text": "Kashmir Valley",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.452925,
+"emotion": {
+"sadness": 0.323078,
+"joy": 0.267267,
+"fear": 0.065695,
+"disgust": 0.025764,
+"anger": 0.112541
+},
+"count": 1
+}
+],
+"concepts": [
+{
+"text": "Srinagar",
+"relevance": 0.961602,
+"dbpedia_resource": "http://dbpedia.org/resource/Srinagar"
+},
+{
+"text": "Kashmir",
+"relevance": 0.816088,
+"dbpedia_resource": "http://dbpedia.org/resource/Kashmir"
+},
+{
+"text": "Dal Lake",
+"relevance": 0.791634,
+"dbpedia_resource": "http://dbpedia.org/resource/Dal_Lake"
+},
+{
+"text": "Eid ul-Fitr",
+"relevance": 0.677001,
+"dbpedia_resource": "http://dbpedia.org/resource/Eid_ul-Fitr"
+},
+{
+"text": "Police",
+"relevance": 0.665272,
+"dbpedia_resource": "http://dbpedia.org/resource/Police"
+}
+],
+"categories": [
+{
+"score": 0.729589,
+"label": "/law, govt and politics/law enforcement/police"
+},
+{
+"score": 0.364029,
+"label": "/law, govt and politics/armed forces/army"
+},
+{
+"score": 0.271531,
+"label": "/religion and spirituality/islam"
+}
+]
+}
+}

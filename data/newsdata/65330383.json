@@ -1,0 +1,957 @@
+{
+"source_article_link": "https://timesofindia.indiatimes.com/india/in-the-end-dravidian-quartet-are-neighbours-in-beach-sand/articleshow/65330383.cms?&utm_source=Articleshow&utm_medium=Organic&utm_campaign=Related_Stories",
+"title": "In the end, Dravidian quartet are neighbours in beach sand",
+"date_published": "2018-08-09T09:10:46+05:30",
+"source_type": "news_article",
+"source_name": "timesofindia.indiatimes.com",
+"image_link": [
+"https://timesofindia.indiatimes.com/thumb/msid-65331669,imgsize-104249,width-400,resizemode-4/65331669.jpg"
+],
+"article_body": "CHENNAI: Even in death, M was a fighter, the last battle being for his final resting place. And when his coffin was lowered into the Marina sands, it marked the completion of a jigsaw, a quartet of Dravidian chief ministers. Those DMK cadres who wailed that they\u2019ve been orphaned by Karunanidhi\u2019s death can take heart in that their \u2018thalaivar\u2019 will be resting next to his mentor C N Annadurai. And they cannot ignore that his other neighbours are MGR and J Jayalalithaa. The midnight court battle over allocating space on Marina brought out the old bitterness between Karunanidhi and , but death seems to have mended fences the leaders couldn\u2019t when alive. When it comes to MGR, however, DMK cadres don\u2019t feel so bad. After all, the two leaders have been more than civil even after their political split.   When MGR was in a US hospital fighting for his life, Karunanidhi had appealed to forget the years of their rivalry (that incidentally kept Karunanidhi out of power for almost 12 years) and relive their years of friendship. In fact, Karunanidhi ensured that MGR got a grand memorial on the Marina. The two couldn\u2019t forget the symbiosis their association yielded: Karunanidhi wrote dialogues pregnant with Dravidian ideology and MGR delivered them to the masses. The party grew, and so did MGR. But Karunanidhi couldn\u2019t allow the star to outshine the rising sun. Had Anna been alive, felt many Dravidian thinkers, the split would have never happened. Together, the quartet wrote much of post-Independence Tamil Nadu\u2019s political history. Since 1967, the DMK and the AIADMK have alternated in power.",
+"description": "When Karunanidhi's coffin was lowered into the Marina sands, it marked the completion of a jigsaw, a quartet of Dravidian chief ministers Karunanidhi will be resting next to his mentor C N Annadurai His other neighbours are MGR and J Jayalalithaa",
+"time_scraped": "2018-08-23 03:05:17.664893",
+"article_id": "65330383",
+"article_category": "IndiaNews",
+"image_details": [
+{
+"url": "https://timesofindia.indiatimes.com/thumb/msid-65331669,imgsize-104249,width-400,resizemode-4/65331669.jpg",
+"path": "full/414f4ca52d688c8f5cb939dfdff421b4554a7c85.jpg",
+"checksum": "a05c0cc3a5fe5c9590c07b6d2b1c2c45"
+}
+],
+"ibm_nlu": {
+"usage": {
+"text_units": 1,
+"text_characters": 1602,
+"features": 7
+},
+"sentiment": {
+"document": {
+"score": -0.445158,
+"label": "negative"
+}
+},
+"semantic_roles": [
+{
+"subject": {
+"text": "his coffin"
+},
+"sentence": " And when his coffin was lowered into the Marina sands, it marked the completion of a jigsaw, a quartet of Dravidian chief ministers.",
+"object": {
+"text": "lowered"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "was",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "it"
+},
+"sentence": " And when his coffin was lowered into the Marina sands, it marked the completion of a jigsaw, a quartet of Dravidian chief ministers.",
+"object": {
+"text": "the completion of a jigsaw, a quartet of Dravidian chief ministers"
+},
+"action": {
+"verb": {
+"text": "mark",
+"tense": "past"
+},
+"text": "marked",
+"normalized": "mark"
+}
+},
+{
+"subject": {
+"text": "Those DMK cadres"
+},
+"sentence": " Those DMK cadres who wailed that they\u2019ve been orphaned by Karunanidhi\u2019s death can take heart in that their \u2018thalaivar\u2019 will be resting next to his mentor C N Annadurai.",
+"object": {
+"text": "that they\u2019ve been orphaned by Karunanidhi\u2019s death can take heart in that their \u2018thalaivar"
+},
+"action": {
+"verb": {
+"text": "wail",
+"tense": "past"
+},
+"text": "wailed",
+"normalized": "wail"
+}
+},
+{
+"subject": {
+"text": "they"
+},
+"sentence": " Those DMK cadres who wailed that they\u2019ve been orphaned by Karunanidhi\u2019s death can take heart in that their \u2018thalaivar\u2019 will be resting next to his mentor C N Annadurai.",
+"object": {
+"text": "orphaned"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "been",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "by Karunanidhi\u2019s death"
+},
+"sentence": " Those DMK cadres who wailed that they\u2019ve been orphaned by Karunanidhi\u2019s death can take heart in that their \u2018thalaivar\u2019 will be resting next to his mentor C N Annadurai.",
+"object": {
+"text": "they"
+},
+"action": {
+"verb": {
+"text": "orphan",
+"tense": "past"
+},
+"text": "ve been orphaned",
+"normalized": "ve be orphan"
+}
+},
+{
+"subject": {
+"text": "they"
+},
+"sentence": " Those DMK cadres who wailed that they\u2019ve been orphaned by Karunanidhi\u2019s death can take heart in that their \u2018thalaivar\u2019 will be resting next to his mentor C N Annadurai.",
+"object": {
+"text": "heart"
+},
+"action": {
+"verb": {
+"text": "take",
+"tense": "future"
+},
+"text": "can take",
+"normalized": "can take"
+}
+},
+{
+"subject": {
+"text": "their \u2018thalaivar\u2019"
+},
+"sentence": " Those DMK cadres who wailed that they\u2019ve been orphaned by Karunanidhi\u2019s death can take heart in that their \u2018thalaivar\u2019 will be resting next to his mentor C N Annadurai.",
+"object": {
+"text": "resting next to his mentor C N Annadurai"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "future"
+},
+"text": "be",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "their \u2018thalaivar\u2019"
+},
+"sentence": " Those DMK cadres who wailed that they\u2019ve been orphaned by Karunanidhi\u2019s death can take heart in that their \u2018thalaivar\u2019 will be resting next to his mentor C N Annadurai.",
+"action": {
+"verb": {
+"text": "rest",
+"tense": "future"
+},
+"text": "will be resting",
+"normalized": "will be rest"
+}
+},
+{
+"subject": {
+"text": "they"
+},
+"sentence": " And they cannot ignore that his other neighbours are MGR and J Jayalalithaa.",
+"object": {
+"text": "that his other neighbours are MGR and J Jayalalithaa"
+},
+"action": {
+"verb": {
+"text": "ignore",
+"tense": "future",
+"negated": true
+},
+"text": "ignore",
+"normalized": "ignore"
+}
+},
+{
+"subject": {
+"text": "space"
+},
+"sentence": " The midnight court battle over allocating space on Marina brought out the old bitterness between Karunanidhi and , but death seems to have mended fences the leaders couldn\u2019t when alive.",
+"object": {
+"text": "on Marina"
+},
+"action": {
+"verb": {
+"text": "allocate",
+"tense": "present"
+},
+"text": "allocating",
+"normalized": "allocate"
+}
+},
+{
+"subject": {
+"text": "the leaders"
+},
+"sentence": " The midnight court battle over allocating space on Marina brought out the old bitterness between Karunanidhi and , but death seems to have mended fences the leaders couldn\u2019t when alive.",
+"object": {
+"text": "fences"
+},
+"action": {
+"verb": {
+"text": "n\u2019t",
+"tense": "future"
+},
+"text": "couldn\u2019t",
+"normalized": "couldn\u2019t"
+}
+},
+{
+"subject": {
+"text": "DMK cadres"
+},
+"sentence": " When it comes to MGR, however, DMK cadres don\u2019t feel so bad.",
+"object": {
+"text": "n\u2019t feel"
+},
+"action": {
+"verb": {
+"text": "do",
+"tense": "present"
+},
+"text": "do",
+"normalized": "do"
+}
+},
+{
+"subject": {
+"text": "the two leaders"
+},
+"sentence": " After all, the two leaders have been more than civil even after their political split.",
+"object": {
+"text": "been more than civil"
+},
+"action": {
+"verb": {
+"text": "have",
+"tense": "present"
+},
+"text": "have",
+"normalized": "have"
+}
+},
+{
+"subject": {
+"text": "the two leaders"
+},
+"sentence": " After all, the two leaders have been more than civil even after their political split.",
+"object": {
+"text": "more than civil"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "have been",
+"normalized": "have be"
+}
+},
+{
+"subject": {
+"text": "MGR"
+},
+"sentence": " When MGR was in a US hospital fighting for his life, Karunanidhi had appealed to forget the years of their rivalry (that incidentally kept Karunanidhi out of power for almost 12 years) and relive their years of friendship.",
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "was",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "Karunanidhi"
+},
+"sentence": " When MGR was in a US hospital fighting for his life, Karunanidhi had appealed to forget the years of their rivalry (that incidentally kept Karunanidhi out of power for almost 12 years) and relive their years of friendship.",
+"action": {
+"verb": {
+"text": "have",
+"tense": "past"
+},
+"text": "had appealed to forget",
+"normalized": "have appeal to forget"
+}
+},
+{
+"subject": {
+"text": "Karunanidhi"
+},
+"sentence": " When MGR was in a US hospital fighting for his life, Karunanidhi had appealed to forget the years of their rivalry (that incidentally kept Karunanidhi out of power for almost 12 years) and relive their years of friendship.",
+"object": {
+"text": "to forget the years of their rivalry (that incidentally kept Karunanidhi out of power for almost 12 years)"
+},
+"action": {
+"verb": {
+"text": "appeal",
+"tense": "past"
+},
+"text": "appealed",
+"normalized": "appeal"
+}
+},
+{
+"subject": {
+"text": "Karunanidhi"
+},
+"sentence": " When MGR was in a US hospital fighting for his life, Karunanidhi had appealed to forget the years of their rivalry (that incidentally kept Karunanidhi out of power for almost 12 years) and relive their years of friendship.",
+"object": {
+"text": "the years of their rivalry (that incidentally kept Karunanidhi out of power for almost 12 years) and relive their years of friendship"
+},
+"action": {
+"verb": {
+"text": "forget",
+"tense": "past"
+},
+"text": "had appealed to forget",
+"normalized": "have appeal to forget"
+}
+},
+{
+"subject": {
+"text": "their years of friendship"
+},
+"sentence": " When MGR was in a US hospital fighting for his life, Karunanidhi had appealed to forget the years of their rivalry (that incidentally kept Karunanidhi out of power for almost 12 years) and relive their years of friendship.",
+"action": {
+"verb": {
+"text": "relive",
+"tense": "present"
+},
+"text": "relive",
+"normalized": "relive"
+}
+},
+{
+"subject": {
+"text": "Karunanidhi"
+},
+"sentence": " In fact, Karunanidhi ensured that MGR got a grand memorial on the Marina.",
+"object": {
+"text": "that MGR got a grand memorial on the Marina"
+},
+"action": {
+"verb": {
+"text": "ensure",
+"tense": "past"
+},
+"text": "ensured",
+"normalized": "ensure"
+}
+},
+{
+"subject": {
+"text": "Karunanidhi"
+},
+"sentence": " The two couldn\u2019t forget the symbiosis their association yielded: Karunanidhi wrote dialogues pregnant with Dravidian ideology and MGR delivered them to the masses.",
+"object": {
+"text": "dialogues"
+},
+"action": {
+"verb": {
+"text": "write",
+"tense": "past"
+},
+"text": "wrote",
+"normalized": "write"
+}
+},
+{
+"subject": {
+"text": "MGR"
+},
+"sentence": " The two couldn\u2019t forget the symbiosis their association yielded: Karunanidhi wrote dialogues pregnant with Dravidian ideology and MGR delivered them to the masses.",
+"object": {
+"text": "them"
+},
+"action": {
+"verb": {
+"text": "deliver",
+"tense": "past"
+},
+"text": "delivered",
+"normalized": "deliver"
+}
+},
+{
+"subject": {
+"text": "The party"
+},
+"sentence": " The party grew, and so did MGR.",
+"object": {
+"text": "MGR"
+},
+"action": {
+"verb": {
+"text": "do",
+"tense": "past"
+},
+"text": "did",
+"normalized": "do"
+}
+},
+{
+"subject": {
+"text": "the star"
+},
+"sentence": " But Karunanidhi couldn\u2019t allow the star to outshine the rising sun.",
+"object": {
+"text": "the rising sun"
+},
+"action": {
+"verb": {
+"text": "outshine",
+"tense": "future"
+},
+"text": "to outshine",
+"normalized": "to outshine"
+}
+},
+{
+"subject": {
+"text": "Anna"
+},
+"sentence": " Had Anna been alive, felt many Dravidian thinkers, the split would have never happened.",
+"object": {
+"text": "alive"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "been",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "the split"
+},
+"sentence": " Had Anna been alive, felt many Dravidian thinkers, the split would have never happened.",
+"action": {
+"verb": {
+"text": "happen",
+"tense": "future"
+},
+"text": "happened",
+"normalized": "happen"
+}
+},
+{
+"subject": {
+"text": "the quartet"
+},
+"sentence": " Together, the quartet wrote much of post-Independence Tamil Nadu\u2019s political history.",
+"object": {
+"text": "much of post-Independence Tamil Nadu\u2019s political history"
+},
+"action": {
+"verb": {
+"text": "write",
+"tense": "past"
+},
+"text": "wrote",
+"normalized": "write"
+}
+},
+{
+"subject": {
+"text": "political history"
+},
+"sentence": " Together, the quartet wrote much of post-Independence Tamil Nadu\u2019s political history.",
+"object": {
+"text": "much of post-Independence Tamil Nadu"
+},
+"action": {
+"verb": {
+"text": "has",
+"tense": "present"
+},
+"text": "s",
+"normalized": "s"
+}
+},
+{
+"subject": {
+"text": "the DMK and the AIADMK"
+},
+"sentence": " Since 1967, the DMK and the AIADMK have alternated in power.",
+"object": {
+"text": "alternated in power"
+},
+"action": {
+"verb": {
+"text": "have",
+"tense": "present"
+},
+"text": "have",
+"normalized": "have"
+}
+},
+{
+"subject": {
+"text": "the DMK and the AIADMK"
+},
+"sentence": " Since 1967, the DMK and the AIADMK have alternated in power.",
+"action": {
+"verb": {
+"text": "alternate",
+"tense": "past"
+},
+"text": "have alternated",
+"normalized": "have alternate"
+}
+}
+],
+"relations": [
+{
+"type": "locatedAt",
+"sentence": "And when his coffin was lowered into the Marina sands, it marked the completion of a jigsaw, a quartet of Dravidian chief ministers.",
+"score": 0.365881,
+"arguments": [
+{
+"text": "chief ministers",
+"location": [
+208,
+223
+],
+"entities": [
+{
+"type": "Person",
+"text": "chief ministers"
+}
+]
+},
+{
+"text": "Dravidian",
+"location": [
+198,
+207
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Dravidian"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "When MGR was in a US hospital fighting for his life, Karunanidhi had appealed to forget the years of their rivalry (that incidentally kept Karunanidhi out of power for almost 12 years) and relive their years of friendship.",
+"score": 0.922525,
+"arguments": [
+{
+"text": "MGR",
+"location": [
+812,
+815
+],
+"entities": [
+{
+"type": "Person",
+"text": "MGR"
+}
+]
+},
+{
+"text": "hospital",
+"location": [
+828,
+836
+],
+"entities": [
+{
+"type": "Organization",
+"text": "hospital"
+}
+]
+}
+]
+},
+{
+"type": "basedIn",
+"sentence": "When MGR was in a US hospital fighting for his life, Karunanidhi had appealed to forget the years of their rivalry (that incidentally kept Karunanidhi out of power for almost 12 years) and relive their years of friendship.",
+"score": 0.651474,
+"arguments": [
+{
+"text": "hospital",
+"location": [
+828,
+836
+],
+"entities": [
+{
+"type": "Organization",
+"text": "hospital"
+}
+]
+},
+{
+"text": "US",
+"location": [
+825,
+827
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "US",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "When MGR was in a US hospital fighting for his life, Karunanidhi had appealed to forget the years of their rivalry (that incidentally kept Karunanidhi out of power for almost 12 years) and relive their years of friendship.",
+"score": 0.695858,
+"arguments": [
+{
+"text": "Karunanidhi",
+"location": [
+860,
+871
+],
+"entities": [
+{
+"type": "Person",
+"text": "Karunanidhi"
+}
+]
+},
+{
+"text": "appealed",
+"location": [
+876,
+884
+],
+"entities": [
+{
+"type": "EventLegal",
+"text": "appealed"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "The two couldn't forget the symbiosis their association yielded: Karunanidhi wrote dialogues pregnant with Dravidian ideology and MGR delivered them to the masses.",
+"score": 0.992337,
+"arguments": [
+{
+"text": "Karunanidhi",
+"location": [
+1169,
+1180
+],
+"entities": [
+{
+"type": "Person",
+"text": "Karunanidhi"
+}
+]
+},
+{
+"text": "wrote",
+"location": [
+1181,
+1186
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "wrote"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Together, the quartet wrote much of post-Independence Tamil Nadu's political history.",
+"score": 0.944391,
+"arguments": [
+{
+"text": "quartet",
+"location": [
+1470,
+1477
+],
+"entities": [
+{
+"type": "Organization",
+"text": "quartet"
+}
+]
+},
+{
+"text": "wrote",
+"location": [
+1478,
+1483
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "wrote"
+}
+]
+}
+]
+}
+],
+"language": "en",
+"keywords": [
+{
+"text": "MGR",
+"sentiment": {
+"score": -0.296778,
+"label": "negative"
+},
+"relevance": 0.961939,
+"emotion": {
+"sadness": 0.439187,
+"joy": 0.18611,
+"fear": 0.13793,
+"disgust": 0.118936,
+"anger": 0.088727
+}
+},
+{
+"text": "DMK cadres",
+"sentiment": {
+"score": -0.478753,
+"label": "negative"
+},
+"relevance": 0.947125,
+"emotion": {
+"sadness": 0.819315,
+"joy": 0.017589,
+"fear": 0.256775,
+"disgust": 0.081662,
+"anger": 0.062114
+}
+},
+{
+"text": "Dravidian chief ministers",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.942402,
+"emotion": {
+"sadness": 0.456581,
+"joy": 0.123108,
+"fear": 0.294745,
+"disgust": 0.173721,
+"anger": 0.07228
+}
+},
+{
+"text": "final resting place",
+"sentiment": {
+"score": -0.255381,
+"label": "negative"
+},
+"relevance": 0.834469,
+"emotion": {
+"sadness": 0.608437,
+"joy": 0.132434,
+"fear": 0.213939,
+"disgust": 0.021411,
+"anger": 0.127491
+}
+},
+{
+"text": "post-Independence Tamil Nadu",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.730182
+}
+],
+"entities": [
+{
+"type": "Person",
+"text": "Karunanidhi",
+"sentiment": {
+"score": -0.619286,
+"label": "negative"
+},
+"relevance": 0.940985,
+"emotion": {
+"sadness": 0.62128,
+"joy": 0.565325,
+"fear": 0.101968,
+"disgust": 0.097137,
+"anger": 0.109217
+},
+"disambiguation": {
+"subtype": [],
+"name": "Karunanidhi",
+"dbpedia_resource": "http://dbpedia.org/resource/Karunanidhi"
+},
+"count": 7
+},
+{
+"type": "Organization",
+"text": "DMK",
+"sentiment": {
+"score": -0.478753,
+"label": "negative"
+},
+"relevance": 0.886594,
+"emotion": {
+"sadness": 0.800137,
+"joy": 0.025399,
+"fear": 0.249746,
+"disgust": 0.084545,
+"anger": 0.066718
+},
+"disambiguation": {
+"subtype": [
+"PoliticalParty"
+],
+"name": "Dravida Munnetra Kazhagam",
+"dbpedia_resource": "http://dbpedia.org/resource/Dravida_Munnetra_Kazhagam"
+},
+"count": 3
+},
+{
+"type": "Location",
+"text": "US",
+"sentiment": {
+"score": -0.296778,
+"label": "negative"
+},
+"relevance": 0.638994,
+"emotion": {
+"sadness": 0.496619,
+"joy": 0.192761,
+"fear": 0.113151,
+"disgust": 0.105893,
+"anger": 0.082666
+},
+"disambiguation": {
+"subtype": [
+"Region",
+"AdministrativeDivision",
+"GovernmentalJurisdiction",
+"FilmEditor",
+"Country"
+],
+"name": "United States",
+"dbpedia_resource": "http://dbpedia.org/resource/United_States"
+},
+"count": 6
+},
+{
+"type": "GeographicFeature",
+"text": "Marina sands",
+"sentiment": {
+"score": -0.233702,
+"label": "negative"
+},
+"relevance": 0.567673,
+"emotion": {
+"sadness": 0.214744,
+"joy": 0.17066,
+"fear": 0.086545,
+"disgust": 0.137061,
+"anger": 0.050969
+},
+"count": 1
+},
+{
+"type": "Person",
+"text": "Marina",
+"sentiment": {
+"score": -0.720304,
+"label": "negative"
+},
+"relevance": 0.52059,
+"emotion": {
+"sadness": 0.269999,
+"joy": 0.239482,
+"fear": 0.052543,
+"disgust": 0.033032,
+"anger": 0.16449
+},
+"count": 2
+}
+],
+"concepts": [
+{
+"text": "Tamil Nadu",
+"relevance": 0.973077,
+"dbpedia_resource": "http://dbpedia.org/resource/Tamil_Nadu"
+},
+{
+"text": "C. N. Annadurai",
+"relevance": 0.767878,
+"dbpedia_resource": "http://dbpedia.org/resource/C._N._Annadurai"
+},
+{
+"text": "J. Jayalalithaa",
+"relevance": 0.618944,
+"dbpedia_resource": "http://dbpedia.org/resource/J._Jayalalithaa"
+},
+{
+"text": "M. G. Ramachandran",
+"relevance": 0.600647,
+"dbpedia_resource": "http://dbpedia.org/resource/M._G._Ramachandran"
+},
+{
+"text": "All India Anna Dravida Munnetra Kazhagam",
+"relevance": 0.541771,
+"dbpedia_resource": "http://dbpedia.org/resource/All_India_Anna_Dravida_Munnetra_Kazhagam"
+}
+],
+"categories": [
+{
+"score": 0.566689,
+"label": "/science/social science/history"
+},
+{
+"score": 0.542218,
+"label": "/science/engineering"
+},
+{
+"score": 0.437875,
+"label": "/society/unrest and war"
+}
+]
+}
+}

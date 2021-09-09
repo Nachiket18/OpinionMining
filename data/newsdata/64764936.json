@@ -1,0 +1,531 @@
+{
+"source_article_link": "https://timesofindia.indiatimes.com/india/bjp-leader-ram-madhav-meets-jk-governor-nn-vohra/articleshow/64764936.cms?&utm_source=Articleshow&utm_medium=Organic&utm_campaign=Related_Stories",
+"title": "BJP leader Ram Madhav meets J&K Governor NN Vohra",
+"date_published": "2018-06-27T17:27:47+05:30",
+"source_type": "news_article",
+"source_name": "timesofindia.indiatimes.com",
+"image_link": [
+"https://timesofindia.indiatimes.com/thumb/msid-64764944,imgsize-429817,width-400,resizemode-4/64764944.jpg"
+],
+"article_body": "SRINAGAR: BJP National General Secretary on Wednesday called on Governor here and discussed issues related to the state including the Amarnath Yatra. \"Madhav discussed with the Governor issues relating to the obtaining challenges before the state government and the arrangements made for the Shri Amarnathji Yatra,\" a Raj Bhawan spokesman said. This was Madhav's first visit to Kashmir after the fall of in the state on June 19.",
+"description": "SRINAGAR: BJP National General Secretary on Wednesday called on Governor here and discussed issues related to the state including the Amarnath Yatra. \"Madhav discussed with the Governor issues relating to the obtaining challenges before the state government and the arrangements made for the Shri Amarnathji Yatra,\" a Raj Bhawan spokesman said.",
+"time_scraped": "2018-08-22 03:01:39.146691",
+"article_id": "64764936",
+"article_category": "IndiaNews",
+"image_details": [
+{
+"url": "https://timesofindia.indiatimes.com/thumb/msid-64764944,imgsize-429817,width-400,resizemode-4/64764944.jpg",
+"path": "full/2e136f9b0822d677ddb79d587726be3017556f51.jpg",
+"checksum": "b272cbe12c41d40299ba2100a49a659e"
+}
+],
+"ibm_nlu": {
+"usage": {
+"text_units": 1,
+"text_characters": 428,
+"features": 7
+},
+"sentiment": {
+"document": {
+"score": -0.482332,
+"label": "negative"
+}
+},
+"semantic_roles": [
+{
+"subject": {
+"text": "BJP National General Secretary"
+},
+"sentence": "SRINAGAR: BJP National General Secretary on Wednesday called on Governor here and discussed issues related to the state including the Amarnath Yatra.",
+"action": {
+"verb": {
+"text": "call",
+"tense": "past"
+},
+"text": "called",
+"normalized": "call"
+}
+},
+{
+"subject": {
+"text": "BJP National General Secretary"
+},
+"sentence": "SRINAGAR: BJP National General Secretary on Wednesday called on Governor here and discussed issues related to the state including the Amarnath Yatra.",
+"object": {
+"text": "issues"
+},
+"action": {
+"verb": {
+"text": "discuss",
+"tense": "past"
+},
+"text": "discussed",
+"normalized": "discuss"
+}
+},
+{
+"subject": {
+"text": "discussed issues"
+},
+"sentence": "SRINAGAR: BJP National General Secretary on Wednesday called on Governor here and discussed issues related to the state including the Amarnath Yatra.",
+"object": {
+"text": "to the state including the Amarnath Yatra"
+},
+"action": {
+"verb": {
+"text": "relate",
+"tense": "past"
+},
+"text": "related",
+"normalized": "relate"
+}
+},
+{
+"subject": {
+"text": "the Amarnath Yatra"
+},
+"sentence": "SRINAGAR: BJP National General Secretary on Wednesday called on Governor here and discussed issues related to the state including the Amarnath Yatra.",
+"object": {
+"text": "the state"
+},
+"action": {
+"verb": {
+"text": "include",
+"tense": "present"
+},
+"text": "including",
+"normalized": "include"
+}
+},
+{
+"subject": {
+"text": "the Governor issues"
+},
+"sentence": " \"Madhav discussed with the Governor issues relating to the obtaining challenges before the state government and the arrangements made for the Shri Amarnathji Yatra,\" a Raj Bhawan spokesman said.",
+"object": {
+"text": "to the obtaining challenges before the state government"
+},
+"action": {
+"verb": {
+"text": "relate",
+"tense": "present"
+},
+"text": "relating",
+"normalized": "relate"
+}
+},
+{
+"subject": {
+"text": "a Raj Bhawan spokesman"
+},
+"sentence": " \"Madhav discussed with the Governor issues relating to the obtaining challenges before the state government and the arrangements made for the Shri Amarnathji Yatra,\" a Raj Bhawan spokesman said.",
+"object": {
+"text": "Madhav discussed with the Governor issues relating to the obtaining challenges before the state government and the arrangements made for the Shri Amarnathji Yatra"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "This"
+},
+"sentence": " This was Madhav's first visit to Kashmir after the fall of in the state on June 19.",
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "was",
+"normalized": "be"
+}
+}
+],
+"relations": [
+{
+"type": "timeOf",
+"sentence": "SRINAGAR: BJP National General Secretary on Wednesday called on Governor here and discussed issues related to the state including the Amarnath Yatra.",
+"score": 0.987939,
+"arguments": [
+{
+"text": "Wednesday",
+"location": [
+44,
+53
+],
+"entities": [
+{
+"type": "Date",
+"text": "Wednesday"
+}
+]
+},
+{
+"text": "called on",
+"location": [
+54,
+63
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "called on"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "SRINAGAR: BJP National General Secretary on Wednesday called on Governor here and discussed issues related to the state including the Amarnath Yatra.",
+"score": 0.594559,
+"arguments": [
+{
+"text": "Governor",
+"location": [
+64,
+72
+],
+"entities": [
+{
+"type": "Person",
+"text": "Raj Bhawan"
+}
+]
+},
+{
+"text": "called on",
+"location": [
+54,
+63
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "called on"
+}
+]
+}
+]
+},
+{
+"type": "spokespersonFor",
+"sentence": "\"Madhav discussed with the Governor issues relating to the obtaining challenges before the state government and the arrangements made for the Shri Amarnathji Yatra,\" a Raj Bhawan spokesman said.",
+"score": 0.475691,
+"arguments": [
+{
+"text": "spokesman",
+"location": [
+329,
+338
+],
+"entities": [
+{
+"type": "Person",
+"text": "spokesman"
+}
+]
+},
+{
+"text": "Raj Bhawan",
+"location": [
+318,
+328
+],
+"entities": [
+{
+"type": "Person",
+"text": "Raj Bhawan"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "\"Madhav discussed with the Governor issues relating to the obtaining challenges before the state government and the arrangements made for the Shri Amarnathji Yatra,\" a Raj Bhawan spokesman said.",
+"score": 0.984856,
+"arguments": [
+{
+"text": "spokesman",
+"location": [
+329,
+338
+],
+"entities": [
+{
+"type": "Person",
+"text": "spokesman"
+}
+]
+},
+{
+"text": "said",
+"location": [
+339,
+343
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "called on"
+}
+]
+}
+]
+},
+{
+"type": "residesIn",
+"sentence": "This was Madhav's first visit to Kashmir after the fall of in the state on June 19.",
+"score": 0.497455,
+"arguments": [
+{
+"text": "Madhav",
+"location": [
+354,
+360
+],
+"entities": [
+{
+"type": "Person",
+"text": "Madhav"
+}
+]
+},
+{
+"text": "Kashmir",
+"location": [
+378,
+385
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Kashmir"
+}
+]
+}
+]
+}
+],
+"language": "en",
+"keywords": [
+{
+"text": "Shri Amarnathji Yatra",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.941053,
+"emotion": {
+"sadness": 0.455006,
+"joy": 0.089844,
+"fear": 0.134295,
+"disgust": 0.206241,
+"anger": 0.129405
+}
+},
+{
+"text": "Raj Bhawan spokesman",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.921211,
+"emotion": {
+"sadness": 0.544268,
+"joy": 0.133437,
+"fear": 0.131842,
+"disgust": 0.190605,
+"anger": 0.174079
+}
+},
+{
+"text": "BJP National General",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.891921,
+"emotion": {
+"sadness": 0.479603,
+"joy": 0.047706,
+"fear": 0.110209,
+"disgust": 0.111197,
+"anger": 0.118635
+}
+},
+{
+"text": "Amarnath Yatra",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.856234,
+"emotion": {
+"sadness": 0.479603,
+"joy": 0.047706,
+"fear": 0.110209,
+"disgust": 0.111197,
+"anger": 0.118635
+}
+},
+{
+"text": "Governor issues",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.627075,
+"emotion": {
+"sadness": 0.455006,
+"joy": 0.089844,
+"fear": 0.134295,
+"disgust": 0.206241,
+"anger": 0.129405
+}
+}
+],
+"entities": [
+{
+"type": "GeographicFeature",
+"text": "Amarnath Yatra",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.963205,
+"emotion": {
+"sadness": 0.479603,
+"joy": 0.047706,
+"fear": 0.110209,
+"disgust": 0.111197,
+"anger": 0.118635
+},
+"count": 1
+},
+{
+"type": "Person",
+"text": "Madhav",
+"sentiment": {
+"score": -0.636228,
+"label": "negative"
+},
+"relevance": 0.935115,
+"emotion": {
+"sadness": 0.455006,
+"joy": 0.089844,
+"fear": 0.134295,
+"disgust": 0.206241,
+"anger": 0.129405
+},
+"count": 2
+},
+{
+"type": "Company",
+"text": "Shri Amarnathji Yatra",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.824715,
+"emotion": {
+"sadness": 0.455006,
+"joy": 0.089844,
+"fear": 0.134295,
+"disgust": 0.206241,
+"anger": 0.129405
+},
+"count": 1
+},
+{
+"type": "Location",
+"text": "SRINAGAR",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.552658,
+"emotion": {
+"sadness": 0.0,
+"joy": 0.0,
+"fear": 0.0,
+"disgust": 0.0,
+"anger": 0.0
+},
+"disambiguation": {
+"subtype": [
+"IndianCity",
+"City"
+],
+"name": "Srinagar",
+"dbpedia_resource": "http://dbpedia.org/resource/Srinagar"
+},
+"count": 1
+},
+{
+"type": "Company",
+"text": "Raj Bhawan",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.550402,
+"emotion": {
+"sadness": 0.544268,
+"joy": 0.133437,
+"fear": 0.131842,
+"disgust": 0.190605,
+"anger": 0.174079
+},
+"count": 1
+}
+],
+"concepts": [
+{
+"text": "Srinagar",
+"relevance": 0.928108,
+"dbpedia_resource": "http://dbpedia.org/resource/Srinagar"
+},
+{
+"text": "Federal government of the United States",
+"relevance": 0.848466,
+"dbpedia_resource": "http://dbpedia.org/resource/Federal_government_of_the_United_States"
+},
+{
+"text": "Jammu and Kashmir",
+"relevance": 0.835378,
+"dbpedia_resource": "http://dbpedia.org/resource/Jammu_and_Kashmir"
+},
+{
+"text": "State",
+"relevance": 0.803604,
+"dbpedia_resource": "http://dbpedia.org/resource/State_(polity)"
+},
+{
+"text": "Sovereign state",
+"relevance": 0.751969,
+"dbpedia_resource": "http://dbpedia.org/resource/Sovereign_state"
+}
+],
+"categories": [
+{
+"score": 0.623468,
+"label": "/religion and spirituality/hinduism"
+},
+{
+"score": 0.219972,
+"label": "/law, govt and politics/government"
+},
+{
+"score": 0.20902,
+"label": "/law, govt and politics/government/parliament"
+}
+]
+}
+}

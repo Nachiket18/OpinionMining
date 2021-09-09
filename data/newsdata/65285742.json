@@ -1,0 +1,770 @@
+{
+"source_article_link": "https://timesofindia.indiatimes.com/india/uidai-aadhaar-data-absolutely-safe/articleshow/65285742.cms?&utm_source=Articleshow&utm_medium=Organic&utm_campaign=Related_Stories",
+"title": "UIDAI: Aadhaar data absolutely safe",
+"date_published": "2018-08-06T06:42:38+05:30",
+"source_type": "news_article",
+"source_name": "timesofindia.indiatimes.com",
+"image_link": [],
+"article_body": "NEW DELHI: The Unique Identification Authority of India has asked people not to pay heed to rumours over its helpline number appearing in mobile phone software and said data remained absolutely safe. In a statement, the said had accepted the error in the a defunct UIDAI helpline being part of the software supplied to phone manufacturers and opponents of Aadhaar were attempting to scare people. \u201cIt may be noted that Google has clarified that UIDAI\u2019s old contact number 18003001947 was added by it inadvertently along with police/fire number 112 in 2014 and has since been continuing through sync mechanism. It has also expressed its regret for the same. Google has also assured that it will fix this inadvertent error in their next release,\u201d the UIDAI said. The authority expected that Google, a large digital platform provider, would exercise due so that such things were not repeated in future. \u201cRumours are being floated in some social media that this number has mysteriously popped up on mobile devices and will be harmful. This is not correct,\u201d UIDAI said.",
+"description": "NEW DELHI: The Unique Identification Authority of India has asked people not to pay heed to rumours over its helpline number appearing in mobile phone software and said data remained absolutely safe. In a statement, the said had accepted the error in the a defunct UIDAI helpline being part of the software supplied to phone manufacturers and opponents of Aadhaar were attempting to scare people.",
+"time_scraped": "2018-08-24 06:01:20.848918",
+"article_id": "65285742",
+"article_category": "IndiaNews",
+"image_details": [],
+"ibm_nlu": {
+"usage": {
+"text_units": 1,
+"text_characters": 1064,
+"features": 7
+},
+"sentiment": {
+"document": {
+"score": -0.747077,
+"label": "negative"
+}
+},
+"semantic_roles": [
+{
+"subject": {
+"text": "The Unique Identification Authority of India"
+},
+"sentence": "NEW DELHI: The Unique Identification Authority of India has asked people not to pay heed to rumours over its helpline number appearing in mobile phone software and said data remained absolutely safe.",
+"object": {
+"text": "not to pay heed to rumours over its helpline number appearing in mobile phone software"
+},
+"action": {
+"verb": {
+"text": "ask",
+"tense": "past"
+},
+"text": "has asked",
+"normalized": "have ask"
+}
+},
+{
+"subject": {
+"text": "its helpline number"
+},
+"sentence": "NEW DELHI: The Unique Identification Authority of India has asked people not to pay heed to rumours over its helpline number appearing in mobile phone software and said data remained absolutely safe.",
+"action": {
+"verb": {
+"text": "appear",
+"tense": "present"
+},
+"text": "appearing",
+"normalized": "appear"
+}
+},
+{
+"subject": {
+"text": "the"
+},
+"sentence": " In a statement, the said had accepted the error in the a defunct UIDAI helpline being part of the software supplied to phone manufacturers and opponents of Aadhaar were attempting to scare people.",
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said had accepted",
+"normalized": "say have accept"
+}
+},
+{
+"subject": {
+"text": "accepted the error"
+},
+"sentence": " In a statement, the said had accepted the error in the a defunct UIDAI helpline being part of the software supplied to phone manufacturers and opponents of Aadhaar were attempting to scare people.",
+"action": {
+"verb": {
+"text": "have",
+"tense": "past"
+},
+"text": "had",
+"normalized": "have"
+}
+},
+{
+"subject": {
+"text": "the a defunct UIDAI helpline"
+},
+"sentence": " In a statement, the said had accepted the error in the a defunct UIDAI helpline being part of the software supplied to phone manufacturers and opponents of Aadhaar were attempting to scare people.",
+"object": {
+"text": "part of the software supplied to phone manufacturers and opponents of Aadhaar"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "present"
+},
+"text": "being",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "people"
+},
+"sentence": " In a statement, the said had accepted the error in the a defunct UIDAI helpline being part of the software supplied to phone manufacturers and opponents of Aadhaar were attempting to scare people.",
+"object": {
+"text": "phone manufacturers and opponents of Aadhaar"
+},
+"action": {
+"verb": {
+"text": "scare",
+"tense": "past"
+},
+"text": "were attempting to scare",
+"normalized": "be attempt to scare"
+}
+},
+{
+"subject": {
+"text": "It"
+},
+"sentence": " \u201cIt may be noted that Google has clarified that UIDAI\u2019s old contact number 18003001947 was added by it inadvertently along with police/fire number 112 in 2014 and has since been continuing through sync mechanism.",
+"object": {
+"text": "noted that Google has clarified that UIDAI\u2019s old contact number 18003001947 was added by it inadvertently along"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "future"
+},
+"text": "be",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "UIDAI\u2019s old contact number 18003001947"
+},
+"sentence": " \u201cIt may be noted that Google has clarified that UIDAI\u2019s old contact number 18003001947 was added by it inadvertently along with police/fire number 112 in 2014 and has since been continuing through sync mechanism.",
+"object": {
+"text": "added by it inadvertently along with police/fire number 112 in 2014 and has since been continuing through sync mechanism"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "was",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "UIDAI\u2019s old contact number 18003001947"
+},
+"sentence": " \u201cIt may be noted that Google has clarified that UIDAI\u2019s old contact number 18003001947 was added by it inadvertently along with police/fire number 112 in 2014 and has since been continuing through sync mechanism.",
+"object": {
+"text": "continuing through sync mechanism"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "been",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "It"
+},
+"sentence": " It has also expressed its regret for the same.",
+"object": {
+"text": "its regret for the same"
+},
+"action": {
+"verb": {
+"text": "express",
+"tense": "past"
+},
+"text": "has also expressed",
+"normalized": "have also express"
+}
+},
+{
+"subject": {
+"text": "it"
+},
+"sentence": " Google has also assured that it will fix this inadvertent error in their next release,\u201d the UIDAI said.",
+"object": {
+"text": "this inadvertent error"
+},
+"action": {
+"verb": {
+"text": "fix",
+"tense": "future"
+},
+"text": "will fix",
+"normalized": "will fix"
+}
+},
+{
+"subject": {
+"text": "the UIDAI"
+},
+"sentence": " Google has also assured that it will fix this inadvertent error in their next release,\u201d the UIDAI said.",
+"object": {
+"text": "Google has also assured that it will fix this inadvertent error in their next release"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "The authority"
+},
+"sentence": " The authority expected that Google, a large digital platform provider, would exercise due so that such things were not repeated in future.",
+"object": {
+"text": "that Google, a large digital platform provider, would exercise due so that such things were not repeated in future"
+},
+"action": {
+"verb": {
+"text": "expect",
+"tense": "past"
+},
+"text": "expected",
+"normalized": "expect"
+}
+},
+{
+"subject": {
+"text": "such things"
+},
+"sentence": " The authority expected that Google, a large digital platform provider, would exercise due so that such things were not repeated in future.",
+"action": {
+"verb": {
+"text": "repeat",
+"tense": "past",
+"negated": true
+},
+"text": "repeated",
+"normalized": "repeat"
+}
+},
+{
+"subject": {
+"text": "Rumours"
+},
+"sentence": " \u201cRumours are being floated in some social media that this number has mysteriously popped up on mobile devices and will be harmful.",
+"action": {
+"verb": {
+"text": "float",
+"tense": "past"
+},
+"text": "are being floated",
+"normalized": "be be float"
+}
+},
+{
+"subject": {
+"text": "this number"
+},
+"sentence": " \u201cRumours are being floated in some social media that this number has mysteriously popped up on mobile devices and will be harmful.",
+"object": {
+"text": "mysteriously popped up on mobile devices"
+},
+"action": {
+"verb": {
+"text": "have",
+"tense": "present"
+},
+"text": "has",
+"normalized": "have"
+}
+},
+{
+"subject": {
+"text": "this number"
+},
+"sentence": " \u201cRumours are being floated in some social media that this number has mysteriously popped up on mobile devices and will be harmful.",
+"object": {
+"text": "on mobile devices"
+},
+"action": {
+"verb": {
+"text": "pop",
+"tense": "past"
+},
+"text": "popped",
+"normalized": "pop"
+}
+},
+{
+"subject": {
+"text": "this number"
+},
+"sentence": " \u201cRumours are being floated in some social media that this number has mysteriously popped up on mobile devices and will be harmful.",
+"object": {
+"text": "harmful"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "future"
+},
+"text": "will be",
+"normalized": "will be"
+}
+},
+{
+"subject": {
+"text": "UIDAI"
+},
+"sentence": " This is not correct,\u201d UIDAI said.",
+"object": {
+"text": "This is not correct"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+}
+],
+"relations": [
+{
+"type": "basedIn",
+"sentence": "NEW DELHI: The Unique Identification Authority of India has asked people not to pay heed to rumours over its helpline number appearing in mobile phone software and said data remained absolutely safe.",
+"score": 0.536772,
+"arguments": [
+{
+"text": "Authority of India",
+"location": [
+37,
+55
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Authority of India"
+}
+]
+},
+{
+"text": "NEW DELHI",
+"location": [
+0,
+9
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "NEW DELHI"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "NEW DELHI: The Unique Identification Authority of India has asked people not to pay heed to rumours over its helpline number appearing in mobile phone software and said data remained absolutely safe.",
+"score": 0.850523,
+"arguments": [
+{
+"text": "people",
+"location": [
+66,
+72
+],
+"entities": [
+{
+"type": "Person",
+"text": "people"
+}
+]
+},
+{
+"text": "asked",
+"location": [
+60,
+65
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "asked"
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "In a statement, the said had accepted the error in the a defunct UIDAI helpline being part of the software supplied to phone manufacturers and opponents of Aadhaar were attempting to scare people.",
+"score": 0.495503,
+"arguments": [
+{
+"text": "opponents",
+"location": [
+343,
+352
+],
+"entities": [
+{
+"type": "Person",
+"text": "opponents"
+}
+]
+},
+{
+"text": "Aadhaar",
+"location": [
+356,
+363
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Aadhaar"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "It has also expressed its regret for the same.",
+"score": 0.551454,
+"arguments": [
+{
+"text": "It",
+"location": [
+610,
+612
+],
+"entities": [
+{
+"type": "Organization",
+"text": "police",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+},
+{
+"text": "expressed",
+"location": [
+622,
+631
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "expressed"
+}
+]
+}
+]
+},
+{
+"type": "partOfMany",
+"sentence": "Google has also assured that it will fix this inadvertent error in their next release,\" the UIDAI said.",
+"score": 0.539941,
+"arguments": [
+{
+"text": "UIDAI",
+"location": [
+749,
+754
+],
+"entities": [
+{
+"type": "Person",
+"text": "UIDAI"
+}
+]
+},
+{
+"text": "their",
+"location": [
+724,
+729
+],
+"entities": [
+{
+"type": "Person",
+"text": "their"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Google has also assured that it will fix this inadvertent error in their next release,\" the UIDAI said.",
+"score": 0.994774,
+"arguments": [
+{
+"text": "UIDAI",
+"location": [
+749,
+754
+],
+"entities": [
+{
+"type": "Person",
+"text": "UIDAI"
+}
+]
+},
+{
+"text": "said",
+"location": [
+755,
+759
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "noted"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "This is not correct,\" UIDAI said.",
+"score": 0.99828,
+"arguments": [
+{
+"text": "UIDAI",
+"location": [
+1053,
+1058
+],
+"entities": [
+{
+"type": "Person",
+"text": "UIDAI"
+}
+]
+},
+{
+"text": "said",
+"location": [
+1059,
+1063
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "noted"
+}
+]
+}
+]
+}
+],
+"language": "en",
+"keywords": [
+{
+"text": "Unique Identification Authority",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.963101,
+"emotion": {
+"sadness": 0.07197,
+"joy": 0.302967,
+"fear": 0.126305,
+"disgust": 0.066844,
+"anger": 0.223985
+}
+},
+{
+"text": "defunct UIDAI helpline",
+"sentiment": {
+"score": -0.576216,
+"label": "negative"
+},
+"relevance": 0.950804,
+"emotion": {
+"sadness": 0.622466,
+"joy": 0.030237,
+"fear": 0.434071,
+"disgust": 0.094518,
+"anger": 0.091496
+}
+},
+{
+"text": "mobile phone software",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.873324,
+"emotion": {
+"sadness": 0.07197,
+"joy": 0.302967,
+"fear": 0.126305,
+"disgust": 0.066844,
+"anger": 0.223985
+}
+},
+{
+"text": "old contact number",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.824698,
+"emotion": {
+"sadness": 0.075554,
+"joy": 0.039958,
+"fear": 0.060256,
+"disgust": 0.136063,
+"anger": 0.123419
+}
+},
+{
+"text": "large digital platform",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.792062,
+"emotion": {
+"sadness": 0.051217,
+"joy": 0.13922,
+"fear": 0.050463,
+"disgust": 0.032082,
+"anger": 0.095142
+}
+}
+],
+"entities": [
+{
+"type": "Company",
+"text": "Google",
+"sentiment": {
+"score": -0.624949,
+"label": "negative"
+},
+"relevance": 0.874659,
+"emotion": {
+"sadness": 0.26175,
+"joy": 0.039536,
+"fear": 0.064374,
+"disgust": 0.108225,
+"anger": 0.186891
+},
+"disambiguation": {
+"subtype": [
+"AcademicInstitution",
+"AwardPresentingOrganization",
+"OperatingSystemDeveloper",
+"ProgrammingLanguageDeveloper",
+"SoftwareDeveloper",
+"VentureFundedCompany"
+],
+"name": "Google",
+"dbpedia_resource": "http://dbpedia.org/resource/Google"
+},
+"count": 3
+},
+{
+"type": "Organization",
+"text": "UIDAI",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.716605,
+"emotion": {
+"sadness": 0.103381,
+"joy": 0.308308,
+"fear": 0.129801,
+"disgust": 0.086057,
+"anger": 0.291597
+},
+"disambiguation": {
+"subtype": [],
+"name": "Unique Identification Authority of India",
+"dbpedia_resource": "http://dbpedia.org/resource/Unique_Identification_Authority_of_India"
+},
+"count": 3
+},
+{
+"type": "Location",
+"text": "DELHI",
+"sentiment": {
+"score": 0.375946,
+"label": "positive"
+},
+"relevance": 0.423775,
+"emotion": {
+"sadness": 0.115132,
+"joy": 0.596039,
+"fear": 0.084006,
+"disgust": 0.034674,
+"anger": 0.046922
+},
+"disambiguation": {
+"subtype": [
+"Country"
+]
+},
+"count": 1
+}
+],
+"concepts": [
+{
+"text": "Unique Identification Authority of India",
+"relevance": 0.954089,
+"dbpedia_resource": "http://dbpedia.org/resource/Unique_Identification_Authority_of_India"
+},
+{
+"text": "Government of India",
+"relevance": 0.937565,
+"dbpedia_resource": "http://dbpedia.org/resource/Government_of_India"
+},
+{
+"text": "Mobile phone",
+"relevance": 0.732295,
+"dbpedia_resource": "http://dbpedia.org/resource/Mobile_phone"
+},
+{
+"text": "India",
+"relevance": 0.590384,
+"dbpedia_resource": "http://dbpedia.org/resource/India"
+},
+{
+"text": "Nokia",
+"relevance": 0.552137,
+"dbpedia_resource": "http://dbpedia.org/resource/Nokia"
+}
+],
+"categories": [
+{
+"score": 0.431115,
+"label": "/health and fitness/exercise"
+},
+{
+"score": 0.404092,
+"label": "/law, govt and politics"
+},
+{
+"score": 0.35434,
+"label": "/technology and computing/software"
+}
+]
+}
+}

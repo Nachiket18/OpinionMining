@@ -1,0 +1,1375 @@
+{
+"source_article_link": "https://www.firstpost.com/india/tamil-nadu-kerala-mullaperiyar-dam-dispute-k-palaniswami-says-opening-of-barricade-did-not-cause-floods-5037351.html",
+"title": "Tamil Nadu-Kerala Mullaperiyar Dam dispute: K Palaniswami says opening of barricade did not cause floods",
+"date_published": "2018-08-24T16:09:47+05:30",
+"source_type": "news_article",
+"source_name": "FirstPost",
+"image_link": [
+"https://images.firstpost.com/wp-content/uploads/2018/08/mullaperiyar-dam-wikimediacommons.jpg"
+],
+"article_body": "Chennai: Tamil Nadu Chief Minister K Palaniswami on Friday said the Kerala government was giving 'wrong information' about Mullaperiyar dam so that the water storage level does not go up to 152 feet. Speaking to reporters at Mukkombu near Tiruchirappalli, about 350 kilometres from the state capital, Palaniswami refuted the Kerala government's allegation that opening of the Mullaperiyar Dam resulted in floods in that state. File image of Mullaperiyar dam in Kerala. Wikimedia commons. Though located in Kerala, the Mullaperiyar Dam is owned and operated by Tamil Nadu. As per the Supreme Court orders, the water storage level in the dam is 142 feet. Palaniswami said that water released from Mullaperiyar Dam had gone to only one place. The Kerala government on Thursday told the Supreme Court that the sudden release of water from the Mullaperiyar dam by the Tamil Nadu government was one of the reasons for the massive floods in the state. On 16 August, 2018, Palaniswami in a letter to his Kerala counterpart Pinarayi Vijayan alleged that his state officials were not being permitted to gauge the rainfall in the catchment area of Mullaperiyar dam in Kerala and urged the neighbouring state to share rainfall data on a real-time basis. \"I would like to point out that Kerala is not permitting our officials to gauge the rainfall in the dam's catchment area, compelling them to assess the inflow only on the basis of actual rise in dam water level,\" said Palaniswami. He said the Tamil Nadu Water Resources Department is managing and regulating water released from the Mullaperiyar dam as per the inflow rate.",
+"description": "Chennai: Tamil Nadu Chief Minister K Palaniswami on Friday said the Kerala government was giving 'wrong information' about Mullaperiyar dam so that the water storage level does not go up to 152 feet. Speaking to reporters at Mukkombu near Tiruchirappalli, about 350 kilometres from the state capital, Palaniswami refuted the Kerala government's allegation that opening of the Mullaperiyar Dam resulted in floods in that state. File image of Mullaperiyar dam in Kerala. Wikimedia commons. Though located in Kerala, the Mullaperiyar Dam is owned and operated by Tamil Nadu. As per the Supreme Court orders, the water storage level in the dam is 142 feet.",
+"time_scraped": "2018-08-24 18:04:57.007464",
+"article_id": "5037351",
+"article_category": "India",
+"image_details": [
+{
+"url": "https://images.firstpost.com/wp-content/uploads/2018/08/mullaperiyar-dam-wikimediacommons.jpg",
+"path": "full/491b913cad89e69c16077265a7bfb65d921eb235.jpg",
+"checksum": "494bab50c15a0d7bcfe208455bb3ddc9"
+}
+],
+"ibm_nlu": {
+"usage": {
+"text_units": 1,
+"text_characters": 1614,
+"features": 7
+},
+"sentiment": {
+"document": {
+"score": -0.555867,
+"label": "negative"
+}
+},
+"semantic_roles": [
+{
+"subject": {
+"text": "Tamil Nadu Chief Minister K Palaniswami"
+},
+"sentence": "Chennai: Tamil Nadu Chief Minister K Palaniswami on Friday said the Kerala government was giving 'wrong information' about Mullaperiyar dam so that the water storage level does not go up to 152 feet.",
+"object": {
+"text": "the Kerala government was giving 'wrong information' about Mullaperiyar dam so that the water storage level does not go up to 152 feet"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "Palaniswami"
+},
+"sentence": " Speaking to reporters at Mukkombu near Tiruchirappalli, about 350 kilometres from the state capital, Palaniswami refuted the Kerala government's allegation that opening of the Mullaperiyar Dam resulted in floods in that state.",
+"object": {
+"text": "the Kerala government's allegation that opening of the Mullaperiyar Dam resulted in floods in that state"
+},
+"action": {
+"verb": {
+"text": "refute",
+"tense": "past"
+},
+"text": "refuted",
+"normalized": "refute"
+}
+},
+{
+"subject": {
+"text": "the water storage level in the dam"
+},
+"sentence": " As per the Supreme Court orders, the water storage level in the dam is 142 feet.",
+"object": {
+"text": "142 feet"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "present"
+},
+"text": "is",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "Palaniswami"
+},
+"sentence": " Palaniswami said that water released from Mullaperiyar Dam had gone to only one place.",
+"object": {
+"text": "that water released from Mullaperiyar Dam had gone to only one place"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "The Kerala government on Thursday"
+},
+"sentence": " The Kerala government on Thursday told the Supreme Court that the sudden release of water from the Mullaperiyar dam by the Tamil Nadu government was one of the reasons for the massive floods in the state.",
+"object": {
+"text": "that the sudden release of water from the Mullaperiyar dam by the Tamil Nadu government was one of the reasons for the massive floods in the state"
+},
+"action": {
+"verb": {
+"text": "tell",
+"tense": "past"
+},
+"text": "told",
+"normalized": "tell"
+}
+},
+{
+"subject": {
+"text": "that his state officials were not being permitted to gauge the rainfall in the catchment area of Mullaperiyar dam in Kerala and urged the neighbouring state to share rainfall data on a real-time basis"
+},
+"sentence": " On 16 August, 2018, Palaniswami in a letter to his Kerala counterpart Pinarayi Vijayan alleged that his state officials were not being permitted to gauge the rainfall in the catchment area of Mullaperiyar dam in Kerala and urged the neighbouring state to share rainfall data on a real-time basis.",
+"action": {
+"verb": {
+"text": "allege",
+"tense": "past"
+},
+"text": "alleged",
+"normalized": "allege"
+}
+},
+{
+"subject": {
+"text": "his state officials"
+},
+"sentence": " On 16 August, 2018, Palaniswami in a letter to his Kerala counterpart Pinarayi Vijayan alleged that his state officials were not being permitted to gauge the rainfall in the catchment area of Mullaperiyar dam in Kerala and urged the neighbouring state to share rainfall data on a real-time basis.",
+"object": {
+"text": "not being permitted to gauge the rainfall in the catchment area of Mullaperiyar dam in Kerala and urged the neighbouring state to share rainfall data on a real-time basis"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "were",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "to gauge the rainfall in the catchment area of Mullaperiyar dam in Kerala"
+},
+"sentence": " On 16 August, 2018, Palaniswami in a letter to his Kerala counterpart Pinarayi Vijayan alleged that his state officials were not being permitted to gauge the rainfall in the catchment area of Mullaperiyar dam in Kerala and urged the neighbouring state to share rainfall data on a real-time basis.",
+"object": {
+"text": "his state officials"
+},
+"action": {
+"verb": {
+"text": "permit",
+"tense": "past",
+"negated": true
+},
+"text": "permitted",
+"normalized": "permit"
+}
+},
+{
+"subject": {
+"text": "his state officials"
+},
+"sentence": " On 16 August, 2018, Palaniswami in a letter to his Kerala counterpart Pinarayi Vijayan alleged that his state officials were not being permitted to gauge the rainfall in the catchment area of Mullaperiyar dam in Kerala and urged the neighbouring state to share rainfall data on a real-time basis.",
+"object": {
+"text": "the rainfall in the catchment area of Mullaperiyar dam"
+},
+"action": {
+"verb": {
+"text": "gauge",
+"tense": "past"
+},
+"text": "were not being permitted to gauge",
+"normalized": "be not be permit to gauge"
+}
+},
+{
+"subject": {
+"text": "the neighbouring state"
+},
+"sentence": " On 16 August, 2018, Palaniswami in a letter to his Kerala counterpart Pinarayi Vijayan alleged that his state officials were not being permitted to gauge the rainfall in the catchment area of Mullaperiyar dam in Kerala and urged the neighbouring state to share rainfall data on a real-time basis.",
+"object": {
+"text": "to share rainfall data on a real-time basis"
+},
+"action": {
+"verb": {
+"text": "urge",
+"tense": "past"
+},
+"text": "urged",
+"normalized": "urge"
+}
+},
+{
+"subject": {
+"text": "Kerala"
+},
+"sentence": " \"I would like to point out that Kerala is not permitting our officials to gauge the rainfall in the dam's catchment area, compelling them to assess the inflow only on the basis of actual rise in dam water level,\" said Palaniswami.",
+"object": {
+"text": "not permitting our officials to gauge the rainfall in the dam's catchment area, compelling them to assess the inflow only on the basis of actual rise in dam water level"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "present"
+},
+"text": "is",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "Kerala"
+},
+"sentence": " \"I would like to point out that Kerala is not permitting our officials to gauge the rainfall in the dam's catchment area, compelling them to assess the inflow only on the basis of actual rise in dam water level,\" said Palaniswami.",
+"object": {
+"text": "to gauge the rainfall in the dam's catchment area"
+},
+"action": {
+"verb": {
+"text": "permit",
+"tense": "present",
+"negated": true
+},
+"text": "permitting",
+"normalized": "permit"
+}
+},
+{
+"subject": {
+"text": "Palaniswami"
+},
+"sentence": " \"I would like to point out that Kerala is not permitting our officials to gauge the rainfall in the dam's catchment area, compelling them to assess the inflow only on the basis of actual rise in dam water level,\" said Palaniswami.",
+"object": {
+"text": "I would like to point out that Kerala is not permitting our officials to gauge the rainfall in the dam's catchment area, compelling them to assess the inflow only on the basis of actual rise in dam water level"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "He"
+},
+"sentence": " He said the Tamil Nadu Water Resources Department is managing and regulating water released from the Mullaperiyar dam as per the inflow rate.",
+"object": {
+"text": "the Tamil Nadu Water Resources Department is managing and regulating water released from the Mullaperiyar dam as per the inflow rate"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+}
+],
+"relations": [
+{
+"type": "managerOf",
+"sentence": "Chennai: Tamil Nadu Chief Minister K Palaniswami on Friday said the Kerala government was giving 'wrong information' about Mullaperiyar dam so that the water storage level does not go up to 152 feet.",
+"score": 0.556655,
+"arguments": [
+{
+"text": "Chief Minister",
+"location": [
+20,
+34
+],
+"entities": [
+{
+"type": "Person",
+"text": "K Palaniswami"
+}
+]
+},
+{
+"text": "Tamil Nadu",
+"location": [
+9,
+19
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Tamil Nadu",
+"disambiguation": {
+"subtype": [
+"Political"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Speaking to reporters at Mukkombu near Tiruchirappalli, about 350 kilometres from the state capital, Palaniswami refuted the Kerala government's allegation that opening of the Mullaperiyar Dam resulted in floods in that state.",
+"score": 0.890165,
+"arguments": [
+{
+"text": "Palaniswami",
+"location": [
+301,
+312
+],
+"entities": [
+{
+"type": "Person",
+"text": "K Palaniswami"
+}
+]
+},
+{
+"text": "refuted",
+"location": [
+313,
+320
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "refuted"
+}
+]
+}
+]
+},
+{
+"type": "basedIn",
+"sentence": "File image of Mullaperiyar dam in Kerala.",
+"score": 0.502404,
+"arguments": [
+{
+"text": "Mullaperiyar dam",
+"location": [
+441,
+457
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Mullaperiyar Dam"
+}
+]
+},
+{
+"text": "Kerala",
+"location": [
+461,
+467
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Kerala"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Palaniswami said that water released from Mullaperiyar Dam had gone to only one place.",
+"score": 0.995872,
+"arguments": [
+{
+"text": "Palaniswami",
+"location": [
+653,
+664
+],
+"entities": [
+{
+"type": "Person",
+"text": "K Palaniswami"
+}
+]
+},
+{
+"text": "said",
+"location": [
+665,
+669
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "\"I would like to point out that Kerala is not permitting our officials to gauge the rainfall in the dam's catchment area, compelling them to assess the inflow only on the basis of actual rise in dam water level,\" said Palaniswami.",
+"score": 0.91745,
+"arguments": [
+{
+"text": "Palaniswami",
+"location": [
+1460,
+1471
+],
+"entities": [
+{
+"type": "Person",
+"text": "K Palaniswami"
+}
+]
+},
+{
+"text": "said",
+"location": [
+1455,
+1459
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "He said the Tamil Nadu Water Resources Department is managing and regulating water released from the Mullaperiyar dam as per the inflow rate.",
+"score": 0.968065,
+"arguments": [
+{
+"text": "He",
+"location": [
+1473,
+1475
+],
+"entities": [
+{
+"type": "Person",
+"text": "K Palaniswami"
+}
+]
+},
+{
+"text": "said",
+"location": [
+1476,
+1480
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "timeOf",
+"sentence": "The Kerala government on Thursday told the Supreme Court that the sudden release of water from the Mullaperiyar dam by the Tamil Nadu government was one of the reasons for the massive floods in the state.",
+"score": 0.953473,
+"arguments": [
+{
+"text": "Thursday",
+"location": [
+765,
+773
+],
+"entities": [
+{
+"type": "Date",
+"text": "Thursday"
+}
+]
+},
+{
+"text": "told",
+"location": [
+774,
+778
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "The Kerala government on Thursday told the Supreme Court that the sudden release of water from the Mullaperiyar dam by the Tamil Nadu government was one of the reasons for the massive floods in the state.",
+"score": 0.916823,
+"arguments": [
+{
+"text": "Supreme Court",
+"location": [
+783,
+796
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Supreme Court",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+},
+{
+"text": "told",
+"location": [
+774,
+778
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "partOf",
+"sentence": "The Kerala government on Thursday told the Supreme Court that the sudden release of water from the Mullaperiyar dam by the Tamil Nadu government was one of the reasons for the massive floods in the state.",
+"score": 0.516247,
+"arguments": [
+{
+"text": "government",
+"location": [
+874,
+884
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "government",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+},
+{
+"text": "Tamil Nadu",
+"location": [
+863,
+873
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Tamil Nadu",
+"disambiguation": {
+"subtype": [
+"Political"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "On 16 August, 2018, Palaniswami in a letter to his Kerala counterpart Pinarayi Vijayan alleged that his state officials were not being permitted to gauge the rainfall in the catchment area of Mullaperiyar dam in Kerala and urged the neighbouring state to share rainfall data on a real-time basis.",
+"score": 0.511312,
+"arguments": [
+{
+"text": "Palaniswami",
+"location": [
+965,
+976
+],
+"entities": [
+{
+"type": "Person",
+"text": "K Palaniswami"
+}
+]
+},
+{
+"text": "alleged",
+"location": [
+1032,
+1039
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "alleged"
+}
+]
+}
+]
+},
+{
+"type": "residesIn",
+"sentence": "On 16 August, 2018, Palaniswami in a letter to his Kerala counterpart Pinarayi Vijayan alleged that his state officials were not being permitted to gauge the rainfall in the catchment area of Mullaperiyar dam in Kerala and urged the neighbouring state to share rainfall data on a real-time basis.",
+"score": 0.808183,
+"arguments": [
+{
+"text": "counterpart",
+"location": [
+1003,
+1014
+],
+"entities": [
+{
+"type": "Person",
+"text": "Pinarayi Vijayan"
+}
+]
+},
+{
+"text": "Kerala",
+"location": [
+996,
+1002
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Kerala"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "On 16 August, 2018, Palaniswami in a letter to his Kerala counterpart Pinarayi Vijayan alleged that his state officials were not being permitted to gauge the rainfall in the catchment area of Mullaperiyar dam in Kerala and urged the neighbouring state to share rainfall data on a real-time basis.",
+"score": 0.867505,
+"arguments": [
+{
+"text": "Pinarayi Vijayan",
+"location": [
+1015,
+1031
+],
+"entities": [
+{
+"type": "Person",
+"text": "Pinarayi Vijayan"
+}
+]
+},
+{
+"text": "alleged",
+"location": [
+1032,
+1039
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "alleged"
+}
+]
+}
+]
+},
+{
+"type": "managerOf",
+"sentence": "On 16 August, 2018, Palaniswami in a letter to his Kerala counterpart Pinarayi Vijayan alleged that his state officials were not being permitted to gauge the rainfall in the catchment area of Mullaperiyar dam in Kerala and urged the neighbouring state to share rainfall data on a real-time basis.",
+"score": 0.632669,
+"arguments": [
+{
+"text": "his",
+"location": [
+1045,
+1048
+],
+"entities": [
+{
+"type": "Person",
+"text": "K Palaniswami"
+}
+]
+},
+{
+"text": "state",
+"location": [
+1049,
+1054
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Mullaperiyar Dam"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Chennai: Tamil Nadu Chief Minister K Palaniswami on Friday said the Kerala government was giving 'wrong information' about Mullaperiyar dam so that the water storage level does not go up to 152 feet.",
+"score": 0.969023,
+"arguments": [
+{
+"text": "K Palaniswami",
+"location": [
+35,
+48
+],
+"entities": [
+{
+"type": "Person",
+"text": "K Palaniswami"
+}
+]
+},
+{
+"text": "said",
+"location": [
+59,
+63
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "On 16 August, 2018, Palaniswami in a letter to his Kerala counterpart Pinarayi Vijayan alleged that his state officials were not being permitted to gauge the rainfall in the catchment area of Mullaperiyar dam in Kerala and urged the neighbouring state to share rainfall data on a real-time basis.",
+"score": 0.940198,
+"arguments": [
+{
+"text": "officials",
+"location": [
+1055,
+1064
+],
+"entities": [
+{
+"type": "Person",
+"text": "officials"
+}
+]
+},
+{
+"text": "state",
+"location": [
+1049,
+1054
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Mullaperiyar Dam"
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "\"I would like to point out that Kerala is not permitting our officials to gauge the rainfall in the dam's catchment area, compelling them to assess the inflow only on the basis of actual rise in dam water level,\" said Palaniswami.",
+"score": 0.729245,
+"arguments": [
+{
+"text": "officials",
+"location": [
+1303,
+1312
+],
+"entities": [
+{
+"type": "Person",
+"text": "officials"
+}
+]
+},
+{
+"text": "our",
+"location": [
+1299,
+1302
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Mullaperiyar Dam"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "On 16 August, 2018, Palaniswami in a letter to his Kerala counterpart Pinarayi Vijayan alleged that his state officials were not being permitted to gauge the rainfall in the catchment area of Mullaperiyar dam in Kerala and urged the neighbouring state to share rainfall data on a real-time basis.",
+"score": 0.903214,
+"arguments": [
+{
+"text": "Mullaperiyar dam",
+"location": [
+1137,
+1153
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Mullaperiyar dam"
+}
+]
+},
+{
+"text": "Kerala",
+"location": [
+1157,
+1163
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Kerala"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "\"I would like to point out that Kerala is not permitting our officials to gauge the rainfall in the dam's catchment area, compelling them to assess the inflow only on the basis of actual rise in dam water level,\" said Palaniswami.",
+"score": 0.844503,
+"arguments": [
+{
+"text": "I",
+"location": [
+1243,
+1244
+],
+"entities": [
+{
+"type": "Person",
+"text": "K Palaniswami"
+}
+]
+},
+{
+"text": "point out",
+"location": [
+1259,
+1268
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "point out"
+}
+]
+}
+]
+},
+{
+"type": "partOf",
+"sentence": "He said the Tamil Nadu Water Resources Department is managing and regulating water released from the Mullaperiyar dam as per the inflow rate.",
+"score": 0.773945,
+"arguments": [
+{
+"text": "Water Resources Department",
+"location": [
+1496,
+1522
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Water Resources Department",
+"disambiguation": {
+"subtype": [
+"Commercial"
+]
+}
+}
+]
+},
+{
+"text": "Tamil Nadu",
+"location": [
+1485,
+1495
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Tamil Nadu",
+"disambiguation": {
+"subtype": [
+"Political"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "timeOf",
+"sentence": "Chennai: Tamil Nadu Chief Minister K Palaniswami on Friday said the Kerala government was giving 'wrong information' about Mullaperiyar dam so that the water storage level does not go up to 152 feet.",
+"score": 0.728882,
+"arguments": [
+{
+"text": "Friday",
+"location": [
+52,
+58
+],
+"entities": [
+{
+"type": "Date",
+"text": "Friday"
+}
+]
+},
+{
+"text": "said",
+"location": [
+59,
+63
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "Speaking to reporters at Mukkombu near Tiruchirappalli, about 350 kilometres from the state capital, Palaniswami refuted the Kerala government's allegation that opening of the Mullaperiyar Dam resulted in floods in that state.",
+"score": 0.919958,
+"arguments": [
+{
+"text": "reporters",
+"location": [
+212,
+221
+],
+"entities": [
+{
+"type": "Person",
+"text": "reporters"
+}
+]
+},
+{
+"text": "Speaking",
+"location": [
+200,
+208
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "Speaking"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "Speaking to reporters at Mukkombu near Tiruchirappalli, about 350 kilometres from the state capital, Palaniswami refuted the Kerala government's allegation that opening of the Mullaperiyar Dam resulted in floods in that state.",
+"score": 0.606395,
+"arguments": [
+{
+"text": "reporters",
+"location": [
+212,
+221
+],
+"entities": [
+{
+"type": "Person",
+"text": "reporters"
+}
+]
+},
+{
+"text": "Mukkombu",
+"location": [
+225,
+233
+],
+"entities": [
+{
+"type": "Facility",
+"text": "Mukkombu"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "Speaking to reporters at Mukkombu near Tiruchirappalli, about 350 kilometres from the state capital, Palaniswami refuted the Kerala government's allegation that opening of the Mullaperiyar Dam resulted in floods in that state.",
+"score": 0.572378,
+"arguments": [
+{
+"text": "Mukkombu",
+"location": [
+225,
+233
+],
+"entities": [
+{
+"type": "Facility",
+"text": "Mukkombu"
+}
+]
+},
+{
+"text": "Tiruchirappalli",
+"location": [
+239,
+254
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Tiruchirappalli"
+}
+]
+}
+]
+},
+{
+"type": "residesIn",
+"sentence": "Speaking to reporters at Mukkombu near Tiruchirappalli, about 350 kilometres from the state capital, Palaniswami refuted the Kerala government's allegation that opening of the Mullaperiyar Dam resulted in floods in that state.",
+"score": 0.496451,
+"arguments": [
+{
+"text": "kilometres",
+"location": [
+266,
+276
+],
+"entities": [
+{
+"type": "Person",
+"text": "kilometres"
+}
+]
+},
+{
+"text": "capital",
+"location": [
+292,
+299
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Kerala"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Speaking to reporters at Mukkombu near Tiruchirappalli, about 350 kilometres from the state capital, Palaniswami refuted the Kerala government's allegation that opening of the Mullaperiyar Dam resulted in floods in that state.",
+"score": 0.666522,
+"arguments": [
+{
+"text": "kilometres",
+"location": [
+266,
+276
+],
+"entities": [
+{
+"type": "Person",
+"text": "kilometres"
+}
+]
+},
+{
+"text": "refuted",
+"location": [
+313,
+320
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "refuted"
+}
+]
+}
+]
+},
+{
+"type": "capitalOf",
+"sentence": "Speaking to reporters at Mukkombu near Tiruchirappalli, about 350 kilometres from the state capital, Palaniswami refuted the Kerala government's allegation that opening of the Mullaperiyar Dam resulted in floods in that state.",
+"score": 0.687404,
+"arguments": [
+{
+"text": "capital",
+"location": [
+292,
+299
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Kerala"
+}
+]
+},
+{
+"text": "state",
+"location": [
+286,
+291
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "state"
+}
+]
+}
+]
+}
+],
+"language": "en",
+"keywords": [
+{
+"text": "mullaperiyar dam",
+"sentiment": {
+"score": -0.53679,
+"label": "negative"
+},
+"relevance": 0.965219,
+"emotion": {
+"sadness": 0.188168,
+"joy": 0.127696,
+"fear": 0.215273,
+"disgust": 0.158646,
+"anger": 0.46229
+}
+},
+{
+"text": "Tamil Nadu",
+"sentiment": {
+"score": -0.599609,
+"label": "negative"
+},
+"relevance": 0.752808,
+"emotion": {
+"sadness": 0.180856,
+"joy": 0.040822,
+"fear": 0.404245,
+"disgust": 0.246561,
+"anger": 0.46566
+}
+},
+{
+"text": "Kerala government",
+"sentiment": {
+"score": -0.553767,
+"label": "negative"
+},
+"relevance": 0.660883,
+"emotion": {
+"sadness": 0.261929,
+"joy": 0.02113,
+"fear": 0.439589,
+"disgust": 0.206775,
+"anger": 0.458074
+}
+},
+{
+"text": "water storage level",
+"sentiment": {
+"score": -0.3708,
+"label": "negative"
+},
+"relevance": 0.621075,
+"emotion": {
+"sadness": 0.217416,
+"joy": 0.146314,
+"fear": 0.154703,
+"disgust": 0.266964,
+"anger": 0.188867
+}
+},
+{
+"text": "dam water level",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.582781,
+"emotion": {
+"sadness": 0.201033,
+"joy": 0.075753,
+"fear": 0.219973,
+"disgust": 0.265251,
+"anger": 0.282952
+}
+}
+],
+"entities": [
+{
+"type": "GeographicFeature",
+"text": "Mullaperiyar dam",
+"sentiment": {
+"score": -0.457238,
+"label": "negative"
+},
+"relevance": 0.942282,
+"emotion": {
+"sadness": 0.194434,
+"joy": 0.128116,
+"fear": 0.214561,
+"disgust": 0.175707,
+"anger": 0.460024
+},
+"count": 10
+},
+{
+"type": "Organization",
+"text": "Kerala government",
+"sentiment": {
+"score": -0.553767,
+"label": "negative"
+},
+"relevance": 0.391835,
+"emotion": {
+"sadness": 0.261929,
+"joy": 0.02113,
+"fear": 0.439589,
+"disgust": 0.206775,
+"anger": 0.458074
+},
+"count": 3
+},
+{
+"type": "Location",
+"text": "Kerala",
+"sentiment": {
+"score": -0.344984,
+"label": "negative"
+},
+"relevance": 0.376731,
+"emotion": {
+"sadness": 0.169752,
+"joy": 0.175085,
+"fear": 0.231534,
+"disgust": 0.161298,
+"anger": 0.193251
+},
+"disambiguation": {
+"subtype": [
+"City"
+]
+},
+"count": 4
+},
+{
+"type": "Organization",
+"text": "Tamil Nadu",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.271447,
+"emotion": {
+"sadness": 0.506584,
+"joy": 0.034537,
+"fear": 0.259134,
+"disgust": 0.319773,
+"anger": 0.139939
+},
+"count": 2
+},
+{
+"type": "Person",
+"text": "Chief Minister K Palaniswami",
+"sentiment": {
+"score": -0.528617,
+"label": "negative"
+},
+"relevance": 0.267571,
+"emotion": {
+"sadness": 0.343591,
+"joy": 0.092547,
+"fear": 0.346505,
+"disgust": 0.210155,
+"anger": 0.337347
+},
+"count": 5
+}
+],
+"concepts": [
+{
+"text": "Kerala",
+"relevance": 0.988319,
+"dbpedia_resource": "http://dbpedia.org/resource/Kerala"
+},
+{
+"text": "Tamil Nadu",
+"relevance": 0.754636,
+"dbpedia_resource": "http://dbpedia.org/resource/Tamil_Nadu"
+},
+{
+"text": "Supreme Court of the United States",
+"relevance": 0.61682,
+"dbpedia_resource": "http://dbpedia.org/resource/Supreme_Court_of_the_United_States"
+},
+{
+"text": "Madras State",
+"relevance": 0.561282,
+"dbpedia_resource": "http://dbpedia.org/resource/Madras_State"
+},
+{
+"text": "Communist Party of India",
+"relevance": 0.543453,
+"dbpedia_resource": "http://dbpedia.org/resource/Communist_Party_of_India_(Marxist)"
+}
+],
+"categories": [
+{
+"score": 0.408619,
+"label": "/law, govt and politics/government"
+},
+{
+"score": 0.317852,
+"label": "/technology and computing/software/databases"
+},
+{
+"score": 0.306289,
+"label": "/business and industrial/energy/renewable energy/hydroelectric energy"
+}
+]
+}
+}

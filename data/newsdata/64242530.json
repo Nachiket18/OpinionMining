@@ -1,0 +1,1355 @@
+{
+"source_article_link": "https://timesofindia.indiatimes.com/india/bjp-to-wait-and-watch-till-2019-lok-sabha-elections/articleshow/64242530.cms?&utm_source=Articleshow&utm_medium=Organic&utm_campaign=Related_Stories",
+"title": "BJP to wait and watch till 2019 Lok Sabha elections",
+"date_published": "2018-05-20T10:40:36+05:30",
+"source_type": "news_article",
+"source_name": "timesofindia.indiatimes.com",
+"image_link": [
+"https://timesofindia.indiatimes.com/thumb/msid-64242522,imgsize-40641,width-400,resizemode-4/64242522.jpg"
+],
+"article_body": "The state , after the stinging loss of face after being unable to muster the numbers to face a trust vote, will now be hoping to uphold the values of democracy by becoming a determined opposition to the Congress-JDS(S) coalition government. While Operation Lotus 2.0 is still on the cards with outgoing CM himself hinting at possible mid-term polls, party sources said BJP will not try to woo MLAs from rival parties till the are concluded. In the process, BJP is also trying to evade any sort of counter consolidation in the Old Mysuru and Hyderabad-Karnataka regions for JD(S) and play the responsible opposition. Further, Yeddyurappa will also be milking the \"betrayal\" done to him and further reinforce his hold over the community prior to next year's general elections. \"He will travel through the state ahead of the 2019 elections and speak of the unholy alliance which has cost a Lingayat leader his due,\" said a party worker. The BJP will look towards Yeddyurappa for providing them the best possible opposition leadership. \"There is a Kannada saying - Yeddiyurappa gudugidare, Vidhana Soudha naduguvadhu (If Yeddyurappa raises his voice, Vidhana Soudha will shake). His leadership under trying circumstances will be the thing to watch out for,\" said a BJP leader. There has been a strong message from the party central leadership to the state unit, asking it to wait and watch, and not create a situation which will undermine the credibility of the party ahead of the 2019 elections. Affirming this, BJP MLA CT Ravi said: \"When there is a flood, the tiger and the deer will both try to ride it out on the same island. A similar scenario is being played out with the coalition of the and JD(S). One of them will eat up the other.\"",
+"description": "The state , after the stinging loss of face after being unable to muster the numbers to face a trust vote, will now be hoping to uphold the values of democracy by becoming a determined opposition to the Congress-JDS(S) coalition government. While Operation Lotus 2.0 is still on the cards with outgoing CM himself hinting at possible mid-term polls, party sources said BJP will not try to woo MLAs from rival parties till the are concluded.",
+"time_scraped": "2018-08-24 03:01:47.693074",
+"article_id": "64242530",
+"article_category": "IndiaNews",
+"image_details": [
+{
+"url": "https://timesofindia.indiatimes.com/thumb/msid-64242522,imgsize-40641,width-400,resizemode-4/64242522.jpg",
+"path": "full/d4155babed628211bed871a5bbd9c9dede40682f.jpg",
+"checksum": "ddc28504bd865f18b672e9175967ff04"
+}
+],
+"ibm_nlu": {
+"usage": {
+"text_units": 1,
+"text_characters": 1738,
+"features": 7
+},
+"sentiment": {
+"document": {
+"score": -0.467782,
+"label": "negative"
+}
+},
+"semantic_roles": [
+{
+"subject": {
+"text": "The state"
+},
+"sentence": "The state , after the stinging loss of face after being unable to muster the numbers to face a trust vote, will now be hoping to uphold the values of democracy by becoming a determined opposition to the Congress-JDS(S) coalition government.",
+"object": {
+"text": "the numbers to face a trust vote"
+},
+"action": {
+"verb": {
+"text": "muster",
+"tense": "future"
+},
+"text": "to muster",
+"normalized": "to muster"
+}
+},
+{
+"subject": {
+"text": "The state"
+},
+"sentence": "The state , after the stinging loss of face after being unable to muster the numbers to face a trust vote, will now be hoping to uphold the values of democracy by becoming a determined opposition to the Congress-JDS(S) coalition government.",
+"object": {
+"text": "hoping to uphold the values of democracy"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "future"
+},
+"text": "be",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "The state"
+},
+"sentence": "The state , after the stinging loss of face after being unable to muster the numbers to face a trust vote, will now be hoping to uphold the values of democracy by becoming a determined opposition to the Congress-JDS(S) coalition government.",
+"object": {
+"text": "to uphold the values of democracy by becoming a determined opposition to the Congress-JDS(S) coalition government"
+},
+"action": {
+"verb": {
+"text": "hope",
+"tense": "future"
+},
+"text": "hoping",
+"normalized": "hope"
+}
+},
+{
+"subject": {
+"text": "Operation Lotus 2.0"
+},
+"sentence": " While Operation Lotus 2.0 is still on the cards with outgoing CM himself hinting at possible mid-term polls, party sources said BJP will not try to woo MLAs from rival parties till the are concluded.",
+"object": {
+"text": "still on the cards"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "present"
+},
+"text": "is",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "mid-term polls"
+},
+"sentence": " While Operation Lotus 2.0 is still on the cards with outgoing CM himself hinting at possible mid-term polls, party sources said BJP will not try to woo MLAs from rival parties till the are concluded.",
+"object": {
+"text": "at possible"
+},
+"action": {
+"verb": {
+"text": "hint",
+"tense": "present"
+},
+"text": "hinting",
+"normalized": "hint"
+}
+},
+{
+"subject": {
+"text": "party sources"
+},
+"sentence": " While Operation Lotus 2.0 is still on the cards with outgoing CM himself hinting at possible mid-term polls, party sources said BJP will not try to woo MLAs from rival parties till the are concluded.",
+"object": {
+"text": "BJP will not try to woo MLAs from rival parties till the are concluded"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "BJP"
+},
+"sentence": " While Operation Lotus 2.0 is still on the cards with outgoing CM himself hinting at possible mid-term polls, party sources said BJP will not try to woo MLAs from rival parties till the are concluded.",
+"object": {
+"text": "to woo MLAs from rival parties"
+},
+"action": {
+"verb": {
+"text": "try",
+"tense": "future",
+"negated": true
+},
+"text": "try",
+"normalized": "try"
+}
+},
+{
+"subject": {
+"text": "BJP"
+},
+"sentence": " In the process, BJP is also trying to evade any sort of counter consolidation in the Old Mysuru and Hyderabad-Karnataka regions for JD(S) and play the responsible opposition.",
+"action": {
+"verb": {
+"text": "be",
+"tense": "present"
+},
+"text": "is also trying to evade",
+"normalized": "be also try to evade"
+}
+},
+{
+"subject": {
+"text": "BJP"
+},
+"sentence": " In the process, BJP is also trying to evade any sort of counter consolidation in the Old Mysuru and Hyderabad-Karnataka regions for JD(S) and play the responsible opposition.",
+"object": {
+"text": "to evade any sort of counter consolidation in the Old Mysuru and Hyderabad-Karnataka regions for JD(S) and play the responsible opposition"
+},
+"action": {
+"verb": {
+"text": "try",
+"tense": "present"
+},
+"text": "trying",
+"normalized": "try"
+}
+},
+{
+"subject": {
+"text": "BJP"
+},
+"sentence": " In the process, BJP is also trying to evade any sort of counter consolidation in the Old Mysuru and Hyderabad-Karnataka regions for JD(S) and play the responsible opposition.",
+"object": {
+"text": "any sort of counter consolidation in the Old Mysuru and Hyderabad-Karnataka regions for JD(S) and play the responsible opposition"
+},
+"action": {
+"verb": {
+"text": "evade",
+"tense": "future"
+},
+"text": "is also trying to evade",
+"normalized": "be also try to evade"
+}
+},
+{
+"subject": {
+"text": "BJP"
+},
+"sentence": " In the process, BJP is also trying to evade any sort of counter consolidation in the Old Mysuru and Hyderabad-Karnataka regions for JD(S) and play the responsible opposition.",
+"object": {
+"text": "the responsible opposition"
+},
+"action": {
+"verb": {
+"text": "play",
+"tense": "present"
+},
+"text": "play",
+"normalized": "play"
+}
+},
+{
+"subject": {
+"text": "Yeddyurappa"
+},
+"sentence": " Further, Yeddyurappa will also be milking the \"betrayal\" done to him and further reinforce his hold over the community prior to next year's general elections.",
+"object": {
+"text": "milking the \"betrayal\" done to him"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "future"
+},
+"text": "be",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "Yeddyurappa"
+},
+"sentence": " Further, Yeddyurappa will also be milking the \"betrayal\" done to him and further reinforce his hold over the community prior to next year's general elections.",
+"object": {
+"text": "the \"betrayal"
+},
+"action": {
+"verb": {
+"text": "milk",
+"tense": "future"
+},
+"text": "will also be milking",
+"normalized": "will also be milk"
+}
+},
+{
+"subject": {
+"text": "his hold"
+},
+"sentence": " Further, Yeddyurappa will also be milking the \"betrayal\" done to him and further reinforce his hold over the community prior to next year's general elections.",
+"object": {
+"text": "over the community prior to next year's general elections"
+},
+"action": {
+"verb": {
+"text": "reinforce",
+"tense": "present"
+},
+"text": "further reinforce",
+"normalized": "far reinforce"
+}
+},
+{
+"subject": {
+"text": "He"
+},
+"sentence": " \"He will travel through the state ahead of the 2019 elections and speak of the unholy alliance which has cost a Lingayat leader his due,\" said a party worker.",
+"object": {
+"text": "through the state ahead of the 2019 elections"
+},
+"action": {
+"verb": {
+"text": "travel",
+"tense": "future"
+},
+"text": "will travel",
+"normalized": "will travel"
+}
+},
+{
+"subject": {
+"text": "the unholy alliance"
+},
+"sentence": " \"He will travel through the state ahead of the 2019 elections and speak of the unholy alliance which has cost a Lingayat leader his due,\" said a party worker.",
+"object": {
+"text": "cost a Lingayat leader his due"
+},
+"action": {
+"verb": {
+"text": "have",
+"tense": "present"
+},
+"text": "has",
+"normalized": "have"
+}
+},
+{
+"subject": {
+"text": "a party worker"
+},
+"sentence": " \"He will travel through the state ahead of the 2019 elections and speak of the unholy alliance which has cost a Lingayat leader his due,\" said a party worker.",
+"object": {
+"text": "He will travel through the state ahead of the 2019 elections and speak of the unholy alliance which has cost a Lingayat leader his due"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "The BJP"
+},
+"sentence": " The BJP will look towards Yeddyurappa for providing them the best possible opposition leadership.",
+"object": {
+"text": "towards Yeddyurappa"
+},
+"action": {
+"verb": {
+"text": "look",
+"tense": "future"
+},
+"text": "will look",
+"normalized": "will look"
+}
+},
+{
+"subject": {
+"text": "Yeddyurappa"
+},
+"sentence": " \"There is a Kannada saying - Yeddiyurappa gudugidare, Vidhana Soudha naduguvadhu (If Yeddyurappa raises his voice, Vidhana Soudha will shake).",
+"object": {
+"text": "his voice"
+},
+"action": {
+"verb": {
+"text": "raise",
+"tense": "present"
+},
+"text": "raises",
+"normalized": "raise"
+}
+},
+{
+"subject": {
+"text": "circumstances"
+},
+"sentence": " His leadership under trying circumstances will be the thing to watch out for,\" said a BJP leader.",
+"object": {
+"text": "the thing to watch out"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "future"
+},
+"text": "will be",
+"normalized": "will be"
+}
+},
+{
+"subject": {
+"text": "a BJP leader"
+},
+"sentence": " His leadership under trying circumstances will be the thing to watch out for,\" said a BJP leader.",
+"object": {
+"text": "His leadership under trying circumstances will be the thing to watch out for"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "There"
+},
+"sentence": " There has been a strong message from the party central leadership to the state unit, asking it to wait and watch, and not create a situation which will undermine the credibility of the party ahead of the 2019 elections.",
+"object": {
+"text": "been a strong message"
+},
+"action": {
+"verb": {
+"text": "have",
+"tense": "present"
+},
+"text": "has",
+"normalized": "have"
+}
+},
+{
+"subject": {
+"text": "a strong message"
+},
+"sentence": " There has been a strong message from the party central leadership to the state unit, asking it to wait and watch, and not create a situation which will undermine the credibility of the party ahead of the 2019 elections.",
+"object": {
+"text": "from the party central leadership to the state unit"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "has been",
+"normalized": "have be"
+}
+},
+{
+"subject": {
+"text": "to wait and watch, and not create a situation which will undermine the credibility of the party ahead of the 2019 elections"
+},
+"sentence": " There has been a strong message from the party central leadership to the state unit, asking it to wait and watch, and not create a situation which will undermine the credibility of the party ahead of the 2019 elections.",
+"object": {
+"text": "it"
+},
+"action": {
+"verb": {
+"text": "ask",
+"tense": "present"
+},
+"text": "asking",
+"normalized": "ask"
+}
+},
+{
+"subject": {
+"text": "a situation"
+},
+"sentence": " There has been a strong message from the party central leadership to the state unit, asking it to wait and watch, and not create a situation which will undermine the credibility of the party ahead of the 2019 elections.",
+"object": {
+"text": "the credibility of the party ahead of the 2019 elections"
+},
+"action": {
+"verb": {
+"text": "undermine",
+"tense": "future"
+},
+"text": "will undermine",
+"normalized": "will undermine"
+}
+},
+{
+"subject": {
+"text": "BJP MLA CT Ravi"
+},
+"sentence": " Affirming this, BJP MLA CT Ravi said: \"When there is a flood, the tiger and the deer will both try to ride it out on the same island.",
+"object": {
+"text": "this"
+},
+"action": {
+"verb": {
+"text": "Affirming",
+"tense": "present"
+},
+"text": "Affirming",
+"normalized": "Affirming"
+}
+},
+{
+"subject": {
+"text": "both"
+},
+"sentence": " Affirming this, BJP MLA CT Ravi said: \"When there is a flood, the tiger and the deer will both try to ride it out on the same island.",
+"object": {
+"text": "to ride it out on the same island"
+},
+"action": {
+"verb": {
+"text": "try",
+"tense": "future"
+},
+"text": "try",
+"normalized": "try"
+}
+},
+{
+"subject": {
+"text": "the tiger and the deer"
+},
+"sentence": " Affirming this, BJP MLA CT Ravi said: \"When there is a flood, the tiger and the deer will both try to ride it out on the same island.",
+"object": {
+"text": "it"
+},
+"action": {
+"verb": {
+"text": "ride",
+"tense": "future"
+},
+"text": "will both try to ride",
+"normalized": "will both try to ride"
+}
+},
+{
+"subject": {
+"text": "One of them"
+},
+"sentence": " One of them will eat up the other.\"",
+"object": {
+"text": "up the other"
+},
+"action": {
+"verb": {
+"text": "eat",
+"tense": "future"
+},
+"text": "will eat",
+"normalized": "will eat"
+}
+}
+],
+"relations": [
+{
+"type": "partOf",
+"sentence": "The state , after the stinging loss of face after being unable to muster the numbers to face a trust vote, will now be hoping to uphold the values of democracy by becoming a determined opposition to the Congress-JDS(S) coalition government.",
+"score": 0.688516,
+"arguments": [
+{
+"text": "coalition government",
+"location": [
+219,
+239
+],
+"entities": [
+{
+"type": "Organization",
+"text": "coalition government"
+}
+]
+},
+{
+"text": "Congress",
+"location": [
+203,
+211
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Congress",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "\"He will travel through the state ahead of the 2019 elections and speak of the unholy alliance which has cost a Lingayat leader his due,\" said a party worker.",
+"score": 0.786998,
+"arguments": [
+{
+"text": "worker",
+"location": [
+926,
+932
+],
+"entities": [
+{
+"type": "Person",
+"text": "worker"
+}
+]
+},
+{
+"text": "said",
+"location": [
+913,
+917
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "memberOf",
+"sentence": "\"He will travel through the state ahead of the 2019 elections and speak of the unholy alliance which has cost a Lingayat leader his due,\" said a party worker.",
+"score": 0.523791,
+"arguments": [
+{
+"text": "worker",
+"location": [
+926,
+932
+],
+"entities": [
+{
+"type": "Person",
+"text": "worker"
+}
+]
+},
+{
+"text": "party",
+"location": [
+920,
+925
+],
+"entities": [
+{
+"type": "Organization",
+"text": "party",
+"disambiguation": {
+"subtype": [
+"Political"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "managerOf",
+"sentence": "His leadership under trying circumstances will be the thing to watch out for,\" said a BJP leader.",
+"score": 0.396418,
+"arguments": [
+{
+"text": "His",
+"location": [
+1175,
+1178
+],
+"entities": [
+{
+"type": "Person",
+"text": "Yeddyurappa"
+}
+]
+},
+{
+"text": "leadership",
+"location": [
+1179,
+1189
+],
+"entities": [
+{
+"type": "Person",
+"text": "leadership"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "His leadership under trying circumstances will be the thing to watch out for,\" said a BJP leader.",
+"score": 0.912424,
+"arguments": [
+{
+"text": "BJP leader",
+"location": [
+1261,
+1271
+],
+"entities": [
+{
+"type": "Person",
+"text": "BJP leader"
+}
+]
+},
+{
+"text": "said",
+"location": [
+1254,
+1258
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "There has been a strong message from the party central leadership to the state unit, asking it to wait and watch, and not create a situation which will undermine the credibility of the party ahead of the 2019 elections.",
+"score": 0.25432,
+"arguments": [
+{
+"text": "leadership",
+"location": [
+1328,
+1338
+],
+"entities": [
+{
+"type": "Person",
+"text": "leadership"
+}
+]
+},
+{
+"text": "party",
+"location": [
+1314,
+1319
+],
+"entities": [
+{
+"type": "Organization",
+"text": "party",
+"disambiguation": {
+"subtype": [
+"Political"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "There has been a strong message from the party central leadership to the state unit, asking it to wait and watch, and not create a situation which will undermine the credibility of the party ahead of the 2019 elections.",
+"score": 0.546386,
+"arguments": [
+{
+"text": "leadership",
+"location": [
+1328,
+1338
+],
+"entities": [
+{
+"type": "Person",
+"text": "leadership"
+}
+]
+},
+{
+"text": "central",
+"location": [
+1320,
+1327
+],
+"entities": [
+{
+"type": "Location",
+"text": "central"
+}
+]
+}
+]
+},
+{
+"type": "partOf",
+"sentence": "There has been a strong message from the party central leadership to the state unit, asking it to wait and watch, and not create a situation which will undermine the credibility of the party ahead of the 2019 elections.",
+"score": 0.985352,
+"arguments": [
+{
+"text": "unit",
+"location": [
+1352,
+1356
+],
+"entities": [
+{
+"type": "Organization",
+"text": "unit"
+}
+]
+},
+{
+"text": "state",
+"location": [
+1346,
+1351
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "state"
+}
+]
+}
+]
+},
+{
+"type": "timeOf",
+"sentence": "There has been a strong message from the party central leadership to the state unit, asking it to wait and watch, and not create a situation which will undermine the credibility of the party ahead of the 2019 elections.",
+"score": 0.921465,
+"arguments": [
+{
+"text": "2019",
+"location": [
+1477,
+1481
+],
+"entities": [
+{
+"type": "Date",
+"text": "2019"
+}
+]
+},
+{
+"text": "elections",
+"location": [
+1482,
+1491
+],
+"entities": [
+{
+"type": "EventElection",
+"text": "general elections"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Affirming this, BJP MLA CT Ravi said: \"When there is a flood, the tiger and the deer will both try to ride it out on the same island.",
+"score": 0.970582,
+"arguments": [
+{
+"text": "BJP MLA CT Ravi",
+"location": [
+1509,
+1524
+],
+"entities": [
+{
+"type": "Organization",
+"text": "BJP MLA CT Ravi",
+"disambiguation": {
+"subtype": [
+"Commercial"
+]
+}
+}
+]
+},
+{
+"text": "said",
+"location": [
+1525,
+1529
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "memberOf",
+"sentence": "While Operation Lotus 2.0 is still on the cards with outgoing CM himself hinting at possible mid-term polls, party sources said BJP will not try to woo MLAs from rival parties till the are concluded.",
+"score": 0.554246,
+"arguments": [
+{
+"text": "sources",
+"location": [
+356,
+363
+],
+"entities": [
+{
+"type": "Person",
+"text": "sources"
+}
+]
+},
+{
+"text": "party",
+"location": [
+350,
+355
+],
+"entities": [
+{
+"type": "Organization",
+"text": "party",
+"disambiguation": {
+"subtype": [
+"Political"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "While Operation Lotus 2.0 is still on the cards with outgoing CM himself hinting at possible mid-term polls, party sources said BJP will not try to woo MLAs from rival parties till the are concluded.",
+"score": 0.989653,
+"arguments": [
+{
+"text": "sources",
+"location": [
+356,
+363
+],
+"entities": [
+{
+"type": "Person",
+"text": "sources"
+}
+]
+},
+{
+"text": "said",
+"location": [
+364,
+368
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "In the process, BJP is also trying to evade any sort of counter consolidation in the Old Mysuru and Hyderabad-Karnataka regions for JD(S) and play the responsible opposition.",
+"score": 0.549951,
+"arguments": [
+{
+"text": "Old Mysuru",
+"location": [
+526,
+536
+],
+"entities": [
+{
+"type": "Facility",
+"text": "Old Mysuru"
+}
+]
+},
+{
+"text": "Hyderabad",
+"location": [
+541,
+550
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Hyderabad"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "In the process, BJP is also trying to evade any sort of counter consolidation in the Old Mysuru and Hyderabad-Karnataka regions for JD(S) and play the responsible opposition.",
+"score": 0.593494,
+"arguments": [
+{
+"text": "Old Mysuru",
+"location": [
+526,
+536
+],
+"entities": [
+{
+"type": "Facility",
+"text": "Old Mysuru"
+}
+]
+},
+{
+"text": "regions",
+"location": [
+561,
+568
+],
+"entities": [
+{
+"type": "Location",
+"text": "regions"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "In the process, BJP is also trying to evade any sort of counter consolidation in the Old Mysuru and Hyderabad-Karnataka regions for JD(S) and play the responsible opposition.",
+"score": 0.600544,
+"arguments": [
+{
+"text": "regions",
+"location": [
+561,
+568
+],
+"entities": [
+{
+"type": "Location",
+"text": "regions"
+}
+]
+},
+{
+"text": "Hyderabad",
+"location": [
+541,
+550
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Hyderabad"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "In the process, BJP is also trying to evade any sort of counter consolidation in the Old Mysuru and Hyderabad-Karnataka regions for JD(S) and play the responsible opposition.",
+"score": 0.786757,
+"arguments": [
+{
+"text": "regions",
+"location": [
+561,
+568
+],
+"entities": [
+{
+"type": "Location",
+"text": "regions"
+}
+]
+},
+{
+"text": "Karnataka",
+"location": [
+551,
+560
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Karnataka"
+}
+]
+}
+]
+},
+{
+"type": "timeOf",
+"sentence": "Further, Yeddyurappa will also be milking the \"betrayal\" done to him and further reinforce his hold over the community prior to next year's general elections.",
+"score": 0.91902,
+"arguments": [
+{
+"text": "next year",
+"location": [
+744,
+753
+],
+"entities": [
+{
+"type": "Date",
+"text": "next year"
+}
+]
+},
+{
+"text": "general elections",
+"location": [
+756,
+773
+],
+"entities": [
+{
+"type": "EventElection",
+"text": "general elections"
+}
+]
+}
+]
+},
+{
+"type": "timeOf",
+"sentence": "\"He will travel through the state ahead of the 2019 elections and speak of the unholy alliance which has cost a Lingayat leader his due,\" said a party worker.",
+"score": 0.932257,
+"arguments": [
+{
+"text": "2019",
+"location": [
+822,
+826
+],
+"entities": [
+{
+"type": "Date",
+"text": "2019"
+}
+]
+},
+{
+"text": "elections",
+"location": [
+827,
+836
+],
+"entities": [
+{
+"type": "EventElection",
+"text": "general elections"
+}
+]
+}
+]
+}
+],
+"language": "en",
+"keywords": [
+{
+"text": "BJP MLA CT",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.931311,
+"emotion": {
+"sadness": 0.060347,
+"joy": 0.012739,
+"fear": 0.072901,
+"disgust": 0.133466,
+"anger": 0.187122
+}
+},
+{
+"text": "possible mid-term polls",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.750982,
+"emotion": {
+"sadness": 0.161467,
+"joy": 0.097038,
+"fear": 0.10691,
+"disgust": 0.119313,
+"anger": 0.055704
+}
+},
+{
+"text": "BJP leader",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.733381,
+"emotion": {
+"sadness": 0.226653,
+"joy": 0.06584,
+"fear": 0.149739,
+"disgust": 0.504388,
+"anger": 0.236066
+}
+},
+{
+"text": "best possible opposition",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.722813,
+"emotion": {
+"sadness": 0.011955,
+"joy": 0.331094,
+"fear": 0.046328,
+"disgust": 0.021071,
+"anger": 0.054134
+}
+},
+{
+"text": "Vidhana Soudha naduguvadhu",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.64279,
+"emotion": {
+"sadness": 0.144548,
+"joy": 0.185315,
+"fear": 0.087573,
+"disgust": 0.077654,
+"anger": 0.090723
+}
+}
+],
+"entities": [
+{
+"type": "Organization",
+"text": "BJP",
+"sentiment": {
+"score": -0.246393,
+"label": "negative"
+},
+"relevance": 0.95066,
+"emotion": {
+"sadness": 0.056138,
+"joy": 0.429705,
+"fear": 0.089561,
+"disgust": 0.058897,
+"anger": 0.199522
+},
+"count": 5
+},
+{
+"type": "Company",
+"text": "Yeddyurappa",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.326133,
+"emotion": {
+"sadness": 0.033359,
+"joy": 0.643165,
+"fear": 0.032839,
+"disgust": 0.045973,
+"anger": 0.084274
+},
+"count": 3
+},
+{
+"type": "Person",
+"text": "Vidhana Soudha",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.221737,
+"emotion": {
+"sadness": 0.0995,
+"joy": 0.067971,
+"fear": 0.791009,
+"disgust": 0.066199,
+"anger": 0.206184
+},
+"count": 2
+},
+{
+"type": "Person",
+"text": "Ravi",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.195099,
+"emotion": {
+"sadness": 0.060347,
+"joy": 0.012739,
+"fear": 0.072901,
+"disgust": 0.133466,
+"anger": 0.187122
+},
+"count": 1
+},
+{
+"type": "Company",
+"text": "Lingayat",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.191416,
+"emotion": {
+"sadness": 0.132057,
+"joy": 0.089064,
+"fear": 0.089756,
+"disgust": 0.107161,
+"anger": 0.172991
+},
+"count": 1
+}
+],
+"concepts": [
+{
+"text": "Political party",
+"relevance": 0.919418,
+"dbpedia_resource": "http://dbpedia.org/resource/Political_party"
+},
+{
+"text": "Voting",
+"relevance": 0.817598,
+"dbpedia_resource": "http://dbpedia.org/resource/Voting"
+},
+{
+"text": "Bharatiya Janata Party",
+"relevance": 0.760016,
+"dbpedia_resource": "http://dbpedia.org/resource/Bharatiya_Janata_Party"
+},
+{
+"text": "Coalition government",
+"relevance": 0.735887,
+"dbpedia_resource": "http://dbpedia.org/resource/Coalition_government"
+},
+{
+"text": "Karnataka",
+"relevance": 0.723046,
+"dbpedia_resource": "http://dbpedia.org/resource/Karnataka"
+}
+],
+"categories": [
+{
+"score": 0.507259,
+"label": "/law, govt and politics/politics/elections"
+},
+{
+"score": 0.379178,
+"label": "/business and industrial/company/earnings"
+},
+{
+"score": 0.311334,
+"label": "/law, govt and politics/politics/political parties"
+}
+]
+}
+}

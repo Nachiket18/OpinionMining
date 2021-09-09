@@ -1,0 +1,722 @@
+{
+"source_article_link": "https://timesofindia.indiatimes.com/india/pakistan-should-stop-state-repression-in-balochistan-india/articleshow/65344680.cms?&utm_source=Articleshow&utm_medium=Organic&utm_campaign=Related_Stories",
+"title": "Pakistan should stop 'state repression' in Balochistan: India",
+"date_published": "2018-08-09T23:14:20+05:30",
+"source_type": "news_article",
+"source_name": "timesofindia.indiatimes.com",
+"image_link": [],
+"article_body": "NEW DELHI: India on Thursday said should stop \"state repression\" and \"gross violation of \" in . It also urged Pakistan to take care of its minorities in accordance with the international obligations. Asked about the issue of Balochistan during a press briefing here, ministry of external affairs spokesperson said, \"Our position remains the same. Pakistan should take care of its minorities in accordance with the international obligations. It should stop state repression and gross violation of human rights in that region.\"",
+"description": "NEW DELHI: India on Thursday said should stop \"state repression\" and \"gross violation of \" in . It also urged Pakistan to take care of its minorities in accordance with the international obligations.",
+"time_scraped": "2018-08-22 18:01:26.389978",
+"article_id": "65344680",
+"article_category": "IndiaNews",
+"image_details": [],
+"ibm_nlu": {
+"usage": {
+"text_units": 1,
+"text_characters": 525,
+"features": 7
+},
+"sentiment": {
+"document": {
+"score": -0.760489,
+"label": "negative"
+}
+},
+"semantic_roles": [
+{
+"subject": {
+"text": "It"
+},
+"sentence": " It also urged Pakistan to take care of its minorities in accordance with the international obligations.",
+"object": {
+"text": "Pakistan"
+},
+"action": {
+"verb": {
+"text": "urge",
+"tense": "past"
+},
+"text": "urged",
+"normalized": "urge"
+}
+},
+{
+"subject": {
+"text": "Pakistan"
+},
+"sentence": " It also urged Pakistan to take care of its minorities in accordance with the international obligations.",
+"object": {
+"text": "care"
+},
+"action": {
+"verb": {
+"text": "take",
+"tense": "future"
+},
+"text": "to take",
+"normalized": "to take"
+}
+},
+{
+"subject": {
+"text": "Pakistan"
+},
+"sentence": " Pakistan should take care of its minorities in accordance with the international obligations.",
+"object": {
+"text": "care"
+},
+"action": {
+"verb": {
+"text": "take",
+"tense": "future"
+},
+"text": "should take",
+"normalized": "should take"
+}
+},
+{
+"subject": {
+"text": "Pakistan"
+},
+"sentence": " Pakistan should take care of its minorities in accordance with the international obligations.",
+"object": {
+"text": "of its minorities"
+},
+"action": {
+"verb": {
+"text": "care",
+"tense": "future"
+},
+"text": "care",
+"normalized": "care"
+}
+},
+{
+"subject": {
+"text": "It"
+},
+"sentence": " It should stop state repression and gross violation of human rights in that region.\"",
+"object": {
+"text": "state repression and gross violation of human rights in that region"
+},
+"action": {
+"verb": {
+"text": "stop",
+"tense": "future"
+},
+"text": "should stop",
+"normalized": "should stop"
+}
+}
+],
+"relations": [
+{
+"type": "locatedAt",
+"sentence": "NEW DELHI: India on Thursday said should stop \"state repression\" and \"gross violation of \" in .",
+"score": 0.671333,
+"arguments": [
+{
+"text": "NEW DELHI",
+"location": [
+0,
+9
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "NEW DELHI"
+}
+]
+},
+{
+"text": "India",
+"location": [
+11,
+16
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "India",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "timeOf",
+"sentence": "NEW DELHI: India on Thursday said should stop \"state repression\" and \"gross violation of \" in .",
+"score": 0.914969,
+"arguments": [
+{
+"text": "Thursday",
+"location": [
+20,
+28
+],
+"entities": [
+{
+"type": "Date",
+"text": "Thursday"
+}
+]
+},
+{
+"text": "said",
+"location": [
+29,
+33
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "It also urged Pakistan to take care of its minorities in accordance with the international obligations.",
+"score": 0.837937,
+"arguments": [
+{
+"text": "Pakistan",
+"location": [
+110,
+118
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Pakistan",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+},
+{
+"text": "urged",
+"location": [
+104,
+109
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "urged"
+}
+]
+}
+]
+},
+{
+"type": "partOf",
+"sentence": "It also urged Pakistan to take care of its minorities in accordance with the international obligations.",
+"score": 0.885591,
+"arguments": [
+{
+"text": "minorities",
+"location": [
+139,
+149
+],
+"entities": [
+{
+"type": "Organization",
+"text": "minorities"
+}
+]
+},
+{
+"text": "its",
+"location": [
+135,
+138
+],
+"entities": [
+{
+"type": "Organization",
+"text": "its"
+}
+]
+}
+]
+},
+{
+"type": "partOf",
+"sentence": "Pakistan should take care of its minorities in accordance with the international obligations.",
+"score": 0.872428,
+"arguments": [
+{
+"text": "minorities",
+"location": [
+380,
+390
+],
+"entities": [
+{
+"type": "Organization",
+"text": "minorities"
+}
+]
+},
+{
+"text": "its",
+"location": [
+376,
+379
+],
+"entities": [
+{
+"type": "Organization",
+"text": "its"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "Asked about the issue of Balochistan during a press briefing here, ministry of external affairs spokesperson said, \"Our position remains the same.",
+"score": 0.677126,
+"arguments": [
+{
+"text": "briefing",
+"location": [
+252,
+260
+],
+"entities": [
+{
+"type": "EventMeeting",
+"text": "briefing"
+}
+]
+},
+{
+"text": "Balochistan",
+"location": [
+225,
+236
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Balochistan"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "Asked about the issue of Balochistan during a press briefing here, ministry of external affairs spokesperson said, \"Our position remains the same.",
+"score": 0.715598,
+"arguments": [
+{
+"text": "briefing",
+"location": [
+252,
+260
+],
+"entities": [
+{
+"type": "EventMeeting",
+"text": "briefing"
+}
+]
+},
+{
+"text": "here",
+"location": [
+261,
+265
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Balochistan"
+}
+]
+}
+]
+},
+{
+"type": "participantIn",
+"sentence": "Asked about the issue of Balochistan during a press briefing here, ministry of external affairs spokesperson said, \"Our position remains the same.",
+"score": 0.636296,
+"arguments": [
+{
+"text": "ministry",
+"location": [
+267,
+275
+],
+"entities": [
+{
+"type": "Organization",
+"text": "ministry",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+},
+{
+"text": "briefing",
+"location": [
+252,
+260
+],
+"entities": [
+{
+"type": "EventMeeting",
+"text": "briefing"
+}
+]
+}
+]
+},
+{
+"type": "basedIn",
+"sentence": "Asked about the issue of Balochistan during a press briefing here, ministry of external affairs spokesperson said, \"Our position remains the same.",
+"score": 0.372178,
+"arguments": [
+{
+"text": "ministry",
+"location": [
+267,
+275
+],
+"entities": [
+{
+"type": "Organization",
+"text": "ministry",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+},
+{
+"text": "here",
+"location": [
+261,
+265
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Balochistan"
+}
+]
+}
+]
+},
+{
+"type": "managerOf",
+"sentence": "Asked about the issue of Balochistan during a press briefing here, ministry of external affairs spokesperson said, \"Our position remains the same.",
+"score": 0.337439,
+"arguments": [
+{
+"text": "spokesperson",
+"location": [
+296,
+308
+],
+"entities": [
+{
+"type": "Person",
+"text": "spokesperson"
+}
+]
+},
+{
+"text": "ministry",
+"location": [
+267,
+275
+],
+"entities": [
+{
+"type": "Organization",
+"text": "ministry",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Asked about the issue of Balochistan during a press briefing here, ministry of external affairs spokesperson said, \"Our position remains the same.",
+"score": 0.964923,
+"arguments": [
+{
+"text": "spokesperson",
+"location": [
+296,
+308
+],
+"entities": [
+{
+"type": "Person",
+"text": "spokesperson"
+}
+]
+},
+{
+"text": "said",
+"location": [
+309,
+313
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+}
+],
+"language": "en",
+"keywords": [
+{
+"text": "gross violation",
+"sentiment": {
+"score": -0.677729,
+"label": "negative"
+},
+"relevance": 0.923623,
+"emotion": {
+"sadness": 0.174642,
+"joy": 0.011853,
+"fear": 0.165168,
+"disgust": 0.64888,
+"anger": 0.174439
+}
+},
+{
+"text": "state repression",
+"sentiment": {
+"score": -0.815447,
+"label": "negative"
+},
+"relevance": 0.838132,
+"emotion": {
+"sadness": 0.269056,
+"joy": 0.016069,
+"fear": 0.230498,
+"disgust": 0.501905,
+"anger": 0.152702
+}
+},
+{
+"text": "international obligations",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.762057,
+"emotion": {
+"sadness": 0.202472,
+"joy": 0.219949,
+"fear": 0.066669,
+"disgust": 0.033798,
+"anger": 0.084281
+}
+},
+{
+"text": "NEW DELHI",
+"sentiment": {
+"score": 0.271413,
+"label": "positive"
+},
+"relevance": 0.626173,
+"emotion": {
+"sadness": 0.115132,
+"joy": 0.596039,
+"fear": 0.084006,
+"disgust": 0.034674,
+"anger": 0.046922
+}
+},
+{
+"text": "press briefing",
+"sentiment": {
+"score": -0.339837,
+"label": "negative"
+},
+"relevance": 0.581791,
+"emotion": {
+"sadness": 0.357868,
+"joy": 0.049839,
+"fear": 0.058755,
+"disgust": 0.061868,
+"anger": 0.318982
+}
+}
+],
+"entities": [
+{
+"type": "Location",
+"text": "Pakistan",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.903255,
+"emotion": {
+"sadness": 0.202472,
+"joy": 0.219949,
+"fear": 0.066669,
+"disgust": 0.033798,
+"anger": 0.084281
+},
+"disambiguation": {
+"subtype": [
+"GovernmentalJurisdiction",
+"Country"
+],
+"name": "Pakistan",
+"dbpedia_resource": "http://dbpedia.org/resource/Pakistan"
+},
+"count": 2
+},
+{
+"type": "Location",
+"text": "Balochistan",
+"sentiment": {
+"score": -0.339837,
+"label": "negative"
+},
+"relevance": 0.623268,
+"emotion": {
+"sadness": 0.357868,
+"joy": 0.049839,
+"fear": 0.058755,
+"disgust": 0.061868,
+"anger": 0.318982
+},
+"disambiguation": {
+"subtype": [
+"Region"
+]
+},
+"count": 1
+},
+{
+"type": "Location",
+"text": "DELHI",
+"sentiment": {
+"score": 0.271413,
+"label": "positive"
+},
+"relevance": 0.518076,
+"emotion": {
+"sadness": 0.115132,
+"joy": 0.596039,
+"fear": 0.084006,
+"disgust": 0.034674,
+"anger": 0.046922
+},
+"disambiguation": {
+"subtype": [
+"Country"
+]
+},
+"count": 1
+},
+{
+"type": "Location",
+"text": "India",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.438644,
+"emotion": {
+"sadness": 0.488932,
+"joy": 0.074491,
+"fear": 0.174106,
+"disgust": 0.046354,
+"anger": 0.420881
+},
+"disambiguation": {
+"subtype": [
+"HumanLanguage",
+"Region",
+"GovernmentalJurisdiction",
+"FilmEditor",
+"Country"
+],
+"name": "India",
+"dbpedia_resource": "http://dbpedia.org/resource/India"
+},
+"count": 1
+}
+],
+"concepts": [
+{
+"text": "India",
+"relevance": 0.9653,
+"dbpedia_resource": "http://dbpedia.org/resource/India"
+},
+{
+"text": "Human rights",
+"relevance": 0.876061,
+"dbpedia_resource": "http://dbpedia.org/resource/Human_rights"
+},
+{
+"text": "United States",
+"relevance": 0.778005,
+"dbpedia_resource": "http://dbpedia.org/resource/United_States"
+},
+{
+"text": "Pakistan",
+"relevance": 0.774016,
+"dbpedia_resource": "http://dbpedia.org/resource/Pakistan"
+},
+{
+"text": "Delhi",
+"relevance": 0.749013,
+"dbpedia_resource": "http://dbpedia.org/resource/Delhi"
+}
+],
+"categories": [
+{
+"score": 0.557876,
+"label": "/law, govt and politics/legal issues/human rights"
+},
+{
+"score": 0.352609,
+"label": "/travel/specialty travel/sightseeing tours"
+},
+{
+"score": 0.342682,
+"label": "/business and industrial/aerospace and defense/space technology"
+}
+]
+}
+}

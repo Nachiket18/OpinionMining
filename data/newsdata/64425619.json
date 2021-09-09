@@ -1,0 +1,1906 @@
+{
+"source_article_link": "https://timesofindia.indiatimes.com/india/united-nations-chief-thanks-india-for-strong-sustained-support-to-peacekeeping/articleshow/64425619.cms?&utm_source=Articleshow&utm_medium=Organic&utm_campaign=Related_Stories",
+"title": "United Nations chief thanks India for strong, sustained support to peacekeeping",
+"date_published": "2018-06-02T12:22:03+05:30",
+"source_type": "news_article",
+"source_name": "timesofindia.indiatimes.com",
+"image_link": [
+"https://timesofindia.indiatimes.com/thumb/msid-64425685,imgsize-60674,width-400,resizemode-4/64425685.jpg"
+],
+"article_body": "UNITED NATIONS: UN Secretary General has thanked India for its \"strong and sustained\" support to peacekeeping as he honoured the memory of the 163 Indian peacekeepers who sacrificed their lives in the line of duty. He also referred to the 125-strong women peacekeepers of the Indian Formed Police Unit deployed with the UN mission in , the first ever such contingent, calling them \"an inspiration to all\". \"I thank the government of India for their strong and sustained support to UN peacekeeping...You have indeed given a very strong contribution to global solidarity and to international peace and security,\" Guterres said while addressing a tea reception hosted by India at the world body's headquarters on Friday on the occasion of the International Day of Peacekeeping. Guterres said India has always been one of the largest troop contributing country to peacekeeping operations and currently about 7,700 Indian peacekeepers are deployed around the world, a majority in in and . He said there was a need to recognise the enormous importance of women soldiers and women police for making a difference in local communities. \"This is a pioneer initiative from India that needs to be underlined,\" he said. Guterres paid tributes to the 163 peacekeepers from India who sacrificed their lives serving in various peacekeeping missions. He noted that India has lost the highest number of peacekeepers in UN peacekeeping's 70 year history. Of the 3,737 peacekeepers who have died since 1948, 163 have been from India, which is the highest total from any troop contributing country. \"The total 163 Indian peacekeepers, the highest number of all troop contributing countries, have given their lives for peace. We recognize their service and sacrifice as well as the service and sacrifice of all those from all countries that have fallen in the line of duty,\" he said. Guterres said troop contributing countries have made enormous sacrifices and have troops in the \"most dangerous locations in the world to protect the lives of citizens of other countries.\"",
+"description": "Antonio  Guterres said India has always been one of the largest troop contributing country to peacekeeping operations and currently about 7,700 Indian peacekeepers are deployed around the world, a majority in in South Sudan and Congo. He said there was a need to recognise the enormous importance of women soldiers and women police for making a difference in local communities. ",
+"time_scraped": "2018-08-22 15:01:33.884962",
+"article_id": "64425619",
+"article_category": "IndiaNews",
+"image_details": [
+{
+"url": "https://timesofindia.indiatimes.com/thumb/msid-64425685,imgsize-60674,width-400,resizemode-4/64425685.jpg",
+"path": "full/4f2d2074e7c9e0daeff647ee5d7c5ad31736fd4a.jpg",
+"checksum": "2c8f01da0a37dc0d2ed3af28e564ff91"
+}
+],
+"ibm_nlu": {
+"usage": {
+"text_units": 1,
+"text_characters": 2050,
+"features": 7
+},
+"sentiment": {
+"document": {
+"score": -0.181567,
+"label": "negative"
+}
+},
+"semantic_roles": [
+{
+"subject": {
+"text": "UN Secretary General"
+},
+"sentence": "UNITED NATIONS: UN Secretary General has thanked India for its \"strong and sustained\" support to peacekeeping as he honoured the memory of the 163 Indian peacekeepers who sacrificed their lives in the line of duty.",
+"object": {
+"text": "thanked India"
+},
+"action": {
+"verb": {
+"text": "have",
+"tense": "present"
+},
+"text": "has",
+"normalized": "have"
+}
+},
+{
+"subject": {
+"text": "UN Secretary General"
+},
+"sentence": "UNITED NATIONS: UN Secretary General has thanked India for its \"strong and sustained\" support to peacekeeping as he honoured the memory of the 163 Indian peacekeepers who sacrificed their lives in the line of duty.",
+"object": {
+"text": "India"
+},
+"action": {
+"verb": {
+"text": "thank",
+"tense": "past"
+},
+"text": "has thanked",
+"normalized": "have thank"
+}
+},
+{
+"subject": {
+"text": "UN Secretary General"
+},
+"sentence": "UNITED NATIONS: UN Secretary General has thanked India for its \"strong and sustained\" support to peacekeeping as he honoured the memory of the 163 Indian peacekeepers who sacrificed their lives in the line of duty.",
+"object": {
+"text": "support"
+},
+"action": {
+"verb": {
+"text": "sustain",
+"tense": "past"
+},
+"text": "its ``strong and sustained",
+"normalized": "its ``strong and sustain"
+}
+},
+{
+"subject": {
+"text": "he"
+},
+"sentence": "UNITED NATIONS: UN Secretary General has thanked India for its \"strong and sustained\" support to peacekeeping as he honoured the memory of the 163 Indian peacekeepers who sacrificed their lives in the line of duty.",
+"object": {
+"text": "the memory of the 163 Indian peacekeepers who sacrificed their lives in the line of duty"
+},
+"action": {
+"verb": {
+"text": "honour",
+"tense": "past"
+},
+"text": "honoured",
+"normalized": "honour"
+}
+},
+{
+"subject": {
+"text": "the 163 Indian peacekeepers"
+},
+"sentence": "UNITED NATIONS: UN Secretary General has thanked India for its \"strong and sustained\" support to peacekeeping as he honoured the memory of the 163 Indian peacekeepers who sacrificed their lives in the line of duty.",
+"object": {
+"text": "their lives"
+},
+"action": {
+"verb": {
+"text": "sacrifice",
+"tense": "past"
+},
+"text": "sacrificed",
+"normalized": "sacrifice"
+}
+},
+{
+"subject": {
+"text": "He"
+},
+"sentence": " He also referred to the 125-strong women peacekeepers of the Indian Formed Police Unit deployed with the UN mission in , the first ever such contingent, calling them \"an inspiration to all\".",
+"object": {
+"text": "to the 125-strong women peacekeepers of the Indian Formed Police Unit deployed with the UN mission in , the first ever such contingent, calling them \"an inspiration to all\""
+},
+"action": {
+"verb": {
+"text": "refer",
+"tense": "past"
+},
+"text": "referred",
+"normalized": "refer"
+}
+},
+{
+"subject": {
+"text": "You"
+},
+"sentence": " \"I thank the government of India for their strong and sustained support to UN peacekeeping...You have indeed given a very strong contribution to global solidarity and to international peace and security,\" Guterres said while addressing a tea reception hosted by India at the world body's headquarters on Friday on the occasion of the International Day of Peacekeeping.",
+"object": {
+"text": "a very strong contribution to global solidarity and to international peace and security"
+},
+"action": {
+"verb": {
+"text": "give",
+"tense": "past"
+},
+"text": "have indeed given",
+"normalized": "have indeed give"
+}
+},
+{
+"subject": {
+"text": "Guterres"
+},
+"sentence": " \"I thank the government of India for their strong and sustained support to UN peacekeeping...You have indeed given a very strong contribution to global solidarity and to international peace and security,\" Guterres said while addressing a tea reception hosted by India at the world body's headquarters on Friday on the occasion of the International Day of Peacekeeping.",
+"object": {
+"text": "I thank the government of India for their strong and sustained support to UN peacekeeping...You have indeed given a very strong contribution to global solidarity and to international peace and security"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "by India at the world body"
+},
+"sentence": " \"I thank the government of India for their strong and sustained support to UN peacekeeping...You have indeed given a very strong contribution to global solidarity and to international peace and security,\" Guterres said while addressing a tea reception hosted by India at the world body's headquarters on Friday on the occasion of the International Day of Peacekeeping.",
+"object": {
+"text": "a tea reception"
+},
+"action": {
+"verb": {
+"text": "host",
+"tense": "past"
+},
+"text": "hosted",
+"normalized": "host"
+}
+},
+{
+"subject": {
+"text": "Guterres"
+},
+"sentence": " Guterres said India has always been one of the largest troop contributing country to peacekeeping operations and currently about 7,700 Indian peacekeepers are deployed around the world, a majority in in and .",
+"object": {
+"text": "India has always been one of the largest troop contributing country to peacekeeping operations and currently about 7,700 Indian peacekeepers are deployed around the world, a majority in in and "
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "India"
+},
+"sentence": " Guterres said India has always been one of the largest troop contributing country to peacekeeping operations and currently about 7,700 Indian peacekeepers are deployed around the world, a majority in in and .",
+"object": {
+"text": "one of the largest troop contributing country to peacekeeping operations"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "been",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "about 7,700 Indian peacekeepers"
+},
+"sentence": " Guterres said India has always been one of the largest troop contributing country to peacekeeping operations and currently about 7,700 Indian peacekeepers are deployed around the world, a majority in in and .",
+"action": {
+"verb": {
+"text": "deploy",
+"tense": "past"
+},
+"text": "are deployed",
+"normalized": "be deploy"
+}
+},
+{
+"subject": {
+"text": "He"
+},
+"sentence": " He said there was a need to recognise the enormous importance of women soldiers and women police for making a difference in local communities.",
+"object": {
+"text": "there was a need to recognise the enormous importance of women soldiers and women police for making a difference in local communities"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "women soldiers and women police"
+},
+"sentence": " He said there was a need to recognise the enormous importance of women soldiers and women police for making a difference in local communities.",
+"object": {
+"text": "a difference"
+},
+"action": {
+"verb": {
+"text": "make",
+"tense": "present"
+},
+"text": "making",
+"normalized": "make"
+}
+},
+{
+"subject": {
+"text": "This"
+},
+"sentence": " \"This is a pioneer initiative from India that needs to be underlined,\" he said.",
+"object": {
+"text": "a pioneer initiative from India that needs"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "present"
+},
+"text": "is",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "a pioneer initiative"
+},
+"sentence": " \"This is a pioneer initiative from India that needs to be underlined,\" he said.",
+"object": {
+"text": "underlined"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "future"
+},
+"text": "be",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "he"
+},
+"sentence": " \"This is a pioneer initiative from India that needs to be underlined,\" he said.",
+"object": {
+"text": "This is a pioneer initiative from India that needs to be underlined"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "Guterres"
+},
+"sentence": " Guterres paid tributes to the 163 peacekeepers from India who sacrificed their lives serving in various peacekeeping missions.",
+"object": {
+"text": "tributes to the 163 peacekeepers"
+},
+"action": {
+"verb": {
+"text": "pay",
+"tense": "past"
+},
+"text": "paid",
+"normalized": "pay"
+}
+},
+{
+"subject": {
+"text": "the 163 peacekeepers"
+},
+"sentence": " Guterres paid tributes to the 163 peacekeepers from India who sacrificed their lives serving in various peacekeeping missions.",
+"object": {
+"text": "their lives serving in various peacekeeping missions"
+},
+"action": {
+"verb": {
+"text": "sacrifice",
+"tense": "past"
+},
+"text": "sacrificed",
+"normalized": "sacrifice"
+}
+},
+{
+"subject": {
+"text": "the 163 peacekeepers"
+},
+"sentence": " Guterres paid tributes to the 163 peacekeepers from India who sacrificed their lives serving in various peacekeeping missions.",
+"action": {
+"verb": {
+"text": "serve",
+"tense": "present"
+},
+"text": "serving",
+"normalized": "serve"
+}
+},
+{
+"subject": {
+"text": "He"
+},
+"sentence": " He noted that India has lost the highest number of peacekeepers in UN peacekeeping's 70 year history.",
+"object": {
+"text": "that India has lost the highest number of peacekeepers in UN peacekeeping's 70 year history"
+},
+"action": {
+"verb": {
+"text": "note",
+"tense": "past"
+},
+"text": "noted",
+"normalized": "note"
+}
+},
+{
+"subject": {
+"text": "died"
+},
+"sentence": " Of the 3,737 peacekeepers who have died since 1948, 163 have been from India, which is the highest total from any troop contributing country.",
+"action": {
+"verb": {
+"text": "have",
+"tense": "present"
+},
+"text": "have",
+"normalized": "have"
+}
+},
+{
+"subject": {
+"text": "the 3,737 peacekeepers"
+},
+"sentence": " Of the 3,737 peacekeepers who have died since 1948, 163 have been from India, which is the highest total from any troop contributing country.",
+"action": {
+"verb": {
+"text": "die",
+"tense": "past"
+},
+"text": "have died",
+"normalized": "have die"
+}
+},
+{
+"subject": {
+"text": "any troop"
+},
+"sentence": " Of the 3,737 peacekeepers who have died since 1948, 163 have been from India, which is the highest total from any troop contributing country.",
+"object": {
+"text": "country"
+},
+"action": {
+"verb": {
+"text": "contribute",
+"tense": "present"
+},
+"text": "contributing",
+"normalized": "contribute"
+}
+},
+{
+"subject": {
+"text": "The total 163 Indian peacekeepers, the highest number of all troop contributing countries,"
+},
+"sentence": " \"The total 163 Indian peacekeepers, the highest number of all troop contributing countries, have given their lives for peace.",
+"object": {
+"text": "their lives for peace"
+},
+"action": {
+"verb": {
+"text": "give",
+"tense": "past"
+},
+"text": "have given",
+"normalized": "have give"
+}
+},
+{
+"subject": {
+"text": "We"
+},
+"sentence": " We recognize their service and sacrifice as well as the service and sacrifice of all those from all countries that have fallen in the line of duty,\" he said.",
+"object": {
+"text": "their service"
+},
+"action": {
+"verb": {
+"text": "recognize",
+"tense": "present"
+},
+"text": "recognize",
+"normalized": "recognize"
+}
+},
+{
+"subject": {
+"text": "fallen"
+},
+"sentence": " We recognize their service and sacrifice as well as the service and sacrifice of all those from all countries that have fallen in the line of duty,\" he said.",
+"action": {
+"verb": {
+"text": "have",
+"tense": "present"
+},
+"text": "have",
+"normalized": "have"
+}
+},
+{
+"subject": {
+"text": "all those from all countries"
+},
+"sentence": " We recognize their service and sacrifice as well as the service and sacrifice of all those from all countries that have fallen in the line of duty,\" he said.",
+"action": {
+"verb": {
+"text": "fall",
+"tense": "past"
+},
+"text": "have fallen",
+"normalized": "have fall"
+}
+},
+{
+"subject": {
+"text": "he"
+},
+"sentence": " We recognize their service and sacrifice as well as the service and sacrifice of all those from all countries that have fallen in the line of duty,\" he said.",
+"object": {
+"text": "We recognize their service and sacrifice as well as the service and sacrifice of all those from all countries that have fallen in the line of duty"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "Guterres"
+},
+"sentence": " Guterres said troop contributing countries have made enormous sacrifices and have troops in the \"most dangerous locations in the world to protect the lives of citizens of other countries.\"",
+"object": {
+"text": "troop contributing countries have made enormous sacrifices and have troops in the \"most dangerous locations in the world to protect the lives of citizens of other countries"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "troop contributing countries"
+},
+"sentence": " Guterres said troop contributing countries have made enormous sacrifices and have troops in the \"most dangerous locations in the world to protect the lives of citizens of other countries.\"",
+"object": {
+"text": "troops"
+},
+"action": {
+"verb": {
+"text": "have",
+"tense": "present"
+},
+"text": "have",
+"normalized": "have"
+}
+}
+],
+"relations": [
+{
+"type": "employedBy",
+"sentence": "UNITED NATIONS: UN Secretary General has thanked India for its \"strong and sustained\" support to peacekeeping as he honoured the memory of the 163 Indian peacekeepers who sacrificed their lives in the line of duty.",
+"score": 0.477698,
+"arguments": [
+{
+"text": "Secretary General",
+"location": [
+19,
+36
+],
+"entities": [
+{
+"type": "Person",
+"text": "Secretary General"
+}
+]
+},
+{
+"text": "UN",
+"location": [
+16,
+18
+],
+"entities": [
+{
+"type": "Organization",
+"text": "UNITED NATIONS",
+"disambiguation": {
+"subtype": [
+"Multigov"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "\"I thank the government of India for their strong and sustained support to UN peacekeeping...You have indeed given a very strong contribution to global solidarity and to international peace and security,\" Guterres said while addressing a tea reception hosted by India at the world body's headquarters on Friday on the occasion of the International Day of Peacekeeping.",
+"score": 0.983231,
+"arguments": [
+{
+"text": "UN",
+"location": [
+481,
+483
+],
+"entities": [
+{
+"type": "Organization",
+"text": "UNITED NATIONS",
+"disambiguation": {
+"subtype": [
+"Multigov"
+]
+}
+}
+]
+},
+{
+"text": "peacekeeping",
+"location": [
+484,
+496
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "peacekeeping"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "\"I thank the government of India for their strong and sustained support to UN peacekeeping...You have indeed given a very strong contribution to global solidarity and to international peace and security,\" Guterres said while addressing a tea reception hosted by India at the world body's headquarters on Friday on the occasion of the International Day of Peacekeeping.",
+"score": 0.996611,
+"arguments": [
+{
+"text": "Guterres",
+"location": [
+611,
+619
+],
+"entities": [
+{
+"type": "Person",
+"text": "Guterres"
+}
+]
+},
+{
+"text": "said",
+"location": [
+620,
+624
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "noted"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Guterres said India has always been one of the largest troop contributing country to peacekeeping operations and currently about 7,700 Indian peacekeepers are deployed around the world, a majority in in and .",
+"score": 0.996852,
+"arguments": [
+{
+"text": "Guterres",
+"location": [
+775,
+783
+],
+"entities": [
+{
+"type": "Person",
+"text": "Guterres"
+}
+]
+},
+{
+"text": "said",
+"location": [
+784,
+788
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "noted"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "He said there was a need to recognise the enormous importance of women soldiers and women police for making a difference in local communities.",
+"score": 0.983549,
+"arguments": [
+{
+"text": "He",
+"location": [
+984,
+986
+],
+"entities": [
+{
+"type": "Person",
+"text": "Guterres"
+}
+]
+},
+{
+"text": "said",
+"location": [
+987,
+991
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "noted"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "\"This is a pioneer initiative from India that needs to be underlined,\" he said.",
+"score": 0.983071,
+"arguments": [
+{
+"text": "he",
+"location": [
+1198,
+1200
+],
+"entities": [
+{
+"type": "Person",
+"text": "Guterres"
+}
+]
+},
+{
+"text": "said",
+"location": [
+1201,
+1205
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "noted"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "He noted that India has lost the highest number of peacekeepers in UN peacekeeping's 70 year history.",
+"score": 0.986928,
+"arguments": [
+{
+"text": "He",
+"location": [
+1334,
+1336
+],
+"entities": [
+{
+"type": "Person",
+"text": "Guterres"
+}
+]
+},
+{
+"text": "noted",
+"location": [
+1337,
+1342
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "noted"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "We recognize their service and sacrifice as well as the service and sacrifice of all those from all countries that have fallen in the line of duty,\" he said.",
+"score": 0.985655,
+"arguments": [
+{
+"text": "he",
+"location": [
+1853,
+1855
+],
+"entities": [
+{
+"type": "Person",
+"text": "Guterres"
+}
+]
+},
+{
+"text": "said",
+"location": [
+1856,
+1860
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "noted"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Guterres said troop contributing countries have made enormous sacrifices and have troops in the \"most dangerous locations in the world to protect the lives of citizens of other countries.\"",
+"score": 0.994302,
+"arguments": [
+{
+"text": "Guterres",
+"location": [
+1862,
+1870
+],
+"entities": [
+{
+"type": "Person",
+"text": "Guterres"
+}
+]
+},
+{
+"text": "said",
+"location": [
+1871,
+1875
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "noted"
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "\"I thank the government of India for their strong and sustained support to UN peacekeeping...You have indeed given a very strong contribution to global solidarity and to international peace and security,\" Guterres said while addressing a tea reception hosted by India at the world body's headquarters on Friday on the occasion of the International Day of Peacekeeping.",
+"score": 0.378982,
+"arguments": [
+{
+"text": "body",
+"location": [
+687,
+691
+],
+"entities": [
+{
+"type": "Person",
+"text": "body"
+}
+]
+},
+{
+"text": "world",
+"location": [
+681,
+686
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "world",
+"disambiguation": {
+"subtype": [
+"Area"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "\"I thank the government of India for their strong and sustained support to UN peacekeeping...You have indeed given a very strong contribution to global solidarity and to international peace and security,\" Guterres said while addressing a tea reception hosted by India at the world body's headquarters on Friday on the occasion of the International Day of Peacekeeping.",
+"score": 0.731359,
+"arguments": [
+{
+"text": "headquarters",
+"location": [
+694,
+706
+],
+"entities": [
+{
+"type": "Facility",
+"text": "headquarters"
+}
+]
+},
+{
+"text": "world",
+"location": [
+681,
+686
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "world",
+"disambiguation": {
+"subtype": [
+"Area"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "ownerOf",
+"sentence": "\"I thank the government of India for their strong and sustained support to UN peacekeeping...You have indeed given a very strong contribution to global solidarity and to international peace and security,\" Guterres said while addressing a tea reception hosted by India at the world body's headquarters on Friday on the occasion of the International Day of Peacekeeping.",
+"score": 0.423136,
+"arguments": [
+{
+"text": "body",
+"location": [
+687,
+691
+],
+"entities": [
+{
+"type": "Person",
+"text": "body"
+}
+]
+},
+{
+"text": "headquarters",
+"location": [
+694,
+706
+],
+"entities": [
+{
+"type": "Facility",
+"text": "headquarters"
+}
+]
+}
+]
+},
+{
+"type": "residesIn",
+"sentence": "Guterres said India has always been one of the largest troop contributing country to peacekeeping operations and currently about 7,700 Indian peacekeepers are deployed around the world, a majority in in and .",
+"score": 0.430467,
+"arguments": [
+{
+"text": "troop",
+"location": [
+830,
+835
+],
+"entities": [
+{
+"type": "Person",
+"text": "troop"
+}
+]
+},
+{
+"text": "country",
+"location": [
+849,
+856
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "country"
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "He said there was a need to recognise the enormous importance of women soldiers and women police for making a difference in local communities.",
+"score": 0.257719,
+"arguments": [
+{
+"text": "women",
+"location": [
+1068,
+1073
+],
+"entities": [
+{
+"type": "Person",
+"text": "women"
+}
+]
+},
+{
+"text": "police",
+"location": [
+1074,
+1080
+],
+"entities": [
+{
+"type": "Organization",
+"text": "police",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "Guterres paid tributes to the 163 peacekeepers from India who sacrificed their lives serving in various peacekeeping missions.",
+"score": 0.479191,
+"arguments": [
+{
+"text": "peacekeepers",
+"location": [
+1241,
+1253
+],
+"entities": [
+{
+"type": "Person",
+"text": "women peacekeepers"
+}
+]
+},
+{
+"text": "India",
+"location": [
+1259,
+1264
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "India",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "partOfMany",
+"sentence": "Guterres paid tributes to the 163 peacekeepers from India who sacrificed their lives serving in various peacekeeping missions.",
+"score": 0.495726,
+"arguments": [
+{
+"text": "who",
+"location": [
+1265,
+1268
+],
+"entities": [
+{
+"type": "Person",
+"text": "Guterres"
+}
+]
+},
+{
+"text": "their",
+"location": [
+1280,
+1285
+],
+"entities": [
+{
+"type": "Person",
+"text": "women peacekeepers"
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "He noted that India has lost the highest number of peacekeepers in UN peacekeeping's 70 year history.",
+"score": 0.448828,
+"arguments": [
+{
+"text": "peacekeepers",
+"location": [
+1385,
+1397
+],
+"entities": [
+{
+"type": "Person",
+"text": "women peacekeepers"
+}
+]
+},
+{
+"text": "UN",
+"location": [
+1401,
+1403
+],
+"entities": [
+{
+"type": "Organization",
+"text": "UNITED NATIONS",
+"disambiguation": {
+"subtype": [
+"Multigov"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "UNITED NATIONS: UN Secretary General has thanked India for its \"strong and sustained\" support to peacekeeping as he honoured the memory of the 163 Indian peacekeepers who sacrificed their lives in the line of duty.",
+"score": 0.497956,
+"arguments": [
+{
+"text": "India",
+"location": [
+49,
+54
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "India",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+},
+{
+"text": "thanked",
+"location": [
+41,
+48
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "thanked"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "He noted that India has lost the highest number of peacekeepers in UN peacekeeping's 70 year history.",
+"score": 0.447722,
+"arguments": [
+{
+"text": "peacekeepers",
+"location": [
+1385,
+1397
+],
+"entities": [
+{
+"type": "Person",
+"text": "women peacekeepers"
+}
+]
+},
+{
+"text": "peacekeeping",
+"location": [
+1404,
+1416
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "peacekeeping"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "He noted that India has lost the highest number of peacekeepers in UN peacekeeping's 70 year history.",
+"score": 0.977741,
+"arguments": [
+{
+"text": "UN",
+"location": [
+1401,
+1403
+],
+"entities": [
+{
+"type": "Organization",
+"text": "UNITED NATIONS",
+"disambiguation": {
+"subtype": [
+"Multigov"
+]
+}
+}
+]
+},
+{
+"text": "peacekeeping",
+"location": [
+1404,
+1416
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "peacekeeping"
+}
+]
+}
+]
+},
+{
+"type": "residesIn",
+"sentence": "Of the 3,737 peacekeepers who have died since 1948, 163 have been from India, which is the highest total from any troop contributing country.",
+"score": 0.512075,
+"arguments": [
+{
+"text": "troop",
+"location": [
+1550,
+1555
+],
+"entities": [
+{
+"type": "Person",
+"text": "troop"
+}
+]
+},
+{
+"text": "country",
+"location": [
+1569,
+1576
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "country"
+}
+]
+}
+]
+},
+{
+"type": "partOfMany",
+"sentence": "\"The total 163 Indian peacekeepers, the highest number of all troop contributing countries, have given their lives for peace.",
+"score": 0.823742,
+"arguments": [
+{
+"text": "peacekeepers",
+"location": [
+1600,
+1612
+],
+"entities": [
+{
+"type": "Person",
+"text": "women peacekeepers"
+}
+]
+},
+{
+"text": "Indian",
+"location": [
+1593,
+1599
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Indian",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "Guterres said troop contributing countries have made enormous sacrifices and have troops in the \"most dangerous locations in the world to protect the lives of citizens of other countries.\"",
+"score": 0.516391,
+"arguments": [
+{
+"text": "troops",
+"location": [
+1944,
+1950
+],
+"entities": [
+{
+"type": "Person",
+"text": "troops"
+}
+]
+},
+{
+"text": "locations",
+"location": [
+1974,
+1983
+],
+"entities": [
+{
+"type": "Location",
+"text": "locations"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "Guterres said troop contributing countries have made enormous sacrifices and have troops in the \"most dangerous locations in the world to protect the lives of citizens of other countries.\"",
+"score": 0.978118,
+"arguments": [
+{
+"text": "locations",
+"location": [
+1974,
+1983
+],
+"entities": [
+{
+"type": "Location",
+"text": "locations"
+}
+]
+},
+{
+"text": "world",
+"location": [
+1991,
+1996
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "world",
+"disambiguation": {
+"subtype": [
+"Area"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "partOfMany",
+"sentence": "UNITED NATIONS: UN Secretary General has thanked India for its \"strong and sustained\" support to peacekeeping as he honoured the memory of the 163 Indian peacekeepers who sacrificed their lives in the line of duty.",
+"score": 0.805258,
+"arguments": [
+{
+"text": "peacekeepers",
+"location": [
+154,
+166
+],
+"entities": [
+{
+"type": "Person",
+"text": "women peacekeepers"
+}
+]
+},
+{
+"text": "Indian",
+"location": [
+147,
+153
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Indian",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "partOfMany",
+"sentence": "Guterres said India has always been one of the largest troop contributing country to peacekeeping operations and currently about 7,700 Indian peacekeepers are deployed around the world, a majority in in and .",
+"score": 0.847898,
+"arguments": [
+{
+"text": "peacekeepers",
+"location": [
+917,
+929
+],
+"entities": [
+{
+"type": "Person",
+"text": "women peacekeepers"
+}
+]
+},
+{
+"text": "Indian",
+"location": [
+910,
+916
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Indian",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "He also referred to the 125-strong women peacekeepers of the Indian Formed Police Unit deployed with the UN mission in , the first ever such contingent, calling them \"an inspiration to all\".",
+"score": 0.935454,
+"arguments": [
+{
+"text": "He",
+"location": [
+215,
+217
+],
+"entities": [
+{
+"type": "Person",
+"text": "Secretary General"
+}
+]
+},
+{
+"text": "referred",
+"location": [
+223,
+231
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "referred"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "He also referred to the 125-strong women peacekeepers of the Indian Formed Police Unit deployed with the UN mission in , the first ever such contingent, calling them \"an inspiration to all\".",
+"score": 0.639072,
+"arguments": [
+{
+"text": "women peacekeepers",
+"location": [
+250,
+268
+],
+"entities": [
+{
+"type": "Person",
+"text": "women peacekeepers"
+}
+]
+},
+{
+"text": "referred",
+"location": [
+223,
+231
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "referred"
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "He also referred to the 125-strong women peacekeepers of the Indian Formed Police Unit deployed with the UN mission in , the first ever such contingent, calling them \"an inspiration to all\".",
+"score": 0.587968,
+"arguments": [
+{
+"text": "women peacekeepers",
+"location": [
+250,
+268
+],
+"entities": [
+{
+"type": "Person",
+"text": "women peacekeepers"
+}
+]
+},
+{
+"text": "Police Unit",
+"location": [
+290,
+301
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Police Unit"
+}
+]
+}
+]
+},
+{
+"type": "partOf",
+"sentence": "He also referred to the 125-strong women peacekeepers of the Indian Formed Police Unit deployed with the UN mission in , the first ever such contingent, calling them \"an inspiration to all\".",
+"score": 0.438656,
+"arguments": [
+{
+"text": "Police Unit",
+"location": [
+290,
+301
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Police Unit"
+}
+]
+},
+{
+"text": "Indian",
+"location": [
+276,
+282
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Indian"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "He also referred to the 125-strong women peacekeepers of the Indian Formed Police Unit deployed with the UN mission in , the first ever such contingent, calling them \"an inspiration to all\".",
+"score": 0.901454,
+"arguments": [
+{
+"text": "them",
+"location": [
+376,
+380
+],
+"entities": [
+{
+"type": "Person",
+"text": "women peacekeepers"
+}
+]
+},
+{
+"text": "calling",
+"location": [
+368,
+375
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "calling"
+}
+]
+}
+]
+},
+{
+"type": "basedIn",
+"sentence": "\"I thank the government of India for their strong and sustained support to UN peacekeeping...You have indeed given a very strong contribution to global solidarity and to international peace and security,\" Guterres said while addressing a tea reception hosted by India at the world body's headquarters on Friday on the occasion of the International Day of Peacekeeping.",
+"score": 0.357462,
+"arguments": [
+{
+"text": "government",
+"location": [
+419,
+429
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "India",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+},
+{
+"text": "India",
+"location": [
+433,
+438
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "India",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+}
+]
+}
+],
+"language": "en",
+"keywords": [
+{
+"text": "Indian peacekeepers",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.909943,
+"emotion": {
+"sadness": 0.525381,
+"joy": 0.336287,
+"fear": 0.052227,
+"disgust": 0.023325,
+"anger": 0.091578
+}
+},
+{
+"text": "125-strong women peacekeepers",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.791621,
+"emotion": {
+"sadness": 0.155305,
+"joy": 0.211385,
+"fear": 0.075615,
+"disgust": 0.280706,
+"anger": 0.084386
+}
+},
+{
+"text": "troop contributing countries",
+"sentiment": {
+"score": -0.671299,
+"label": "negative"
+},
+"relevance": 0.730897,
+"emotion": {
+"sadness": 0.499591,
+"joy": 0.164377,
+"fear": 0.090161,
+"disgust": 0.094325,
+"anger": 0.052614
+}
+},
+{
+"text": "various peacekeeping missions",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.662828,
+"emotion": {
+"sadness": 0.486082,
+"joy": 0.315449,
+"fear": 0.013008,
+"disgust": 0.206216,
+"anger": 0.02472
+}
+},
+{
+"text": "Formed Police Unit",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.591305,
+"emotion": {
+"sadness": 0.155305,
+"joy": 0.211385,
+"fear": 0.075615,
+"disgust": 0.280706,
+"anger": 0.084386
+}
+}
+],
+"entities": [
+{
+"type": "Location",
+"text": "India",
+"sentiment": {
+"score": 0.689145,
+"label": "positive"
+},
+"relevance": 0.901628,
+"emotion": {
+"sadness": 0.524324,
+"joy": 0.606957,
+"fear": 0.059534,
+"disgust": 0.100613,
+"anger": 0.050304
+},
+"disambiguation": {
+"subtype": [
+"HumanLanguage",
+"Region",
+"GovernmentalJurisdiction",
+"FilmEditor",
+"Country"
+],
+"name": "India",
+"dbpedia_resource": "http://dbpedia.org/resource/India"
+},
+"count": 9
+},
+{
+"type": "Person",
+"text": "Guterres",
+"sentiment": {
+"score": -0.638677,
+"label": "negative"
+},
+"relevance": 0.601278,
+"emotion": {
+"sadness": 0.581142,
+"joy": 0.576168,
+"fear": 0.085354,
+"disgust": 0.119694,
+"anger": 0.056134
+},
+"count": 7
+},
+{
+"type": "Organization",
+"text": "UN",
+"sentiment": {
+"score": 0.720343,
+"label": "positive"
+},
+"relevance": 0.597641,
+"emotion": {
+"sadness": 0.261986,
+"joy": 0.295175,
+"fear": 0.074539,
+"disgust": 0.25435,
+"anger": 0.067932
+},
+"disambiguation": {
+"subtype": [
+"MembershipOrganization",
+"AwardWinner",
+"GovernmentalBody",
+"TouristAttraction"
+],
+"name": "United Nations",
+"dbpedia_resource": "http://dbpedia.org/resource/United_Nations"
+},
+"count": 4
+},
+{
+"type": "Organization",
+"text": "International Day of Peacekeeping",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.401691,
+"emotion": {
+"sadness": 0.212722,
+"joy": 0.698676,
+"fear": 0.043008,
+"disgust": 0.038616,
+"anger": 0.018809
+},
+"count": 1
+},
+{
+"type": "Organization",
+"text": "Indian Formed Police Unit",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.350014,
+"emotion": {
+"sadness": 0.155305,
+"joy": 0.211385,
+"fear": 0.075615,
+"disgust": 0.280706,
+"anger": 0.084386
+},
+"count": 1
+}
+],
+"concepts": [
+{
+"text": "United Nations",
+"relevance": 0.98642,
+"dbpedia_resource": "http://dbpedia.org/resource/United_Nations"
+},
+{
+"text": "Peace",
+"relevance": 0.861964,
+"dbpedia_resource": "http://dbpedia.org/resource/Peace"
+},
+{
+"text": "Peacekeeping",
+"relevance": 0.852772,
+"dbpedia_resource": "http://dbpedia.org/resource/Peacekeeping"
+},
+{
+"text": "Indian Peace Keeping Force",
+"relevance": 0.62178,
+"dbpedia_resource": "http://dbpedia.org/resource/Indian_Peace_Keeping_Force"
+},
+{
+"text": "Sacrifice",
+"relevance": 0.559471,
+"dbpedia_resource": "http://dbpedia.org/resource/Sacrifice"
+}
+],
+"categories": [
+{
+"score": 0.488644,
+"label": "/law, govt and politics/legal issues/human rights"
+},
+{
+"score": 0.380323,
+"label": "/science/social science/history"
+},
+{
+"score": 0.340733,
+"label": "/law, govt and politics/armed forces/army"
+}
+]
+}
+}

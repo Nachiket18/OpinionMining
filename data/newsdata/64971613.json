@@ -1,0 +1,1599 @@
+{
+"source_article_link": "https://timesofindia.indiatimes.com/india/uk-ireland-style-open-border-best-solution-for-kashmir-farooq-abdullah/articleshow/64971613.cms?&utm_source=Articleshow&utm_medium=Organic&utm_campaign=Related_Stories",
+"title": "UK-Ireland style open border best solution for Kashmir: Farooq Abdullah",
+"date_published": "2018-07-13T11:15:18+05:30",
+"source_type": "news_article",
+"source_name": "timesofindia.indiatimes.com",
+"image_link": [
+"https://timesofindia.indiatimes.com/thumb/msid-64971614,imgsize-78288,width-400,resizemode-4/64971614.jpg"
+],
+"article_body": "LONDON: Former Jammu and Kashmir chief minister has proposed an Ireland-style solution of an open border between the UK-governed Northern Ireland and the Irish Republic's adjacent territory as the best option to resolve the Kashmir issue. The National Conference (NC) leader, who is here on a visit, said India and Pakistan must realise that there is no military solution to the problem. \"Like Ireland, the only roadmap forward is two Kashmirs with an easy border and autonomy,\" he said, during a discussion organised by South Asia Institute at the School of Oriental and African Studies in London yesterday. \"Kashmir can be solved if both these nations, now nuclear powers, realise that whatever solution has to emerge, everybody will not accept it. But at least 70-80 per cent of people of India, Pakistan, Jammu and Kashmir and Ladakh should accept it,\" he said. The Ireland-style solution refers to the Common Travel Area shared between the UK and neighbouring Ireland, dating back to the 1920s. Under the arrangement, citizens of either country require minimal identity documents to travel through each other's territories. At the UK launch of 'The Spy Chronicles: RAW, ISI and the Illusion of Peace', co-authored by former RAW chief A S Dulat and former ISI chief Lt Gen (retd.) Asad Durrani, the Kashmiri leader reiterated that \"hard methods\" will not win over the hearts of the people in the region. \"Let's stop fooling each other... neither side is going to give up any ground. The only way forward is talks,\" he said, adding that leaders on both sides must work to counter the \"vested interests\" for whom the region is a \"money-spinner\" through the sale of guns and ammunition. Describing Abdullah as \"the best foreign minister India never had\", Dulat reflected on the book's key tenets, which include working towards a Kashmir which is a \"bridge between India and Pakistan\". \"Let's hope Kashmir becomes an area of cooperation, rather than conflict,\" he said. The former chief of the Research and Analysis Wing and former Special Director of the Intelligence Bureau, also put forward the prospect of greater intelligence cooperation between the two countries as a way forward.",
+"description": "LONDON: Former Jammu and Kashmir chief minister has proposed an Ireland-style solution of an open border between the UK-governed Northern Ireland and the Irish Republic's adjacent territory as the best option to resolve the Kashmir issue. The National Conference (NC) leader, who is here on a visit, said India and Pakistan must realise that there is no military solution to the problem. \"Like Ireland, the only roadmap forward is two Kashmirs with an easy border and autonomy,\" he said, during a discussion organised by South Asia Institute at the School of Oriental and African Studies in London yesterday. \"Kashmir can be solved if both these nations, now nuclear powers, realise that whatever solution has to emerge, everybody will not accept it. But at least 70-80 per cent of people of India, Pakistan, Jammu and Kashmir and Ladakh should accept it,\" he said.",
+"time_scraped": "2018-08-22 18:01:23.325161",
+"article_id": "64971613",
+"article_category": "IndiaNews",
+"image_details": [
+{
+"url": "https://timesofindia.indiatimes.com/thumb/msid-64971614,imgsize-78288,width-400,resizemode-4/64971614.jpg",
+"path": "full/521a82f3cc4605a2c5606c82480e1168a3e4bf1b.jpg",
+"checksum": "838ca6c4f80a5e520188aeb07fdeab43"
+}
+],
+"ibm_nlu": {
+"usage": {
+"text_units": 1,
+"text_characters": 2186,
+"features": 7
+},
+"sentiment": {
+"document": {
+"score": -0.47657,
+"label": "negative"
+}
+},
+"semantic_roles": [
+{
+"subject": {
+"text": "Former Jammu and Kashmir chief minister"
+},
+"sentence": "LONDON: Former Jammu and Kashmir chief minister has proposed an Ireland-style solution of an open border between the UK-governed Northern Ireland and the Irish Republic's adjacent territory as the best option to resolve the Kashmir issue.",
+"object": {
+"text": "proposed an Ireland-style solution of an open border between the UK-governed Northern Ireland and the Irish Republic's adjacent territory as the best option to resolve the Kashmir issue"
+},
+"action": {
+"verb": {
+"text": "have",
+"tense": "present"
+},
+"text": "has",
+"normalized": "have"
+}
+},
+{
+"subject": {
+"text": "Former Jammu and Kashmir chief minister"
+},
+"sentence": "LONDON: Former Jammu and Kashmir chief minister has proposed an Ireland-style solution of an open border between the UK-governed Northern Ireland and the Irish Republic's adjacent territory as the best option to resolve the Kashmir issue.",
+"object": {
+"text": "an Ireland-style solution of an open border between the UK-governed Northern Ireland and the Irish Republic's adjacent territory as the best option to resolve the Kashmir issue"
+},
+"action": {
+"verb": {
+"text": "propose",
+"tense": "past"
+},
+"text": "has proposed",
+"normalized": "have propose"
+}
+},
+{
+"subject": {
+"text": "The National Conference (NC) leader"
+},
+"sentence": " The National Conference (NC) leader, who is here on a visit, said India and Pakistan must realise that there is no military solution to the problem.",
+"object": {
+"text": "here"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "present"
+},
+"text": "is",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "India and Pakistan"
+},
+"sentence": " The National Conference (NC) leader, who is here on a visit, said India and Pakistan must realise that there is no military solution to the problem.",
+"object": {
+"text": "that there is no military solution to the problem"
+},
+"action": {
+"verb": {
+"text": "realise",
+"tense": "future"
+},
+"text": "must realise",
+"normalized": "must realise"
+}
+},
+{
+"subject": {
+"text": "no military solution"
+},
+"sentence": " The National Conference (NC) leader, who is here on a visit, said India and Pakistan must realise that there is no military solution to the problem.",
+"object": {
+"text": "to the problem"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "future"
+},
+"text": "is",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "the only roadmap forward"
+},
+"sentence": " \"Like Ireland, the only roadmap forward is two Kashmirs with an easy border and autonomy,\" he said, during a discussion organised by South Asia Institute at the School of Oriental and African Studies in London yesterday.",
+"object": {
+"text": "two Kashmirs"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "present"
+},
+"text": "is",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "he"
+},
+"sentence": " \"Like Ireland, the only roadmap forward is two Kashmirs with an easy border and autonomy,\" he said, during a discussion organised by South Asia Institute at the School of Oriental and African Studies in London yesterday.",
+"object": {
+"text": "Like Ireland, the only roadmap forward is two Kashmirs with an easy border and autonomy"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "by South Asia Institute"
+},
+"sentence": " \"Like Ireland, the only roadmap forward is two Kashmirs with an easy border and autonomy,\" he said, during a discussion organised by South Asia Institute at the School of Oriental and African Studies in London yesterday.",
+"object": {
+"text": "a discussion"
+},
+"action": {
+"verb": {
+"text": "organise",
+"tense": "past"
+},
+"text": "organised",
+"normalized": "organise"
+}
+},
+{
+"subject": {
+"text": "both these nations, now nuclear powers,"
+},
+"sentence": " \"Kashmir can be solved if both these nations, now nuclear powers, realise that whatever solution has to emerge, everybody will not accept it.",
+"object": {
+"text": "that whatever solution has to emerge"
+},
+"action": {
+"verb": {
+"text": "realise",
+"tense": "present"
+},
+"text": "realise",
+"normalized": "realise"
+}
+},
+{
+"subject": {
+"text": "everybody"
+},
+"sentence": " \"Kashmir can be solved if both these nations, now nuclear powers, realise that whatever solution has to emerge, everybody will not accept it.",
+"object": {
+"text": "it"
+},
+"action": {
+"verb": {
+"text": "accept",
+"tense": "future",
+"negated": true
+},
+"text": "accept",
+"normalized": "accept"
+}
+},
+{
+"subject": {
+"text": "people of India, Pakistan, Jammu and Kashmir and Ladakh"
+},
+"sentence": " But at least 70-80 per cent of people of India, Pakistan, Jammu and Kashmir and Ladakh should accept it,\" he said.",
+"object": {
+"text": "it"
+},
+"action": {
+"verb": {
+"text": "accept",
+"tense": "future"
+},
+"text": "should accept",
+"normalized": "should accept"
+}
+},
+{
+"subject": {
+"text": "he"
+},
+"sentence": " But at least 70-80 per cent of people of India, Pakistan, Jammu and Kashmir and Ladakh should accept it,\" he said.",
+"object": {
+"text": "at least 70-80 per cent of people of India, Pakistan, Jammu and Kashmir and Ladakh should accept it"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "the Common Travel Area"
+},
+"sentence": " The Ireland-style solution refers to the Common Travel Area shared between the UK and neighbouring Ireland, dating back to the 1920s.",
+"object": {
+"text": "between the UK and neighbouring Ireland"
+},
+"action": {
+"verb": {
+"text": "share",
+"tense": "past"
+},
+"text": "shared",
+"normalized": "share"
+}
+},
+{
+"subject": {
+"text": "the Common Travel Area shared between the UK and neighbouring Ireland"
+},
+"sentence": " The Ireland-style solution refers to the Common Travel Area shared between the UK and neighbouring Ireland, dating back to the 1920s.",
+"object": {
+"text": "to the 1920s"
+},
+"action": {
+"verb": {
+"text": "date",
+"tense": "present"
+},
+"text": "dating",
+"normalized": "date"
+}
+},
+{
+"subject": {
+"text": "citizens of either country"
+},
+"sentence": " Under the arrangement, citizens of either country require minimal identity documents to travel through each other's territories.",
+"object": {
+"text": "minimal identity documents to travel through each other's territories"
+},
+"action": {
+"verb": {
+"text": "require",
+"tense": "present"
+},
+"text": "require",
+"normalized": "require"
+}
+},
+{
+"subject": {
+"text": "Asad Durrani, the Kashmiri leader"
+},
+"sentence": " Asad Durrani, the Kashmiri leader reiterated that \"hard methods\" will not win over the hearts of the people in the region.",
+"object": {
+"text": "that \"hard methods\" will not win over the hearts of the people in the region"
+},
+"action": {
+"verb": {
+"text": "reiterate",
+"tense": "past"
+},
+"text": "reiterated",
+"normalized": "reiterate"
+}
+},
+{
+"subject": {
+"text": "hard methods\""
+},
+"sentence": " Asad Durrani, the Kashmiri leader reiterated that \"hard methods\" will not win over the hearts of the people in the region.",
+"action": {
+"verb": {
+"text": "win",
+"tense": "future",
+"negated": true
+},
+"text": "win",
+"normalized": "win"
+}
+},
+{
+"subject": {
+"text": "neither side"
+},
+"sentence": " \"Let's stop fooling each other... neither side is going to give up any ground.",
+"object": {
+"text": "each other"
+},
+"action": {
+"verb": {
+"text": "fool",
+"tense": "present"
+},
+"text": "stop fooling",
+"normalized": "stop fool"
+}
+},
+{
+"subject": {
+"text": "neither side"
+},
+"sentence": " \"Let's stop fooling each other... neither side is going to give up any ground.",
+"object": {
+"text": "any ground"
+},
+"action": {
+"verb": {
+"text": "give",
+"tense": "future"
+},
+"text": "is going to give",
+"normalized": "be go to give"
+}
+},
+{
+"subject": {
+"text": "he"
+},
+"sentence": " The only way forward is talks,\" he said, adding that leaders on both sides must work to counter the \"vested interests\" for whom the region is a \"money-spinner\" through the sale of guns and ammunition.",
+"object": {
+"text": "The only way forward is talks"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "he"
+},
+"sentence": " The only way forward is talks,\" he said, adding that leaders on both sides must work to counter the \"vested interests\" for whom the region is a \"money-spinner\" through the sale of guns and ammunition.",
+"object": {
+"text": "that leaders on both sides must work to counter the \"vested interests\" for whom the region is a \"money-spinner\" through the sale of guns and ammunition"
+},
+"action": {
+"verb": {
+"text": "add",
+"tense": "present"
+},
+"text": "adding",
+"normalized": "add"
+}
+},
+{
+"subject": {
+"text": "leaders on both sides"
+},
+"sentence": " The only way forward is talks,\" he said, adding that leaders on both sides must work to counter the \"vested interests\" for whom the region is a \"money-spinner\" through the sale of guns and ammunition.",
+"action": {
+"verb": {
+"text": "work",
+"tense": "future"
+},
+"text": "work",
+"normalized": "work"
+}
+},
+{
+"subject": {
+"text": "Abdullah"
+},
+"sentence": " Describing Abdullah as \"the best foreign minister India never had\", Dulat reflected on the book's key tenets, which include working towards a Kashmir which is a \"bridge between India and Pakistan\".",
+"object": {
+"text": "as \"the best foreign minister India never had\""
+},
+"action": {
+"verb": {
+"text": "Describing",
+"tense": "present"
+},
+"text": "Describing",
+"normalized": "Describing"
+}
+},
+{
+"subject": {
+"text": "the best foreign minister India"
+},
+"sentence": " Describing Abdullah as \"the best foreign minister India never had\", Dulat reflected on the book's key tenets, which include working towards a Kashmir which is a \"bridge between India and Pakistan\".",
+"action": {
+"verb": {
+"text": "have",
+"tense": "past"
+},
+"text": "had",
+"normalized": "have"
+}
+},
+{
+"subject": {
+"text": "Dulat"
+},
+"sentence": " Describing Abdullah as \"the best foreign minister India never had\", Dulat reflected on the book's key tenets, which include working towards a Kashmir which is a \"bridge between India and Pakistan\".",
+"object": {
+"text": "on the book's key tenets, which include working towards a Kashmir which is a \"bridge between India and Pakistan\""
+},
+"action": {
+"verb": {
+"text": "reflect",
+"tense": "past"
+},
+"text": "reflected",
+"normalized": "reflect"
+}
+},
+{
+"subject": {
+"text": "working towards a Kashmir which is a \"bridge between India and Pakistan\""
+},
+"sentence": " Describing Abdullah as \"the best foreign minister India never had\", Dulat reflected on the book's key tenets, which include working towards a Kashmir which is a \"bridge between India and Pakistan\".",
+"object": {
+"text": "the book's key tenets"
+},
+"action": {
+"verb": {
+"text": "include",
+"tense": "present"
+},
+"text": "include",
+"normalized": "include"
+}
+},
+{
+"subject": {
+"text": "Kashmir"
+},
+"sentence": " \"Let's hope Kashmir becomes an area of cooperation, rather than conflict,\" he said.",
+"object": {
+"text": "an area of cooperation, rather than conflict"
+},
+"action": {
+"verb": {
+"text": "become",
+"tense": "present"
+},
+"text": "becomes",
+"normalized": "become"
+}
+},
+{
+"subject": {
+"text": "he"
+},
+"sentence": " \"Let's hope Kashmir becomes an area of cooperation, rather than conflict,\" he said.",
+"object": {
+"text": "Let's hope Kashmir becomes an area of cooperation"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+}
+],
+"relations": [
+{
+"type": "residesIn",
+"sentence": "LONDON: Former Jammu and Kashmir chief minister has proposed an Ireland-style solution of an open border between the UK-governed Northern Ireland and the Irish Republic's adjacent territory as the best option to resolve the Kashmir issue.",
+"score": 0.638267,
+"arguments": [
+{
+"text": "chief minister",
+"location": [
+33,
+47
+],
+"entities": [
+{
+"type": "Person",
+"text": "chief minister"
+}
+]
+},
+{
+"text": "Kashmir",
+"location": [
+25,
+32
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Kashmir"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "\"Like Ireland, the only roadmap forward is two Kashmirs with an easy border and autonomy,\" he said, during a discussion organised by South Asia Institute at the School of Oriental and African Studies in London yesterday.",
+"score": 0.658172,
+"arguments": [
+{
+"text": "School of Oriental and African Studies",
+"location": [
+549,
+587
+],
+"entities": [
+{
+"type": "Organization",
+"text": "School of Oriental and African Studies"
+}
+]
+},
+{
+"text": "London",
+"location": [
+591,
+597
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "LONDON"
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "But at least 70-80 per cent of people of India, Pakistan, Jammu and Kashmir and Ladakh should accept it,\" he said.",
+"score": 0.594196,
+"arguments": [
+{
+"text": "people",
+"location": [
+782,
+788
+],
+"entities": [
+{
+"type": "Person",
+"text": "people"
+}
+]
+},
+{
+"text": "India",
+"location": [
+792,
+797
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "India",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "But at least 70-80 per cent of people of India, Pakistan, Jammu and Kashmir and Ladakh should accept it,\" he said.",
+"score": 0.444629,
+"arguments": [
+{
+"text": "people",
+"location": [
+782,
+788
+],
+"entities": [
+{
+"type": "Person",
+"text": "people"
+}
+]
+},
+{
+"text": "Pakistan",
+"location": [
+799,
+807
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Pakistan",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "residesIn",
+"sentence": "But at least 70-80 per cent of people of India, Pakistan, Jammu and Kashmir and Ladakh should accept it,\" he said.",
+"score": 0.482006,
+"arguments": [
+{
+"text": "people",
+"location": [
+782,
+788
+],
+"entities": [
+{
+"type": "Person",
+"text": "people"
+}
+]
+},
+{
+"text": "Jammu",
+"location": [
+809,
+814
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Jammu"
+}
+]
+}
+]
+},
+{
+"type": "residesIn",
+"sentence": "But at least 70-80 per cent of people of India, Pakistan, Jammu and Kashmir and Ladakh should accept it,\" he said.",
+"score": 0.506693,
+"arguments": [
+{
+"text": "people",
+"location": [
+782,
+788
+],
+"entities": [
+{
+"type": "Person",
+"text": "people"
+}
+]
+},
+{
+"text": "Kashmir",
+"location": [
+819,
+826
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Kashmir"
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "At the UK launch of 'The Spy Chronicles: RAW, ISI and the Illusion of Peace', co-authored by former RAW chief A S Dulat and former ISI chief Lt Gen (retd.",
+"score": 0.601032,
+"arguments": [
+{
+"text": "chief Lt Gen",
+"location": [
+1264,
+1276
+],
+"entities": [
+{
+"type": "Person",
+"text": "chief Lt Gen"
+}
+]
+},
+{
+"text": "ISI",
+"location": [
+1260,
+1263
+],
+"entities": [
+{
+"type": "Organization",
+"text": "ISI",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": ") Asad Durrani, the Kashmiri leader reiterated that \"hard methods\" will not win over the hearts of the people in the region.",
+"score": 0.666217,
+"arguments": [
+{
+"text": "Asad Durrani",
+"location": [
+1285,
+1297
+],
+"entities": [
+{
+"type": "Person",
+"text": "Asad Durrani"
+}
+]
+},
+{
+"text": "reiterated",
+"location": [
+1319,
+1329
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "reiterated"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": ") Asad Durrani, the Kashmiri leader reiterated that \"hard methods\" will not win over the hearts of the people in the region.",
+"score": 0.881123,
+"arguments": [
+{
+"text": "leader",
+"location": [
+1312,
+1318
+],
+"entities": [
+{
+"type": "Person",
+"text": "Asad Durrani"
+}
+]
+},
+{
+"text": "reiterated",
+"location": [
+1319,
+1329
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "reiterated"
+}
+]
+}
+]
+},
+{
+"type": "partOfMany",
+"sentence": ") Asad Durrani, the Kashmiri leader reiterated that \"hard methods\" will not win over the hearts of the people in the region.",
+"score": 0.533716,
+"arguments": [
+{
+"text": "leader",
+"location": [
+1312,
+1318
+],
+"entities": [
+{
+"type": "Person",
+"text": "Asad Durrani"
+}
+]
+},
+{
+"text": "Kashmiri",
+"location": [
+1303,
+1311
+],
+"entities": [
+{
+"type": "Person",
+"text": "Kashmiri"
+}
+]
+}
+]
+},
+{
+"type": "residesIn",
+"sentence": ") Asad Durrani, the Kashmiri leader reiterated that \"hard methods\" will not win over the hearts of the people in the region.",
+"score": 0.747209,
+"arguments": [
+{
+"text": "people",
+"location": [
+1386,
+1392
+],
+"entities": [
+{
+"type": "Person",
+"text": "people"
+}
+]
+},
+{
+"text": "region",
+"location": [
+1400,
+1406
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "region"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "The only way forward is talks,\" he said, adding that leaders on both sides must work to counter the \"vested interests\" for whom the region is a \"money-spinner\" through the sale of guns and ammunition.",
+"score": 0.962206,
+"arguments": [
+{
+"text": "he",
+"location": [
+1519,
+1521
+],
+"entities": [
+{
+"type": "Person",
+"text": "he"
+}
+]
+},
+{
+"text": "said",
+"location": [
+1522,
+1526
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "Describing"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "\"Let's hope Kashmir becomes an area of cooperation, rather than conflict,\" he said.",
+"score": 0.985655,
+"arguments": [
+{
+"text": "he",
+"location": [
+1961,
+1963
+],
+"entities": [
+{
+"type": "Person",
+"text": "he"
+}
+]
+},
+{
+"text": "said",
+"location": [
+1964,
+1968
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "Describing"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "LONDON: Former Jammu and Kashmir chief minister has proposed an Ireland-style solution of an open border between the UK-governed Northern Ireland and the Irish Republic's adjacent territory as the best option to resolve the Kashmir issue.",
+"score": 0.948705,
+"arguments": [
+{
+"text": "chief minister",
+"location": [
+33,
+47
+],
+"entities": [
+{
+"type": "Person",
+"text": "chief minister"
+}
+]
+},
+{
+"text": "proposed",
+"location": [
+52,
+60
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "proposed"
+}
+]
+}
+]
+},
+{
+"type": "residesIn",
+"sentence": "The only way forward is talks,\" he said, adding that leaders on both sides must work to counter the \"vested interests\" for whom the region is a \"money-spinner\" through the sale of guns and ammunition.",
+"score": 0.465286,
+"arguments": [
+{
+"text": "whom",
+"location": [
+1610,
+1614
+],
+"entities": [
+{
+"type": "Person",
+"text": "whom"
+}
+]
+},
+{
+"text": "region",
+"location": [
+1619,
+1625
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "region"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "Describing Abdullah as \"the best foreign minister India never had\", Dulat reflected on the book's key tenets, which include working towards a Kashmir which is a \"bridge between India and Pakistan\".",
+"score": 0.454425,
+"arguments": [
+{
+"text": "Abdullah",
+"location": [
+1699,
+1707
+],
+"entities": [
+{
+"type": "Person",
+"text": "Abdullah"
+}
+]
+},
+{
+"text": "Describing",
+"location": [
+1688,
+1698
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "Describing"
+}
+]
+}
+]
+},
+{
+"type": "partner",
+"sentence": "Describing Abdullah as \"the best foreign minister India never had\", Dulat reflected on the book's key tenets, which include working towards a Kashmir which is a \"bridge between India and Pakistan\".",
+"score": 0.479025,
+"arguments": [
+{
+"text": "India",
+"location": [
+1865,
+1870
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "India",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+},
+{
+"text": "Pakistan",
+"location": [
+1875,
+1883
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Pakistan",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "The former chief of the Research and Analysis Wing and former Special Director of the Intelligence Bureau, also put forward the prospect of greater intelligence cooperation between the two countries as a way forward.",
+"score": 0.515328,
+"arguments": [
+{
+"text": "Special Director",
+"location": [
+2032,
+2048
+],
+"entities": [
+{
+"type": "Person",
+"text": "Special Director"
+}
+]
+},
+{
+"text": "Intelligence Bureau",
+"location": [
+2056,
+2075
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Intelligence Bureau"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "LONDON: Former Jammu and Kashmir chief minister has proposed an Ireland-style solution of an open border between the UK-governed Northern Ireland and the Irish Republic's adjacent territory as the best option to resolve the Kashmir issue.",
+"score": 0.748626,
+"arguments": [
+{
+"text": "border",
+"location": [
+98,
+104
+],
+"entities": [
+{
+"type": "Location",
+"text": "border"
+}
+]
+},
+{
+"text": "UK",
+"location": [
+117,
+119
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "UK",
+"disambiguation": {
+"subtype": [
+"Area"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "LONDON: Former Jammu and Kashmir chief minister has proposed an Ireland-style solution of an open border between the UK-governed Northern Ireland and the Irish Republic's adjacent territory as the best option to resolve the Kashmir issue.",
+"score": 0.579251,
+"arguments": [
+{
+"text": "border",
+"location": [
+98,
+104
+],
+"entities": [
+{
+"type": "Location",
+"text": "border"
+}
+]
+},
+{
+"text": "territory",
+"location": [
+180,
+189
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "LONDON"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "LONDON: Former Jammu and Kashmir chief minister has proposed an Ireland-style solution of an open border between the UK-governed Northern Ireland and the Irish Republic's adjacent territory as the best option to resolve the Kashmir issue.",
+"score": 0.731009,
+"arguments": [
+{
+"text": "territory",
+"location": [
+180,
+189
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "LONDON"
+}
+]
+},
+{
+"text": "Kashmir issue",
+"location": [
+224,
+237
+],
+"entities": [
+{
+"type": "Facility",
+"text": "Kashmir issue"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "\"Like Ireland, the only roadmap forward is two Kashmirs with an easy border and autonomy,\" he said, during a discussion organised by South Asia Institute at the School of Oriental and African Studies in London yesterday.",
+"score": 0.988518,
+"arguments": [
+{
+"text": "he",
+"location": [
+479,
+481
+],
+"entities": [
+{
+"type": "Person",
+"text": "leader"
+}
+]
+},
+{
+"text": "said",
+"location": [
+482,
+486
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "But at least 70-80 per cent of people of India, Pakistan, Jammu and Kashmir and Ladakh should accept it,\" he said.",
+"score": 0.987305,
+"arguments": [
+{
+"text": "he",
+"location": [
+857,
+859
+],
+"entities": [
+{
+"type": "Person",
+"text": "leader"
+}
+]
+},
+{
+"text": "said",
+"location": [
+860,
+864
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "\"Like Ireland, the only roadmap forward is two Kashmirs with an easy border and autonomy,\" he said, during a discussion organised by South Asia Institute at the School of Oriental and African Studies in London yesterday.",
+"score": 0.389125,
+"arguments": [
+{
+"text": "South Asia Institute",
+"location": [
+521,
+541
+],
+"entities": [
+{
+"type": "Organization",
+"text": "South Asia Institute"
+}
+]
+},
+{
+"text": "discussion",
+"location": [
+497,
+507
+],
+"entities": [
+{
+"type": "EventMeeting",
+"text": "discussion"
+}
+]
+}
+]
+},
+{
+"type": "timeOf",
+"sentence": "\"Like Ireland, the only roadmap forward is two Kashmirs with an easy border and autonomy,\" he said, during a discussion organised by South Asia Institute at the School of Oriental and African Studies in London yesterday.",
+"score": 0.493493,
+"arguments": [
+{
+"text": "yesterday",
+"location": [
+598,
+607
+],
+"entities": [
+{
+"type": "Date",
+"text": "yesterday"
+}
+]
+},
+{
+"text": "discussion",
+"location": [
+497,
+507
+],
+"entities": [
+{
+"type": "EventMeeting",
+"text": "discussion"
+}
+]
+}
+]
+},
+{
+"type": "partOf",
+"sentence": "\"Like Ireland, the only roadmap forward is two Kashmirs with an easy border and autonomy,\" he said, during a discussion organised by South Asia Institute at the School of Oriental and African Studies in London yesterday.",
+"score": 0.677735,
+"arguments": [
+{
+"text": "South Asia Institute",
+"location": [
+521,
+541
+],
+"entities": [
+{
+"type": "Organization",
+"text": "South Asia Institute"
+}
+]
+},
+{
+"text": "School of Oriental and African Studies",
+"location": [
+549,
+587
+],
+"entities": [
+{
+"type": "Organization",
+"text": "School of Oriental and African Studies"
+}
+]
+}
+]
+}
+],
+"language": "en",
+"keywords": [
+{
+"text": "Kashmir chief minister",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.965291,
+"emotion": {
+"sadness": 0.301769,
+"joy": 0.395405,
+"fear": 0.020308,
+"disgust": 0.013667,
+"anger": 0.06328
+}
+},
+{
+"text": "ISI chief Lt",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.832667,
+"emotion": {
+"sadness": 0.473281,
+"joy": 0.289299,
+"fear": 0.123124,
+"disgust": 0.111625,
+"anger": 0.168581
+}
+},
+{
+"text": "Kashmir issue",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.821199,
+"emotion": {
+"sadness": 0.301769,
+"joy": 0.395405,
+"fear": 0.020308,
+"disgust": 0.013667,
+"anger": 0.06328
+}
+},
+{
+"text": "UK-governed Northern Ireland",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.815818,
+"emotion": {
+"sadness": 0.301769,
+"joy": 0.395405,
+"fear": 0.020308,
+"disgust": 0.013667,
+"anger": 0.06328
+}
+}
+],
+"entities": [
+{
+"type": "Location",
+"text": "Kashmir",
+"sentiment": {
+"score": -0.609389,
+"label": "negative"
+},
+"relevance": 0.851095,
+"emotion": {
+"sadness": 0.31665,
+"joy": 0.253092,
+"fear": 0.039304,
+"disgust": 0.035048,
+"anger": 0.12938
+},
+"disambiguation": {
+"subtype": [
+"Country"
+]
+},
+"count": 6
+},
+{
+"type": "Location",
+"text": "India",
+"sentiment": {
+"score": -0.156252,
+"label": "negative"
+},
+"relevance": 0.508412,
+"emotion": {
+"sadness": 0.519966,
+"joy": 0.544928,
+"fear": 0.228276,
+"disgust": 0.074864,
+"anger": 0.076431
+},
+"disambiguation": {
+"subtype": [
+"HumanLanguage",
+"Region",
+"GovernmentalJurisdiction",
+"FilmEditor",
+"Country"
+],
+"name": "India",
+"dbpedia_resource": "http://dbpedia.org/resource/India"
+},
+"count": 4
+},
+{
+"type": "Location",
+"text": "Northern Ireland",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.478654,
+"emotion": {
+"sadness": 0.167322,
+"joy": 0.515165,
+"fear": 0.016262,
+"disgust": 0.016798,
+"anger": 0.043831
+},
+"disambiguation": {
+"subtype": [
+"Region"
+]
+},
+"count": 3
+},
+{
+"type": "Location",
+"text": "Pakistan",
+"sentiment": {
+"score": -0.288099,
+"label": "negative"
+},
+"relevance": 0.469522,
+"emotion": {
+"sadness": 0.487293,
+"joy": 0.119234,
+"fear": 0.403663,
+"disgust": 0.036008,
+"anger": 0.129991
+},
+"disambiguation": {
+"subtype": [
+"GovernmentalJurisdiction",
+"Country"
+],
+"name": "Pakistan",
+"dbpedia_resource": "http://dbpedia.org/resource/Pakistan"
+},
+"count": 3
+}
+],
+"concepts": [
+{
+"text": "Kashmir",
+"relevance": 0.97182,
+"dbpedia_resource": "http://dbpedia.org/resource/Kashmir"
+},
+{
+"text": "Pakistan",
+"relevance": 0.854444,
+"dbpedia_resource": "http://dbpedia.org/resource/Pakistan"
+},
+{
+"text": "Jammu and Kashmir",
+"relevance": 0.730461,
+"dbpedia_resource": "http://dbpedia.org/resource/Jammu_and_Kashmir"
+},
+{
+"text": "Kashmir conflict",
+"relevance": 0.69391,
+"dbpedia_resource": "http://dbpedia.org/resource/Kashmir_conflict"
+},
+{
+"text": "Kashmiri language",
+"relevance": 0.660636,
+"dbpedia_resource": "http://dbpedia.org/resource/Kashmiri_language"
+}
+],
+"categories": [
+{
+"score": 0.305049,
+"label": "/law, govt and politics/government"
+},
+{
+"score": 0.302507,
+"label": "/religion and spirituality/hinduism"
+},
+{
+"score": 0.260665,
+"label": "/religion and spirituality/islam"
+}
+]
+}
+}

@@ -1,0 +1,1235 @@
+{
+"source_article_link": "https://timesofindia.indiatimes.com/india/nia-registers-case-against-8-isis-sympathisers-from-kerala/articleshow/64419427.cms?&utm_source=Articleshow&utm_medium=Organic&utm_campaign=Related_Stories",
+"title": "NIA registers case against 8 'ISIS sympathisers' from Kerala",
+"date_published": "2018-06-01T21:32:23+05:30",
+"source_type": "news_article",
+"source_name": "timesofindia.indiatimes.com",
+"image_link": [
+"https://timesofindia.indiatimes.com/thumb/msid-64419428,imgsize-172040,width-400,resizemode-4/64419428.jpg"
+],
+"article_body": "NEW DELHI: The has registered a case against eight Kerala men the stringent Unlawful Activities Prevention Act for allegedly sympathising with banned terror group ISIS, a senior official said on Friday. The (NIA) took over the case from the Kerala police which had last year booked the eight people in district of the state. The state police had alleged they were \"members\" of ISIS or 'Daesh' and \"supported\" the organisation by travelling or preparing to travel from Bahrain to Syria for joining the terror group, the official said. He said the ISIS was waging war against a country that has friendly relations with India. Those booked were Shaibu Nihar, Manzoor, Mansoor, Shahnad, Fajid, Ashraf Moulavi, Safeer and Muhadis, the agency said. Last year, the NIA had booked some people for the same reasons under the Act.",
+"description": "NEW DELHI: The has registered a case against eight Kerala men the stringent Unlawful Activities Prevention Act for allegedly sympathising with banned terror group ISIS, a senior official said on Friday. The (NIA) took over the case from the Kerala police which had last year booked the eight people in district of the state.",
+"time_scraped": "2018-08-23 12:02:26.728605",
+"article_id": "64419427",
+"article_category": "IndiaNews",
+"image_details": [
+{
+"url": "https://timesofindia.indiatimes.com/thumb/msid-64419428,imgsize-172040,width-400,resizemode-4/64419428.jpg",
+"path": "full/05cd5129e4844207cc3893cf034fdc1abc6e4108.jpg",
+"checksum": "839018f86af02c0bae4cdd9bc46f88e2"
+}
+],
+"ibm_nlu": {
+"usage": {
+"text_units": 1,
+"text_characters": 820,
+"features": 7
+},
+"sentiment": {
+"document": {
+"score": -0.353137,
+"label": "negative"
+}
+},
+"semantic_roles": [
+{
+"subject": {
+"text": "a case"
+},
+"sentence": "NEW DELHI: The has registered a case against eight Kerala men the stringent Unlawful Activities Prevention Act for allegedly sympathising with banned terror group ISIS, a senior official said on Friday.",
+"object": {
+"text": "against eight Kerala men the stringent Unlawful Activities Prevention Act"
+},
+"action": {
+"verb": {
+"text": "register",
+"tense": "past"
+},
+"text": "has registered",
+"normalized": "have register"
+}
+},
+{
+"subject": {
+"text": "a senior official"
+},
+"sentence": "NEW DELHI: The has registered a case against eight Kerala men the stringent Unlawful Activities Prevention Act for allegedly sympathising with banned terror group ISIS, a senior official said on Friday.",
+"object": {
+"text": "The has registered a case against eight Kerala men the stringent Unlawful Activities Prevention Act for allegedly sympathising with banned terror group ISIS"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "booked the eight people in district of the state"
+},
+"sentence": " The (NIA) took over the case from the Kerala police which had last year booked the eight people in district of the state.",
+"action": {
+"verb": {
+"text": "have",
+"tense": "past"
+},
+"text": "had",
+"normalized": "have"
+}
+},
+{
+"subject": {
+"text": "The state police"
+},
+"sentence": " The state police had alleged they were \"members\" of ISIS or 'Daesh' and \"supported\" the organisation by travelling or preparing to travel from Bahrain to Syria for joining the terror group, the official said.",
+"object": {
+"text": "alleged they were \"members\" of ISIS or 'Daesh'"
+},
+"action": {
+"verb": {
+"text": "have",
+"tense": "past"
+},
+"text": "had",
+"normalized": "have"
+}
+},
+{
+"subject": {
+"text": "The state police"
+},
+"sentence": " The state police had alleged they were \"members\" of ISIS or 'Daesh' and \"supported\" the organisation by travelling or preparing to travel from Bahrain to Syria for joining the terror group, the official said.",
+"object": {
+"text": "they were \"members\" of ISIS or 'Daesh'"
+},
+"action": {
+"verb": {
+"text": "allege",
+"tense": "past"
+},
+"text": "had alleged",
+"normalized": "have allege"
+}
+},
+{
+"subject": {
+"text": "to travel from Bahrain to Syria"
+},
+"sentence": " The state police had alleged they were \"members\" of ISIS or 'Daesh' and \"supported\" the organisation by travelling or preparing to travel from Bahrain to Syria for joining the terror group, the official said.",
+"object": {
+"text": "for joining the terror group"
+},
+"action": {
+"verb": {
+"text": "prepare",
+"tense": "present"
+},
+"text": "preparing",
+"normalized": "prepare"
+}
+},
+{
+"subject": {
+"text": "the official"
+},
+"sentence": " The state police had alleged they were \"members\" of ISIS or 'Daesh' and \"supported\" the organisation by travelling or preparing to travel from Bahrain to Syria for joining the terror group, the official said.",
+"object": {
+"text": "alleged they were \"members\" of ISIS or 'Daesh' and \"supported\" the organisation by travelling or preparing to travel from Bahrain to Syria for joining the terror group"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "He"
+},
+"sentence": " He said the ISIS was waging war against a country that has friendly relations with India.",
+"object": {
+"text": "the ISIS was waging war against a country that has friendly relations with India"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "a country"
+},
+"sentence": " He said the ISIS was waging war against a country that has friendly relations with India.",
+"object": {
+"text": "friendly relations with India"
+},
+"action": {
+"verb": {
+"text": "have",
+"tense": "present"
+},
+"text": "has",
+"normalized": "have"
+}
+},
+{
+"subject": {
+"text": "the agency"
+},
+"sentence": " Those booked were Shaibu Nihar, Manzoor, Mansoor, Shahnad, Fajid, Ashraf Moulavi, Safeer and Muhadis, the agency said.",
+"object": {
+"text": "Those booked were Shaibu Nihar, Manzoor, Mansoor, Shahnad, Fajid, Ashraf Moulavi, Safeer and Muhadis"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "the NIA"
+},
+"sentence": " Last year, the NIA had booked some people for the same reasons under the Act.",
+"object": {
+"text": "booked some people for the same reasons under the Act"
+},
+"action": {
+"verb": {
+"text": "have",
+"tense": "past"
+},
+"text": "had",
+"normalized": "have"
+}
+},
+{
+"subject": {
+"text": "the NIA"
+},
+"sentence": " Last year, the NIA had booked some people for the same reasons under the Act.",
+"object": {
+"text": "some people"
+},
+"action": {
+"verb": {
+"text": "book",
+"tense": "past"
+},
+"text": "had booked",
+"normalized": "have book"
+}
+}
+],
+"relations": [
+{
+"type": "affectedBy",
+"sentence": "NEW DELHI: The has registered a case against eight Kerala men the stringent Unlawful Activities Prevention Act for allegedly sympathising with banned terror group ISIS, a senior official said on Friday.",
+"score": 0.670664,
+"arguments": [
+{
+"text": "men",
+"location": [
+58,
+61
+],
+"entities": [
+{
+"type": "Person",
+"text": "men"
+}
+]
+},
+{
+"text": "case",
+"location": [
+32,
+36
+],
+"entities": [
+{
+"type": "EventLegal",
+"text": "case"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "The (NIA) took over the case from the Kerala police which had last year booked the eight people in district of the state.",
+"score": 0.845205,
+"arguments": [
+{
+"text": "district",
+"location": [
+302,
+310
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "district"
+}
+]
+},
+{
+"text": "state",
+"location": [
+318,
+323
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "state"
+}
+]
+}
+]
+},
+{
+"type": "partOf",
+"sentence": "The state police had alleged they were \"members\" of ISIS or 'Daesh' and \"supported\" the organisation by travelling or preparing to travel from Bahrain to Syria for joining the terror group, the official said.",
+"score": 0.997148,
+"arguments": [
+{
+"text": "police",
+"location": [
+335,
+341
+],
+"entities": [
+{
+"type": "Organization",
+"text": "police",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+},
+{
+"text": "state",
+"location": [
+329,
+334
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "NIA"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "He said the ISIS was waging war against a country that has friendly relations with India.",
+"score": 0.604002,
+"arguments": [
+{
+"text": "He",
+"location": [
+534,
+536
+],
+"entities": [
+{
+"type": "Person",
+"text": "senior official"
+}
+]
+},
+{
+"text": "waging war",
+"location": [
+555,
+565
+],
+"entities": [
+{
+"type": "Crime",
+"text": "waging war"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "He said the ISIS was waging war against a country that has friendly relations with India.",
+"score": 0.667663,
+"arguments": [
+{
+"text": "waging war",
+"location": [
+555,
+565
+],
+"entities": [
+{
+"type": "Crime",
+"text": "waging war"
+}
+]
+},
+{
+"text": "country",
+"location": [
+576,
+583
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "country",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "residesIn",
+"sentence": "Those booked were Shaibu Nihar, Manzoor, Mansoor, Shahnad, Fajid, Ashraf Moulavi, Safeer and Muhadis, the agency said.",
+"score": 0.963768,
+"arguments": [
+{
+"text": "Shaibu Nihar",
+"location": [
+642,
+654
+],
+"entities": [
+{
+"type": "Person",
+"text": "Shaibu Nihar"
+}
+]
+},
+{
+"text": "Manzoor",
+"location": [
+656,
+663
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Manzoor"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "Those booked were Shaibu Nihar, Manzoor, Mansoor, Shahnad, Fajid, Ashraf Moulavi, Safeer and Muhadis, the agency said.",
+"score": 0.973804,
+"arguments": [
+{
+"text": "Manzoor",
+"location": [
+656,
+663
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Manzoor"
+}
+]
+},
+{
+"text": "Mansoor",
+"location": [
+665,
+672
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Mansoor"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "Those booked were Shaibu Nihar, Manzoor, Mansoor, Shahnad, Fajid, Ashraf Moulavi, Safeer and Muhadis, the agency said.",
+"score": 0.846581,
+"arguments": [
+{
+"text": "Mansoor",
+"location": [
+665,
+672
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Mansoor"
+}
+]
+},
+{
+"text": "Shahnad",
+"location": [
+674,
+681
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Shahnad"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "Those booked were Shaibu Nihar, Manzoor, Mansoor, Shahnad, Fajid, Ashraf Moulavi, Safeer and Muhadis, the agency said.",
+"score": 0.779345,
+"arguments": [
+{
+"text": "Shahnad",
+"location": [
+674,
+681
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Shahnad"
+}
+]
+},
+{
+"text": "Fajid",
+"location": [
+683,
+688
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Fajid"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "Those booked were Shaibu Nihar, Manzoor, Mansoor, Shahnad, Fajid, Ashraf Moulavi, Safeer and Muhadis, the agency said.",
+"score": 0.710442,
+"arguments": [
+{
+"text": "Fajid",
+"location": [
+683,
+688
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Fajid"
+}
+]
+},
+{
+"text": "Ashraf Moulavi",
+"location": [
+690,
+704
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Ashraf Moulavi"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "Those booked were Shaibu Nihar, Manzoor, Mansoor, Shahnad, Fajid, Ashraf Moulavi, Safeer and Muhadis, the agency said.",
+"score": 0.573025,
+"arguments": [
+{
+"text": "Ashraf Moulavi",
+"location": [
+690,
+704
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Ashraf Moulavi"
+}
+]
+},
+{
+"text": "Safeer",
+"location": [
+706,
+712
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Safeer"
+}
+]
+}
+]
+},
+{
+"type": "residesIn",
+"sentence": "NEW DELHI: The has registered a case against eight Kerala men the stringent Unlawful Activities Prevention Act for allegedly sympathising with banned terror group ISIS, a senior official said on Friday.",
+"score": 0.591096,
+"arguments": [
+{
+"text": "men",
+"location": [
+58,
+61
+],
+"entities": [
+{
+"type": "Person",
+"text": "men"
+}
+]
+},
+{
+"text": "Kerala",
+"location": [
+51,
+57
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Kerala"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Those booked were Shaibu Nihar, Manzoor, Mansoor, Shahnad, Fajid, Ashraf Moulavi, Safeer and Muhadis, the agency said.",
+"score": 0.89956,
+"arguments": [
+{
+"text": "agency",
+"location": [
+730,
+736
+],
+"entities": [
+{
+"type": "Organization",
+"text": "ISIS"
+}
+]
+},
+{
+"text": "said",
+"location": [
+737,
+741
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "Last year, the NIA had booked some people for the same reasons under the Act.",
+"score": 0.336677,
+"arguments": [
+{
+"text": "people",
+"location": [
+778,
+784
+],
+"entities": [
+{
+"type": "Person",
+"text": "people"
+}
+]
+},
+{
+"text": "NIA",
+"location": [
+758,
+761
+],
+"entities": [
+{
+"type": "Organization",
+"text": "NIA"
+}
+]
+}
+]
+},
+{
+"type": "timeOf",
+"sentence": "NEW DELHI: The has registered a case against eight Kerala men the stringent Unlawful Activities Prevention Act for allegedly sympathising with banned terror group ISIS, a senior official said on Friday.",
+"score": 0.731117,
+"arguments": [
+{
+"text": "Friday",
+"location": [
+195,
+201
+],
+"entities": [
+{
+"type": "Date",
+"text": "Friday"
+}
+]
+},
+{
+"text": "sympathising",
+"location": [
+125,
+137
+],
+"entities": [
+{
+"type": "Crime",
+"text": "sympathising"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "NEW DELHI: The has registered a case against eight Kerala men the stringent Unlawful Activities Prevention Act for allegedly sympathising with banned terror group ISIS, a senior official said on Friday.",
+"score": 0.993032,
+"arguments": [
+{
+"text": "senior official",
+"location": [
+171,
+186
+],
+"entities": [
+{
+"type": "Person",
+"text": "senior official"
+}
+]
+},
+{
+"text": "said",
+"location": [
+187,
+191
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "The state police had alleged they were \"members\" of ISIS or 'Daesh' and \"supported\" the organisation by travelling or preparing to travel from Bahrain to Syria for joining the terror group, the official said.",
+"score": 0.983433,
+"arguments": [
+{
+"text": "official",
+"location": [
+519,
+527
+],
+"entities": [
+{
+"type": "Person",
+"text": "senior official"
+}
+]
+},
+{
+"text": "said",
+"location": [
+528,
+532
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "He said the ISIS was waging war against a country that has friendly relations with India.",
+"score": 0.968065,
+"arguments": [
+{
+"text": "He",
+"location": [
+534,
+536
+],
+"entities": [
+{
+"type": "Person",
+"text": "senior official"
+}
+]
+},
+{
+"text": "said",
+"location": [
+537,
+541
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "timeOf",
+"sentence": "NEW DELHI: The has registered a case against eight Kerala men the stringent Unlawful Activities Prevention Act for allegedly sympathising with banned terror group ISIS, a senior official said on Friday.",
+"score": 0.974584,
+"arguments": [
+{
+"text": "Friday",
+"location": [
+195,
+201
+],
+"entities": [
+{
+"type": "Date",
+"text": "Friday"
+}
+]
+},
+{
+"text": "said",
+"location": [
+187,
+191
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "The (NIA) took over the case from the Kerala police which had last year booked the eight people in district of the state.",
+"score": 0.659646,
+"arguments": [
+{
+"text": "police",
+"location": [
+248,
+254
+],
+"entities": [
+{
+"type": "Organization",
+"text": "police",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+},
+{
+"text": "case",
+"location": [
+227,
+231
+],
+"entities": [
+{
+"type": "EventLegal",
+"text": "case"
+}
+]
+}
+]
+},
+{
+"type": "timeOf",
+"sentence": "The (NIA) took over the case from the Kerala police which had last year booked the eight people in district of the state.",
+"score": 0.755579,
+"arguments": [
+{
+"text": "last year",
+"location": [
+265,
+274
+],
+"entities": [
+{
+"type": "Date",
+"text": "last year"
+}
+]
+},
+{
+"text": "case",
+"location": [
+227,
+231
+],
+"entities": [
+{
+"type": "EventLegal",
+"text": "case"
+}
+]
+}
+]
+},
+{
+"type": "partOf",
+"sentence": "The (NIA) took over the case from the Kerala police which had last year booked the eight people in district of the state.",
+"score": 0.992513,
+"arguments": [
+{
+"text": "police",
+"location": [
+248,
+254
+],
+"entities": [
+{
+"type": "Organization",
+"text": "police",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+},
+{
+"text": "Kerala",
+"location": [
+241,
+247
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Kerala"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "The (NIA) took over the case from the Kerala police which had last year booked the eight people in district of the state.",
+"score": 0.651314,
+"arguments": [
+{
+"text": "people",
+"location": [
+292,
+298
+],
+"entities": [
+{
+"type": "Person",
+"text": "people"
+}
+]
+},
+{
+"text": "district",
+"location": [
+302,
+310
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "district"
+}
+]
+}
+]
+}
+],
+"language": "en",
+"keywords": [
+{
+"text": "stringent Unlawful Activities",
+"sentiment": {
+"score": -0.223449,
+"label": "negative"
+},
+"relevance": 0.902989,
+"emotion": {
+"sadness": 0.141808,
+"joy": 0.010691,
+"fear": 0.479867,
+"disgust": 0.388434,
+"anger": 0.359494
+}
+},
+{
+"text": "terror group",
+"sentiment": {
+"score": -0.223449,
+"label": "negative"
+},
+"relevance": 0.862306,
+"emotion": {
+"sadness": 0.067315,
+"joy": 0.024165,
+"fear": 0.709573,
+"disgust": 0.206985,
+"anger": 0.29613
+}
+},
+{
+"text": "Kerala men",
+"sentiment": {
+"score": -0.223449,
+"label": "negative"
+},
+"relevance": 0.681137,
+"emotion": {
+"sadness": 0.141808,
+"joy": 0.010691,
+"fear": 0.479867,
+"disgust": 0.388434,
+"anger": 0.359494
+}
+},
+{
+"text": "NEW DELHI",
+"sentiment": {
+"score": 0.271824,
+"label": "positive"
+},
+"relevance": 0.649092,
+"emotion": {
+"sadness": 0.115132,
+"joy": 0.596039,
+"fear": 0.084006,
+"disgust": 0.034674,
+"anger": 0.046922
+}
+},
+{
+"text": "Kerala police",
+"sentiment": {
+"score": -0.263675,
+"label": "negative"
+},
+"relevance": 0.647843,
+"emotion": {
+"sadness": 0.497045,
+"joy": 0.093637,
+"fear": 0.167216,
+"disgust": 0.263365,
+"anger": 0.157949
+}
+}
+],
+"entities": [
+{
+"type": "Organization",
+"text": "ISIS",
+"sentiment": {
+"score": -0.282222,
+"label": "negative"
+},
+"relevance": 0.866834,
+"emotion": {
+"sadness": 0.126544,
+"joy": 0.025949,
+"fear": 0.334181,
+"disgust": 0.407737,
+"anger": 0.47764
+},
+"count": 3
+},
+{
+"type": "Organization",
+"text": "NIA",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.589439,
+"emotion": {
+"sadness": 0.323154,
+"joy": 0.320319,
+"fear": 0.052244,
+"disgust": 0.227723,
+"anger": 0.261343
+},
+"count": 2
+},
+{
+"type": "Location",
+"text": "Kerala",
+"sentiment": {
+"score": -0.223449,
+"label": "negative"
+},
+"relevance": 0.384722,
+"emotion": {
+"sadness": 0.239319,
+"joy": 0.017495,
+"fear": 0.383268,
+"disgust": 0.42626,
+"anger": 0.322732
+},
+"disambiguation": {
+"subtype": [
+"Country"
+]
+},
+"count": 1
+},
+{
+"type": "Location",
+"text": "Kerala",
+"sentiment": {
+"score": -0.263675,
+"label": "negative"
+},
+"relevance": 0.384419,
+"emotion": {
+"sadness": 0.239319,
+"joy": 0.017495,
+"fear": 0.383268,
+"disgust": 0.42626,
+"anger": 0.322732
+},
+"disambiguation": {
+"subtype": [
+"City"
+]
+},
+"count": 1
+},
+{
+"type": "JobTitle",
+"text": "official",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.384203,
+"emotion": {
+"sadness": 0.24112,
+"joy": 0.412512,
+"fear": 0.181068,
+"disgust": 0.123789,
+"anger": 0.110251
+},
+"count": 2
+}
+],
+"concepts": [
+{
+"text": "India",
+"relevance": 0.954591,
+"dbpedia_resource": "http://dbpedia.org/resource/India"
+},
+{
+"text": "Terrorism",
+"relevance": 0.66952,
+"dbpedia_resource": "http://dbpedia.org/resource/Terrorism"
+},
+{
+"text": "Delhi",
+"relevance": 0.665149,
+"dbpedia_resource": "http://dbpedia.org/resource/Delhi"
+},
+{
+"text": "Iraq War",
+"relevance": 0.633994,
+"dbpedia_resource": "http://dbpedia.org/resource/Iraq_War"
+},
+{
+"text": "Pleading",
+"relevance": 0.596537,
+"dbpedia_resource": "http://dbpedia.org/resource/Pleading"
+}
+],
+"categories": [
+{
+"score": 0.579492,
+"label": "/health and fitness/aging"
+},
+{
+"score": 0.571004,
+"label": "/religion and spirituality/islam"
+},
+{
+"score": 0.346395,
+"label": "/law, govt and politics/law enforcement/police"
+}
+]
+}
+}

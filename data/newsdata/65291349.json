@@ -1,0 +1,1907 @@
+{
+"source_article_link": "https://timesofindia.indiatimes.com/india/assam-urges-other-northeast-states-to-ensure-commuters-safety/articleshow/65291349.cms?&utm_source=Articleshow&utm_medium=Organic&utm_campaign=Related_Stories",
+"title": "Assam urges other northeast states to ensure commuters\u2019 safety",
+"date_published": "2018-08-06T15:04:12+05:30",
+"source_type": "news_article",
+"source_name": "timesofindia.indiatimes.com",
+"image_link": [
+"https://timesofindia.indiatimes.com/thumb/msid-65286311,imgsize-346453,width-400,resizemode-4/65286311.jpg"
+],
+"article_body": "GUWAHATI : The government has urged neighbouring Meghalaya, Arunachal Pradesh, Mizoram and Nagaland to ensure that interstate are not harassed over the National Register of Citizens. Interstate commuters in the are facing harassment at check points in some places following the publication of the NRC. They are asked to show and other identity documents. A few organisations in Assam have warned that they would also carry out a similar exercise as a retaliatory measure if other states don\u2019t stop it. \u201cSince the NRC process is on and the government has stated that those left out can file claims and objection, there will be no deportation or curtailment of any right of these people\u201d just because their names are not in the draft, Pallab Bhattacharyya, special director general of police (special branch), told ET. So, he said, there must not be any kind of harassment to the people travelling to other states. Chief minister Sarbananda Sonowal talked to his Meghalaya counterpart Conrad Sangma over the phone and requested him to take urgent measures for ensuring smooth movement of people and vehicles of Assam passing through Meghalaya. Sonowal informed the Meghalaya CM that he had brought the matter to the notice of Union home minister Rajnath Singh. Sonowal talked also to Singh. The Meghalaya CM assured Sonowal necessary measures in this regard. Meghalaya home minister James Sangma had asserted that the state government was taking all measures to ensure that there was no spill over of immigrants from Assam to Meghalaya. Meanwhile, the Khasi Students' Union met the Meghalaya CM and submitted a proposal for an Assam-type NRC. The students\u2019 body has set up infiltration check gates in three districts, where documents of people coming from other states are checked. Thousands of commuters move to the tourist spots of Shillong and other places in Meghalaya every day.",
+"description": "GUWAHATI : The government has urged neighbouring Meghalaya, Arunachal Pradesh, Mizoram and Nagaland to ensure that interstate are not harassed over the National Register of Citizens. Interstate commuters in the are facing harassment at check points in some places following the publication of the NRC. They are asked to show",
+"time_scraped": "2018-08-23 06:01:34.407236",
+"article_id": "65291349",
+"article_category": "IndiaNews",
+"image_details": [
+{
+"url": "https://timesofindia.indiatimes.com/thumb/msid-65286311,imgsize-346453,width-400,resizemode-4/65286311.jpg",
+"path": "full/0156c547ffeb7ae8213486f2f7794a117e7d226b.jpg",
+"checksum": "873cc268b3fcefc805e1907136db1961"
+}
+],
+"ibm_nlu": {
+"usage": {
+"text_units": 1,
+"text_characters": 1881,
+"features": 7
+},
+"sentiment": {
+"document": {
+"score": -0.293395,
+"label": "negative"
+}
+},
+"semantic_roles": [
+{
+"subject": {
+"text": "The government"
+},
+"sentence": "GUWAHATI : The government has urged neighbouring Meghalaya, Arunachal Pradesh, Mizoram and Nagaland to ensure that interstate are not harassed over the National Register of Citizens.",
+"object": {
+"text": "Meghalaya"
+},
+"action": {
+"verb": {
+"text": "neighbour",
+"tense": "present"
+},
+"text": "has urged neighbouring",
+"normalized": "have urge neighbour"
+}
+},
+{
+"subject": {
+"text": "neighbouring Meghalaya, Arunachal Pradesh, Mizoram and Nagaland"
+},
+"sentence": "GUWAHATI : The government has urged neighbouring Meghalaya, Arunachal Pradesh, Mizoram and Nagaland to ensure that interstate are not harassed over the National Register of Citizens.",
+"object": {
+"text": "that interstate are not harassed over the National Register of Citizens"
+},
+"action": {
+"verb": {
+"text": "ensure",
+"tense": "future"
+},
+"text": "to ensure",
+"normalized": "to ensure"
+}
+},
+{
+"subject": {
+"text": "interstate"
+},
+"sentence": "GUWAHATI : The government has urged neighbouring Meghalaya, Arunachal Pradesh, Mizoram and Nagaland to ensure that interstate are not harassed over the National Register of Citizens.",
+"action": {
+"verb": {
+"text": "harass",
+"tense": "past",
+"negated": true
+},
+"text": "harassed",
+"normalized": "harass"
+}
+},
+{
+"subject": {
+"text": "Interstate commuters"
+},
+"sentence": " Interstate commuters in the are facing harassment at check points in some places following the publication of the NRC.",
+"object": {
+"text": "harassment"
+},
+"action": {
+"verb": {
+"text": "face",
+"tense": "present"
+},
+"text": "are facing",
+"normalized": "be face"
+}
+},
+{
+"subject": {
+"text": "to show and other identity documents"
+},
+"sentence": " They are asked to show and other identity documents.",
+"object": {
+"text": "They"
+},
+"action": {
+"verb": {
+"text": "ask",
+"tense": "past"
+},
+"text": "asked",
+"normalized": "ask"
+}
+},
+{
+"subject": {
+"text": "They"
+},
+"sentence": " They are asked to show and other identity documents.",
+"object": {
+"text": "other identity documents"
+},
+"action": {
+"verb": {
+"text": "show",
+"tense": "future"
+},
+"text": "are asked to show",
+"normalized": "be ask to show"
+}
+},
+{
+"subject": {
+"text": "A few organisations in Assam"
+},
+"sentence": " A few organisations in Assam have warned that they would also carry out a similar exercise as a retaliatory measure if other states don\u2019t stop it.",
+"object": {
+"text": "warned that they would also carry out a similar exercise as a retaliatory measure if other states don\u2019t stop it"
+},
+"action": {
+"verb": {
+"text": "have",
+"tense": "present"
+},
+"text": "have",
+"normalized": "have"
+}
+},
+{
+"subject": {
+"text": "A few organisations in Assam"
+},
+"sentence": " A few organisations in Assam have warned that they would also carry out a similar exercise as a retaliatory measure if other states don\u2019t stop it.",
+"object": {
+"text": "that they would also carry out a similar exercise as a retaliatory measure if other states don\u2019t stop it"
+},
+"action": {
+"verb": {
+"text": "warn",
+"tense": "past"
+},
+"text": "have warned",
+"normalized": "have warn"
+}
+},
+{
+"subject": {
+"text": "they"
+},
+"sentence": " A few organisations in Assam have warned that they would also carry out a similar exercise as a retaliatory measure if other states don\u2019t stop it.",
+"object": {
+"text": "a similar exercise as a retaliatory measure"
+},
+"action": {
+"verb": {
+"text": "carry",
+"tense": "future"
+},
+"text": "would also carry",
+"normalized": "would also carry"
+}
+},
+{
+"subject": {
+"text": "other states"
+},
+"sentence": " A few organisations in Assam have warned that they would also carry out a similar exercise as a retaliatory measure if other states don\u2019t stop it.",
+"object": {
+"text": "n\u2019t stop"
+},
+"action": {
+"verb": {
+"text": "do",
+"tense": "present"
+},
+"text": "do",
+"normalized": "do"
+}
+},
+{
+"subject": {
+"text": "other states"
+},
+"sentence": " A few organisations in Assam have warned that they would also carry out a similar exercise as a retaliatory measure if other states don\u2019t stop it.",
+"object": {
+"text": "stop it"
+},
+"action": {
+"verb": {
+"text": "n\u2019t",
+"tense": "present"
+},
+"text": "n\u2019t",
+"normalized": "n\u2019t"
+}
+},
+{
+"subject": {
+"text": "the government"
+},
+"sentence": " \u201cSince the NRC process is on and the government has stated that those left out can file claims and objection, there will be no deportation or curtailment of any right of these people\u201d just because their names are not in the draft, Pallab Bhattacharyya, special director general of police (special branch), told ET.",
+"object": {
+"text": "stated that those left out can file claims and objection"
+},
+"action": {
+"verb": {
+"text": "have",
+"tense": "present"
+},
+"text": "has",
+"normalized": "have"
+}
+},
+{
+"subject": {
+"text": "the government"
+},
+"sentence": " \u201cSince the NRC process is on and the government has stated that those left out can file claims and objection, there will be no deportation or curtailment of any right of these people\u201d just because their names are not in the draft, Pallab Bhattacharyya, special director general of police (special branch), told ET.",
+"object": {
+"text": "that those left out can file claims and objection, there will be no deportation or curtailment of any right of these people\u201d just because their names are not in the draft, Pallab Bhattacharyya, special director general of police (special branch)"
+},
+"action": {
+"verb": {
+"text": "state",
+"tense": "past"
+},
+"text": "has stated",
+"normalized": "have state"
+}
+},
+{
+"subject": {
+"text": "those"
+},
+"sentence": " \u201cSince the NRC process is on and the government has stated that those left out can file claims and objection, there will be no deportation or curtailment of any right of these people\u201d just because their names are not in the draft, Pallab Bhattacharyya, special director general of police (special branch), told ET.",
+"object": {
+"text": "claims and objection"
+},
+"action": {
+"verb": {
+"text": "file",
+"tense": "future"
+},
+"text": "can file",
+"normalized": "can file"
+}
+},
+{
+"subject": {
+"text": "Pallab Bhattacharyya, special director general of police (special branch)"
+},
+"sentence": " \u201cSince the NRC process is on and the government has stated that those left out can file claims and objection, there will be no deportation or curtailment of any right of these people\u201d just because their names are not in the draft, Pallab Bhattacharyya, special director general of police (special branch), told ET.",
+"object": {
+"text": "those left out can file claims and objection, there will be no deportation or curtailment of any right of these people\u201d just because their names are not in the draft"
+},
+"action": {
+"verb": {
+"text": "tell",
+"tense": "past"
+},
+"text": "told",
+"normalized": "tell"
+}
+},
+{
+"subject": {
+"text": "he"
+},
+"sentence": " So, he said, there must not be any kind of harassment to the people travelling to other states.",
+"object": {
+"text": "So"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "any kind of harassment"
+},
+"sentence": " So, he said, there must not be any kind of harassment to the people travelling to other states.",
+"object": {
+"text": "to the people travelling to other states"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "future",
+"negated": true
+},
+"text": "be",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "Chief minister Sarbananda Sonowal"
+},
+"sentence": " Chief minister Sarbananda Sonowal talked to his Meghalaya counterpart Conrad Sangma over the phone and requested him to take urgent measures for ensuring smooth movement of people and vehicles of Assam passing through Meghalaya.",
+"object": {
+"text": "to take urgent measures for ensuring smooth movement of people and vehicles of Assam passing through Meghalaya"
+},
+"action": {
+"verb": {
+"text": "request",
+"tense": "past"
+},
+"text": "requested",
+"normalized": "request"
+}
+},
+{
+"subject": {
+"text": "him"
+},
+"sentence": " Chief minister Sarbananda Sonowal talked to his Meghalaya counterpart Conrad Sangma over the phone and requested him to take urgent measures for ensuring smooth movement of people and vehicles of Assam passing through Meghalaya.",
+"object": {
+"text": "urgent measures"
+},
+"action": {
+"verb": {
+"text": "take",
+"tense": "future"
+},
+"text": "to take",
+"normalized": "to take"
+}
+},
+{
+"subject": {
+"text": "him"
+},
+"sentence": " Chief minister Sarbananda Sonowal talked to his Meghalaya counterpart Conrad Sangma over the phone and requested him to take urgent measures for ensuring smooth movement of people and vehicles of Assam passing through Meghalaya.",
+"object": {
+"text": "smooth movement of people and vehicles of Assam passing through Meghalaya"
+},
+"action": {
+"verb": {
+"text": "ensure",
+"tense": "present"
+},
+"text": "ensuring",
+"normalized": "ensure"
+}
+},
+{
+"subject": {
+"text": "he"
+},
+"sentence": " Sonowal informed the Meghalaya CM that he had brought the matter to the notice of Union home minister Rajnath Singh.",
+"object": {
+"text": "the matter"
+},
+"action": {
+"verb": {
+"text": "bring",
+"tense": "past"
+},
+"text": "had brought",
+"normalized": "have bring"
+}
+},
+{
+"subject": {
+"text": "Meghalaya home minister James Sangma"
+},
+"sentence": " Meghalaya home minister James Sangma had asserted that the state government was taking all measures to ensure that there was no spill over of immigrants from Assam to Meghalaya.",
+"object": {
+"text": "that the state government was taking all measures to ensure that there was no spill over of immigrants from Assam to Meghalaya"
+},
+"action": {
+"verb": {
+"text": "assert",
+"tense": "past"
+},
+"text": "had asserted",
+"normalized": "have assert"
+}
+},
+{
+"subject": {
+"text": "the state government"
+},
+"sentence": " Meghalaya home minister James Sangma had asserted that the state government was taking all measures to ensure that there was no spill over of immigrants from Assam to Meghalaya.",
+"object": {
+"text": "that there was no spill over of immigrants from Assam to Meghalaya"
+},
+"action": {
+"verb": {
+"text": "ensure",
+"tense": "past"
+},
+"text": "to ensure",
+"normalized": "to ensure"
+}
+},
+{
+"subject": {
+"text": "no spill"
+},
+"sentence": " Meghalaya home minister James Sangma had asserted that the state government was taking all measures to ensure that there was no spill over of immigrants from Assam to Meghalaya.",
+"object": {
+"text": "over of immigrants from Assam to Meghalaya"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "was",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "the Khasi Students' Union"
+},
+"sentence": " Meanwhile, the Khasi Students' Union met the Meghalaya CM and submitted a proposal for an Assam-type NRC.",
+"object": {
+"text": "the Meghalaya CM"
+},
+"action": {
+"verb": {
+"text": "meet",
+"tense": "past"
+},
+"text": "met",
+"normalized": "meet"
+}
+},
+{
+"subject": {
+"text": "the Khasi Students' Union"
+},
+"sentence": " Meanwhile, the Khasi Students' Union met the Meghalaya CM and submitted a proposal for an Assam-type NRC.",
+"object": {
+"text": "a proposal"
+},
+"action": {
+"verb": {
+"text": "submit",
+"tense": "past"
+},
+"text": "submitted",
+"normalized": "submit"
+}
+},
+{
+"subject": {
+"text": "The students\u2019 body"
+},
+"sentence": " The students\u2019 body has set up infiltration check gates in three districts, where documents of people coming from other states are checked.",
+"object": {
+"text": "set up infiltration check gates"
+},
+"action": {
+"verb": {
+"text": "have",
+"tense": "present"
+},
+"text": "has",
+"normalized": "have"
+}
+},
+{
+"subject": {
+"text": "The students\u2019 body"
+},
+"sentence": " The students\u2019 body has set up infiltration check gates in three districts, where documents of people coming from other states are checked.",
+"object": {
+"text": "up infiltration check gates"
+},
+"action": {
+"verb": {
+"text": "set",
+"tense": "past"
+},
+"text": "has set",
+"normalized": "have set"
+}
+},
+{
+"subject": {
+"text": "people"
+},
+"sentence": " The students\u2019 body has set up infiltration check gates in three districts, where documents of people coming from other states are checked.",
+"object": {
+"text": "from other states"
+},
+"action": {
+"verb": {
+"text": "come",
+"tense": "present"
+},
+"text": "coming",
+"normalized": "come"
+}
+},
+{
+"subject": {
+"text": "Thousands of commuters"
+},
+"sentence": " Thousands of commuters move to the tourist spots of Shillong and other places in Meghalaya every day.",
+"object": {
+"text": "to the tourist spots of Shillong and other places in Meghalaya every day"
+},
+"action": {
+"verb": {
+"text": "move",
+"tense": "present"
+},
+"text": "move",
+"normalized": "move"
+}
+}
+],
+"relations": [
+{
+"type": "locatedAt",
+"sentence": "GUWAHATI : The government has urged neighbouring Meghalaya, Arunachal Pradesh, Mizoram and Nagaland to ensure that interstate are not harassed over the National Register of Citizens.",
+"score": 0.506474,
+"arguments": [
+{
+"text": "government",
+"location": [
+15,
+25
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "government",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+},
+{
+"text": "GUWAHATI",
+"location": [
+0,
+8
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "GUWAHATI"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "\"Since the NRC process is on and the government has stated that those left out can file claims and objection, there will be no deportation or curtailment of any right of these people\" just because their names are not in the draft, Pallab Bhattacharyya, special director general of police (special branch), told ET.",
+"score": 0.548242,
+"arguments": [
+{
+"text": "Pallab Bhattacharyya",
+"location": [
+733,
+753
+],
+"entities": [
+{
+"type": "Person",
+"text": "Pallab Bhattacharyya"
+}
+]
+},
+{
+"text": "told",
+"location": [
+808,
+812
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "warned"
+}
+]
+}
+]
+},
+{
+"type": "managerOf",
+"sentence": "\"Since the NRC process is on and the government has stated that those left out can file claims and objection, there will be no deportation or curtailment of any right of these people\" just because their names are not in the draft, Pallab Bhattacharyya, special director general of police (special branch), told ET.",
+"score": 0.552017,
+"arguments": [
+{
+"text": "special director general",
+"location": [
+755,
+779
+],
+"entities": [
+{
+"type": "Person",
+"text": "Pallab Bhattacharyya"
+}
+]
+},
+{
+"text": "police",
+"location": [
+783,
+789
+],
+"entities": [
+{
+"type": "Organization",
+"text": "police",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "\"Since the NRC process is on and the government has stated that those left out can file claims and objection, there will be no deportation or curtailment of any right of these people\" just because their names are not in the draft, Pallab Bhattacharyya, special director general of police (special branch), told ET.",
+"score": 0.929333,
+"arguments": [
+{
+"text": "ET",
+"location": [
+813,
+815
+],
+"entities": [
+{
+"type": "Organization",
+"text": "ET",
+"disambiguation": {
+"subtype": [
+"Commercial"
+]
+}
+}
+]
+},
+{
+"text": "told",
+"location": [
+808,
+812
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "warned"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "So, he said, there must not be any kind of harassment to the people travelling to other states.",
+"score": 0.996799,
+"arguments": [
+{
+"text": "he",
+"location": [
+821,
+823
+],
+"entities": [
+{
+"type": "Person",
+"text": "Pallab Bhattacharyya"
+}
+]
+},
+{
+"text": "said",
+"location": [
+824,
+828
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "stated"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Chief minister Sarbananda Sonowal talked to his Meghalaya counterpart Conrad Sangma over the phone and requested him to take urgent measures for ensuring smooth movement of people and vehicles of Assam passing through Meghalaya.",
+"score": 0.992463,
+"arguments": [
+{
+"text": "Sarbananda Sonowal",
+"location": [
+928,
+946
+],
+"entities": [
+{
+"type": "Person",
+"text": "Sarbananda Sonowal"
+}
+]
+},
+{
+"text": "talked",
+"location": [
+947,
+953
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "talked"
+}
+]
+}
+]
+},
+{
+"type": "residesIn",
+"sentence": "Chief minister Sarbananda Sonowal talked to his Meghalaya counterpart Conrad Sangma over the phone and requested him to take urgent measures for ensuring smooth movement of people and vehicles of Assam passing through Meghalaya.",
+"score": 0.643863,
+"arguments": [
+{
+"text": "counterpart",
+"location": [
+971,
+982
+],
+"entities": [
+{
+"type": "Person",
+"text": "Conrad Sangma"
+}
+]
+},
+{
+"text": "Meghalaya",
+"location": [
+961,
+970
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Meghalaya CM"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "Chief minister Sarbananda Sonowal talked to his Meghalaya counterpart Conrad Sangma over the phone and requested him to take urgent measures for ensuring smooth movement of people and vehicles of Assam passing through Meghalaya.",
+"score": 0.471787,
+"arguments": [
+{
+"text": "Conrad Sangma",
+"location": [
+983,
+996
+],
+"entities": [
+{
+"type": "Person",
+"text": "Conrad Sangma"
+}
+]
+},
+{
+"text": "requested",
+"location": [
+1016,
+1025
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "requested"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "Chief minister Sarbananda Sonowal talked to his Meghalaya counterpart Conrad Sangma over the phone and requested him to take urgent measures for ensuring smooth movement of people and vehicles of Assam passing through Meghalaya.",
+"score": 0.574516,
+"arguments": [
+{
+"text": "Conrad Sangma",
+"location": [
+983,
+996
+],
+"entities": [
+{
+"type": "Person",
+"text": "Conrad Sangma"
+}
+]
+},
+{
+"text": "vehicles",
+"location": [
+1097,
+1105
+],
+"entities": [
+{
+"type": "Vehicle",
+"text": "vehicles"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "Chief minister Sarbananda Sonowal talked to his Meghalaya counterpart Conrad Sangma over the phone and requested him to take urgent measures for ensuring smooth movement of people and vehicles of Assam passing through Meghalaya.",
+"score": 0.623449,
+"arguments": [
+{
+"text": "him",
+"location": [
+1026,
+1029
+],
+"entities": [
+{
+"type": "Person",
+"text": "Sarbananda Sonowal"
+}
+]
+},
+{
+"text": "requested",
+"location": [
+1016,
+1025
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "requested"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "Chief minister Sarbananda Sonowal talked to his Meghalaya counterpart Conrad Sangma over the phone and requested him to take urgent measures for ensuring smooth movement of people and vehicles of Assam passing through Meghalaya.",
+"score": 0.910462,
+"arguments": [
+{
+"text": "him",
+"location": [
+1026,
+1029
+],
+"entities": [
+{
+"type": "Person",
+"text": "Sarbananda Sonowal"
+}
+]
+},
+{
+"text": "vehicles",
+"location": [
+1097,
+1105
+],
+"entities": [
+{
+"type": "Vehicle",
+"text": "vehicles"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "GUWAHATI : The government has urged neighbouring Meghalaya, Arunachal Pradesh, Mizoram and Nagaland to ensure that interstate are not harassed over the National Register of Citizens.",
+"score": 0.924813,
+"arguments": [
+{
+"text": "government",
+"location": [
+15,
+25
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "government",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+},
+{
+"text": "urged",
+"location": [
+30,
+35
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "urged"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "Chief minister Sarbananda Sonowal talked to his Meghalaya counterpart Conrad Sangma over the phone and requested him to take urgent measures for ensuring smooth movement of people and vehicles of Assam passing through Meghalaya.",
+"score": 0.917122,
+"arguments": [
+{
+"text": "vehicles",
+"location": [
+1097,
+1105
+],
+"entities": [
+{
+"type": "Vehicle",
+"text": "vehicles"
+}
+]
+},
+{
+"text": "Assam",
+"location": [
+1109,
+1114
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Assam"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "Chief minister Sarbananda Sonowal talked to his Meghalaya counterpart Conrad Sangma over the phone and requested him to take urgent measures for ensuring smooth movement of people and vehicles of Assam passing through Meghalaya.",
+"score": 0.823617,
+"arguments": [
+{
+"text": "vehicles",
+"location": [
+1097,
+1105
+],
+"entities": [
+{
+"type": "Vehicle",
+"text": "vehicles"
+}
+]
+},
+{
+"text": "Meghalaya",
+"location": [
+1131,
+1140
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Meghalaya CM"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Sonowal informed the Meghalaya CM that he had brought the matter to the notice of Union home minister Rajnath Singh.",
+"score": 0.996197,
+"arguments": [
+{
+"text": "Sonowal",
+"location": [
+1142,
+1149
+],
+"entities": [
+{
+"type": "Person",
+"text": "Sarbananda Sonowal"
+}
+]
+},
+{
+"text": "informed",
+"location": [
+1150,
+1158
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "informed"
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "Sonowal informed the Meghalaya CM that he had brought the matter to the notice of Union home minister Rajnath Singh.",
+"score": 0.702727,
+"arguments": [
+{
+"text": "home minister",
+"location": [
+1230,
+1243
+],
+"entities": [
+{
+"type": "Person",
+"text": "Rajnath Singh"
+}
+]
+},
+{
+"text": "Union",
+"location": [
+1224,
+1229
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Union"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Sonowal talked also to Singh.",
+"score": 0.994764,
+"arguments": [
+{
+"text": "Sonowal",
+"location": [
+1259,
+1266
+],
+"entities": [
+{
+"type": "Person",
+"text": "Sarbananda Sonowal"
+}
+]
+},
+{
+"text": "talked",
+"location": [
+1267,
+1273
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "talked"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "Sonowal talked also to Singh.",
+"score": 0.641769,
+"arguments": [
+{
+"text": "Singh",
+"location": [
+1282,
+1287
+],
+"entities": [
+{
+"type": "Person",
+"text": "Rajnath Singh"
+}
+]
+},
+{
+"text": "talked",
+"location": [
+1267,
+1273
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "talked"
+}
+]
+}
+]
+},
+{
+"type": "residesIn",
+"sentence": "Meghalaya home minister James Sangma had asserted that the state government was taking all measures to ensure that there was no spill over of immigrants from Assam to Meghalaya.",
+"score": 0.598998,
+"arguments": [
+{
+"text": "home minister",
+"location": [
+1367,
+1380
+],
+"entities": [
+{
+"type": "Person",
+"text": "James Sangma"
+}
+]
+},
+{
+"text": "Meghalaya",
+"location": [
+1357,
+1366
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Meghalaya CM"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Meghalaya home minister James Sangma had asserted that the state government was taking all measures to ensure that there was no spill over of immigrants from Assam to Meghalaya.",
+"score": 0.593848,
+"arguments": [
+{
+"text": "James Sangma",
+"location": [
+1381,
+1393
+],
+"entities": [
+{
+"type": "Person",
+"text": "James Sangma"
+}
+]
+},
+{
+"text": "asserted",
+"location": [
+1398,
+1406
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "asserted"
+}
+]
+}
+]
+},
+{
+"type": "partOf",
+"sentence": "Meghalaya home minister James Sangma had asserted that the state government was taking all measures to ensure that there was no spill over of immigrants from Assam to Meghalaya.",
+"score": 0.728871,
+"arguments": [
+{
+"text": "government",
+"location": [
+1422,
+1432
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "government",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+},
+{
+"text": "state",
+"location": [
+1416,
+1421
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Union"
+}
+]
+}
+]
+},
+{
+"type": "residesIn",
+"sentence": "Meghalaya home minister James Sangma had asserted that the state government was taking all measures to ensure that there was no spill over of immigrants from Assam to Meghalaya.",
+"score": 0.765889,
+"arguments": [
+{
+"text": "immigrants",
+"location": [
+1499,
+1509
+],
+"entities": [
+{
+"type": "Person",
+"text": "immigrants"
+}
+]
+},
+{
+"text": "Assam",
+"location": [
+1515,
+1520
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Assam"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "GUWAHATI : The government has urged neighbouring Meghalaya, Arunachal Pradesh, Mizoram and Nagaland to ensure that interstate are not harassed over the National Register of Citizens.",
+"score": 0.641378,
+"arguments": [
+{
+"text": "neighbouring",
+"location": [
+36,
+48
+],
+"entities": [
+{
+"type": "Location",
+"text": "neighbouring"
+}
+]
+},
+{
+"text": "urged",
+"location": [
+30,
+35
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "urged"
+}
+]
+}
+]
+},
+{
+"type": "partOf",
+"sentence": "Meanwhile, the Khasi Students' Union met the Meghalaya CM and submitted a proposal for an Assam-type NRC.",
+"score": 0.825056,
+"arguments": [
+{
+"text": "Union",
+"location": [
+1566,
+1571
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Union"
+}
+]
+},
+{
+"text": "Khasi Students",
+"location": [
+1550,
+1564
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Khasi Students"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "Meanwhile, the Khasi Students' Union met the Meghalaya CM and submitted a proposal for an Assam-type NRC.",
+"score": 0.555106,
+"arguments": [
+{
+"text": "Union",
+"location": [
+1566,
+1571
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Union"
+}
+]
+},
+{
+"text": "Meghalaya CM",
+"location": [
+1580,
+1592
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Meghalaya CM"
+}
+]
+}
+]
+},
+{
+"type": "partOfMany",
+"sentence": "The students' body has set up infiltration check gates in three districts, where documents of people coming from other states are checked.",
+"score": 0.342687,
+"arguments": [
+{
+"text": "body",
+"location": [
+1655,
+1659
+],
+"entities": [
+{
+"type": "Person",
+"text": "James Sangma"
+}
+]
+},
+{
+"text": "students",
+"location": [
+1645,
+1653
+],
+"entities": [
+{
+"type": "Person",
+"text": "students"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "The students' body has set up infiltration check gates in three districts, where documents of people coming from other states are checked.",
+"score": 0.545524,
+"arguments": [
+{
+"text": "body",
+"location": [
+1655,
+1659
+],
+"entities": [
+{
+"type": "Person",
+"text": "James Sangma"
+}
+]
+},
+{
+"text": "districts",
+"location": [
+1705,
+1714
+],
+"entities": [
+{
+"type": "Facility",
+"text": "districts"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "GUWAHATI : The government has urged neighbouring Meghalaya, Arunachal Pradesh, Mizoram and Nagaland to ensure that interstate are not harassed over the National Register of Citizens.",
+"score": 0.829587,
+"arguments": [
+{
+"text": "neighbouring",
+"location": [
+36,
+48
+],
+"entities": [
+{
+"type": "Location",
+"text": "neighbouring"
+}
+]
+},
+{
+"text": "Meghalaya",
+"location": [
+49,
+58
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Meghalaya CM"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "GUWAHATI : The government has urged neighbouring Meghalaya, Arunachal Pradesh, Mizoram and Nagaland to ensure that interstate are not harassed over the National Register of Citizens.",
+"score": 0.75297,
+"arguments": [
+{
+"text": "neighbouring",
+"location": [
+36,
+48
+],
+"entities": [
+{
+"type": "Location",
+"text": "neighbouring"
+}
+]
+},
+{
+"text": "Arunachal Pradesh",
+"location": [
+60,
+77
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Arunachal Pradesh"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "GUWAHATI : The government has urged neighbouring Meghalaya, Arunachal Pradesh, Mizoram and Nagaland to ensure that interstate are not harassed over the National Register of Citizens.",
+"score": 0.574685,
+"arguments": [
+{
+"text": "neighbouring",
+"location": [
+36,
+48
+],
+"entities": [
+{
+"type": "Location",
+"text": "neighbouring"
+}
+]
+},
+{
+"text": "Mizoram",
+"location": [
+79,
+86
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Mizoram"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "GUWAHATI : The government has urged neighbouring Meghalaya, Arunachal Pradesh, Mizoram and Nagaland to ensure that interstate are not harassed over the National Register of Citizens.",
+"score": 0.774211,
+"arguments": [
+{
+"text": "Meghalaya",
+"location": [
+49,
+58
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Meghalaya CM"
+}
+]
+},
+{
+"text": "Arunachal Pradesh",
+"location": [
+60,
+77
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Arunachal Pradesh"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "They are asked to show and other identity documents.",
+"score": 0.847357,
+"arguments": [
+{
+"text": "They",
+"location": [
+302,
+306
+],
+"entities": [
+{
+"type": "Person",
+"text": "their"
+}
+]
+},
+{
+"text": "asked",
+"location": [
+311,
+316
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "asked"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "\"Since the NRC process is on and the government has stated that those left out can file claims and objection, there will be no deportation or curtailment of any right of these people\" just because their names are not in the draft, Pallab Bhattacharyya, special director general of police (special branch), told ET.",
+"score": 0.728893,
+"arguments": [
+{
+"text": "government",
+"location": [
+539,
+549
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "government",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+},
+{
+"text": "stated",
+"location": [
+554,
+560
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "stated"
+}
+]
+}
+]
+}
+],
+"language": "en",
+"keywords": [
+{
+"text": "Meghalaya CM",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.937236,
+"emotion": {
+"sadness": 0.194238,
+"joy": 0.296335,
+"fear": 0.014866,
+"disgust": 0.049335,
+"anger": 0.056598
+}
+},
+{
+"text": "Meghalaya counterpart Conrad",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.868989,
+"emotion": {
+"sadness": 0.214667,
+"joy": 0.154542,
+"fear": 0.145167,
+"disgust": 0.10372,
+"anger": 0.019939
+}
+},
+{
+"text": "Meghalaya home minister",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.848144,
+"emotion": {
+"sadness": 0.301241,
+"joy": 0.082942,
+"fear": 0.116962,
+"disgust": 0.218766,
+"anger": 0.041932
+}
+},
+{
+"text": "minister Rajnath Singh",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.614374,
+"emotion": {
+"sadness": 0.323714,
+"joy": 0.187965,
+"fear": 0.065263,
+"disgust": 0.134549,
+"anger": 0.050533
+}
+},
+{
+"text": "minister Sarbananda Sonowal",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.609085,
+"emotion": {
+"sadness": 0.214667,
+"joy": 0.154542,
+"fear": 0.145167,
+"disgust": 0.10372,
+"anger": 0.019939
+}
+}
+],
+"entities": [
+{
+"type": "Location",
+"text": "Meghalaya",
+"sentiment": {
+"score": -0.480761,
+"label": "negative"
+},
+"relevance": 0.896055,
+"emotion": {
+"sadness": 0.230464,
+"joy": 0.20062,
+"fear": 0.106109,
+"disgust": 0.126748,
+"anger": 0.089555
+},
+"disambiguation": {
+"subtype": [
+"Country"
+]
+},
+"count": 8
+},
+{
+"type": "Location",
+"text": "Meghalaya",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.401869,
+"emotion": {
+"sadness": 0.230464,
+"joy": 0.20062,
+"fear": 0.106109,
+"disgust": 0.126748,
+"anger": 0.089555
+},
+"disambiguation": {
+"subtype": [
+"StateOrCounty"
+]
+},
+"count": 1
+},
+{
+"type": "Organization",
+"text": "NRC",
+"sentiment": {
+"score": -0.545833,
+"label": "negative"
+},
+"relevance": 0.324453,
+"emotion": {
+"sadness": 0.507978,
+"joy": 0.104654,
+"fear": 0.045851,
+"disgust": 0.084266,
+"anger": 0.150694
+},
+"disambiguation": {
+"subtype": [
+"Location",
+"Country",
+"GovernmentalJurisdiction",
+"Kingdom",
+"AwardDiscipline",
+"FilmScreeningVenue"
+],
+"name": "Canada",
+"dbpedia_resource": "http://dbpedia.org/resource/Canada"
+},
+"count": 3
+},
+{
+"type": "Person",
+"text": "Sarbananda Sonowal",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.317318,
+"emotion": {
+"sadness": 0.233625,
+"joy": 0.215824,
+"fear": 0.054871,
+"disgust": 0.142758,
+"anger": 0.057535
+},
+"disambiguation": {
+"subtype": [
+"OfficeHolder"
+],
+"name": "Sarbananda Sonowal",
+"dbpedia_resource": "http://dbpedia.org/resource/Sarbananda_Sonowal"
+},
+"count": 5
+},
+{
+"type": "Location",
+"text": "Assam",
+"sentiment": {
+"score": -0.692319,
+"label": "negative"
+},
+"relevance": 0.302815,
+"emotion": {
+"sadness": 0.532071,
+"joy": 0.100281,
+"fear": 0.186722,
+"disgust": 0.158648,
+"anger": 0.108359
+},
+"disambiguation": {
+"subtype": [
+"Country"
+]
+},
+"count": 3
+}
+],
+"concepts": [
+{
+"text": "Assam",
+"relevance": 0.970132,
+"dbpedia_resource": "http://dbpedia.org/resource/Assam"
+},
+{
+"text": "Meghalaya",
+"relevance": 0.687865,
+"dbpedia_resource": "http://dbpedia.org/resource/Meghalaya"
+},
+{
+"text": "Arunachal Pradesh",
+"relevance": 0.670945,
+"dbpedia_resource": "http://dbpedia.org/resource/Arunachal_Pradesh"
+},
+{
+"text": "Seven Sister States",
+"relevance": 0.63489,
+"dbpedia_resource": "http://dbpedia.org/resource/Seven_Sister_States"
+},
+{
+"text": "Nagaland",
+"relevance": 0.53249,
+"dbpedia_resource": "http://dbpedia.org/resource/Nagaland"
+}
+],
+"categories": [
+{
+"score": 0.482194,
+"label": "/law, govt and politics/government"
+},
+{
+"score": 0.439056,
+"label": "/law, govt and politics/law enforcement/police"
+},
+{
+"score": 0.378428,
+"label": "/society/crime/property crime/larceny"
+}
+]
+}
+}

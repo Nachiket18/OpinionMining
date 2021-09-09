@@ -1,0 +1,2102 @@
+{
+"source_article_link": "https://timesofindia.indiatimes.com/india/afghanistan-india-are-victims-of-terror-from-same-source-says-afghan-envoy-to-india/articleshow/64826695.cms?&utm_source=Articleshow&utm_medium=Organic&utm_campaign=Related_Stories",
+"title": "'Afghanistan, India are victims of terror from same source', says Afghan envoy to India",
+"date_published": "2018-07-02T17:08:59+05:30",
+"source_type": "news_article",
+"source_name": "timesofindia.indiatimes.com",
+"image_link": [
+"https://timesofindia.indiatimes.com/thumb/msid-64826765,imgsize-593966,width-400,resizemode-4/64826765.jpg"
+],
+"article_body": "NEW DELHI: ' and India are victims of terror from the same source...across the border', said Afghan envoy to India Shaida Mohammad Abdali, leaving no doubt that he was referring to . Abdali was referring to Sunday's horrific suicide bombing in Afghanistan's Jalalabad, which targeted, and killed, mostly and Hindus. claimed the attack, but other credible news agencies said it was the Pakistani Taliban with the complicity of Pakistani intelligence agency Inter-Services Intelligence ( ). The Afghan envoy is pretty certain it was an attack orchestrated by elements from Pakistan - specifically the Pakistani Taliban. To be sure, the raison d'etre of some other Pakistani terror groups, Lashkar-e-Taiba and Jaish-e-Muhammed, is terror attacks on India. That's what Afghanistan's Abdali emphasized. Attack has been claimed by Daish but fact is terrorism in Afghanistan is mostly coming from across border....Afghanistan and India are victims of terrorism from the same sources and that's why they have to stand together with rest of the world to fight terrorism in order for the two of us to be freed from menace of terrorism attacking both nations,\" he said. Afghanistan is set for elections in October and among those killed in Jalalabad yesterday was Avtar Singh Khalsa, who had planned to stand in in the parliamentary elections. Of the 19 killed, 17 were Sikhs and Hindus.   \"Extremely shocking... It is an attack on Afghan democracy, attack on Afghan values, freedom of religion, faith and attack on our diversity,\" said Abdali about the targeted killing. Just yesterday, a top Donald Trump aide rapped Pakistan, again, for not bringing the Taliban within its borders to heel. \"Right now, it's the Taliban leaders\u2026who aren't residing in Afghanistan, who are the obstacle to a negotiated political settlement,\" said Alice Wells, principal deputy assistant secretary for the State Department's Bureau of South and Central Asian Affairs, to reporters in Kabul, reported AP. Islamabad, she said, has taken no action. \"Pakistan has an important role to play\u2026but we have not yet seen that sustained and decisive action on the part of Islamabad,\" said Trump aide Alice Wells, principal deputy assistant secretary for the State Department's Bureau of South and Central Asian Affairs, to reporters in Kabul, reported AP.",
+"description": "The Afghan envoy was referring to Sunday's horrific suicide bombing in Afghanistan's Jalalabad, which targeted, and killed, mostly Sikhs and Hindus Daish claimed the attack, but other credible news agencies said it was the Pakistani Taliban with the complicity of Pakistani intelligence agency Inter-Services Intelligence",
+"time_scraped": "2018-08-22 21:01:35.130206",
+"article_id": "64826695",
+"article_category": "IndiaNews",
+"image_details": [
+{
+"url": "https://timesofindia.indiatimes.com/thumb/msid-64826765,imgsize-593966,width-400,resizemode-4/64826765.jpg",
+"path": "full/25c35655b4940fdd0432a1ab28c1dbaff7c6ff79.jpg",
+"checksum": "87e0a79c4733bd00a61e463568bdf3a9"
+}
+],
+"ibm_nlu": {
+"usage": {
+"text_units": 1,
+"text_characters": 2316,
+"features": 7
+},
+"sentiment": {
+"document": {
+"score": -0.530004,
+"label": "negative"
+}
+},
+"semantic_roles": [
+{
+"subject": {
+"text": "NEW DELHI: ' and India"
+},
+"sentence": "NEW DELHI: ' and India are victims of terror from the same source...across the border', said Afghan envoy to India Shaida Mohammad Abdali, leaving no doubt that he was referring to .",
+"object": {
+"text": "victims of terror from the same source"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "present"
+},
+"text": "are",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "Afghan envoy to India Shaida Mohammad Abdali"
+},
+"sentence": "NEW DELHI: ' and India are victims of terror from the same source...across the border', said Afghan envoy to India Shaida Mohammad Abdali, leaving no doubt that he was referring to .",
+"object": {
+"text": "no doubt"
+},
+"action": {
+"verb": {
+"text": "leave",
+"tense": "present"
+},
+"text": "leaving",
+"normalized": "leave"
+}
+},
+{
+"subject": {
+"text": "Abdali"
+},
+"sentence": " Abdali was referring to Sunday's horrific suicide bombing in Afghanistan's Jalalabad, which targeted, and killed, mostly and Hindus. claimed the attack, but other credible news agencies said it was the Pakistani Taliban with the complicity of Pakistani intelligence agency Inter-Services Intelligence ( ).",
+"object": {
+"text": "to Sunday's horrific suicide bombing in Afghanistan's Jalalabad, which targeted, and killed, mostly and Hindus. claimed the attack"
+},
+"action": {
+"verb": {
+"text": "refer",
+"tense": "past"
+},
+"text": "was referring",
+"normalized": "be refer"
+}
+},
+{
+"subject": {
+"text": "other credible news agencies"
+},
+"sentence": " Abdali was referring to Sunday's horrific suicide bombing in Afghanistan's Jalalabad, which targeted, and killed, mostly and Hindus. claimed the attack, but other credible news agencies said it was the Pakistani Taliban with the complicity of Pakistani intelligence agency Inter-Services Intelligence ( ).",
+"object": {
+"text": "it was the Pakistani Taliban with the complicity of Pakistani intelligence agency Inter-Services Intelligence ( )"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "The Afghan envoy"
+},
+"sentence": " The Afghan envoy is pretty certain it was an attack orchestrated by elements from Pakistan - specifically the Pakistani Taliban.",
+"object": {
+"text": "pretty certain"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "present"
+},
+"text": "is",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "pretty certain it"
+},
+"sentence": " The Afghan envoy is pretty certain it was an attack orchestrated by elements from Pakistan - specifically the Pakistani Taliban.",
+"object": {
+"text": "an attack orchestrated by elements from Pakistan - specifically the Pakistani Taliban"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "was",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "by elements from Pakistan - specifically the Pakistani Taliban"
+},
+"sentence": " The Afghan envoy is pretty certain it was an attack orchestrated by elements from Pakistan - specifically the Pakistani Taliban.",
+"object": {
+"text": "an attack"
+},
+"action": {
+"verb": {
+"text": "orchestrate",
+"tense": "past"
+},
+"text": "orchestrated",
+"normalized": "orchestrate"
+}
+},
+{
+"subject": {
+"text": "the raison d'etre of some other Pakistani terror groups, Lashkar-e-Taiba and Jaish-e-Muhammed,"
+},
+"sentence": " To be sure, the raison d'etre of some other Pakistani terror groups, Lashkar-e-Taiba and Jaish-e-Muhammed, is terror attacks on India.",
+"object": {
+"text": "terror attacks on India"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "present"
+},
+"text": "is",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "That"
+},
+"sentence": " That's what Afghanistan's Abdali emphasized.",
+"object": {
+"text": "what Afghanistan's Abdali emphasized"
+},
+"action": {
+"verb": {
+"text": "has",
+"tense": "present"
+},
+"text": "has",
+"normalized": "has"
+}
+},
+{
+"subject": {
+"text": "Attack"
+},
+"sentence": " Attack has been claimed by Daish but fact is terrorism in Afghanistan is mostly coming from across border....Afghanistan and India are victims of terrorism from the same sources and that's why they have to stand together with rest of the world to fight terrorism in order for the two of us to be freed from menace of terrorism attacking both nations,\" he said.",
+"object": {
+"text": "claimed by Daish"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "been",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "by Daish"
+},
+"sentence": " Attack has been claimed by Daish but fact is terrorism in Afghanistan is mostly coming from across border....Afghanistan and India are victims of terrorism from the same sources and that's why they have to stand together with rest of the world to fight terrorism in order for the two of us to be freed from menace of terrorism attacking both nations,\" he said.",
+"object": {
+"text": "Attack"
+},
+"action": {
+"verb": {
+"text": "claim",
+"tense": "past"
+},
+"text": "has been claimed",
+"normalized": "have be claim"
+}
+},
+{
+"subject": {
+"text": "terrorism"
+},
+"sentence": " Attack has been claimed by Daish but fact is terrorism in Afghanistan is mostly coming from across border....Afghanistan and India are victims of terrorism from the same sources and that's why they have to stand together with rest of the world to fight terrorism in order for the two of us to be freed from menace of terrorism attacking both nations,\" he said.",
+"action": {
+"verb": {
+"text": "be",
+"tense": "present"
+},
+"text": "is",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "terrorism in Afghanistan"
+},
+"sentence": " Attack has been claimed by Daish but fact is terrorism in Afghanistan is mostly coming from across border....Afghanistan and India are victims of terrorism from the same sources and that's why they have to stand together with rest of the world to fight terrorism in order for the two of us to be freed from menace of terrorism attacking both nations,\" he said.",
+"object": {
+"text": "mostly coming from across border"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "present"
+},
+"text": "is",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": ".Afghanistan and India"
+},
+"sentence": " Attack has been claimed by Daish but fact is terrorism in Afghanistan is mostly coming from across border....Afghanistan and India are victims of terrorism from the same sources and that's why they have to stand together with rest of the world to fight terrorism in order for the two of us to be freed from menace of terrorism attacking both nations,\" he said.",
+"object": {
+"text": "victims of terrorism from the same sources"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "present"
+},
+"text": "are",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "that"
+},
+"sentence": " Attack has been claimed by Daish but fact is terrorism in Afghanistan is mostly coming from across border....Afghanistan and India are victims of terrorism from the same sources and that's why they have to stand together with rest of the world to fight terrorism in order for the two of us to be freed from menace of terrorism attacking both nations,\" he said.",
+"object": {
+"text": "why they have to stand together with rest of the world to fight terrorism"
+},
+"action": {
+"verb": {
+"text": "has",
+"tense": "present"
+},
+"text": "has",
+"normalized": "has"
+}
+},
+{
+"subject": {
+"text": "they"
+},
+"sentence": " Attack has been claimed by Daish but fact is terrorism in Afghanistan is mostly coming from across border....Afghanistan and India are victims of terrorism from the same sources and that's why they have to stand together with rest of the world to fight terrorism in order for the two of us to be freed from menace of terrorism attacking both nations,\" he said.",
+"object": {
+"text": "terrorism"
+},
+"action": {
+"verb": {
+"text": "fight",
+"tense": "future"
+},
+"text": "to fight",
+"normalized": "to fight"
+}
+},
+{
+"subject": {
+"text": "Afghanistan"
+},
+"sentence": " Afghanistan is set for elections in October and among those killed in Jalalabad yesterday was Avtar Singh Khalsa, who had planned to stand in in the parliamentary elections.",
+"object": {
+"text": "set for elections"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "present"
+},
+"text": "is",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "Afghanistan"
+},
+"sentence": " Afghanistan is set for elections in October and among those killed in Jalalabad yesterday was Avtar Singh Khalsa, who had planned to stand in in the parliamentary elections.",
+"object": {
+"text": "for elections"
+},
+"action": {
+"verb": {
+"text": "set",
+"tense": "past"
+},
+"text": "is set",
+"normalized": "be set"
+}
+},
+{
+"subject": {
+"text": "those"
+},
+"sentence": " Afghanistan is set for elections in October and among those killed in Jalalabad yesterday was Avtar Singh Khalsa, who had planned to stand in in the parliamentary elections.",
+"action": {
+"verb": {
+"text": "kill",
+"tense": "past"
+},
+"text": "killed",
+"normalized": "kill"
+}
+},
+{
+"subject": {
+"text": "Avtar Singh Khalsa"
+},
+"sentence": " Afghanistan is set for elections in October and among those killed in Jalalabad yesterday was Avtar Singh Khalsa, who had planned to stand in in the parliamentary elections.",
+"object": {
+"text": "planned to stand in in the parliamentary elections"
+},
+"action": {
+"verb": {
+"text": "have",
+"tense": "past"
+},
+"text": "had",
+"normalized": "have"
+}
+},
+{
+"subject": {
+"text": "Avtar Singh Khalsa"
+},
+"sentence": " Afghanistan is set for elections in October and among those killed in Jalalabad yesterday was Avtar Singh Khalsa, who had planned to stand in in the parliamentary elections.",
+"object": {
+"text": "to stand in in the parliamentary elections"
+},
+"action": {
+"verb": {
+"text": "plan",
+"tense": "past"
+},
+"text": "planned",
+"normalized": "plan"
+}
+},
+{
+"subject": {
+"text": "Avtar Singh Khalsa"
+},
+"sentence": " Afghanistan is set for elections in October and among those killed in Jalalabad yesterday was Avtar Singh Khalsa, who had planned to stand in in the parliamentary elections.",
+"object": {
+"text": "in in the parliamentary elections"
+},
+"action": {
+"verb": {
+"text": "stand",
+"tense": "past"
+},
+"text": "had planned to stand",
+"normalized": "have plan to stand"
+}
+},
+{
+"subject": {
+"text": "It"
+},
+"sentence": " It is an attack on Afghan democracy, attack on Afghan values, freedom of religion, faith and attack on our diversity,\" said Abdali about the targeted killing.",
+"object": {
+"text": "an attack on Afghan democracy, attack on Afghan values, freedom of religion"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "present"
+},
+"text": "is",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "a top Donald Trump aide"
+},
+"sentence": " Just yesterday, a top Donald Trump aide rapped Pakistan, again, for not bringing the Taliban within its borders to heel.",
+"object": {
+"text": "Pakistan"
+},
+"action": {
+"verb": {
+"text": "rap",
+"tense": "past"
+},
+"text": "rapped",
+"normalized": "rap"
+}
+},
+{
+"subject": {
+"text": "a top Donald Trump aide rapped Pakistan"
+},
+"sentence": " Just yesterday, a top Donald Trump aide rapped Pakistan, again, for not bringing the Taliban within its borders to heel.",
+"object": {
+"text": "the Taliban"
+},
+"action": {
+"verb": {
+"text": "bring",
+"tense": "present",
+"negated": true
+},
+"text": "bringing",
+"normalized": "bring"
+}
+},
+{
+"subject": {
+"text": "it"
+},
+"sentence": " \"Right now, it's the Taliban leaders\u2026who aren't residing in Afghanistan, who are the obstacle to a negotiated political settlement,\" said Alice Wells, principal deputy assistant secretary for the State Department's Bureau of South and Central Asian Affairs, to reporters in Kabul, reported AP.",
+"object": {
+"text": "the Taliban leaders\u2026who aren't residing in Afghanistan"
+},
+"action": {
+"verb": {
+"text": "has",
+"tense": "present"
+},
+"text": "has",
+"normalized": "has"
+}
+},
+{
+"subject": {
+"text": "the Taliban leaders\u2026who"
+},
+"sentence": " \"Right now, it's the Taliban leaders\u2026who aren't residing in Afghanistan, who are the obstacle to a negotiated political settlement,\" said Alice Wells, principal deputy assistant secretary for the State Department's Bureau of South and Central Asian Affairs, to reporters in Kabul, reported AP.",
+"object": {
+"text": "n't residing in Afghanistan, who are the obstacle to a negotiated political settlement"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "present"
+},
+"text": "are",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "the Taliban leaders\u2026who"
+},
+"sentence": " \"Right now, it's the Taliban leaders\u2026who aren't residing in Afghanistan, who are the obstacle to a negotiated political settlement,\" said Alice Wells, principal deputy assistant secretary for the State Department's Bureau of South and Central Asian Affairs, to reporters in Kabul, reported AP.",
+"action": {
+"verb": {
+"text": "reside",
+"tense": "future",
+"negated": true
+},
+"text": "residing",
+"normalized": "reside"
+}
+},
+{
+"subject": {
+"text": "Alice Wells, principal deputy assistant secretary for the State Department's Bureau of South and Central Asian Affairs, to reporters in Kabul,"
+},
+"sentence": " \"Right now, it's the Taliban leaders\u2026who aren't residing in Afghanistan, who are the obstacle to a negotiated political settlement,\" said Alice Wells, principal deputy assistant secretary for the State Department's Bureau of South and Central Asian Affairs, to reporters in Kabul, reported AP.",
+"object": {
+"text": "it's the Taliban leaders\u2026who aren't residing in Afghanistan, who are the obstacle to a negotiated political settlement"
+},
+"action": {
+"verb": {
+"text": "report",
+"tense": "past"
+},
+"text": "reported",
+"normalized": "report"
+}
+},
+{
+"subject": {
+"text": "she"
+},
+"sentence": " Islamabad, she said, has taken no action.",
+"object": {
+"text": "Islamabad"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "Islamabad"
+},
+"sentence": " Islamabad, she said, has taken no action.",
+"object": {
+"text": "no action"
+},
+"action": {
+"verb": {
+"text": "take",
+"tense": "past"
+},
+"text": "has taken",
+"normalized": "have take"
+}
+},
+{
+"subject": {
+"text": "Pakistan"
+},
+"sentence": " \"Pakistan has an important role to play\u2026but we have not yet seen that sustained and decisive action on the part of Islamabad,\" said Trump aide Alice Wells, principal deputy assistant secretary for the State Department's Bureau of South and Central Asian Affairs, to reporters in Kabul, reported AP.",
+"object": {
+"text": "an important role to play\u2026but we have not yet seen that sustained and decisive action on the part of Islamabad"
+},
+"action": {
+"verb": {
+"text": "have",
+"tense": "present"
+},
+"text": "has",
+"normalized": "have"
+}
+},
+{
+"subject": {
+"text": "Pakistan"
+},
+"sentence": " \"Pakistan has an important role to play\u2026but we have not yet seen that sustained and decisive action on the part of Islamabad,\" said Trump aide Alice Wells, principal deputy assistant secretary for the State Department's Bureau of South and Central Asian Affairs, to reporters in Kabul, reported AP.",
+"object": {
+"text": "we"
+},
+"action": {
+"verb": {
+"text": "play\u2026but",
+"tense": "future"
+},
+"text": "to play\u2026but",
+"normalized": "to play\u2026but"
+}
+},
+{
+"subject": {
+"text": "we"
+},
+"sentence": " \"Pakistan has an important role to play\u2026but we have not yet seen that sustained and decisive action on the part of Islamabad,\" said Trump aide Alice Wells, principal deputy assistant secretary for the State Department's Bureau of South and Central Asian Affairs, to reporters in Kabul, reported AP.",
+"object": {
+"text": "an important role to play\u2026but"
+},
+"action": {
+"verb": {
+"text": "see",
+"tense": "past",
+"negated": true
+},
+"text": "seen",
+"normalized": "see"
+}
+},
+{
+"subject": {
+"text": "Trump aide Alice Wells, principal deputy assistant secretary for the State Department's Bureau of South and Central Asian Affairs"
+},
+"sentence": " \"Pakistan has an important role to play\u2026but we have not yet seen that sustained and decisive action on the part of Islamabad,\" said Trump aide Alice Wells, principal deputy assistant secretary for the State Department's Bureau of South and Central Asian Affairs, to reporters in Kabul, reported AP.",
+"object": {
+"text": "an important role to play\u2026but we have not yet seen that sustained and decisive action on the part of Islamabad"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+}
+],
+"relations": [
+{
+"type": "affectedBy",
+"sentence": "NEW DELHI: ' and India are victims of terror from the same source...across the border', said Afghan envoy to India Shaida Mohammad Abdali, leaving no doubt that he was referring to .",
+"score": 0.373084,
+"arguments": [
+{
+"text": "victims",
+"location": [
+27,
+34
+],
+"entities": [
+{
+"type": "Person",
+"text": "victims"
+}
+]
+},
+{
+"text": "terror",
+"location": [
+38,
+44
+],
+"entities": [
+{
+"type": "EventViolence",
+"text": "bombing"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "claimed the attack, but other credible news agencies said it was the Pakistani Taliban with the complicity of Pakistani intelligence agency Inter-Services Intelligence ( ).",
+"score": 0.960691,
+"arguments": [
+{
+"text": "news agencies",
+"location": [
+355,
+368
+],
+"entities": [
+{
+"type": "Organization",
+"text": "news agencies",
+"disambiguation": {
+"subtype": [
+"Commercial"
+]
+}
+}
+]
+},
+{
+"text": "said",
+"location": [
+369,
+373
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "partOf",
+"sentence": "claimed the attack, but other credible news agencies said it was the Pakistani Taliban with the complicity of Pakistani intelligence agency Inter-Services Intelligence ( ).",
+"score": 0.940908,
+"arguments": [
+{
+"text": "intelligence agency",
+"location": [
+436,
+455
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Inter-Services Intelligence",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+},
+{
+"text": "Pakistani",
+"location": [
+426,
+435
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Pakistani",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "partOf",
+"sentence": "The Afghan envoy is pretty certain it was an attack orchestrated by elements from Pakistan - specifically the Pakistani Taliban.",
+"score": 0.902311,
+"arguments": [
+{
+"text": "Taliban",
+"location": [
+609,
+616
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Taliban",
+"disambiguation": {
+"subtype": [
+"Political"
+]
+}
+}
+]
+},
+{
+"text": "Pakistani",
+"location": [
+599,
+608
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Pakistani",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "partOf",
+"sentence": "To be sure, the raison d'etre of some other Pakistani terror groups, Lashkar-e-Taiba and Jaish-e-Muhammed, is terror attacks on India.",
+"score": 0.933511,
+"arguments": [
+{
+"text": "terror groups",
+"location": [
+672,
+685
+],
+"entities": [
+{
+"type": "Organization",
+"text": "terror groups"
+}
+]
+},
+{
+"text": "Pakistani",
+"location": [
+662,
+671
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Pakistani",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "To be sure, the raison d'etre of some other Pakistani terror groups, Lashkar-e-Taiba and Jaish-e-Muhammed, is terror attacks on India.",
+"score": 0.636193,
+"arguments": [
+{
+"text": "terror groups",
+"location": [
+672,
+685
+],
+"entities": [
+{
+"type": "Organization",
+"text": "terror groups"
+}
+]
+},
+{
+"text": "terror attacks",
+"location": [
+728,
+742
+],
+"entities": [
+{
+"type": "EventViolence",
+"text": "terror attacks"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "To be sure, the raison d'etre of some other Pakistani terror groups, Lashkar-e-Taiba and Jaish-e-Muhammed, is terror attacks on India.",
+"score": 0.566254,
+"arguments": [
+{
+"text": "India",
+"location": [
+746,
+751
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "India",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+},
+{
+"text": "terror attacks",
+"location": [
+728,
+742
+],
+"entities": [
+{
+"type": "EventViolence",
+"text": "terror attacks"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "That's what Afghanistan's Abdali emphasized.",
+"score": 0.998041,
+"arguments": [
+{
+"text": "Abdali",
+"location": [
+779,
+785
+],
+"entities": [
+{
+"type": "Person",
+"text": "Shaida Mohammad Abdali"
+}
+]
+},
+{
+"text": "emphasized",
+"location": [
+786,
+796
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "emphasized"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Attack has been claimed by Daish but fact is terrorism in Afghanistan is mostly coming from across border....Afghanistan and India are victims of terrorism from the same sources and that's why they have to stand together with rest of the world to fight terrorism in order for the two of us to be freed from menace of terrorism attacking both nations,\" he said.",
+"score": 0.970816,
+"arguments": [
+{
+"text": "he",
+"location": [
+1150,
+1152
+],
+"entities": [
+{
+"type": "Person",
+"text": "Shaida Mohammad Abdali"
+}
+]
+},
+{
+"text": "said",
+"location": [
+1153,
+1157
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "emphasized"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "\"Extremely shocking... It is an attack on Afghan democracy, attack on Afghan values, freedom of religion, faith and attack on our diversity,\" said Abdali about the targeted killing.",
+"score": 0.988856,
+"arguments": [
+{
+"text": "Abdali",
+"location": [
+1526,
+1532
+],
+"entities": [
+{
+"type": "Person",
+"text": "Shaida Mohammad Abdali"
+}
+]
+},
+{
+"text": "said",
+"location": [
+1521,
+1525
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "emphasized"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Attack has been claimed by Daish but fact is terrorism in Afghanistan is mostly coming from across border....Afghanistan and India are victims of terrorism from the same sources and that's why they have to stand together with rest of the world to fight terrorism in order for the two of us to be freed from menace of terrorism attacking both nations,\" he said.",
+"score": 0.815546,
+"arguments": [
+{
+"text": "Daish",
+"location": [
+825,
+830
+],
+"entities": [
+{
+"type": "Person",
+"text": "Daish"
+}
+]
+},
+{
+"text": "claimed",
+"location": [
+814,
+821
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "emphasized"
+}
+]
+}
+]
+},
+{
+"type": "timeOf",
+"sentence": "Afghanistan is set for elections in October and among those killed in Jalalabad yesterday was Avtar Singh Khalsa, who had planned to stand in in the parliamentary elections.",
+"score": 0.898478,
+"arguments": [
+{
+"text": "October",
+"location": [
+1195,
+1202
+],
+"entities": [
+{
+"type": "Date",
+"text": "October"
+}
+]
+},
+{
+"text": "elections",
+"location": [
+1182,
+1191
+],
+"entities": [
+{
+"type": "EventElection",
+"text": "parliamentary elections"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "Afghanistan is set for elections in October and among those killed in Jalalabad yesterday was Avtar Singh Khalsa, who had planned to stand in in the parliamentary elections.",
+"score": 0.363614,
+"arguments": [
+{
+"text": "who",
+"location": [
+1273,
+1276
+],
+"entities": [
+{
+"type": "Person",
+"text": "Avtar Singh Khalsa"
+}
+]
+},
+{
+"text": "parliamentary elections",
+"location": [
+1308,
+1331
+],
+"entities": [
+{
+"type": "EventElection",
+"text": "parliamentary elections"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "NEW DELHI: ' and India are victims of terror from the same source...across the border', said Afghan envoy to India Shaida Mohammad Abdali, leaving no doubt that he was referring to .",
+"score": 0.32457,
+"arguments": [
+{
+"text": "terror",
+"location": [
+38,
+44
+],
+"entities": [
+{
+"type": "EventViolence",
+"text": "bombing"
+}
+]
+},
+{
+"text": "border",
+"location": [
+79,
+85
+],
+"entities": [
+{
+"type": "Location",
+"text": "borders"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "\"Extremely shocking... It is an attack on Afghan democracy, attack on Afghan values, freedom of religion, faith and attack on our diversity,\" said Abdali about the targeted killing.",
+"score": 0.496959,
+"arguments": [
+{
+"text": "Afghan",
+"location": [
+1421,
+1427
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Afghan"
+}
+]
+},
+{
+"text": "attack",
+"location": [
+1411,
+1417
+],
+"entities": [
+{
+"type": "EventViolence",
+"text": "bombing"
+}
+]
+}
+]
+},
+{
+"type": "colleague",
+"sentence": "Just yesterday, a top Donald Trump aide rapped Pakistan, again, for not bringing the Taliban within its borders to heel.",
+"score": 0.576903,
+"arguments": [
+{
+"text": "aide",
+"location": [
+1596,
+1600
+],
+"entities": [
+{
+"type": "Person",
+"text": "aide"
+}
+]
+},
+{
+"text": "Donald Trump",
+"location": [
+1583,
+1595
+],
+"entities": [
+{
+"type": "Person",
+"text": "Donald Trump"
+}
+]
+}
+]
+},
+{
+"type": "basedIn",
+"sentence": "Just yesterday, a top Donald Trump aide rapped Pakistan, again, for not bringing the Taliban within its borders to heel.",
+"score": 0.375053,
+"arguments": [
+{
+"text": "its",
+"location": [
+1661,
+1664
+],
+"entities": [
+{
+"type": "Organization",
+"text": "our"
+}
+]
+},
+{
+"text": "borders",
+"location": [
+1665,
+1672
+],
+"entities": [
+{
+"type": "Location",
+"text": "borders"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "\"Right now, it's the Taliban leaders\u2026who aren't residing in Afghanistan, who are the obstacle to a negotiated political settlement,\" said Alice Wells, principal deputy assistant secretary for the State Department's Bureau of South and Central Asian Affairs, to reporters in Kabul, reported AP.",
+"score": 0.908761,
+"arguments": [
+{
+"text": "Alice Wells",
+"location": [
+1820,
+1831
+],
+"entities": [
+{
+"type": "Person",
+"text": "Alice Wells"
+}
+]
+},
+{
+"text": "said",
+"location": [
+1815,
+1819
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "emphasized"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Islamabad, she said, has taken no action.",
+"score": 0.985004,
+"arguments": [
+{
+"text": "she",
+"location": [
+1987,
+1990
+],
+"entities": [
+{
+"type": "Person",
+"text": "Alice Wells"
+}
+]
+},
+{
+"text": "said",
+"location": [
+1991,
+1995
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "emphasized"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "\"Right now, it's the Taliban leaders\u2026who aren't residing in Afghanistan, who are the obstacle to a negotiated political settlement,\" said Alice Wells, principal deputy assistant secretary for the State Department's Bureau of South and Central Asian Affairs, to reporters in Kabul, reported AP.",
+"score": 0.520227,
+"arguments": [
+{
+"text": "Bureau of South and Central Asian Affairs",
+"location": [
+1897,
+1938
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Bureau of South and Central Asian Affairs"
+}
+]
+},
+{
+"text": "Kabul",
+"location": [
+1956,
+1961
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Kabul"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "\"Pakistan has an important role to play\u2026but we have not yet seen that sustained and decisive action on the part of Islamabad,\" said Trump aide Alice Wells, principal deputy assistant secretary for the State Department's Bureau of South and Central Asian Affairs, to reporters in Kabul, reported AP.",
+"score": 0.467127,
+"arguments": [
+{
+"text": "Bureau of South and Central Asian Affairs",
+"location": [
+2238,
+2279
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Bureau of South and Central Asian Affairs"
+}
+]
+},
+{
+"text": "Kabul",
+"location": [
+2297,
+2302
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Kabul"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "\"Right now, it's the Taliban leaders\u2026who aren't residing in Afghanistan, who are the obstacle to a negotiated political settlement,\" said Alice Wells, principal deputy assistant secretary for the State Department's Bureau of South and Central Asian Affairs, to reporters in Kabul, reported AP.",
+"score": 0.461279,
+"arguments": [
+{
+"text": "reporters",
+"location": [
+1943,
+1952
+],
+"entities": [
+{
+"type": "Person",
+"text": "reporters"
+}
+]
+},
+{
+"text": "Kabul",
+"location": [
+1956,
+1961
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Kabul"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "\"Pakistan has an important role to play\u2026but we have not yet seen that sustained and decisive action on the part of Islamabad,\" said Trump aide Alice Wells, principal deputy assistant secretary for the State Department's Bureau of South and Central Asian Affairs, to reporters in Kabul, reported AP.",
+"score": 0.598619,
+"arguments": [
+{
+"text": "reporters",
+"location": [
+2284,
+2293
+],
+"entities": [
+{
+"type": "Person",
+"text": "reporters"
+}
+]
+},
+{
+"text": "Kabul",
+"location": [
+2297,
+2302
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Kabul"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "\"Right now, it's the Taliban leaders\u2026who aren't residing in Afghanistan, who are the obstacle to a negotiated political settlement,\" said Alice Wells, principal deputy assistant secretary for the State Department's Bureau of South and Central Asian Affairs, to reporters in Kabul, reported AP.",
+"score": 0.850429,
+"arguments": [
+{
+"text": "AP",
+"location": [
+1972,
+1974
+],
+"entities": [
+{
+"type": "Organization",
+"text": "AP",
+"disambiguation": {
+"subtype": [
+"Commercial"
+]
+}
+}
+]
+},
+{
+"text": "reported",
+"location": [
+1963,
+1971
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "reported"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "\"Pakistan has an important role to play\u2026but we have not yet seen that sustained and decisive action on the part of Islamabad,\" said Trump aide Alice Wells, principal deputy assistant secretary for the State Department's Bureau of South and Central Asian Affairs, to reporters in Kabul, reported AP.",
+"score": 0.884521,
+"arguments": [
+{
+"text": "AP",
+"location": [
+2313,
+2315
+],
+"entities": [
+{
+"type": "Organization",
+"text": "AP",
+"disambiguation": {
+"subtype": [
+"Commercial"
+]
+}
+}
+]
+},
+{
+"text": "reported",
+"location": [
+2304,
+2312
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "reported"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "\"Pakistan has an important role to play\u2026but we have not yet seen that sustained and decisive action on the part of Islamabad,\" said Trump aide Alice Wells, principal deputy assistant secretary for the State Department's Bureau of South and Central Asian Affairs, to reporters in Kabul, reported AP.",
+"score": 0.913896,
+"arguments": [
+{
+"text": "Trump",
+"location": [
+2150,
+2155
+],
+"entities": [
+{
+"type": "Person",
+"text": "Donald Trump"
+}
+]
+},
+{
+"text": "said",
+"location": [
+2145,
+2149
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "emphasized"
+}
+]
+}
+]
+},
+{
+"type": "colleague",
+"sentence": "\"Pakistan has an important role to play\u2026but we have not yet seen that sustained and decisive action on the part of Islamabad,\" said Trump aide Alice Wells, principal deputy assistant secretary for the State Department's Bureau of South and Central Asian Affairs, to reporters in Kabul, reported AP.",
+"score": 0.486723,
+"arguments": [
+{
+"text": "aide",
+"location": [
+2156,
+2160
+],
+"entities": [
+{
+"type": "Person",
+"text": "Alice Wells"
+}
+]
+},
+{
+"text": "Trump",
+"location": [
+2150,
+2155
+],
+"entities": [
+{
+"type": "Person",
+"text": "Donald Trump"
+}
+]
+}
+]
+},
+{
+"type": "partOf",
+"sentence": "\"Pakistan has an important role to play\u2026but we have not yet seen that sustained and decisive action on the part of Islamabad,\" said Trump aide Alice Wells, principal deputy assistant secretary for the State Department's Bureau of South and Central Asian Affairs, to reporters in Kabul, reported AP.",
+"score": 0.518292,
+"arguments": [
+{
+"text": "Bureau of South and Central Asian Affairs",
+"location": [
+2238,
+2279
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Bureau of South and Central Asian Affairs"
+}
+]
+},
+{
+"text": "State Department",
+"location": [
+2219,
+2235
+],
+"entities": [
+{
+"type": "Organization",
+"text": "State Department",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "NEW DELHI: ' and India are victims of terror from the same source...across the border', said Afghan envoy to India Shaida Mohammad Abdali, leaving no doubt that he was referring to .",
+"score": 0.577946,
+"arguments": [
+{
+"text": "envoy",
+"location": [
+100,
+105
+],
+"entities": [
+{
+"type": "Person",
+"text": "envoy"
+}
+]
+},
+{
+"text": "said",
+"location": [
+88,
+92
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "NEW DELHI: ' and India are victims of terror from the same source...across the border', said Afghan envoy to India Shaida Mohammad Abdali, leaving no doubt that he was referring to .",
+"score": 0.867784,
+"arguments": [
+{
+"text": "envoy",
+"location": [
+100,
+105
+],
+"entities": [
+{
+"type": "Person",
+"text": "envoy"
+}
+]
+},
+{
+"text": "Afghan",
+"location": [
+93,
+99
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Afghan"
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "The Afghan envoy is pretty certain it was an attack orchestrated by elements from Pakistan - specifically the Pakistani Taliban.",
+"score": 0.840339,
+"arguments": [
+{
+"text": "envoy",
+"location": [
+500,
+505
+],
+"entities": [
+{
+"type": "Person",
+"text": "envoy"
+}
+]
+},
+{
+"text": "Afghan",
+"location": [
+493,
+499
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Afghan"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Abdali was referring to Sunday's horrific suicide bombing in Afghanistan's Jalalabad, which targeted, and killed, mostly and Hindus.",
+"score": 0.591626,
+"arguments": [
+{
+"text": "Abdali",
+"location": [
+183,
+189
+],
+"entities": [
+{
+"type": "Person",
+"text": "Shaida Mohammad Abdali"
+}
+]
+},
+{
+"text": "bombing",
+"location": [
+233,
+240
+],
+"entities": [
+{
+"type": "EventViolence",
+"text": "bombing"
+}
+]
+}
+]
+},
+{
+"type": "timeOf",
+"sentence": "Abdali was referring to Sunday's horrific suicide bombing in Afghanistan's Jalalabad, which targeted, and killed, mostly and Hindus.",
+"score": 0.729174,
+"arguments": [
+{
+"text": "Sunday",
+"location": [
+207,
+213
+],
+"entities": [
+{
+"type": "Date",
+"text": "Sunday"
+}
+]
+},
+{
+"text": "bombing",
+"location": [
+233,
+240
+],
+"entities": [
+{
+"type": "EventViolence",
+"text": "bombing"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "Abdali was referring to Sunday's horrific suicide bombing in Afghanistan's Jalalabad, which targeted, and killed, mostly and Hindus.",
+"score": 0.42813,
+"arguments": [
+{
+"text": "bombing",
+"location": [
+233,
+240
+],
+"entities": [
+{
+"type": "EventViolence",
+"text": "bombing"
+}
+]
+},
+{
+"text": "Afghanistan",
+"location": [
+244,
+255
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Afghanistan",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "Abdali was referring to Sunday's horrific suicide bombing in Afghanistan's Jalalabad, which targeted, and killed, mostly and Hindus.",
+"score": 0.531538,
+"arguments": [
+{
+"text": "Jalalabad",
+"location": [
+258,
+267
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Jalalabad"
+}
+]
+},
+{
+"text": "bombing",
+"location": [
+233,
+240
+],
+"entities": [
+{
+"type": "EventViolence",
+"text": "bombing"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "Abdali was referring to Sunday's horrific suicide bombing in Afghanistan's Jalalabad, which targeted, and killed, mostly and Hindus.",
+"score": 0.562758,
+"arguments": [
+{
+"text": "Jalalabad",
+"location": [
+258,
+267
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Jalalabad"
+}
+]
+},
+{
+"text": "Afghanistan",
+"location": [
+244,
+255
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Afghanistan",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+}
+]
+}
+],
+"language": "en",
+"keywords": [
+{
+"text": "deputy assistant secretary",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.926081,
+"emotion": {
+"sadness": 0.313308,
+"joy": 0.242946,
+"fear": 0.046564,
+"disgust": 0.074535,
+"anger": 0.255107
+}
+},
+{
+"text": "principal deputy assistant",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.915876,
+"emotion": {
+"sadness": 0.313308,
+"joy": 0.242946,
+"fear": 0.046564,
+"disgust": 0.074535,
+"anger": 0.255107
+}
+},
+{
+"text": "Pakistani Taliban",
+"sentiment": {
+"score": -0.334242,
+"label": "negative"
+},
+"relevance": 0.904358,
+"emotion": {
+"sadness": 0.274179,
+"joy": 0.10977,
+"fear": 0.074024,
+"disgust": 0.265882,
+"anger": 0.197669
+}
+},
+{
+"text": "Central Asian Affairs",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.883367,
+"emotion": {
+"sadness": 0.313308,
+"joy": 0.242946,
+"fear": 0.046564,
+"disgust": 0.074535,
+"anger": 0.255107
+}
+},
+{
+"text": "Afghan envoy",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.840896,
+"emotion": {
+"sadness": 0.148686,
+"joy": 0.177072,
+"fear": 0.295537,
+"disgust": 0.318224,
+"anger": 0.215489
+}
+}
+],
+"entities": [
+{
+"type": "Location",
+"text": "Afghanistan",
+"sentiment": {
+"score": -0.515103,
+"label": "negative"
+},
+"relevance": 0.805662,
+"emotion": {
+"sadness": 0.614936,
+"joy": 0.029984,
+"fear": 0.404276,
+"disgust": 0.133117,
+"anger": 0.127982
+},
+"disambiguation": {
+"subtype": [
+"GovernmentalJurisdiction",
+"MilitaryPost",
+"Country"
+],
+"name": "Afghanistan",
+"dbpedia_resource": "http://dbpedia.org/resource/Afghanistan"
+},
+"count": 5
+},
+{
+"type": "Organization",
+"text": "Pakistani Taliban",
+"sentiment": {
+"score": -0.404809,
+"label": "negative"
+},
+"relevance": 0.787966,
+"emotion": {
+"sadness": 0.263192,
+"joy": 0.189823,
+"fear": 0.12824,
+"disgust": 0.276279,
+"anger": 0.142404
+},
+"count": 3
+},
+{
+"type": "Location",
+"text": "India",
+"sentiment": {
+"score": -0.441369,
+"label": "negative"
+},
+"relevance": 0.573912,
+"emotion": {
+"sadness": 0.59132,
+"joy": 0.460975,
+"fear": 0.683421,
+"disgust": 0.130174,
+"anger": 0.105077
+},
+"disambiguation": {
+"subtype": [
+"HumanLanguage",
+"Region",
+"GovernmentalJurisdiction",
+"FilmEditor",
+"Country"
+],
+"name": "India",
+"dbpedia_resource": "http://dbpedia.org/resource/India"
+},
+"count": 8
+},
+{
+"type": "Person",
+"text": "Mohammad Abdali",
+"sentiment": {
+"score": -0.370721,
+"label": "negative"
+},
+"relevance": 0.567829,
+"emotion": {
+"sadness": 0.431032,
+"joy": 0.010256,
+"fear": 0.125763,
+"disgust": 0.404607,
+"anger": 0.336186
+},
+"count": 4
+},
+{
+"type": "JobTitle",
+"text": "principal deputy assistant secretary",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.448478,
+"emotion": {
+"sadness": 0.313308,
+"joy": 0.242946,
+"fear": 0.046564,
+"disgust": 0.074535,
+"anger": 0.255107
+},
+"count": 2
+}
+],
+"concepts": [
+{
+"text": "Taliban",
+"relevance": 0.952961,
+"dbpedia_resource": "http://dbpedia.org/resource/Taliban"
+},
+{
+"text": "Pakistan",
+"relevance": 0.883176,
+"dbpedia_resource": "http://dbpedia.org/resource/Pakistan"
+},
+{
+"text": "Afghanistan",
+"relevance": 0.810964,
+"dbpedia_resource": "http://dbpedia.org/resource/Afghanistan"
+},
+{
+"text": "Kabul",
+"relevance": 0.579541,
+"dbpedia_resource": "http://dbpedia.org/resource/Kabul"
+},
+{
+"text": "Inter-Services Intelligence",
+"relevance": 0.53285,
+"dbpedia_resource": "http://dbpedia.org/resource/Inter-Services_Intelligence"
+}
+],
+"categories": [
+{
+"score": 0.546104,
+"label": "/law, govt and politics/espionage and intelligence/terrorism"
+},
+{
+"score": 0.501064,
+"label": "/religion and spirituality/hinduism"
+},
+{
+"score": 0.492978,
+"label": "/society/unrest and war"
+}
+]
+}
+}

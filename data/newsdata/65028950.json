@@ -1,0 +1,2642 @@
+{
+"source_article_link": "https://timesofindia.indiatimes.com/india/pakistan-files-counter-memorial-on-jadhavs-case-in-icj/articleshow/65028950.cms?&utm_source=Articleshow&utm_medium=Organic&utm_campaign=Related_Stories",
+"title": "Kulbhushan Jadhav case: Pakistan files second counter-memorial in ICJ",
+"date_published": "2018-07-17T22:19:30+05:30",
+"source_type": "news_article",
+"source_name": "timesofindia.indiatimes.com",
+"image_link": [
+"https://timesofindia.indiatimes.com/thumb/msid-65028948,imgsize-104811,width-400,resizemode-4/65028948.jpg"
+],
+"article_body": "ISLAMABAD: on Tuesday filed its second written reply to India in the on the conviction of Indian national who was sentenced to death by a Pakistani military court on charges of espionage and terrorism. The (ICJ) on January 23 gave a timeline to both Pakistan and India for filing another round of memorials in the case. Foreign office director general for India Dr submitted the reply today, Radio Pakistan reported, quoting the foreign office spokesperson. Pakistan in its rejoinder, gave detailed answers to India's submissions to the international court, the spokesperson said, adding that Pakistan also responded to Indian objections in over 400 pages reply. Pakistan's counter-memorial was in response to pleadings filed by India in the Hague-based ICJ on April 17. The ICJ will now fix the matter for hearing. India had moved the ICJ in May last year after Jadhav, 48, was sentenced to death by a Pakistani military court on charges of espionage and terrorism. A 10-member bench of the ICJ on May 18, 2017 had restrained Pakistan from executing Jadhav till adjudication of the case. In its written pleadings, India had accused Pakistan of violating the Vienna Convention by not giving consular access to Jadhav arguing that the convention did not say that such access would not be available to an individual arrested on espionage charges. In response, Pakistan through its counter-memorial on December 13 told the ICJ that the Vienna Convention on Consular Relations 1963 applied only to legitimate visitors and did not cover clandestine operations. Pakistan had said that \"since India did not deny that Jadhav was travelling on a passport with an assumed Muslim name, they have no case to plead.\" Pakistan said that India did not explain how \"a serving naval commander\" was travelling under an assumed name. It also stated that \"since Jadhav was on active duty, it is obvious that he was a spy sent on a special mission\". India has been maintaining that the trial of Jadhav by a military court in Pakistan was \"farcical\". Pakistan claims that its security forces arrested Jadhav from restive Balochistan province on March 3, 2016 after he reportedly entered from Iran. However, India maintains that Jadhav was kidnapped from Iran where he had business interests after retiring from the Navy. Jadhav's sentencing had evoked a sharp reaction in India.",
+"description": "Pakistan's counter-memorial was in response to pleadings filed by India in the Hague-based ICJ on April 17 The ICJ will now fix the matter for hearing A 10-member bench of the ICJ on May 18, 2017 had restrained Pakistan from executing Jadhav till adjudication of the case",
+"time_scraped": "2018-08-22 18:01:25.452072",
+"article_id": "65028950",
+"article_category": "IndiaNews",
+"image_details": [
+{
+"url": "https://timesofindia.indiatimes.com/thumb/msid-65028948,imgsize-104811,width-400,resizemode-4/65028948.jpg",
+"path": "full/bc41da8513bb1155cb7caa36c455abec9ed3df19.jpg",
+"checksum": "9e8195f0ae791e54d0e7c52e70d29ddc"
+}
+],
+"ibm_nlu": {
+"usage": {
+"text_units": 1,
+"text_characters": 2356,
+"features": 7
+},
+"sentiment": {
+"document": {
+"score": -0.545011,
+"label": "negative"
+}
+},
+"semantic_roles": [
+{
+"subject": {
+"text": "its second"
+},
+"sentence": "ISLAMABAD: on Tuesday filed its second written reply to India in the on the conviction of Indian national who was sentenced to death by a Pakistani military court on charges of espionage and terrorism.",
+"action": {
+"verb": {
+"text": "file",
+"tense": "past"
+},
+"text": "filed",
+"normalized": "file"
+}
+},
+{
+"subject": {
+"text": "The (ICJ)"
+},
+"sentence": " The (ICJ) on January 23 gave a timeline to both Pakistan and India for filing another round of memorials in the case.",
+"object": {
+"text": "a timeline"
+},
+"action": {
+"verb": {
+"text": "give",
+"tense": "past"
+},
+"text": "gave",
+"normalized": "give"
+}
+},
+{
+"subject": {
+"text": "Foreign office director general for India Dr"
+},
+"sentence": " Foreign office director general for India Dr submitted the reply today, Radio Pakistan reported, quoting the foreign office spokesperson.",
+"object": {
+"text": "the reply today"
+},
+"action": {
+"verb": {
+"text": "submit",
+"tense": "past"
+},
+"text": "submitted",
+"normalized": "submit"
+}
+},
+{
+"subject": {
+"text": "Foreign office director general for India Dr submitted the reply today, Radio Pakistan"
+},
+"sentence": " Foreign office director general for India Dr submitted the reply today, Radio Pakistan reported, quoting the foreign office spokesperson.",
+"object": {
+"text": "the foreign office spokesperson"
+},
+"action": {
+"verb": {
+"text": "quote",
+"tense": "present"
+},
+"text": "quoting",
+"normalized": "quote"
+}
+},
+{
+"subject": {
+"text": "Pakistan in its rejoinder,"
+},
+"sentence": " Pakistan in its rejoinder, gave detailed answers to India's submissions to the international court, the spokesperson said, adding that Pakistan also responded to Indian objections in over 400 pages reply.",
+"object": {
+"text": "detailed answers to India's submissions"
+},
+"action": {
+"verb": {
+"text": "give",
+"tense": "past"
+},
+"text": "gave",
+"normalized": "give"
+}
+},
+{
+"subject": {
+"text": "the spokesperson"
+},
+"sentence": " Pakistan in its rejoinder, gave detailed answers to India's submissions to the international court, the spokesperson said, adding that Pakistan also responded to Indian objections in over 400 pages reply.",
+"object": {
+"text": "Pakistan in its rejoinder, gave detailed answers to India's submissions to the international court"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "Pakistan's counter-memorial"
+},
+"sentence": " Pakistan's counter-memorial was in response to pleadings filed by India in the Hague-based ICJ on April 17.",
+"object": {
+"text": "in response to pleadings filed by India in the Hague-based ICJ on April 17"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "was",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "by India"
+},
+"sentence": " Pakistan's counter-memorial was in response to pleadings filed by India in the Hague-based ICJ on April 17.",
+"object": {
+"text": "pleadings"
+},
+"action": {
+"verb": {
+"text": "file",
+"tense": "past"
+},
+"text": "filed",
+"normalized": "file"
+}
+},
+{
+"subject": {
+"text": "The ICJ"
+},
+"sentence": " The ICJ will now fix the matter for hearing.",
+"object": {
+"text": "the matter"
+},
+"action": {
+"verb": {
+"text": "fix",
+"tense": "future"
+},
+"text": "fix",
+"normalized": "fix"
+}
+},
+{
+"subject": {
+"text": "2017"
+},
+"sentence": " A 10-member bench of the ICJ on May 18, 2017 had restrained Pakistan from executing Jadhav till adjudication of the case.",
+"object": {
+"text": "restrained Pakistan from executing Jadhav"
+},
+"action": {
+"verb": {
+"text": "have",
+"tense": "future"
+},
+"text": "had",
+"normalized": "have"
+}
+},
+{
+"subject": {
+"text": "A 10-member bench of the ICJ on May 18, 2017"
+},
+"sentence": " A 10-member bench of the ICJ on May 18, 2017 had restrained Pakistan from executing Jadhav till adjudication of the case.",
+"object": {
+"text": "Pakistan"
+},
+"action": {
+"verb": {
+"text": "restrain",
+"tense": "past"
+},
+"text": "had restrained",
+"normalized": "have restrain"
+}
+},
+{
+"subject": {
+"text": "Pakistan"
+},
+"sentence": " A 10-member bench of the ICJ on May 18, 2017 had restrained Pakistan from executing Jadhav till adjudication of the case.",
+"object": {
+"text": "Jadhav"
+},
+"action": {
+"verb": {
+"text": "execute",
+"tense": "past"
+},
+"text": "executing",
+"normalized": "execute"
+}
+},
+{
+"subject": {
+"text": "India"
+},
+"sentence": " In its written pleadings, India had accused Pakistan of violating the Vienna Convention by not giving consular access to Jadhav arguing that the convention did not say that such access would not be available to an individual arrested on espionage charges.",
+"object": {
+"text": "accused Pakistan of violating the Vienna Convention by not giving consular access to Jadhav"
+},
+"action": {
+"verb": {
+"text": "have",
+"tense": "past"
+},
+"text": "had",
+"normalized": "have"
+}
+},
+{
+"subject": {
+"text": "India"
+},
+"sentence": " In its written pleadings, India had accused Pakistan of violating the Vienna Convention by not giving consular access to Jadhav arguing that the convention did not say that such access would not be available to an individual arrested on espionage charges.",
+"object": {
+"text": "Pakistan"
+},
+"action": {
+"verb": {
+"text": "accuse",
+"tense": "past"
+},
+"text": "had accused",
+"normalized": "have accuse"
+}
+},
+{
+"subject": {
+"text": "Pakistan"
+},
+"sentence": " In its written pleadings, India had accused Pakistan of violating the Vienna Convention by not giving consular access to Jadhav arguing that the convention did not say that such access would not be available to an individual arrested on espionage charges.",
+"object": {
+"text": "the Vienna Convention"
+},
+"action": {
+"verb": {
+"text": "violate",
+"tense": "future"
+},
+"text": "violating",
+"normalized": "violate"
+}
+},
+{
+"subject": {
+"text": "the convention"
+},
+"sentence": " In its written pleadings, India had accused Pakistan of violating the Vienna Convention by not giving consular access to Jadhav arguing that the convention did not say that such access would not be available to an individual arrested on espionage charges.",
+"object": {
+"text": "not say that such access would not be available to an individual arrested on espionage charges"
+},
+"action": {
+"verb": {
+"text": "do",
+"tense": "past"
+},
+"text": "did",
+"normalized": "do"
+}
+},
+{
+"subject": {
+"text": "the convention"
+},
+"sentence": " In its written pleadings, India had accused Pakistan of violating the Vienna Convention by not giving consular access to Jadhav arguing that the convention did not say that such access would not be available to an individual arrested on espionage charges.",
+"object": {
+"text": "that such access would not be available to an individual arrested on espionage charges"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past",
+"negated": true
+},
+"text": "say",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "such access"
+},
+"sentence": " In its written pleadings, India had accused Pakistan of violating the Vienna Convention by not giving consular access to Jadhav arguing that the convention did not say that such access would not be available to an individual arrested on espionage charges.",
+"object": {
+"text": "available to an individual arrested on espionage charges"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "future",
+"negated": true
+},
+"text": "be",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "Pakistan through its counter-memorial on December 13"
+},
+"sentence": " In response, Pakistan through its counter-memorial on December 13 told the ICJ that the Vienna Convention on Consular Relations 1963 applied only to legitimate visitors and did not cover clandestine operations.",
+"object": {
+"text": "that the Vienna Convention on Consular Relations 1963 applied only to legitimate visitors and did not cover clandestine operations"
+},
+"action": {
+"verb": {
+"text": "tell",
+"tense": "past"
+},
+"text": "told",
+"normalized": "tell"
+}
+},
+{
+"subject": {
+"text": "Pakistan"
+},
+"sentence": " In response, Pakistan through its counter-memorial on December 13 told the ICJ that the Vienna Convention on Consular Relations 1963 applied only to legitimate visitors and did not cover clandestine operations.",
+"object": {
+"text": "not cover clandestine operations"
+},
+"action": {
+"verb": {
+"text": "do",
+"tense": "past"
+},
+"text": "did",
+"normalized": "do"
+}
+},
+{
+"subject": {
+"text": "Pakistan"
+},
+"sentence": " Pakistan had said that \"since India did not deny that Jadhav was travelling on a passport with an assumed Muslim name, they have no case to plead.\"",
+"object": {
+"text": "that \"since India did not deny that Jadhav was travelling on a passport with an assumed Muslim name, they have no case to plead"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "had said",
+"normalized": "have say"
+}
+},
+{
+"subject": {
+"text": "India"
+},
+"sentence": " Pakistan had said that \"since India did not deny that Jadhav was travelling on a passport with an assumed Muslim name, they have no case to plead.\"",
+"object": {
+"text": "that Jadhav was travelling on a passport with an assumed Muslim name"
+},
+"action": {
+"verb": {
+"text": "deny",
+"tense": "past",
+"negated": true
+},
+"text": "deny",
+"normalized": "deny"
+}
+},
+{
+"subject": {
+"text": "Pakistan"
+},
+"sentence": " Pakistan said that India did not explain how \"a serving naval commander\" was travelling under an assumed name.",
+"object": {
+"text": "that India did not explain how \"a serving naval commander\" was travelling under an assumed name"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "India"
+},
+"sentence": " Pakistan said that India did not explain how \"a serving naval commander\" was travelling under an assumed name.",
+"object": {
+"text": "how \"a serving naval commander\" was travelling under an assumed name"
+},
+"action": {
+"verb": {
+"text": "explain",
+"tense": "past",
+"negated": true
+},
+"text": "explain",
+"normalized": "explain"
+}
+},
+{
+"subject": {
+"text": "It"
+},
+"sentence": " It also stated that \"since Jadhav was on active duty, it is obvious that he was a spy sent on a special mission\".",
+"object": {
+"text": "that \"since Jadhav was on active duty, it is obvious that he was a spy sent on a special mission"
+},
+"action": {
+"verb": {
+"text": "state",
+"tense": "past"
+},
+"text": "stated",
+"normalized": "state"
+}
+},
+{
+"subject": {
+"text": "India"
+},
+"sentence": " India has been maintaining that the trial of Jadhav by a military court in Pakistan was \"farcical\".",
+"object": {
+"text": "maintaining that the trial of Jadhav"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "been",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "Pakistan"
+},
+"sentence": " Pakistan claims that its security forces arrested Jadhav from restive Balochistan province on March 3, 2016 after he reportedly entered from Iran.",
+"object": {
+"text": "that its security forces arrested Jadhav from restive Balochistan province on March 3, 2016 after he reportedly entered from Iran"
+},
+"action": {
+"verb": {
+"text": "claim",
+"tense": "present"
+},
+"text": "claims",
+"normalized": "claim"
+}
+},
+{
+"subject": {
+"text": "India"
+},
+"sentence": " However, India maintains that Jadhav was kidnapped from Iran where he had business interests after retiring from the Navy.",
+"object": {
+"text": "that Jadhav was kidnapped from Iran where he had business interests after retiring from the Navy"
+},
+"action": {
+"verb": {
+"text": "maintain",
+"tense": "present"
+},
+"text": "maintains",
+"normalized": "maintain"
+}
+},
+{
+"subject": {
+"text": "Jadhav's sentencing"
+},
+"sentence": " Jadhav's sentencing had evoked a sharp reaction in India.",
+"object": {
+"text": "a sharp reaction in India"
+},
+"action": {
+"verb": {
+"text": "evoke",
+"tense": "past"
+},
+"text": "had evoked",
+"normalized": "have evoke"
+}
+}
+],
+"relations": [
+{
+"type": "timeOf",
+"sentence": "ISLAMABAD: on Tuesday filed its second written reply to India in the on the conviction of Indian national who was sentenced to death by a Pakistani military court on charges of espionage and terrorism.",
+"score": 0.964016,
+"arguments": [
+{
+"text": "Tuesday",
+"location": [
+14,
+21
+],
+"entities": [
+{
+"type": "Date",
+"text": "Tuesday"
+}
+]
+},
+{
+"text": "reply",
+"location": [
+47,
+52
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "reply"
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "Foreign office director general for India Dr submitted the reply today, Radio Pakistan reported, quoting the foreign office spokesperson.",
+"score": 0.918965,
+"arguments": [
+{
+"text": "Dr",
+"location": [
+362,
+364
+],
+"entities": [
+{
+"type": "Person",
+"text": "director general"
+}
+]
+},
+{
+"text": "India",
+"location": [
+356,
+361
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "India",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "timeOf",
+"sentence": "Foreign office director general for India Dr submitted the reply today, Radio Pakistan reported, quoting the foreign office spokesperson.",
+"score": 0.967433,
+"arguments": [
+{
+"text": "today",
+"location": [
+385,
+390
+],
+"entities": [
+{
+"type": "Date",
+"text": "today"
+}
+]
+},
+{
+"text": "reply",
+"location": [
+379,
+384
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "reply"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Foreign office director general for India Dr submitted the reply today, Radio Pakistan reported, quoting the foreign office spokesperson.",
+"score": 0.964004,
+"arguments": [
+{
+"text": "Radio Pakistan",
+"location": [
+392,
+406
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Radio Pakistan",
+"disambiguation": {
+"subtype": [
+"Commercial"
+]
+}
+}
+]
+},
+{
+"text": "reported",
+"location": [
+407,
+415
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "reported"
+}
+]
+}
+]
+},
+{
+"type": "partOf",
+"sentence": "Foreign office director general for India Dr submitted the reply today, Radio Pakistan reported, quoting the foreign office spokesperson.",
+"score": 0.793401,
+"arguments": [
+{
+"text": "quoting",
+"location": [
+417,
+424
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "quoting"
+}
+]
+},
+{
+"text": "reported",
+"location": [
+407,
+415
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "reported"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "Foreign office director general for India Dr submitted the reply today, Radio Pakistan reported, quoting the foreign office spokesperson.",
+"score": 0.504922,
+"arguments": [
+{
+"text": "foreign office",
+"location": [
+429,
+443
+],
+"entities": [
+{
+"type": "Organization",
+"text": "foreign office",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+},
+{
+"text": "quoting",
+"location": [
+417,
+424
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "quoting"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "Foreign office director general for India Dr submitted the reply today, Radio Pakistan reported, quoting the foreign office spokesperson.",
+"score": 0.598379,
+"arguments": [
+{
+"text": "spokesperson",
+"location": [
+444,
+456
+],
+"entities": [
+{
+"type": "Person",
+"text": "spokesperson"
+}
+]
+},
+{
+"text": "quoting",
+"location": [
+417,
+424
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "quoting"
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "Foreign office director general for India Dr submitted the reply today, Radio Pakistan reported, quoting the foreign office spokesperson.",
+"score": 0.655348,
+"arguments": [
+{
+"text": "spokesperson",
+"location": [
+444,
+456
+],
+"entities": [
+{
+"type": "Person",
+"text": "spokesperson"
+}
+]
+},
+{
+"text": "foreign office",
+"location": [
+429,
+443
+],
+"entities": [
+{
+"type": "Organization",
+"text": "foreign office",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "partOf",
+"sentence": "Pakistan in its rejoinder, gave detailed answers to India's submissions to the international court, the spokesperson said, adding that Pakistan also responded to Indian objections in over 400 pages reply.",
+"score": 0.627587,
+"arguments": [
+{
+"text": "its",
+"location": [
+470,
+473
+],
+"entities": [
+{
+"type": "Organization",
+"text": "its"
+}
+]
+},
+{
+"text": "Pakistan",
+"location": [
+458,
+466
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Pakistani",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Pakistan in its rejoinder, gave detailed answers to India's submissions to the international court, the spokesperson said, adding that Pakistan also responded to Indian objections in over 400 pages reply.",
+"score": 0.960115,
+"arguments": [
+{
+"text": "spokesperson",
+"location": [
+562,
+574
+],
+"entities": [
+{
+"type": "Person",
+"text": "spokesperson"
+}
+]
+},
+{
+"text": "said",
+"location": [
+575,
+579
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "adding"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "Pakistan in its rejoinder, gave detailed answers to India's submissions to the international court, the spokesperson said, adding that Pakistan also responded to Indian objections in over 400 pages reply.",
+"score": 0.596994,
+"arguments": [
+{
+"text": "Pakistan",
+"location": [
+593,
+601
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Pakistani",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+},
+{
+"text": "adding",
+"location": [
+581,
+587
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "adding"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "ISLAMABAD: on Tuesday filed its second written reply to India in the on the conviction of Indian national who was sentenced to death by a Pakistani military court on charges of espionage and terrorism.",
+"score": 0.690064,
+"arguments": [
+{
+"text": "its",
+"location": [
+28,
+31
+],
+"entities": [
+{
+"type": "Organization",
+"text": "its"
+}
+]
+},
+{
+"text": "reply",
+"location": [
+47,
+52
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "reply"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Pakistan in its rejoinder, gave detailed answers to India's submissions to the international court, the spokesperson said, adding that Pakistan also responded to Indian objections in over 400 pages reply.",
+"score": 0.962716,
+"arguments": [
+{
+"text": "Pakistan",
+"location": [
+593,
+601
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Pakistani",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+},
+{
+"text": "responded",
+"location": [
+607,
+616
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "responded"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "The ICJ will now fix the matter for hearing.",
+"score": 0.468481,
+"arguments": [
+{
+"text": "ICJ",
+"location": [
+775,
+778
+],
+"entities": [
+{
+"type": "Organization",
+"text": "ICJ"
+}
+]
+},
+{
+"text": "hearing",
+"location": [
+807,
+814
+],
+"entities": [
+{
+"type": "EventLegal",
+"text": "hearing"
+}
+]
+}
+]
+},
+{
+"type": "partOf",
+"sentence": "India had moved the ICJ in May last year after Jadhav, 48, was sentenced to death by a Pakistani military court on charges of espionage and terrorism.",
+"score": 0.521699,
+"arguments": [
+{
+"text": "ICJ",
+"location": [
+836,
+839
+],
+"entities": [
+{
+"type": "Organization",
+"text": "ICJ"
+}
+]
+},
+{
+"text": "India",
+"location": [
+816,
+821
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "India",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "India had moved the ICJ in May last year after Jadhav, 48, was sentenced to death by a Pakistani military court on charges of espionage and terrorism.",
+"score": 0.50949,
+"arguments": [
+{
+"text": "ICJ",
+"location": [
+836,
+839
+],
+"entities": [
+{
+"type": "Organization",
+"text": "ICJ"
+}
+]
+},
+{
+"text": "sentenced",
+"location": [
+879,
+888
+],
+"entities": [
+{
+"type": "EventLegal",
+"text": "sentenced"
+}
+]
+}
+]
+},
+{
+"type": "hasAttribute",
+"sentence": "India had moved the ICJ in May last year after Jadhav, 48, was sentenced to death by a Pakistani military court on charges of espionage and terrorism.",
+"score": 0.993789,
+"arguments": [
+{
+"text": "Jadhav",
+"location": [
+863,
+869
+],
+"entities": [
+{
+"type": "Person",
+"text": "Jadhav"
+}
+]
+},
+{
+"text": "48",
+"location": [
+871,
+873
+],
+"entities": [
+{
+"type": "Age",
+"text": "48"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "India had moved the ICJ in May last year after Jadhav, 48, was sentenced to death by a Pakistani military court on charges of espionage and terrorism.",
+"score": 0.579854,
+"arguments": [
+{
+"text": "Jadhav",
+"location": [
+863,
+869
+],
+"entities": [
+{
+"type": "Person",
+"text": "Jadhav"
+}
+]
+},
+{
+"text": "sentenced",
+"location": [
+879,
+888
+],
+"entities": [
+{
+"type": "EventLegal",
+"text": "sentenced"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "India had moved the ICJ in May last year after Jadhav, 48, was sentenced to death by a Pakistani military court on charges of espionage and terrorism.",
+"score": 0.64712,
+"arguments": [
+{
+"text": "Jadhav",
+"location": [
+863,
+869
+],
+"entities": [
+{
+"type": "Person",
+"text": "Jadhav"
+}
+]
+},
+{
+"text": "charges",
+"location": [
+931,
+938
+],
+"entities": [
+{
+"type": "EventLegal",
+"text": "espionage charges"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "In its written pleadings, India had accused Pakistan of violating the Vienna Convention by not giving consular access to Jadhav arguing that the convention did not say that such access would not be available to an individual arrested on espionage charges.",
+"score": 0.952003,
+"arguments": [
+{
+"text": "individual",
+"location": [
+1303,
+1313
+],
+"entities": [
+{
+"type": "Person",
+"text": "Jadhav"
+}
+]
+},
+{
+"text": "espionage charges",
+"location": [
+1326,
+1343
+],
+"entities": [
+{
+"type": "EventLegal",
+"text": "espionage charges"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "India had moved the ICJ in May last year after Jadhav, 48, was sentenced to death by a Pakistani military court on charges of espionage and terrorism.",
+"score": 0.752531,
+"arguments": [
+{
+"text": "Jadhav",
+"location": [
+863,
+869
+],
+"entities": [
+{
+"type": "Person",
+"text": "Jadhav"
+}
+]
+},
+{
+"text": "espionage",
+"location": [
+942,
+951
+],
+"entities": [
+{
+"type": "Crime",
+"text": "espionage"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "India had moved the ICJ in May last year after Jadhav, 48, was sentenced to death by a Pakistani military court on charges of espionage and terrorism.",
+"score": 0.572114,
+"arguments": [
+{
+"text": "military court",
+"location": [
+913,
+927
+],
+"entities": [
+{
+"type": "Organization",
+"text": "military court",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+},
+{
+"text": "sentenced",
+"location": [
+879,
+888
+],
+"entities": [
+{
+"type": "EventLegal",
+"text": "sentenced"
+}
+]
+}
+]
+},
+{
+"type": "managerOf",
+"sentence": "A 10-member bench of the ICJ on May 18, 2017 had restrained Pakistan from executing Jadhav till adjudication of the case.",
+"score": 0.430693,
+"arguments": [
+{
+"text": "Jadhav",
+"location": [
+1051,
+1057
+],
+"entities": [
+{
+"type": "Person",
+"text": "Jadhav"
+}
+]
+},
+{
+"text": "Pakistan",
+"location": [
+1027,
+1035
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Pakistani",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "partOfMany",
+"sentence": "ISLAMABAD: on Tuesday filed its second written reply to India in the on the conviction of Indian national who was sentenced to death by a Pakistani military court on charges of espionage and terrorism.",
+"score": 0.659394,
+"arguments": [
+{
+"text": "national",
+"location": [
+97,
+105
+],
+"entities": [
+{
+"type": "Person",
+"text": "director general"
+}
+]
+},
+{
+"text": "Indian",
+"location": [
+90,
+96
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Indian"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "A 10-member bench of the ICJ on May 18, 2017 had restrained Pakistan from executing Jadhav till adjudication of the case.",
+"score": 0.608877,
+"arguments": [
+{
+"text": "Jadhav",
+"location": [
+1051,
+1057
+],
+"entities": [
+{
+"type": "Person",
+"text": "Jadhav"
+}
+]
+},
+{
+"text": "case",
+"location": [
+1083,
+1087
+],
+"entities": [
+{
+"type": "EventLegal",
+"text": "case"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "In its written pleadings, India had accused Pakistan of violating the Vienna Convention by not giving consular access to Jadhav arguing that the convention did not say that such access would not be available to an individual arrested on espionage charges.",
+"score": 0.962468,
+"arguments": [
+{
+"text": "India",
+"location": [
+1115,
+1120
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "India",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+},
+{
+"text": "accused",
+"location": [
+1125,
+1132
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "accused"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "In its written pleadings, India had accused Pakistan of violating the Vienna Convention by not giving consular access to Jadhav arguing that the convention did not say that such access would not be available to an individual arrested on espionage charges.",
+"score": 0.943979,
+"arguments": [
+{
+"text": "Pakistan",
+"location": [
+1133,
+1141
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Pakistani",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+},
+{
+"text": "accused",
+"location": [
+1125,
+1132
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "accused"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "In its written pleadings, India had accused Pakistan of violating the Vienna Convention by not giving consular access to Jadhav arguing that the convention did not say that such access would not be available to an individual arrested on espionage charges.",
+"score": 0.917529,
+"arguments": [
+{
+"text": "Jadhav",
+"location": [
+1210,
+1216
+],
+"entities": [
+{
+"type": "Person",
+"text": "Jadhav"
+}
+]
+},
+{
+"text": "arguing",
+"location": [
+1217,
+1224
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "arguing"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "In its written pleadings, India had accused Pakistan of violating the Vienna Convention by not giving consular access to Jadhav arguing that the convention did not say that such access would not be available to an individual arrested on espionage charges.",
+"score": 0.816219,
+"arguments": [
+{
+"text": "individual",
+"location": [
+1303,
+1313
+],
+"entities": [
+{
+"type": "Person",
+"text": "Jadhav"
+}
+]
+},
+{
+"text": "arrested",
+"location": [
+1314,
+1322
+],
+"entities": [
+{
+"type": "EventCustody",
+"text": "arrested"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "Pakistan claims that its security forces arrested Jadhav from restive Balochistan province on March 3, 2016 after he reportedly entered from Iran.",
+"score": 0.965299,
+"arguments": [
+{
+"text": "Jadhav",
+"location": [
+2079,
+2085
+],
+"entities": [
+{
+"type": "Person",
+"text": "Jadhav"
+}
+]
+},
+{
+"text": "arrested",
+"location": [
+2070,
+2078
+],
+"entities": [
+{
+"type": "EventCustody",
+"text": "arrested"
+}
+]
+}
+]
+},
+{
+"type": "timeOf",
+"sentence": "In response, Pakistan through its counter-memorial on December 13 told the ICJ that the Vienna Convention on Consular Relations 1963 applied only to legitimate visitors and did not cover clandestine operations.",
+"score": 0.976934,
+"arguments": [
+{
+"text": "December 13",
+"location": [
+1399,
+1410
+],
+"entities": [
+{
+"type": "Date",
+"text": "December 13"
+}
+]
+},
+{
+"text": "told",
+"location": [
+1411,
+1415
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "told"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "In response, Pakistan through its counter-memorial on December 13 told the ICJ that the Vienna Convention on Consular Relations 1963 applied only to legitimate visitors and did not cover clandestine operations.",
+"score": 0.889032,
+"arguments": [
+{
+"text": "ICJ",
+"location": [
+1420,
+1423
+],
+"entities": [
+{
+"type": "Organization",
+"text": "ICJ"
+}
+]
+},
+{
+"text": "told",
+"location": [
+1411,
+1415
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "told"
+}
+]
+}
+]
+},
+{
+"type": "basedIn",
+"sentence": "In response, Pakistan through its counter-memorial on December 13 told the ICJ that the Vienna Convention on Consular Relations 1963 applied only to legitimate visitors and did not cover clandestine operations.",
+"score": 0.542772,
+"arguments": [
+{
+"text": "Consular Relations",
+"location": [
+1454,
+1472
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Consular Relations",
+"disambiguation": {
+"subtype": [
+"Commercial"
+]
+}
+}
+]
+},
+{
+"text": "Vienna Convention",
+"location": [
+1433,
+1450
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Vienna Convention"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Pakistan had said that \"since India did not deny that Jadhav was travelling on a passport with an assumed Muslim name, they have no case to plead.",
+"score": 0.802776,
+"arguments": [
+{
+"text": "Pakistan",
+"location": [
+1556,
+1564
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Pakistani",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+},
+{
+"text": "said",
+"location": [
+1569,
+1573
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "adding"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "\" Pakistan said that India did not explain how \"a serving naval commander\" was travelling under an assumed name.",
+"score": 0.994806,
+"arguments": [
+{
+"text": "Pakistan",
+"location": [
+1704,
+1712
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Pakistani",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+},
+{
+"text": "said",
+"location": [
+1713,
+1717
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "adding"
+}
+]
+}
+]
+},
+{
+"type": "basedIn",
+"sentence": "India has been maintaining that the trial of Jadhav by a military court in Pakistan was \"farcical\".",
+"score": 0.524305,
+"arguments": [
+{
+"text": "military court",
+"location": [
+1986,
+2000
+],
+"entities": [
+{
+"type": "Organization",
+"text": "military court",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+},
+{
+"text": "Pakistan",
+"location": [
+2004,
+2012
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Pakistan",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "ISLAMABAD: on Tuesday filed its second written reply to India in the on the conviction of Indian national who was sentenced to death by a Pakistani military court on charges of espionage and terrorism.",
+"score": 0.611363,
+"arguments": [
+{
+"text": "who",
+"location": [
+106,
+109
+],
+"entities": [
+{
+"type": "Person",
+"text": "director general"
+}
+]
+},
+{
+"text": "sentenced",
+"location": [
+114,
+123
+],
+"entities": [
+{
+"type": "EventLegal",
+"text": "sentenced"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Pakistan claims that its security forces arrested Jadhav from restive Balochistan province on March 3, 2016 after he reportedly entered from Iran.",
+"score": 0.996277,
+"arguments": [
+{
+"text": "Pakistan",
+"location": [
+2029,
+2037
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Pakistani",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+},
+{
+"text": "claims",
+"location": [
+2038,
+2044
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "stated"
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "Pakistan claims that its security forces arrested Jadhav from restive Balochistan province on March 3, 2016 after he reportedly entered from Iran.",
+"score": 0.831104,
+"arguments": [
+{
+"text": "security forces",
+"location": [
+2054,
+2069
+],
+"entities": [
+{
+"type": "Person",
+"text": "security forces"
+}
+]
+},
+{
+"text": "its",
+"location": [
+2050,
+2053
+],
+"entities": [
+{
+"type": "Organization",
+"text": "its"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Pakistan claims that its security forces arrested Jadhav from restive Balochistan province on March 3, 2016 after he reportedly entered from Iran.",
+"score": 0.651736,
+"arguments": [
+{
+"text": "its",
+"location": [
+2050,
+2053
+],
+"entities": [
+{
+"type": "Organization",
+"text": "its"
+}
+]
+},
+{
+"text": "arrested",
+"location": [
+2070,
+2078
+],
+"entities": [
+{
+"type": "EventCustody",
+"text": "arrested"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Pakistan claims that its security forces arrested Jadhav from restive Balochistan province on March 3, 2016 after he reportedly entered from Iran.",
+"score": 0.633302,
+"arguments": [
+{
+"text": "security forces",
+"location": [
+2054,
+2069
+],
+"entities": [
+{
+"type": "Person",
+"text": "security forces"
+}
+]
+},
+{
+"text": "arrested",
+"location": [
+2070,
+2078
+],
+"entities": [
+{
+"type": "EventCustody",
+"text": "arrested"
+}
+]
+}
+]
+},
+{
+"type": "timeOf",
+"sentence": "Pakistan claims that its security forces arrested Jadhav from restive Balochistan province on March 3, 2016 after he reportedly entered from Iran.",
+"score": 0.916764,
+"arguments": [
+{
+"text": "March 3, 2016",
+"location": [
+2123,
+2136
+],
+"entities": [
+{
+"type": "Date",
+"text": "March 3, 2016"
+}
+]
+},
+{
+"text": "arrested",
+"location": [
+2070,
+2078
+],
+"entities": [
+{
+"type": "EventCustody",
+"text": "arrested"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "However, India maintains that Jadhav was kidnapped from Iran where he had business interests after retiring from the Navy.",
+"score": 0.884005,
+"arguments": [
+{
+"text": "Jadhav",
+"location": [
+2206,
+2212
+],
+"entities": [
+{
+"type": "Person",
+"text": "Jadhav"
+}
+]
+},
+{
+"text": "kidnapped",
+"location": [
+2217,
+2226
+],
+"entities": [
+{
+"type": "EventCustody",
+"text": "kidnapped"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "However, India maintains that Jadhav was kidnapped from Iran where he had business interests after retiring from the Navy.",
+"score": 0.367955,
+"arguments": [
+{
+"text": "Iran",
+"location": [
+2232,
+2236
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Iran",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+},
+{
+"text": "kidnapped",
+"location": [
+2217,
+2226
+],
+"entities": [
+{
+"type": "EventCustody",
+"text": "kidnapped"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "However, India maintains that Jadhav was kidnapped from Iran where he had business interests after retiring from the Navy.",
+"score": 0.893542,
+"arguments": [
+{
+"text": "he",
+"location": [
+2243,
+2245
+],
+"entities": [
+{
+"type": "Person",
+"text": "Jadhav"
+}
+]
+},
+{
+"text": "retiring",
+"location": [
+2275,
+2283
+],
+"entities": [
+{
+"type": "EventPersonnel",
+"text": "retiring"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Jadhav's sentencing had evoked a sharp reaction in India.",
+"score": 0.894862,
+"arguments": [
+{
+"text": "Jadhav",
+"location": [
+2299,
+2305
+],
+"entities": [
+{
+"type": "Person",
+"text": "Jadhav"
+}
+]
+},
+{
+"text": "sentencing",
+"location": [
+2308,
+2318
+],
+"entities": [
+{
+"type": "EventLegal",
+"text": "sentencing"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "Jadhav's sentencing had evoked a sharp reaction in India.",
+"score": 0.497906,
+"arguments": [
+{
+"text": "sentencing",
+"location": [
+2308,
+2318
+],
+"entities": [
+{
+"type": "EventLegal",
+"text": "sentencing"
+}
+]
+},
+{
+"text": "India",
+"location": [
+2350,
+2355
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "India",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "ISLAMABAD: on Tuesday filed its second written reply to India in the on the conviction of Indian national who was sentenced to death by a Pakistani military court on charges of espionage and terrorism.",
+"score": 0.93405,
+"arguments": [
+{
+"text": "who",
+"location": [
+106,
+109
+],
+"entities": [
+{
+"type": "Person",
+"text": "director general"
+}
+]
+},
+{
+"text": "charges",
+"location": [
+166,
+173
+],
+"entities": [
+{
+"type": "EventLegal",
+"text": "espionage charges"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "ISLAMABAD: on Tuesday filed its second written reply to India in the on the conviction of Indian national who was sentenced to death by a Pakistani military court on charges of espionage and terrorism.",
+"score": 0.739353,
+"arguments": [
+{
+"text": "who",
+"location": [
+106,
+109
+],
+"entities": [
+{
+"type": "Person",
+"text": "director general"
+}
+]
+},
+{
+"text": "espionage",
+"location": [
+177,
+186
+],
+"entities": [
+{
+"type": "Crime",
+"text": "espionage"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "ISLAMABAD: on Tuesday filed its second written reply to India in the on the conviction of Indian national who was sentenced to death by a Pakistani military court on charges of espionage and terrorism.",
+"score": 0.528696,
+"arguments": [
+{
+"text": "military court",
+"location": [
+148,
+162
+],
+"entities": [
+{
+"type": "Organization",
+"text": "military court",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+},
+{
+"text": "sentenced",
+"location": [
+114,
+123
+],
+"entities": [
+{
+"type": "EventLegal",
+"text": "sentenced"
+}
+]
+}
+]
+},
+{
+"type": "partOf",
+"sentence": "ISLAMABAD: on Tuesday filed its second written reply to India in the on the conviction of Indian national who was sentenced to death by a Pakistani military court on charges of espionage and terrorism.",
+"score": 0.960261,
+"arguments": [
+{
+"text": "military court",
+"location": [
+148,
+162
+],
+"entities": [
+{
+"type": "Organization",
+"text": "military court",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+},
+{
+"text": "Pakistani",
+"location": [
+138,
+147
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Pakistani",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "partOf",
+"sentence": "India had moved the ICJ in May last year after Jadhav, 48, was sentenced to death by a Pakistani military court on charges of espionage and terrorism.",
+"score": 0.967119,
+"arguments": [
+{
+"text": "military court",
+"location": [
+913,
+927
+],
+"entities": [
+{
+"type": "Organization",
+"text": "military court",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+},
+{
+"text": "Pakistani",
+"location": [
+903,
+912
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Pakistani",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "Foreign office director general for India Dr submitted the reply today, Radio Pakistan reported, quoting the foreign office spokesperson.",
+"score": 0.576582,
+"arguments": [
+{
+"text": "director general",
+"location": [
+335,
+351
+],
+"entities": [
+{
+"type": "Person",
+"text": "director general"
+}
+]
+},
+{
+"text": "Foreign office",
+"location": [
+320,
+334
+],
+"entities": [
+{
+"type": "Organization",
+"text": "foreign office",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+}
+]
+}
+],
+"language": "en",
+"keywords": [
+{
+"text": "Pakistan",
+"sentiment": {
+"score": -0.425215,
+"label": "negative"
+},
+"relevance": 0.900776,
+"emotion": {
+"sadness": 0.276878,
+"joy": 0.129446,
+"fear": 0.117393,
+"disgust": 0.150213,
+"anger": 0.590979
+}
+},
+{
+"text": "Pakistani military court",
+"sentiment": {
+"score": -0.566627,
+"label": "negative"
+},
+"relevance": 0.840078,
+"emotion": {
+"sadness": 0.51497,
+"joy": 0.006396,
+"fear": 0.271278,
+"disgust": 0.418726,
+"anger": 0.126868
+}
+},
+{
+"text": "Jadhav",
+"sentiment": {
+"score": -0.480231,
+"label": "negative"
+},
+"relevance": 0.783863,
+"emotion": {
+"sadness": 0.260858,
+"joy": 0.099012,
+"fear": 0.166485,
+"disgust": 0.186569,
+"anger": 0.603954
+}
+},
+{
+"text": "India",
+"sentiment": {
+"score": -0.490078,
+"label": "negative"
+},
+"relevance": 0.771132,
+"emotion": {
+"sadness": 0.487629,
+"joy": 0.131813,
+"fear": 0.117683,
+"disgust": 0.183704,
+"anger": 0.589277
+}
+},
+{
+"text": "ICJ",
+"sentiment": {
+"score": -0.392884,
+"label": "negative"
+},
+"relevance": 0.69407,
+"emotion": {
+"sadness": 0.182677,
+"joy": 0.178304,
+"fear": 0.089359,
+"disgust": 0.06363,
+"anger": 0.085824
+}
+}
+],
+"entities": [
+{
+"type": "Location",
+"text": "Pakistan",
+"sentiment": {
+"score": -0.425215,
+"label": "negative"
+},
+"relevance": 0.890808,
+"emotion": {
+"sadness": 0.284015,
+"joy": 0.133915,
+"fear": 0.111701,
+"disgust": 0.142555,
+"anger": 0.585308
+},
+"disambiguation": {
+"subtype": [
+"GovernmentalJurisdiction",
+"Country"
+],
+"name": "Pakistan",
+"dbpedia_resource": "http://dbpedia.org/resource/Pakistan"
+},
+"count": 12
+},
+{
+"type": "Person",
+"text": "Jadhav",
+"sentiment": {
+"score": -0.480231,
+"label": "negative"
+},
+"relevance": 0.753918,
+"emotion": {
+"sadness": 0.260858,
+"joy": 0.099012,
+"fear": 0.166485,
+"disgust": 0.186569,
+"anger": 0.603954
+},
+"count": 9
+},
+{
+"type": "Location",
+"text": "India",
+"sentiment": {
+"score": -0.490078,
+"label": "negative"
+},
+"relevance": 0.726121,
+"emotion": {
+"sadness": 0.494006,
+"joy": 0.131278,
+"fear": 0.120997,
+"disgust": 0.198549,
+"anger": 0.592958
+},
+"disambiguation": {
+"subtype": [
+"HumanLanguage",
+"Region",
+"GovernmentalJurisdiction",
+"FilmEditor",
+"Country"
+],
+"name": "India",
+"dbpedia_resource": "http://dbpedia.org/resource/India"
+},
+"count": 11
+},
+{
+"type": "Organization",
+"text": "ICJ",
+"sentiment": {
+"score": -0.392884,
+"label": "negative"
+},
+"relevance": 0.662222,
+"emotion": {
+"sadness": 0.182677,
+"joy": 0.178304,
+"fear": 0.089359,
+"disgust": 0.06363,
+"anger": 0.085824
+},
+"disambiguation": {
+"subtype": [],
+"name": "International Court of Justice",
+"dbpedia_resource": "http://dbpedia.org/resource/International_Court_of_Justice"
+},
+"count": 6
+},
+{
+"type": "Organization",
+"text": "Vienna Convention on Consular Relations",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.200222,
+"emotion": {
+"sadness": 0.09363,
+"joy": 0.259041,
+"fear": 0.03224,
+"disgust": 0.040321,
+"anger": 0.16175
+},
+"count": 1
+}
+],
+"concepts": [
+{
+"text": "Pakistan",
+"relevance": 0.953664,
+"dbpedia_resource": "http://dbpedia.org/resource/Pakistan"
+},
+{
+"text": "Balochistan",
+"relevance": 0.595604,
+"dbpedia_resource": "http://dbpedia.org/resource/Balochistan_(Pakistan)"
+},
+{
+"text": "South Asia",
+"relevance": 0.557623,
+"dbpedia_resource": "http://dbpedia.org/resource/South_Asia"
+},
+{
+"text": "Answer",
+"relevance": 0.539365,
+"dbpedia_resource": "http://dbpedia.org/resource/Answer"
+},
+{
+"text": "Punjabi language",
+"relevance": 0.471236,
+"dbpedia_resource": "http://dbpedia.org/resource/Punjabi_language"
+}
+],
+"categories": [
+{
+"score": 0.39848,
+"label": "/law, govt and politics/armed forces/navy"
+},
+{
+"score": 0.382873,
+"label": "/business and industrial/company/bankruptcy"
+},
+{
+"score": 0.376973,
+"label": "/society/crime/personal offense/homicide"
+}
+]
+}
+}

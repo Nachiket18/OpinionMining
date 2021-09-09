@@ -1,0 +1,1119 @@
+{
+"source_article_link": "https://timesofindia.indiatimes.com/india/triple-talaq-bill-misses-date-with-rajya-sabha-again/articleshow/65354816.cms?&utm_source=Articleshow&utm_medium=Organic&utm_campaign=Related_Stories",
+"title": "Triple talaq bill misses date with Rajya Sabha again",
+"date_published": "2018-08-10T19:02:49+05:30",
+"source_type": "news_article",
+"source_name": "timesofindia.indiatimes.com",
+"image_link": [
+"https://timesofindia.indiatimes.com/thumb/msid-65354813,imgsize-160693,width-400,resizemode-4/65354813.jpg"
+],
+"article_body": "NEW DELHI: The could not be taken up for discussion and passage on the last day of Monsoon session on Friday, owing to lack of consensus among political parties on the issue. The Congress-led Opposition has been demanding that the Muslim Women ( ) Bill 2017 be sent to a Select Committee for further scrutiny. The BJP-led government, which does not have a majority in the Upper House, had also made efforts to get the bill cleared in the Budget Session also. Today, when the Rajya Sabha reconvened at 2:30 pm after two adjournments in the pre-lunch session, Chairman M said he has decided that the bills \"on which there is some sort of broad consensus\" will be taken up for discussion and passage later in the day. Naidu also clarified that the will not be taken up today as a consensus has not yet been evolved on the issue. The Union Cabinet had yesterday cleared some amendments to the draft Muslim Women (Protection of Rights on Marriage) Bill, 2017 bill, including adding a bail provision to it. The amendments came after the Supreme Court on August 22 last year had struck down 'triple talaq', calling unconstitutional. The Lok Sabha had passed the Bill in December. However, amendments to the draft legislation, once cleared by the Rajya Sabha, will again be sent to the Lower House for passage. The Rajya Sabha was adjourned twice within minutes during the pre-lunch session today amid protest by Congress members over their demand for a JPC probe into the alleged scam in the Rafale jet deal.",
+"description": "The triple talaq bill has been deferred as there was no consensus among the parties This comes a day after the Union Cabinet made some amendments to the draft bill The first amendment allows only a woman, or a close relative, to file a police case against her husband",
+"time_scraped": "2018-08-22 12:01:48.539554",
+"article_id": "65354816",
+"article_category": "IndiaNews",
+"image_details": [
+{
+"url": "https://timesofindia.indiatimes.com/thumb/msid-65354813,imgsize-160693,width-400,resizemode-4/65354813.jpg",
+"path": "full/c2b21718f27d88e596a52037b1de3becbeaff479.jpg",
+"checksum": "29183509c884357f9051d010f89c3900"
+}
+],
+"ibm_nlu": {
+"usage": {
+"text_units": 1,
+"text_characters": 1501,
+"features": 7
+},
+"sentiment": {
+"document": {
+"score": -0.588781,
+"label": "negative"
+}
+},
+"semantic_roles": [
+{
+"subject": {
+"text": "The"
+},
+"sentence": "NEW DELHI: The could not be taken up for discussion and passage on the last day of Monsoon session on Friday, owing to lack of consensus among political parties on the issue.",
+"action": {
+"verb": {
+"text": "take",
+"tense": "future",
+"negated": true
+},
+"text": "be taken",
+"normalized": "be take"
+}
+},
+{
+"subject": {
+"text": "The Congress-led Opposition"
+},
+"sentence": " The Congress-led Opposition has been demanding that the Muslim Women ( ) Bill 2017 be sent to a Select Committee for further scrutiny.",
+"object": {
+"text": "demanding that the Muslim Women ( ) Bill 2017 be sent to a Select Committee for further scrutiny"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "been",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "The Congress-led Opposition"
+},
+"sentence": " The Congress-led Opposition has been demanding that the Muslim Women ( ) Bill 2017 be sent to a Select Committee for further scrutiny.",
+"object": {
+"text": "that the Muslim Women ( ) Bill 2017 be sent to a Select Committee for further scrutiny"
+},
+"action": {
+"verb": {
+"text": "demand",
+"tense": "past"
+},
+"text": "has been demanding",
+"normalized": "have be demand"
+}
+},
+{
+"subject": {
+"text": "the Muslim Women ( ) Bill 2017"
+},
+"sentence": " The Congress-led Opposition has been demanding that the Muslim Women ( ) Bill 2017 be sent to a Select Committee for further scrutiny.",
+"object": {
+"text": "to a Select Committee for further scrutiny"
+},
+"action": {
+"verb": {
+"text": "send",
+"tense": "past"
+},
+"text": "sent",
+"normalized": "send"
+}
+},
+{
+"subject": {
+"text": "The BJP-led government"
+},
+"sentence": " The BJP-led government, which does not have a majority in the Upper House, had also made efforts to get the bill cleared in the Budget Session also.",
+"object": {
+"text": "not have a majority in the Upper House"
+},
+"action": {
+"verb": {
+"text": "do",
+"tense": "present"
+},
+"text": "does",
+"normalized": "do"
+}
+},
+{
+"subject": {
+"text": "The BJP-led government"
+},
+"sentence": " The BJP-led government, which does not have a majority in the Upper House, had also made efforts to get the bill cleared in the Budget Session also.",
+"object": {
+"text": "a majority"
+},
+"action": {
+"verb": {
+"text": "have",
+"tense": "present",
+"negated": true
+},
+"text": "have",
+"normalized": "have"
+}
+},
+{
+"subject": {
+"text": "The BJP-led government, which does not have a majority in the Upper House,"
+},
+"sentence": " The BJP-led government, which does not have a majority in the Upper House, had also made efforts to get the bill cleared in the Budget Session also.",
+"object": {
+"text": "efforts to get the bill cleared in the Budget Session"
+},
+"action": {
+"verb": {
+"text": "make",
+"tense": "past"
+},
+"text": "had also made",
+"normalized": "have also make"
+}
+},
+{
+"subject": {
+"text": "The BJP-led government, which does not have a majority in the Upper House,"
+},
+"sentence": " The BJP-led government, which does not have a majority in the Upper House, had also made efforts to get the bill cleared in the Budget Session also.",
+"object": {
+"text": "the bill cleared in the Budget Session"
+},
+"action": {
+"verb": {
+"text": "get",
+"tense": "past"
+},
+"text": "to get",
+"normalized": "to get"
+}
+},
+{
+"subject": {
+"text": "the bill"
+},
+"sentence": " The BJP-led government, which does not have a majority in the Upper House, had also made efforts to get the bill cleared in the Budget Session also.",
+"action": {
+"verb": {
+"text": "clear",
+"tense": "past"
+},
+"text": "cleared",
+"normalized": "clear"
+}
+},
+{
+"subject": {
+"text": "the Rajya Sabha"
+},
+"sentence": " Today, when the Rajya Sabha reconvened at 2:30 pm after two adjournments in the pre-lunch session, Chairman M said he has decided that the bills \"on which there is some sort of broad consensus\" will be taken up for discussion and passage later in the day.",
+"action": {
+"verb": {
+"text": "reconvene",
+"tense": "past"
+},
+"text": "reconvened",
+"normalized": "reconvene"
+}
+},
+{
+"subject": {
+"text": "Chairman M"
+},
+"sentence": " Today, when the Rajya Sabha reconvened at 2:30 pm after two adjournments in the pre-lunch session, Chairman M said he has decided that the bills \"on which there is some sort of broad consensus\" will be taken up for discussion and passage later in the day.",
+"object": {
+"text": "he has decided that the bills \"on which there is some sort of broad consensus\" will be taken up for discussion and passage later in the day"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "some sort of broad consensus\""
+},
+"sentence": " Today, when the Rajya Sabha reconvened at 2:30 pm after two adjournments in the pre-lunch session, Chairman M said he has decided that the bills \"on which there is some sort of broad consensus\" will be taken up for discussion and passage later in the day.",
+"action": {
+"verb": {
+"text": "take",
+"tense": "future"
+},
+"text": "will be taken",
+"normalized": "will be take"
+}
+},
+{
+"subject": {
+"text": "Naidu"
+},
+"sentence": " Naidu also clarified that the will not be taken up today as a consensus has not yet been evolved on the issue.",
+"object": {
+"text": "that the will not be taken up today as a consensus has not yet been evolved on the issue"
+},
+"action": {
+"verb": {
+"text": "clarify",
+"tense": "past"
+},
+"text": "clarified",
+"normalized": "clarify"
+}
+},
+{
+"subject": {
+"text": "the"
+},
+"sentence": " Naidu also clarified that the will not be taken up today as a consensus has not yet been evolved on the issue.",
+"action": {
+"verb": {
+"text": "take",
+"tense": "future",
+"negated": true
+},
+"text": "taken",
+"normalized": "take"
+}
+},
+{
+"subject": {
+"text": "a consensus"
+},
+"sentence": " Naidu also clarified that the will not be taken up today as a consensus has not yet been evolved on the issue.",
+"action": {
+"verb": {
+"text": "evolve",
+"tense": "past",
+"negated": true
+},
+"text": "evolved",
+"normalized": "evolve"
+}
+},
+{
+"subject": {
+"text": "The Union Cabinet"
+},
+"sentence": " The Union Cabinet had yesterday cleared some amendments to the draft Muslim Women (Protection of Rights on Marriage) Bill, 2017 bill, including adding a bail provision to it.",
+"action": {
+"verb": {
+"text": "have",
+"tense": "past"
+},
+"text": "had",
+"normalized": "have"
+}
+},
+{
+"subject": {
+"text": "The Union Cabinet"
+},
+"sentence": " The Union Cabinet had yesterday cleared some amendments to the draft Muslim Women (Protection of Rights on Marriage) Bill, 2017 bill, including adding a bail provision to it.",
+"object": {
+"text": "some amendments"
+},
+"action": {
+"verb": {
+"text": "clear",
+"tense": "past"
+},
+"text": "cleared",
+"normalized": "clear"
+}
+},
+{
+"subject": {
+"text": "adding a bail provision"
+},
+"sentence": " The Union Cabinet had yesterday cleared some amendments to the draft Muslim Women (Protection of Rights on Marriage) Bill, 2017 bill, including adding a bail provision to it.",
+"object": {
+"text": "to it"
+},
+"action": {
+"verb": {
+"text": "include",
+"tense": "present"
+},
+"text": "including",
+"normalized": "include"
+}
+},
+{
+"subject": {
+"text": "a bail provision"
+},
+"sentence": " The Union Cabinet had yesterday cleared some amendments to the draft Muslim Women (Protection of Rights on Marriage) Bill, 2017 bill, including adding a bail provision to it.",
+"object": {
+"text": "to it"
+},
+"action": {
+"verb": {
+"text": "add",
+"tense": "present"
+},
+"text": "adding",
+"normalized": "add"
+}
+},
+{
+"subject": {
+"text": "The amendments"
+},
+"sentence": " The amendments came after the Supreme Court on August 22 last year had struck down 'triple talaq', calling unconstitutional.",
+"action": {
+"verb": {
+"text": "come",
+"tense": "past"
+},
+"text": "came",
+"normalized": "come"
+}
+},
+{
+"subject": {
+"text": "struck down 'triple talaq'"
+},
+"sentence": " The amendments came after the Supreme Court on August 22 last year had struck down 'triple talaq', calling unconstitutional.",
+"action": {
+"verb": {
+"text": "have",
+"tense": "past"
+},
+"text": "had",
+"normalized": "have"
+}
+},
+{
+"subject": {
+"text": "The Lok Sabha"
+},
+"sentence": " The Lok Sabha had passed the Bill in December.",
+"object": {
+"text": "passed the Bill"
+},
+"action": {
+"verb": {
+"text": "have",
+"tense": "past"
+},
+"text": "had",
+"normalized": "have"
+}
+},
+{
+"subject": {
+"text": "The Lok Sabha"
+},
+"sentence": " The Lok Sabha had passed the Bill in December.",
+"object": {
+"text": "the Bill"
+},
+"action": {
+"verb": {
+"text": "pass",
+"tense": "past"
+},
+"text": "had passed",
+"normalized": "have pass"
+}
+},
+{
+"subject": {
+"text": "by the Rajya Sabha"
+},
+"sentence": " However, amendments to the draft legislation, once cleared by the Rajya Sabha, will again be sent to the Lower House for passage.",
+"object": {
+"text": "amendments to the draft legislation"
+},
+"action": {
+"verb": {
+"text": "clear",
+"tense": "past"
+},
+"text": "cleared",
+"normalized": "clear"
+}
+},
+{
+"subject": {
+"text": "amendments to the draft legislation"
+},
+"sentence": " However, amendments to the draft legislation, once cleared by the Rajya Sabha, will again be sent to the Lower House for passage.",
+"action": {
+"verb": {
+"text": "be",
+"tense": "future"
+},
+"text": "will again be sent",
+"normalized": "will again be send"
+}
+},
+{
+"subject": {
+"text": "amendments to the draft legislation"
+},
+"sentence": " However, amendments to the draft legislation, once cleared by the Rajya Sabha, will again be sent to the Lower House for passage.",
+"object": {
+"text": "to the Lower House"
+},
+"action": {
+"verb": {
+"text": "send",
+"tense": "future"
+},
+"text": "will again be sent",
+"normalized": "will again be send"
+}
+},
+{
+"subject": {
+"text": "The Rajya Sabha"
+},
+"sentence": " The Rajya Sabha was adjourned twice within minutes during the pre-lunch session today amid protest by Congress members over their demand for a JPC probe into the alleged scam in the Rafale jet deal.",
+"object": {
+"text": "adjourned twice"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "was",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "The Rajya Sabha"
+},
+"sentence": " The Rajya Sabha was adjourned twice within minutes during the pre-lunch session today amid protest by Congress members over their demand for a JPC probe into the alleged scam in the Rafale jet deal.",
+"action": {
+"verb": {
+"text": "adjourn",
+"tense": "past"
+},
+"text": "was adjourned",
+"normalized": "be adjourn"
+}
+}
+],
+"relations": [
+{
+"type": "locatedAt",
+"sentence": "NEW DELHI: The could not be taken up for discussion and passage on the last day of Monsoon session on Friday, owing to lack of consensus among political parties on the issue.",
+"score": 0.886652,
+"arguments": [
+{
+"text": "session",
+"location": [
+91,
+98
+],
+"entities": [
+{
+"type": "EventMeeting",
+"text": "session"
+}
+]
+},
+{
+"text": "Monsoon",
+"location": [
+83,
+90
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Monsoon"
+}
+]
+}
+]
+},
+{
+"type": "timeOf",
+"sentence": "The Rajya Sabha was adjourned twice within minutes during the pre-lunch session today amid protest by Congress members over their demand for a JPC probe into the alleged scam in the Rafale jet deal.",
+"score": 0.96041,
+"arguments": [
+{
+"text": "today",
+"location": [
+1383,
+1388
+],
+"entities": [
+{
+"type": "Date",
+"text": "today"
+}
+]
+},
+{
+"text": "session",
+"location": [
+1375,
+1382
+],
+"entities": [
+{
+"type": "EventMeeting",
+"text": "session"
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "The Rajya Sabha was adjourned twice within minutes during the pre-lunch session today amid protest by Congress members over their demand for a JPC probe into the alleged scam in the Rafale jet deal.",
+"score": 0.457634,
+"arguments": [
+{
+"text": "members",
+"location": [
+1414,
+1421
+],
+"entities": [
+{
+"type": "Person",
+"text": "members"
+}
+]
+},
+{
+"text": "Congress",
+"location": [
+1405,
+1413
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Congress",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "The Rajya Sabha was adjourned twice within minutes during the pre-lunch session today amid protest by Congress members over their demand for a JPC probe into the alleged scam in the Rafale jet deal.",
+"score": 0.413202,
+"arguments": [
+{
+"text": "jet",
+"location": [
+1492,
+1495
+],
+"entities": [
+{
+"type": "Vehicle",
+"text": "jet"
+}
+]
+},
+{
+"text": "Rafale",
+"location": [
+1485,
+1491
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Rafale"
+}
+]
+}
+]
+},
+{
+"type": "timeOf",
+"sentence": "NEW DELHI: The could not be taken up for discussion and passage on the last day of Monsoon session on Friday, owing to lack of consensus among political parties on the issue.",
+"score": 0.754072,
+"arguments": [
+{
+"text": "Friday",
+"location": [
+102,
+108
+],
+"entities": [
+{
+"type": "Date",
+"text": "Friday"
+}
+]
+},
+{
+"text": "session",
+"location": [
+91,
+98
+],
+"entities": [
+{
+"type": "EventMeeting",
+"text": "session"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "The Congress-led Opposition has been demanding that the Muslim Women ( ) Bill 2017 be sent to a Select Committee for further scrutiny.",
+"score": 0.675402,
+"arguments": [
+{
+"text": "Opposition",
+"location": [
+192,
+202
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Opposition",
+"disambiguation": {
+"subtype": [
+"Political"
+]
+}
+}
+]
+},
+{
+"text": "demanding",
+"location": [
+212,
+221
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "demanding"
+}
+]
+}
+]
+},
+{
+"type": "partOfMany",
+"sentence": "The Congress-led Opposition has been demanding that the Muslim Women ( ) Bill 2017 be sent to a Select Committee for further scrutiny.",
+"score": 0.815196,
+"arguments": [
+{
+"text": "Bill",
+"location": [
+248,
+252
+],
+"entities": [
+{
+"type": "Person",
+"text": "Bill"
+}
+]
+},
+{
+"text": "Muslim Women",
+"location": [
+231,
+243
+],
+"entities": [
+{
+"type": "Person",
+"text": "Muslim Women"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Today, when the Rajya Sabha reconvened at 2:30 pm after two adjournments in the pre-lunch session, Chairman M said he has decided that the bills \"on which there is some sort of broad consensus\" will be taken up for discussion and passage later in the day.",
+"score": 0.994089,
+"arguments": [
+{
+"text": "M",
+"location": [
+567,
+568
+],
+"entities": [
+{
+"type": "Person",
+"text": "M"
+}
+]
+},
+{
+"text": "said",
+"location": [
+569,
+573
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "timeOf",
+"sentence": "Today, when the Rajya Sabha reconvened at 2:30 pm after two adjournments in the pre-lunch session, Chairman M said he has decided that the bills \"on which there is some sort of broad consensus\" will be taken up for discussion and passage later in the day.",
+"score": 0.92323,
+"arguments": [
+{
+"text": "the day",
+"location": [
+706,
+713
+],
+"entities": [
+{
+"type": "Date",
+"text": "the day"
+}
+]
+},
+{
+"text": "discussion",
+"location": [
+674,
+684
+],
+"entities": [
+{
+"type": "EventMeeting",
+"text": "discussion"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Naidu also clarified that the will not be taken up today as a consensus has not yet been evolved on the issue.",
+"score": 0.965574,
+"arguments": [
+{
+"text": "Naidu",
+"location": [
+715,
+720
+],
+"entities": [
+{
+"type": "Person",
+"text": "Naidu"
+}
+]
+},
+{
+"text": "clarified",
+"location": [
+726,
+735
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "clarified"
+}
+]
+}
+]
+},
+{
+"type": "timeOf",
+"sentence": "Naidu also clarified that the will not be taken up today as a consensus has not yet been evolved on the issue.",
+"score": 0.503478,
+"arguments": [
+{
+"text": "today",
+"location": [
+766,
+771
+],
+"entities": [
+{
+"type": "Date",
+"text": "today"
+}
+]
+},
+{
+"text": "clarified",
+"location": [
+726,
+735
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "clarified"
+}
+]
+}
+]
+},
+{
+"type": "timeOf",
+"sentence": "The Rajya Sabha was adjourned twice within minutes during the pre-lunch session today amid protest by Congress members over their demand for a JPC probe into the alleged scam in the Rafale jet deal.",
+"score": 0.716762,
+"arguments": [
+{
+"text": "within minutes",
+"location": [
+1339,
+1353
+],
+"entities": [
+{
+"type": "Duration",
+"text": "within minutes"
+}
+]
+},
+{
+"text": "session",
+"location": [
+1375,
+1382
+],
+"entities": [
+{
+"type": "EventMeeting",
+"text": "session"
+}
+]
+}
+]
+}
+],
+"language": "en",
+"keywords": [
+{
+"text": "Rajya Sabha",
+"sentiment": {
+"score": -0.674571,
+"label": "negative"
+},
+"relevance": 0.922769,
+"emotion": {
+"sadness": 0.317509,
+"joy": 0.055745,
+"fear": 0.061426,
+"disgust": 0.289242,
+"anger": 0.549714
+}
+},
+{
+"text": "pre-lunch session",
+"sentiment": {
+"score": -0.674571,
+"label": "negative"
+},
+"relevance": 0.813125,
+"emotion": {
+"sadness": 0.385691,
+"joy": 0.076757,
+"fear": 0.096619,
+"disgust": 0.198072,
+"anger": 0.487581
+}
+},
+{
+"text": "Muslim Women",
+"sentiment": {
+"score": -0.460904,
+"label": "negative"
+},
+"relevance": 0.800633,
+"emotion": {
+"sadness": 0.333453,
+"joy": 0.09934,
+"fear": 0.036882,
+"disgust": 0.455047,
+"anger": 0.29232
+}
+},
+{
+"text": "draft Muslim Women",
+"sentiment": {
+"score": -0.342288,
+"label": "negative"
+},
+"relevance": 0.775625,
+"emotion": {
+"sadness": 0.345622,
+"joy": 0.198616,
+"fear": 0.034785,
+"disgust": 0.4032,
+"anger": 0.193741
+}
+},
+{
+"text": "Rafale jet deal",
+"sentiment": {
+"score": -0.674571,
+"label": "negative"
+},
+"relevance": 0.774367,
+"emotion": {
+"sadness": 0.373209,
+"joy": 0.040657,
+"fear": 0.077293,
+"disgust": 0.279364,
+"anger": 0.515519
+}
+}
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Rajya Sabha",
+"sentiment": {
+"score": -0.674571,
+"label": "negative"
+},
+"relevance": 0.939938,
+"emotion": {
+"sadness": 0.317509,
+"joy": 0.055745,
+"fear": 0.061426,
+"disgust": 0.289242,
+"anger": 0.549714
+},
+"disambiguation": {
+"subtype": [
+"GovernmentalBody",
+"Legislature"
+],
+"name": "Rajya Sabha",
+"dbpedia_resource": "http://dbpedia.org/resource/Rajya_Sabha"
+},
+"count": 3
+},
+{
+"type": "Organization",
+"text": "Lok Sabha",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.449019,
+"emotion": {
+"sadness": 0.180796,
+"joy": 0.190263,
+"fear": 0.055643,
+"disgust": 0.050228,
+"anger": 0.157033
+},
+"disambiguation": {
+"subtype": [
+"GovernmentalBody",
+"Legislature"
+],
+"name": "Lok Sabha",
+"dbpedia_resource": "http://dbpedia.org/resource/Lok_Sabha"
+},
+"count": 1
+},
+{
+"type": "Facility",
+"text": "Upper House",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.258227,
+"emotion": {
+"sadness": 0.171832,
+"joy": 0.174065,
+"fear": 0.208027,
+"disgust": 0.143692,
+"anger": 0.123078
+},
+"count": 1
+},
+{
+"type": "Organization",
+"text": "Select Committee",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.256925,
+"emotion": {
+"sadness": 0.084636,
+"joy": 0.079226,
+"fear": 0.02605,
+"disgust": 0.116024,
+"anger": 0.138875
+},
+"count": 1
+},
+{
+"type": "Location",
+"text": "DELHI",
+"sentiment": {
+"score": 0.234056,
+"label": "positive"
+},
+"relevance": 0.253727,
+"emotion": {
+"sadness": 0.115132,
+"joy": 0.596039,
+"fear": 0.084006,
+"disgust": 0.034674,
+"anger": 0.046922
+},
+"disambiguation": {
+"subtype": [
+"Country"
+]
+},
+"count": 1
+}
+],
+"concepts": [
+{
+"text": "Lok Sabha",
+"relevance": 0.983836,
+"dbpedia_resource": "http://dbpedia.org/resource/Lok_Sabha"
+},
+{
+"text": "United States Congress",
+"relevance": 0.805774,
+"dbpedia_resource": "http://dbpedia.org/resource/United_States_Congress"
+},
+{
+"text": "United States Constitution",
+"relevance": 0.790059,
+"dbpedia_resource": "http://dbpedia.org/resource/United_States_Constitution"
+},
+{
+"text": "Rajya Sabha",
+"relevance": 0.749457,
+"dbpedia_resource": "http://dbpedia.org/resource/Rajya_Sabha"
+},
+{
+"text": "Lower house",
+"relevance": 0.733059,
+"dbpedia_resource": "http://dbpedia.org/resource/Lower_house"
+}
+],
+"categories": [
+{
+"score": 0.590319,
+"label": "/law, govt and politics/government/parliament"
+},
+{
+"score": 0.473951,
+"label": "/law, govt and politics/politics/elections"
+},
+{
+"score": 0.368838,
+"label": "/law, govt and politics/legal issues/legislation"
+}
+]
+}
+}

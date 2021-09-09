@@ -1,0 +1,1236 @@
+{
+"source_article_link": "https://timesofindia.indiatimes.com/india/explain-stand-on-minority-rahul-gandhi-asked/articleshow/64954230.cms?&utm_source=Articleshow&utm_medium=Organic&utm_campaign=Related_Stories",
+"title": "Explain stand on minority, Rahul Gandhi asked",
+"date_published": "2018-07-12T10:20:28+05:30",
+"source_type": "news_article",
+"source_name": "timesofindia.indiatimes.com",
+"image_link": [
+"https://timesofindia.indiatimes.com/thumb/msid-64954234,imgsize-801755,width-400,resizemode-4/64954234.jpg"
+],
+"article_body": "NEW DELHI: chief fielded some tough questions about the party\u2019s commitment to the minority cause in a closed door on Wednesday. The expressions of concern came in the backdrop of the Congress\u2019 recent attempts to dilute its pro-minority image, with Rahul undertaking a series of temple visits while electioneering in Gujarat and Karnataka, declaring himself a Shiv Bhakt, and also indicating that he wanted to go on Kailash Mansarovar Yatra. The meeting comes months after UPA chief said BJP had been successful in creating a perception that Congress is a \u2018Muslim party\u2019 for which the latter had suffered electorally. Those who met Rahul included historian Syed Irfan Habib, economist Abusaleh Shariff, ex-telecom secretary MS Farooqui, industrialist Junaid Rahman, historian Rakshanda Jalil, journalist Farah Naqvi, Haroon Ali Khan, lawyer Fuzail Ayyubi and JNU professor Ghazala Jameel. During the hour-long interaction, Rahul responded to queries about whether Congress had a specific agenda for the and how the party planned to address the needs of in India. Sources said the party president remained cautious in his response, asserting that while Congress is committed to the cause of justice, and would fend for anyone who was marginalised or facing incarceration, he was not keen to have the party identified with one community. The Congress president is also believed to have told his audience, that he was keen to build a programme-based alliance with ideologically committed partners and not interested in building a larger negative narrative against PM Modi. Sources said Rahul also appeared ill at ease over charges that Congress had \u2018used\u2019 the Muslim community to garner votes when needed. In an attempt to allay such concerns, Rahul is believed to have said that Congress does not \u2018use\u2019 a community, nor does it believe in pitting one against the other like BJP.",
+"description": "Rahul fielded some tough questions during an interaction with 11 Muslim intellectuals yesterday The expressions of concern came in the backdrop of the Congress\u2019 recent attempts to dilute its pro-minority image During the interaction, Rahul responded to queries about whether Congress had a specific agenda for the minorities ",
+"time_scraped": "2018-08-23 15:01:34.466439",
+"article_id": "64954230",
+"article_category": "IndiaNews",
+"image_details": [
+{
+"url": "https://timesofindia.indiatimes.com/thumb/msid-64954234,imgsize-801755,width-400,resizemode-4/64954234.jpg",
+"path": "full/d751dd5311b8f0fbf920c8b22f82f85682a1e99b.jpg",
+"checksum": "f9118e667f5416faee973c49488125e3"
+}
+],
+"ibm_nlu": {
+"usage": {
+"text_units": 1,
+"text_characters": 1875,
+"features": 7
+},
+"sentiment": {
+"document": {
+"score": -0.632574,
+"label": "negative"
+}
+},
+"semantic_roles": [
+{
+"subject": {
+"text": "chief"
+},
+"sentence": "NEW DELHI: chief fielded some tough questions about the party\u2019s commitment to the minority cause in a closed door on Wednesday.",
+"object": {
+"text": "some tough questions about the party\u2019s commitment to the minority cause in a closed door on Wednesday"
+},
+"action": {
+"verb": {
+"text": "field",
+"tense": "past"
+},
+"text": "fielded",
+"normalized": "field"
+}
+},
+{
+"subject": {
+"text": "the party"
+},
+"sentence": "NEW DELHI: chief fielded some tough questions about the party\u2019s commitment to the minority cause in a closed door on Wednesday.",
+"object": {
+"text": "commitment"
+},
+"action": {
+"verb": {
+"text": "has",
+"tense": "present"
+},
+"text": "s",
+"normalized": "s"
+}
+},
+{
+"subject": {
+"text": "the Congress\u2019"
+},
+"sentence": " The expressions of concern came in the backdrop of the Congress\u2019 recent attempts to dilute its pro-minority image, with Rahul undertaking a series of temple visits while electioneering in Gujarat and Karnataka, declaring himself a Shiv Bhakt, and also indicating that he wanted to go on Kailash Mansarovar Yatra.",
+"object": {
+"text": "its pro-minority image"
+},
+"action": {
+"verb": {
+"text": "dilute",
+"tense": "future"
+},
+"text": "to dilute",
+"normalized": "to dilute"
+}
+},
+{
+"subject": {
+"text": "Rahul"
+},
+"sentence": " The expressions of concern came in the backdrop of the Congress\u2019 recent attempts to dilute its pro-minority image, with Rahul undertaking a series of temple visits while electioneering in Gujarat and Karnataka, declaring himself a Shiv Bhakt, and also indicating that he wanted to go on Kailash Mansarovar Yatra.",
+"object": {
+"text": "a series of temple"
+},
+"action": {
+"verb": {
+"text": "undertake",
+"tense": "present"
+},
+"text": "undertaking",
+"normalized": "undertake"
+}
+},
+{
+"subject": {
+"text": "himself"
+},
+"sentence": " The expressions of concern came in the backdrop of the Congress\u2019 recent attempts to dilute its pro-minority image, with Rahul undertaking a series of temple visits while electioneering in Gujarat and Karnataka, declaring himself a Shiv Bhakt, and also indicating that he wanted to go on Kailash Mansarovar Yatra.",
+"object": {
+"text": "a Shiv Bhakt"
+},
+"action": {
+"verb": {
+"text": "declare",
+"tense": "present"
+},
+"text": "declaring",
+"normalized": "declare"
+}
+},
+{
+"subject": {
+"text": "he"
+},
+"sentence": " The expressions of concern came in the backdrop of the Congress\u2019 recent attempts to dilute its pro-minority image, with Rahul undertaking a series of temple visits while electioneering in Gujarat and Karnataka, declaring himself a Shiv Bhakt, and also indicating that he wanted to go on Kailash Mansarovar Yatra.",
+"object": {
+"text": "to go on Kailash Mansarovar Yatra"
+},
+"action": {
+"verb": {
+"text": "want",
+"tense": "past"
+},
+"text": "wanted",
+"normalized": "want"
+}
+},
+{
+"subject": {
+"text": "The meeting"
+},
+"sentence": " The meeting comes months after UPA chief said BJP had been successful in creating a perception that Congress is a \u2018Muslim party\u2019 for which the latter had suffered electorally.",
+"object": {
+"text": "months"
+},
+"action": {
+"verb": {
+"text": "come",
+"tense": "present"
+},
+"text": "comes",
+"normalized": "come"
+}
+},
+{
+"subject": {
+"text": "UPA chief"
+},
+"sentence": " The meeting comes months after UPA chief said BJP had been successful in creating a perception that Congress is a \u2018Muslim party\u2019 for which the latter had suffered electorally.",
+"object": {
+"text": "BJP had been successful in creating a perception that Congress is a \u2018Muslim party\u2019 for which the latter had suffered electorally"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "BJP"
+},
+"sentence": " The meeting comes months after UPA chief said BJP had been successful in creating a perception that Congress is a \u2018Muslim party\u2019 for which the latter had suffered electorally.",
+"object": {
+"text": "a perception that Congress is a \u2018Muslim party\u2019 for which the latter had suffered electorally"
+},
+"action": {
+"verb": {
+"text": "create",
+"tense": "past"
+},
+"text": "creating",
+"normalized": "create"
+}
+},
+{
+"subject": {
+"text": "Those"
+},
+"sentence": " Those who met Rahul included historian Syed Irfan Habib, economist Abusaleh Shariff, ex-telecom secretary MS Farooqui, industrialist Junaid Rahman, historian Rakshanda Jalil, journalist Farah Naqvi, Haroon Ali Khan, lawyer Fuzail Ayyubi and JNU professor Ghazala Jameel.",
+"object": {
+"text": "Rahul included historian Syed Irfan Habib"
+},
+"action": {
+"verb": {
+"text": "meet",
+"tense": "past"
+},
+"text": "met",
+"normalized": "meet"
+}
+},
+{
+"subject": {
+"text": "historian Syed Irfan Habib, economist Abusaleh Shariff, ex-telecom secretary MS Farooqui, industrialist Junaid Rahman, historian Rakshanda Jalil, journalist Farah Naqvi, Haroon Ali Khan, lawyer Fuzail Ayyubi and JNU professor Ghazala Jameel"
+},
+"sentence": " Those who met Rahul included historian Syed Irfan Habib, economist Abusaleh Shariff, ex-telecom secretary MS Farooqui, industrialist Junaid Rahman, historian Rakshanda Jalil, journalist Farah Naqvi, Haroon Ali Khan, lawyer Fuzail Ayyubi and JNU professor Ghazala Jameel.",
+"object": {
+"text": "Those who met Rahul"
+},
+"action": {
+"verb": {
+"text": "include",
+"tense": "past"
+},
+"text": "included",
+"normalized": "include"
+}
+},
+{
+"subject": {
+"text": "Congress"
+},
+"sentence": " During the hour-long interaction, Rahul responded to queries about whether Congress had a specific agenda for the and how the party planned to address the needs of in India.",
+"object": {
+"text": "a specific agenda for the and how the party planned to address the needs of in India"
+},
+"action": {
+"verb": {
+"text": "have",
+"tense": "past"
+},
+"text": "had",
+"normalized": "have"
+}
+},
+{
+"subject": {
+"text": "Sources"
+},
+"sentence": " Sources said the party president remained cautious in his response, asserting that while Congress is committed to the cause of justice, and would fend for anyone who was marginalised or facing incarceration, he was not keen to have the party identified with one community.",
+"object": {
+"text": "the party president remained cautious in his response, asserting that while Congress is committed to the cause of justice, and would fend for anyone who was marginalised or facing incarceration, he was not keen to have the party identified with one community"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "the party president"
+},
+"sentence": " Sources said the party president remained cautious in his response, asserting that while Congress is committed to the cause of justice, and would fend for anyone who was marginalised or facing incarceration, he was not keen to have the party identified with one community.",
+"action": {
+"verb": {
+"text": "remain",
+"tense": "past"
+},
+"text": "remained",
+"normalized": "remain"
+}
+},
+{
+"subject": {
+"text": "the party president"
+},
+"sentence": " Sources said the party president remained cautious in his response, asserting that while Congress is committed to the cause of justice, and would fend for anyone who was marginalised or facing incarceration, he was not keen to have the party identified with one community.",
+"object": {
+"text": "that while Congress is committed to the cause of justice, and would fend for anyone who was marginalised or facing incarceration, he was not keen to have the party identified with one community"
+},
+"action": {
+"verb": {
+"text": "assert",
+"tense": "present"
+},
+"text": "asserting",
+"normalized": "assert"
+}
+},
+{
+"subject": {
+"text": "Congress"
+},
+"sentence": " Sources said the party president remained cautious in his response, asserting that while Congress is committed to the cause of justice, and would fend for anyone who was marginalised or facing incarceration, he was not keen to have the party identified with one community.",
+"object": {
+"text": "to the cause of justice"
+},
+"action": {
+"verb": {
+"text": "commit",
+"tense": "past"
+},
+"text": "committed",
+"normalized": "commit"
+}
+},
+{
+"subject": {
+"text": "anyone"
+},
+"sentence": " Sources said the party president remained cautious in his response, asserting that while Congress is committed to the cause of justice, and would fend for anyone who was marginalised or facing incarceration, he was not keen to have the party identified with one community.",
+"object": {
+"text": "marginalised or facing incarceration"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "future"
+},
+"text": "was",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "anyone"
+},
+"sentence": " Sources said the party president remained cautious in his response, asserting that while Congress is committed to the cause of justice, and would fend for anyone who was marginalised or facing incarceration, he was not keen to have the party identified with one community.",
+"object": {
+"text": "incarceration"
+},
+"action": {
+"verb": {
+"text": "face",
+"tense": "past"
+},
+"text": "was marginalised or facing",
+"normalized": "be marginalise or face"
+}
+},
+{
+"subject": {
+"text": "he"
+},
+"sentence": " Sources said the party president remained cautious in his response, asserting that while Congress is committed to the cause of justice, and would fend for anyone who was marginalised or facing incarceration, he was not keen to have the party identified with one community.",
+"object": {
+"text": "the party identified with one community"
+},
+"action": {
+"verb": {
+"text": "have",
+"tense": "past"
+},
+"text": "to have",
+"normalized": "to have"
+}
+},
+{
+"subject": {
+"text": "The Congress president"
+},
+"sentence": " The Congress president is also believed to have told his audience, that he was keen to build a programme-based alliance with ideologically committed partners and not interested in building a larger negative narrative against PM Modi.",
+"object": {
+"text": "he was keen to build a programme-based alliance with ideologically committed partners and not interested in building a larger negative narrative against PM Modi"
+},
+"action": {
+"verb": {
+"text": "tell",
+"tense": "past"
+},
+"text": "is also believed to have told",
+"normalized": "be also believe to have tell"
+}
+},
+{
+"subject": {
+"text": "he"
+},
+"sentence": " The Congress president is also believed to have told his audience, that he was keen to build a programme-based alliance with ideologically committed partners and not interested in building a larger negative narrative against PM Modi.",
+"object": {
+"text": "a programme-based alliance"
+},
+"action": {
+"verb": {
+"text": "build",
+"tense": "past"
+},
+"text": "to build",
+"normalized": "to build"
+}
+},
+{
+"subject": {
+"text": "Sources"
+},
+"sentence": " Sources said Rahul also appeared ill at ease over charges that Congress had \u2018used\u2019 the Muslim community to garner votes when needed.",
+"object": {
+"text": "Rahul also appeared ill at ease over charges that Congress had \u2018used\u2019 the Muslim community to garner votes when needed"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "Congress"
+},
+"sentence": " Sources said Rahul also appeared ill at ease over charges that Congress had \u2018used\u2019 the Muslim community to garner votes when needed.",
+"object": {
+"text": "\u2019 the Muslim community"
+},
+"action": {
+"verb": {
+"text": "\u2018used",
+"tense": "past"
+},
+"text": "had \u2018used",
+"normalized": "have \u2018used"
+}
+},
+{
+"subject": {
+"text": "Rahul"
+},
+"sentence": " In an attempt to allay such concerns, Rahul is believed to have said that Congress does not \u2018use\u2019 a community, nor does it believe in pitting one against the other like BJP.",
+"object": {
+"text": "that Congress does not \u2018use\u2019 a community, nor does it believe in pitting one against the other like BJP"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "is believed to have said",
+"normalized": "be believe to have say"
+}
+},
+{
+"subject": {
+"text": "Congress"
+},
+"sentence": " In an attempt to allay such concerns, Rahul is believed to have said that Congress does not \u2018use\u2019 a community, nor does it believe in pitting one against the other like BJP.",
+"object": {
+"text": "a community"
+},
+"action": {
+"verb": {
+"text": "\u2018use",
+"tense": "present",
+"negated": true
+},
+"text": "\u2018use",
+"normalized": "\u2018use"
+}
+},
+{
+"subject": {
+"text": "Congress"
+},
+"sentence": " In an attempt to allay such concerns, Rahul is believed to have said that Congress does not \u2018use\u2019 a community, nor does it believe in pitting one against the other like BJP.",
+"object": {
+"text": "it believe"
+},
+"action": {
+"verb": {
+"text": "do",
+"tense": "present",
+"negated": true
+},
+"text": "does",
+"normalized": "do"
+}
+},
+{
+"subject": {
+"text": "it"
+},
+"sentence": " In an attempt to allay such concerns, Rahul is believed to have said that Congress does not \u2018use\u2019 a community, nor does it believe in pitting one against the other like BJP.",
+"action": {
+"verb": {
+"text": "believe",
+"tense": "present"
+},
+"text": "believe",
+"normalized": "believe"
+}
+},
+{
+"subject": {
+"text": "one"
+},
+"sentence": " In an attempt to allay such concerns, Rahul is believed to have said that Congress does not \u2018use\u2019 a community, nor does it believe in pitting one against the other like BJP.",
+"object": {
+"text": "against the other like BJP"
+},
+"action": {
+"verb": {
+"text": "pit",
+"tense": "present"
+},
+"text": "pitting",
+"normalized": "pit"
+}
+}
+],
+"relations": [
+{
+"type": "locatedAt",
+"sentence": "The expressions of concern came in the backdrop of the Congress' recent attempts to dilute its pro-minority image, with Rahul undertaking a series of temple visits while electioneering in Gujarat and Karnataka, declaring himself a Shiv Bhakt, and also indicating that he wanted to go on Kailash Mansarovar Yatra.",
+"score": 0.61272,
+"arguments": [
+{
+"text": "Rahul",
+"location": [
+248,
+253
+],
+"entities": [
+{
+"type": "Person",
+"text": "Rahul"
+}
+]
+},
+{
+"text": "Gujarat",
+"location": [
+316,
+323
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Gujarat"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "The Congress president is also believed to have told his audience, that he was keen to build a programme-based alliance with ideologically committed partners and not interested in building a larger negative narrative against PM Modi.",
+"score": 0.967768,
+"arguments": [
+{
+"text": "president",
+"location": [
+1348,
+1357
+],
+"entities": [
+{
+"type": "Person",
+"text": "president"
+}
+]
+},
+{
+"text": "told",
+"location": [
+1383,
+1387
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "The Congress president is also believed to have told his audience, that he was keen to build a programme-based alliance with ideologically committed partners and not interested in building a larger negative narrative against PM Modi.",
+"score": 0.841724,
+"arguments": [
+{
+"text": "audience",
+"location": [
+1392,
+1400
+],
+"entities": [
+{
+"type": "Person",
+"text": "audience"
+}
+]
+},
+{
+"text": "told",
+"location": [
+1383,
+1387
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "partOf",
+"sentence": "The Congress president is also believed to have told his audience, that he was keen to build a programme-based alliance with ideologically committed partners and not interested in building a larger negative narrative against PM Modi.",
+"score": 0.759165,
+"arguments": [
+{
+"text": "alliance",
+"location": [
+1446,
+1454
+],
+"entities": [
+{
+"type": "Organization",
+"text": "alliance"
+}
+]
+},
+{
+"text": "partners",
+"location": [
+1484,
+1492
+],
+"entities": [
+{
+"type": "Organization",
+"text": "partners"
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "Sources said Rahul also appeared ill at ease over charges that Congress had \u02bbused' the Muslim community to garner votes when needed.",
+"score": 0.509373,
+"arguments": [
+{
+"text": "Muslim community",
+"location": [
+1656,
+1672
+],
+"entities": [
+{
+"type": "Person",
+"text": "Muslim community"
+}
+]
+},
+{
+"text": "Congress",
+"location": [
+1632,
+1640
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Congress",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "In an attempt to allay such concerns, Rahul is believed to have said that Congress does not \u02bbuse' a community, nor does it believe in pitting one against the other like BJP.",
+"score": 0.773739,
+"arguments": [
+{
+"text": "Rahul",
+"location": [
+1740,
+1745
+],
+"entities": [
+{
+"type": "Person",
+"text": "Rahul"
+}
+]
+},
+{
+"text": "said",
+"location": [
+1766,
+1770
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "The expressions of concern came in the backdrop of the Congress' recent attempts to dilute its pro-minority image, with Rahul undertaking a series of temple visits while electioneering in Gujarat and Karnataka, declaring himself a Shiv Bhakt, and also indicating that he wanted to go on Kailash Mansarovar Yatra.",
+"score": 0.707585,
+"arguments": [
+{
+"text": "Rahul",
+"location": [
+248,
+253
+],
+"entities": [
+{
+"type": "Person",
+"text": "Rahul"
+}
+]
+},
+{
+"text": "declaring",
+"location": [
+339,
+348
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "declaring"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "The expressions of concern came in the backdrop of the Congress' recent attempts to dilute its pro-minority image, with Rahul undertaking a series of temple visits while electioneering in Gujarat and Karnataka, declaring himself a Shiv Bhakt, and also indicating that he wanted to go on Kailash Mansarovar Yatra.",
+"score": 0.579774,
+"arguments": [
+{
+"text": "himself",
+"location": [
+349,
+356
+],
+"entities": [
+{
+"type": "Person",
+"text": "Rahul"
+}
+]
+},
+{
+"text": "declaring",
+"location": [
+339,
+348
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "declaring"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "The meeting comes months after UPA chief said BJP had been successful in creating a perception that Congress is a \u02bbMuslim party' for which the latter had suffered electorally.",
+"score": 0.995044,
+"arguments": [
+{
+"text": "chief",
+"location": [
+476,
+481
+],
+"entities": [
+{
+"type": "Person",
+"text": "Kailash Mansarovar Yatra"
+}
+]
+},
+{
+"text": "said",
+"location": [
+482,
+486
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "colleague",
+"sentence": "Those who met Rahul included historian Syed Irfan Habib, economist Abusaleh Shariff, ex-telecom secretary MS Farooqui, industrialist Junaid Rahman, historian Rakshanda Jalil, journalist Farah Naqvi, Haroon Ali Khan, lawyer Fuzail Ayyubi and JNU professor Ghazala Jameel.",
+"score": 0.462821,
+"arguments": [
+{
+"text": "professor",
+"location": [
+862,
+871
+],
+"entities": [
+{
+"type": "Person",
+"text": "Ghazala Jameel"
+}
+]
+},
+{
+"text": "JNU",
+"location": [
+858,
+861
+],
+"entities": [
+{
+"type": "Person",
+"text": "JNU"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "During the hour-long interaction, Rahul responded to queries about whether Congress had a specific agenda for the and how the party planned to address the needs of in India.",
+"score": 0.998096,
+"arguments": [
+{
+"text": "Rahul",
+"location": [
+922,
+927
+],
+"entities": [
+{
+"type": "Person",
+"text": "Rahul"
+}
+]
+},
+{
+"text": "responded",
+"location": [
+928,
+937
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "responded"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Sources said the party president remained cautious in his response, asserting that while Congress is committed to the cause of justice, and would fend for anyone who was marginalised or facing incarceration, he was not keen to have the party identified with one community.",
+"score": 0.978774,
+"arguments": [
+{
+"text": "Sources",
+"location": [
+1062,
+1069
+],
+"entities": [
+{
+"type": "Person",
+"text": "Sources"
+}
+]
+},
+{
+"text": "said",
+"location": [
+1070,
+1074
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Sources said Rahul also appeared ill at ease over charges that Congress had \u02bbused' the Muslim community to garner votes when needed.",
+"score": 0.97872,
+"arguments": [
+{
+"text": "Sources",
+"location": [
+1569,
+1576
+],
+"entities": [
+{
+"type": "Person",
+"text": "Sources"
+}
+]
+},
+{
+"text": "said",
+"location": [
+1577,
+1581
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "memberOf",
+"sentence": "Sources said the party president remained cautious in his response, asserting that while Congress is committed to the cause of justice, and would fend for anyone who was marginalised or facing incarceration, he was not keen to have the party identified with one community.",
+"score": 0.589659,
+"arguments": [
+{
+"text": "president",
+"location": [
+1085,
+1094
+],
+"entities": [
+{
+"type": "Person",
+"text": "president"
+}
+]
+},
+{
+"text": "party",
+"location": [
+1079,
+1084
+],
+"entities": [
+{
+"type": "Organization",
+"text": "party",
+"disambiguation": {
+"subtype": [
+"Political"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "The Congress president is also believed to have told his audience, that he was keen to build a programme-based alliance with ideologically committed partners and not interested in building a larger negative narrative against PM Modi.",
+"score": 0.537552,
+"arguments": [
+{
+"text": "president",
+"location": [
+1348,
+1357
+],
+"entities": [
+{
+"type": "Person",
+"text": "president"
+}
+]
+},
+{
+"text": "Congress",
+"location": [
+1339,
+1347
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Congress",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+}
+]
+}
+],
+"language": "en",
+"keywords": [
+{
+"text": "industrialist Junaid Rahman",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.936622,
+"emotion": {
+"sadness": 0.144548,
+"joy": 0.185315,
+"fear": 0.087573,
+"disgust": 0.077654,
+"anger": 0.090723
+}
+},
+{
+"text": "Kailash Mansarovar Yatra",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.924194,
+"emotion": {
+"sadness": 0.331202,
+"joy": 0.061322,
+"fear": 0.420198,
+"disgust": 0.03239,
+"anger": 0.070538
+}
+},
+{
+"text": "Syed Irfan Habib",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.91924,
+"emotion": {
+"sadness": 0.044137,
+"joy": 0.26247,
+"fear": 0.033492,
+"disgust": 0.007326,
+"anger": 0.041071
+}
+},
+{
+"text": "journalist Farah Naqvi",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.90614,
+"emotion": {
+"sadness": 0.343816,
+"joy": 0.096608,
+"fear": 0.01833,
+"disgust": 0.591705,
+"anger": 0.036968
+}
+},
+{
+"text": "Haroon Ali Khan",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.888247,
+"emotion": {
+"sadness": 0.187085,
+"joy": 0.160927,
+"fear": 0.109343,
+"disgust": 0.144615,
+"anger": 0.123804
+}
+}
+],
+"entities": [
+{
+"type": "Company",
+"text": "Rahul",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.847865,
+"emotion": {
+"sadness": 0.210251,
+"joy": 0.495611,
+"fear": 0.132289,
+"disgust": 0.06384,
+"anger": 0.082326
+},
+"count": 8
+},
+{
+"type": "Organization",
+"text": "Congress",
+"sentiment": {
+"score": -0.271418,
+"label": "negative"
+},
+"relevance": 0.72668,
+"emotion": {
+"sadness": 0.553006,
+"joy": 0.192447,
+"fear": 0.159248,
+"disgust": 0.127222,
+"anger": 0.251101
+},
+"count": 6
+},
+{
+"type": "Organization",
+"text": "Congress",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.355979,
+"emotion": {
+"sadness": 0.553006,
+"joy": 0.192447,
+"fear": 0.159248,
+"disgust": 0.127222,
+"anger": 0.251101
+},
+"count": 1
+},
+{
+"type": "GeographicFeature",
+"text": "Kailash Mansarovar Yatra",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.312551,
+"emotion": {
+"sadness": 0.331202,
+"joy": 0.061322,
+"fear": 0.420198,
+"disgust": 0.03239,
+"anger": 0.070538
+},
+"count": 1
+},
+{
+"type": "Organization",
+"text": "BJP",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.281007,
+"emotion": {
+"sadness": 0.502836,
+"joy": 0.268687,
+"fear": 0.027887,
+"disgust": 0.131696,
+"anger": 0.239195
+},
+"disambiguation": {
+"subtype": [
+"PoliticalParty",
+"Actor",
+"OfficeHolder"
+],
+"name": "Bharatiya Janata Party",
+"dbpedia_resource": "http://dbpedia.org/resource/Bharatiya_Janata_Party"
+},
+"count": 1
+}
+],
+"concepts": [
+{
+"text": "Delhi",
+"relevance": 0.954718,
+"dbpedia_resource": "http://dbpedia.org/resource/Delhi"
+},
+{
+"text": "Bharatiya Janata Party",
+"relevance": 0.946933,
+"dbpedia_resource": "http://dbpedia.org/resource/Bharatiya_Janata_Party"
+},
+{
+"text": "Mount Kailash",
+"relevance": 0.884734,
+"dbpedia_resource": "http://dbpedia.org/resource/Mount_Kailash"
+},
+{
+"text": "India",
+"relevance": 0.875595,
+"dbpedia_resource": "http://dbpedia.org/resource/India"
+},
+{
+"text": "Gujarat",
+"relevance": 0.736235,
+"dbpedia_resource": "http://dbpedia.org/resource/Gujarat"
+}
+],
+"categories": [
+{
+"score": 0.365741,
+"label": "/law, govt and politics/government"
+},
+{
+"score": 0.238209,
+"label": "/law, govt and politics/politics/elections"
+},
+{
+"score": 0.217746,
+"label": "/business and industrial"
+}
+]
+}
+}

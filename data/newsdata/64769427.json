@@ -1,0 +1,830 @@
+{
+"source_article_link": "https://timesofindia.indiatimes.com/india/oxytocin-ban-to-come-into-effect-from-july-1/articleshow/64769427.cms?&utm_source=Articleshow&utm_medium=Organic&utm_campaign=Related_Stories",
+"title": "Oxytocin ban to come into effect from July 1",
+"date_published": "2018-06-27T23:24:10+05:30",
+"source_type": "news_article",
+"source_name": "timesofindia.indiatimes.com",
+"image_link": [],
+"article_body": "NEW DELHI: Restricting manufacturing and sale of formulation to prevent its misuse, the said no private manufacturer will be allowed to manufacture the drug for domestic use from July 1. Only Karnataka Antibiotics and Pharmaceuticals Ltd ( ), a public sector company, would be manufacturing this drug for domestic use now. The government has also banned the import of the formulations. KAPL will supply the drug to registered hospitals and clinics in public and private sector directly . Oxytocin in any form or name will not be allowed to be sold through retail chemist, the ministry said. Oxytocin is a naturally-occurring hormone that causes uterine contractions during labour and helps new mothers lactate. However, the drug is heavily misused in the dairy industry where livestock are injected with oxytocin to make them release milk at a time convenient to farmers. The hormone is also used to increase the size of vegetables such as pumpkins, watermelons, brinjals, gourds and cucumbers. \u201cOxytocin formulations meant for domestic consumption will be supplied by the manufacturer, i.e. KAPL, to registered hospitals and clinics in public and private sector directly. Oxytocin in any form or name will not be allowed to be sold through retail chemist,\u201d the ministry said in statement. The ministry has advised all registered hospitals and clinics in public and private sector in the country to contact KAPL and place their orders with the company as the drug will not be available with retail chemists or any other manufacturer.",
+"description": "NEW DELHI: Restricting manufacturing and sale of formulation to prevent its misuse, the said no private manufacturer will be allowed to manufacture the drug for domestic use from July 1. Only Karnataka Antibiotics and Pharmaceuticals Ltd ( ), a public sector company, would be manufacturing this drug for domestic use now. The government has also banned the import of the formulations.",
+"time_scraped": "2018-08-23 06:01:24.376022",
+"article_id": "64769427",
+"article_category": "IndiaNews",
+"image_details": [],
+"ibm_nlu": {
+"usage": {
+"text_units": 1,
+"text_characters": 1533,
+"features": 7
+},
+"sentiment": {
+"document": {
+"score": -0.199756,
+"label": "negative"
+}
+},
+"semantic_roles": [
+{
+"subject": {
+"text": "formulation"
+},
+"sentence": "NEW DELHI: Restricting manufacturing and sale of formulation to prevent its misuse, the said no private manufacturer will be allowed to manufacture the drug for domestic use from July 1.",
+"object": {
+"text": "its misuse"
+},
+"action": {
+"verb": {
+"text": "prevent",
+"tense": "future"
+},
+"text": "to prevent",
+"normalized": "to prevent"
+}
+},
+{
+"subject": {
+"text": "the"
+},
+"sentence": "NEW DELHI: Restricting manufacturing and sale of formulation to prevent its misuse, the said no private manufacturer will be allowed to manufacture the drug for domestic use from July 1.",
+"object": {
+"text": "no private manufacturer will be allowed to manufacture the drug for domestic use from July 1"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "Only Karnataka Antibiotics and Pharmaceuticals Ltd ( ), a public sector company,"
+},
+"sentence": " Only Karnataka Antibiotics and Pharmaceuticals Ltd ( ), a public sector company, would be manufacturing this drug for domestic use now.",
+"object": {
+"text": "manufacturing this drug"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "future"
+},
+"text": "be",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "Only Karnataka Antibiotics and Pharmaceuticals Ltd ( ), a public sector company,"
+},
+"sentence": " Only Karnataka Antibiotics and Pharmaceuticals Ltd ( ), a public sector company, would be manufacturing this drug for domestic use now.",
+"object": {
+"text": "this drug"
+},
+"action": {
+"verb": {
+"text": "manufacture",
+"tense": "future"
+},
+"text": "would be manufacturing",
+"normalized": "would be manufacture"
+}
+},
+{
+"subject": {
+"text": "The government"
+},
+"sentence": " The government has also banned the import of the formulations.",
+"object": {
+"text": "the import of the formulations"
+},
+"action": {
+"verb": {
+"text": "have",
+"tense": "present"
+},
+"text": "has also banned",
+"normalized": "have also ban"
+}
+},
+{
+"subject": {
+"text": "The government"
+},
+"sentence": " The government has also banned the import of the formulations.",
+"object": {
+"text": "the import of the formulations"
+},
+"action": {
+"verb": {
+"text": "ban",
+"tense": "past"
+},
+"text": "has also banned",
+"normalized": "have also ban"
+}
+},
+{
+"subject": {
+"text": "KAPL"
+},
+"sentence": " KAPL will supply the drug to registered hospitals and clinics in public and private sector directly .",
+"object": {
+"text": "the drug"
+},
+"action": {
+"verb": {
+"text": "supply",
+"tense": "future"
+},
+"text": "will supply",
+"normalized": "will supply"
+}
+},
+{
+"subject": {
+"text": "Oxytocin in any form or name"
+},
+"sentence": " Oxytocin in any form or name will not be allowed to be sold through retail chemist, the ministry said.",
+"object": {
+"text": "sold through retail chemist"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "future"
+},
+"text": "be",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "the ministry"
+},
+"sentence": " Oxytocin in any form or name will not be allowed to be sold through retail chemist, the ministry said.",
+"object": {
+"text": "Oxytocin in any form or name will not be allowed to be sold through retail chemist"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "Oxytocin"
+},
+"sentence": " Oxytocin is a naturally-occurring hormone that causes uterine contractions during labour and helps new mothers lactate.",
+"object": {
+"text": "a naturally-occurring hormone"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "present"
+},
+"text": "is",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "a naturally-occurring hormone"
+},
+"sentence": " Oxytocin is a naturally-occurring hormone that causes uterine contractions during labour and helps new mothers lactate.",
+"object": {
+"text": "uterine contractions"
+},
+"action": {
+"verb": {
+"text": "cause",
+"tense": "present"
+},
+"text": "causes",
+"normalized": "cause"
+}
+},
+{
+"subject": {
+"text": "a naturally-occurring hormone"
+},
+"sentence": " Oxytocin is a naturally-occurring hormone that causes uterine contractions during labour and helps new mothers lactate.",
+"object": {
+"text": "new mothers lactate"
+},
+"action": {
+"verb": {
+"text": "help",
+"tense": "present"
+},
+"text": "helps",
+"normalized": "help"
+}
+},
+{
+"subject": {
+"text": "the drug"
+},
+"sentence": " However, the drug is heavily misused in the dairy industry where livestock are injected with oxytocin to make them release milk at a time convenient to farmers.",
+"action": {
+"verb": {
+"text": "misuse",
+"tense": "past"
+},
+"text": "misused",
+"normalized": "misuse"
+}
+},
+{
+"subject": {
+"text": "livestock"
+},
+"sentence": " However, the drug is heavily misused in the dairy industry where livestock are injected with oxytocin to make them release milk at a time convenient to farmers.",
+"object": {
+"text": "with oxytocin"
+},
+"action": {
+"verb": {
+"text": "inject",
+"tense": "past"
+},
+"text": "are injected",
+"normalized": "be inject"
+}
+},
+{
+"subject": {
+"text": "oxytocin"
+},
+"sentence": " However, the drug is heavily misused in the dairy industry where livestock are injected with oxytocin to make them release milk at a time convenient to farmers.",
+"object": {
+"text": "them"
+},
+"action": {
+"verb": {
+"text": "make",
+"tense": "future"
+},
+"text": "to make",
+"normalized": "to make"
+}
+},
+{
+"subject": {
+"text": "them"
+},
+"sentence": " However, the drug is heavily misused in the dairy industry where livestock are injected with oxytocin to make them release milk at a time convenient to farmers.",
+"object": {
+"text": "milk"
+},
+"action": {
+"verb": {
+"text": "release",
+"tense": "present"
+},
+"text": "release",
+"normalized": "release"
+}
+},
+{
+"subject": {
+"text": "The hormone"
+},
+"sentence": " The hormone is also used to increase the size of vegetables such as pumpkins, watermelons, brinjals, gourds and cucumbers.",
+"object": {
+"text": "to increase the size of vegetables such as pumpkins, watermelons, brinjals, gourds and cucumbers"
+},
+"action": {
+"verb": {
+"text": "use",
+"tense": "past"
+},
+"text": "is also used",
+"normalized": "be also use"
+}
+},
+{
+"subject": {
+"text": "The hormone"
+},
+"sentence": " The hormone is also used to increase the size of vegetables such as pumpkins, watermelons, brinjals, gourds and cucumbers.",
+"object": {
+"text": "the size of vegetables such as pumpkins, watermelons, brinjals, gourds and cucumbers"
+},
+"action": {
+"verb": {
+"text": "increase",
+"tense": "future"
+},
+"text": "to increase",
+"normalized": "to increase"
+}
+},
+{
+"subject": {
+"text": "Oxytocin formulations meant for domestic consumption"
+},
+"sentence": " \u201cOxytocin formulations meant for domestic consumption will be supplied by the manufacturer, i.e.",
+"object": {
+"text": "supplied by the manufacturer"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "future"
+},
+"text": "be",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "by the manufacturer"
+},
+"sentence": " \u201cOxytocin formulations meant for domestic consumption will be supplied by the manufacturer, i.e.",
+"object": {
+"text": "Oxytocin formulations meant for domestic consumption"
+},
+"action": {
+"verb": {
+"text": "supply",
+"tense": "future"
+},
+"text": "will be supplied",
+"normalized": "will be supply"
+}
+},
+{
+"subject": {
+"text": "Oxytocin in any form or name"
+},
+"sentence": " Oxytocin in any form or name will not be allowed to be sold through retail chemist,\u201d the ministry said in statement.",
+"object": {
+"text": "sold through retail chemist"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "future"
+},
+"text": "be",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "the ministry"
+},
+"sentence": " Oxytocin in any form or name will not be allowed to be sold through retail chemist,\u201d the ministry said in statement.",
+"object": {
+"text": "Oxytocin in any form or name will not be allowed to be sold through retail chemist"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "The ministry"
+},
+"sentence": " The ministry has advised all registered hospitals and clinics in public and private sector in the country to contact KAPL and place their orders with the company as the drug will not be available with retail chemists or any other manufacturer.",
+"object": {
+"text": "all registered hospitals and clinics"
+},
+"action": {
+"verb": {
+"text": "advise",
+"tense": "past"
+},
+"text": "has advised",
+"normalized": "have advise"
+}
+},
+{
+"subject": {
+"text": "their orders"
+},
+"sentence": " The ministry has advised all registered hospitals and clinics in public and private sector in the country to contact KAPL and place their orders with the company as the drug will not be available with retail chemists or any other manufacturer.",
+"object": {
+"text": "with the company as the drug will not be available with retail chemists or any other manufacturer"
+},
+"action": {
+"verb": {
+"text": "place",
+"tense": "present"
+},
+"text": "place",
+"normalized": "place"
+}
+},
+{
+"subject": {
+"text": "the drug"
+},
+"sentence": " The ministry has advised all registered hospitals and clinics in public and private sector in the country to contact KAPL and place their orders with the company as the drug will not be available with retail chemists or any other manufacturer.",
+"object": {
+"text": "available with retail chemists or any other manufacturer"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "future",
+"negated": true
+},
+"text": "be",
+"normalized": "be"
+}
+}
+],
+"relations": [
+{
+"type": "agentOf",
+"sentence": "Oxytocin in any form or name will not be allowed to be sold through retail chemist, the ministry said.",
+"score": 0.96546,
+"arguments": [
+{
+"text": "ministry",
+"location": [
+576,
+584
+],
+"entities": [
+{
+"type": "Organization",
+"text": "ministry",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+},
+{
+"text": "said",
+"location": [
+585,
+589
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Oxytocin in any form or name will not be allowed to be sold through retail chemist,\" the ministry said in statement.",
+"score": 0.96546,
+"arguments": [
+{
+"text": "ministry",
+"location": [
+1262,
+1270
+],
+"entities": [
+{
+"type": "Organization",
+"text": "ministry",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+},
+{
+"text": "said",
+"location": [
+1271,
+1275
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "The ministry has advised all registered hospitals and clinics in public and private sector in the country to contact KAPL and place their orders with the company as the drug will not be available with retail chemists or any other manufacturer.",
+"score": 0.654695,
+"arguments": [
+{
+"text": "clinics",
+"location": [
+1344,
+1351
+],
+"entities": [
+{
+"type": "Facility",
+"text": "clinics"
+}
+]
+},
+{
+"text": "country",
+"location": [
+1388,
+1395
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "country",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "partOf",
+"sentence": "The ministry has advised all registered hospitals and clinics in public and private sector in the country to contact KAPL and place their orders with the company as the drug will not be available with retail chemists or any other manufacturer.",
+"score": 0.573479,
+"arguments": [
+{
+"text": "manufacturer",
+"location": [
+1520,
+1532
+],
+"entities": [
+{
+"type": "Organization",
+"text": "manufacturer",
+"disambiguation": {
+"subtype": [
+"Commercial"
+]
+}
+}
+]
+},
+{
+"text": "company",
+"location": [
+1444,
+1451
+],
+"entities": [
+{
+"type": "Organization",
+"text": "KAPL",
+"disambiguation": {
+"subtype": [
+"Commercial"
+]
+}
+}
+]
+}
+]
+}
+],
+"language": "en",
+"keywords": [
+{
+"text": "private sector",
+"sentiment": {
+"score": 0.181965,
+"label": "positive"
+},
+"relevance": 0.907033,
+"emotion": {
+"sadness": 0.192278,
+"joy": 0.092001,
+"fear": 0.163915,
+"disgust": 0.242353,
+"anger": 0.203705
+}
+},
+{
+"text": "public sector company",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.799715,
+"emotion": {
+"sadness": 0.248712,
+"joy": 0.111641,
+"fear": 0.109114,
+"disgust": 0.265822,
+"anger": 0.236272
+}
+},
+{
+"text": "retail chemist",
+"sentiment": {
+"score": -0.253309,
+"label": "negative"
+},
+"relevance": 0.795399,
+"emotion": {
+"sadness": 0.227081,
+"joy": 0.098351,
+"fear": 0.048087,
+"disgust": 0.069795,
+"anger": 0.072621
+}
+},
+{
+"text": "Karnataka Antibiotics",
+"sentiment": {
+"score": -0.584406,
+"label": "negative"
+},
+"relevance": 0.645839,
+"emotion": {
+"sadness": 0.095852,
+"joy": 0.146239,
+"fear": 0.142346,
+"disgust": 0.107657,
+"anger": 0.048688
+}
+},
+{
+"text": "drug",
+"sentiment": {
+"score": 0.21692,
+"label": "positive"
+},
+"relevance": 0.639297,
+"emotion": {
+"sadness": 0.265101,
+"joy": 0.029517,
+"fear": 0.155636,
+"disgust": 0.282972,
+"anger": 0.312093
+}
+}
+],
+"entities": [
+{
+"type": "Drug",
+"text": "Oxytocin",
+"sentiment": {
+"score": -0.253309,
+"label": "negative"
+},
+"relevance": 0.898217,
+"emotion": {
+"sadness": 0.551921,
+"joy": 0.10732,
+"fear": 0.160351,
+"disgust": 0.111881,
+"anger": 0.103052
+},
+"count": 6
+},
+{
+"type": "Company",
+"text": "KAPL",
+"sentiment": {
+"score": 0.0909827,
+"label": "positive"
+},
+"relevance": 0.834173,
+"emotion": {
+"sadness": 0.198677,
+"joy": 0.076684,
+"fear": 0.14961,
+"disgust": 0.249419,
+"anger": 0.203893
+},
+"count": 3
+},
+{
+"type": "Company",
+"text": "Karnataka Antibiotics and Pharmaceuticals Ltd",
+"sentiment": {
+"score": -0.584406,
+"label": "negative"
+},
+"relevance": 0.558999,
+"emotion": {
+"sadness": 0.095852,
+"joy": 0.146239,
+"fear": 0.142346,
+"disgust": 0.107657,
+"anger": 0.048688
+},
+"count": 1
+},
+{
+"type": "Location",
+"text": "DELHI",
+"sentiment": {
+"score": 0.218047,
+"label": "positive"
+},
+"relevance": 0.413187,
+"emotion": {
+"sadness": 0.115132,
+"joy": 0.596039,
+"fear": 0.084006,
+"disgust": 0.034674,
+"anger": 0.046922
+},
+"disambiguation": {
+"subtype": [
+"Country"
+]
+},
+"count": 1
+},
+{
+"type": "Organization",
+"text": "government",
+"sentiment": {
+"score": -0.370726,
+"label": "negative"
+},
+"relevance": 0.377915,
+"emotion": {
+"sadness": 0.279926,
+"joy": 0.029003,
+"fear": 0.071072,
+"disgust": 0.448395,
+"anger": 0.470767
+},
+"disambiguation": {
+"subtype": [
+"FieldOfStudy",
+"BuildingFunction"
+],
+"name": "Government",
+"dbpedia_resource": "http://dbpedia.org/resource/Government"
+},
+"count": 1
+}
+],
+"concepts": [
+{
+"text": "Government",
+"relevance": 0.966001,
+"dbpedia_resource": "http://dbpedia.org/resource/Government"
+},
+{
+"text": "Fruit",
+"relevance": 0.860005,
+"dbpedia_resource": "http://dbpedia.org/resource/Fruit"
+},
+{
+"text": "Industry",
+"relevance": 0.829132,
+"dbpedia_resource": "http://dbpedia.org/resource/Industry"
+},
+{
+"text": "Manufacturing",
+"relevance": 0.708935,
+"dbpedia_resource": "http://dbpedia.org/resource/Manufacturing"
+},
+{
+"text": "Milk",
+"relevance": 0.706773,
+"dbpedia_resource": "http://dbpedia.org/resource/Milk"
+}
+],
+"categories": [
+{
+"score": 0.481069,
+"label": "/food and drink/food/fruits and vegetables"
+},
+{
+"score": 0.469951,
+"label": "/law, govt and politics/government"
+},
+{
+"score": 0.376546,
+"label": "/education/school/private school"
+}
+]
+}
+}

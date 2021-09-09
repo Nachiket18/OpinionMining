@@ -1,0 +1,1175 @@
+{
+"source_article_link": "https://timesofindia.indiatimes.com/india/indologists-talk-on-aurangzeb-scrapped-over-denial-of-permit/articleshow/65330145.cms?&utm_source=Articleshow&utm_medium=Organic&utm_campaign=Related_Stories",
+"title": "Indologist\u2019s talk on Aurangzeb scrapped over denial of permit",
+"date_published": "2018-08-09T01:51:55+05:30",
+"source_type": "news_article",
+"source_name": "timesofindia.indiatimes.com",
+"image_link": [],
+"article_body": "HYDERABAD: Eminent Indologist and scholar Audrey Truschke, who was scheduled to deliver a talk on and other aspects of Indian history in Hyderabad on August 11, has expressed regrets over denial of permission by the police. She was scheduled to talk on \u201cAurangzeb: The Man and The Myth\u201d among other subjects at BM Birla Science Centre in the city. Not just Birla Science Centre, even owners of other meeting halls refused to rent out their premises for her talk reportedly on police advice due to threats from right-wing groups. On Wednesday, Truschke took to Twitter and to officially announce the cancellation of her Hyderabad programme during her current India visit. She blamed RSS and BJP for the cancellation and described it as a \u201csad day for the pursuit of knowledge and academic freedom\u201d. \u201cThe subject of \u2018Unpopular Stories\u2019 proved a bit too true, perhaps, when the Hindu Right protested to the police...,\u201d Truschke, an assistant professor at Rutgers University in Newark, US wrote on her Facebook page, adding that the organisers took the decision after being informed by the Hyderabad police that several individuals had written letters protesting against her appearance. \u201cI saw only one such letter, and it was from an individual with self-admitted connections to RSS and BJP,\u201d she wrote.",
+"description": "HYDERABAD: Eminent Indologist and scholar Audrey Truschke, who was scheduled to deliver a talk on and other aspects of Indian history in Hyderabad on August 11, has expressed regrets over denial of permission by the police. She was scheduled to talk on \u201cAurangzeb: The Man and The Myth\u201d among other subjects at BM Birla Science Centre in the city. Not just Birla Science Centre, even owners of other meeting halls refused to rent out their premises for her talk reportedly on police advice due to threats from right-wing groups. On Wednesday, Truschke took to Twitter and to officially announce the cancellation of her Hyderabad programme during her current India visit.",
+"time_scraped": "2018-08-23 15:01:52.873825",
+"article_id": "65330145",
+"article_category": "IndiaNews",
+"image_details": [],
+"ibm_nlu": {
+"usage": {
+"text_units": 1,
+"text_characters": 1300,
+"features": 7
+},
+"sentiment": {
+"document": {
+"score": -0.792644,
+"label": "negative"
+}
+},
+"semantic_roles": [
+{
+"subject": {
+"text": "Eminent Indologist and scholar Audrey Truschke"
+},
+"sentence": "HYDERABAD: Eminent Indologist and scholar Audrey Truschke, who was scheduled to deliver a talk on and other aspects of Indian history in Hyderabad on August 11, has expressed regrets over denial of permission by the police.",
+"object": {
+"text": "to deliver a talk on and other aspects of Indian history in Hyderabad on August 11"
+},
+"action": {
+"verb": {
+"text": "schedule",
+"tense": "past"
+},
+"text": "scheduled",
+"normalized": "schedule"
+}
+},
+{
+"subject": {
+"text": "Eminent Indologist and scholar Audrey Truschke"
+},
+"sentence": "HYDERABAD: Eminent Indologist and scholar Audrey Truschke, who was scheduled to deliver a talk on and other aspects of Indian history in Hyderabad on August 11, has expressed regrets over denial of permission by the police.",
+"object": {
+"text": "a talk on and other aspects of Indian history"
+},
+"action": {
+"verb": {
+"text": "deliver",
+"tense": "past"
+},
+"text": "was scheduled to deliver",
+"normalized": "be schedule to deliver"
+}
+},
+{
+"subject": {
+"text": "Eminent Indologist and scholar Audrey Truschke, who was scheduled to deliver a talk on and other aspects of Indian history in Hyderabad on August 11,"
+},
+"sentence": "HYDERABAD: Eminent Indologist and scholar Audrey Truschke, who was scheduled to deliver a talk on and other aspects of Indian history in Hyderabad on August 11, has expressed regrets over denial of permission by the police.",
+"object": {
+"text": "expressed regrets over denial of permission by the police"
+},
+"action": {
+"verb": {
+"text": "have",
+"tense": "present"
+},
+"text": "has",
+"normalized": "have"
+}
+},
+{
+"subject": {
+"text": "HYDERABAD: Eminent Indologist and scholar Audrey Truschke, who was scheduled to deliver a talk on and other aspects of Indian history in Hyderabad on August 11,"
+},
+"sentence": "HYDERABAD: Eminent Indologist and scholar Audrey Truschke, who was scheduled to deliver a talk on and other aspects of Indian history in Hyderabad on August 11, has expressed regrets over denial of permission by the police.",
+"object": {
+"text": "regrets over denial of permission by the police"
+},
+"action": {
+"verb": {
+"text": "express",
+"tense": "past"
+},
+"text": "has expressed",
+"normalized": "have express"
+}
+},
+{
+"subject": {
+"text": "She"
+},
+"sentence": " She was scheduled to talk on \u201cAurangzeb: The Man and The Myth\u201d among other subjects at BM Birla Science Centre in the city.",
+"object": {
+"text": "scheduled to talk on \u201cAurangzeb: The Man and The Myth\u201d among other subjects at BM Birla Science Centre in the city"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "was",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "She"
+},
+"sentence": " She was scheduled to talk on \u201cAurangzeb: The Man and The Myth\u201d among other subjects at BM Birla Science Centre in the city.",
+"object": {
+"text": "to talk on \u201cAurangzeb: The Man and The Myth\u201d among other subjects at BM Birla Science Centre in the city"
+},
+"action": {
+"verb": {
+"text": "schedule",
+"tense": "past"
+},
+"text": "scheduled",
+"normalized": "schedule"
+}
+},
+{
+"subject": {
+"text": "She"
+},
+"sentence": " She was scheduled to talk on \u201cAurangzeb: The Man and The Myth\u201d among other subjects at BM Birla Science Centre in the city.",
+"action": {
+"verb": {
+"text": "talk",
+"tense": "past"
+},
+"text": "was scheduled to talk",
+"normalized": "be schedule to talk"
+}
+},
+{
+"subject": {
+"text": "even owners of other meeting halls"
+},
+"sentence": " Not just Birla Science Centre, even owners of other meeting halls refused to rent out their premises for her talk reportedly on police advice due to threats from right-wing groups.",
+"object": {
+"text": "to rent out their premises for her talk reportedly on police advice due to threats from right-wing groups"
+},
+"action": {
+"verb": {
+"text": "refuse",
+"tense": "past"
+},
+"text": "refused",
+"normalized": "refuse"
+}
+},
+{
+"subject": {
+"text": "even owners of other meeting halls"
+},
+"sentence": " Not just Birla Science Centre, even owners of other meeting halls refused to rent out their premises for her talk reportedly on police advice due to threats from right-wing groups.",
+"object": {
+"text": "their premises"
+},
+"action": {
+"verb": {
+"text": "rend",
+"tense": "future"
+},
+"text": "refused to rent",
+"normalized": "refuse to rend"
+}
+},
+{
+"subject": {
+"text": "Truschke"
+},
+"sentence": " On Wednesday, Truschke took to Twitter and to officially announce the cancellation of her Hyderabad programme during her current India visit.",
+"action": {
+"verb": {
+"text": "take",
+"tense": "past"
+},
+"text": "took",
+"normalized": "take"
+}
+},
+{
+"subject": {
+"text": "Truschke"
+},
+"sentence": " On Wednesday, Truschke took to Twitter and to officially announce the cancellation of her Hyderabad programme during her current India visit.",
+"object": {
+"text": "the cancellation of her Hyderabad programme"
+},
+"action": {
+"verb": {
+"text": "announce",
+"tense": "present"
+},
+"text": "announce",
+"normalized": "announce"
+}
+},
+{
+"subject": {
+"text": "She"
+},
+"sentence": " She blamed RSS and BJP for the cancellation and described it as a \u201csad day for the pursuit of knowledge and academic freedom\u201d.",
+"object": {
+"text": "RSS"
+},
+"action": {
+"verb": {
+"text": "blame",
+"tense": "past"
+},
+"text": "blamed",
+"normalized": "blame"
+}
+},
+{
+"subject": {
+"text": "it"
+},
+"sentence": " She blamed RSS and BJP for the cancellation and described it as a \u201csad day for the pursuit of knowledge and academic freedom\u201d.",
+"object": {
+"text": "as a \u201csad day for the pursuit of knowledge and academic freedom\u201d"
+},
+"action": {
+"verb": {
+"text": "describe",
+"tense": "past"
+},
+"text": "described",
+"normalized": "describe"
+}
+},
+{
+"subject": {
+"text": "The subject of \u2018Unpopular Stories\u2019"
+},
+"sentence": " \u201cThe subject of \u2018Unpopular Stories\u2019 proved a bit too true, perhaps, when the Hindu Right protested to the police...,\u201d Truschke, an assistant professor at Rutgers University in Newark, US wrote on her Facebook page, adding that the organisers took the decision after being informed by the Hyderabad police that several individuals had written letters protesting against her appearance.",
+"action": {
+"verb": {
+"text": "prove",
+"tense": "past"
+},
+"text": "proved",
+"normalized": "prove"
+}
+},
+{
+"subject": {
+"text": "US"
+},
+"sentence": " \u201cThe subject of \u2018Unpopular Stories\u2019 proved a bit too true, perhaps, when the Hindu Right protested to the police...,\u201d Truschke, an assistant professor at Rutgers University in Newark, US wrote on her Facebook page, adding that the organisers took the decision after being informed by the Hyderabad police that several individuals had written letters protesting against her appearance.",
+"object": {
+"text": "The subject of \u2018Unpopular Stories\u2019 proved a bit too true"
+},
+"action": {
+"verb": {
+"text": "write",
+"tense": "past"
+},
+"text": "wrote",
+"normalized": "write"
+}
+},
+{
+"subject": {
+"text": "the organisers"
+},
+"sentence": " \u201cThe subject of \u2018Unpopular Stories\u2019 proved a bit too true, perhaps, when the Hindu Right protested to the police...,\u201d Truschke, an assistant professor at Rutgers University in Newark, US wrote on her Facebook page, adding that the organisers took the decision after being informed by the Hyderabad police that several individuals had written letters protesting against her appearance.",
+"object": {
+"text": "the decision"
+},
+"action": {
+"verb": {
+"text": "take",
+"tense": "past"
+},
+"text": "took",
+"normalized": "take"
+}
+},
+{
+"subject": {
+"text": "several individuals"
+},
+"sentence": " \u201cThe subject of \u2018Unpopular Stories\u2019 proved a bit too true, perhaps, when the Hindu Right protested to the police...,\u201d Truschke, an assistant professor at Rutgers University in Newark, US wrote on her Facebook page, adding that the organisers took the decision after being informed by the Hyderabad police that several individuals had written letters protesting against her appearance.",
+"object": {
+"text": "written letters protesting against her appearance"
+},
+"action": {
+"verb": {
+"text": "have",
+"tense": "past"
+},
+"text": "had",
+"normalized": "have"
+}
+},
+{
+"subject": {
+"text": "several individuals"
+},
+"sentence": " \u201cThe subject of \u2018Unpopular Stories\u2019 proved a bit too true, perhaps, when the Hindu Right protested to the police...,\u201d Truschke, an assistant professor at Rutgers University in Newark, US wrote on her Facebook page, adding that the organisers took the decision after being informed by the Hyderabad police that several individuals had written letters protesting against her appearance.",
+"object": {
+"text": "letters"
+},
+"action": {
+"verb": {
+"text": "write",
+"tense": "past"
+},
+"text": "had written",
+"normalized": "have write"
+}
+},
+{
+"subject": {
+"text": "I"
+},
+"sentence": " \u201cI saw only one such letter, and it was from an individual with self-admitted connections to RSS and BJP,\u201d she wrote.",
+"object": {
+"text": "only one such letter"
+},
+"action": {
+"verb": {
+"text": "see",
+"tense": "past"
+},
+"text": "saw",
+"normalized": "see"
+}
+},
+{
+"subject": {
+"text": "it"
+},
+"sentence": " \u201cI saw only one such letter, and it was from an individual with self-admitted connections to RSS and BJP,\u201d she wrote.",
+"object": {
+"text": "from an individual with self-admitted connections to RSS and BJP"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "was",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "she"
+},
+"sentence": " \u201cI saw only one such letter, and it was from an individual with self-admitted connections to RSS and BJP,\u201d she wrote.",
+"object": {
+"text": "I saw only one such letter, and it was from an individual with self-admitted connections to RSS and BJP"
+},
+"action": {
+"verb": {
+"text": "write",
+"tense": "past"
+},
+"text": "wrote",
+"normalized": "write"
+}
+}
+],
+"relations": [
+{
+"type": "agentOf",
+"sentence": "HYDERABAD: Eminent Indologist and scholar Audrey Truschke, who was scheduled to deliver a talk on and other aspects of Indian history in Hyderabad on August 11, has expressed regrets over denial of permission by the police.",
+"score": 0.552375,
+"arguments": [
+{
+"text": "Audrey Truschke",
+"location": [
+42,
+57
+],
+"entities": [
+{
+"type": "Person",
+"text": "Audrey Truschke"
+}
+]
+},
+{
+"text": "expressed",
+"location": [
+165,
+174
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "expressed"
+}
+]
+}
+]
+},
+{
+"type": "basedIn",
+"sentence": "\"The subject of \u02bbUnpopular Stories' proved a bit too true, perhaps, when the Hindu Right protested to the police...,\" Truschke, an assistant professor at Rutgers University in Newark, US wrote on her Facebook page, adding that the organisers took the decision after being informed by the Hyderabad police that several individuals had written letters protesting against her appearance.",
+"score": 0.754449,
+"arguments": [
+{
+"text": "Rutgers University",
+"location": [
+952,
+970
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Rutgers University",
+"disambiguation": {
+"subtype": [
+"Educational"
+]
+}
+}
+]
+},
+{
+"text": "Newark",
+"location": [
+974,
+980
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Newark"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "\"The subject of \u02bbUnpopular Stories' proved a bit too true, perhaps, when the Hindu Right protested to the police...,\" Truschke, an assistant professor at Rutgers University in Newark, US wrote on her Facebook page, adding that the organisers took the decision after being informed by the Hyderabad police that several individuals had written letters protesting against her appearance.",
+"score": 0.985258,
+"arguments": [
+{
+"text": "Newark",
+"location": [
+974,
+980
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Newark"
+}
+]
+},
+{
+"text": "US",
+"location": [
+982,
+984
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "US",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "\"The subject of \u02bbUnpopular Stories' proved a bit too true, perhaps, when the Hindu Right protested to the police...,\" Truschke, an assistant professor at Rutgers University in Newark, US wrote on her Facebook page, adding that the organisers took the decision after being informed by the Hyderabad police that several individuals had written letters protesting against her appearance.",
+"score": 0.398122,
+"arguments": [
+{
+"text": "her",
+"location": [
+994,
+997
+],
+"entities": [
+{
+"type": "Person",
+"text": "Audrey Truschke"
+}
+]
+},
+{
+"text": "wrote",
+"location": [
+985,
+990
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "adding"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "\"The subject of \u02bbUnpopular Stories' proved a bit too true, perhaps, when the Hindu Right protested to the police...,\" Truschke, an assistant professor at Rutgers University in Newark, US wrote on her Facebook page, adding that the organisers took the decision after being informed by the Hyderabad police that several individuals had written letters protesting against her appearance.",
+"score": 0.54281,
+"arguments": [
+{
+"text": "organisers",
+"location": [
+1029,
+1039
+],
+"entities": [
+{
+"type": "Person",
+"text": "organisers"
+}
+]
+},
+{
+"text": "adding",
+"location": [
+1013,
+1019
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "adding"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "\"The subject of \u02bbUnpopular Stories' proved a bit too true, perhaps, when the Hindu Right protested to the police...,\" Truschke, an assistant professor at Rutgers University in Newark, US wrote on her Facebook page, adding that the organisers took the decision after being informed by the Hyderabad police that several individuals had written letters protesting against her appearance.",
+"score": 0.764433,
+"arguments": [
+{
+"text": "police",
+"location": [
+1096,
+1102
+],
+"entities": [
+{
+"type": "Organization",
+"text": "police",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+},
+{
+"text": "informed",
+"location": [
+1070,
+1078
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "informed"
+}
+]
+}
+]
+},
+{
+"type": "partOf",
+"sentence": "\"The subject of \u02bbUnpopular Stories' proved a bit too true, perhaps, when the Hindu Right protested to the police...,\" Truschke, an assistant professor at Rutgers University in Newark, US wrote on her Facebook page, adding that the organisers took the decision after being informed by the Hyderabad police that several individuals had written letters protesting against her appearance.",
+"score": 0.988642,
+"arguments": [
+{
+"text": "police",
+"location": [
+1096,
+1102
+],
+"entities": [
+{
+"type": "Organization",
+"text": "police",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+},
+{
+"text": "Hyderabad",
+"location": [
+1086,
+1095
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Hyderabad"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "\"I saw only one such letter, and it was from an individual with self-admitted connections to RSS and BJP,\" she wrote.",
+"score": 0.99145,
+"arguments": [
+{
+"text": "she",
+"location": [
+1290,
+1293
+],
+"entities": [
+{
+"type": "Person",
+"text": "Audrey Truschke"
+}
+]
+},
+{
+"text": "wrote",
+"location": [
+1294,
+1299
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "adding"
+}
+]
+}
+]
+},
+{
+"type": "timeOf",
+"sentence": "HYDERABAD: Eminent Indologist and scholar Audrey Truschke, who was scheduled to deliver a talk on and other aspects of Indian history in Hyderabad on August 11, has expressed regrets over denial of permission by the police.",
+"score": 0.543687,
+"arguments": [
+{
+"text": "August 11",
+"location": [
+150,
+159
+],
+"entities": [
+{
+"type": "Date",
+"text": "August 11"
+}
+]
+},
+{
+"text": "expressed",
+"location": [
+165,
+174
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "expressed"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "She was scheduled to talk on \"Aurangzeb: The Man and The Myth\" among other subjects at BM Birla Science Centre in the city.",
+"score": 0.82679,
+"arguments": [
+{
+"text": "She",
+"location": [
+224,
+227
+],
+"entities": [
+{
+"type": "Person",
+"text": "Audrey Truschke"
+}
+]
+},
+{
+"text": "talk",
+"location": [
+245,
+249
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "announce"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Not just Birla Science Centre, even owners of other meeting halls refused to rent out their premises for her talk reportedly on police advice due to threats from right-wing groups.",
+"score": 0.974397,
+"arguments": [
+{
+"text": "her",
+"location": [
+453,
+456
+],
+"entities": [
+{
+"type": "Person",
+"text": "Audrey Truschke"
+}
+]
+},
+{
+"text": "talk",
+"location": [
+457,
+461
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "announce"
+}
+]
+}
+]
+},
+{
+"type": "participantIn",
+"sentence": "Not just Birla Science Centre, even owners of other meeting halls refused to rent out their premises for her talk reportedly on police advice due to threats from right-wing groups.",
+"score": 0.869957,
+"arguments": [
+{
+"text": "owners",
+"location": [
+384,
+390
+],
+"entities": [
+{
+"type": "Person",
+"text": "owners"
+}
+]
+},
+{
+"text": "meeting",
+"location": [
+400,
+407
+],
+"entities": [
+{
+"type": "EventMeeting",
+"text": "meeting"
+}
+]
+}
+]
+},
+{
+"type": "timeOf",
+"sentence": "On Wednesday, Truschke took to Twitter and to officially announce the cancellation of her Hyderabad programme during her current India visit.",
+"score": 0.62059,
+"arguments": [
+{
+"text": "Wednesday",
+"location": [
+532,
+541
+],
+"entities": [
+{
+"type": "Date",
+"text": "Wednesday"
+}
+]
+},
+{
+"text": "announce",
+"location": [
+586,
+594
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "announce"
+}
+]
+}
+]
+},
+{
+"type": "residesIn",
+"sentence": "On Wednesday, Truschke took to Twitter and to officially announce the cancellation of her Hyderabad programme during her current India visit.",
+"score": 0.420457,
+"arguments": [
+{
+"text": "her",
+"location": [
+615,
+618
+],
+"entities": [
+{
+"type": "Person",
+"text": "Audrey Truschke"
+}
+]
+},
+{
+"text": "Hyderabad",
+"location": [
+619,
+628
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Hyderabad"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "\"The subject of \u02bbUnpopular Stories' proved a bit too true, perhaps, when the Hindu Right protested to the police...,\" Truschke, an assistant professor at Rutgers University in Newark, US wrote on her Facebook page, adding that the organisers took the decision after being informed by the Hyderabad police that several individuals had written letters protesting against her appearance.",
+"score": 0.584388,
+"arguments": [
+{
+"text": "Hindu",
+"location": [
+875,
+880
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Hindu"
+}
+]
+},
+{
+"text": "protested",
+"location": [
+887,
+896
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "protested"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "\"The subject of \u02bbUnpopular Stories' proved a bit too true, perhaps, when the Hindu Right protested to the police...,\" Truschke, an assistant professor at Rutgers University in Newark, US wrote on her Facebook page, adding that the organisers took the decision after being informed by the Hyderabad police that several individuals had written letters protesting against her appearance.",
+"score": 0.900857,
+"arguments": [
+{
+"text": "police",
+"location": [
+904,
+910
+],
+"entities": [
+{
+"type": "Organization",
+"text": "police",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+},
+{
+"text": "protested",
+"location": [
+887,
+896
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "protested"
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "\"The subject of \u02bbUnpopular Stories' proved a bit too true, perhaps, when the Hindu Right protested to the police...,\" Truschke, an assistant professor at Rutgers University in Newark, US wrote on her Facebook page, adding that the organisers took the decision after being informed by the Hyderabad police that several individuals had written letters protesting against her appearance.",
+"score": 0.898743,
+"arguments": [
+{
+"text": "assistant professor",
+"location": [
+929,
+948
+],
+"entities": [
+{
+"type": "Person",
+"text": "Audrey Truschke"
+}
+]
+},
+{
+"text": "Rutgers University",
+"location": [
+952,
+970
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Rutgers University",
+"disambiguation": {
+"subtype": [
+"Educational"
+]
+}
+}
+]
+}
+]
+}
+],
+"language": "en",
+"keywords": [
+{
+"text": "Birla Science Centre",
+"sentiment": {
+"score": -0.43578,
+"label": "negative"
+},
+"relevance": 0.954804,
+"emotion": {
+"sadness": 0.257806,
+"joy": 0.41203,
+"fear": 0.056942,
+"disgust": 0.005484,
+"anger": 0.054574
+}
+},
+{
+"text": "BM Birla Science",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.824097,
+"emotion": {
+"sadness": 0.251248,
+"joy": 0.359413,
+"fear": 0.053646,
+"disgust": 0.00428,
+"anger": 0.048254
+}
+},
+{
+"text": "scholar Audrey Truschke",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.806112,
+"emotion": {
+"sadness": 0.139307,
+"joy": 0.197103,
+"fear": 0.092456,
+"disgust": 0.07836,
+"anger": 0.092968
+}
+},
+{
+"text": "current India visit",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.755973,
+"emotion": {
+"sadness": 0.205866,
+"joy": 0.215353,
+"fear": 0.018044,
+"disgust": 0.369108,
+"anger": 0.052679
+}
+},
+{
+"text": "Hyderabad programme",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.730293,
+"emotion": {
+"sadness": 0.205866,
+"joy": 0.215353,
+"fear": 0.018044,
+"disgust": 0.369108,
+"anger": 0.052679
+}
+}
+],
+"entities": [
+{
+"type": "Location",
+"text": "HYDERABAD",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.824162,
+"emotion": {
+"sadness": 0.429967,
+"joy": 0.070868,
+"fear": 0.162862,
+"disgust": 0.166761,
+"anger": 0.237365
+},
+"disambiguation": {
+"subtype": [
+"City"
+],
+"name": "Hyderabad, India",
+"dbpedia_resource": "http://dbpedia.org/resource/Hyderabad,_India"
+},
+"count": 3
+},
+{
+"type": "Facility",
+"text": "BM Birla Science Centre",
+"sentiment": {
+"score": -0.43578,
+"label": "negative"
+},
+"relevance": 0.810037,
+"emotion": {
+"sadness": 0.257806,
+"joy": 0.41203,
+"fear": 0.056942,
+"disgust": 0.005484,
+"anger": 0.054574
+},
+"count": 2
+},
+{
+"type": "Person",
+"text": "Audrey Truschke",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.712224,
+"emotion": {
+"sadness": 0.145064,
+"joy": 0.240306,
+"fear": 0.108456,
+"disgust": 0.080843,
+"anger": 0.088915
+},
+"count": 4
+},
+{
+"type": "Organization",
+"text": "BJP",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.488438,
+"emotion": {
+"sadness": 0.205866,
+"joy": 0.215353,
+"fear": 0.018044,
+"disgust": 0.369108,
+"anger": 0.052679
+},
+"disambiguation": {
+"subtype": [
+"PoliticalParty",
+"Actor",
+"OfficeHolder"
+],
+"name": "Bharatiya Janata Party",
+"dbpedia_resource": "http://dbpedia.org/resource/Bharatiya_Janata_Party"
+},
+"count": 2
+}
+],
+"concepts": [
+{
+"text": "Professor",
+"relevance": 0.917968,
+"dbpedia_resource": "http://dbpedia.org/resource/Professor"
+},
+{
+"text": "India",
+"relevance": 0.835479,
+"dbpedia_resource": "http://dbpedia.org/resource/India"
+},
+{
+"text": "Tenure",
+"relevance": 0.826848,
+"dbpedia_resource": "http://dbpedia.org/resource/Tenure"
+},
+{
+"text": "Academic freedom",
+"relevance": 0.753876,
+"dbpedia_resource": "http://dbpedia.org/resource/Academic_freedom"
+},
+{
+"text": "Right-wing politics",
+"relevance": 0.737367,
+"dbpedia_resource": "http://dbpedia.org/resource/Right-wing_politics"
+}
+],
+"categories": [
+{
+"score": 0.454228,
+"label": "/finance/personal finance/insurance/travel insurance"
+},
+{
+"score": 0.296529,
+"label": "/law, govt and politics/law enforcement/police"
+},
+{
+"score": 0.227031,
+"label": "/education"
+}
+]
+}
+}

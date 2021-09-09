@@ -1,0 +1,1821 @@
+{
+"source_article_link": "https://timesofindia.indiatimes.com/india/government-adds-safeguards-in-triple-talaq-bill/articleshow/65342761.cms?&utm_source=Articleshow&utm_medium=Organic&utm_campaign=Related_Stories",
+"title": "Government adds safeguards in triple talaq bill",
+"date_published": "2018-08-09T23:27:34+05:30",
+"source_type": "news_article",
+"source_name": "timesofindia.indiatimes.com",
+"image_link": [],
+"article_body": "NEW DELHI: Seeking to allay fears that a proposed law which makes the practice of instant illegal and imposes a jail term of up to three years on the husband could be misused, the government on Thursday approved certain safeguards in it such as adding a provision of bail for the accused before trial. Law Minister told reporters here that the Union Cabinet has approved three amendments to the 'Muslim Women Protection of Rights on Marriage Bill' which has been cleared by Lok Sabha and pending approval of . Tomorrow is the last day of the Monsoon Session of Parliament and the government could introduce amendments in Rajya Sabha. If the bill is cleared by the upper house, it will have to go back to Lok Sabha for approval of the amendments. While the proposed law will remain \"non-bailable'', the accused can approach a magistrate even before trial to seek bail. Under a non-bailable law, bail cannot be granted by police at the police station itself. Prasad said a provision has been added to allow the magistrate to grant bail \"after hearing the wife\". \"But the offence of under the proposed law remains non-bailable,\" he clarified. Sources later said the magistrate would ensure that bail is granted only after the husband agrees to grant compensation to the wife as provided in the bill. The quantum of compensation will be decided by the magistrate, as per the bill. \"There were fears and we have plugged the holes ... nothing has been done under pressure,\" Prasad said in response to a question. Another amendment makes it clear that the police would lodge FIR only if approached by the victim (wife), her blood relations or people who become her relatives by virtue of her marriage. \"This would settle fears that even a neighbour can file FIR as is the cases in any cognisable offence. This would check misuse,\" the minister said. The third amendment makes the offence of instant triple talaq \"compoundable\". Now, a magistrate can use his powers to settle the dispute between a husband and his wife. Under a compoundable offence, both parties have the liberty of withdrawing the case. Giving instant triple talaq will continue to be illegal and void and will attract a jail term of three years for the husband. Prasad wondered whether the Congress, the BSP and the TMC would continue to oppose the bill even after insertion of provision of bail. \"Under the Dowry Act, Muslims and others go to jail ... they are also jailed under the Domestic Violence Act ...why oppose jail for triple talaq,\" he said. He said the bill should not be opposed by , Mayawati and Mamata Banerjee as it seeks to achieve gender equality. The minister said in 2017, a total of 389 cases of instant triple talaq were reported. Between January and August last year, 229 cases were reported. \"This shows that the bill is required even after the Supreme Court struck down triple talaq as illegal.\" Even after the bill was introduced, 160 cases were reported. Provision of bail was one of the demands of the opposition parties. The proposed law would only be applicable on instant triple talaq or 'talaq-e-biddat' and it would give power to the victim to approach a magistrate seeking \"subsistence allowance\" for herself and minor children. A woman can also seek the custody of her minor children from the magistrate who will take a final call on the issue.",
+"description": "Law Minister Ravi Shankar Prasad said that the Union Cabinet has approved three amendments to the 'Muslim Women Protection of Rights on Marriage Bill'  While the proposed law will remain \"non-bailable'', the accused can approach a magistrate even before trial to seek bail",
+"time_scraped": "2018-08-22 12:01:55.417816",
+"article_id": "65342761",
+"article_category": "IndiaNews",
+"image_details": [],
+"ibm_nlu": {
+"usage": {
+"text_units": 1,
+"text_characters": 3340,
+"features": 7
+},
+"sentiment": {
+"document": {
+"score": -0.475432,
+"label": "negative"
+}
+},
+"semantic_roles": [
+{
+"subject": {
+"text": "NEW DELHI"
+},
+"sentence": "NEW DELHI: Seeking to allay fears that a proposed law which makes the practice of instant illegal and imposes a jail term of up to three years on the husband could be misused, the government on Thursday approved certain safeguards in it such as adding a provision of bail for the accused before trial.",
+"object": {
+"text": "fears that a proposed law which makes the practice of instant illegal and imposes a jail term of up to three years on the husband could be misused, the government on Thursday approved certain safeguards in it such as adding a provision of bail for the accused before trial"
+},
+"action": {
+"verb": {
+"text": "allay",
+"tense": "future"
+},
+"text": "Seeking to allay",
+"normalized": "Seeking to allay"
+}
+},
+{
+"subject": {
+"text": "a proposed law"
+},
+"sentence": "NEW DELHI: Seeking to allay fears that a proposed law which makes the practice of instant illegal and imposes a jail term of up to three years on the husband could be misused, the government on Thursday approved certain safeguards in it such as adding a provision of bail for the accused before trial.",
+"object": {
+"text": "the practice"
+},
+"action": {
+"verb": {
+"text": "make",
+"tense": "present"
+},
+"text": "makes",
+"normalized": "make"
+}
+},
+{
+"subject": {
+"text": "a proposed law"
+},
+"sentence": "NEW DELHI: Seeking to allay fears that a proposed law which makes the practice of instant illegal and imposes a jail term of up to three years on the husband could be misused, the government on Thursday approved certain safeguards in it such as adding a provision of bail for the accused before trial.",
+"object": {
+"text": "a jail"
+},
+"action": {
+"verb": {
+"text": "impose",
+"tense": "present"
+},
+"text": "imposes",
+"normalized": "impose"
+}
+},
+{
+"subject": {
+"text": "Law Minister"
+},
+"sentence": " Law Minister told reporters here that the Union Cabinet has approved three amendments to the 'Muslim Women Protection of Rights on Marriage Bill' which has been cleared by Lok Sabha and pending approval of .",
+"object": {
+"text": "that the Union Cabinet has approved three amendments to the 'Muslim Women Protection of Rights on Marriage Bill' which has been cleared by Lok Sabha and pending approval of"
+},
+"action": {
+"verb": {
+"text": "tell",
+"tense": "past"
+},
+"text": "told",
+"normalized": "tell"
+}
+},
+{
+"subject": {
+"text": "Marriage Bill'"
+},
+"sentence": " Law Minister told reporters here that the Union Cabinet has approved three amendments to the 'Muslim Women Protection of Rights on Marriage Bill' which has been cleared by Lok Sabha and pending approval of .",
+"object": {
+"text": "cleared"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "been",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "by Lok Sabha"
+},
+"sentence": " Law Minister told reporters here that the Union Cabinet has approved three amendments to the 'Muslim Women Protection of Rights on Marriage Bill' which has been cleared by Lok Sabha and pending approval of .",
+"object": {
+"text": "Marriage Bill'"
+},
+"action": {
+"verb": {
+"text": "clear",
+"tense": "past"
+},
+"text": "has been cleared",
+"normalized": "have be clear"
+}
+},
+{
+"subject": {
+"text": "the government"
+},
+"sentence": " Tomorrow is the last day of the Monsoon Session of Parliament and the government could introduce amendments in Rajya Sabha.",
+"object": {
+"text": "amendments"
+},
+"action": {
+"verb": {
+"text": "introduce",
+"tense": "future"
+},
+"text": "could introduce",
+"normalized": "could introduce"
+}
+},
+{
+"subject": {
+"text": "the bill"
+},
+"sentence": " If the bill is cleared by the upper house, it will have to go back to Lok Sabha for approval of the amendments.",
+"object": {
+"text": "cleared by the upper house"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "present"
+},
+"text": "is",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "by the upper house"
+},
+"sentence": " If the bill is cleared by the upper house, it will have to go back to Lok Sabha for approval of the amendments.",
+"object": {
+"text": "the bill"
+},
+"action": {
+"verb": {
+"text": "clear",
+"tense": "past"
+},
+"text": "is cleared",
+"normalized": "be clear"
+}
+},
+{
+"subject": {
+"text": "bail"
+},
+"sentence": " Under a non-bailable law, bail cannot be granted by police at the police station itself.",
+"object": {
+"text": "granted by police at the police station itself"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "future",
+"negated": true
+},
+"text": "be",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "by police"
+},
+"sentence": " Under a non-bailable law, bail cannot be granted by police at the police station itself.",
+"object": {
+"text": "bail"
+},
+"action": {
+"verb": {
+"text": "grant",
+"tense": "future",
+"negated": true
+},
+"text": "granted",
+"normalized": "grant"
+}
+},
+{
+"subject": {
+"text": "Prasad"
+},
+"sentence": " Prasad said a provision has been added to allow the magistrate to grant bail \"after hearing the wife\".",
+"object": {
+"text": "a provision has been added to allow the magistrate to grant bail \"after hearing the wife\""
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "a provision"
+},
+"sentence": " Prasad said a provision has been added to allow the magistrate to grant bail \"after hearing the wife\".",
+"object": {
+"text": "the magistrate to grant bail"
+},
+"action": {
+"verb": {
+"text": "allow",
+"tense": "future"
+},
+"text": "to allow",
+"normalized": "to allow"
+}
+},
+{
+"subject": {
+"text": "a provision"
+},
+"sentence": " Prasad said a provision has been added to allow the magistrate to grant bail \"after hearing the wife\".",
+"object": {
+"text": "the wife"
+},
+"action": {
+"verb": {
+"text": "hear",
+"tense": "present"
+},
+"text": "hearing",
+"normalized": "hear"
+}
+},
+{
+"subject": {
+"text": "Sources"
+},
+"sentence": " Sources later said the magistrate would ensure that bail is granted only after the husband agrees to grant compensation to the wife as provided in the bill.",
+"object": {
+"text": "the magistrate would ensure that bail is granted only after the husband agrees to grant compensation to the wife as provided in the bill"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "bail"
+},
+"sentence": " Sources later said the magistrate would ensure that bail is granted only after the husband agrees to grant compensation to the wife as provided in the bill.",
+"object": {
+"text": "to the wife as provided in the bill"
+},
+"action": {
+"verb": {
+"text": "grant",
+"tense": "future"
+},
+"text": "is granted",
+"normalized": "be grant"
+}
+},
+{
+"subject": {
+"text": "the wife"
+},
+"sentence": " Sources later said the magistrate would ensure that bail is granted only after the husband agrees to grant compensation to the wife as provided in the bill.",
+"action": {
+"verb": {
+"text": "provide",
+"tense": "past"
+},
+"text": "provided",
+"normalized": "provide"
+}
+},
+{
+"subject": {
+"text": "by the magistrate"
+},
+"sentence": " The quantum of compensation will be decided by the magistrate, as per the bill.",
+"object": {
+"text": "The quantum of compensation"
+},
+"action": {
+"verb": {
+"text": "decide",
+"tense": "future"
+},
+"text": "will be decided",
+"normalized": "will be decide"
+}
+},
+{
+"subject": {
+"text": "we"
+},
+"sentence": " \"There were fears and we have plugged the holes ... nothing has been done under pressure,\" Prasad said in response to a question.",
+"object": {
+"text": "plugged the holes"
+},
+"action": {
+"verb": {
+"text": "have",
+"tense": "past"
+},
+"text": "have",
+"normalized": "have"
+}
+},
+{
+"subject": {
+"text": "we"
+},
+"sentence": " \"There were fears and we have plugged the holes ... nothing has been done under pressure,\" Prasad said in response to a question.",
+"object": {
+"text": "the holes"
+},
+"action": {
+"verb": {
+"text": "plug",
+"tense": "past"
+},
+"text": "have plugged",
+"normalized": "have plug"
+}
+},
+{
+"subject": {
+"text": "nothing"
+},
+"sentence": " \"There were fears and we have plugged the holes ... nothing has been done under pressure,\" Prasad said in response to a question.",
+"object": {
+"text": "done under pressure"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "been",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "her blood relations or people"
+},
+"sentence": " Another amendment makes it clear that the police would lodge FIR only if approached by the victim (wife), her blood relations or people who become her relatives by virtue of her marriage.",
+"object": {
+"text": "her relatives"
+},
+"action": {
+"verb": {
+"text": "become",
+"tense": "present"
+},
+"text": "become",
+"normalized": "become"
+}
+},
+{
+"subject": {
+"text": "This"
+},
+"sentence": " \"This would settle fears that even a neighbour can file FIR as is the cases in any cognisable offence.",
+"object": {
+"text": "fears that even a neighbour can file FIR as is the cases in any cognisable offence"
+},
+"action": {
+"verb": {
+"text": "settle",
+"tense": "future"
+},
+"text": "would settle",
+"normalized": "would settle"
+}
+},
+{
+"subject": {
+"text": "This"
+},
+"sentence": " This would check misuse,\" the minister said.",
+"object": {
+"text": "misuse"
+},
+"action": {
+"verb": {
+"text": "check",
+"tense": "future"
+},
+"text": "would check",
+"normalized": "would check"
+}
+},
+{
+"subject": {
+"text": "the minister"
+},
+"sentence": " This would check misuse,\" the minister said.",
+"object": {
+"text": "This would check misuse"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "The third amendment"
+},
+"sentence": " The third amendment makes the offence of instant triple talaq \"compoundable\".",
+"object": {
+"text": "the offence"
+},
+"action": {
+"verb": {
+"text": "make",
+"tense": "present"
+},
+"text": "makes",
+"normalized": "make"
+}
+},
+{
+"subject": {
+"text": "a magistrate"
+},
+"sentence": " Now, a magistrate can use his powers to settle the dispute between a husband and his wife.",
+"object": {
+"text": "his powers"
+},
+"action": {
+"verb": {
+"text": "use",
+"tense": "future"
+},
+"text": "can use",
+"normalized": "can use"
+}
+},
+{
+"subject": {
+"text": "a magistrate"
+},
+"sentence": " Now, a magistrate can use his powers to settle the dispute between a husband and his wife.",
+"object": {
+"text": "the dispute between a husband and his wife"
+},
+"action": {
+"verb": {
+"text": "settle",
+"tense": "future"
+},
+"text": "to settle",
+"normalized": "to settle"
+}
+},
+{
+"subject": {
+"text": "both parties"
+},
+"sentence": " Under a compoundable offence, both parties have the liberty of withdrawing the case.",
+"object": {
+"text": "the liberty of withdrawing the case"
+},
+"action": {
+"verb": {
+"text": "have",
+"tense": "present"
+},
+"text": "have",
+"normalized": "have"
+}
+},
+{
+"subject": {
+"text": "both parties"
+},
+"sentence": " Under a compoundable offence, both parties have the liberty of withdrawing the case.",
+"object": {
+"text": "the case"
+},
+"action": {
+"verb": {
+"text": "withdraw",
+"tense": "future"
+},
+"text": "withdrawing",
+"normalized": "withdraw"
+}
+},
+{
+"subject": {
+"text": "Giving instant triple talaq"
+},
+"sentence": " Giving instant triple talaq will continue to be illegal and void and will attract a jail term of three years for the husband.",
+"object": {
+"text": "a jail term of three years"
+},
+"action": {
+"verb": {
+"text": "attract",
+"tense": "future"
+},
+"text": "will attract",
+"normalized": "will attract"
+}
+},
+{
+"subject": {
+"text": "Prasad"
+},
+"sentence": " Prasad wondered whether the Congress, the BSP and the TMC would continue to oppose the bill even after insertion of provision of bail.",
+"object": {
+"text": "whether the Congress, the BSP and the TMC would continue to oppose the bill even after insertion of provision of bail"
+},
+"action": {
+"verb": {
+"text": "wonder",
+"tense": "past"
+},
+"text": "wondered",
+"normalized": "wonder"
+}
+},
+{
+"subject": {
+"text": "the BSP and the TMC"
+},
+"sentence": " Prasad wondered whether the Congress, the BSP and the TMC would continue to oppose the bill even after insertion of provision of bail.",
+"object": {
+"text": "to oppose the bill even after insertion of provision of bail"
+},
+"action": {
+"verb": {
+"text": "continue",
+"tense": "future"
+},
+"text": "continue",
+"normalized": "continue"
+}
+},
+{
+"subject": {
+"text": "Muslims and others"
+},
+"sentence": " \"Under the Dowry Act, Muslims and others go to jail ... they are also jailed under the Domestic Violence Act ...why oppose jail for triple talaq,\" he said.",
+"object": {
+"text": "to jail"
+},
+"action": {
+"verb": {
+"text": "go",
+"tense": "present"
+},
+"text": "go",
+"normalized": "go"
+}
+},
+{
+"subject": {
+"text": "they"
+},
+"sentence": " \"Under the Dowry Act, Muslims and others go to jail ... they are also jailed under the Domestic Violence Act ...why oppose jail for triple talaq,\" he said.",
+"action": {
+"verb": {
+"text": "jail",
+"tense": "past"
+},
+"text": "are also jailed",
+"normalized": "be also jail"
+}
+},
+{
+"subject": {
+"text": "he"
+},
+"sentence": " \"Under the Dowry Act, Muslims and others go to jail ... they are also jailed under the Domestic Violence Act ...why oppose jail for triple talaq,\" he said.",
+"object": {
+"text": "why oppose jail for triple talaq"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "He"
+},
+"sentence": " He said the bill should not be opposed by , Mayawati and Mamata Banerjee as it seeks to achieve gender equality.",
+"object": {
+"text": "the bill should not be opposed by , Mayawati and Mamata Banerjee as it seeks to achieve gender equality"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "The minister"
+},
+"sentence": " The minister said in 2017, a total of 389 cases of instant triple talaq were reported.",
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "229 cases"
+},
+"sentence": " Between January and August last year, 229 cases were reported.",
+"action": {
+"verb": {
+"text": "report",
+"tense": "past"
+},
+"text": "were reported",
+"normalized": "be report"
+}
+},
+{
+"subject": {
+"text": "This"
+},
+"sentence": " \"This shows that the bill is required even after the Supreme Court struck down triple talaq as illegal.\"",
+"object": {
+"text": "that the bill is required even after the Supreme Court struck down triple talaq as illegal"
+},
+"action": {
+"verb": {
+"text": "show",
+"tense": "present"
+},
+"text": "shows",
+"normalized": "show"
+}
+},
+{
+"subject": {
+"text": "the bill"
+},
+"sentence": " \"This shows that the bill is required even after the Supreme Court struck down triple talaq as illegal.\"",
+"action": {
+"verb": {
+"text": "require",
+"tense": "past"
+},
+"text": "is required",
+"normalized": "be require"
+}
+},
+{
+"subject": {
+"text": "160 cases"
+},
+"sentence": " Even after the bill was introduced, 160 cases were reported.",
+"action": {
+"verb": {
+"text": "report",
+"tense": "past"
+},
+"text": "were reported",
+"normalized": "be report"
+}
+},
+{
+"subject": {
+"text": "Provision of bail"
+},
+"sentence": " Provision of bail was one of the demands of the opposition parties.",
+"object": {
+"text": "one of the demands of the opposition parties"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "was",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "it"
+},
+"sentence": " The proposed law would only be applicable on instant triple talaq or 'talaq-e-biddat' and it would give power to the victim to approach a magistrate seeking \"subsistence allowance\" for herself and minor children.",
+"object": {
+"text": "power"
+},
+"action": {
+"verb": {
+"text": "give",
+"tense": "future"
+},
+"text": "would give",
+"normalized": "would give"
+}
+},
+{
+"subject": {
+"text": "a magistrate"
+},
+"sentence": " The proposed law would only be applicable on instant triple talaq or 'talaq-e-biddat' and it would give power to the victim to approach a magistrate seeking \"subsistence allowance\" for herself and minor children.",
+"object": {
+"text": "subsistence allowance"
+},
+"action": {
+"verb": {
+"text": "seek",
+"tense": "present"
+},
+"text": "seeking ",
+"normalized": "seek "
+}
+},
+{
+"subject": {
+"text": "A woman"
+},
+"sentence": " A woman can also seek the custody of her minor children from the magistrate who will take a final call on the issue.",
+"object": {
+"text": "the custody of her minor children from the magistrate who will take a final call on the issue"
+},
+"action": {
+"verb": {
+"text": "seek",
+"tense": "future"
+},
+"text": "can also seek",
+"normalized": "can also seek"
+}
+}
+],
+"relations": [
+{
+"type": "affectedBy",
+"sentence": "NEW DELHI: Seeking to allay fears that a proposed law which makes the practice of instant illegal and imposes a jail term of up to three years on the husband could be misused, the government on Thursday approved certain safeguards in it such as adding a provision of bail for the accused before trial.",
+"score": 0.438554,
+"arguments": [
+{
+"text": "husband",
+"location": [
+150,
+157
+],
+"entities": [
+{
+"type": "Person",
+"text": "Lok Sabha"
+}
+]
+},
+{
+"text": "accused",
+"location": [
+280,
+287
+],
+"entities": [
+{
+"type": "EventLegal",
+"text": "accused"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Sources later said the magistrate would ensure that bail is granted only after the husband agrees to grant compensation to the wife as provided in the bill.",
+"score": 0.835426,
+"arguments": [
+{
+"text": "Sources",
+"location": [
+1140,
+1147
+],
+"entities": [
+{
+"type": "Person",
+"text": "Sources"
+}
+]
+},
+{
+"text": "said",
+"location": [
+1154,
+1158
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "Sources later said the magistrate would ensure that bail is granted only after the husband agrees to grant compensation to the wife as provided in the bill.",
+"score": 0.469579,
+"arguments": [
+{
+"text": "magistrate",
+"location": [
+1163,
+1173
+],
+"entities": [
+{
+"type": "Person",
+"text": "Prasad"
+}
+]
+},
+{
+"text": "said",
+"location": [
+1154,
+1158
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Sources later said the magistrate would ensure that bail is granted only after the husband agrees to grant compensation to the wife as provided in the bill.",
+"score": 0.975758,
+"arguments": [
+{
+"text": "husband",
+"location": [
+1223,
+1230
+],
+"entities": [
+{
+"type": "Person",
+"text": "Lok Sabha"
+}
+]
+},
+{
+"text": "agrees",
+"location": [
+1231,
+1237
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "agrees"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "Sources later said the magistrate would ensure that bail is granted only after the husband agrees to grant compensation to the wife as provided in the bill.",
+"score": 0.749941,
+"arguments": [
+{
+"text": "wife",
+"location": [
+1267,
+1271
+],
+"entities": [
+{
+"type": "Person",
+"text": "magistrate"
+}
+]
+},
+{
+"text": "agrees",
+"location": [
+1231,
+1237
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "agrees"
+}
+]
+}
+]
+},
+{
+"type": "partOfMany",
+"sentence": "\"There were fears and we have plugged the holes ... nothing has been done under pressure,\" Prasad said in response to a question.",
+"score": 0.780455,
+"arguments": [
+{
+"text": "Prasad",
+"location": [
+1468,
+1474
+],
+"entities": [
+{
+"type": "Person",
+"text": "Prasad"
+}
+]
+},
+{
+"text": "we",
+"location": [
+1399,
+1401
+],
+"entities": [
+{
+"type": "Person",
+"text": "we"
+}
+]
+}
+]
+},
+{
+"type": "partOfMany",
+"sentence": "Another amendment makes it clear that the police would lodge FIR only if approached by the victim (wife), her blood relations or people who become her relatives by virtue of her marriage.",
+"score": 0.414369,
+"arguments": [
+{
+"text": "who",
+"location": [
+1643,
+1646
+],
+"entities": [
+{
+"type": "Person",
+"text": "people"
+}
+]
+},
+{
+"text": "relatives",
+"location": [
+1658,
+1667
+],
+"entities": [
+{
+"type": "Person",
+"text": "relatives"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "This would check misuse,\" the minister said.",
+"score": 0.974804,
+"arguments": [
+{
+"text": "minister",
+"location": [
+1828,
+1836
+],
+"entities": [
+{
+"type": "Person",
+"text": "minister"
+}
+]
+},
+{
+"text": "said",
+"location": [
+1837,
+1841
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "spouseOf",
+"sentence": "Now, a magistrate can use his powers to settle the dispute between a husband and his wife.",
+"score": 0.642855,
+"arguments": [
+{
+"text": "his",
+"location": [
+2002,
+2005
+],
+"entities": [
+{
+"type": "Person",
+"text": "Prasad"
+}
+]
+},
+{
+"text": "wife",
+"location": [
+2006,
+2010
+],
+"entities": [
+{
+"type": "Person",
+"text": "magistrate"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "\"Under the Dowry Act, Muslims and others go to jail ... they are also jailed under the Domestic Violence Act ...why oppose jail for triple talaq,\" he said.",
+"score": 0.501459,
+"arguments": [
+{
+"text": "Muslims",
+"location": [
+2380,
+2387
+],
+"entities": [
+{
+"type": "Person",
+"text": "Muslims"
+}
+]
+},
+{
+"text": "jail",
+"location": [
+2405,
+2409
+],
+"entities": [
+{
+"type": "Facility",
+"text": "jail"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "\"Under the Dowry Act, Muslims and others go to jail ... they are also jailed under the Domestic Violence Act ...why oppose jail for triple talaq,\" he said.",
+"score": 0.972696,
+"arguments": [
+{
+"text": "he",
+"location": [
+2505,
+2507
+],
+"entities": [
+{
+"type": "Person",
+"text": "Prasad"
+}
+]
+},
+{
+"text": "said",
+"location": [
+2508,
+2512
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "He said the bill should not be opposed by , Mayawati and Mamata Banerjee as it seeks to achieve gender equality.",
+"score": 0.989961,
+"arguments": [
+{
+"text": "He",
+"location": [
+2514,
+2516
+],
+"entities": [
+{
+"type": "Person",
+"text": "Prasad"
+}
+]
+},
+{
+"text": "said",
+"location": [
+2517,
+2521
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Law Minister told reporters here that the Union Cabinet has approved three amendments to the 'Muslim Women Protection of Rights on Marriage Bill' which has been cleared by Lok Sabha and pending approval of .",
+"score": 0.977572,
+"arguments": [
+{
+"text": "Minister",
+"location": [
+306,
+314
+],
+"entities": [
+{
+"type": "Person",
+"text": "minister"
+}
+]
+},
+{
+"text": "told",
+"location": [
+315,
+319
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "told"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "The minister said in 2017, a total of 389 cases of instant triple talaq were reported.",
+"score": 0.963549,
+"arguments": [
+{
+"text": "minister",
+"location": [
+2631,
+2639
+],
+"entities": [
+{
+"type": "Person",
+"text": "minister"
+}
+]
+},
+{
+"text": "said",
+"location": [
+2640,
+2644
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "timeOf",
+"sentence": "The minister said in 2017, a total of 389 cases of instant triple talaq were reported.",
+"score": 0.964906,
+"arguments": [
+{
+"text": "2017",
+"location": [
+2648,
+2652
+],
+"entities": [
+{
+"type": "Date",
+"text": "2017"
+}
+]
+},
+{
+"text": "said",
+"location": [
+2640,
+2644
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "affiliatedWith",
+"sentence": "Provision of bail was one of the demands of the opposition parties.",
+"score": 0.752591,
+"arguments": [
+{
+"text": "parties",
+"location": [
+3002,
+3009
+],
+"entities": [
+{
+"type": "Organization",
+"text": "parties",
+"disambiguation": {
+"subtype": [
+"Political"
+]
+}
+}
+]
+},
+{
+"text": "opposition",
+"location": [
+2991,
+3001
+],
+"entities": [
+{
+"type": "Person",
+"text": "opposition"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "Law Minister told reporters here that the Union Cabinet has approved three amendments to the 'Muslim Women Protection of Rights on Marriage Bill' which has been cleared by Lok Sabha and pending approval of .",
+"score": 0.988931,
+"arguments": [
+{
+"text": "reporters",
+"location": [
+320,
+329
+],
+"entities": [
+{
+"type": "Person",
+"text": "reporters"
+}
+]
+},
+{
+"text": "told",
+"location": [
+315,
+319
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "told"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "Law Minister told reporters here that the Union Cabinet has approved three amendments to the 'Muslim Women Protection of Rights on Marriage Bill' which has been cleared by Lok Sabha and pending approval of .",
+"score": 0.261611,
+"arguments": [
+{
+"text": "reporters",
+"location": [
+320,
+329
+],
+"entities": [
+{
+"type": "Person",
+"text": "reporters"
+}
+]
+},
+{
+"text": "here",
+"location": [
+330,
+334
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "NEW DELHI"
+}
+]
+}
+]
+},
+{
+"type": "memberOf",
+"sentence": "Law Minister told reporters here that the Union Cabinet has approved three amendments to the 'Muslim Women Protection of Rights on Marriage Bill' which has been cleared by Lok Sabha and pending approval of .",
+"score": 0.286818,
+"arguments": [
+{
+"text": "Muslim",
+"location": [
+396,
+402
+],
+"entities": [
+{
+"type": "Person",
+"text": "Muslim"
+}
+]
+},
+{
+"text": "Women Protection of Rights on Marriage Bill",
+"location": [
+403,
+446
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Women Protection of Rights on Marriage Bill"
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "Law Minister told reporters here that the Union Cabinet has approved three amendments to the 'Muslim Women Protection of Rights on Marriage Bill' which has been cleared by Lok Sabha and pending approval of .",
+"score": 0.372405,
+"arguments": [
+{
+"text": "Lok Sabha",
+"location": [
+474,
+483
+],
+"entities": [
+{
+"type": "Person",
+"text": "Lok Sabha"
+}
+]
+},
+{
+"text": "which",
+"location": [
+448,
+453
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Women Protection of Rights on Marriage Bill"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "While the proposed law will remain \"non-bailable'', the accused can approach a magistrate even before trial to seek bail.",
+"score": 0.706357,
+"arguments": [
+{
+"text": "magistrate",
+"location": [
+825,
+835
+],
+"entities": [
+{
+"type": "Person",
+"text": "Prasad"
+}
+]
+},
+{
+"text": "trial",
+"location": [
+848,
+853
+],
+"entities": [
+{
+"type": "EventLegal",
+"text": "trial"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Prasad said a provision has been added to allow the magistrate to grant bail \"after hearing the wife\".",
+"score": 0.997764,
+"arguments": [
+{
+"text": "Prasad",
+"location": [
+957,
+963
+],
+"entities": [
+{
+"type": "Person",
+"text": "Prasad"
+}
+]
+},
+{
+"text": "said",
+"location": [
+964,
+968
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "\"There were fears and we have plugged the holes ... nothing has been done under pressure,\" Prasad said in response to a question.",
+"score": 0.994786,
+"arguments": [
+{
+"text": "Prasad",
+"location": [
+1468,
+1474
+],
+"entities": [
+{
+"type": "Person",
+"text": "Prasad"
+}
+]
+},
+{
+"text": "said",
+"location": [
+1475,
+1479
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "\"But the offence of under the proposed law remains non-bailable,\" he clarified.",
+"score": 0.987179,
+"arguments": [
+{
+"text": "he",
+"location": [
+1126,
+1128
+],
+"entities": [
+{
+"type": "Person",
+"text": "Prasad"
+}
+]
+},
+{
+"text": "clarified",
+"location": [
+1129,
+1138
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "clarified"
+}
+]
+}
+]
+}
+],
+"language": "en",
+"keywords": [
+{
+"text": "instant triple talaq",
+"sentiment": {
+"score": -0.540735,
+"label": "negative"
+},
+"relevance": 0.954717,
+"emotion": {
+"sadness": 0.323652,
+"joy": 0.072754,
+"fear": 0.079195,
+"disgust": 0.236325,
+"anger": 0.375636
+}
+},
+{
+"text": "magistrate",
+"sentiment": {
+"score": -0.408123,
+"label": "negative"
+},
+"relevance": 0.626912,
+"emotion": {
+"sadness": 0.208935,
+"joy": 0.105469,
+"fear": 0.067514,
+"disgust": 0.619148,
+"anger": 0.464844
+}
+},
+{
+"text": "Lok Sabha",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.59,
+"emotion": {
+"sadness": 0.254122,
+"joy": 0.141057,
+"fear": 0.100658,
+"disgust": 0.038636,
+"anger": 0.116759
+}
+},
+{
+"text": "jail term",
+"sentiment": {
+"score": -0.626431,
+"label": "negative"
+},
+"relevance": 0.556177,
+"emotion": {
+"sadness": 0.342305,
+"joy": 0.039771,
+"fear": 0.336674,
+"disgust": 0.308986,
+"anger": 0.294329
+}
+},
+{
+"text": "bail",
+"sentiment": {
+"score": -0.433237,
+"label": "negative"
+},
+"relevance": 0.547681,
+"emotion": {
+"sadness": 0.132206,
+"joy": 0.059419,
+"fear": 0.074449,
+"disgust": 0.712281,
+"anger": 0.196468
+}
+}
+],
+"entities": [
+{
+"type": "Facility",
+"text": "Lok Sabha",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.980443,
+"emotion": {
+"sadness": 0.254122,
+"joy": 0.141057,
+"fear": 0.100658,
+"disgust": 0.038636,
+"anger": 0.116759
+},
+"count": 2
+},
+{
+"type": "Person",
+"text": "Prasad",
+"sentiment": {
+"score": -0.395833,
+"label": "negative"
+},
+"relevance": 0.961652,
+"emotion": {
+"sadness": 0.071491,
+"joy": 0.084974,
+"fear": 0.083147,
+"disgust": 0.638762,
+"anger": 0.167253
+},
+"count": 3
+},
+{
+"type": "Organization",
+"text": "Rajya Sabha",
+"sentiment": {
+"score": -0.350196,
+"label": "negative"
+},
+"relevance": 0.72772,
+"emotion": {
+"sadness": 0.622653,
+"joy": 0.10933,
+"fear": 0.222443,
+"disgust": 0.044309,
+"anger": 0.064576
+},
+"disambiguation": {
+"subtype": [
+"GovernmentalBody",
+"Legislature"
+],
+"name": "Rajya Sabha",
+"dbpedia_resource": "http://dbpedia.org/resource/Rajya_Sabha"
+},
+"count": 1
+},
+{
+"type": "Organization",
+"text": "government",
+"sentiment": {
+"score": -0.350196,
+"label": "negative"
+},
+"relevance": 0.71753,
+"emotion": {
+"sadness": 0.371744,
+"joy": 0.046419,
+"fear": 0.113381,
+"disgust": 0.42443,
+"anger": 0.306155
+},
+"disambiguation": {
+"subtype": [
+"FieldOfStudy",
+"BuildingFunction"
+],
+"name": "Government",
+"dbpedia_resource": "http://dbpedia.org/resource/Government"
+},
+"count": 2
+},
+{
+"type": "Organization",
+"text": "Union Cabinet",
+"sentiment": {
+"score": 0.513066,
+"label": "positive"
+},
+"relevance": 0.5597,
+"emotion": {
+"sadness": 0.205909,
+"joy": 0.244347,
+"fear": 0.039534,
+"disgust": 0.406336,
+"anger": 0.212222
+},
+"disambiguation": {
+"subtype": [],
+"name": "Cabinet of India",
+"dbpedia_resource": "http://dbpedia.org/resource/Cabinet_of_India"
+},
+"count": 1
+}
+],
+"concepts": [
+{
+"text": "United States Constitution",
+"relevance": 0.985302,
+"dbpedia_resource": "http://dbpedia.org/resource/United_States_Constitution"
+},
+{
+"text": "Lok Sabha",
+"relevance": 0.973445,
+"dbpedia_resource": "http://dbpedia.org/resource/Lok_Sabha"
+},
+{
+"text": "United States Bill of Rights",
+"relevance": 0.956079,
+"dbpedia_resource": "http://dbpedia.org/resource/United_States_Bill_of_Rights"
+},
+{
+"text": "Marriage",
+"relevance": 0.943253,
+"dbpedia_resource": "http://dbpedia.org/resource/Marriage"
+},
+{
+"text": "Bail",
+"relevance": 0.829442,
+"dbpedia_resource": "http://dbpedia.org/resource/Bail"
+}
+],
+"categories": [
+{
+"score": 0.436769,
+"label": "/law, govt and politics/government/parliament"
+},
+{
+"score": 0.381093,
+"label": "/law, govt and politics"
+},
+{
+"score": 0.348617,
+"label": "/law, govt and politics/law enforcement/police"
+}
+]
+}
+}

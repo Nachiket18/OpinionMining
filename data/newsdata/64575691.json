@@ -1,0 +1,764 @@
+{
+"source_article_link": "https://timesofindia.indiatimes.com/india/cabinet-approves-dam-safety-bill/articleshow/64575691.cms?&utm_source=Articleshow&utm_medium=Organic&utm_campaign=Related_Stories",
+"title": "Cabinet approves Dam Safety Bill",
+"date_published": "2018-06-13T19:48:02+05:30",
+"source_type": "news_article",
+"source_name": "timesofindia.indiatimes.com",
+"image_link": [
+"https://timesofindia.indiatimes.com/thumb/msid-64575715,imgsize-205496,width-400,resizemode-4/64575715.jpg"
+],
+"article_body": "NEW DELHI: The on approved a proposal for enacting the , which will help the states and union territories to adopt uniform safety procedures to ensure safety of reservoirs. The bill also seeks to constitute a national committee on dam safety which shall evolve safety policies and recommend necessary regulations, finance minister Piyush Goyal told reporters. There are over 5,200 large in India and about 450 are under construction. In addition, there are thousands of medium and small dams. Lack of legal and institutional architecture for dam safety in India has been an issue of concern. The bill provides for establishment of National Dam Safety Authority as a regulatory body which shall discharge functions to implement the policy, guidelines and standards for dam safety in the country. In certain cases, such as dams of one state falling under the territory of another, the authority shall also perform the role of State Dam Safety Organisation thereby eliminating potential causes for inter-state conflicts. The legislation will address all issues concerning dam safety including regular inspection of dams, emergency action plan, comprehensive dam safety review, adequate repair and maintenance funds for dam safety, instrumentation and safety manuals. The bill also provides for constitution of a State Committee on Dam Safety by the state governments. The provisions of the bill also lays onus of dam safety on the dam owner and provides for penal provisions for commission and omission of certain acts. The draft bill has been finalised after wide consultation with leading experts and international experts, Goyal said.",
+"description": "NEW DELHI: The on approved a proposal for enacting the , which will help the states and union territories to adopt uniform safety procedures to ensure safety of reservoirs. The bill also seeks to constitute a national committee on dam safety which shall evolve safety policies and recommend necessary regulations, finance minister Piyush Goyal told reporters. There are over 5,200 large",
+"time_scraped": "2018-08-24 03:02:34.662196",
+"article_id": "64575691",
+"article_category": "IndiaNews",
+"image_details": [
+{
+"url": "https://timesofindia.indiatimes.com/thumb/msid-64575715,imgsize-205496,width-400,resizemode-4/64575715.jpg",
+"path": "full/37231e9dc1826b29fefd1247a00eeb1b96bc7f95.jpg",
+"checksum": "ef1673813c49225c5470e8742e0b73da"
+}
+],
+"ibm_nlu": {
+"usage": {
+"text_units": 1,
+"text_characters": 1634,
+"features": 7
+},
+"sentiment": {
+"document": {
+"score": -0.139906,
+"label": "negative"
+}
+},
+"semantic_roles": [
+{
+"subject": {
+"text": "a proposal"
+},
+"sentence": "NEW DELHI: The on approved a proposal for enacting the , which will help the states and union territories to adopt uniform safety procedures to ensure safety of reservoirs.",
+"object": {
+"text": "the states and union territories"
+},
+"action": {
+"verb": {
+"text": "help",
+"tense": "future"
+},
+"text": "will help",
+"normalized": "will help"
+}
+},
+{
+"subject": {
+"text": "The bill"
+},
+"sentence": " The bill also seeks to constitute a national committee on dam safety which shall evolve safety policies and recommend necessary regulations, finance minister Piyush Goyal told reporters.",
+"object": {
+"text": "to constitute a national committee on dam safety which shall evolve safety policies and recommend necessary regulations, finance minister Piyush Goyal told reporters"
+},
+"action": {
+"verb": {
+"text": "seek",
+"tense": "present"
+},
+"text": "seeks",
+"normalized": "seek"
+}
+},
+{
+"subject": {
+"text": "The bill"
+},
+"sentence": " The bill also seeks to constitute a national committee on dam safety which shall evolve safety policies and recommend necessary regulations, finance minister Piyush Goyal told reporters.",
+"object": {
+"text": "a national committee on dam safety which shall evolve safety policies and recommend necessary regulations, finance minister Piyush Goyal told reporters"
+},
+"action": {
+"verb": {
+"text": "constitute",
+"tense": "future"
+},
+"text": "seeks to constitute",
+"normalized": "seek to constitute"
+}
+},
+{
+"subject": {
+"text": "dam safety"
+},
+"sentence": " The bill also seeks to constitute a national committee on dam safety which shall evolve safety policies and recommend necessary regulations, finance minister Piyush Goyal told reporters.",
+"object": {
+"text": "necessary regulations"
+},
+"action": {
+"verb": {
+"text": "recommend",
+"tense": "future"
+},
+"text": "recommend",
+"normalized": "recommend"
+}
+},
+{
+"subject": {
+"text": "finance minister Piyush Goyal"
+},
+"sentence": " The bill also seeks to constitute a national committee on dam safety which shall evolve safety policies and recommend necessary regulations, finance minister Piyush Goyal told reporters.",
+"object": {
+"text": "The bill also seeks to constitute a national committee on dam safety which shall evolve safety policies and recommend necessary regulations"
+},
+"action": {
+"verb": {
+"text": "tell",
+"tense": "past"
+},
+"text": "told",
+"normalized": "tell"
+}
+},
+{
+"subject": {
+"text": "about 450"
+},
+"sentence": " There are over 5,200 large in India and about 450 are under construction.",
+"object": {
+"text": "under construction"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "present"
+},
+"text": "are",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "Lack of legal and institutional architecture for dam safety in India"
+},
+"sentence": " Lack of legal and institutional architecture for dam safety in India has been an issue of concern.",
+"object": {
+"text": "been an issue of concern"
+},
+"action": {
+"verb": {
+"text": "have",
+"tense": "present"
+},
+"text": "has",
+"normalized": "have"
+}
+},
+{
+"subject": {
+"text": "The bill"
+},
+"sentence": " The bill provides for establishment of National Dam Safety Authority as a regulatory body which shall discharge functions to implement the policy, guidelines and standards for dam safety in the country.",
+"action": {
+"verb": {
+"text": "provide",
+"tense": "present"
+},
+"text": "provides",
+"normalized": "provide"
+}
+},
+{
+"subject": {
+"text": "a regulatory body"
+},
+"sentence": " The bill provides for establishment of National Dam Safety Authority as a regulatory body which shall discharge functions to implement the policy, guidelines and standards for dam safety in the country.",
+"object": {
+"text": "functions to implement the policy, guidelines and standards"
+},
+"action": {
+"verb": {
+"text": "discharge",
+"tense": "future"
+},
+"text": "shall discharge",
+"normalized": "shall discharge"
+}
+},
+{
+"subject": {
+"text": "a regulatory body which shall discharge functions"
+},
+"sentence": " The bill provides for establishment of National Dam Safety Authority as a regulatory body which shall discharge functions to implement the policy, guidelines and standards for dam safety in the country.",
+"object": {
+"text": "the policy, guidelines and standards for dam safety in the country"
+},
+"action": {
+"verb": {
+"text": "implement",
+"tense": "future"
+},
+"text": "to implement",
+"normalized": "to implement"
+}
+},
+{
+"subject": {
+"text": "such as dams of one state falling under the territory of another, the authority"
+},
+"sentence": " In certain cases, such as dams of one state falling under the territory of another, the authority shall also perform the role of State Dam Safety Organisation thereby eliminating potential causes for inter-state conflicts.",
+"object": {
+"text": "the role of State Dam Safety Organisation"
+},
+"action": {
+"verb": {
+"text": "perform",
+"tense": "future"
+},
+"text": "shall also perform",
+"normalized": "shall also perform"
+}
+},
+{
+"subject": {
+"text": "The legislation"
+},
+"sentence": " The legislation will address all issues concerning dam safety including regular inspection of dams, emergency action plan, comprehensive dam safety review, adequate repair and maintenance funds for dam safety, instrumentation and safety manuals.",
+"object": {
+"text": "all issues concerning dam safety including regular inspection of dams, emergency action plan, comprehensive dam safety review, adequate repair and maintenance funds for dam safety, instrumentation and safety manuals"
+},
+"action": {
+"verb": {
+"text": "address",
+"tense": "future"
+},
+"text": "will address",
+"normalized": "will address"
+}
+},
+{
+"subject": {
+"text": "regular inspection of dams, emergency action plan, comprehensive dam safety review, adequate repair and maintenance funds for dam safety, instrumentation and safety manuals"
+},
+"sentence": " The legislation will address all issues concerning dam safety including regular inspection of dams, emergency action plan, comprehensive dam safety review, adequate repair and maintenance funds for dam safety, instrumentation and safety manuals.",
+"object": {
+"text": "dam safety"
+},
+"action": {
+"verb": {
+"text": "include",
+"tense": "present"
+},
+"text": "including",
+"normalized": "include"
+}
+},
+{
+"subject": {
+"text": "The bill"
+},
+"sentence": " The bill also provides for constitution of a State Committee on Dam Safety by the state governments.",
+"object": {
+"text": "on Dam Safety by the state governments"
+},
+"action": {
+"verb": {
+"text": "provide",
+"tense": "present"
+},
+"text": "provides",
+"normalized": "provide"
+}
+},
+{
+"subject": {
+"text": "The provisions of the bill"
+},
+"sentence": " The provisions of the bill also lays onus of dam safety on the dam owner and provides for penal provisions for commission and omission of certain acts.",
+"object": {
+"text": "onus of dam safety"
+},
+"action": {
+"verb": {
+"text": "lay",
+"tense": "present"
+},
+"text": "lays",
+"normalized": "lay"
+}
+},
+{
+"subject": {
+"text": "The provisions of the bill"
+},
+"sentence": " The provisions of the bill also lays onus of dam safety on the dam owner and provides for penal provisions for commission and omission of certain acts.",
+"object": {
+"text": "for penal provisions for commission and omission of certain acts"
+},
+"action": {
+"verb": {
+"text": "provide",
+"tense": "present"
+},
+"text": "provides",
+"normalized": "provide"
+}
+},
+{
+"subject": {
+"text": "The draft bill"
+},
+"sentence": " The draft bill has been finalised after wide consultation with leading experts and international experts, Goyal said.",
+"action": {
+"verb": {
+"text": "finalise",
+"tense": "past"
+},
+"text": "has been finalised",
+"normalized": "have be finalise"
+}
+},
+{
+"subject": {
+"text": "Goyal"
+},
+"sentence": " The draft bill has been finalised after wide consultation with leading experts and international experts, Goyal said.",
+"object": {
+"text": "The draft bill has been finalised after wide consultation with leading experts and international experts"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+}
+],
+"relations": [
+{
+"type": "basedIn",
+"sentence": "NEW DELHI: The on approved a proposal for enacting the , which will help the states and union territories to adopt uniform safety procedures to ensure safety of reservoirs.",
+"score": 0.292732,
+"arguments": [
+{
+"text": "union",
+"location": [
+88,
+93
+],
+"entities": [
+{
+"type": "Organization",
+"text": "union"
+}
+]
+},
+{
+"text": "territories",
+"location": [
+94,
+105
+],
+"entities": [
+{
+"type": "Location",
+"text": "territories"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "The bill also seeks to constitute a national committee on dam safety which shall evolve safety policies and recommend necessary regulations, finance minister Piyush Goyal told reporters.",
+"score": 0.988085,
+"arguments": [
+{
+"text": "Piyush Goyal",
+"location": [
+331,
+343
+],
+"entities": [
+{
+"type": "Person",
+"text": "Piyush Goyal"
+}
+]
+},
+{
+"text": "told",
+"location": [
+344,
+348
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "told"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "The bill also seeks to constitute a national committee on dam safety which shall evolve safety policies and recommend necessary regulations, finance minister Piyush Goyal told reporters.",
+"score": 0.984396,
+"arguments": [
+{
+"text": "reporters",
+"location": [
+349,
+358
+],
+"entities": [
+{
+"type": "Person",
+"text": "reporters"
+}
+]
+},
+{
+"text": "told",
+"location": [
+344,
+348
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "told"
+}
+]
+}
+]
+},
+{
+"type": "basedIn",
+"sentence": "In certain cases, such as dams of one state falling under the territory of another, the authority shall also perform the role of State Dam Safety Organisation thereby eliminating potential causes for inter-state conflicts.",
+"score": 0.892928,
+"arguments": [
+{
+"text": "Safety Organisation",
+"location": [
+934,
+953
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Safety Organisation"
+}
+]
+},
+{
+"text": "State Dam",
+"location": [
+924,
+933
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "State Dam"
+}
+]
+}
+]
+},
+{
+"type": "partOf",
+"sentence": "The bill also provides for constitution of a State Committee on Dam Safety by the state governments.",
+"score": 0.663363,
+"arguments": [
+{
+"text": "governments",
+"location": [
+1352,
+1363
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "governments",
+"disambiguation": {
+"subtype": [
+"Area"
+]
+}
+}
+]
+},
+{
+"text": "state",
+"location": [
+1346,
+1351
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "State Committee on Dam Safety"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "The draft bill has been finalised after wide consultation with leading experts and international experts, Goyal said.",
+"score": 0.99828,
+"arguments": [
+{
+"text": "Goyal",
+"location": [
+1623,
+1628
+],
+"entities": [
+{
+"type": "Person",
+"text": "Piyush Goyal"
+}
+]
+},
+{
+"text": "said",
+"location": [
+1629,
+1633
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+}
+],
+"language": "en",
+"keywords": [
+{
+"text": "dam safety",
+"sentiment": {
+"score": -0.53566,
+"label": "negative"
+},
+"relevance": 0.909359,
+"emotion": {
+"sadness": 0.106115,
+"joy": 0.066256,
+"fear": 0.078236,
+"disgust": 0.097652,
+"anger": 0.08732
+}
+},
+{
+"text": "Dam Safety Authority",
+"sentiment": {
+"score": -0.544524,
+"label": "negative"
+},
+"relevance": 0.693145,
+"emotion": {
+"sadness": 0.022886,
+"joy": 0.084917,
+"fear": 0.031065,
+"disgust": 0.073908,
+"anger": 0.07938
+}
+},
+{
+"text": "State Dam Safety",
+"sentiment": {
+"score": -0.625278,
+"label": "negative"
+},
+"relevance": 0.68454,
+"emotion": {
+"sadness": 0.303588,
+"joy": 0.159787,
+"fear": 0.141986,
+"disgust": 0.049385,
+"anger": 0.089357
+}
+},
+{
+"text": "comprehensive dam safety",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.676791,
+"emotion": {
+"sadness": 0.036884,
+"joy": 0.084268,
+"fear": 0.071946,
+"disgust": 0.049311,
+"anger": 0.02181
+}
+},
+{
+"text": "dam owner",
+"sentiment": {
+"score": -0.694685,
+"label": "negative"
+},
+"relevance": 0.602472,
+"emotion": {
+"sadness": 0.099391,
+"joy": 0.066706,
+"fear": 0.167938,
+"disgust": 0.160583,
+"anger": 0.285566
+}
+}
+],
+"entities": [
+{
+"type": "Organization",
+"text": "National Dam Safety Authority",
+"sentiment": {
+"score": -0.584901,
+"label": "negative"
+},
+"relevance": 0.984977,
+"emotion": {
+"sadness": 0.070496,
+"joy": 0.113055,
+"fear": 0.058724,
+"disgust": 0.056267,
+"anger": 0.081437
+},
+"count": 2
+},
+{
+"type": "Organization",
+"text": "State Dam Safety Organisation",
+"sentiment": {
+"score": -0.625278,
+"label": "negative"
+},
+"relevance": 0.664355,
+"emotion": {
+"sadness": 0.303588,
+"joy": 0.159787,
+"fear": 0.141986,
+"disgust": 0.049385,
+"anger": 0.089357
+},
+"count": 1
+},
+{
+"type": "Person",
+"text": "Piyush Goyal",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.356379,
+"emotion": {
+"sadness": 0.447732,
+"joy": 0.162854,
+"fear": 0.14843,
+"disgust": 0.114525,
+"anger": 0.141759
+},
+"disambiguation": {
+"subtype": [],
+"name": "Piyush Goyal",
+"dbpedia_resource": "http://dbpedia.org/resource/Piyush_Goyal"
+},
+"count": 2
+},
+{
+"type": "Location",
+"text": "India",
+"sentiment": {
+"score": -0.843089,
+"label": "negative"
+},
+"relevance": 0.245798,
+"emotion": {
+"sadness": 0.062812,
+"joy": 0.050947,
+"fear": 0.10475,
+"disgust": 0.025122,
+"anger": 0.052931
+},
+"disambiguation": {
+"subtype": [
+"HumanLanguage",
+"Region",
+"GovernmentalJurisdiction",
+"FilmEditor",
+"Country"
+],
+"name": "India",
+"dbpedia_resource": "http://dbpedia.org/resource/India"
+},
+"count": 2
+},
+{
+"type": "Organization",
+"text": "State Committee",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.20131,
+"emotion": {
+"sadness": 0.186051,
+"joy": 0.064959,
+"fear": 0.080598,
+"disgust": 0.176614,
+"anger": 0.068738
+},
+"count": 1
+}
+],
+"concepts": [
+{
+"text": "Delhi",
+"relevance": 0.968559,
+"dbpedia_resource": "http://dbpedia.org/resource/Delhi"
+},
+{
+"text": "Dam",
+"relevance": 0.924621,
+"dbpedia_resource": "http://dbpedia.org/resource/Dam"
+},
+{
+"text": "India",
+"relevance": 0.864271,
+"dbpedia_resource": "http://dbpedia.org/resource/India"
+},
+{
+"text": "Union Territory",
+"relevance": 0.776524,
+"dbpedia_resource": "http://dbpedia.org/resource/Union_Territory"
+},
+{
+"text": "Reservoir",
+"relevance": 0.676528,
+"dbpedia_resource": "http://dbpedia.org/resource/Reservoir"
+}
+],
+"categories": [
+{
+"score": 0.38304,
+"label": "/business and industrial/construction"
+},
+{
+"score": 0.379272,
+"label": "/business and industrial/energy/renewable energy/hydroelectric energy"
+},
+{
+"score": 0.334203,
+"label": "/law, govt and politics/legal issues/legislation"
+}
+]
+}
+}

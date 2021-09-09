@@ -1,0 +1,2350 @@
+{
+"source_article_link": "https://timesofindia.indiatimes.com/india/at-un-india-says-it-faces-scourge-of-terrorism-from-across-the-borders/articleshow/64808732.cms?&utm_source=Articleshow&utm_medium=Organic&utm_campaign=Related_Stories",
+"title": "At UN, India says it faces scourge of terrorism from across the borders",
+"date_published": "2018-06-30T21:11:51+05:30",
+"source_type": "news_article",
+"source_name": "timesofindia.indiatimes.com",
+"image_link": [],
+"article_body": "UNITED NATIONS: India has told the that it has faced the scourge of terrorism from across the borders for decades, while its counter-terror efforts get thwarted due to lack of global support in exchange of information and extradition of the accused \"hiding\" outside. Speaking at the United Nations High-Level Conference on Heads of Counter-Terrorism Agencies on Friday, special secretary, internal security, home ministry, warned that no country can be considered safe from terrorist acts. She said terrorist entities today have links and operate across borders building networks, raising funds in various ways including internationally, propagating ideologies of hate, recruiting from foreign lands, sourcing arms and weapons from distant providers and smugglers and exploiting modern communication technologies that dissolve distances. \"They are able to select targets of their choosing in countries of their choosing, cross borders often with help from state agencies and inflict terror on innocent peoples. They are able to do this because nation states still struggle to collaborate with their partners and neighbours on countering activities of terror networks, often due to narrow political considerations,\" she said. \"Worse, there are well known instances of some states using terror entities for their political ends, providing them with safe havens and other support,\" she added. Mitra told the conference that India has had to face the scourge of terrorism, mostly originating outside its borders, increasingly over the last two decades, adding that the country's counter-terrorism agencies have developed considerable expertise in preventing such attacks and bringing their perpetrators to justice. \"Many of our efforts continue to be thwarted due to lack of international collaboration in respect of exchange of information and evidence or of extradition of the accused persons who are hiding outside our territory,\" she said. The UN had convened its first-ever High-Level Conference on Counter-Terrorism. Antonio Guterres called on nations to fight terrorism together with methods that do not compromise the rule of law and human rights. The UN chief said, \"We should engage with all who can help us achieve our goals, including empowering young people through education, jobs and training, and engaging women and all of civil society in the fight against terrorism.\" Mitra said terrorism can be effectively tackled only if there is genuine collaboration among nations. While over the past seven decades, some international treaties have elicited international collaboration on specific kinds of terrorist threats, a more comprehensive approach, as embodied in the proposed Convention on Countering International Terrorism \"is required in tackling the contemporary form of terrorism that is evolving all the time continues to elude us\". Referring to the sanctions committee in the Security Council, Mitra said some practical steps to counter terrorism have been mandated by the council through establishment of specific sanctions committees but these have had limited success. \"Such efforts have also run into political difficulties due to differing strategic considerations of major powers,\" she said, adding that the Global Counter Terrorism Strategy (GCTS) being discussed by the UN General Assembly over the last decade has also had limited practical impact. Mitra expressed hope that the UN Conference of counter-terrorism experts and practitioners will start a serious exchange of practical ideas and push for a more coordinated approach to counter terrorism at a global level. \"We hope that this will also provide concrete suggestions for international collaboration. This will also help us discuss some of the emerging threats and challenges posed by international terrorism,\" she said. Mitra said India stands ready to work with partners to strengthen practical aspects relating to counter-terrorism efforts, including exchange of timely and actionable intelligence, prevention of misuse of modern communication technologies and social media platforms, monitoring illicit financial flows and sharing of information relating to movement of passengers.",
+"description": "UNITED NATIONS: India has told the that it has faced the scourge of terrorism from across the borders for decades, while its counter-terror efforts get thwarted due to lack of global support in exchange of information and extradition of the accused \"hiding\" outside. Speaking at the United Nations High-Level Conference on Heads of Counter-Terrorism Agencies on Friday, special secretary, internal security, home ministry, warned that no country can be considered safe from terrorist acts. She said terrorist entities today have links and operate across borders building networks, raising funds in various ways including internationally, propagating ideologies of hate, recruiting from foreign lands, sourcing arms and weapons from distant providers and smugglers and exploiting modern communication technologies that dissolve distances.",
+"time_scraped": "2018-08-22 15:01:45.551141",
+"article_id": "64808732",
+"article_category": "IndiaNews",
+"image_details": [],
+"ibm_nlu": {
+"usage": {
+"text_units": 1,
+"text_characters": 4173,
+"features": 7
+},
+"sentiment": {
+"document": {
+"score": -0.143681,
+"label": "negative"
+}
+},
+"semantic_roles": [
+{
+"subject": {
+"text": "India"
+},
+"sentence": "UNITED NATIONS: India has told the that it has faced the scourge of terrorism from across the borders for decades, while its counter-terror efforts get thwarted due to lack of global support in exchange of information and extradition of the accused \"hiding\" outside.",
+"object": {
+"text": "told the that it has faced the scourge of terrorism from across the borders for decades"
+},
+"action": {
+"verb": {
+"text": "have",
+"tense": "present"
+},
+"text": "has",
+"normalized": "have"
+}
+},
+{
+"subject": {
+"text": "India"
+},
+"sentence": "UNITED NATIONS: India has told the that it has faced the scourge of terrorism from across the borders for decades, while its counter-terror efforts get thwarted due to lack of global support in exchange of information and extradition of the accused \"hiding\" outside.",
+"object": {
+"text": "it has faced the scourge of terrorism from across the borders for decades, while its counter-terror efforts get thwarted due to lack of global support in exchange of information and extradition of the accused \"hiding\" outside"
+},
+"action": {
+"verb": {
+"text": "tell",
+"tense": "past"
+},
+"text": "has told",
+"normalized": "have tell"
+}
+},
+{
+"subject": {
+"text": "special secretary, internal security, home ministry,"
+},
+"sentence": " Speaking at the United Nations High-Level Conference on Heads of Counter-Terrorism Agencies on Friday, special secretary, internal security, home ministry, warned that no country can be considered safe from terrorist acts.",
+"object": {
+"text": "that no country can be considered safe from terrorist acts"
+},
+"action": {
+"verb": {
+"text": "warn",
+"tense": "past"
+},
+"text": "warned",
+"normalized": "warn"
+}
+},
+{
+"subject": {
+"text": "no country"
+},
+"sentence": " Speaking at the United Nations High-Level Conference on Heads of Counter-Terrorism Agencies on Friday, special secretary, internal security, home ministry, warned that no country can be considered safe from terrorist acts.",
+"object": {
+"text": "considered safe from terrorist acts"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "future"
+},
+"text": "be",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "She"
+},
+"sentence": " She said terrorist entities today have links and operate across borders building networks, raising funds in various ways including internationally, propagating ideologies of hate, recruiting from foreign lands, sourcing arms and weapons from distant providers and smugglers and exploiting modern communication technologies that dissolve distances.",
+"object": {
+"text": "terrorist entities today have links and operate across borders building networks, raising funds in various ways including internationally, propagating ideologies of hate, recruiting from foreign lands, sourcing arms and weapons from distant providers and smugglers and exploiting modern communication technologies that dissolve distances"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "terrorist entities"
+},
+"sentence": " She said terrorist entities today have links and operate across borders building networks, raising funds in various ways including internationally, propagating ideologies of hate, recruiting from foreign lands, sourcing arms and weapons from distant providers and smugglers and exploiting modern communication technologies that dissolve distances.",
+"action": {
+"verb": {
+"text": "operate",
+"tense": "present"
+},
+"text": "links and operate",
+"normalized": "links and operate"
+}
+},
+{
+"subject": {
+"text": "terrorist entities"
+},
+"sentence": " She said terrorist entities today have links and operate across borders building networks, raising funds in various ways including internationally, propagating ideologies of hate, recruiting from foreign lands, sourcing arms and weapons from distant providers and smugglers and exploiting modern communication technologies that dissolve distances.",
+"object": {
+"text": "funds"
+},
+"action": {
+"verb": {
+"text": "raise",
+"tense": "present"
+},
+"text": "raising",
+"normalized": "raise"
+}
+},
+{
+"subject": {
+"text": "internationally, propagating ideologies of hate, recruiting from foreign lands, sourcing arms and weapons from distant providers and smugglers and exploiting modern communication technologies that dissolve distances"
+},
+"sentence": " She said terrorist entities today have links and operate across borders building networks, raising funds in various ways including internationally, propagating ideologies of hate, recruiting from foreign lands, sourcing arms and weapons from distant providers and smugglers and exploiting modern communication technologies that dissolve distances.",
+"object": {
+"text": "various ways"
+},
+"action": {
+"verb": {
+"text": "include",
+"tense": "present"
+},
+"text": "including",
+"normalized": "include"
+}
+},
+{
+"subject": {
+"text": "terrorist entities"
+},
+"sentence": " She said terrorist entities today have links and operate across borders building networks, raising funds in various ways including internationally, propagating ideologies of hate, recruiting from foreign lands, sourcing arms and weapons from distant providers and smugglers and exploiting modern communication technologies that dissolve distances.",
+"object": {
+"text": "ideologies"
+},
+"action": {
+"verb": {
+"text": "propagate",
+"tense": "present"
+},
+"text": "propagating",
+"normalized": "propagate"
+}
+},
+{
+"subject": {
+"text": "terrorist entities"
+},
+"sentence": " She said terrorist entities today have links and operate across borders building networks, raising funds in various ways including internationally, propagating ideologies of hate, recruiting from foreign lands, sourcing arms and weapons from distant providers and smugglers and exploiting modern communication technologies that dissolve distances.",
+"object": {
+"text": "from foreign lands"
+},
+"action": {
+"verb": {
+"text": "recruit",
+"tense": "present"
+},
+"text": "recruiting",
+"normalized": "recruit"
+}
+},
+{
+"subject": {
+"text": "terrorist entities"
+},
+"sentence": " She said terrorist entities today have links and operate across borders building networks, raising funds in various ways including internationally, propagating ideologies of hate, recruiting from foreign lands, sourcing arms and weapons from distant providers and smugglers and exploiting modern communication technologies that dissolve distances.",
+"object": {
+"text": "arms and weapons"
+},
+"action": {
+"verb": {
+"text": "source",
+"tense": "present"
+},
+"text": "sourcing",
+"normalized": "source"
+}
+},
+{
+"subject": {
+"text": "They"
+},
+"sentence": " \"They are able to select targets of their choosing in countries of their choosing, cross borders often with help from state agencies and inflict terror on innocent peoples.",
+"object": {
+"text": "targets of their choosing in countries of their choosing"
+},
+"action": {
+"verb": {
+"text": "select",
+"tense": "future"
+},
+"text": "to select",
+"normalized": "to select"
+}
+},
+{
+"subject": {
+"text": "terror"
+},
+"sentence": " \"They are able to select targets of their choosing in countries of their choosing, cross borders often with help from state agencies and inflict terror on innocent peoples.",
+"object": {
+"text": "on innocent peoples"
+},
+"action": {
+"verb": {
+"text": "inflict",
+"tense": "present"
+},
+"text": "inflict",
+"normalized": "inflict"
+}
+},
+{
+"subject": {
+"text": "They"
+},
+"sentence": " They are able to do this because nation states still struggle to collaborate with their partners and neighbours on countering activities of terror networks, often due to narrow political considerations,\" she said.",
+"object": {
+"text": "this"
+},
+"action": {
+"verb": {
+"text": "do",
+"tense": "future"
+},
+"text": "to do",
+"normalized": "to do"
+}
+},
+{
+"subject": {
+"text": "nation states"
+},
+"sentence": " They are able to do this because nation states still struggle to collaborate with their partners and neighbours on countering activities of terror networks, often due to narrow political considerations,\" she said.",
+"object": {
+"text": "to collaborate with their partners and neighbours"
+},
+"action": {
+"verb": {
+"text": "struggle",
+"tense": "present"
+},
+"text": "struggle",
+"normalized": "struggle"
+}
+},
+{
+"subject": {
+"text": "she"
+},
+"sentence": " They are able to do this because nation states still struggle to collaborate with their partners and neighbours on countering activities of terror networks, often due to narrow political considerations,\" she said.",
+"object": {
+"text": "They are able to do this because nation states still struggle to collaborate with their partners and neighbours on countering activities of terror networks, often due to narrow political considerations"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "some states"
+},
+"sentence": " \"Worse, there are well known instances of some states using terror entities for their political ends, providing them with safe havens and other support,\" she added.",
+"object": {
+"text": "terror entities"
+},
+"action": {
+"verb": {
+"text": "use",
+"tense": "present"
+},
+"text": "using",
+"normalized": "use"
+}
+},
+{
+"subject": {
+"text": "them"
+},
+"sentence": " \"Worse, there are well known instances of some states using terror entities for their political ends, providing them with safe havens and other support,\" she added.",
+"object": {
+"text": "with safe havens and other support"
+},
+"action": {
+"verb": {
+"text": "provide",
+"tense": "present"
+},
+"text": "providing",
+"normalized": "provide"
+}
+},
+{
+"subject": {
+"text": "she"
+},
+"sentence": " \"Worse, there are well known instances of some states using terror entities for their political ends, providing them with safe havens and other support,\" she added.",
+"object": {
+"text": "Worse, there are well known instances of some states using terror entities for their political ends, providing them with safe havens and other support"
+},
+"action": {
+"verb": {
+"text": "add",
+"tense": "past"
+},
+"text": "added",
+"normalized": "add"
+}
+},
+{
+"subject": {
+"text": "India"
+},
+"sentence": " Mitra told the conference that India has had to face the scourge of terrorism, mostly originating outside its borders, increasingly over the last two decades, adding that the country's counter-terrorism agencies have developed considerable expertise in preventing such attacks and bringing their perpetrators to justice.",
+"object": {
+"text": "the scourge of terrorism, mostly originating outside its borders"
+},
+"action": {
+"verb": {
+"text": "face",
+"tense": "past"
+},
+"text": "has had to face",
+"normalized": "have have to face"
+}
+},
+{
+"subject": {
+"text": "the country's counter-terrorism agencies"
+},
+"sentence": " Mitra told the conference that India has had to face the scourge of terrorism, mostly originating outside its borders, increasingly over the last two decades, adding that the country's counter-terrorism agencies have developed considerable expertise in preventing such attacks and bringing their perpetrators to justice.",
+"object": {
+"text": "developed considerable expertise in preventing such attacks"
+},
+"action": {
+"verb": {
+"text": "have",
+"tense": "present"
+},
+"text": "have",
+"normalized": "have"
+}
+},
+{
+"subject": {
+"text": "the country's counter-terrorism agencies"
+},
+"sentence": " Mitra told the conference that India has had to face the scourge of terrorism, mostly originating outside its borders, increasingly over the last two decades, adding that the country's counter-terrorism agencies have developed considerable expertise in preventing such attacks and bringing their perpetrators to justice.",
+"object": {
+"text": "considerable expertise"
+},
+"action": {
+"verb": {
+"text": "develop",
+"tense": "past"
+},
+"text": "have developed",
+"normalized": "have develop"
+}
+},
+{
+"subject": {
+"text": "the country's counter-terrorism agencies"
+},
+"sentence": " Mitra told the conference that India has had to face the scourge of terrorism, mostly originating outside its borders, increasingly over the last two decades, adding that the country's counter-terrorism agencies have developed considerable expertise in preventing such attacks and bringing their perpetrators to justice.",
+"object": {
+"text": "such attacks"
+},
+"action": {
+"verb": {
+"text": "prevent",
+"tense": "present"
+},
+"text": "preventing",
+"normalized": "prevent"
+}
+},
+{
+"subject": {
+"text": "the country's counter-terrorism agencies"
+},
+"sentence": " Mitra told the conference that India has had to face the scourge of terrorism, mostly originating outside its borders, increasingly over the last two decades, adding that the country's counter-terrorism agencies have developed considerable expertise in preventing such attacks and bringing their perpetrators to justice.",
+"object": {
+"text": "their perpetrators"
+},
+"action": {
+"verb": {
+"text": "bring",
+"tense": "present"
+},
+"text": "bringing",
+"normalized": "bring"
+}
+},
+{
+"subject": {
+"text": "persons"
+},
+"sentence": " \"Many of our efforts continue to be thwarted due to lack of international collaboration in respect of exchange of information and evidence or of extradition of the accused persons who are hiding outside our territory,\" she said.",
+"action": {
+"verb": {
+"text": "hide",
+"tense": "present"
+},
+"text": "are hiding",
+"normalized": "be hide"
+}
+},
+{
+"subject": {
+"text": "she"
+},
+"sentence": " \"Many of our efforts continue to be thwarted due to lack of international collaboration in respect of exchange of information and evidence or of extradition of the accused persons who are hiding outside our territory,\" she said.",
+"object": {
+"text": "Many of our efforts continue to be thwarted due to lack of international collaboration in respect of exchange of information and evidence or of extradition of the accused persons who are hiding outside our territory"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "The UN"
+},
+"sentence": " The UN had convened its first-ever High-Level Conference on Counter-Terrorism.",
+"object": {
+"text": "convened its first-ever High-Level Conference on Counter-Terrorism"
+},
+"action": {
+"verb": {
+"text": "have",
+"tense": "past"
+},
+"text": "had",
+"normalized": "have"
+}
+},
+{
+"subject": {
+"text": "The UN"
+},
+"sentence": " The UN had convened its first-ever High-Level Conference on Counter-Terrorism.",
+"object": {
+"text": "its first-ever High-Level Conference"
+},
+"action": {
+"verb": {
+"text": "convene",
+"tense": "past"
+},
+"text": "had convened",
+"normalized": "have convene"
+}
+},
+{
+"subject": {
+"text": "methods"
+},
+"sentence": " Antonio Guterres called on nations to fight terrorism together with methods that do not compromise the rule of law and human rights.",
+"object": {
+"text": "not compromise the rule of law and human rights"
+},
+"action": {
+"verb": {
+"text": "do",
+"tense": "present"
+},
+"text": "do",
+"normalized": "do"
+}
+},
+{
+"subject": {
+"text": "methods"
+},
+"sentence": " Antonio Guterres called on nations to fight terrorism together with methods that do not compromise the rule of law and human rights.",
+"object": {
+"text": "the rule of law and human rights"
+},
+"action": {
+"verb": {
+"text": "compromise",
+"tense": "present",
+"negated": true
+},
+"text": "compromise",
+"normalized": "compromise"
+}
+},
+{
+"subject": {
+"text": "The UN chief"
+},
+"sentence": " The UN chief said, \"We should engage with all who can help us achieve our goals, including empowering young people through education, jobs and training, and engaging women and all of civil society in the fight against terrorism.\"",
+"object": {
+"text": "We should engage with all who can help us achieve our goals, including empowering young people through education, jobs and training, and engaging women and all of civil society in the fight against terrorism"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "achieve our goals, including empowering young people through education, jobs and training, and engaging women and all of civil society in the fight against terrorism"
+},
+"sentence": " The UN chief said, \"We should engage with all who can help us achieve our goals, including empowering young people through education, jobs and training, and engaging women and all of civil society in the fight against terrorism.\"",
+"object": {
+"text": "us"
+},
+"action": {
+"verb": {
+"text": "help",
+"tense": "future"
+},
+"text": "can help",
+"normalized": "can help"
+}
+},
+{
+"subject": {
+"text": "empowering young people through education, jobs and training, and engaging women and all of civil society in the fight against terrorism"
+},
+"sentence": " The UN chief said, \"We should engage with all who can help us achieve our goals, including empowering young people through education, jobs and training, and engaging women and all of civil society in the fight against terrorism.\"",
+"object": {
+"text": "our goals"
+},
+"action": {
+"verb": {
+"text": "include",
+"tense": "present"
+},
+"text": "including",
+"normalized": "include"
+}
+},
+{
+"subject": {
+"text": "Mitra"
+},
+"sentence": " Mitra said terrorism can be effectively tackled only if there is genuine collaboration among nations.",
+"object": {
+"text": "terrorism can be effectively tackled only if there is genuine collaboration among nations"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "genuine collaboration"
+},
+"sentence": " Mitra said terrorism can be effectively tackled only if there is genuine collaboration among nations.",
+"object": {
+"text": "among nations"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "present"
+},
+"text": "is",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "some international treaties"
+},
+"sentence": " While over the past seven decades, some international treaties have elicited international collaboration on specific kinds of terrorist threats, a more comprehensive approach, as embodied in the proposed Convention on Countering International Terrorism \"is required in tackling the contemporary form of terrorism that is evolving all the time continues to elude us\".",
+"object": {
+"text": "elicited international collaboration on specific kinds of terrorist threats"
+},
+"action": {
+"verb": {
+"text": "have",
+"tense": "present"
+},
+"text": "have",
+"normalized": "have"
+}
+},
+{
+"subject": {
+"text": "some international treaties"
+},
+"sentence": " While over the past seven decades, some international treaties have elicited international collaboration on specific kinds of terrorist threats, a more comprehensive approach, as embodied in the proposed Convention on Countering International Terrorism \"is required in tackling the contemporary form of terrorism that is evolving all the time continues to elude us\".",
+"object": {
+"text": "international collaboration on specific kinds of terrorist threats"
+},
+"action": {
+"verb": {
+"text": "elicit",
+"tense": "past"
+},
+"text": "have elicited",
+"normalized": "have elicit"
+}
+},
+{
+"subject": {
+"text": "the contemporary form of terrorism"
+},
+"sentence": " While over the past seven decades, some international treaties have elicited international collaboration on specific kinds of terrorist threats, a more comprehensive approach, as embodied in the proposed Convention on Countering International Terrorism \"is required in tackling the contemporary form of terrorism that is evolving all the time continues to elude us\".",
+"action": {
+"verb": {
+"text": "be",
+"tense": "present"
+},
+"text": "is evolving",
+"normalized": "be evolve"
+}
+},
+{
+"subject": {
+"text": "the contemporary form of terrorism that is evolving all the time"
+},
+"sentence": " While over the past seven decades, some international treaties have elicited international collaboration on specific kinds of terrorist threats, a more comprehensive approach, as embodied in the proposed Convention on Countering International Terrorism \"is required in tackling the contemporary form of terrorism that is evolving all the time continues to elude us\".",
+"object": {
+"text": "us"
+},
+"action": {
+"verb": {
+"text": "elude",
+"tense": "future"
+},
+"text": "continues to elude",
+"normalized": "continue to elude"
+}
+},
+{
+"subject": {
+"text": "Mitra"
+},
+"sentence": " Referring to the sanctions committee in the Security Council, Mitra said some practical steps to counter terrorism have been mandated by the council through establishment of specific sanctions committees but these have had limited success.",
+"object": {
+"text": "to the sanctions committee in the Security Council"
+},
+"action": {
+"verb": {
+"text": "Referring",
+"tense": "present"
+},
+"text": "Referring",
+"normalized": "Referring"
+}
+},
+{
+"subject": {
+"text": "Mitra"
+},
+"sentence": " Referring to the sanctions committee in the Security Council, Mitra said some practical steps to counter terrorism have been mandated by the council through establishment of specific sanctions committees but these have had limited success.",
+"object": {
+"text": "some practical steps to counter terrorism have been mandated by the council through establishment of specific sanctions committees but these have had limited success"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "some practical steps to counter terrorism"
+},
+"sentence": " Referring to the sanctions committee in the Security Council, Mitra said some practical steps to counter terrorism have been mandated by the council through establishment of specific sanctions committees but these have had limited success.",
+"object": {
+"text": "mandated by the council"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "been",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "by the council"
+},
+"sentence": " Referring to the sanctions committee in the Security Council, Mitra said some practical steps to counter terrorism have been mandated by the council through establishment of specific sanctions committees but these have had limited success.",
+"object": {
+"text": "some practical steps to counter terrorism"
+},
+"action": {
+"verb": {
+"text": "mandate",
+"tense": "past"
+},
+"text": "have been mandated",
+"normalized": "have be mandate"
+}
+},
+{
+"subject": {
+"text": "these"
+},
+"sentence": " Referring to the sanctions committee in the Security Council, Mitra said some practical steps to counter terrorism have been mandated by the council through establishment of specific sanctions committees but these have had limited success.",
+"object": {
+"text": "limited success"
+},
+"action": {
+"verb": {
+"text": "have",
+"tense": "past"
+},
+"text": "had",
+"normalized": "have"
+}
+},
+{
+"subject": {
+"text": "strategic considerations"
+},
+"sentence": " \"Such efforts have also run into political difficulties due to differing strategic considerations of major powers,\" she said, adding that the Global Counter Terrorism Strategy (GCTS) being discussed by the UN General Assembly over the last decade has also had limited practical impact.",
+"object": {
+"text": "of major powers"
+},
+"action": {
+"verb": {
+"text": "differ",
+"tense": "future"
+},
+"text": "differing",
+"normalized": "differ"
+}
+},
+{
+"subject": {
+"text": "she"
+},
+"sentence": " \"Such efforts have also run into political difficulties due to differing strategic considerations of major powers,\" she said, adding that the Global Counter Terrorism Strategy (GCTS) being discussed by the UN General Assembly over the last decade has also had limited practical impact.",
+"object": {
+"text": "Such efforts have also run into political difficulties due to differing strategic considerations of major powers"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "the Global Counter Terrorism Strategy (GCTS)"
+},
+"sentence": " \"Such efforts have also run into political difficulties due to differing strategic considerations of major powers,\" she said, adding that the Global Counter Terrorism Strategy (GCTS) being discussed by the UN General Assembly over the last decade has also had limited practical impact.",
+"object": {
+"text": "discussed by the UN General Assembly"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "present"
+},
+"text": "being",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "by the UN General Assembly"
+},
+"sentence": " \"Such efforts have also run into political difficulties due to differing strategic considerations of major powers,\" she said, adding that the Global Counter Terrorism Strategy (GCTS) being discussed by the UN General Assembly over the last decade has also had limited practical impact.",
+"action": {
+"verb": {
+"text": "discuss",
+"tense": "past"
+},
+"text": "being discussed",
+"normalized": "be discuss"
+}
+},
+{
+"subject": {
+"text": "the Global Counter Terrorism Strategy (GCTS) being discussed by the UN General Assembly over the last decade"
+},
+"sentence": " \"Such efforts have also run into political difficulties due to differing strategic considerations of major powers,\" she said, adding that the Global Counter Terrorism Strategy (GCTS) being discussed by the UN General Assembly over the last decade has also had limited practical impact.",
+"object": {
+"text": "limited practical impact"
+},
+"action": {
+"verb": {
+"text": "have",
+"tense": "past"
+},
+"text": "had",
+"normalized": "have"
+}
+},
+{
+"subject": {
+"text": "Mitra"
+},
+"sentence": " Mitra expressed hope that the UN Conference of counter-terrorism experts and practitioners will start a serious exchange of practical ideas and push for a more coordinated approach to counter terrorism at a global level.",
+"object": {
+"text": "hope that the UN Conference of counter-terrorism experts and practitioners will start a serious exchange of practical ideas and push for a more coordinated approach to counter terrorism at a global level"
+},
+"action": {
+"verb": {
+"text": "express",
+"tense": "past"
+},
+"text": "expressed",
+"normalized": "express"
+}
+}
+],
+"relations": [
+{
+"type": "partOf",
+"sentence": "Speaking at the United Nations High-Level Conference on Heads of Counter-Terrorism Agencies on Friday, special secretary, internal security, home ministry, warned that no country can be considered safe from terrorist acts.",
+"score": 0.527023,
+"arguments": [
+{
+"text": "United Nations High-Level Conference",
+"location": [
+283,
+319
+],
+"entities": [
+{
+"type": "Organization",
+"text": "United Nations High-Level Conference"
+}
+]
+},
+{
+"text": "Heads of Counter-Terrorism Agencies",
+"location": [
+323,
+358
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Heads of Counter-Terrorism Agencies"
+}
+]
+}
+]
+},
+{
+"type": "basedIn",
+"sentence": "Mitra told the conference that India has had to face the scourge of terrorism, mostly originating outside its borders, increasingly over the last two decades, adding that the country's counter-terrorism agencies have developed considerable expertise in preventing such attacks and bringing their perpetrators to justice.",
+"score": 0.503979,
+"arguments": [
+{
+"text": "agencies",
+"location": [
+1593,
+1601
+],
+"entities": [
+{
+"type": "Organization",
+"text": "agencies",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+},
+{
+"text": "country",
+"location": [
+1565,
+1572
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "countries",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "\"Many of our efforts continue to be thwarted due to lack of international collaboration in respect of exchange of information and evidence or of extradition of the accused persons who are hiding outside our territory,\" she said.",
+"score": 0.710078,
+"arguments": [
+{
+"text": "who",
+"location": [
+1891,
+1894
+],
+"entities": [
+{
+"type": "Person",
+"text": "smugglers"
+}
+]
+},
+{
+"text": "territory",
+"location": [
+1918,
+1927
+],
+"entities": [
+{
+"type": "Location",
+"text": "territory"
+}
+]
+}
+]
+},
+{
+"type": "partOf",
+"sentence": "The UN had convened its first-ever High-Level Conference on Counter-Terrorism.",
+"score": 0.627133,
+"arguments": [
+{
+"text": "High-Level Conference",
+"location": [
+1975,
+1996
+],
+"entities": [
+{
+"type": "Organization",
+"text": "United Nations High-Level Conference"
+}
+]
+},
+{
+"text": "Counter",
+"location": [
+2000,
+2007
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Countering International Terrorism"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Antonio Guterres called on nations to fight terrorism together with methods that do not compromise the rule of law and human rights.",
+"score": 0.989924,
+"arguments": [
+{
+"text": "Antonio Guterres",
+"location": [
+2019,
+2035
+],
+"entities": [
+{
+"type": "Person",
+"text": "Antonio Guterres"
+}
+]
+},
+{
+"text": "called on",
+"location": [
+2036,
+2045
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "called on"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "Antonio Guterres called on nations to fight terrorism together with methods that do not compromise the rule of law and human rights.",
+"score": 0.846084,
+"arguments": [
+{
+"text": "nations",
+"location": [
+2046,
+2053
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "nations",
+"disambiguation": {
+"subtype": [
+"Area"
+]
+}
+}
+]
+},
+{
+"text": "called on",
+"location": [
+2036,
+2045
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "called on"
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "The UN chief said, \"We should engage with all who can help us achieve our goals, including empowering young people through education, jobs and training, and engaging women and all of civil society in the fight against terrorism.",
+"score": 0.620744,
+"arguments": [
+{
+"text": "chief",
+"location": [
+2159,
+2164
+],
+"entities": [
+{
+"type": "Person",
+"text": "Mitra"
+}
+]
+},
+{
+"text": "UN",
+"location": [
+2156,
+2158
+],
+"entities": [
+{
+"type": "Organization",
+"text": "UNITED NATIONS",
+"disambiguation": {
+"subtype": [
+"Multigov"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "Referring to the sanctions committee in the Security Council, Mitra said some practical steps to counter terrorism have been mandated by the council through establishment of specific sanctions committees but these have had limited success.",
+"score": 0.64735,
+"arguments": [
+{
+"text": "sanctions committee",
+"location": [
+2868,
+2887
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Global Counter Terrorism Strategy"
+}
+]
+},
+{
+"text": "Referring",
+"location": [
+2851,
+2860
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "Referring"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Referring to the sanctions committee in the Security Council, Mitra said some practical steps to counter terrorism have been mandated by the council through establishment of specific sanctions committees but these have had limited success.",
+"score": 0.842068,
+"arguments": [
+{
+"text": "Mitra",
+"location": [
+2913,
+2918
+],
+"entities": [
+{
+"type": "Person",
+"text": "Mitra"
+}
+]
+},
+{
+"text": "Referring",
+"location": [
+2851,
+2860
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "Referring"
+}
+]
+}
+]
+},
+{
+"type": "partOf",
+"sentence": "Referring to the sanctions committee in the Security Council, Mitra said some practical steps to counter terrorism have been mandated by the council through establishment of specific sanctions committees but these have had limited success.",
+"score": 0.532805,
+"arguments": [
+{
+"text": "said",
+"location": [
+2919,
+2923
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "adding"
+}
+]
+},
+{
+"text": "Referring",
+"location": [
+2851,
+2860
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "Referring"
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "Referring to the sanctions committee in the Security Council, Mitra said some practical steps to counter terrorism have been mandated by the council through establishment of specific sanctions committees but these have had limited success.",
+"score": 0.312158,
+"arguments": [
+{
+"text": "Mitra",
+"location": [
+2913,
+2918
+],
+"entities": [
+{
+"type": "Person",
+"text": "Mitra"
+}
+]
+},
+{
+"text": "sanctions committee",
+"location": [
+2868,
+2887
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Global Counter Terrorism Strategy"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "She said terrorist entities today have links and operate across borders building networks, raising funds in various ways including internationally, propagating ideologies of hate, recruiting from foreign lands, sourcing arms and weapons from distant providers and smugglers and exploiting modern communication technologies that dissolve distances.",
+"score": 0.980058,
+"arguments": [
+{
+"text": "She",
+"location": [
+490,
+493
+],
+"entities": [
+{
+"type": "Person",
+"text": "secretary"
+}
+]
+},
+{
+"text": "said",
+"location": [
+494,
+498
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "adding"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "They are able to do this because nation states still struggle to collaborate with their partners and neighbours on countering activities of terror networks, often due to narrow political considerations,\" she said.",
+"score": 0.971802,
+"arguments": [
+{
+"text": "she",
+"location": [
+1215,
+1218
+],
+"entities": [
+{
+"type": "Person",
+"text": "secretary"
+}
+]
+},
+{
+"text": "said",
+"location": [
+1219,
+1223
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "adding"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "\"Worse, there are well known instances of some states using terror entities for their political ends, providing them with safe havens and other support,\" she added.",
+"score": 0.984279,
+"arguments": [
+{
+"text": "she",
+"location": [
+1379,
+1382
+],
+"entities": [
+{
+"type": "Person",
+"text": "secretary"
+}
+]
+},
+{
+"text": "added",
+"location": [
+1383,
+1388
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "adding"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "\"Many of our efforts continue to be thwarted due to lack of international collaboration in respect of exchange of information and evidence or of extradition of the accused persons who are hiding outside our territory,\" she said.",
+"score": 0.974614,
+"arguments": [
+{
+"text": "she",
+"location": [
+1930,
+1933
+],
+"entities": [
+{
+"type": "Person",
+"text": "secretary"
+}
+]
+},
+{
+"text": "said",
+"location": [
+1934,
+1938
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "adding"
+}
+]
+}
+]
+},
+{
+"type": "participantIn",
+"sentence": "\"Such efforts have also run into political difficulties due to differing strategic considerations of major powers,\" she said, adding that the Global Counter Terrorism Strategy (GCTS) being discussed by the UN General Assembly over the last decade has also had limited practical impact.",
+"score": 0.583699,
+"arguments": [
+{
+"text": "GCTS",
+"location": [
+3268,
+3272
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Global Counter Terrorism Strategy"
+}
+]
+},
+{
+"text": "discussed",
+"location": [
+3280,
+3289
+],
+"entities": [
+{
+"type": "EventMeeting",
+"text": "discussed"
+}
+]
+}
+]
+},
+{
+"type": "participantIn",
+"sentence": "\"Such efforts have also run into political difficulties due to differing strategic considerations of major powers,\" she said, adding that the Global Counter Terrorism Strategy (GCTS) being discussed by the UN General Assembly over the last decade has also had limited practical impact.",
+"score": 0.650636,
+"arguments": [
+{
+"text": "General Assembly",
+"location": [
+3300,
+3316
+],
+"entities": [
+{
+"type": "Organization",
+"text": "General Assembly",
+"disambiguation": {
+"subtype": [
+"Multigov"
+]
+}
+}
+]
+},
+{
+"text": "discussed",
+"location": [
+3280,
+3289
+],
+"entities": [
+{
+"type": "EventMeeting",
+"text": "discussed"
+}
+]
+}
+]
+},
+{
+"type": "timeOf",
+"sentence": "\"Such efforts have also run into political difficulties due to differing strategic considerations of major powers,\" she said, adding that the Global Counter Terrorism Strategy (GCTS) being discussed by the UN General Assembly over the last decade has also had limited practical impact.",
+"score": 0.954418,
+"arguments": [
+{
+"text": "last decade",
+"location": [
+3326,
+3337
+],
+"entities": [
+{
+"type": "Date",
+"text": "last decade"
+}
+]
+},
+{
+"text": "discussed",
+"location": [
+3280,
+3289
+],
+"entities": [
+{
+"type": "EventMeeting",
+"text": "discussed"
+}
+]
+}
+]
+},
+{
+"type": "partOf",
+"sentence": "\"Such efforts have also run into political difficulties due to differing strategic considerations of major powers,\" she said, adding that the Global Counter Terrorism Strategy (GCTS) being discussed by the UN General Assembly over the last decade has also had limited practical impact.",
+"score": 0.976155,
+"arguments": [
+{
+"text": "General Assembly",
+"location": [
+3300,
+3316
+],
+"entities": [
+{
+"type": "Organization",
+"text": "General Assembly",
+"disambiguation": {
+"subtype": [
+"Multigov"
+]
+}
+}
+]
+},
+{
+"text": "UN",
+"location": [
+3297,
+3299
+],
+"entities": [
+{
+"type": "Organization",
+"text": "UNITED NATIONS",
+"disambiguation": {
+"subtype": [
+"Multigov"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Mitra expressed hope that the UN Conference of counter-terrorism experts and practitioners will start a serious exchange of practical ideas and push for a more coordinated approach to counter terrorism at a global level.",
+"score": 0.994919,
+"arguments": [
+{
+"text": "Mitra",
+"location": [
+3377,
+3382
+],
+"entities": [
+{
+"type": "Person",
+"text": "Mitra"
+}
+]
+},
+{
+"text": "expressed",
+"location": [
+3383,
+3392
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "expressed"
+}
+]
+}
+]
+},
+{
+"type": "partOf",
+"sentence": "Mitra expressed hope that the UN Conference of counter-terrorism experts and practitioners will start a serious exchange of practical ideas and push for a more coordinated approach to counter terrorism at a global level.",
+"score": 0.809085,
+"arguments": [
+{
+"text": "Conference of counter-terrorism",
+"location": [
+3410,
+3441
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Conference of counter-terrorism"
+}
+]
+},
+{
+"text": "UN",
+"location": [
+3407,
+3409
+],
+"entities": [
+{
+"type": "Organization",
+"text": "UNITED NATIONS",
+"disambiguation": {
+"subtype": [
+"Multigov"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "memberOf",
+"sentence": "Mitra expressed hope that the UN Conference of counter-terrorism experts and practitioners will start a serious exchange of practical ideas and push for a more coordinated approach to counter terrorism at a global level.",
+"score": 0.413419,
+"arguments": [
+{
+"text": "experts",
+"location": [
+3442,
+3449
+],
+"entities": [
+{
+"type": "Person",
+"text": "experts"
+}
+]
+},
+{
+"text": "Conference of counter-terrorism",
+"location": [
+3410,
+3441
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Conference of counter-terrorism"
+}
+]
+}
+]
+},
+{
+"type": "participantIn",
+"sentence": "This will also help us discuss some of the emerging threats and challenges posed by international terrorism,\" she said.",
+"score": 0.880545,
+"arguments": [
+{
+"text": "us",
+"location": [
+3709,
+3711
+],
+"entities": [
+{
+"type": "Person",
+"text": "experts"
+}
+]
+},
+{
+"text": "discuss",
+"location": [
+3712,
+3719
+],
+"entities": [
+{
+"type": "EventMeeting",
+"text": "discuss"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "\"They are able to select targets of their choosing in countries of their choosing, cross borders often with help from state agencies and inflict terror on innocent peoples.",
+"score": 0.604466,
+"arguments": [
+{
+"text": "their",
+"location": [
+874,
+879
+],
+"entities": [
+{
+"type": "Person",
+"text": "smugglers"
+}
+]
+},
+{
+"text": "countries",
+"location": [
+892,
+901
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "countries",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "partOf",
+"sentence": "\"They are able to select targets of their choosing in countries of their choosing, cross borders often with help from state agencies and inflict terror on innocent peoples.",
+"score": 0.995154,
+"arguments": [
+{
+"text": "agencies",
+"location": [
+962,
+970
+],
+"entities": [
+{
+"type": "Organization",
+"text": "agencies",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+},
+{
+"text": "state",
+"location": [
+956,
+961
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "United Nations High-Level Conference"
+}
+]
+}
+]
+},
+{
+"type": "partOfMany",
+"sentence": "They are able to do this because nation states still struggle to collaborate with their partners and neighbours on countering activities of terror networks, often due to narrow political considerations,\" she said.",
+"score": 0.365099,
+"arguments": [
+{
+"text": "partners",
+"location": [
+1099,
+1107
+],
+"entities": [
+{
+"type": "Person",
+"text": "partners"
+}
+]
+},
+{
+"text": "their",
+"location": [
+1093,
+1098
+],
+"entities": [
+{
+"type": "Person",
+"text": "smugglers"
+}
+]
+}
+]
+},
+{
+"type": "partOfMany",
+"sentence": "They are able to do this because nation states still struggle to collaborate with their partners and neighbours on countering activities of terror networks, often due to narrow political considerations,\" she said.",
+"score": 0.50737,
+"arguments": [
+{
+"text": "neighbours",
+"location": [
+1112,
+1122
+],
+"entities": [
+{
+"type": "Person",
+"text": "neighbours"
+}
+]
+},
+{
+"text": "their",
+"location": [
+1093,
+1098
+],
+"entities": [
+{
+"type": "Person",
+"text": "smugglers"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Mitra told the conference that India has had to face the scourge of terrorism, mostly originating outside its borders, increasingly over the last two decades, adding that the country's counter-terrorism agencies have developed considerable expertise in preventing such attacks and bringing their perpetrators to justice.",
+"score": 0.973412,
+"arguments": [
+{
+"text": "Mitra",
+"location": [
+1390,
+1395
+],
+"entities": [
+{
+"type": "Person",
+"text": "Mitra"
+}
+]
+},
+{
+"text": "told",
+"location": [
+1396,
+1400
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "adding"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "The UN chief said, \"We should engage with all who can help us achieve our goals, including empowering young people through education, jobs and training, and engaging women and all of civil society in the fight against terrorism.",
+"score": 0.957378,
+"arguments": [
+{
+"text": "chief",
+"location": [
+2159,
+2164
+],
+"entities": [
+{
+"type": "Person",
+"text": "Mitra"
+}
+]
+},
+{
+"text": "said",
+"location": [
+2165,
+2169
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "adding"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "\" Mitra said terrorism can be effectively tackled only if there is genuine collaboration among nations.",
+"score": 0.99811,
+"arguments": [
+{
+"text": "Mitra",
+"location": [
+2382,
+2387
+],
+"entities": [
+{
+"type": "Person",
+"text": "Mitra"
+}
+]
+},
+{
+"text": "said",
+"location": [
+2388,
+2392
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "adding"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Referring to the sanctions committee in the Security Council, Mitra said some practical steps to counter terrorism have been mandated by the council through establishment of specific sanctions committees but these have had limited success.",
+"score": 0.965252,
+"arguments": [
+{
+"text": "Mitra",
+"location": [
+2913,
+2918
+],
+"entities": [
+{
+"type": "Person",
+"text": "Mitra"
+}
+]
+},
+{
+"text": "said",
+"location": [
+2919,
+2923
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "adding"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "\"Such efforts have also run into political difficulties due to differing strategic considerations of major powers,\" she said, adding that the Global Counter Terrorism Strategy (GCTS) being discussed by the UN General Assembly over the last decade has also had limited practical impact.",
+"score": 0.969397,
+"arguments": [
+{
+"text": "she",
+"location": [
+3207,
+3210
+],
+"entities": [
+{
+"type": "Person",
+"text": "Mitra"
+}
+]
+},
+{
+"text": "said",
+"location": [
+3211,
+3215
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "adding"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "This will also help us discuss some of the emerging threats and challenges posed by international terrorism,\" she said.",
+"score": 0.989605,
+"arguments": [
+{
+"text": "she",
+"location": [
+3799,
+3802
+],
+"entities": [
+{
+"type": "Person",
+"text": "Mitra"
+}
+]
+},
+{
+"text": "said",
+"location": [
+3803,
+3807
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "adding"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Mitra said India stands ready to work with partners to strengthen practical aspects relating to counter-terrorism efforts, including exchange of timely and actionable intelligence, prevention of misuse of modern communication technologies and social media platforms, monitoring illicit financial flows and sharing of information relating to movement of passengers.",
+"score": 0.997593,
+"arguments": [
+{
+"text": "Mitra",
+"location": [
+3809,
+3814
+],
+"entities": [
+{
+"type": "Person",
+"text": "Mitra"
+}
+]
+},
+{
+"text": "said",
+"location": [
+3815,
+3819
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "adding"
+}
+]
+}
+]
+},
+{
+"type": "partOf",
+"sentence": "Mitra told the conference that India has had to face the scourge of terrorism, mostly originating outside its borders, increasingly over the last two decades, adding that the country's counter-terrorism agencies have developed considerable expertise in preventing such attacks and bringing their perpetrators to justice.",
+"score": 0.516431,
+"arguments": [
+{
+"text": "told",
+"location": [
+1396,
+1400
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "adding"
+}
+]
+},
+{
+"text": "conference",
+"location": [
+1405,
+1415
+],
+"entities": [
+{
+"type": "EventMeeting",
+"text": "conference"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "Mitra told the conference that India has had to face the scourge of terrorism, mostly originating outside its borders, increasingly over the last two decades, adding that the country's counter-terrorism agencies have developed considerable expertise in preventing such attacks and bringing their perpetrators to justice.",
+"score": 0.514064,
+"arguments": [
+{
+"text": "India",
+"location": [
+1421,
+1426
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "India",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+},
+{
+"text": "told",
+"location": [
+1396,
+1400
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "adding"
+}
+]
+}
+]
+}
+],
+"language": "en",
+"keywords": [
+{
+"text": "modern communication technologies",
+"sentiment": {
+"score": -0.437066,
+"label": "negative"
+},
+"relevance": 0.908442,
+"emotion": {
+"sadness": 0.37603,
+"joy": 0.055581,
+"fear": 0.169397,
+"disgust": 0.0091,
+"anger": 0.203593
+}
+},
+{
+"text": "Countering International Terrorism",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.839412,
+"emotion": {
+"sadness": 0.525093,
+"joy": 0.101574,
+"fear": 0.098329,
+"disgust": 0.045265,
+"anger": 0.105355
+}
+},
+{
+"text": "Global Counter Terrorism",
+"sentiment": {
+"score": -0.492498,
+"label": "negative"
+},
+"relevance": 0.807476,
+"emotion": {
+"sadness": 0.377728,
+"joy": 0.079157,
+"fear": 0.156129,
+"disgust": 0.154879,
+"anger": 0.104506
+}
+},
+{
+"text": "counter-terrorism agencies",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.790223,
+"emotion": {
+"sadness": 0.326688,
+"joy": 0.104709,
+"fear": 0.203986,
+"disgust": 0.174491,
+"anger": 0.447569
+}
+},
+{
+"text": "international collaboration",
+"sentiment": {
+"score": -0.121785,
+"label": "negative"
+},
+"relevance": 0.755256,
+"emotion": {
+"sadness": 0.178033,
+"joy": 0.084418,
+"fear": 0.4595,
+"disgust": 0.061057,
+"anger": 0.341715
+}
+}
+],
+"entities": [
+{
+"type": "Person",
+"text": "Mitra",
+"sentiment": {
+"score": -0.259955,
+"label": "negative"
+},
+"relevance": 0.793683,
+"emotion": {
+"sadness": 0.255901,
+"joy": 0.083009,
+"fear": 0.144541,
+"disgust": 0.109223,
+"anger": 0.082187
+},
+"count": 8
+},
+{
+"type": "Organization",
+"text": "UN",
+"sentiment": {
+"score": 0.694543,
+"label": "positive"
+},
+"relevance": 0.533644,
+"emotion": {
+"sadness": 0.457083,
+"joy": 0.070759,
+"fear": 0.339951,
+"disgust": 0.255228,
+"anger": 0.226916
+},
+"disambiguation": {
+"subtype": [
+"MembershipOrganization",
+"AwardWinner",
+"GovernmentalBody",
+"TouristAttraction"
+],
+"name": "United Nations",
+"dbpedia_resource": "http://dbpedia.org/resource/United_Nations"
+},
+"count": 3
+},
+{
+"type": "Organization",
+"text": "UNITED NATIONS",
+"sentiment": {
+"score": -0.207016,
+"label": "negative"
+},
+"relevance": 0.526404,
+"emotion": {
+"sadness": 0.261197,
+"joy": 0.253448,
+"fear": 0.042969,
+"disgust": 0.196602,
+"anger": 0.289328
+},
+"disambiguation": {
+"subtype": [],
+"name": "United Nations (band)",
+"dbpedia_resource": "http://dbpedia.org/resource/United_Nations_(band)"
+},
+"count": 2
+},
+{
+"type": "Location",
+"text": "India",
+"sentiment": {
+"score": -0.705235,
+"label": "negative"
+},
+"relevance": 0.515413,
+"emotion": {
+"sadness": 0.666493,
+"joy": 0.114732,
+"fear": 0.26806,
+"disgust": 0.122338,
+"anger": 0.036561
+},
+"disambiguation": {
+"subtype": [
+"HumanLanguage",
+"Region",
+"GovernmentalJurisdiction",
+"FilmEditor",
+"Country"
+],
+"name": "India",
+"dbpedia_resource": "http://dbpedia.org/resource/India"
+},
+"count": 3
+},
+{
+"type": "Organization",
+"text": "UN General Assembly",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.3869,
+"emotion": {
+"sadness": 0.650542,
+"joy": 0.139331,
+"fear": 0.166428,
+"disgust": 0.102225,
+"anger": 0.065696
+},
+"disambiguation": {
+"subtype": [],
+"name": "United Nations General Assembly",
+"dbpedia_resource": "http://dbpedia.org/resource/United_Nations_General_Assembly"
+},
+"count": 1
+}
+],
+"concepts": [
+{
+"text": "Terrorism",
+"relevance": 0.952297,
+"dbpedia_resource": "http://dbpedia.org/resource/Terrorism"
+},
+{
+"text": "United Nations",
+"relevance": 0.814303,
+"dbpedia_resource": "http://dbpedia.org/resource/United_Nations"
+},
+{
+"text": "Counter-terrorism",
+"relevance": 0.670344,
+"dbpedia_resource": "http://dbpedia.org/resource/Counter-terrorism"
+},
+{
+"text": "United Nations General Assembly",
+"relevance": 0.516079,
+"dbpedia_resource": "http://dbpedia.org/resource/United_Nations_General_Assembly"
+},
+{
+"text": "Global Initiative to Combat Nuclear Terrorism",
+"relevance": 0.420656,
+"dbpedia_resource": "http://dbpedia.org/resource/Global_Initiative_to_Combat_Nuclear_Terrorism"
+}
+],
+"categories": [
+{
+"score": 0.519487,
+"label": "/law, govt and politics/espionage and intelligence/terrorism"
+},
+{
+"score": 0.392593,
+"label": "/law, govt and politics/legal issues/human rights"
+},
+{
+"score": 0.134407,
+"label": "/law, govt and politics/government"
+}
+]
+}
+}

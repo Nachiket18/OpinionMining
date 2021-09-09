@@ -1,0 +1,2199 @@
+{
+"source_article_link": "https://timesofindia.indiatimes.com/india/indian-envoy-imran-khan-discuss-terror-kashmir/articleshow/65360447.cms?&utm_source=Articleshow&utm_medium=Organic&utm_campaign=Related_Stories",
+"title": "Indian envoy & Imran Khan discuss terror, Kashmir",
+"date_published": "2018-08-11T10:05:21+05:30",
+"source_type": "news_article",
+"source_name": "timesofindia.indiatimes.com",
+"image_link": [],
+"article_body": "ISLAMABAD/ NEW DELHI: Indian high commissioner Ajay Bisaria met the (PTI) chairman Imran Khan at his residence in on Friday and congratulated the prime minister-in-waiting over his victory in the general elections last month. TOI had exclusively reported on Friday that Bisaria was going to call on Khan. As reported by TOI, while Bisaria raised the issue of crossborder terrorism and infiltration, Khan spoke about the Kashmir issue and alleged violations by Indian forces in the Valley. Bisaria tweeted that he had a positive and constructive discussion with Khan. Bisaria also gifted a cricket bat signed by the entire Indian cricket team to Khan. Bisaria also felicitated Khan on behalf of Prime Minister . Khan called for early resumption of the Saarc process and appealed to India to attend the next summit which to be held in Islamabad. Bisaria and Khan discussed a wide range of issues and prospects of India-Pakistan relationships. According to PTI sources, the duo specifically focused on matters of mutual interest. Khan, sources added, stressed the need to restart a dialogue between the two countries on all outstanding issues, including Kashmir. \u201cIndia is confident that relations with will take a turn for the positive,\u201d Bisaria noted, adding that \u201cthe telephonic conversation between Modi and Khan has given birth to this new hope\u201d. Since winning the polls, a range of dignitaries from different countries have met Imran Khan at his residence and congratulated him on his party\u2019s electoral success. Several heads of states and leaders wished him on his success on telephone. On July 30, the Indian PM had called Khan and cheered him on his victory. The most significant aspect of Modi\u2019s conversation was his unambiguous willingness to improve ties with Pakistan. \u201cIndia desires progressive relations with Pakistan\u201d, Modi was quoted as saying. Both countries, Modi said, should evolve a joint strategy to develop and strengthen better ties. In response, the cricketer-turned-politician said that both neighbours should move towards conflict resolution through dialogue. \u201cWars can breed tragedies instead of facilitating resolution of conflicts,\u201d Khan was quoted as telling Mr Modi. Appreciating Modi\u2019s positive gesture, Khan said that both countries should invest in poverty reduction to pull millions living in subcontinent out of the poverty trap.",
+"description": " While Ajay Bisaria raised the issue of cross border terrorism and infiltration, Khan spoke about the Kashmir issue  The  Indian high commissioner  also gifted a cricket bat signed by the entire Indian cricket team to Khan Bisaria and Khan discussed a wide range of issues and prospects of India-Pakistan relationships",
+"time_scraped": "2018-08-24 21:01:37.408451",
+"article_id": "65360447",
+"article_category": "IndiaNews",
+"image_details": [],
+"ibm_nlu": {
+"usage": {
+"text_units": 1,
+"text_characters": 2364,
+"features": 7
+},
+"sentiment": {
+"document": {
+"score": 0.225939,
+"label": "positive"
+}
+},
+"semantic_roles": [
+{
+"subject": {
+"text": "Indian high commissioner Ajay Bisaria"
+},
+"sentence": "ISLAMABAD/ NEW DELHI: Indian high commissioner Ajay Bisaria met the (PTI) chairman Imran Khan at his residence in on Friday and congratulated the prime minister-in-waiting over his victory in the general elections last month.",
+"object": {
+"text": "the (PTI) chairman Imran Khan"
+},
+"action": {
+"verb": {
+"text": "meet",
+"tense": "past"
+},
+"text": "met",
+"normalized": "meet"
+}
+},
+{
+"subject": {
+"text": "ISLAMABAD/ NEW DELHI: Indian high commissioner Ajay Bisaria"
+},
+"sentence": "ISLAMABAD/ NEW DELHI: Indian high commissioner Ajay Bisaria met the (PTI) chairman Imran Khan at his residence in on Friday and congratulated the prime minister-in-waiting over his victory in the general elections last month.",
+"object": {
+"text": "the prime minister-in-waiting"
+},
+"action": {
+"verb": {
+"text": "congratulate",
+"tense": "past"
+},
+"text": "congratulated",
+"normalized": "congratulate"
+}
+},
+{
+"subject": {
+"text": "Bisaria"
+},
+"sentence": " TOI had exclusively reported on Friday that Bisaria was going to call on Khan.",
+"object": {
+"text": "on Khan"
+},
+"action": {
+"verb": {
+"text": "call",
+"tense": "past"
+},
+"text": "was going to call",
+"normalized": "be go to call"
+}
+},
+{
+"subject": {
+"text": "Bisaria"
+},
+"sentence": " As reported by TOI, while Bisaria raised the issue of crossborder terrorism and infiltration, Khan spoke about the Kashmir issue and alleged violations by Indian forces in the Valley.",
+"object": {
+"text": "the issue of crossborder terrorism and infiltration"
+},
+"action": {
+"verb": {
+"text": "raise",
+"tense": "past"
+},
+"text": "raised",
+"normalized": "raise"
+}
+},
+{
+"subject": {
+"text": "Khan"
+},
+"sentence": " As reported by TOI, while Bisaria raised the issue of crossborder terrorism and infiltration, Khan spoke about the Kashmir issue and alleged violations by Indian forces in the Valley.",
+"object": {
+"text": "about the Kashmir issue"
+},
+"action": {
+"verb": {
+"text": "speak",
+"tense": "past"
+},
+"text": "spoke",
+"normalized": "speak"
+}
+},
+{
+"subject": {
+"text": "Bisaria"
+},
+"sentence": " Bisaria tweeted that he had a positive and constructive discussion with Khan.",
+"object": {
+"text": "that he had a positive and constructive discussion with Khan"
+},
+"action": {
+"verb": {
+"text": "tweet",
+"tense": "past"
+},
+"text": "tweeted",
+"normalized": "tweet"
+}
+},
+{
+"subject": {
+"text": "Bisaria"
+},
+"sentence": " Bisaria also gifted a cricket bat signed by the entire Indian cricket team to Khan.",
+"object": {
+"text": "a cricket bat signed by the entire Indian cricket team to Khan"
+},
+"action": {
+"verb": {
+"text": "gift",
+"tense": "past"
+},
+"text": "gifted",
+"normalized": "gift"
+}
+},
+{
+"subject": {
+"text": "by the entire Indian cricket team to Khan"
+},
+"sentence": " Bisaria also gifted a cricket bat signed by the entire Indian cricket team to Khan.",
+"object": {
+"text": "a cricket bat"
+},
+"action": {
+"verb": {
+"text": "sign",
+"tense": "past"
+},
+"text": "signed",
+"normalized": "sign"
+}
+},
+{
+"subject": {
+"text": "Bisaria"
+},
+"sentence": " Bisaria also felicitated Khan on behalf of Prime Minister .",
+"object": {
+"text": "Khan"
+},
+"action": {
+"verb": {
+"text": "felicitate",
+"tense": "past"
+},
+"text": "felicitated",
+"normalized": "felicitate"
+}
+},
+{
+"subject": {
+"text": "the next summit"
+},
+"sentence": " Khan called for early resumption of the Saarc process and appealed to India to attend the next summit which to be held in Islamabad.",
+"object": {
+"text": "held in Islamabad"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "future"
+},
+"text": "be",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "the next summit"
+},
+"sentence": " Khan called for early resumption of the Saarc process and appealed to India to attend the next summit which to be held in Islamabad.",
+"action": {
+"verb": {
+"text": "hold",
+"tense": "past"
+},
+"text": "to be held",
+"normalized": "to be hold"
+}
+},
+{
+"subject": {
+"text": "Bisaria and Khan"
+},
+"sentence": " Bisaria and Khan discussed a wide range of issues and prospects of India-Pakistan relationships.",
+"object": {
+"text": "a wide range of issues and prospects of India-Pakistan relationships"
+},
+"action": {
+"verb": {
+"text": "discuss",
+"tense": "past"
+},
+"text": "discussed",
+"normalized": "discuss"
+}
+},
+{
+"subject": {
+"text": "Khan"
+},
+"sentence": " Khan, sources added, stressed the need to restart a dialogue between the two countries on all outstanding issues, including Kashmir.",
+"object": {
+"text": "the need to restart a dialogue between the two countries on all outstanding issues"
+},
+"action": {
+"verb": {
+"text": "stress",
+"tense": "past"
+},
+"text": "stressed",
+"normalized": "stress"
+}
+},
+{
+"subject": {
+"text": "Kashmir"
+},
+"sentence": " Khan, sources added, stressed the need to restart a dialogue between the two countries on all outstanding issues, including Kashmir.",
+"object": {
+"text": "a dialogue between the two countries on all outstanding issues"
+},
+"action": {
+"verb": {
+"text": "include",
+"tense": "present"
+},
+"text": "including",
+"normalized": "include"
+}
+},
+{
+"subject": {
+"text": "Bisaria"
+},
+"sentence": " \u201cIndia is confident that relations with will take a turn for the positive,\u201d Bisaria noted, adding that \u201cthe telephonic conversation between Modi and Khan has given birth to this new hope\u201d.",
+"object": {
+"text": "India is confident that relations with will take a turn for the positive"
+},
+"action": {
+"verb": {
+"text": "note",
+"tense": "past"
+},
+"text": "noted",
+"normalized": "note"
+}
+},
+{
+"subject": {
+"text": "India"
+},
+"sentence": " \u201cIndia is confident that relations with will take a turn for the positive,\u201d Bisaria noted, adding that \u201cthe telephonic conversation between Modi and Khan has given birth to this new hope\u201d.",
+"object": {
+"text": "that \u201cthe telephonic conversation between Modi and Khan has given birth to this new hope\u201d"
+},
+"action": {
+"verb": {
+"text": "add",
+"tense": "present"
+},
+"text": "adding",
+"normalized": "add"
+}
+},
+{
+"subject": {
+"text": "a range of dignitaries from different countries"
+},
+"sentence": " Since winning the polls, a range of dignitaries from different countries have met Imran Khan at his residence and congratulated him on his party\u2019s electoral success.",
+"object": {
+"text": "Imran Khan"
+},
+"action": {
+"verb": {
+"text": "meet",
+"tense": "past"
+},
+"text": "have met",
+"normalized": "have meet"
+}
+},
+{
+"subject": {
+"text": "a range of dignitaries from different countries"
+},
+"sentence": " Since winning the polls, a range of dignitaries from different countries have met Imran Khan at his residence and congratulated him on his party\u2019s electoral success.",
+"object": {
+"text": "him"
+},
+"action": {
+"verb": {
+"text": "congratulate",
+"tense": "past"
+},
+"text": "congratulated",
+"normalized": "congratulate"
+}
+},
+{
+"subject": {
+"text": "Several heads of states and leaders"
+},
+"sentence": " Several heads of states and leaders wished him on his success on telephone.",
+"object": {
+"text": "on his success on telephone"
+},
+"action": {
+"verb": {
+"text": "wish",
+"tense": "past"
+},
+"text": "wished",
+"normalized": "wish"
+}
+},
+{
+"subject": {
+"text": "the Indian PM"
+},
+"sentence": " On July 30, the Indian PM had called Khan and cheered him on his victory.",
+"object": {
+"text": "Khan"
+},
+"action": {
+"verb": {
+"text": "call",
+"tense": "past"
+},
+"text": "had called",
+"normalized": "have call"
+}
+},
+{
+"subject": {
+"text": "the Indian PM"
+},
+"sentence": " On July 30, the Indian PM had called Khan and cheered him on his victory.",
+"object": {
+"text": "him"
+},
+"action": {
+"verb": {
+"text": "cheer",
+"tense": "past"
+},
+"text": "cheered",
+"normalized": "cheer"
+}
+},
+{
+"subject": {
+"text": "The most significant aspect of Modi\u2019s conversation"
+},
+"sentence": " The most significant aspect of Modi\u2019s conversation was his unambiguous willingness to improve ties with Pakistan.",
+"object": {
+"text": "his unambiguous willingness to improve ties with Pakistan"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "was",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "India"
+},
+"sentence": " \u201cIndia desires progressive relations with Pakistan\u201d, Modi was quoted as saying.",
+"object": {
+"text": "progressive relations"
+},
+"action": {
+"verb": {
+"text": "desire",
+"tense": "present"
+},
+"text": "desires",
+"normalized": "desire"
+}
+},
+{
+"subject": {
+"text": "Modi"
+},
+"sentence": " Both countries, Modi said, should evolve a joint strategy to develop and strengthen better ties.",
+"object": {
+"text": "Both countries"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "the cricketer-turned-politician"
+},
+"sentence": " In response, the cricketer-turned-politician said that both neighbours should move towards conflict resolution through dialogue.",
+"object": {
+"text": "that both neighbours should move towards conflict resolution through dialogue"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "Wars"
+},
+"sentence": " \u201cWars can breed tragedies instead of facilitating resolution of conflicts,\u201d Khan was quoted as telling Mr Modi.",
+"object": {
+"text": "tragedies instead of facilitating resolution of conflicts"
+},
+"action": {
+"verb": {
+"text": "breed",
+"tense": "future"
+},
+"text": "can breed",
+"normalized": "can breed"
+}
+},
+{
+"subject": {
+"text": "Khan"
+},
+"sentence": " \u201cWars can breed tragedies instead of facilitating resolution of conflicts,\u201d Khan was quoted as telling Mr Modi.",
+"object": {
+"text": "Wars can breed tragedies instead of facilitating resolution"
+},
+"action": {
+"verb": {
+"text": "tell",
+"tense": "past"
+},
+"text": "telling",
+"normalized": "tell"
+}
+},
+{
+"subject": {
+"text": "Khan"
+},
+"sentence": " Appreciating Modi\u2019s positive gesture, Khan said that both countries should invest in poverty reduction to pull millions living in subcontinent out of the poverty trap.",
+"object": {
+"text": "Modi\u2019s positive gesture"
+},
+"action": {
+"verb": {
+"text": "Appreciating",
+"tense": "present"
+},
+"text": "Appreciating",
+"normalized": "Appreciating"
+}
+},
+{
+"subject": {
+"text": "Khan"
+},
+"sentence": " Appreciating Modi\u2019s positive gesture, Khan said that both countries should invest in poverty reduction to pull millions living in subcontinent out of the poverty trap.",
+"object": {
+"text": "that both countries should invest in poverty reduction to pull millions living in subcontinent out of the poverty trap"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "both countries"
+},
+"sentence": " Appreciating Modi\u2019s positive gesture, Khan said that both countries should invest in poverty reduction to pull millions living in subcontinent out of the poverty trap.",
+"object": {
+"text": "millions living in subcontinent"
+},
+"action": {
+"verb": {
+"text": "pull",
+"tense": "future"
+},
+"text": "to pull",
+"normalized": "to pull"
+}
+},
+{
+"subject": {
+"text": "countries"
+},
+"sentence": " Appreciating Modi\u2019s positive gesture, Khan said that both countries should invest in poverty reduction to pull millions living in subcontinent out of the poverty trap.",
+"action": {
+"verb": {
+"text": "live",
+"tense": "present"
+},
+"text": "living",
+"normalized": "live"
+}
+}
+],
+"relations": [
+{
+"type": "locatedAt",
+"sentence": "ISLAMABAD/ NEW DELHI: Indian high commissioner Ajay Bisaria met the (PTI) chairman Imran Khan at his residence in on Friday and congratulated the prime minister-in-waiting over his victory in the general elections last month.",
+"score": 0.812186,
+"arguments": [
+{
+"text": "NEW DELHI",
+"location": [
+11,
+20
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "NEW DELHI"
+}
+]
+},
+{
+"text": "Indian",
+"location": [
+22,
+28
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Indian"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "As reported by TOI, while Bisaria raised the issue of crossborder terrorism and infiltration, Khan spoke about the Kashmir issue and alleged violations by Indian forces in the Valley.",
+"score": 0.994976,
+"arguments": [
+{
+"text": "Khan",
+"location": [
+399,
+403
+],
+"entities": [
+{
+"type": "Person",
+"text": "Imran Khan"
+}
+]
+},
+{
+"text": "spoke",
+"location": [
+404,
+409
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "spoke"
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "As reported by TOI, while Bisaria raised the issue of crossborder terrorism and infiltration, Khan spoke about the Kashmir issue and alleged violations by Indian forces in the Valley.",
+"score": 0.978286,
+"arguments": [
+{
+"text": "forces",
+"location": [
+467,
+473
+],
+"entities": [
+{
+"type": "Person",
+"text": "forces"
+}
+]
+},
+{
+"text": "Indian",
+"location": [
+460,
+466
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Indian",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Bisaria tweeted that he had a positive and constructive discussion with Khan.",
+"score": 0.997645,
+"arguments": [
+{
+"text": "Bisaria",
+"location": [
+489,
+496
+],
+"entities": [
+{
+"type": "Person",
+"text": "Ajay Bisaria"
+}
+]
+},
+{
+"text": "tweeted",
+"location": [
+497,
+504
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "tweeted"
+}
+]
+}
+]
+},
+{
+"type": "participantIn",
+"sentence": "Bisaria tweeted that he had a positive and constructive discussion with Khan.",
+"score": 0.806341,
+"arguments": [
+{
+"text": "he",
+"location": [
+510,
+512
+],
+"entities": [
+{
+"type": "Person",
+"text": "Ajay Bisaria"
+}
+]
+},
+{
+"text": "discussion",
+"location": [
+545,
+555
+],
+"entities": [
+{
+"type": "EventMeeting",
+"text": "summit"
+}
+]
+}
+]
+},
+{
+"type": "participantIn",
+"sentence": "Bisaria tweeted that he had a positive and constructive discussion with Khan.",
+"score": 0.893329,
+"arguments": [
+{
+"text": "Khan",
+"location": [
+561,
+565
+],
+"entities": [
+{
+"type": "Person",
+"text": "Imran Khan"
+}
+]
+},
+{
+"text": "discussion",
+"location": [
+545,
+555
+],
+"entities": [
+{
+"type": "EventMeeting",
+"text": "summit"
+}
+]
+}
+]
+},
+{
+"type": "managerOf",
+"sentence": "Bisaria also gifted a cricket bat signed by the entire Indian cricket team to Khan.",
+"score": 0.424113,
+"arguments": [
+{
+"text": "cricket bat",
+"location": [
+589,
+600
+],
+"entities": [
+{
+"type": "Person",
+"text": "Ajay Bisaria"
+}
+]
+},
+{
+"text": "cricket team",
+"location": [
+629,
+641
+],
+"entities": [
+{
+"type": "Organization",
+"text": "cricket team",
+"disambiguation": {
+"subtype": [
+"Sports"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Khan called for early resumption of the Saarc process and appealed to India to attend the next summit which to be held in Islamabad.",
+"score": 0.988436,
+"arguments": [
+{
+"text": "Khan",
+"location": [
+711,
+715
+],
+"entities": [
+{
+"type": "Person",
+"text": "Imran Khan"
+}
+]
+},
+{
+"text": "called for",
+"location": [
+716,
+726
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "called for"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Appreciating Modi's positive gesture, Khan said that both countries should invest in poverty reduction to pull millions living in subcontinent out of the poverty trap.",
+"score": 0.995791,
+"arguments": [
+{
+"text": "Khan",
+"location": [
+2235,
+2239
+],
+"entities": [
+{
+"type": "Person",
+"text": "Imran Khan"
+}
+]
+},
+{
+"text": "said",
+"location": [
+2240,
+2244
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "called for"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Khan called for early resumption of the Saarc process and appealed to India to attend the next summit which to be held in Islamabad.",
+"score": 0.929194,
+"arguments": [
+{
+"text": "Saarc",
+"location": [
+751,
+756
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Saarc",
+"disambiguation": {
+"subtype": [
+"Multigov"
+]
+}
+}
+]
+},
+{
+"text": "process",
+"location": [
+757,
+764
+],
+"entities": [
+{
+"type": "EventLegal",
+"text": "process"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "Khan called for early resumption of the Saarc process and appealed to India to attend the next summit which to be held in Islamabad.",
+"score": 0.451754,
+"arguments": [
+{
+"text": "summit",
+"location": [
+806,
+812
+],
+"entities": [
+{
+"type": "EventMeeting",
+"text": "summit"
+}
+]
+},
+{
+"text": "India",
+"location": [
+781,
+786
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "India",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "Khan called for early resumption of the Saarc process and appealed to India to attend the next summit which to be held in Islamabad.",
+"score": 0.771899,
+"arguments": [
+{
+"text": "summit",
+"location": [
+806,
+812
+],
+"entities": [
+{
+"type": "EventMeeting",
+"text": "summit"
+}
+]
+},
+{
+"text": "Islamabad",
+"location": [
+833,
+842
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Islamabad"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "ISLAMABAD/ NEW DELHI: Indian high commissioner Ajay Bisaria met the (PTI) chairman Imran Khan at his residence in on Friday and congratulated the prime minister-in-waiting over his victory in the general elections last month.",
+"score": 0.436597,
+"arguments": [
+{
+"text": "high commissioner",
+"location": [
+29,
+46
+],
+"entities": [
+{
+"type": "Person",
+"text": "Ajay Bisaria"
+}
+]
+},
+{
+"text": "Indian",
+"location": [
+22,
+28
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Indian"
+}
+]
+}
+]
+},
+{
+"type": "participantIn",
+"sentence": "Bisaria and Khan discussed a wide range of issues and prospects of India-Pakistan relationships.",
+"score": 0.908788,
+"arguments": [
+{
+"text": "Bisaria",
+"location": [
+844,
+851
+],
+"entities": [
+{
+"type": "Person",
+"text": "Ajay Bisaria"
+}
+]
+},
+{
+"text": "discussed",
+"location": [
+861,
+870
+],
+"entities": [
+{
+"type": "EventMeeting",
+"text": "discussed"
+}
+]
+}
+]
+},
+{
+"type": "participantIn",
+"sentence": "Bisaria and Khan discussed a wide range of issues and prospects of India-Pakistan relationships.",
+"score": 0.954929,
+"arguments": [
+{
+"text": "Khan",
+"location": [
+856,
+860
+],
+"entities": [
+{
+"type": "Person",
+"text": "Imran Khan"
+}
+]
+},
+{
+"text": "discussed",
+"location": [
+861,
+870
+],
+"entities": [
+{
+"type": "EventMeeting",
+"text": "discussed"
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "According to PTI sources, the duo specifically focused on matters of mutual interest.",
+"score": 0.529351,
+"arguments": [
+{
+"text": "sources",
+"location": [
+958,
+965
+],
+"entities": [
+{
+"type": "Person",
+"text": "sources"
+}
+]
+},
+{
+"text": "PTI",
+"location": [
+954,
+957
+],
+"entities": [
+{
+"type": "Organization",
+"text": "PTI",
+"disambiguation": {
+"subtype": [
+"Commercial"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Khan, sources added, stressed the need to restart a dialogue between the two countries on all outstanding issues, including Kashmir.",
+"score": 0.917795,
+"arguments": [
+{
+"text": "sources",
+"location": [
+1033,
+1040
+],
+"entities": [
+{
+"type": "Person",
+"text": "sources"
+}
+]
+},
+{
+"text": "added",
+"location": [
+1041,
+1046
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "called for"
+}
+]
+}
+]
+},
+{
+"type": "participantIn",
+"sentence": "Khan, sources added, stressed the need to restart a dialogue between the two countries on all outstanding issues, including Kashmir.",
+"score": 0.796328,
+"arguments": [
+{
+"text": "countries",
+"location": [
+1104,
+1113
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "countries",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+},
+{
+"text": "dialogue",
+"location": [
+1079,
+1087
+],
+"entities": [
+{
+"type": "EventMeeting",
+"text": "conversation"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "\"India is confident that relations with will take a turn for the positive,\" Bisaria noted, adding that \"the telephonic conversation between Modi and Khan has given birth to this new hope\".",
+"score": 0.974629,
+"arguments": [
+{
+"text": "Bisaria",
+"location": [
+1236,
+1243
+],
+"entities": [
+{
+"type": "Person",
+"text": "Ajay Bisaria"
+}
+]
+},
+{
+"text": "noted",
+"location": [
+1244,
+1249
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "called for"
+}
+]
+}
+]
+},
+{
+"type": "participantIn",
+"sentence": "\"India is confident that relations with will take a turn for the positive,\" Bisaria noted, adding that \"the telephonic conversation between Modi and Khan has given birth to this new hope\".",
+"score": 0.947576,
+"arguments": [
+{
+"text": "Modi",
+"location": [
+1300,
+1304
+],
+"entities": [
+{
+"type": "Person",
+"text": "Appreciating Modi"
+}
+]
+},
+{
+"text": "conversation",
+"location": [
+1279,
+1291
+],
+"entities": [
+{
+"type": "EventMeeting",
+"text": "conversation"
+}
+]
+}
+]
+},
+{
+"type": "participantIn",
+"sentence": "The most significant aspect of Modi's conversation was his unambiguous willingness to improve ties with Pakistan.",
+"score": 0.952681,
+"arguments": [
+{
+"text": "Modi",
+"location": [
+1696,
+1700
+],
+"entities": [
+{
+"type": "Person",
+"text": "Appreciating Modi"
+}
+]
+},
+{
+"text": "conversation",
+"location": [
+1703,
+1715
+],
+"entities": [
+{
+"type": "EventMeeting",
+"text": "conversation"
+}
+]
+}
+]
+},
+{
+"type": "participantIn",
+"sentence": "\"India is confident that relations with will take a turn for the positive,\" Bisaria noted, adding that \"the telephonic conversation between Modi and Khan has given birth to this new hope\".",
+"score": 0.753409,
+"arguments": [
+{
+"text": "Khan",
+"location": [
+1309,
+1313
+],
+"entities": [
+{
+"type": "Person",
+"text": "Imran Khan"
+}
+]
+},
+{
+"text": "conversation",
+"location": [
+1279,
+1291
+],
+"entities": [
+{
+"type": "EventMeeting",
+"text": "conversation"
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "Since winning the polls, a range of dignitaries from different countries have met Imran Khan at his residence and congratulated him on his party's electoral success.",
+"score": 0.655529,
+"arguments": [
+{
+"text": "dignitaries",
+"location": [
+1385,
+1396
+],
+"entities": [
+{
+"type": "Person",
+"text": "dignitaries"
+}
+]
+},
+{
+"text": "countries",
+"location": [
+1412,
+1421
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "countries",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "managerOf",
+"sentence": "Since winning the polls, a range of dignitaries from different countries have met Imran Khan at his residence and congratulated him on his party's electoral success.",
+"score": 0.509514,
+"arguments": [
+{
+"text": "his",
+"location": [
+1484,
+1487
+],
+"entities": [
+{
+"type": "Person",
+"text": "Imran Khan"
+}
+]
+},
+{
+"text": "party",
+"location": [
+1488,
+1493
+],
+"entities": [
+{
+"type": "Organization",
+"text": "party",
+"disambiguation": {
+"subtype": [
+"Political"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "ISLAMABAD/ NEW DELHI: Indian high commissioner Ajay Bisaria met the (PTI) chairman Imran Khan at his residence in on Friday and congratulated the prime minister-in-waiting over his victory in the general elections last month.",
+"score": 0.416192,
+"arguments": [
+{
+"text": "Ajay Bisaria",
+"location": [
+47,
+59
+],
+"entities": [
+{
+"type": "Person",
+"text": "Ajay Bisaria"
+}
+]
+},
+{
+"text": "general elections",
+"location": [
+196,
+213
+],
+"entities": [
+{
+"type": "EventElection",
+"text": "general elections"
+}
+]
+}
+]
+},
+{
+"type": "timeOf",
+"sentence": "On July 30, the Indian PM had called Khan and cheered him on his victory.",
+"score": 0.625533,
+"arguments": [
+{
+"text": "July 30",
+"location": [
+1594,
+1601
+],
+"entities": [
+{
+"type": "Date",
+"text": "July 30"
+}
+]
+},
+{
+"text": "called",
+"location": [
+1621,
+1627
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "called"
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "On July 30, the Indian PM had called Khan and cheered him on his victory.",
+"score": 0.898967,
+"arguments": [
+{
+"text": "PM",
+"location": [
+1614,
+1616
+],
+"entities": [
+{
+"type": "Person",
+"text": "Appreciating Modi"
+}
+]
+},
+{
+"text": "Indian",
+"location": [
+1607,
+1613
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Indian",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "On July 30, the Indian PM had called Khan and cheered him on his victory.",
+"score": 0.782251,
+"arguments": [
+{
+"text": "PM",
+"location": [
+1614,
+1616
+],
+"entities": [
+{
+"type": "Person",
+"text": "Appreciating Modi"
+}
+]
+},
+{
+"text": "called",
+"location": [
+1621,
+1627
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "called"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "On July 30, the Indian PM had called Khan and cheered him on his victory.",
+"score": 0.779795,
+"arguments": [
+{
+"text": "Khan",
+"location": [
+1628,
+1632
+],
+"entities": [
+{
+"type": "Person",
+"text": "Imran Khan"
+}
+]
+},
+{
+"text": "called",
+"location": [
+1621,
+1627
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "called"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "\"India desires progressive relations with Pakistan\", Modi was quoted as saying.",
+"score": 0.963904,
+"arguments": [
+{
+"text": "Modi",
+"location": [
+1832,
+1836
+],
+"entities": [
+{
+"type": "Person",
+"text": "Appreciating Modi"
+}
+]
+},
+{
+"text": "quoted",
+"location": [
+1841,
+1847
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "quoted"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Both countries, Modi said, should evolve a joint strategy to develop and strengthen better ties.",
+"score": 0.997075,
+"arguments": [
+{
+"text": "Modi",
+"location": [
+1875,
+1879
+],
+"entities": [
+{
+"type": "Person",
+"text": "Appreciating Modi"
+}
+]
+},
+{
+"text": "said",
+"location": [
+1880,
+1884
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "In response, the cricketer-turned-politician said that both neighbours should move towards conflict resolution through dialogue.",
+"score": 0.447243,
+"arguments": [
+{
+"text": "neighbours",
+"location": [
+2016,
+2026
+],
+"entities": [
+{
+"type": "Organization",
+"text": "neighbours"
+}
+]
+},
+{
+"text": "dialogue",
+"location": [
+2075,
+2083
+],
+"entities": [
+{
+"type": "EventMeeting",
+"text": "conversation"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "\"Wars can breed tragedies instead of facilitating resolution of conflicts,\" Khan was quoted as telling Mr Modi.",
+"score": 0.928624,
+"arguments": [
+{
+"text": "Khan",
+"location": [
+2161,
+2165
+],
+"entities": [
+{
+"type": "Person",
+"text": "Imran Khan"
+}
+]
+},
+{
+"text": "quoted",
+"location": [
+2170,
+2176
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "quoted"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "ISLAMABAD/ NEW DELHI: Indian high commissioner Ajay Bisaria met the (PTI) chairman Imran Khan at his residence in on Friday and congratulated the prime minister-in-waiting over his victory in the general elections last month.",
+"score": 0.476224,
+"arguments": [
+{
+"text": "Imran Khan",
+"location": [
+83,
+93
+],
+"entities": [
+{
+"type": "Person",
+"text": "Imran Khan"
+}
+]
+},
+{
+"text": "residence",
+"location": [
+101,
+110
+],
+"entities": [
+{
+"type": "Facility",
+"text": "residence"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "Since winning the polls, a range of dignitaries from different countries have met Imran Khan at his residence and congratulated him on his party's electoral success.",
+"score": 0.602288,
+"arguments": [
+{
+"text": "Imran Khan",
+"location": [
+1431,
+1441
+],
+"entities": [
+{
+"type": "Person",
+"text": "Imran Khan"
+}
+]
+},
+{
+"text": "residence",
+"location": [
+1449,
+1458
+],
+"entities": [
+{
+"type": "Facility",
+"text": "residence"
+}
+]
+}
+]
+},
+{
+"type": "ownerOf",
+"sentence": "ISLAMABAD/ NEW DELHI: Indian high commissioner Ajay Bisaria met the (PTI) chairman Imran Khan at his residence in on Friday and congratulated the prime minister-in-waiting over his victory in the general elections last month.",
+"score": 0.582553,
+"arguments": [
+{
+"text": "his",
+"location": [
+97,
+100
+],
+"entities": [
+{
+"type": "Person",
+"text": "Imran Khan"
+}
+]
+},
+{
+"text": "residence",
+"location": [
+101,
+110
+],
+"entities": [
+{
+"type": "Facility",
+"text": "residence"
+}
+]
+}
+]
+},
+{
+"type": "ownerOf",
+"sentence": "Since winning the polls, a range of dignitaries from different countries have met Imran Khan at his residence and congratulated him on his party's electoral success.",
+"score": 0.6877,
+"arguments": [
+{
+"text": "his",
+"location": [
+1445,
+1448
+],
+"entities": [
+{
+"type": "Person",
+"text": "Imran Khan"
+}
+]
+},
+{
+"text": "residence",
+"location": [
+1449,
+1458
+],
+"entities": [
+{
+"type": "Facility",
+"text": "residence"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "ISLAMABAD/ NEW DELHI: Indian high commissioner Ajay Bisaria met the (PTI) chairman Imran Khan at his residence in on Friday and congratulated the prime minister-in-waiting over his victory in the general elections last month.",
+"score": 0.452267,
+"arguments": [
+{
+"text": "his",
+"location": [
+177,
+180
+],
+"entities": [
+{
+"type": "Person",
+"text": "Imran Khan"
+}
+]
+},
+{
+"text": "general elections",
+"location": [
+196,
+213
+],
+"entities": [
+{
+"type": "EventElection",
+"text": "general elections"
+}
+]
+}
+]
+},
+{
+"type": "timeOf",
+"sentence": "ISLAMABAD/ NEW DELHI: Indian high commissioner Ajay Bisaria met the (PTI) chairman Imran Khan at his residence in on Friday and congratulated the prime minister-in-waiting over his victory in the general elections last month.",
+"score": 0.929309,
+"arguments": [
+{
+"text": "last month",
+"location": [
+214,
+224
+],
+"entities": [
+{
+"type": "Date",
+"text": "last month"
+}
+]
+},
+{
+"text": "general elections",
+"location": [
+196,
+213
+],
+"entities": [
+{
+"type": "EventElection",
+"text": "general elections"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "TOI had exclusively reported on Friday that Bisaria was going to call on Khan.",
+"score": 0.904574,
+"arguments": [
+{
+"text": "TOI",
+"location": [
+226,
+229
+],
+"entities": [
+{
+"type": "Person",
+"text": "TOI"
+}
+]
+},
+{
+"text": "reported",
+"location": [
+246,
+254
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "reported"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "As reported by TOI, while Bisaria raised the issue of crossborder terrorism and infiltration, Khan spoke about the Kashmir issue and alleged violations by Indian forces in the Valley.",
+"score": 0.711179,
+"arguments": [
+{
+"text": "TOI",
+"location": [
+320,
+323
+],
+"entities": [
+{
+"type": "Person",
+"text": "TOI"
+}
+]
+},
+{
+"text": "reported",
+"location": [
+308,
+316
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "reported"
+}
+]
+}
+]
+},
+{
+"type": "timeOf",
+"sentence": "TOI had exclusively reported on Friday that Bisaria was going to call on Khan.",
+"score": 0.992209,
+"arguments": [
+{
+"text": "Friday",
+"location": [
+258,
+264
+],
+"entities": [
+{
+"type": "Date",
+"text": "Friday"
+}
+]
+},
+{
+"text": "reported",
+"location": [
+246,
+254
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "reported"
+}
+]
+}
+]
+}
+],
+"language": "en",
+"keywords": [
+{
+"text": "Khan",
+"sentiment": {
+"score": 0.0874372,
+"label": "positive"
+},
+"relevance": 0.99176,
+"emotion": {
+"sadness": 0.522892,
+"joy": 0.59466,
+"fear": 0.681444,
+"disgust": 0.047757,
+"anger": 0.102475
+}
+},
+{
+"text": "chairman Imran Khan",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.854429,
+"emotion": {
+"sadness": 0.369389,
+"joy": 0.375188,
+"fear": 0.041279,
+"disgust": 0.057391,
+"anger": 0.065839
+}
+},
+{
+"text": "commissioner Ajay Bisaria",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.633375,
+"emotion": {
+"sadness": 0.33676,
+"joy": 0.360989,
+"fear": 0.088052,
+"disgust": 0.032963,
+"anger": 0.086962
+}
+},
+{
+"text": "Modi",
+"sentiment": {
+"score": 0.673145,
+"label": "positive"
+},
+"relevance": 0.614668,
+"emotion": {
+"sadness": 0.084593,
+"joy": 0.611493,
+"fear": 0.111216,
+"disgust": 0.067595,
+"anger": 0.155104
+}
+},
+{
+"text": "ISLAMABAD/ NEW DELHI",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.611651,
+"emotion": {
+"sadness": 0.095844,
+"joy": 0.60668,
+"fear": 0.070289,
+"disgust": 0.031534,
+"anger": 0.050125
+}
+}
+],
+"entities": [
+{
+"type": "Person",
+"text": "Imran Khan",
+"sentiment": {
+"score": -0.202283,
+"label": "negative"
+},
+"relevance": 0.893235,
+"emotion": {
+"sadness": 0.518107,
+"joy": 0.602036,
+"fear": 0.679759,
+"disgust": 0.047004,
+"anger": 0.096702
+},
+"disambiguation": {
+"subtype": [
+"Athlete",
+"Politician",
+"CricketBowler",
+"CricketPlayer"
+],
+"name": "Imran Khan",
+"dbpedia_resource": "http://dbpedia.org/resource/Imran_Khan"
+},
+"count": 14
+},
+{
+"type": "Person",
+"text": "Ajay Bisaria",
+"sentiment": {
+"score": 0.149513,
+"label": "positive"
+},
+"relevance": 0.39912,
+"emotion": {
+"sadness": 0.546711,
+"joy": 0.625961,
+"fear": 0.098242,
+"disgust": 0.083347,
+"anger": 0.079801
+},
+"count": 9
+},
+{
+"type": "Person",
+"text": "Khan",
+"sentiment": {
+"score": -0.45536,
+"label": "negative"
+},
+"relevance": 0.314985,
+"emotion": {
+"sadness": 0.22731,
+"joy": 0.181236,
+"fear": 0.110739,
+"disgust": 0.047697,
+"anger": 0.094976
+},
+"count": 2
+},
+{
+"type": "Person",
+"text": "felicitated Khan",
+"sentiment": {
+"score": 0.518973,
+"label": "positive"
+},
+"relevance": 0.263672,
+"emotion": {
+"sadness": 0.264128,
+"joy": 0.263633,
+"fear": 0.1149,
+"disgust": 0.08737,
+"anger": 0.03655
+},
+"count": 1
+},
+{
+"type": "Person",
+"text": "Mr Modi",
+"sentiment": {
+"score": 0.673145,
+"label": "positive"
+},
+"relevance": 0.249139,
+"emotion": {
+"sadness": 0.084593,
+"joy": 0.611493,
+"fear": 0.111216,
+"disgust": 0.067595,
+"anger": 0.155104
+},
+"count": 6
+}
+],
+"concepts": [
+{
+"text": "India",
+"relevance": 0.979006,
+"dbpedia_resource": "http://dbpedia.org/resource/India"
+},
+{
+"text": "Cricket",
+"relevance": 0.75107,
+"dbpedia_resource": "http://dbpedia.org/resource/Cricket"
+},
+{
+"text": "Pakistan",
+"relevance": 0.639909,
+"dbpedia_resource": "http://dbpedia.org/resource/Pakistan"
+},
+{
+"text": "Fast bowling",
+"relevance": 0.562543,
+"dbpedia_resource": "http://dbpedia.org/resource/Fast_bowling"
+},
+{
+"text": "Poverty",
+"relevance": 0.550683,
+"dbpedia_resource": "http://dbpedia.org/resource/Poverty"
+}
+],
+"categories": [
+{
+"score": 0.469453,
+"label": "/art and entertainment/movies and tv/bollywood"
+},
+{
+"score": 0.435991,
+"label": "/law, govt and politics/politics/elections"
+},
+{
+"score": 0.408545,
+"label": "/business and industrial/advertising and marketing/public relations"
+}
+]
+}
+}

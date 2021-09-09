@@ -1,0 +1,1802 @@
+{
+"source_article_link": "https://timesofindia.indiatimes.com/india/supreme-court-reserves-verdict-on-section-377/articleshow/65020367.cms?&utm_source=Articleshow&utm_medium=Organic&utm_campaign=Related_Stories",
+"title": "Supreme Court reserves verdict on Section 377",
+"date_published": "2018-07-17T15:49:31+05:30",
+"source_type": "news_article",
+"source_name": "timesofindia.indiatimes.com",
+"image_link": [
+"https://timesofindia.indiatimes.com/thumb/msid-65020347,imgsize-299365,width-400,resizemode-4/65020347.jpg"
+],
+"article_body": "NEW DELHI: The ( ) on Tuesday reserved its verdict on whether to decriminalise a controversial and archaic provision in the Indian Penal Code (IPC) that makes gay sex a punishable offence. The SC asked all the counsel who argued for and against 377 to submit written submissions by this Friday. A Constitution bench comprising Chief Justice of India (CI) and Justices R F Nariman, A M Khanwilkar, D Y Chandrachud and Indu Malhotra, decided to reserve its verdict last Thursday as well, and agreed to hear the interveners for 90 minutes today, that is Tuesday. It heard them for longer than 90 minutes. This, after advocate Manoj George - representing churches- which want gay sex to remain a crime - protested that the SC was rushing through arguments after patiently heard counsel after counsel for the LGBTQ (Lesbian, Gay, Bisexual, Transgender, Queer) community The Centre last Wednesday put the onus of deciding the fate of Section 377 on the Supreme Court. And the SC, on its part, gave a strong indication it plans to go ahead and scrap the Section that criminalises homosexuality. A day after that, on Thursday, the apex court rejected a demand for a referendum over the constitutional validity of section 377 of the IPC, saying it would not go by majority opinion but be governed by constitutional morality. The top court said the social stigma and discrimination attached to the community would go if criminality of consensual gay sex is done away with, even as it maintained that it would scrutinise the legal validity of section 377 of the IPC in all its aspects. In 2009, the Delhi high court ruled in favour of decriminalising Section 377, only to be reversed by a two-judge SC bench in 2013 in the Suresh Kumar Koushal vs case. In May, the apex court decided to hear the plea filed by Indian Institute of Technology's LGBT alumni association seeking scrapping of Section 377 of the IPC. Earlier, on April 27, Ashok Rao Kavi of Humsafar Trust and Arif Jaffar also filed petitions against Section 377. These two pleas came just six days after hotelier Keshav Suri, filed a plea in this regard in the top court. In response to Suri's plea, the apex court on April 23 sought the Centre's reply on the plea seeking scrapping of Section 377. The centre replied on July 11, preferring to leave the decision to the ''wisdom of the court''.",
+"description": "The SC on Tuesday asked all the counsel who argued for and against Section 377 to submit written submissions by this Friday The Centre last Wednesday put the onus of deciding the fate of Section 377 on the Supreme Court The SC, on its part, gave a strong indication it plans to go ahead and scrap the Section that criminalises gay sex",
+"time_scraped": "2018-08-24 12:01:40.367372",
+"article_id": "65020367",
+"article_category": "IndiaNews",
+"image_details": [
+{
+"url": "https://timesofindia.indiatimes.com/thumb/msid-65020347,imgsize-299365,width-400,resizemode-4/65020347.jpg",
+"path": "full/6ad2accb2808abc36bc4bbfabdfaceec9c6c434d.jpg",
+"checksum": "9040d7cf6af79c0ad841170afde58167"
+}
+],
+"ibm_nlu": {
+"usage": {
+"text_units": 1,
+"text_characters": 2345,
+"features": 7
+},
+"sentiment": {
+"document": {
+"score": -0.438901,
+"label": "negative"
+}
+},
+"semantic_roles": [
+{
+"subject": {
+"text": "NEW DELHI: The ( ) on Tuesday"
+},
+"sentence": "NEW DELHI: The ( ) on Tuesday reserved its verdict on whether to decriminalise a controversial and archaic provision in the Indian Penal Code (IPC) that makes gay sex a punishable offence.",
+"object": {
+"text": "its verdict"
+},
+"action": {
+"verb": {
+"text": "reserve",
+"tense": "past"
+},
+"text": "reserved",
+"normalized": "reserve"
+}
+},
+{
+"subject": {
+"text": "gay sex"
+},
+"sentence": "NEW DELHI: The ( ) on Tuesday reserved its verdict on whether to decriminalise a controversial and archaic provision in the Indian Penal Code (IPC) that makes gay sex a punishable offence.",
+"object": {
+"text": "a punishable offence"
+},
+"action": {
+"verb": {
+"text": "make",
+"tense": "present"
+},
+"text": "makes",
+"normalized": "make"
+}
+},
+{
+"subject": {
+"text": "The SC"
+},
+"sentence": " The SC asked all the counsel who argued for and against 377 to submit written submissions by this Friday.",
+"object": {
+"text": "all the counsel who argued for and against 377 to submit written submissions by this Friday"
+},
+"action": {
+"verb": {
+"text": "ask",
+"tense": "past"
+},
+"text": "asked",
+"normalized": "ask"
+}
+},
+{
+"subject": {
+"text": "all the counsel"
+},
+"sentence": " The SC asked all the counsel who argued for and against 377 to submit written submissions by this Friday.",
+"object": {
+"text": "to submit written submissions by this Friday"
+},
+"action": {
+"verb": {
+"text": "argue",
+"tense": "past"
+},
+"text": "argued",
+"normalized": "argue"
+}
+},
+{
+"subject": {
+"text": "all the counsel"
+},
+"sentence": " The SC asked all the counsel who argued for and against 377 to submit written submissions by this Friday.",
+"object": {
+"text": "written submissions"
+},
+"action": {
+"verb": {
+"text": "submit",
+"tense": "future"
+},
+"text": "submit",
+"normalized": "submit"
+}
+},
+{
+"subject": {
+"text": "A Constitution bench"
+},
+"sentence": " A Constitution bench comprising Chief Justice of India (CI) and Justices R F Nariman, A M Khanwilkar, D Y Chandrachud and Indu Malhotra, decided to reserve its verdict last Thursday as well, and agreed to hear the interveners for 90 minutes today, that is Tuesday.",
+"object": {
+"text": "Chief Justice of India (CI) and Justices R F Nariman, A M Khanwilkar, D Y Chandrachud and Indu Malhotra"
+},
+"action": {
+"verb": {
+"text": "comprise",
+"tense": "present"
+},
+"text": "comprising",
+"normalized": "comprise"
+}
+},
+{
+"subject": {
+"text": "A Constitution bench comprising Chief Justice of India (CI) and Justices R F Nariman, A M Khanwilkar, D Y Chandrachud and Indu Malhotra,"
+},
+"sentence": " A Constitution bench comprising Chief Justice of India (CI) and Justices R F Nariman, A M Khanwilkar, D Y Chandrachud and Indu Malhotra, decided to reserve its verdict last Thursday as well, and agreed to hear the interveners for 90 minutes today, that is Tuesday.",
+"object": {
+"text": "to reserve its verdict last Thursday as well"
+},
+"action": {
+"verb": {
+"text": "decide",
+"tense": "past"
+},
+"text": "decided",
+"normalized": "decide"
+}
+},
+{
+"subject": {
+"text": "Justices R F Nariman, A M Khanwilkar, D Y Chandrachud and Indu Malhotra,"
+},
+"sentence": " A Constitution bench comprising Chief Justice of India (CI) and Justices R F Nariman, A M Khanwilkar, D Y Chandrachud and Indu Malhotra, decided to reserve its verdict last Thursday as well, and agreed to hear the interveners for 90 minutes today, that is Tuesday.",
+"object": {
+"text": "its verdict"
+},
+"action": {
+"verb": {
+"text": "reserve",
+"tense": "future"
+},
+"text": "decided to reserve",
+"normalized": "decide to reserve"
+}
+},
+{
+"subject": {
+"text": "A M Khanwilkar, D Y Chandrachud and Indu Malhotra,"
+},
+"sentence": " A Constitution bench comprising Chief Justice of India (CI) and Justices R F Nariman, A M Khanwilkar, D Y Chandrachud and Indu Malhotra, decided to reserve its verdict last Thursday as well, and agreed to hear the interveners for 90 minutes today, that is Tuesday.",
+"object": {
+"text": "the interveners"
+},
+"action": {
+"verb": {
+"text": "hear",
+"tense": "future"
+},
+"text": "agreed to hear",
+"normalized": "agree to hear"
+}
+},
+{
+"subject": {
+"text": "that"
+},
+"sentence": " A Constitution bench comprising Chief Justice of India (CI) and Justices R F Nariman, A M Khanwilkar, D Y Chandrachud and Indu Malhotra, decided to reserve its verdict last Thursday as well, and agreed to hear the interveners for 90 minutes today, that is Tuesday.",
+"action": {
+"verb": {
+"text": "be",
+"tense": "present"
+},
+"text": "is",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "It"
+},
+"sentence": " It heard them for longer than 90 minutes.",
+"object": {
+"text": "them"
+},
+"action": {
+"verb": {
+"text": "hear",
+"tense": "past"
+},
+"text": "heard",
+"normalized": "hear"
+}
+},
+{
+"subject": {
+"text": "churches-"
+},
+"sentence": " This, after advocate Manoj George - representing churches- which want gay sex to remain a crime - protested that the SC was rushing through arguments after patiently heard counsel after counsel for the LGBTQ (Lesbian, Gay, Bisexual, Transgender, Queer) community The Centre last Wednesday put the onus of deciding the fate of Section 377 on the Supreme Court.",
+"object": {
+"text": "gay sex to remain a crime"
+},
+"action": {
+"verb": {
+"text": "want",
+"tense": "present"
+},
+"text": "want",
+"normalized": "want"
+}
+},
+{
+"subject": {
+"text": "the SC"
+},
+"sentence": " This, after advocate Manoj George - representing churches- which want gay sex to remain a crime - protested that the SC was rushing through arguments after patiently heard counsel after counsel for the LGBTQ (Lesbian, Gay, Bisexual, Transgender, Queer) community The Centre last Wednesday put the onus of deciding the fate of Section 377 on the Supreme Court.",
+"object": {
+"text": "rushing through arguments"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "was",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "the SC"
+},
+"sentence": " This, after advocate Manoj George - representing churches- which want gay sex to remain a crime - protested that the SC was rushing through arguments after patiently heard counsel after counsel for the LGBTQ (Lesbian, Gay, Bisexual, Transgender, Queer) community The Centre last Wednesday put the onus of deciding the fate of Section 377 on the Supreme Court.",
+"object": {
+"text": "through arguments"
+},
+"action": {
+"verb": {
+"text": "rush",
+"tense": "past"
+},
+"text": "was rushing",
+"normalized": "be rush"
+}
+},
+{
+"subject": {
+"text": "the LGBTQ (Lesbian, Gay, Bisexual, Transgender, Queer) community The Centre"
+},
+"sentence": " This, after advocate Manoj George - representing churches- which want gay sex to remain a crime - protested that the SC was rushing through arguments after patiently heard counsel after counsel for the LGBTQ (Lesbian, Gay, Bisexual, Transgender, Queer) community The Centre last Wednesday put the onus of deciding the fate of Section 377 on the Supreme Court.",
+"object": {
+"text": "the onus"
+},
+"action": {
+"verb": {
+"text": "put",
+"tense": "past"
+},
+"text": "put",
+"normalized": "put"
+}
+},
+{
+"subject": {
+"text": "the SC"
+},
+"sentence": " And the SC, on its part, gave a strong indication it plans to go ahead and scrap the Section that criminalises homosexuality.",
+"object": {
+"text": "a strong indication it plans"
+},
+"action": {
+"verb": {
+"text": "give",
+"tense": "past"
+},
+"text": "gave",
+"normalized": "give"
+}
+},
+{
+"subject": {
+"text": "it"
+},
+"sentence": " And the SC, on its part, gave a strong indication it plans to go ahead and scrap the Section that criminalises homosexuality.",
+"object": {
+"text": "to go ahead"
+},
+"action": {
+"verb": {
+"text": "plan",
+"tense": "present"
+},
+"text": "plans",
+"normalized": "plan"
+}
+},
+{
+"subject": {
+"text": "the Section"
+},
+"sentence": " And the SC, on its part, gave a strong indication it plans to go ahead and scrap the Section that criminalises homosexuality.",
+"object": {
+"text": "homosexuality"
+},
+"action": {
+"verb": {
+"text": "criminalise",
+"tense": "present"
+},
+"text": "criminalises",
+"normalized": "criminalise"
+}
+},
+{
+"subject": {
+"text": "the apex court"
+},
+"sentence": " A day after that, on Thursday, the apex court rejected a demand for a referendum over the constitutional validity of section 377 of the IPC, saying it would not go by majority opinion but be governed by constitutional morality.",
+"object": {
+"text": "a demand for a referendum over the constitutional validity of section 377 of the IPC"
+},
+"action": {
+"verb": {
+"text": "reject",
+"tense": "past"
+},
+"text": "rejected",
+"normalized": "reject"
+}
+},
+{
+"subject": {
+"text": "by majority opinion"
+},
+"sentence": " A day after that, on Thursday, the apex court rejected a demand for a referendum over the constitutional validity of section 377 of the IPC, saying it would not go by majority opinion but be governed by constitutional morality.",
+"object": {
+"text": "it"
+},
+"action": {
+"verb": {
+"text": "go",
+"tense": "future",
+"negated": true
+},
+"text": "go",
+"normalized": "go"
+}
+},
+{
+"subject": {
+"text": "by constitutional morality"
+},
+"sentence": " A day after that, on Thursday, the apex court rejected a demand for a referendum over the constitutional validity of section 377 of the IPC, saying it would not go by majority opinion but be governed by constitutional morality.",
+"object": {
+"text": "it"
+},
+"action": {
+"verb": {
+"text": "govern",
+"tense": "past"
+},
+"text": "be governed",
+"normalized": "be govern"
+}
+},
+{
+"subject": {
+"text": "The top court"
+},
+"sentence": " The top court said the social stigma and discrimination attached to the community would go if criminality of consensual gay sex is done away with, even as it maintained that it would scrutinise the legal validity of section 377 of the IPC in all its aspects.",
+"object": {
+"text": "the social stigma and discrimination attached to the community would go if criminality of consensual gay sex is done away with, even as it maintained that it would scrutinise the legal validity of section 377 of the IPC in all its aspects"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "the Delhi high court"
+},
+"sentence": " In 2009, the Delhi high court ruled in favour of decriminalising Section 377, only to be reversed by a two-judge SC bench in 2013 in the Suresh Kumar Koushal vs case.",
+"object": {
+"text": "in favour of decriminalising Section 377, only to be reversed by a two-judge SC bench in 2013 in the Suresh Kumar Koushal vs case"
+},
+"action": {
+"verb": {
+"text": "rule",
+"tense": "past"
+},
+"text": "ruled",
+"normalized": "rule"
+}
+},
+{
+"subject": {
+"text": "by a two-judge SC bench in 2013 in the Suresh Kumar Koushal vs case"
+},
+"sentence": " In 2009, the Delhi high court ruled in favour of decriminalising Section 377, only to be reversed by a two-judge SC bench in 2013 in the Suresh Kumar Koushal vs case.",
+"object": {
+"text": "decriminalising Section 377"
+},
+"action": {
+"verb": {
+"text": "reverse",
+"tense": "past"
+},
+"text": "to be reversed",
+"normalized": "to be reverse"
+}
+},
+{
+"subject": {
+"text": "the apex court"
+},
+"sentence": " In May, the apex court decided to hear the plea filed by Indian Institute of Technology's LGBT alumni association seeking scrapping of Section 377 of the IPC.",
+"object": {
+"text": "to hear the plea filed by Indian Institute of Technology's LGBT alumni association seeking scrapping of Section 377 of the IPC"
+},
+"action": {
+"verb": {
+"text": "decide",
+"tense": "future"
+},
+"text": "decided",
+"normalized": "decide"
+}
+},
+{
+"subject": {
+"text": "the apex court"
+},
+"sentence": " In May, the apex court decided to hear the plea filed by Indian Institute of Technology's LGBT alumni association seeking scrapping of Section 377 of the IPC.",
+"object": {
+"text": "the plea filed by Indian Institute of Technology's LGBT alumni association seeking scrapping of Section 377 of the IPC"
+},
+"action": {
+"verb": {
+"text": "hear",
+"tense": "future"
+},
+"text": "decided to hear",
+"normalized": "decide to hear"
+}
+},
+{
+"subject": {
+"text": "by Indian Institute of Technology"
+},
+"sentence": " In May, the apex court decided to hear the plea filed by Indian Institute of Technology's LGBT alumni association seeking scrapping of Section 377 of the IPC.",
+"object": {
+"text": "the plea"
+},
+"action": {
+"verb": {
+"text": "file",
+"tense": "past"
+},
+"text": "filed",
+"normalized": "file"
+}
+},
+{
+"subject": {
+"text": "Ashok Rao Kavi of Humsafar Trust and Arif Jaffar"
+},
+"sentence": " Earlier, on April 27, Ashok Rao Kavi of Humsafar Trust and Arif Jaffar also filed petitions against Section 377.",
+"object": {
+"text": "petitions"
+},
+"action": {
+"verb": {
+"text": "file",
+"tense": "past"
+},
+"text": "filed",
+"normalized": "file"
+}
+},
+{
+"subject": {
+"text": "These two pleas"
+},
+"sentence": " These two pleas came just six days after hotelier Keshav Suri, filed a plea in this regard in the top court.",
+"action": {
+"verb": {
+"text": "come",
+"tense": "past"
+},
+"text": "came",
+"normalized": "come"
+}
+},
+{
+"subject": {
+"text": "a plea"
+},
+"sentence": " These two pleas came just six days after hotelier Keshav Suri, filed a plea in this regard in the top court.",
+"object": {
+"text": "in this regard in the top court"
+},
+"action": {
+"verb": {
+"text": "file",
+"tense": "past"
+},
+"text": "filed",
+"normalized": "file"
+}
+},
+{
+"subject": {
+"text": "the apex court on April 23"
+},
+"sentence": " In response to Suri's plea, the apex court on April 23 sought the Centre's reply on the plea seeking scrapping of Section 377.",
+"object": {
+"text": "the Centre's reply on the plea seeking scrapping of Section 377"
+},
+"action": {
+"verb": {
+"text": "seek",
+"tense": "past"
+},
+"text": "sought",
+"normalized": "seek"
+}
+},
+{
+"subject": {
+"text": "The centre"
+},
+"sentence": " The centre replied on July 11, preferring to leave the decision to the ''wisdom of the court''.",
+"action": {
+"verb": {
+"text": "reply",
+"tense": "past"
+},
+"text": "replied",
+"normalized": "reply"
+}
+},
+{
+"subject": {
+"text": "The centre"
+},
+"sentence": " The centre replied on July 11, preferring to leave the decision to the ''wisdom of the court''.",
+"object": {
+"text": "to leave the decision to the ''wisdom of the court''"
+},
+"action": {
+"verb": {
+"text": "prefer",
+"tense": "present"
+},
+"text": "preferring",
+"normalized": "prefer"
+}
+},
+{
+"subject": {
+"text": "The centre"
+},
+"sentence": " The centre replied on July 11, preferring to leave the decision to the ''wisdom of the court''.",
+"object": {
+"text": "the decision"
+},
+"action": {
+"verb": {
+"text": "leave",
+"tense": "future"
+},
+"text": "preferring to leave",
+"normalized": "prefer to leave"
+}
+}
+],
+"relations": [
+{
+"type": "agentOf",
+"sentence": "The SC asked all the counsel who argued for and against 377 to submit written submissions by this Friday.",
+"score": 0.986971,
+"arguments": [
+{
+"text": "who",
+"location": [
+218,
+221
+],
+"entities": [
+{
+"type": "Person",
+"text": "counsel"
+}
+]
+},
+{
+"text": "argued",
+"location": [
+222,
+228
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "argued"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "This, after advocate Manoj George - representing churches- which want gay sex to remain a crime - protested that the SC was rushing through arguments after patiently heard counsel after counsel for the LGBTQ (Lesbian, Gay, Bisexual, Transgender, Queer) community The Centre last Wednesday put the onus of deciding the fate of Section 377 on the Supreme Court.",
+"score": 0.973806,
+"arguments": [
+{
+"text": "Bisexual",
+"location": [
+825,
+833
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Bisexual"
+}
+]
+},
+{
+"text": "Transgender",
+"location": [
+835,
+846
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Transgender"
+}
+]
+}
+]
+},
+{
+"type": "timeOf",
+"sentence": "A day after that, on Thursday, the apex court rejected a demand for a referendum over the constitutional validity of section 377 of the IPC, saying it would not go by majority opinion but be governed by constitutional morality.",
+"score": 0.489739,
+"arguments": [
+{
+"text": "A day after",
+"location": [
+1088,
+1099
+],
+"entities": [
+{
+"type": "Date",
+"text": "A day after"
+}
+]
+},
+{
+"text": "rejected",
+"location": [
+1134,
+1142
+],
+"entities": [
+{
+"type": "EventLegal",
+"text": "rejected"
+}
+]
+}
+]
+},
+{
+"type": "timeOf",
+"sentence": "A day after that, on Thursday, the apex court rejected a demand for a referendum over the constitutional validity of section 377 of the IPC, saying it would not go by majority opinion but be governed by constitutional morality.",
+"score": 0.832605,
+"arguments": [
+{
+"text": "Thursday",
+"location": [
+1109,
+1117
+],
+"entities": [
+{
+"type": "Date",
+"text": "Thursday"
+}
+]
+},
+{
+"text": "rejected",
+"location": [
+1134,
+1142
+],
+"entities": [
+{
+"type": "EventLegal",
+"text": "rejected"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "A day after that, on Thursday, the apex court rejected a demand for a referendum over the constitutional validity of section 377 of the IPC, saying it would not go by majority opinion but be governed by constitutional morality.",
+"score": 0.974369,
+"arguments": [
+{
+"text": "apex court",
+"location": [
+1123,
+1133
+],
+"entities": [
+{
+"type": "Organization",
+"text": "IPC"
+}
+]
+},
+{
+"text": "rejected",
+"location": [
+1134,
+1142
+],
+"entities": [
+{
+"type": "EventLegal",
+"text": "rejected"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "The top court said the social stigma and discrimination attached to the community would go if criminality of consensual gay sex is done away with, even as it maintained that it would scrutinise the legal validity of section 377 of the IPC in all its aspects.",
+"score": 0.908448,
+"arguments": [
+{
+"text": "court",
+"location": [
+1324,
+1329
+],
+"entities": [
+{
+"type": "Organization",
+"text": "IPC"
+}
+]
+},
+{
+"text": "said",
+"location": [
+1330,
+1334
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "timeOf",
+"sentence": "In 2009, the Delhi high court ruled in favour of decriminalising Section 377, only to be reversed by a two-judge SC bench in 2013 in the Suresh Kumar Koushal vs case.",
+"score": 0.796291,
+"arguments": [
+{
+"text": "2009",
+"location": [
+1578,
+1582
+],
+"entities": [
+{
+"type": "Date",
+"text": "2009"
+}
+]
+},
+{
+"text": "ruled",
+"location": [
+1605,
+1610
+],
+"entities": [
+{
+"type": "EventLegal",
+"text": "ruled"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "In 2009, the Delhi high court ruled in favour of decriminalising Section 377, only to be reversed by a two-judge SC bench in 2013 in the Suresh Kumar Koushal vs case.",
+"score": 0.770696,
+"arguments": [
+{
+"text": "high court",
+"location": [
+1594,
+1604
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Delhi"
+}
+]
+},
+{
+"text": "ruled",
+"location": [
+1605,
+1610
+],
+"entities": [
+{
+"type": "EventLegal",
+"text": "ruled"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "In 2009, the Delhi high court ruled in favour of decriminalising Section 377, only to be reversed by a two-judge SC bench in 2013 in the Suresh Kumar Koushal vs case.",
+"score": 0.649531,
+"arguments": [
+{
+"text": "Suresh Kumar Koushal vs",
+"location": [
+1712,
+1735
+],
+"entities": [
+{
+"type": "Person",
+"text": "Suresh Kumar Koushal vs"
+}
+]
+},
+{
+"text": "case",
+"location": [
+1736,
+1740
+],
+"entities": [
+{
+"type": "EventLegal",
+"text": "case"
+}
+]
+}
+]
+},
+{
+"type": "timeOf",
+"sentence": "In May, the apex court decided to hear the plea filed by Indian Institute of Technology's LGBT alumni association seeking scrapping of Section 377 of the IPC.",
+"score": 0.873428,
+"arguments": [
+{
+"text": "May",
+"location": [
+1745,
+1748
+],
+"entities": [
+{
+"type": "Date",
+"text": "May"
+}
+]
+},
+{
+"text": "decided",
+"location": [
+1765,
+1772
+],
+"entities": [
+{
+"type": "EventLegal",
+"text": "decided"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "In May, the apex court decided to hear the plea filed by Indian Institute of Technology's LGBT alumni association seeking scrapping of Section 377 of the IPC.",
+"score": 0.975078,
+"arguments": [
+{
+"text": "apex court",
+"location": [
+1754,
+1764
+],
+"entities": [
+{
+"type": "Organization",
+"text": "IPC"
+}
+]
+},
+{
+"text": "decided",
+"location": [
+1765,
+1772
+],
+"entities": [
+{
+"type": "EventLegal",
+"text": "decided"
+}
+]
+}
+]
+},
+{
+"type": "managerOf",
+"sentence": "A Constitution bench comprising Chief Justice of India (CI) and Justices R F Nariman, A M Khanwilkar, D Y Chandrachud and Indu Malhotra, decided to reserve its verdict last Thursday as well, and agreed to hear the interveners for 90 minutes today, that is Tuesday.",
+"score": 0.452211,
+"arguments": [
+{
+"text": "Chief Justice",
+"location": [
+327,
+340
+],
+"entities": [
+{
+"type": "Person",
+"text": "Chief Justice"
+}
+]
+},
+{
+"text": "India",
+"location": [
+344,
+349
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "India",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "In May, the apex court decided to hear the plea filed by Indian Institute of Technology's LGBT alumni association seeking scrapping of Section 377 of the IPC.",
+"score": 0.416791,
+"arguments": [
+{
+"text": "Indian Institute of Technology",
+"location": [
+1799,
+1829
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Indian Institute of Technology",
+"disambiguation": {
+"subtype": [
+"Educational"
+]
+}
+}
+]
+},
+{
+"text": "decided",
+"location": [
+1765,
+1772
+],
+"entities": [
+{
+"type": "EventLegal",
+"text": "decided"
+}
+]
+}
+]
+},
+{
+"type": "partOf",
+"sentence": "In May, the apex court decided to hear the plea filed by Indian Institute of Technology's LGBT alumni association seeking scrapping of Section 377 of the IPC.",
+"score": 0.64413,
+"arguments": [
+{
+"text": "association",
+"location": [
+1844,
+1855
+],
+"entities": [
+{
+"type": "Organization",
+"text": "association"
+}
+]
+},
+{
+"text": "Indian Institute of Technology",
+"location": [
+1799,
+1829
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Indian Institute of Technology",
+"disambiguation": {
+"subtype": [
+"Educational"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "memberOf",
+"sentence": "In May, the apex court decided to hear the plea filed by Indian Institute of Technology's LGBT alumni association seeking scrapping of Section 377 of the IPC.",
+"score": 0.286506,
+"arguments": [
+{
+"text": "alumni",
+"location": [
+1837,
+1843
+],
+"entities": [
+{
+"type": "Person",
+"text": "alumni"
+}
+]
+},
+{
+"text": "association",
+"location": [
+1844,
+1855
+],
+"entities": [
+{
+"type": "Organization",
+"text": "association"
+}
+]
+}
+]
+},
+{
+"type": "residesIn",
+"sentence": "Earlier, on April 27, Ashok Rao Kavi of Humsafar Trust and Arif Jaffar also filed petitions against Section 377.",
+"score": 0.79278,
+"arguments": [
+{
+"text": "Ashok Rao Kavi",
+"location": [
+1923,
+1937
+],
+"entities": [
+{
+"type": "Person",
+"text": "Ashok Rao Kavi"
+}
+]
+},
+{
+"text": "Humsafar",
+"location": [
+1941,
+1949
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Humsafar"
+}
+]
+}
+]
+},
+{
+"type": "timeOf",
+"sentence": "These two pleas came just six days after hotelier Keshav Suri, filed a plea in this regard in the top court.",
+"score": 0.45567,
+"arguments": [
+{
+"text": "days after",
+"location": [
+2044,
+2054
+],
+"entities": [
+{
+"type": "Date",
+"text": "days after"
+}
+]
+},
+{
+"text": "filed a",
+"location": [
+2077,
+2084
+],
+"entities": [
+{
+"type": "EventLegal",
+"text": "filed a"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "In response to Suri's plea, the apex court on April 23 sought the Centre's reply on the plea seeking scrapping of Section 377.",
+"score": 0.936001,
+"arguments": [
+{
+"text": "Suri",
+"location": [
+2138,
+2142
+],
+"entities": [
+{
+"type": "Person",
+"text": "Keshav Suri"
+}
+]
+},
+{
+"text": "plea",
+"location": [
+2145,
+2149
+],
+"entities": [
+{
+"type": "EventLegal",
+"text": "plea"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "In response to Suri's plea, the apex court on April 23 sought the Centre's reply on the plea seeking scrapping of Section 377.",
+"score": 0.562309,
+"arguments": [
+{
+"text": "apex court",
+"location": [
+2155,
+2165
+],
+"entities": [
+{
+"type": "Organization",
+"text": "IPC"
+}
+]
+},
+{
+"text": "reply",
+"location": [
+2198,
+2203
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "reply"
+}
+]
+}
+]
+},
+{
+"type": "timeOf",
+"sentence": "In response to Suri's plea, the apex court on April 23 sought the Centre's reply on the plea seeking scrapping of Section 377.",
+"score": 0.644946,
+"arguments": [
+{
+"text": "April 23",
+"location": [
+2169,
+2177
+],
+"entities": [
+{
+"type": "Date",
+"text": "April 23"
+}
+]
+},
+{
+"text": "reply",
+"location": [
+2198,
+2203
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "reply"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "In response to Suri's plea, the apex court on April 23 sought the Centre's reply on the plea seeking scrapping of Section 377.",
+"score": 0.445191,
+"arguments": [
+{
+"text": "plea",
+"location": [
+2211,
+2215
+],
+"entities": [
+{
+"type": "EventLegal",
+"text": "plea"
+}
+]
+},
+{
+"text": "Section 377",
+"location": [
+2237,
+2248
+],
+"entities": [
+{
+"type": "Facility",
+"text": "Section 377"
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "A Constitution bench comprising Chief Justice of India (CI) and Justices R F Nariman, A M Khanwilkar, D Y Chandrachud and Indu Malhotra, decided to reserve its verdict last Thursday as well, and agreed to hear the interveners for 90 minutes today, that is Tuesday.",
+"score": 0.837367,
+"arguments": [
+{
+"text": "F Nariman",
+"location": [
+370,
+379
+],
+"entities": [
+{
+"type": "Person",
+"text": "F Nariman"
+}
+]
+},
+{
+"text": "R",
+"location": [
+368,
+369
+],
+"entities": [
+{
+"type": "Organization",
+"text": "R"
+}
+]
+}
+]
+},
+{
+"type": "managerOf",
+"sentence": "A Constitution bench comprising Chief Justice of India (CI) and Justices R F Nariman, A M Khanwilkar, D Y Chandrachud and Indu Malhotra, decided to reserve its verdict last Thursday as well, and agreed to hear the interveners for 90 minutes today, that is Tuesday.",
+"score": 0.338816,
+"arguments": [
+{
+"text": "M Khanwilkar",
+"location": [
+383,
+395
+],
+"entities": [
+{
+"type": "Person",
+"text": "M Khanwilkar"
+}
+]
+},
+{
+"text": "D Y Chandrachud and Indu Malhotra",
+"location": [
+397,
+430
+],
+"entities": [
+{
+"type": "Organization",
+"text": "D Y Chandrachud and Indu Malhotra"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "A Constitution bench comprising Chief Justice of India (CI) and Justices R F Nariman, A M Khanwilkar, D Y Chandrachud and Indu Malhotra, decided to reserve its verdict last Thursday as well, and agreed to hear the interveners for 90 minutes today, that is Tuesday.",
+"score": 0.935464,
+"arguments": [
+{
+"text": "its",
+"location": [
+451,
+454
+],
+"entities": [
+{
+"type": "Organization",
+"text": "its"
+}
+]
+},
+{
+"text": "verdict",
+"location": [
+455,
+462
+],
+"entities": [
+{
+"type": "EventLegal",
+"text": "verdict"
+}
+]
+}
+]
+},
+{
+"type": "timeOf",
+"sentence": "A Constitution bench comprising Chief Justice of India (CI) and Justices R F Nariman, A M Khanwilkar, D Y Chandrachud and Indu Malhotra, decided to reserve its verdict last Thursday as well, and agreed to hear the interveners for 90 minutes today, that is Tuesday.",
+"score": 0.622518,
+"arguments": [
+{
+"text": "last Thursday",
+"location": [
+463,
+476
+],
+"entities": [
+{
+"type": "Date",
+"text": "last Thursday"
+}
+]
+},
+{
+"text": "verdict",
+"location": [
+455,
+462
+],
+"entities": [
+{
+"type": "EventLegal",
+"text": "verdict"
+}
+]
+}
+]
+},
+{
+"type": "managerOf",
+"sentence": "This, after advocate Manoj George - representing churches- which want gay sex to remain a crime - protested that the SC was rushing through arguments after patiently heard counsel after counsel for the LGBTQ (Lesbian, Gay, Bisexual, Transgender, Queer) community The Centre last Wednesday put the onus of deciding the fate of Section 377 on the Supreme Court.",
+"score": 0.532258,
+"arguments": [
+{
+"text": "advocate",
+"location": [
+614,
+622
+],
+"entities": [
+{
+"type": "Person",
+"text": "Manoj George"
+}
+]
+},
+{
+"text": "churches",
+"location": [
+651,
+659
+],
+"entities": [
+{
+"type": "Organization",
+"text": "churches"
+}
+]
+}
+]
+},
+{
+"type": "managerOf",
+"sentence": "This, after advocate Manoj George - representing churches- which want gay sex to remain a crime - protested that the SC was rushing through arguments after patiently heard counsel after counsel for the LGBTQ (Lesbian, Gay, Bisexual, Transgender, Queer) community The Centre last Wednesday put the onus of deciding the fate of Section 377 on the Supreme Court.",
+"score": 0.463332,
+"arguments": [
+{
+"text": "Manoj George",
+"location": [
+623,
+635
+],
+"entities": [
+{
+"type": "Person",
+"text": "Manoj George"
+}
+]
+},
+{
+"text": "churches",
+"location": [
+651,
+659
+],
+"entities": [
+{
+"type": "Organization",
+"text": "churches"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "This, after advocate Manoj George - representing churches- which want gay sex to remain a crime - protested that the SC was rushing through arguments after patiently heard counsel after counsel for the LGBTQ (Lesbian, Gay, Bisexual, Transgender, Queer) community The Centre last Wednesday put the onus of deciding the fate of Section 377 on the Supreme Court.",
+"score": 0.557619,
+"arguments": [
+{
+"text": "Manoj George",
+"location": [
+623,
+635
+],
+"entities": [
+{
+"type": "Person",
+"text": "Manoj George"
+}
+]
+},
+{
+"text": "protested",
+"location": [
+700,
+709
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "protested"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "This, after advocate Manoj George - representing churches- which want gay sex to remain a crime - protested that the SC was rushing through arguments after patiently heard counsel after counsel for the LGBTQ (Lesbian, Gay, Bisexual, Transgender, Queer) community The Centre last Wednesday put the onus of deciding the fate of Section 377 on the Supreme Court.",
+"score": 0.970253,
+"arguments": [
+{
+"text": "Gay",
+"location": [
+820,
+823
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Gay"
+}
+]
+},
+{
+"text": "Bisexual",
+"location": [
+825,
+833
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Bisexual"
+}
+]
+}
+]
+}
+],
+"language": "en",
+"keywords": [
+{
+"text": "gay sex",
+"sentiment": {
+"score": -0.662738,
+"label": "negative"
+},
+"relevance": 0.981141,
+"emotion": {
+"sadness": 0.490642,
+"joy": 0.018594,
+"fear": 0.253482,
+"disgust": 0.341784,
+"anger": 0.243087
+}
+},
+{
+"text": "apex court",
+"sentiment": {
+"score": -0.566044,
+"label": "negative"
+},
+"relevance": 0.897124,
+"emotion": {
+"sadness": 0.473313,
+"joy": 0.10027,
+"fear": 0.101946,
+"disgust": 0.148178,
+"anger": 0.285569
+}
+},
+{
+"text": "Indian Penal Code",
+"sentiment": {
+"score": -0.346495,
+"label": "negative"
+},
+"relevance": 0.813736,
+"emotion": {
+"sadness": 0.208116,
+"joy": 0.182823,
+"fear": 0.083209,
+"disgust": 0.010898,
+"anger": 0.047546
+}
+},
+{
+"text": "patiently heard counsel",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.788828,
+"emotion": {
+"sadness": 0.177379,
+"joy": 0.009141,
+"fear": 0.345713,
+"disgust": 0.200237,
+"anger": 0.448904
+}
+},
+{
+"text": "advocate Manoj George",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.786802,
+"emotion": {
+"sadness": 0.20242,
+"joy": 0.156702,
+"fear": 0.06538,
+"disgust": 0.169947,
+"anger": 0.095488
+}
+}
+],
+"entities": [
+{
+"type": "Organization",
+"text": "apex court",
+"sentiment": {
+"score": -0.566044,
+"label": "negative"
+},
+"relevance": 0.956648,
+"emotion": {
+"sadness": 0.473313,
+"joy": 0.10027,
+"fear": 0.101946,
+"disgust": 0.148178,
+"anger": 0.285569
+},
+"count": 3
+},
+{
+"type": "Organization",
+"text": "Delhi high court",
+"sentiment": {
+"score": 0.699569,
+"label": "positive"
+},
+"relevance": 0.834546,
+"emotion": {
+"sadness": 0.201155,
+"joy": 0.500149,
+"fear": 0.083091,
+"disgust": 0.0455,
+"anger": 0.185492
+},
+"disambiguation": {
+"subtype": [
+"Location",
+"Facility"
+],
+"name": "Delhi High Court",
+"dbpedia_resource": "http://dbpedia.org/resource/Delhi_High_Court"
+},
+"count": 2
+},
+{
+"type": "Organization",
+"text": "IPC",
+"sentiment": {
+"score": -0.612373,
+"label": "negative"
+},
+"relevance": 0.820679,
+"emotion": {
+"sadness": 0.534568,
+"joy": 0.051903,
+"fear": 0.137505,
+"disgust": 0.15421,
+"anger": 0.30322
+},
+"count": 3
+},
+{
+"type": "Organization",
+"text": "SC",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.772484,
+"emotion": {
+"sadness": 0.202892,
+"joy": 0.017523,
+"fear": 0.29744,
+"disgust": 0.028675,
+"anger": 0.461903
+},
+"count": 3
+},
+{
+"type": "Organization",
+"text": "Supreme Court",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.56964,
+"emotion": {
+"sadness": 0.539374,
+"joy": 0.21437,
+"fear": 0.088972,
+"disgust": 0.034104,
+"anger": 0.229045
+},
+"disambiguation": {
+"subtype": [
+"GovernmentalBody"
+],
+"name": "Supreme Court of Canada",
+"dbpedia_resource": "http://dbpedia.org/resource/Supreme_Court_of_Canada"
+},
+"count": 1
+}
+],
+"concepts": [
+{
+"text": "Homosexuality",
+"relevance": 0.958527,
+"dbpedia_resource": "http://dbpedia.org/resource/Homosexuality"
+},
+{
+"text": "LGBT",
+"relevance": 0.865587,
+"dbpedia_resource": "http://dbpedia.org/resource/LGBT"
+},
+{
+"text": "Supreme Court of the United States",
+"relevance": 0.765162,
+"dbpedia_resource": "http://dbpedia.org/resource/Supreme_Court_of_the_United_States"
+},
+{
+"text": "Jury",
+"relevance": 0.703613,
+"dbpedia_resource": "http://dbpedia.org/resource/Jury"
+},
+{
+"text": "Queer",
+"relevance": 0.687279,
+"dbpedia_resource": "http://dbpedia.org/resource/Queer"
+}
+],
+"categories": [
+{
+"score": 0.559971,
+"label": "/law, govt and politics"
+},
+{
+"score": 0.31312,
+"label": "/science/ecology/waste management/recycling"
+},
+{
+"score": 0.246497,
+"label": "/law, govt and politics/law enforcement/police"
+}
+]
+}
+}

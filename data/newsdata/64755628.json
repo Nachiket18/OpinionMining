@@ -1,0 +1,863 @@
+{
+"source_article_link": "https://timesofindia.indiatimes.com/india/cisf-uses-metal-detector-to-frisk-pregnant-flyer/articleshow/64755628.cms?&utm_source=Articleshow&utm_medium=Organic&utm_campaign=Related_Stories",
+"title": "CISF uses metal detector to frisk pregnant flyer",
+"date_published": "2018-06-27T04:55:26+05:30",
+"source_type": "news_article",
+"source_name": "timesofindia.indiatimes.com",
+"image_link": [],
+"article_body": "GUWAHATI: The has launched a probe into reports of a pregnant woman being frisked on Sunday by using a metal detector at the Lokpriya International (LGBI) here. The incident took place when the woman and her husband reached the airport to board a plane to Delhi. Sources at the airport said that a woman CISF officer frisked her allegedly by using a metal detector. A metal detector is not supposed to be used on any expecting mother as it can harm the fetus. Director of LGBI Airport BK Tailong said the incident took place during a routine security check at the airport where several smuggling attempts were foiled recently. \u201cOn the pretext of pregnancy, lots of illegal activities are being carried out. Frisking of the pregnant woman was a precautionary measure. The on-duty CISF officials have apologised for the incident,\u201d he said",
+"description": "GUWAHATI: The has launched a probe into reports of a pregnant woman being frisked on Sunday by using a metal detector at the Lokpriya International (LGBI) here. The incident took place when the woman and her husband reached the airport to board a plane to Delhi. Sources at the airport said that a woman CISF officer frisked her allegedly by using a metal detector.",
+"time_scraped": "2018-08-24 09:02:44.775489",
+"article_id": "64755628",
+"article_category": "IndiaNews",
+"image_details": [],
+"ibm_nlu": {
+"usage": {
+"text_units": 1,
+"text_characters": 836,
+"features": 7
+},
+"sentiment": {
+"document": {
+"score": -0.476725,
+"label": "negative"
+}
+},
+"semantic_roles": [
+{
+"subject": {
+"text": "The"
+},
+"sentence": "GUWAHATI: The has launched a probe into reports of a pregnant woman being frisked on Sunday by using a metal detector at the Lokpriya International (LGBI) here.",
+"object": {
+"text": "a probe into reports of a pregnant woman being frisked"
+},
+"action": {
+"verb": {
+"text": "launch",
+"tense": "past"
+},
+"text": "has launched",
+"normalized": "have launch"
+}
+},
+{
+"subject": {
+"text": "a pregnant woman"
+},
+"sentence": "GUWAHATI: The has launched a probe into reports of a pregnant woman being frisked on Sunday by using a metal detector at the Lokpriya International (LGBI) here.",
+"action": {
+"verb": {
+"text": "frisk",
+"tense": "past"
+},
+"text": "being frisked",
+"normalized": "be frisk"
+}
+},
+{
+"subject": {
+"text": "a pregnant woman"
+},
+"sentence": "GUWAHATI: The has launched a probe into reports of a pregnant woman being frisked on Sunday by using a metal detector at the Lokpriya International (LGBI) here.",
+"object": {
+"text": "a metal detector"
+},
+"action": {
+"verb": {
+"text": "use",
+"tense": "present"
+},
+"text": "using",
+"normalized": "use"
+}
+},
+{
+"subject": {
+"text": "The incident"
+},
+"sentence": " The incident took place when the woman and her husband reached the airport to board a plane to Delhi.",
+"object": {
+"text": "place"
+},
+"action": {
+"verb": {
+"text": "take",
+"tense": "past"
+},
+"text": "took",
+"normalized": "take"
+}
+},
+{
+"subject": {
+"text": "the woman and her husband"
+},
+"sentence": " The incident took place when the woman and her husband reached the airport to board a plane to Delhi.",
+"object": {
+"text": "the airport"
+},
+"action": {
+"verb": {
+"text": "reach",
+"tense": "past"
+},
+"text": "reached",
+"normalized": "reach"
+}
+},
+{
+"subject": {
+"text": "the woman and her husband"
+},
+"sentence": " The incident took place when the woman and her husband reached the airport to board a plane to Delhi.",
+"object": {
+"text": "a plane"
+},
+"action": {
+"verb": {
+"text": "board",
+"tense": "future"
+},
+"text": "to board",
+"normalized": "to board"
+}
+},
+{
+"subject": {
+"text": "Sources at the airport"
+},
+"sentence": " Sources at the airport said that a woman CISF officer frisked her allegedly by using a metal detector.",
+"object": {
+"text": "that a woman CISF officer frisked her allegedly by using a metal detector"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "a woman CISF officer"
+},
+"sentence": " Sources at the airport said that a woman CISF officer frisked her allegedly by using a metal detector.",
+"object": {
+"text": "a metal detector"
+},
+"action": {
+"verb": {
+"text": "use",
+"tense": "present"
+},
+"text": "using",
+"normalized": "use"
+}
+},
+{
+"subject": {
+"text": "A metal detector"
+},
+"sentence": " A metal detector is not supposed to be used on any expecting mother as it can harm the fetus.",
+"object": {
+"text": "not supposed to be used on any expecting mother as it can harm the fetus"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "present"
+},
+"text": "is",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "A metal detector"
+},
+"sentence": " A metal detector is not supposed to be used on any expecting mother as it can harm the fetus.",
+"object": {
+"text": "to be used on any expecting mother as it can harm the fetus"
+},
+"action": {
+"verb": {
+"text": "suppose",
+"tense": "past",
+"negated": true
+},
+"text": "supposed",
+"normalized": "suppose"
+}
+},
+{
+"subject": {
+"text": "Director of LGBI Airport BK Tailong"
+},
+"sentence": " Director of LGBI Airport BK Tailong said the incident took place during a routine security check at the airport where several smuggling attempts were foiled recently.",
+"object": {
+"text": "the incident took place during a routine security check at the airport where several smuggling attempts were foiled recently"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "several smuggling attempts"
+},
+"sentence": " Director of LGBI Airport BK Tailong said the incident took place during a routine security check at the airport where several smuggling attempts were foiled recently.",
+"action": {
+"verb": {
+"text": "foil",
+"tense": "past"
+},
+"text": "were foiled",
+"normalized": "be foil"
+}
+},
+{
+"subject": {
+"text": "Frisking of the pregnant woman"
+},
+"sentence": " Frisking of the pregnant woman was a precautionary measure.",
+"object": {
+"text": "a precautionary measure"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "was",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "The on-duty CISF officials"
+},
+"sentence": " The on-duty CISF officials have apologised for the incident,\u201d he said",
+"object": {
+"text": "for the incident"
+},
+"action": {
+"verb": {
+"text": "apologise",
+"tense": "past"
+},
+"text": "have apologised",
+"normalized": "have apologise"
+}
+},
+{
+"subject": {
+"text": "he"
+},
+"sentence": " The on-duty CISF officials have apologised for the incident,\u201d he said",
+"object": {
+"text": "The on-duty CISF officials have apologised for the incident"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+}
+],
+"relations": [
+{
+"type": "affectedBy",
+"sentence": "GUWAHATI: The has launched a probe into reports of a pregnant woman being frisked on Sunday by using a metal detector at the Lokpriya International (LGBI) here.",
+"score": 0.688726,
+"arguments": [
+{
+"text": "woman",
+"location": [
+62,
+67
+],
+"entities": [
+{
+"type": "Person",
+"text": "officer"
+}
+]
+},
+{
+"text": "probe",
+"location": [
+29,
+34
+],
+"entities": [
+{
+"type": "EventLegal",
+"text": "probe"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Director of LGBI Airport BK Tailong said the incident took place during a routine security check at the airport where several smuggling attempts were foiled recently.",
+"score": 0.535511,
+"arguments": [
+{
+"text": "LGBI Airport BK Tailong",
+"location": [
+472,
+495
+],
+"entities": [
+{
+"type": "Organization",
+"text": "LGBI Airport BK Tailong"
+}
+]
+},
+{
+"text": "said",
+"location": [
+496,
+500
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "The on-duty CISF officials have apologised for the incident,\" he said",
+"score": 0.983071,
+"arguments": [
+{
+"text": "he",
+"location": [
+829,
+831
+],
+"entities": [
+{
+"type": "Person",
+"text": "he"
+}
+]
+},
+{
+"text": "said",
+"location": [
+832,
+836
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "timeOf",
+"sentence": "GUWAHATI: The has launched a probe into reports of a pregnant woman being frisked on Sunday by using a metal detector at the Lokpriya International (LGBI) here.",
+"score": 0.604508,
+"arguments": [
+{
+"text": "Sunday",
+"location": [
+85,
+91
+],
+"entities": [
+{
+"type": "Date",
+"text": "Sunday"
+}
+]
+},
+{
+"text": "probe",
+"location": [
+29,
+34
+],
+"entities": [
+{
+"type": "EventLegal",
+"text": "probe"
+}
+]
+}
+]
+},
+{
+"type": "spouseOf",
+"sentence": "The incident took place when the woman and her husband reached the airport to board a plane to Delhi.",
+"score": 0.742506,
+"arguments": [
+{
+"text": "her",
+"location": [
+204,
+207
+],
+"entities": [
+{
+"type": "Person",
+"text": "officer"
+}
+]
+},
+{
+"text": "husband",
+"location": [
+208,
+215
+],
+"entities": [
+{
+"type": "Person",
+"text": "husband"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "The incident took place when the woman and her husband reached the airport to board a plane to Delhi.",
+"score": 0.607537,
+"arguments": [
+{
+"text": "husband",
+"location": [
+208,
+215
+],
+"entities": [
+{
+"type": "Person",
+"text": "husband"
+}
+]
+},
+{
+"text": "plane",
+"location": [
+247,
+252
+],
+"entities": [
+{
+"type": "Vehicle",
+"text": "plane"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "The incident took place when the woman and her husband reached the airport to board a plane to Delhi.",
+"score": 0.90577,
+"arguments": [
+{
+"text": "plane",
+"location": [
+247,
+252
+],
+"entities": [
+{
+"type": "Vehicle",
+"text": "plane"
+}
+]
+},
+{
+"text": "Delhi",
+"location": [
+256,
+261
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Delhi"
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "Sources at the airport said that a woman CISF officer frisked her allegedly by using a metal detector.",
+"score": 0.478723,
+"arguments": [
+{
+"text": "Sources",
+"location": [
+263,
+270
+],
+"entities": [
+{
+"type": "Person",
+"text": "Sources"
+}
+]
+},
+{
+"text": "airport",
+"location": [
+278,
+285
+],
+"entities": [
+{
+"type": "Organization",
+"text": "LGBI Airport BK Tailong"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Sources at the airport said that a woman CISF officer frisked her allegedly by using a metal detector.",
+"score": 0.670285,
+"arguments": [
+{
+"text": "Sources",
+"location": [
+263,
+270
+],
+"entities": [
+{
+"type": "Person",
+"text": "Sources"
+}
+]
+},
+{
+"text": "said",
+"location": [
+286,
+290
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "managerOf",
+"sentence": "Director of LGBI Airport BK Tailong said the incident took place during a routine security check at the airport where several smuggling attempts were foiled recently.",
+"score": 0.533343,
+"arguments": [
+{
+"text": "Director",
+"location": [
+460,
+468
+],
+"entities": [
+{
+"type": "Person",
+"text": "Director"
+}
+]
+},
+{
+"text": "LGBI Airport BK Tailong",
+"location": [
+472,
+495
+],
+"entities": [
+{
+"type": "Organization",
+"text": "LGBI Airport BK Tailong"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Director of LGBI Airport BK Tailong said the incident took place during a routine security check at the airport where several smuggling attempts were foiled recently.",
+"score": 0.641816,
+"arguments": [
+{
+"text": "Director",
+"location": [
+460,
+468
+],
+"entities": [
+{
+"type": "Person",
+"text": "Director"
+}
+]
+},
+{
+"text": "said",
+"location": [
+496,
+500
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+}
+],
+"language": "en",
+"keywords": [
+{
+"text": "metal detector",
+"sentiment": {
+"score": -0.690916,
+"label": "negative"
+},
+"relevance": 0.992005,
+"emotion": {
+"sadness": 0.432931,
+"joy": 0.155672,
+"fear": 0.284414,
+"disgust": 0.255225,
+"anger": 0.078844
+}
+},
+{
+"text": "Airport BK Tailong",
+"sentiment": {
+"score": -0.529307,
+"label": "negative"
+},
+"relevance": 0.823928,
+"emotion": {
+"sadness": 0.610491,
+"joy": 0.037068,
+"fear": 0.135826,
+"disgust": 0.225799,
+"anger": 0.272492
+}
+},
+{
+"text": "pregnant woman",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.815583,
+"emotion": {
+"sadness": 0.244889,
+"joy": 0.366341,
+"fear": 0.087658,
+"disgust": 0.114334,
+"anger": 0.007409
+}
+},
+{
+"text": "routine security check",
+"sentiment": {
+"score": -0.529307,
+"label": "negative"
+},
+"relevance": 0.77188,
+"emotion": {
+"sadness": 0.610491,
+"joy": 0.037068,
+"fear": 0.135826,
+"disgust": 0.225799,
+"anger": 0.272492
+}
+},
+{
+"text": "woman CISF officer",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.765619,
+"emotion": {
+"sadness": 0.281029,
+"joy": 0.080326,
+"fear": 0.399642,
+"disgust": 0.281419,
+"anger": 0.24598
+}
+}
+],
+"entities": [
+{
+"type": "Location",
+"text": "GUWAHATI",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.879551,
+"emotion": {
+"sadness": 0.0,
+"joy": 0.0,
+"fear": 0.0,
+"disgust": 0.0,
+"anger": 0.0
+},
+"disambiguation": {
+"subtype": [
+"IndianCity",
+"City"
+],
+"name": "Guwahati",
+"dbpedia_resource": "http://dbpedia.org/resource/Guwahati"
+},
+"count": 1
+},
+{
+"type": "Person",
+"text": "Tailong",
+"sentiment": {
+"score": -0.529307,
+"label": "negative"
+},
+"relevance": 0.763559,
+"emotion": {
+"sadness": 0.610491,
+"joy": 0.037068,
+"fear": 0.135826,
+"disgust": 0.225799,
+"anger": 0.272492
+},
+"count": 1
+},
+{
+"type": "Location",
+"text": "Delhi",
+"sentiment": {
+"score": -0.455979,
+"label": "negative"
+},
+"relevance": 0.700913,
+"emotion": {
+"sadness": 0.236932,
+"joy": 0.06374,
+"fear": 0.077432,
+"disgust": 0.452719,
+"anger": 0.245846
+},
+"disambiguation": {
+"subtype": [
+"City"
+]
+},
+"count": 1
+},
+{
+"type": "Organization",
+"text": "Lokpriya International",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.649269,
+"emotion": {
+"sadness": 0.282616,
+"joy": 0.416367,
+"fear": 0.064527,
+"disgust": 0.046433,
+"anger": 0.004316
+},
+"count": 1
+},
+{
+"type": "Organization",
+"text": "LGBI",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.642955,
+"emotion": {
+"sadness": 0.0,
+"joy": 0.0,
+"fear": 0.0,
+"disgust": 0.0,
+"anger": 0.0
+},
+"count": 1
+}
+],
+"concepts": [
+{
+"text": "Pregnancy",
+"relevance": 0.974669,
+"dbpedia_resource": "http://dbpedia.org/resource/Pregnancy"
+},
+{
+"text": "Abortion",
+"relevance": 0.94749,
+"dbpedia_resource": "http://dbpedia.org/resource/Abortion"
+},
+{
+"text": "Uterus",
+"relevance": 0.818882,
+"dbpedia_resource": "http://dbpedia.org/resource/Uterus"
+},
+{
+"text": "Fetus",
+"relevance": 0.811542,
+"dbpedia_resource": "http://dbpedia.org/resource/Fetus"
+},
+{
+"text": "Childbirth",
+"relevance": 0.792824,
+"dbpedia_resource": "http://dbpedia.org/resource/Childbirth"
+}
+],
+"categories": [
+{
+"score": 0.593146,
+"label": "/family and parenting/motherhood/pregnancy"
+},
+{
+"score": 0.409318,
+"label": "/law, govt and politics/law enforcement/police"
+},
+{
+"score": 0.291414,
+"label": "/travel/transports/air travel/airports"
+}
+]
+}
+}

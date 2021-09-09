@@ -1,0 +1,1142 @@
+{
+"source_article_link": "https://timesofindia.indiatimes.com/india/moviegoers-can-carry-food-into-multiplexes-maharashtra-govt/articleshow/64982504.cms?&utm_source=Articleshow&utm_medium=Organic&utm_campaign=Related_Stories",
+"title": "Moviegoers can carry food into multiplexes: Maharashtra govt",
+"date_published": "2018-07-14T03:15:07+05:30",
+"source_type": "news_article",
+"source_name": "timesofindia.indiatimes.com",
+"image_link": [
+"https://timesofindia.indiatimes.com/thumb/msid-64982506,imgsize-403721,width-400,resizemode-4/64982506.jpg"
+],
+"article_body": "MUMBAI: The government said on Friday that moviegoers cannot be stopped from carrying outside food into multiplexes, and from next month, it will impose a ban on dual MRP for packaged food and drinks. Ravindra Chavan, junior minister for food and civil supplies, said according to the Maharashtra Cinemas (Regulation) Rules, 1966, cinemas cannot prohibit consumers from carrying food. The ban on dual pricing \u2014 the practice of charging different MRPs for the same product in different places \u2014 will be implemented from August 1. Chavan was replying to a calling attention motion moved by leader of the opposition Dhananjay Munde in the legislative council. The measure, if implemented, will bring relief to consumers who face exorbitant charges for snacks and soft drinks in multiplexes. But there is concern over whether the laws cover this issue. Officials from the food department said the 1966 rules the minister is talking about are silent on taking food inside an establishment. The Multiplex Association of India said they had not received any order and said the matter is sub judice. The Bombay HC is hearing a PIL filed by Jainendra Baxi on multiplexes barring outside food and charging steeply for snacks, seeking to \u201cenforce the right to life of a cinema-goer\u2019\u2019. The HC has asked the state to file an affidavit in four weeks.",
+"description": "The government said it will also impose a ban on dual MRP for packaged food and drinks The measure, if implemented, will bring relief to consumers who face exorbitant charges for food in multiplexes The Multiplex Association of India said they had not received any order and said the matter is sub judice",
+"time_scraped": "2018-08-24 12:01:42.152843",
+"article_id": "64982504",
+"article_category": "IndiaNews",
+"image_details": [
+{
+"url": "https://timesofindia.indiatimes.com/thumb/msid-64982506,imgsize-403721,width-400,resizemode-4/64982506.jpg",
+"path": "full/8039294a284f938dfad3eda4cdcb1a1dbb996620.jpg",
+"checksum": "429b0ac7821956b5c9d284a886fd3baf"
+}
+],
+"ibm_nlu": {
+"usage": {
+"text_units": 1,
+"text_characters": 1336,
+"features": 7
+},
+"sentiment": {
+"document": {
+"score": -0.612426,
+"label": "negative"
+}
+},
+"semantic_roles": [
+{
+"subject": {
+"text": "The government"
+},
+"sentence": "MUMBAI: The government said on Friday that moviegoers cannot be stopped from carrying outside food into multiplexes, and from next month, it will impose a ban on dual MRP for packaged food and drinks.",
+"object": {
+"text": "that moviegoers cannot be stopped from carrying outside food into multiplexes, and from next month, it will impose a ban on dual MRP for packaged food and drinks"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "moviegoers"
+},
+"sentence": "MUMBAI: The government said on Friday that moviegoers cannot be stopped from carrying outside food into multiplexes, and from next month, it will impose a ban on dual MRP for packaged food and drinks.",
+"object": {
+"text": "outside food"
+},
+"action": {
+"verb": {
+"text": "carry",
+"tense": "future"
+},
+"text": "carrying",
+"normalized": "carry"
+}
+},
+{
+"subject": {
+"text": "Ravindra Chavan, junior minister for food and civil supplies"
+},
+"sentence": " Ravindra Chavan, junior minister for food and civil supplies, said according to the Maharashtra Cinemas (Regulation) Rules, 1966, cinemas cannot prohibit consumers from carrying food.",
+"object": {
+"text": "to the Maharashtra Cinemas (Regulation) Rules, 1966, cinemas"
+},
+"action": {
+"verb": {
+"text": "accord",
+"tense": "present"
+},
+"text": "according",
+"normalized": "accord"
+}
+},
+{
+"subject": {
+"text": "cinemas"
+},
+"sentence": " Ravindra Chavan, junior minister for food and civil supplies, said according to the Maharashtra Cinemas (Regulation) Rules, 1966, cinemas cannot prohibit consumers from carrying food.",
+"object": {
+"text": "consumers"
+},
+"action": {
+"verb": {
+"text": "prohibit",
+"tense": "future",
+"negated": true
+},
+"text": "prohibit",
+"normalized": "prohibit"
+}
+},
+{
+"subject": {
+"text": "consumers"
+},
+"sentence": " Ravindra Chavan, junior minister for food and civil supplies, said according to the Maharashtra Cinemas (Regulation) Rules, 1966, cinemas cannot prohibit consumers from carrying food.",
+"object": {
+"text": "food"
+},
+"action": {
+"verb": {
+"text": "carry",
+"tense": "future"
+},
+"text": "carrying",
+"normalized": "carry"
+}
+},
+{
+"subject": {
+"text": "different MRPs"
+},
+"sentence": " The ban on dual pricing \u2014 the practice of charging different MRPs for the same product in different places \u2014 will be implemented from August 1.",
+"object": {
+"text": "for the same product"
+},
+"action": {
+"verb": {
+"text": "charge",
+"tense": "future"
+},
+"text": "charging",
+"normalized": "charge"
+}
+},
+{
+"subject": {
+"text": "Chavan"
+},
+"sentence": " Chavan was replying to a calling attention motion moved by leader of the opposition Dhananjay Munde in the legislative council.",
+"object": {
+"text": "to a calling attention motion moved by leader of the opposition Dhananjay Munde in the legislative council"
+},
+"action": {
+"verb": {
+"text": "reply",
+"tense": "past"
+},
+"text": "was replying",
+"normalized": "be reply"
+}
+},
+{
+"subject": {
+"text": "by leader"
+},
+"sentence": " Chavan was replying to a calling attention motion moved by leader of the opposition Dhananjay Munde in the legislative council.",
+"object": {
+"text": "a calling attention motion"
+},
+"action": {
+"verb": {
+"text": "move",
+"tense": "past"
+},
+"text": "moved",
+"normalized": "move"
+}
+},
+{
+"subject": {
+"text": "The measure, if implemented,"
+},
+"sentence": " The measure, if implemented, will bring relief to consumers who face exorbitant charges for snacks and soft drinks in multiplexes.",
+"object": {
+"text": "relief"
+},
+"action": {
+"verb": {
+"text": "bring",
+"tense": "future"
+},
+"text": "will bring",
+"normalized": "will bring"
+}
+},
+{
+"subject": {
+"text": "consumers"
+},
+"sentence": " The measure, if implemented, will bring relief to consumers who face exorbitant charges for snacks and soft drinks in multiplexes.",
+"object": {
+"text": "exorbitant charges for snacks and soft drinks"
+},
+"action": {
+"verb": {
+"text": "face",
+"tense": "present"
+},
+"text": "face",
+"normalized": "face"
+}
+},
+{
+"subject": {
+"text": "concern"
+},
+"sentence": " But there is concern over whether the laws cover this issue.",
+"object": {
+"text": "over whether the laws cover this issue"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "present"
+},
+"text": "is",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "this issue"
+},
+"sentence": " But there is concern over whether the laws cover this issue.",
+"object": {
+"text": "the laws"
+},
+"action": {
+"verb": {
+"text": "cover",
+"tense": "present"
+},
+"text": "cover",
+"normalized": "cover"
+}
+},
+{
+"subject": {
+"text": "Officials from the food department"
+},
+"sentence": " Officials from the food department said the 1966 rules the minister is talking about are silent on taking food inside an establishment.",
+"object": {
+"text": "the 1966 rules the minister is talking about are silent on taking food inside an establishment"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "the minister"
+},
+"sentence": " Officials from the food department said the 1966 rules the minister is talking about are silent on taking food inside an establishment.",
+"object": {
+"text": "the 1966 rules"
+},
+"action": {
+"verb": {
+"text": "talk",
+"tense": "present"
+},
+"text": "is talking",
+"normalized": "be talk"
+}
+},
+{
+"subject": {
+"text": "the 1966 rules"
+},
+"sentence": " Officials from the food department said the 1966 rules the minister is talking about are silent on taking food inside an establishment.",
+"object": {
+"text": "silent on taking food inside an establishment"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "present"
+},
+"text": "are",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "the 1966 rules the minister"
+},
+"sentence": " Officials from the food department said the 1966 rules the minister is talking about are silent on taking food inside an establishment.",
+"object": {
+"text": "food"
+},
+"action": {
+"verb": {
+"text": "take",
+"tense": "future"
+},
+"text": "taking",
+"normalized": "take"
+}
+},
+{
+"subject": {
+"text": "The Multiplex Association of India"
+},
+"sentence": " The Multiplex Association of India said they had not received any order and said the matter is sub judice.",
+"object": {
+"text": "they had not received any order"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "they"
+},
+"sentence": " The Multiplex Association of India said they had not received any order and said the matter is sub judice.",
+"object": {
+"text": "any order"
+},
+"action": {
+"verb": {
+"text": "receive",
+"tense": "past",
+"negated": true
+},
+"text": "received",
+"normalized": "receive"
+}
+},
+{
+"subject": {
+"text": "they"
+},
+"sentence": " The Multiplex Association of India said they had not received any order and said the matter is sub judice.",
+"object": {
+"text": "the matter is sub judice"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "The Bombay HC"
+},
+"sentence": " The Bombay HC is hearing a PIL filed by Jainendra Baxi on multiplexes barring outside food and charging steeply for snacks, seeking to \u201cenforce the right to life of a cinema-goer\u2019\u2019.",
+"object": {
+"text": "hearing a PIL filed"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "present"
+},
+"text": "is",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "The Bombay HC"
+},
+"sentence": " The Bombay HC is hearing a PIL filed by Jainendra Baxi on multiplexes barring outside food and charging steeply for snacks, seeking to \u201cenforce the right to life of a cinema-goer\u2019\u2019.",
+"object": {
+"text": "a PIL filed"
+},
+"action": {
+"verb": {
+"text": "hear",
+"tense": "present"
+},
+"text": "is hearing",
+"normalized": "be hear"
+}
+},
+{
+"subject": {
+"text": "by Jainendra Baxi"
+},
+"sentence": " The Bombay HC is hearing a PIL filed by Jainendra Baxi on multiplexes barring outside food and charging steeply for snacks, seeking to \u201cenforce the right to life of a cinema-goer\u2019\u2019.",
+"object": {
+"text": "a PIL"
+},
+"action": {
+"verb": {
+"text": "file",
+"tense": "past"
+},
+"text": "filed",
+"normalized": "file"
+}
+},
+{
+"subject": {
+"text": "a PIL"
+},
+"sentence": " The Bombay HC is hearing a PIL filed by Jainendra Baxi on multiplexes barring outside food and charging steeply for snacks, seeking to \u201cenforce the right to life of a cinema-goer\u2019\u2019.",
+"object": {
+"text": "to \u201cenforce the right to life of a cinema-goer\u2019\u2019"
+},
+"action": {
+"verb": {
+"text": "seek",
+"tense": "present"
+},
+"text": "seeking",
+"normalized": "seek"
+}
+},
+{
+"subject": {
+"text": "The HC"
+},
+"sentence": " The HC has asked the state to file an affidavit in four weeks.",
+"object": {
+"text": "to file an affidavit"
+},
+"action": {
+"verb": {
+"text": "ask",
+"tense": "past"
+},
+"text": "has asked",
+"normalized": "have ask"
+}
+}
+],
+"relations": [
+{
+"type": "locatedAt",
+"sentence": "MUMBAI: The government said on Friday that moviegoers cannot be stopped from carrying outside food into multiplexes, and from next month, it will impose a ban on dual MRP for packaged food and drinks.",
+"score": 0.468371,
+"arguments": [
+{
+"text": "government",
+"location": [
+12,
+22
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "government",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+},
+{
+"text": "MUMBAI",
+"location": [
+0,
+6
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "MUMBAI"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Officials from the food department said the 1966 rules the minister is talking about are silent on taking food inside an establishment.",
+"score": 0.634895,
+"arguments": [
+{
+"text": "minister",
+"location": [
+908,
+916
+],
+"entities": [
+{
+"type": "Person",
+"text": "minister"
+}
+]
+},
+{
+"text": "talking",
+"location": [
+920,
+927
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "talking"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "The Multiplex Association of India said they had not received any order and said the matter is sub judice.",
+"score": 0.944724,
+"arguments": [
+{
+"text": "Multiplex Association of India",
+"location": [
+989,
+1019
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Multiplex Association of India"
+}
+]
+},
+{
+"text": "said",
+"location": [
+1020,
+1024
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "The Multiplex Association of India said they had not received any order and said the matter is sub judice.",
+"score": 0.676753,
+"arguments": [
+{
+"text": "they",
+"location": [
+1025,
+1029
+],
+"entities": [
+{
+"type": "Person",
+"text": "moviegoers"
+}
+]
+},
+{
+"text": "said",
+"location": [
+1061,
+1065
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "The HC has asked the state to file an affidavit in four weeks.",
+"score": 0.843847,
+"arguments": [
+{
+"text": "HC",
+"location": [
+1278,
+1280
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Bombay HC",
+"disambiguation": {
+"subtype": [
+"Commercial"
+]
+}
+}
+]
+},
+{
+"text": "asked",
+"location": [
+1285,
+1290
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "asked"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "The HC has asked the state to file an affidavit in four weeks.",
+"score": 0.921976,
+"arguments": [
+{
+"text": "state",
+"location": [
+1295,
+1300
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Multiplex Association of India"
+}
+]
+},
+{
+"text": "asked",
+"location": [
+1285,
+1290
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "asked"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "MUMBAI: The government said on Friday that moviegoers cannot be stopped from carrying outside food into multiplexes, and from next month, it will impose a ban on dual MRP for packaged food and drinks.",
+"score": 0.991093,
+"arguments": [
+{
+"text": "government",
+"location": [
+12,
+22
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "government",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+},
+{
+"text": "said",
+"location": [
+23,
+27
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "timeOf",
+"sentence": "MUMBAI: The government said on Friday that moviegoers cannot be stopped from carrying outside food into multiplexes, and from next month, it will impose a ban on dual MRP for packaged food and drinks.",
+"score": 0.952219,
+"arguments": [
+{
+"text": "Friday",
+"location": [
+31,
+37
+],
+"entities": [
+{
+"type": "Date",
+"text": "Friday"
+}
+]
+},
+{
+"text": "said",
+"location": [
+23,
+27
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Ravindra Chavan, junior minister for food and civil supplies, said according to the Maharashtra Cinemas (Regulation) Rules, 1966, cinemas cannot prohibit consumers from carrying food.",
+"score": 0.655734,
+"arguments": [
+{
+"text": "Ravindra Chavan",
+"location": [
+201,
+216
+],
+"entities": [
+{
+"type": "Person",
+"text": "Ravindra Chavan"
+}
+]
+},
+{
+"text": "said",
+"location": [
+263,
+267
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "managerOf",
+"sentence": "Chavan was replying to a calling attention motion moved by leader of the opposition Dhananjay Munde in the legislative council.",
+"score": 0.411279,
+"arguments": [
+{
+"text": "leader",
+"location": [
+588,
+594
+],
+"entities": [
+{
+"type": "Person",
+"text": "leader"
+}
+]
+},
+{
+"text": "opposition",
+"location": [
+602,
+612
+],
+"entities": [
+{
+"type": "Person",
+"text": "opposition"
+}
+]
+}
+]
+},
+{
+"type": "partOfMany",
+"sentence": "Chavan was replying to a calling attention motion moved by leader of the opposition Dhananjay Munde in the legislative council.",
+"score": 0.970331,
+"arguments": [
+{
+"text": "Dhananjay Munde",
+"location": [
+613,
+628
+],
+"entities": [
+{
+"type": "Person",
+"text": "Dhananjay Munde"
+}
+]
+},
+{
+"text": "opposition",
+"location": [
+602,
+612
+],
+"entities": [
+{
+"type": "Person",
+"text": "opposition"
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "Officials from the food department said the 1966 rules the minister is talking about are silent on taking food inside an establishment.",
+"score": 0.432292,
+"arguments": [
+{
+"text": "Officials",
+"location": [
+849,
+858
+],
+"entities": [
+{
+"type": "Person",
+"text": "Officials"
+}
+]
+},
+{
+"text": "department",
+"location": [
+873,
+883
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Multiplex Association of India"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Officials from the food department said the 1966 rules the minister is talking about are silent on taking food inside an establishment.",
+"score": 0.578776,
+"arguments": [
+{
+"text": "Officials",
+"location": [
+849,
+858
+],
+"entities": [
+{
+"type": "Person",
+"text": "Officials"
+}
+]
+},
+{
+"text": "said",
+"location": [
+884,
+888
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "timeOf",
+"sentence": "Officials from the food department said the 1966 rules the minister is talking about are silent on taking food inside an establishment.",
+"score": 0.597381,
+"arguments": [
+{
+"text": "1966",
+"location": [
+893,
+897
+],
+"entities": [
+{
+"type": "Date",
+"text": "1966"
+}
+]
+},
+{
+"text": "said",
+"location": [
+884,
+888
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+}
+],
+"language": "en",
+"keywords": [
+{
+"text": "opposition Dhananjay Munde",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.906886,
+"emotion": {
+"sadness": 0.173579,
+"joy": 0.095866,
+"fear": 0.217106,
+"disgust": 0.362506,
+"anger": 0.148035
+}
+},
+{
+"text": "Ravindra Chavan",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.80387,
+"emotion": {
+"sadness": 0.144548,
+"joy": 0.185315,
+"fear": 0.087573,
+"disgust": 0.077654,
+"anger": 0.090723
+}
+},
+{
+"text": "multiplexes",
+"sentiment": {
+"score": -0.389844,
+"label": "negative"
+},
+"relevance": 0.726875,
+"emotion": {
+"sadness": 0.494302,
+"joy": 0.120991,
+"fear": 0.173802,
+"disgust": 0.270025,
+"anger": 0.107528
+}
+},
+{
+"text": "dual MRP",
+"sentiment": {
+"score": -0.410542,
+"label": "negative"
+},
+"relevance": 0.712245,
+"emotion": {
+"sadness": 0.300234,
+"joy": 0.050377,
+"fear": 0.027833,
+"disgust": 0.559858,
+"anger": 0.287346
+}
+},
+{
+"text": "Maharashtra Cinemas",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.702491,
+"emotion": {
+"sadness": 0.011965,
+"joy": 0.610742,
+"fear": 0.060971,
+"disgust": 0.0709,
+"anger": 0.0832
+}
+}
+],
+"entities": [
+{
+"type": "Person",
+"text": "Ravindra Chavan",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.818433,
+"emotion": {
+"sadness": 0.164413,
+"joy": 0.103649,
+"fear": 0.208166,
+"disgust": 0.368602,
+"anger": 0.153247
+},
+"count": 2
+},
+{
+"type": "Company",
+"text": "Maharashtra Cinemas",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.575003,
+"emotion": {
+"sadness": 0.028923,
+"joy": 0.656384,
+"fear": 0.085602,
+"disgust": 0.09565,
+"anger": 0.124769
+},
+"count": 2
+},
+{
+"type": "Organization",
+"text": "food department",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.536746,
+"emotion": {
+"sadness": 0.661176,
+"joy": 0.140689,
+"fear": 0.094578,
+"disgust": 0.133073,
+"anger": 0.107429
+},
+"count": 1
+},
+{
+"type": "Person",
+"text": "Dhananjay Munde",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.435728,
+"emotion": {
+"sadness": 0.173579,
+"joy": 0.095866,
+"fear": 0.217106,
+"disgust": 0.362506,
+"anger": 0.148035
+},
+"count": 1
+},
+{
+"type": "Location",
+"text": "MUMBAI",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.386371,
+"emotion": {
+"sadness": 0.0,
+"joy": 0.0,
+"fear": 0.0,
+"disgust": 0.0,
+"anger": 0.0
+},
+"disambiguation": {
+"subtype": [
+"AdministrativeDivision",
+"IndianCity",
+"MilitaryPost",
+"City"
+],
+"name": "Mumbai",
+"dbpedia_resource": "http://dbpedia.org/resource/Mumbai"
+},
+"count": 1
+}
+],
+"concepts": [
+{
+"text": "Movie theater",
+"relevance": 0.936415,
+"dbpedia_resource": "http://dbpedia.org/resource/Movie_theater"
+},
+{
+"text": "Mumbai",
+"relevance": 0.909399,
+"dbpedia_resource": "http://dbpedia.org/resource/Mumbai"
+},
+{
+"text": "Maharashtra",
+"relevance": 0.899922,
+"dbpedia_resource": "http://dbpedia.org/resource/Maharashtra"
+},
+{
+"text": "Popcorn",
+"relevance": 0.879714,
+"dbpedia_resource": "http://dbpedia.org/resource/Popcorn"
+},
+{
+"text": "Human rights",
+"relevance": 0.831471,
+"dbpedia_resource": "http://dbpedia.org/resource/Human_rights"
+}
+],
+"categories": [
+{
+"score": 0.573515,
+"label": "/law, govt and politics/legal issues/civil law/copyright"
+},
+{
+"score": 0.567006,
+"label": "/education/school/private school"
+},
+{
+"score": 0.489407,
+"label": "/law, govt and politics/government/parliament"
+}
+]
+}
+}

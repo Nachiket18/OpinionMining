@@ -1,0 +1,2069 @@
+{
+"source_article_link": "https://timesofindia.indiatimes.com/india/lynching-cases-whatsapp-shares-easy-tips-to-spot-fake-news-hoax/articleshow/64930914.cms?&utm_source=Articleshow&utm_medium=Organic&utm_campaign=Related_Stories",
+"title": "Lynching cases: WhatsApp shares 'easy tips' to spot fake news, hoax",
+"date_published": "2018-07-10T15:30:33+05:30",
+"source_type": "news_article",
+"source_name": "timesofindia.indiatimes.com",
+"image_link": [
+"https://timesofindia.indiatimes.com/thumb/msid-64930915,imgsize-45999,width-400,resizemode-4/64930915.jpg"
+],
+"article_body": "NEW DELHI: Under fire over fake and provocative messages being circulated on its platform, WhatApp on Tuesday began an awareness campaign to help users identify and prevent the spread of false information, hoax messages and . With rumours on triggering in parts of the country, the Facebook-owned messaging service brought out full-page advertisement in leading newspapers, first in the series of its user awareness drive, giving \"easy tips\" to decide if information received is, indeed, true. IT minister had last week asked for greater accountability from WhatsApp, saying that the government will not tolerate any misuse of the platform to spread fake messages designed to \"provoke\" and \"instigate\" people. In response, WhatsApp had informed the government that fake news, misinformation and hoaxes can be checked by the government, civil society and technology companies \"working together\". Reiterating the message on Monday, it said: \"To fight fake news, we all need to work together - technology companies, the government and community groups. If you see something that's not true, make people aware and help stop the spread.\" The latest campaign by WhatsApp also outlines ways to spot false information including identifying forwarded messages (a feature that will be rolled out starting this week), coaxing users to \"double check\" on information using multiple sources to establish authenticity of a news or a photograph.     The full-page advertisements splashed across major dailies also nudged users to question information that is meant to instil anger or fear and to think twice before sharing such messages. It cautions the users to \"look out for messages that look different\" and to watch out for signs like spelling mistakes in order to determine accuracy of information circulated. \"Be thoughtful about what you share....If you are not sure of the source or concerned that the information may be untrue, think twice before sharing,\" it said, adding that accompanying links seemingly of well-known websites should also be scoured for unusual characters and spelling mistakes to establish authenticity. WhatsApp also reminded its users that fake news \"often\" goes viral and just because \"a message is shared many times, does not make it true\". When contacted, a WhatsApp spokesperson said: \"This morning we are starting an education campaign in India on how to spot fake news and rumours. Our first step is placing newspaper advertisements across the country in English, Hindi, and several other languages. The company will build on such efforts going forward, the spokesperson added. The WhatsApp spokesperson did not reply to a specific question on the number of accounts that have been blocked so far this year in India or globally for circulating fake news. \"We ban accounts based on user reports and by the manner in which messages are sent. We use machine learning to identify accounts sending a high volume of messages and we are constantly working to improve our ability to stop unwanted automated messages\" the spokesperson added. Rumours on WhatsApp have triggered a spate of incidents involving mob fury, a recent one being lynching of five men on the suspicion of being child-lifters in Maharashtra's Rainpada village of . The Ministry of Electronics and Information Technology on July 2 had written to WhatsApp asking it to take immediate steps to prevent the circulation of false information and provocative content, and emphasised that the company \"cannot evade accountability and responsibility\". Outlining steps it has taken to curb abuse of its platform, WhatsApp \u2014 in its response to a notice sent by India's IT Ministry \u2014 had said last week that it has the ability to prevent spam but since it cannot see the content of private messages, blocking can be done only based on user reports. With India being its biggest market with over 200 million users, the Facebook Inc-owned messenger service had asserted that it responds to \"valid\" law enforcement requests in investigating crimes. Whatsapp had also told the government that it is \"horrified by these terrible acts of violence\" and its strategy to deal with the situation involves giving people the controls and information they need to stay safe while working pro-actively to prevent misuse of the service. Without specifying whether it will stop services of any person found to be spreading fake news, the company had said it has made changes on group chats to prevent the spread of unwanted information.",
+"description": "The WhatsApp today brought out full-page advertisement in leading newspapers to identify fake news. It cautions the users to \"look out for messages that look different\".",
+"time_scraped": "2018-08-21 18:07:20.583528",
+"article_id": "64930914",
+"article_category": "IndiaNews",
+"image_details": [
+{
+"url": "https://timesofindia.indiatimes.com/thumb/msid-64930915,imgsize-45999,width-400,resizemode-4/64930915.jpg",
+"path": "full/f2e8d54362d29744600b7bb3286515c7a1e57c31.jpg",
+"checksum": "83c49b0ec12ecd27af152e8e511e61cb"
+}
+],
+"ibm_nlu": {
+"usage": {
+"text_units": 1,
+"text_characters": 4493,
+"features": 7
+},
+"sentiment": {
+"document": {
+"score": -0.583479,
+"label": "negative"
+}
+},
+"semantic_roles": [
+{
+"subject": {
+"text": "Under fire over fake and provocative messages"
+},
+"sentence": "NEW DELHI: Under fire over fake and provocative messages being circulated on its platform, WhatApp on Tuesday began an awareness campaign to help users identify and prevent the spread of false information, hoax messages and .",
+"action": {
+"verb": {
+"text": "circulate",
+"tense": "past"
+},
+"text": "being circulated",
+"normalized": "be circulate"
+}
+},
+{
+"subject": {
+"text": "WhatApp"
+},
+"sentence": "NEW DELHI: Under fire over fake and provocative messages being circulated on its platform, WhatApp on Tuesday began an awareness campaign to help users identify and prevent the spread of false information, hoax messages and .",
+"object": {
+"text": "an awareness campaign to help users identify"
+},
+"action": {
+"verb": {
+"text": "begin",
+"tense": "past"
+},
+"text": "began",
+"normalized": "begin"
+}
+},
+{
+"subject": {
+"text": "the Facebook-owned messaging service brought out full-page advertisement in leading newspapers,"
+},
+"sentence": " With rumours on triggering in parts of the country, the Facebook-owned messaging service brought out full-page advertisement in leading newspapers, first in the series of its user awareness drive, giving \"easy tips\" to decide if information received is, indeed, true.",
+"action": {
+"verb": {
+"text": "trigger",
+"tense": "future"
+},
+"text": "triggering",
+"normalized": "trigger"
+}
+},
+{
+"subject": {
+"text": "the Facebook-owned messaging service"
+},
+"sentence": " With rumours on triggering in parts of the country, the Facebook-owned messaging service brought out full-page advertisement in leading newspapers, first in the series of its user awareness drive, giving \"easy tips\" to decide if information received is, indeed, true.",
+"object": {
+"text": "full-page advertisement"
+},
+"action": {
+"verb": {
+"text": "bring",
+"tense": "past"
+},
+"text": "brought",
+"normalized": "bring"
+}
+},
+{
+"subject": {
+"text": "the government"
+},
+"sentence": " IT minister had last week asked for greater accountability from WhatsApp, saying that the government will not tolerate any misuse of the platform to spread fake messages designed to \"provoke\" and \"instigate\" people.",
+"object": {
+"text": "any misuse of the platform"
+},
+"action": {
+"verb": {
+"text": "tolerate",
+"tense": "future",
+"negated": true
+},
+"text": "tolerate",
+"normalized": "tolerate"
+}
+},
+{
+"subject": {
+"text": "the government"
+},
+"sentence": " IT minister had last week asked for greater accountability from WhatsApp, saying that the government will not tolerate any misuse of the platform to spread fake messages designed to \"provoke\" and \"instigate\" people.",
+"object": {
+"text": "fake messages"
+},
+"action": {
+"verb": {
+"text": "spread",
+"tense": "future"
+},
+"text": "to spread",
+"normalized": "to spread"
+}
+},
+{
+"subject": {
+"text": "the government"
+},
+"sentence": " IT minister had last week asked for greater accountability from WhatsApp, saying that the government will not tolerate any misuse of the platform to spread fake messages designed to \"provoke\" and \"instigate\" people.",
+"object": {
+"text": "people"
+},
+"action": {
+"verb": {
+"text": "instigate",
+"tense": "present"
+},
+"text": "instigate",
+"normalized": "instigate"
+}
+},
+{
+"subject": {
+"text": "WhatsApp"
+},
+"sentence": " In response, WhatsApp had informed the government that fake news, misinformation and hoaxes can be checked by the government, civil society and technology companies \"working together\".",
+"object": {
+"text": "informed the government that fake news, misinformation and hoaxes can be checked by the government"
+},
+"action": {
+"verb": {
+"text": "have",
+"tense": "past"
+},
+"text": "had",
+"normalized": "have"
+}
+},
+{
+"subject": {
+"text": "WhatsApp"
+},
+"sentence": " In response, WhatsApp had informed the government that fake news, misinformation and hoaxes can be checked by the government, civil society and technology companies \"working together\".",
+"object": {
+"text": "the government"
+},
+"action": {
+"verb": {
+"text": "inform",
+"tense": "past"
+},
+"text": "had informed",
+"normalized": "have inform"
+}
+},
+{
+"subject": {
+"text": "misinformation and hoaxes"
+},
+"sentence": " In response, WhatsApp had informed the government that fake news, misinformation and hoaxes can be checked by the government, civil society and technology companies \"working together\".",
+"object": {
+"text": "checked by the government"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "future"
+},
+"text": "be",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "by the government, civil society and technology companies"
+},
+"sentence": " In response, WhatsApp had informed the government that fake news, misinformation and hoaxes can be checked by the government, civil society and technology companies \"working together\".",
+"object": {
+"text": "misinformation and hoaxes"
+},
+"action": {
+"verb": {
+"text": "check",
+"tense": "future"
+},
+"text": "can be checked",
+"normalized": "can be check"
+}
+},
+{
+"subject": {
+"text": "we all"
+},
+"sentence": " Reiterating the message on Monday, it said: \"To fight fake news, we all need to work together - technology companies, the government and community groups.",
+"object": {
+"text": "to work together - technology companies, the government and community groups"
+},
+"action": {
+"verb": {
+"text": "need",
+"tense": "present"
+},
+"text": "need",
+"normalized": "need"
+}
+},
+{
+"subject": {
+"text": "we all"
+},
+"sentence": " Reiterating the message on Monday, it said: \"To fight fake news, we all need to work together - technology companies, the government and community groups.",
+"object": {
+"text": "technology companies, the government and community groups"
+},
+"action": {
+"verb": {
+"text": "work",
+"tense": "future"
+},
+"text": "need to work",
+"normalized": "need to work"
+}
+},
+{
+"subject": {
+"text": "you"
+},
+"sentence": " If you see something that's not true, make people aware and help stop the spread.\"",
+"object": {
+"text": "something"
+},
+"action": {
+"verb": {
+"text": "see",
+"tense": "present"
+},
+"text": "see",
+"normalized": "see"
+}
+},
+{
+"subject": {
+"text": "people"
+},
+"sentence": " If you see something that's not true, make people aware and help stop the spread.\"",
+"object": {
+"text": "aware"
+},
+"action": {
+"verb": {
+"text": "make",
+"tense": "present"
+},
+"text": "make",
+"normalized": "make"
+}
+},
+{
+"subject": {
+"text": "The latest campaign by WhatsApp"
+},
+"sentence": " The latest campaign by WhatsApp also outlines ways to spot false information including identifying forwarded messages (a feature that will be rolled out starting this week), coaxing users to \"double check\" on information using multiple sources to establish authenticity of a news or a photograph.",
+"object": {
+"text": "ways to spot false information including identifying forwarded messages (a feature that will be rolled out starting this week), coaxing users to \"double check\" on information using multiple sources to establish authenticity of a news or a photograph"
+},
+"action": {
+"verb": {
+"text": "outline",
+"tense": "present"
+},
+"text": "outlines",
+"normalized": "outline"
+}
+},
+{
+"subject": {
+"text": "identifying forwarded messages (a feature that will be rolled out starting this week"
+},
+"sentence": " The latest campaign by WhatsApp also outlines ways to spot false information including identifying forwarded messages (a feature that will be rolled out starting this week), coaxing users to \"double check\" on information using multiple sources to establish authenticity of a news or a photograph.",
+"object": {
+"text": "false information"
+},
+"action": {
+"verb": {
+"text": "include",
+"tense": "present"
+},
+"text": "including",
+"normalized": "include"
+}
+},
+{
+"subject": {
+"text": "a feature"
+},
+"sentence": " The latest campaign by WhatsApp also outlines ways to spot false information including identifying forwarded messages (a feature that will be rolled out starting this week), coaxing users to \"double check\" on information using multiple sources to establish authenticity of a news or a photograph.",
+"action": {
+"verb": {
+"text": "roll",
+"tense": "future"
+},
+"text": "will be rolled",
+"normalized": "will be roll"
+}
+},
+{
+"subject": {
+"text": "users"
+},
+"sentence": " The latest campaign by WhatsApp also outlines ways to spot false information including identifying forwarded messages (a feature that will be rolled out starting this week), coaxing users to \"double check\" on information using multiple sources to establish authenticity of a news or a photograph.",
+"object": {
+"text": "to \"double check\""
+},
+"action": {
+"verb": {
+"text": "coax",
+"tense": "present"
+},
+"text": "coaxing",
+"normalized": "coax"
+}
+},
+{
+"subject": {
+"text": "coaxing users"
+},
+"sentence": " The latest campaign by WhatsApp also outlines ways to spot false information including identifying forwarded messages (a feature that will be rolled out starting this week), coaxing users to \"double check\" on information using multiple sources to establish authenticity of a news or a photograph.",
+"object": {
+"text": "check"
+},
+"action": {
+"verb": {
+"text": "double",
+"tense": "present"
+},
+"text": "double",
+"normalized": "double"
+}
+},
+{
+"subject": {
+"text": "The full-page advertisements"
+},
+"sentence": " The full-page advertisements splashed across major dailies also nudged users to question information that is meant to instil anger or fear and to think twice before sharing such messages.",
+"object": {
+"text": "across major dailies"
+},
+"action": {
+"verb": {
+"text": "splash",
+"tense": "past"
+},
+"text": "splashed",
+"normalized": "splash"
+}
+},
+{
+"subject": {
+"text": "users"
+},
+"sentence": " The full-page advertisements splashed across major dailies also nudged users to question information that is meant to instil anger or fear and to think twice before sharing such messages.",
+"object": {
+"text": "information that is meant to instil anger or fear and to think twice before sharing such messages"
+},
+"action": {
+"verb": {
+"text": "question",
+"tense": "future"
+},
+"text": "to question",
+"normalized": "to question"
+}
+},
+{
+"subject": {
+"text": "information"
+},
+"sentence": " The full-page advertisements splashed across major dailies also nudged users to question information that is meant to instil anger or fear and to think twice before sharing such messages.",
+"object": {
+"text": "meant"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "present"
+},
+"text": "is",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "users"
+},
+"sentence": " The full-page advertisements splashed across major dailies also nudged users to question information that is meant to instil anger or fear and to think twice before sharing such messages.",
+"object": {
+"text": "anger"
+},
+"action": {
+"verb": {
+"text": "instil",
+"tense": "future"
+},
+"text": "is meant to instil",
+"normalized": "be mean to instil"
+}
+},
+{
+"subject": {
+"text": "It"
+},
+"sentence": " It cautions the users to \"look out for messages that look different\" and to watch out for signs like spelling mistakes in order to determine accuracy of information circulated.",
+"object": {
+"text": "to \"look out for messages that look different\" and to watch out for signs like spelling mistakes in order to determine accuracy of information circulated"
+},
+"action": {
+"verb": {
+"text": "caution",
+"tense": "present"
+},
+"text": "cautions",
+"normalized": "caution"
+}
+},
+{
+"subject": {
+"text": "the users"
+},
+"sentence": " It cautions the users to \"look out for messages that look different\" and to watch out for signs like spelling mistakes in order to determine accuracy of information circulated.",
+"object": {
+"text": "for messages that look different\" and to watch"
+},
+"action": {
+"verb": {
+"text": "look",
+"tense": "present"
+},
+"text": "look",
+"normalized": "look"
+}
+},
+{
+"subject": {
+"text": "messages"
+},
+"sentence": " It cautions the users to \"look out for messages that look different\" and to watch out for signs like spelling mistakes in order to determine accuracy of information circulated.",
+"object": {
+"text": "different"
+},
+"action": {
+"verb": {
+"text": "look",
+"tense": "present"
+},
+"text": "look",
+"normalized": "look"
+}
+},
+{
+"subject": {
+"text": "you"
+},
+"sentence": " \"Be thoughtful about what you share....If you are not sure of the source or concerned that the information may be untrue, think twice before sharing,\" it said, adding that accompanying links seemingly of well-known websites should also be scoured for unusual characters and spelling mistakes to establish authenticity.",
+"object": {
+"text": "not sure of the source or concerned that the information may be untrue"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "present"
+},
+"text": "are",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "the information"
+},
+"sentence": " \"Be thoughtful about what you share....If you are not sure of the source or concerned that the information may be untrue, think twice before sharing,\" it said, adding that accompanying links seemingly of well-known websites should also be scoured for unusual characters and spelling mistakes to establish authenticity.",
+"action": {
+"verb": {
+"text": "think",
+"tense": "future"
+},
+"text": "think",
+"normalized": "think"
+}
+},
+{
+"subject": {
+"text": "it"
+},
+"sentence": " \"Be thoughtful about what you share....If you are not sure of the source or concerned that the information may be untrue, think twice before sharing,\" it said, adding that accompanying links seemingly of well-known websites should also be scoured for unusual characters and spelling mistakes to establish authenticity.",
+"object": {
+"text": "that accompanying links seemingly of well-known websites should also be scoured for unusual characters and spelling mistakes to establish authenticity"
+},
+"action": {
+"verb": {
+"text": "add",
+"tense": "present"
+},
+"text": "adding",
+"normalized": "add"
+}
+},
+{
+"subject": {
+"text": "accompanying links seemingly of well-known websites"
+},
+"sentence": " \"Be thoughtful about what you share....If you are not sure of the source or concerned that the information may be untrue, think twice before sharing,\" it said, adding that accompanying links seemingly of well-known websites should also be scoured for unusual characters and spelling mistakes to establish authenticity.",
+"object": {
+"text": "scoured for unusual characters and spelling mistakes"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "future"
+},
+"text": "be",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "accompanying links seemingly of well-known websites"
+},
+"sentence": " \"Be thoughtful about what you share....If you are not sure of the source or concerned that the information may be untrue, think twice before sharing,\" it said, adding that accompanying links seemingly of well-known websites should also be scoured for unusual characters and spelling mistakes to establish authenticity.",
+"object": {
+"text": "mistakes"
+},
+"action": {
+"verb": {
+"text": "spell",
+"tense": "present"
+},
+"text": "spelling",
+"normalized": "spell"
+}
+},
+{
+"subject": {
+"text": "WhatsApp"
+},
+"sentence": " WhatsApp also reminded its users that fake news \"often\" goes viral and just because \"a message is shared many times, does not make it true\".",
+"object": {
+"text": "that fake news \"often\" goes viral and just because \"a message is shared many times"
+},
+"action": {
+"verb": {
+"text": "remind",
+"tense": "past"
+},
+"text": "reminded",
+"normalized": "remind"
+}
+},
+{
+"subject": {
+"text": "it"
+},
+"sentence": " WhatsApp also reminded its users that fake news \"often\" goes viral and just because \"a message is shared many times, does not make it true\".",
+"object": {
+"text": "true"
+},
+"action": {
+"verb": {
+"text": "make",
+"tense": "present",
+"negated": true
+},
+"text": "make",
+"normalized": "make"
+}
+},
+{
+"subject": {
+"text": "a WhatsApp spokesperson"
+},
+"sentence": " When contacted, a WhatsApp spokesperson said: \"This morning we are starting an education campaign in India on how to spot fake news and rumours.",
+"object": {
+"text": "This morning we are starting an education campaign in India on how to spot fake news and rumours"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "we"
+},
+"sentence": " When contacted, a WhatsApp spokesperson said: \"This morning we are starting an education campaign in India on how to spot fake news and rumours.",
+"object": {
+"text": "fake news and rumours"
+},
+"action": {
+"verb": {
+"text": "spot",
+"tense": "future"
+},
+"text": "to spot",
+"normalized": "to spot"
+}
+},
+{
+"subject": {
+"text": "Our first step"
+},
+"sentence": " Our first step is placing newspaper advertisements across the country in English, Hindi, and several other languages.",
+"object": {
+"text": "newspaper advertisements"
+},
+"action": {
+"verb": {
+"text": "place",
+"tense": "present"
+},
+"text": "is placing",
+"normalized": "be place"
+}
+},
+{
+"subject": {
+"text": "The company"
+},
+"sentence": " The company will build on such efforts going forward, the spokesperson added.",
+"object": {
+"text": "on such efforts going forward"
+},
+"action": {
+"verb": {
+"text": "build",
+"tense": "future"
+},
+"text": "will build",
+"normalized": "will build"
+}
+},
+{
+"subject": {
+"text": "the spokesperson"
+},
+"sentence": " The company will build on such efforts going forward, the spokesperson added.",
+"object": {
+"text": "The company will build on such efforts going forward"
+},
+"action": {
+"verb": {
+"text": "add",
+"tense": "past"
+},
+"text": "added",
+"normalized": "add"
+}
+},
+{
+"subject": {
+"text": "The WhatsApp spokesperson"
+},
+"sentence": " The WhatsApp spokesperson did not reply to a specific question on the number of accounts that have been blocked so far this year in India or globally for circulating fake news.",
+"object": {
+"text": "not reply to a specific question on the number of accounts that have been blocked so far this year in India or globally for circulating fake news"
+},
+"action": {
+"verb": {
+"text": "do",
+"tense": "past"
+},
+"text": "did",
+"normalized": "do"
+}
+},
+{
+"subject": {
+"text": "We"
+},
+"sentence": " \"We ban accounts based on user reports and by the manner in which messages are sent.",
+"object": {
+"text": "accounts"
+},
+"action": {
+"verb": {
+"text": "ban",
+"tense": "present"
+},
+"text": "ban",
+"normalized": "ban"
+}
+},
+{
+"subject": {
+"text": "We ban accounts"
+},
+"sentence": " \"We ban accounts based on user reports and by the manner in which messages are sent.",
+"object": {
+"text": "on user reports"
+},
+"action": {
+"verb": {
+"text": "base",
+"tense": "past"
+},
+"text": "based",
+"normalized": "base"
+}
+},
+{
+"subject": {
+"text": "We"
+},
+"sentence": " We use machine learning to identify accounts sending a high volume of messages and we are constantly working to improve our ability to stop unwanted automated messages\" the spokesperson added.",
+"object": {
+"text": "machine"
+},
+"action": {
+"verb": {
+"text": "use",
+"tense": "present"
+},
+"text": "use",
+"normalized": "use"
+}
+},
+{
+"subject": {
+"text": "we"
+},
+"sentence": " We use machine learning to identify accounts sending a high volume of messages and we are constantly working to improve our ability to stop unwanted automated messages\" the spokesperson added.",
+"action": {
+"verb": {
+"text": "be",
+"tense": "present"
+},
+"text": "are",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "we"
+},
+"sentence": " We use machine learning to identify accounts sending a high volume of messages and we are constantly working to improve our ability to stop unwanted automated messages\" the spokesperson added.",
+"object": {
+"text": "to improve our ability to stop unwanted automated messages"
+},
+"action": {
+"verb": {
+"text": "work",
+"tense": "present"
+},
+"text": "working",
+"normalized": "work"
+}
+},
+{
+"subject": {
+"text": "we"
+},
+"sentence": " We use machine learning to identify accounts sending a high volume of messages and we are constantly working to improve our ability to stop unwanted automated messages\" the spokesperson added.",
+"object": {
+"text": "our ability to stop unwanted automated messages\" the spokesperson added"
+},
+"action": {
+"verb": {
+"text": "improve",
+"tense": "future"
+},
+"text": "to improve",
+"normalized": "to improve"
+}
+},
+{
+"subject": {
+"text": "the spokesperson"
+},
+"sentence": " We use machine learning to identify accounts sending a high volume of messages and we are constantly working to improve our ability to stop unwanted automated messages\" the spokesperson added.",
+"object": {
+"text": "We use machine learning to identify accounts sending a high volume of messages and we are constantly working to improve our ability to stop unwanted automated messages"
+},
+"action": {
+"verb": {
+"text": "add",
+"tense": "past"
+},
+"text": "added",
+"normalized": "add"
+}
+},
+{
+"subject": {
+"text": "Rumours on WhatsApp"
+},
+"sentence": " Rumours on WhatsApp have triggered a spate of incidents involving mob fury, a recent one being lynching of five men on the suspicion of being child-lifters in Maharashtra's Rainpada village of .",
+"object": {
+"text": "a spate of incidents involving mob fury"
+},
+"action": {
+"verb": {
+"text": "trigger",
+"tense": "past"
+},
+"text": "have triggered",
+"normalized": "have trigger"
+}
+},
+{
+"subject": {
+"text": "mob fury"
+},
+"sentence": " Rumours on WhatsApp have triggered a spate of incidents involving mob fury, a recent one being lynching of five men on the suspicion of being child-lifters in Maharashtra's Rainpada village of .",
+"object": {
+"text": "incidents"
+},
+"action": {
+"verb": {
+"text": "involve",
+"tense": "present"
+},
+"text": "involving",
+"normalized": "involve"
+}
+},
+{
+"subject": {
+"text": "The Ministry of Electronics and Information Technology"
+},
+"sentence": " The Ministry of Electronics and Information Technology on July 2 had written to WhatsApp asking it to take immediate steps to prevent the circulation of false information and provocative content, and emphasised that the company \"cannot evade accountability and responsibility\".",
+"object": {
+"text": "written to WhatsApp"
+},
+"action": {
+"verb": {
+"text": "have",
+"tense": "past"
+},
+"text": "had",
+"normalized": "have"
+}
+}
+],
+"relations": [
+{
+"type": "timeOf",
+"sentence": "IT minister had last week asked for greater accountability from WhatsApp, saying that the government will not tolerate any misuse of the platform to spread fake messages designed to \"provoke\" and \"instigate\" people.",
+"score": 0.953379,
+"arguments": [
+{
+"text": "last week",
+"location": [
+510,
+519
+],
+"entities": [
+{
+"type": "Date",
+"text": "last week"
+}
+]
+},
+{
+"text": "asked",
+"location": [
+520,
+525
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "asked"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "Our first step is placing newspaper advertisements across the country in English, Hindi, and several other languages.",
+"score": 0.783393,
+"arguments": [
+{
+"text": "country",
+"location": [
+2466,
+2473
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "India",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+},
+{
+"text": "English",
+"location": [
+2477,
+2484
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "English"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "Our first step is placing newspaper advertisements across the country in English, Hindi, and several other languages.",
+"score": 0.383411,
+"arguments": [
+{
+"text": "country",
+"location": [
+2466,
+2473
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "India",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+},
+{
+"text": "Hindi",
+"location": [
+2486,
+2491
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Hindi"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "Our first step is placing newspaper advertisements across the country in English, Hindi, and several other languages.",
+"score": 0.947911,
+"arguments": [
+{
+"text": "English",
+"location": [
+2477,
+2484
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "English"
+}
+]
+},
+{
+"text": "Hindi",
+"location": [
+2486,
+2491
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Hindi"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "The company will build on such efforts going forward, the spokesperson added.",
+"score": 0.990147,
+"arguments": [
+{
+"text": "spokesperson",
+"location": [
+2580,
+2592
+],
+"entities": [
+{
+"type": "Person",
+"text": "spokesperson"
+}
+]
+},
+{
+"text": "added",
+"location": [
+2593,
+2598
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "reminded"
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "We use machine learning to identify accounts sending a high volume of messages and we are constantly working to improve our ability to stop unwanted automated messages\" the spokesperson added.",
+"score": 0.478248,
+"arguments": [
+{
+"text": "spokesperson",
+"location": [
+3035,
+3047
+],
+"entities": [
+{
+"type": "Person",
+"text": "spokesperson"
+}
+]
+},
+{
+"text": "our",
+"location": [
+2982,
+2985
+],
+"entities": [
+{
+"type": "Organization",
+"text": "our"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "We use machine learning to identify accounts sending a high volume of messages and we are constantly working to improve our ability to stop unwanted automated messages\" the spokesperson added.",
+"score": 0.983291,
+"arguments": [
+{
+"text": "spokesperson",
+"location": [
+3035,
+3047
+],
+"entities": [
+{
+"type": "Person",
+"text": "spokesperson"
+}
+]
+},
+{
+"text": "added",
+"location": [
+3048,
+3053
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "reminded"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "Rumours on WhatsApp have triggered a spate of incidents involving mob fury, a recent one being lynching of five men on the suspicion of being child-lifters in Maharashtra's Rainpada village of .",
+"score": 0.716918,
+"arguments": [
+{
+"text": "Rainpada",
+"location": [
+3228,
+3236
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Rainpada"
+}
+]
+},
+{
+"text": "Maharashtra",
+"location": [
+3214,
+3225
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Maharashtra"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "Rumours on WhatsApp have triggered a spate of incidents involving mob fury, a recent one being lynching of five men on the suspicion of being child-lifters in Maharashtra's Rainpada village of .",
+"score": 0.446399,
+"arguments": [
+{
+"text": "village",
+"location": [
+3237,
+3244
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Maharashtra"
+}
+]
+},
+{
+"text": "Rainpada",
+"location": [
+3228,
+3236
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Rainpada"
+}
+]
+}
+]
+},
+{
+"type": "timeOf",
+"sentence": "The Ministry of Electronics and Information Technology on July 2 had written to WhatsApp asking it to take immediate steps to prevent the circulation of false information and provocative content, and emphasised that the company \"cannot evade accountability and responsibility\".",
+"score": 0.97709,
+"arguments": [
+{
+"text": "July 2",
+"location": [
+3308,
+3314
+],
+"entities": [
+{
+"type": "Date",
+"text": "July 2"
+}
+]
+},
+{
+"text": "written",
+"location": [
+3319,
+3326
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "written"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "The Ministry of Electronics and Information Technology on July 2 had written to WhatsApp asking it to take immediate steps to prevent the circulation of false information and provocative content, and emphasised that the company \"cannot evade accountability and responsibility\".",
+"score": 0.591455,
+"arguments": [
+{
+"text": "WhatsApp",
+"location": [
+3330,
+3338
+],
+"entities": [
+{
+"type": "Organization",
+"text": "WhatsApp"
+}
+]
+},
+{
+"text": "written",
+"location": [
+3319,
+3326
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "written"
+}
+]
+}
+]
+},
+{
+"type": "timeOf",
+"sentence": "Reiterating the message on Monday, it said: \"To fight fake news, we all need to work together - technology companies, the government and community groups.",
+"score": 0.515801,
+"arguments": [
+{
+"text": "Monday",
+"location": [
+922,
+928
+],
+"entities": [
+{
+"type": "Date",
+"text": "Monday"
+}
+]
+},
+{
+"text": "said",
+"location": [
+933,
+937
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "partOf",
+"sentence": "The Ministry of Electronics and Information Technology on July 2 had written to WhatsApp asking it to take immediate steps to prevent the circulation of false information and provocative content, and emphasised that the company \"cannot evade accountability and responsibility\".",
+"score": 0.695294,
+"arguments": [
+{
+"text": "asking",
+"location": [
+3339,
+3345
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "asking"
+}
+]
+},
+{
+"text": "written",
+"location": [
+3319,
+3326
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "written"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "The Ministry of Electronics and Information Technology on July 2 had written to WhatsApp asking it to take immediate steps to prevent the circulation of false information and provocative content, and emphasised that the company \"cannot evade accountability and responsibility\".",
+"score": 0.548141,
+"arguments": [
+{
+"text": "it",
+"location": [
+3346,
+3348
+],
+"entities": [
+{
+"type": "Organization",
+"text": "WhatsApp"
+}
+]
+},
+{
+"text": "asking",
+"location": [
+3339,
+3345
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "asking"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "Outlining steps it has taken to curb abuse of its platform, WhatsApp \u2014 in its response to a notice sent by India's IT Ministry \u2014 had said last week that it has the ability to prevent spam but since it cannot see the content of private messages, blocking can be done only based on user reports.",
+"score": 0.465659,
+"arguments": [
+{
+"text": "its",
+"location": [
+3602,
+3605
+],
+"entities": [
+{
+"type": "Organization",
+"text": "WhatsApp"
+}
+]
+},
+{
+"text": "notice",
+"location": [
+3620,
+3626
+],
+"entities": [
+{
+"type": "EventLegal",
+"text": "notice"
+}
+]
+}
+]
+},
+{
+"type": "timeOf",
+"sentence": "Outlining steps it has taken to curb abuse of its platform, WhatsApp \u2014 in its response to a notice sent by India's IT Ministry \u2014 had said last week that it has the ability to prevent spam but since it cannot see the content of private messages, blocking can be done only based on user reports.",
+"score": 0.977646,
+"arguments": [
+{
+"text": "last week",
+"location": [
+3666,
+3675
+],
+"entities": [
+{
+"type": "Date",
+"text": "last week"
+}
+]
+},
+{
+"text": "said",
+"location": [
+3661,
+3665
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "reminded"
+}
+]
+}
+]
+},
+{
+"type": "memberOf",
+"sentence": "With India being its biggest market with over 200 million users, the Facebook Inc-owned messenger service had asserted that it responds to \"valid\" law enforcement requests in investigating crimes.",
+"score": 0.348499,
+"arguments": [
+{
+"text": "users",
+"location": [
+3880,
+3885
+],
+"entities": [
+{
+"type": "Person",
+"text": "people"
+}
+]
+},
+{
+"text": "its",
+"location": [
+3839,
+3842
+],
+"entities": [
+{
+"type": "Organization",
+"text": "WhatsApp"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "With India being its biggest market with over 200 million users, the Facebook Inc-owned messenger service had asserted that it responds to \"valid\" law enforcement requests in investigating crimes.",
+"score": 0.658019,
+"arguments": [
+{
+"text": "it",
+"location": [
+3946,
+3948
+],
+"entities": [
+{
+"type": "Organization",
+"text": "WhatsApp"
+}
+]
+},
+{
+"text": "investigating",
+"location": [
+3997,
+4010
+],
+"entities": [
+{
+"type": "EventLegal",
+"text": "investigating"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "With India being its biggest market with over 200 million users, the Facebook Inc-owned messenger service had asserted that it responds to \"valid\" law enforcement requests in investigating crimes.",
+"score": 0.536751,
+"arguments": [
+{
+"text": "it",
+"location": [
+3946,
+3948
+],
+"entities": [
+{
+"type": "Organization",
+"text": "WhatsApp"
+}
+]
+},
+{
+"text": "crimes",
+"location": [
+4011,
+4017
+],
+"entities": [
+{
+"type": "Crime",
+"text": "crimes"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Whatsapp had also told the government that it is \"horrified by these terrible acts of violence\" and its strategy to deal with the situation involves giving people the controls and information they need to stay safe while working pro-actively to prevent misuse of the service.",
+"score": 0.951179,
+"arguments": [
+{
+"text": "Whatsapp",
+"location": [
+4019,
+4027
+],
+"entities": [
+{
+"type": "Person",
+"text": "Whatsapp"
+}
+]
+},
+{
+"text": "told",
+"location": [
+4037,
+4041
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "reminded"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "Whatsapp had also told the government that it is \"horrified by these terrible acts of violence\" and its strategy to deal with the situation involves giving people the controls and information they need to stay safe while working pro-actively to prevent misuse of the service.",
+"score": 0.660992,
+"arguments": [
+{
+"text": "government",
+"location": [
+4046,
+4056
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "India",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+},
+{
+"text": "told",
+"location": [
+4037,
+4041
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "reminded"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Without specifying whether it will stop services of any person found to be spreading fake news, the company had said it has made changes on group chats to prevent the spread of unwanted information.",
+"score": 0.795322,
+"arguments": [
+{
+"text": "company",
+"location": [
+4395,
+4402
+],
+"entities": [
+{
+"type": "Organization",
+"text": "WhatsApp"
+}
+]
+},
+{
+"text": "said",
+"location": [
+4407,
+4411
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "reminded"
+}
+]
+}
+]
+},
+{
+"type": "partOf",
+"sentence": "Reiterating the message on Monday, it said: \"To fight fake news, we all need to work together - technology companies, the government and community groups.",
+"score": 0.381323,
+"arguments": [
+{
+"text": "community groups",
+"location": [
+1032,
+1048
+],
+"entities": [
+{
+"type": "Organization",
+"text": "community groups"
+}
+]
+},
+{
+"text": "companies",
+"location": [
+1002,
+1011
+],
+"entities": [
+{
+"type": "Organization",
+"text": "companies",
+"disambiguation": {
+"subtype": [
+"Commercial"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "The full-page advertisements splashed across major dailies also nudged users to question information that is meant to instil anger or fear and to think twice before sharing such messages.",
+"score": 0.486664,
+"arguments": [
+{
+"text": "users",
+"location": [
+1505,
+1510
+],
+"entities": [
+{
+"type": "Person",
+"text": "people"
+}
+]
+},
+{
+"text": "question",
+"location": [
+1514,
+1522
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "reminded"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "\"Be thoughtful about what you share....If you are not sure of the source or concerned that the information may be untrue, think twice before sharing,\" it said, adding that accompanying links seemingly of well-known websites should also be scoured for unusual characters and spelling mistakes to establish authenticity.",
+"score": 0.938606,
+"arguments": [
+{
+"text": "it",
+"location": [
+1950,
+1952
+],
+"entities": [
+{
+"type": "Organization",
+"text": "our"
+}
+]
+},
+{
+"text": "said",
+"location": [
+1953,
+1957
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "reminded"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "WhatsApp also reminded its users that fake news \"often\" goes viral and just because \"a message is shared many times, does not make it true\".",
+"score": 0.523986,
+"arguments": [
+{
+"text": "users",
+"location": [
+2145,
+2150
+],
+"entities": [
+{
+"type": "Person",
+"text": "people"
+}
+]
+},
+{
+"text": "reminded",
+"location": [
+2132,
+2140
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "reminded"
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "WhatsApp also reminded its users that fake news \"often\" goes viral and just because \"a message is shared many times, does not make it true\".",
+"score": 0.503909,
+"arguments": [
+{
+"text": "users",
+"location": [
+2145,
+2150
+],
+"entities": [
+{
+"type": "Person",
+"text": "people"
+}
+]
+},
+{
+"text": "its",
+"location": [
+2141,
+2144
+],
+"entities": [
+{
+"type": "Organization",
+"text": "our"
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "When contacted, a WhatsApp spokesperson said: \"This morning we are starting an education campaign in India on how to spot fake news and rumours.",
+"score": 0.396509,
+"arguments": [
+{
+"text": "spokesperson",
+"location": [
+2286,
+2298
+],
+"entities": [
+{
+"type": "Person",
+"text": "spokesperson"
+}
+]
+},
+{
+"text": "WhatsApp",
+"location": [
+2277,
+2285
+],
+"entities": [
+{
+"type": "Organization",
+"text": "WhatsApp"
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "The WhatsApp spokesperson did not reply to a specific question on the number of accounts that have been blocked so far this year in India or globally for circulating fake news.",
+"score": 0.50363,
+"arguments": [
+{
+"text": "spokesperson",
+"location": [
+2613,
+2625
+],
+"entities": [
+{
+"type": "Person",
+"text": "spokesperson"
+}
+]
+},
+{
+"text": "WhatsApp",
+"location": [
+2604,
+2612
+],
+"entities": [
+{
+"type": "Organization",
+"text": "WhatsApp"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "When contacted, a WhatsApp spokesperson said: \"This morning we are starting an education campaign in India on how to spot fake news and rumours.",
+"score": 0.984162,
+"arguments": [
+{
+"text": "spokesperson",
+"location": [
+2286,
+2298
+],
+"entities": [
+{
+"type": "Person",
+"text": "spokesperson"
+}
+]
+},
+{
+"text": "said",
+"location": [
+2299,
+2303
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "reminded"
+}
+]
+}
+]
+}
+],
+"language": "en",
+"keywords": [
+{
+"text": "fake news",
+"sentiment": {
+"score": -0.595809,
+"label": "negative"
+},
+"relevance": 0.968176,
+"emotion": {
+"sadness": 0.744748,
+"joy": 0.061011,
+"fear": 0.109361,
+"disgust": 0.3081,
+"anger": 0.196887
+}
+},
+{
+"text": "false information",
+"sentiment": {
+"score": -0.350877,
+"label": "negative"
+},
+"relevance": 0.857707,
+"emotion": {
+"sadness": 0.318842,
+"joy": 0.162562,
+"fear": 0.435911,
+"disgust": 0.014348,
+"anger": 0.060872
+}
+},
+{
+"text": "messages",
+"sentiment": {
+"score": -0.529059,
+"label": "negative"
+},
+"relevance": 0.817825,
+"emotion": {
+"sadness": 0.526247,
+"joy": 0.08565,
+"fear": 0.636377,
+"disgust": 0.05144,
+"anger": 0.147281
+}
+},
+{
+"text": "technology companies",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.77851,
+"emotion": {
+"sadness": 0.244511,
+"joy": 0.164274,
+"fear": 0.072292,
+"disgust": 0.118733,
+"anger": 0.067481
+}
+},
+{
+"text": "Facebook-owned messaging service",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.775875,
+"emotion": {
+"sadness": 0.071397,
+"joy": 0.251665,
+"fear": 0.027957,
+"disgust": 0.203637,
+"anger": 0.121783
+}
+}
+],
+"entities": [
+{
+"type": "Location",
+"text": "India",
+"sentiment": {
+"score": -0.595098,
+"label": "negative"
+},
+"relevance": 0.822943,
+"emotion": {
+"sadness": 0.568386,
+"joy": 0.107863,
+"fear": 0.105765,
+"disgust": 0.239332,
+"anger": 0.166876
+},
+"disambiguation": {
+"subtype": [
+"GovernmentalJurisdiction",
+"Kingdom",
+"Country"
+],
+"name": "British Raj",
+"dbpedia_resource": "http://dbpedia.org/resource/British_Raj"
+},
+"count": 5
+},
+{
+"type": "Person",
+"text": "WhatsApp",
+"sentiment": {
+"score": -0.0931225,
+"label": "negative"
+},
+"relevance": 0.76582,
+"emotion": {
+"sadness": 0.755154,
+"joy": 0.051793,
+"fear": 0.131702,
+"disgust": 0.128614,
+"anger": 0.114563
+},
+"count": 3
+},
+{
+"type": "Company",
+"text": "WhatsApp",
+"sentiment": {
+"score": -0.818796,
+"label": "negative"
+},
+"relevance": 0.649002,
+"emotion": {
+"sadness": 0.755154,
+"joy": 0.051793,
+"fear": 0.131702,
+"disgust": 0.128614,
+"anger": 0.114563
+},
+"count": 2
+},
+{
+"type": "Person",
+"text": "Whatsapp",
+"sentiment": {
+"score": -0.347989,
+"label": "negative"
+},
+"relevance": 0.55324,
+"emotion": {
+"sadness": 0.185413,
+"joy": 0.094994,
+"fear": 0.200011,
+"disgust": 0.065757,
+"anger": 0.297704
+},
+"count": 2
+}
+],
+"concepts": [
+{
+"text": "Advertising",
+"relevance": 0.884227,
+"dbpedia_resource": "http://dbpedia.org/resource/Advertising"
+},
+{
+"text": "Government",
+"relevance": 0.827306,
+"dbpedia_resource": "http://dbpedia.org/resource/Government"
+}
+],
+"categories": [
+{
+"score": 0.443215,
+"label": "/law, govt and politics/government"
+},
+{
+"score": 0.297589,
+"label": "/law, govt and politics/law enforcement/police"
+},
+{
+"score": 0.234037,
+"label": "/news"
+}
+]
+}
+}

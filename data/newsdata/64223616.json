@@ -1,0 +1,2300 @@
+{
+"source_article_link": "https://timesofindia.indiatimes.com/india/siddaramaiah-to-address-cong-legislators-in-hyderabad/articleshow/64223616.cms?&utm_source=Articleshow&utm_medium=Organic&utm_campaign=Related_Stories",
+"title": "Siddaramaiah to address Cong legislators in Hyderabad",
+"date_published": "2018-05-18T18:03:46+05:30",
+"source_type": "news_article",
+"source_name": "timesofindia.indiatimes.com",
+"image_link": [
+"https://timesofindia.indiatimes.com/thumb/msid-64223636,imgsize-85010,width-400,resizemode-4/64223636.jpg"
+],
+"article_body": "HYDERABAD: Former Karnataka chief minister Siddaramaiah will address a meeting of newly-elected party legislators, who have been camping here, this evening, said JD(S) MLC Basavaraj. Amid a power struggle in neighbouring Karnataka, some of the newly-elected JD(S) and Congress MLAs from the state arrived in the city this morning and were put up in two hotels. Basavaraj said as many as 36 legislators belonging to the JD(S) and 77 of the Congress are currently camping in city hotels. \"Siddaramaiah is coming to Hyderabad. He will address legislators on the future course of action. We may go back to Bengaluru tonight,\" Basavaraj told PTI. \"We are trying for flight tickets. If we get we will fly. But getting tickets for flight appears to be difficult,\" he said when asked how they were planning to return to Bengaluru. Congress leaders in , however, are tight-lipped about the developments. The Supreme Court today ordered that a floor test be held in the Karnataka assembly at 4 PM on Saturday to confirm whether newly-appointed BJP chief minister B S Yeddyurappa enjoys a majority in the state. Political observers felt Hyderabad had been chosen for keeping the MLAs together owing to the rapport that Telangana chief minister K Chandrasekhar Rao had with JD(S) chief and former Prime Minister H D Deve Gowda. Rao had recently met Gowda at the latter's residence before the Karnataka polls. The Telangana chief minister had appealed to Telugu people living in the neighbouring state to vote for the JD(S). The JD(S) last night alleged that chartered flights that were scheduled to carry its legislators along with those of the Congress from Bangalore to Kochi were denied permission by the Directorate General of Civil Aviation at the last minute. However, a official had said that DGCA permission was not required for charter operations within India. Fearing poaching of their legislators by BJP, the Congress and JD(S) had earlier decided to fly them out of Karnataka. BJP legislature party leader B S Yeddyurappa was yesterday sworn-in as the chief minister of Karnataka. The BJP has 104 MLAs in the House. The Congress won 78 seats, while the JD(S) was victorious in 37 constituencies. Polling was held in 222 of the state's 224 seats, for which results were declared on May 15, delivering a hung House.",
+"description": "HYDERABAD: Former Karnataka chief minister Siddaramaiah will address a meeting of newly-elected party legislators, who have been camping here, this evening, said JD(S) MLC Basavaraj. Amid a power struggle in neighbouring Karnataka, some of the newly-elected JD(S) and Congress MLAs from the state arrived in the city this morning and were put up in two hotels. Basavaraj said as many as 36 legislators belonging to the JD(S) and 77 of the Congress are currently camping in city hotels. \"Siddaramaiah is coming to Hyderabad. He will address legislators on the future course of action. We may go back to Bengaluru tonight,\" Basavaraj told PTI.",
+"time_scraped": "2018-08-22 03:02:04.547687",
+"article_id": "64223616",
+"article_category": "IndiaNews",
+"image_details": [
+{
+"url": "https://timesofindia.indiatimes.com/thumb/msid-64223636,imgsize-85010,width-400,resizemode-4/64223636.jpg",
+"path": "full/5c316fe10254a940c651e1fd9dcc030e0e37dc07.jpg",
+"checksum": "e5224b66a4b2c4320e8f68a32573e9e2"
+}
+],
+"ibm_nlu": {
+"usage": {
+"text_units": 1,
+"text_characters": 2313,
+"features": 7
+},
+"sentiment": {
+"document": {
+"score": -0.185125,
+"label": "negative"
+}
+},
+"semantic_roles": [
+{
+"subject": {
+"text": "Former Karnataka chief minister Siddaramaiah"
+},
+"sentence": "HYDERABAD: Former Karnataka chief minister Siddaramaiah will address a meeting of newly-elected party legislators, who have been camping here, this evening, said JD(S) MLC Basavaraj.",
+"object": {
+"text": "a meeting of newly-elected party legislators, who have been camping here, this evening"
+},
+"action": {
+"verb": {
+"text": "address",
+"tense": "future"
+},
+"text": "will address",
+"normalized": "will address"
+}
+},
+{
+"subject": {
+"text": "newly-elected party legislators"
+},
+"sentence": "HYDERABAD: Former Karnataka chief minister Siddaramaiah will address a meeting of newly-elected party legislators, who have been camping here, this evening, said JD(S) MLC Basavaraj.",
+"object": {
+"text": "been camping here"
+},
+"action": {
+"verb": {
+"text": "have",
+"tense": "present"
+},
+"text": "have",
+"normalized": "have"
+}
+},
+{
+"subject": {
+"text": "newly-elected party legislators"
+},
+"sentence": "HYDERABAD: Former Karnataka chief minister Siddaramaiah will address a meeting of newly-elected party legislators, who have been camping here, this evening, said JD(S) MLC Basavaraj.",
+"object": {
+"text": "camping here"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "been",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "newly-elected party legislators"
+},
+"sentence": "HYDERABAD: Former Karnataka chief minister Siddaramaiah will address a meeting of newly-elected party legislators, who have been camping here, this evening, said JD(S) MLC Basavaraj.",
+"action": {
+"verb": {
+"text": "camp",
+"tense": "past"
+},
+"text": "have been camping",
+"normalized": "have be camp"
+}
+},
+{
+"subject": {
+"text": "some of the newly-elected JD(S) and Congress MLAs from the state"
+},
+"sentence": " Amid a power struggle in neighbouring Karnataka, some of the newly-elected JD(S) and Congress MLAs from the state arrived in the city this morning and were put up in two hotels.",
+"action": {
+"verb": {
+"text": "arrive",
+"tense": "past"
+},
+"text": "arrived",
+"normalized": "arrive"
+}
+},
+{
+"subject": {
+"text": "Congress MLAs from the state"
+},
+"sentence": " Amid a power struggle in neighbouring Karnataka, some of the newly-elected JD(S) and Congress MLAs from the state arrived in the city this morning and were put up in two hotels.",
+"action": {
+"verb": {
+"text": "put",
+"tense": "past"
+},
+"text": "were put",
+"normalized": "be put"
+}
+},
+{
+"subject": {
+"text": "Basavaraj"
+},
+"sentence": " Basavaraj said as many as 36 legislators belonging to the JD(S) and 77 of the Congress are currently camping in city hotels.",
+"object": {
+"text": "as many as 36 legislators belonging to the JD(S) and 77 of the Congress are currently camping in city hotels"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "to the JD(S) and 77 of the Congress"
+},
+"sentence": " Basavaraj said as many as 36 legislators belonging to the JD(S) and 77 of the Congress are currently camping in city hotels.",
+"action": {
+"verb": {
+"text": "camp",
+"tense": "present"
+},
+"text": "camping",
+"normalized": "camp"
+}
+},
+{
+"subject": {
+"text": "He"
+},
+"sentence": " He will address legislators on the future course of action.",
+"object": {
+"text": "legislators"
+},
+"action": {
+"verb": {
+"text": "address",
+"tense": "future"
+},
+"text": "will address",
+"normalized": "will address"
+}
+},
+{
+"subject": {
+"text": "Basavaraj"
+},
+"sentence": " We may go back to Bengaluru tonight,\" Basavaraj told PTI.",
+"object": {
+"text": "We may go back to Bengaluru tonight"
+},
+"action": {
+"verb": {
+"text": "tell",
+"tense": "past"
+},
+"text": "told",
+"normalized": "tell"
+}
+},
+{
+"subject": {
+"text": "We"
+},
+"sentence": " \"We are trying for flight tickets.",
+"object": {
+"text": "for flight tickets"
+},
+"action": {
+"verb": {
+"text": "try",
+"tense": "present"
+},
+"text": "are trying",
+"normalized": "be try"
+}
+},
+{
+"subject": {
+"text": "we"
+},
+"sentence": " If we get we will fly.",
+"object": {
+"text": "we will fly"
+},
+"action": {
+"verb": {
+"text": "get",
+"tense": "present"
+},
+"text": "get",
+"normalized": "get"
+}
+},
+{
+"subject": {
+"text": "tickets for flight"
+},
+"sentence": " But getting tickets for flight appears to be difficult,\" he said when asked how they were planning to return to Bengaluru.",
+"object": {
+"text": "difficult"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "future"
+},
+"text": "appears to be",
+"normalized": "appear to be"
+}
+},
+{
+"subject": {
+"text": "he"
+},
+"sentence": " But getting tickets for flight appears to be difficult,\" he said when asked how they were planning to return to Bengaluru.",
+"object": {
+"text": "But getting tickets for flight appears to be difficult"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "he"
+},
+"sentence": " But getting tickets for flight appears to be difficult,\" he said when asked how they were planning to return to Bengaluru.",
+"object": {
+"text": "how they were planning to return to Bengaluru"
+},
+"action": {
+"verb": {
+"text": "ask",
+"tense": "past"
+},
+"text": "asked",
+"normalized": "ask"
+}
+},
+{
+"subject": {
+"text": "they"
+},
+"sentence": " But getting tickets for flight appears to be difficult,\" he said when asked how they were planning to return to Bengaluru.",
+"object": {
+"text": "to return to Bengaluru"
+},
+"action": {
+"verb": {
+"text": "plan",
+"tense": "past"
+},
+"text": "planning",
+"normalized": "plan"
+}
+},
+{
+"subject": {
+"text": "Congress leaders"
+},
+"sentence": " Congress leaders in , however, are tight-lipped about the developments.",
+"object": {
+"text": "tight-lipped about the developments"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "present"
+},
+"text": "are",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "The Supreme Court"
+},
+"sentence": " The Supreme Court today ordered that a floor test be held in the Karnataka assembly at 4 PM on Saturday to confirm whether newly-appointed BJP chief minister B S Yeddyurappa enjoys a majority in the state.",
+"object": {
+"text": "that a floor test be held in the Karnataka assembly"
+},
+"action": {
+"verb": {
+"text": "order",
+"tense": "past"
+},
+"text": "ordered",
+"normalized": "order"
+}
+},
+{
+"subject": {
+"text": "a floor test"
+},
+"sentence": " The Supreme Court today ordered that a floor test be held in the Karnataka assembly at 4 PM on Saturday to confirm whether newly-appointed BJP chief minister B S Yeddyurappa enjoys a majority in the state.",
+"action": {
+"verb": {
+"text": "hold",
+"tense": "past"
+},
+"text": "be held",
+"normalized": "be hold"
+}
+},
+{
+"subject": {
+"text": "newly-appointed BJP chief minister B S Yeddyurappa"
+},
+"sentence": " The Supreme Court today ordered that a floor test be held in the Karnataka assembly at 4 PM on Saturday to confirm whether newly-appointed BJP chief minister B S Yeddyurappa enjoys a majority in the state.",
+"object": {
+"text": "a majority in the state"
+},
+"action": {
+"verb": {
+"text": "enjoy",
+"tense": "present"
+},
+"text": "enjoys",
+"normalized": "enjoy"
+}
+},
+{
+"subject": {
+"text": "Political observers"
+},
+"sentence": " Political observers felt Hyderabad had been chosen for keeping the MLAs together owing to the rapport that Telangana chief minister K Chandrasekhar Rao had with JD(S) chief and former Prime Minister H D Deve Gowda.",
+"object": {
+"text": "Hyderabad had been chosen for keeping the MLAs together owing to the rapport that Telangana chief minister K Chandrasekhar Rao had with JD(S) chief and former Prime Minister H D Deve Gowda"
+},
+"action": {
+"verb": {
+"text": "feel",
+"tense": "past"
+},
+"text": "felt",
+"normalized": "feel"
+}
+},
+{
+"subject": {
+"text": "Rao"
+},
+"sentence": " Rao had recently met Gowda at the latter's residence before the Karnataka polls.",
+"action": {
+"verb": {
+"text": "have",
+"tense": "past"
+},
+"text": "had",
+"normalized": "have"
+}
+},
+{
+"subject": {
+"text": "Rao"
+},
+"sentence": " Rao had recently met Gowda at the latter's residence before the Karnataka polls.",
+"object": {
+"text": "Gowda"
+},
+"action": {
+"verb": {
+"text": "meet",
+"tense": "past"
+},
+"text": "met",
+"normalized": "meet"
+}
+},
+{
+"subject": {
+"text": "The Telangana chief minister"
+},
+"sentence": " The Telangana chief minister had appealed to Telugu people living in the neighbouring state to vote for the JD(S).",
+"object": {
+"text": "to Telugu people living in the neighbouring state"
+},
+"action": {
+"verb": {
+"text": "appeal",
+"tense": "past"
+},
+"text": "had appealed",
+"normalized": "have appeal"
+}
+},
+{
+"subject": {
+"text": "Telugu people"
+},
+"sentence": " The Telangana chief minister had appealed to Telugu people living in the neighbouring state to vote for the JD(S).",
+"action": {
+"verb": {
+"text": "live",
+"tense": "past"
+},
+"text": "living",
+"normalized": "live"
+}
+},
+{
+"subject": {
+"text": "The JD(S)"
+},
+"sentence": " The JD(S) last night alleged that chartered flights that were scheduled to carry its legislators along with those of the Congress from Bangalore to Kochi were denied permission by the Directorate General of Civil Aviation at the last minute.",
+"object": {
+"text": "that chartered flights that were scheduled to carry its legislators along with those of the Congress from Bangalore to Kochi were denied permission by the Directorate General of Civil Aviation at the last minute"
+},
+"action": {
+"verb": {
+"text": "allege",
+"tense": "past"
+},
+"text": "alleged",
+"normalized": "allege"
+}
+},
+{
+"subject": {
+"text": "chartered flights"
+},
+"sentence": " The JD(S) last night alleged that chartered flights that were scheduled to carry its legislators along with those of the Congress from Bangalore to Kochi were denied permission by the Directorate General of Civil Aviation at the last minute.",
+"object": {
+"text": "scheduled to carry its legislators along with those of the Congress from Bangalore"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "were",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "chartered flights"
+},
+"sentence": " The JD(S) last night alleged that chartered flights that were scheduled to carry its legislators along with those of the Congress from Bangalore to Kochi were denied permission by the Directorate General of Civil Aviation at the last minute.",
+"object": {
+"text": "to carry its legislators along with those of the Congress from Bangalore to Kochi"
+},
+"action": {
+"verb": {
+"text": "schedule",
+"tense": "past"
+},
+"text": "scheduled",
+"normalized": "schedule"
+}
+},
+{
+"subject": {
+"text": "flights"
+},
+"sentence": " The JD(S) last night alleged that chartered flights that were scheduled to carry its legislators along with those of the Congress from Bangalore to Kochi were denied permission by the Directorate General of Civil Aviation at the last minute.",
+"object": {
+"text": "its legislators"
+},
+"action": {
+"verb": {
+"text": "carry",
+"tense": "past"
+},
+"text": "were scheduled to carry",
+"normalized": "be schedule to carry"
+}
+},
+{
+"subject": {
+"text": "a official"
+},
+"sentence": " However, a official had said that DGCA permission was not required for charter operations within India.",
+"object": {
+"text": "that DGCA permission was not required for charter operations within India"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "had said",
+"normalized": "have say"
+}
+},
+{
+"subject": {
+"text": "by BJP, the Congress and JD(S)"
+},
+"sentence": " Fearing poaching of their legislators by BJP, the Congress and JD(S) had earlier decided to fly them out of Karnataka.",
+"object": {
+"text": "poaching of their legislators"
+},
+"action": {
+"verb": {
+"text": "Fearing",
+"tense": "present"
+},
+"text": "Fearing",
+"normalized": "Fearing"
+}
+},
+{
+"subject": {
+"text": "the Congress and JD(S)"
+},
+"sentence": " Fearing poaching of their legislators by BJP, the Congress and JD(S) had earlier decided to fly them out of Karnataka.",
+"action": {
+"verb": {
+"text": "have",
+"tense": "past"
+},
+"text": "had",
+"normalized": "have"
+}
+},
+{
+"subject": {
+"text": "the Congress and JD(S)"
+},
+"sentence": " Fearing poaching of their legislators by BJP, the Congress and JD(S) had earlier decided to fly them out of Karnataka.",
+"object": {
+"text": "to fly them out of Karnataka"
+},
+"action": {
+"verb": {
+"text": "decide",
+"tense": "past"
+},
+"text": "decided",
+"normalized": "decide"
+}
+},
+{
+"subject": {
+"text": "the Congress and JD(S)"
+},
+"sentence": " Fearing poaching of their legislators by BJP, the Congress and JD(S) had earlier decided to fly them out of Karnataka.",
+"object": {
+"text": "them"
+},
+"action": {
+"verb": {
+"text": "fly",
+"tense": "past"
+},
+"text": "to fly",
+"normalized": "to fly"
+}
+},
+{
+"subject": {
+"text": "BJP legislature party leader B S Yeddyurappa"
+},
+"sentence": " BJP legislature party leader B S Yeddyurappa was yesterday sworn-in as the chief minister of Karnataka.",
+"object": {
+"text": "yesterday sworn-in"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "was",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "The BJP"
+},
+"sentence": " The BJP has 104 MLAs in the House.",
+"object": {
+"text": "104 MLAs"
+},
+"action": {
+"verb": {
+"text": "have",
+"tense": "present"
+},
+"text": "has",
+"normalized": "have"
+}
+},
+{
+"subject": {
+"text": "The Congress"
+},
+"sentence": " The Congress won 78 seats, while the JD(S) was victorious in 37 constituencies.",
+"object": {
+"text": "78 seats"
+},
+"action": {
+"verb": {
+"text": "win",
+"tense": "past"
+},
+"text": "won",
+"normalized": "win"
+}
+},
+{
+"subject": {
+"text": "the JD(S)"
+},
+"sentence": " The Congress won 78 seats, while the JD(S) was victorious in 37 constituencies.",
+"object": {
+"text": "victorious in 37 constituencies"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "was",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "Polling"
+},
+"sentence": " Polling was held in 222 of the state's 224 seats, for which results were declared on May 15, delivering a hung House.",
+"object": {
+"text": "held in 222 of the state's 224 seats"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "was",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "Polling"
+},
+"sentence": " Polling was held in 222 of the state's 224 seats, for which results were declared on May 15, delivering a hung House.",
+"action": {
+"verb": {
+"text": "hold",
+"tense": "past"
+},
+"text": "was held",
+"normalized": "be hold"
+}
+},
+{
+"subject": {
+"text": "results"
+},
+"sentence": " Polling was held in 222 of the state's 224 seats, for which results were declared on May 15, delivering a hung House.",
+"object": {
+"text": "declared on May 15"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "were",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "results"
+},
+"sentence": " Polling was held in 222 of the state's 224 seats, for which results were declared on May 15, delivering a hung House.",
+"action": {
+"verb": {
+"text": "declare",
+"tense": "past"
+},
+"text": "were declared",
+"normalized": "be declare"
+}
+}
+],
+"relations": [
+{
+"type": "employedBy",
+"sentence": "HYDERABAD: Former Karnataka chief minister Siddaramaiah will address a meeting of newly-elected party legislators, who have been camping here, this evening, said JD(S) MLC Basavaraj.",
+"score": 0.538115,
+"arguments": [
+{
+"text": "chief minister",
+"location": [
+28,
+42
+],
+"entities": [
+{
+"type": "Person",
+"text": "Siddaramaiah"
+}
+]
+},
+{
+"text": "Karnataka",
+"location": [
+18,
+27
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Karnataka"
+}
+]
+}
+]
+},
+{
+"type": "residesIn",
+"sentence": "\"Siddaramaiah is coming to Hyderabad.",
+"score": 0.610096,
+"arguments": [
+{
+"text": "Siddaramaiah",
+"location": [
+487,
+499
+],
+"entities": [
+{
+"type": "Person",
+"text": "Siddaramaiah"
+}
+]
+},
+{
+"text": "Hyderabad",
+"location": [
+513,
+522
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "HYDERABAD"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "He will address legislators on the future course of action.",
+"score": 0.976362,
+"arguments": [
+{
+"text": "He",
+"location": [
+524,
+526
+],
+"entities": [
+{
+"type": "Person",
+"text": "Siddaramaiah"
+}
+]
+},
+{
+"text": "address",
+"location": [
+532,
+539
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "address"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "He will address legislators on the future course of action.",
+"score": 0.733212,
+"arguments": [
+{
+"text": "legislators",
+"location": [
+540,
+551
+],
+"entities": [
+{
+"type": "Person",
+"text": "legislators"
+}
+]
+},
+{
+"text": "address",
+"location": [
+532,
+539
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "address"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "We may go back to Bengaluru tonight,\" Basavaraj told PTI.",
+"score": 0.533543,
+"arguments": [
+{
+"text": "We",
+"location": [
+584,
+586
+],
+"entities": [
+{
+"type": "Person",
+"text": "legislators"
+}
+]
+},
+{
+"text": "Bengaluru",
+"location": [
+602,
+611
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Bengaluru"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "But getting tickets for flight appears to be difficult,\" he said when asked how they were planning to return to Bengaluru.",
+"score": 0.688786,
+"arguments": [
+{
+"text": "they",
+"location": [
+780,
+784
+],
+"entities": [
+{
+"type": "Person",
+"text": "legislators"
+}
+]
+},
+{
+"text": "Bengaluru",
+"location": [
+812,
+821
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Bengaluru"
+}
+]
+}
+]
+},
+{
+"type": "partOfMany",
+"sentence": "We may go back to Bengaluru tonight,\" Basavaraj told PTI.",
+"score": 0.718841,
+"arguments": [
+{
+"text": "Basavaraj",
+"location": [
+622,
+631
+],
+"entities": [
+{
+"type": "Person",
+"text": "MLC Basavaraj"
+}
+]
+},
+{
+"text": "We",
+"location": [
+584,
+586
+],
+"entities": [
+{
+"type": "Person",
+"text": "legislators"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "We may go back to Bengaluru tonight,\" Basavaraj told PTI.",
+"score": 0.929347,
+"arguments": [
+{
+"text": "PTI",
+"location": [
+637,
+640
+],
+"entities": [
+{
+"type": "Organization",
+"text": "PTI",
+"disambiguation": {
+"subtype": [
+"Commercial"
+]
+}
+}
+]
+},
+{
+"text": "told",
+"location": [
+632,
+636
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "But getting tickets for flight appears to be difficult,\" he said when asked how they were planning to return to Bengaluru.",
+"score": 0.989196,
+"arguments": [
+{
+"text": "he",
+"location": [
+757,
+759
+],
+"entities": [
+{
+"type": "Person",
+"text": "Siddaramaiah"
+}
+]
+},
+{
+"text": "said",
+"location": [
+760,
+764
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "Congress leaders in , however, are tight-lipped about the developments.",
+"score": 0.475632,
+"arguments": [
+{
+"text": "leaders",
+"location": [
+832,
+839
+],
+"entities": [
+{
+"type": "Person",
+"text": "leaders"
+}
+]
+},
+{
+"text": "Congress",
+"location": [
+823,
+831
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Congress MLAs",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "The Supreme Court today ordered that a floor test be held in the Karnataka assembly at 4 PM on Saturday to confirm whether newly-appointed BJP chief minister B S Yeddyurappa enjoys a majority in the state.",
+"score": 0.603573,
+"arguments": [
+{
+"text": "Supreme Court",
+"location": [
+899,
+912
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Supreme Court",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+},
+{
+"text": "ordered",
+"location": [
+919,
+926
+],
+"entities": [
+{
+"type": "EventLegal",
+"text": "ordered"
+}
+]
+}
+]
+},
+{
+"type": "timeOf",
+"sentence": "The Supreme Court today ordered that a floor test be held in the Karnataka assembly at 4 PM on Saturday to confirm whether newly-appointed BJP chief minister B S Yeddyurappa enjoys a majority in the state.",
+"score": 0.800131,
+"arguments": [
+{
+"text": "today",
+"location": [
+913,
+918
+],
+"entities": [
+{
+"type": "Date",
+"text": "today"
+}
+]
+},
+{
+"text": "ordered",
+"location": [
+919,
+926
+],
+"entities": [
+{
+"type": "EventLegal",
+"text": "ordered"
+}
+]
+}
+]
+},
+{
+"type": "participantIn",
+"sentence": "HYDERABAD: Former Karnataka chief minister Siddaramaiah will address a meeting of newly-elected party legislators, who have been camping here, this evening, said JD(S) MLC Basavaraj.",
+"score": 0.758686,
+"arguments": [
+{
+"text": "Siddaramaiah",
+"location": [
+43,
+55
+],
+"entities": [
+{
+"type": "Person",
+"text": "Siddaramaiah"
+}
+]
+},
+{
+"text": "meeting",
+"location": [
+71,
+78
+],
+"entities": [
+{
+"type": "EventMeeting",
+"text": "meeting"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "Political observers felt Hyderabad had been chosen for keeping the MLAs together owing to the rapport that Telangana chief minister K Chandrasekhar Rao had with JD(S) chief and former Prime Minister H D Deve Gowda.",
+"score": 0.506298,
+"arguments": [
+{
+"text": "observers",
+"location": [
+1111,
+1120
+],
+"entities": [
+{
+"type": "Person",
+"text": "observers"
+}
+]
+},
+{
+"text": "Hyderabad",
+"location": [
+1126,
+1135
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "HYDERABAD"
+}
+]
+}
+]
+},
+{
+"type": "colleague",
+"sentence": "Political observers felt Hyderabad had been chosen for keeping the MLAs together owing to the rapport that Telangana chief minister K Chandrasekhar Rao had with JD(S) chief and former Prime Minister H D Deve Gowda.",
+"score": 0.650422,
+"arguments": [
+{
+"text": "chief minister",
+"location": [
+1218,
+1232
+],
+"entities": [
+{
+"type": "Person",
+"text": "K Chandrasekhar Rao"
+}
+]
+},
+{
+"text": "Telangana",
+"location": [
+1208,
+1217
+],
+"entities": [
+{
+"type": "Person",
+"text": "Telangana"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "Rao had recently met Gowda at the latter's residence before the Karnataka polls.",
+"score": 0.638366,
+"arguments": [
+{
+"text": "Rao",
+"location": [
+1316,
+1319
+],
+"entities": [
+{
+"type": "Person",
+"text": "K Chandrasekhar Rao"
+}
+]
+},
+{
+"text": "residence",
+"location": [
+1359,
+1368
+],
+"entities": [
+{
+"type": "Facility",
+"text": "residence"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "Rao had recently met Gowda at the latter's residence before the Karnataka polls.",
+"score": 0.792328,
+"arguments": [
+{
+"text": "Gowda",
+"location": [
+1337,
+1342
+],
+"entities": [
+{
+"type": "Person",
+"text": "H D Deve Gowda"
+}
+]
+},
+{
+"text": "residence",
+"location": [
+1359,
+1368
+],
+"entities": [
+{
+"type": "Facility",
+"text": "residence"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "Rao had recently met Gowda at the latter's residence before the Karnataka polls.",
+"score": 0.433272,
+"arguments": [
+{
+"text": "Gowda",
+"location": [
+1337,
+1342
+],
+"entities": [
+{
+"type": "Person",
+"text": "H D Deve Gowda"
+}
+]
+},
+{
+"text": "polls",
+"location": [
+1390,
+1395
+],
+"entities": [
+{
+"type": "Facility",
+"text": "polls"
+}
+]
+}
+]
+},
+{
+"type": "near",
+"sentence": "Rao had recently met Gowda at the latter's residence before the Karnataka polls.",
+"score": 0.392252,
+"arguments": [
+{
+"text": "residence",
+"location": [
+1359,
+1368
+],
+"entities": [
+{
+"type": "Facility",
+"text": "residence"
+}
+]
+},
+{
+"text": "polls",
+"location": [
+1390,
+1395
+],
+"entities": [
+{
+"type": "Facility",
+"text": "polls"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "Rao had recently met Gowda at the latter's residence before the Karnataka polls.",
+"score": 0.742299,
+"arguments": [
+{
+"text": "polls",
+"location": [
+1390,
+1395
+],
+"entities": [
+{
+"type": "Facility",
+"text": "polls"
+}
+]
+},
+{
+"text": "Karnataka",
+"location": [
+1380,
+1389
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Karnataka"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "The Telangana chief minister had appealed to Telugu people living in the neighbouring state to vote for the JD(S).",
+"score": 0.681473,
+"arguments": [
+{
+"text": "Telangana",
+"location": [
+1401,
+1410
+],
+"entities": [
+{
+"type": "Person",
+"text": "Telangana"
+}
+]
+},
+{
+"text": "appealed",
+"location": [
+1430,
+1438
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "appealed"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "The Telangana chief minister had appealed to Telugu people living in the neighbouring state to vote for the JD(S).",
+"score": 0.900058,
+"arguments": [
+{
+"text": "people",
+"location": [
+1449,
+1455
+],
+"entities": [
+{
+"type": "Person",
+"text": "people"
+}
+]
+},
+{
+"text": "appealed",
+"location": [
+1430,
+1438
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "appealed"
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "The Telangana chief minister had appealed to Telugu people living in the neighbouring state to vote for the JD(S).",
+"score": 0.582783,
+"arguments": [
+{
+"text": "people",
+"location": [
+1449,
+1455
+],
+"entities": [
+{
+"type": "Person",
+"text": "people"
+}
+]
+},
+{
+"text": "Telugu",
+"location": [
+1442,
+1448
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Telugu"
+}
+]
+}
+]
+},
+{
+"type": "participantIn",
+"sentence": "HYDERABAD: Former Karnataka chief minister Siddaramaiah will address a meeting of newly-elected party legislators, who have been camping here, this evening, said JD(S) MLC Basavaraj.",
+"score": 0.583185,
+"arguments": [
+{
+"text": "legislators",
+"location": [
+102,
+113
+],
+"entities": [
+{
+"type": "Person",
+"text": "legislators"
+}
+]
+},
+{
+"text": "meeting",
+"location": [
+71,
+78
+],
+"entities": [
+{
+"type": "EventMeeting",
+"text": "meeting"
+}
+]
+}
+]
+},
+{
+"type": "timeOf",
+"sentence": "The JD(S) last night alleged that chartered flights that were scheduled to carry its legislators along with those of the Congress from Bangalore to Kochi were denied permission by the Directorate General of Civil Aviation at the last minute.",
+"score": 0.867339,
+"arguments": [
+{
+"text": "last night",
+"location": [
+1522,
+1532
+],
+"entities": [
+{
+"type": "Time",
+"text": "last night"
+}
+]
+},
+{
+"text": "alleged",
+"location": [
+1533,
+1540
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "alleged"
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "The JD(S) last night alleged that chartered flights that were scheduled to carry its legislators along with those of the Congress from Bangalore to Kochi were denied permission by the Directorate General of Civil Aviation at the last minute.",
+"score": 0.805039,
+"arguments": [
+{
+"text": "legislators",
+"location": [
+1597,
+1608
+],
+"entities": [
+{
+"type": "Person",
+"text": "legislators"
+}
+]
+},
+{
+"text": "its",
+"location": [
+1593,
+1596
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Telugu"
+}
+]
+}
+]
+},
+{
+"type": "basedIn",
+"sentence": "The JD(S) last night alleged that chartered flights that were scheduled to carry its legislators along with those of the Congress from Bangalore to Kochi were denied permission by the Directorate General of Civil Aviation at the last minute.",
+"score": 0.705943,
+"arguments": [
+{
+"text": "Congress",
+"location": [
+1633,
+1641
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Congress MLAs",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+},
+{
+"text": "Bangalore",
+"location": [
+1647,
+1656
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Bangalore"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "However, a official had said that DGCA permission was not required for charter operations within India.",
+"score": 0.692726,
+"arguments": [
+{
+"text": "official",
+"location": [
+1765,
+1773
+],
+"entities": [
+{
+"type": "Person",
+"text": "official"
+}
+]
+},
+{
+"text": "said",
+"location": [
+1778,
+1782
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "appealed"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "Fearing poaching of their legislators by BJP, the Congress and JD(S) had earlier decided to fly them out of Karnataka.",
+"score": 0.558049,
+"arguments": [
+{
+"text": "them",
+"location": [
+1954,
+1958
+],
+"entities": [
+{
+"type": "Person",
+"text": "legislators"
+}
+]
+},
+{
+"text": "Karnataka",
+"location": [
+1966,
+1975
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Karnataka"
+}
+]
+}
+]
+},
+{
+"type": "managerOf",
+"sentence": "BJP legislature party leader B S Yeddyurappa was yesterday sworn-in as the chief minister of Karnataka.",
+"score": 0.495346,
+"arguments": [
+{
+"text": "leader",
+"location": [
+1999,
+2005
+],
+"entities": [
+{
+"type": "Person",
+"text": "B S Yeddyurappa"
+}
+]
+},
+{
+"text": "party",
+"location": [
+1993,
+1998
+],
+"entities": [
+{
+"type": "Organization",
+"text": "BJP legislature"
+}
+]
+}
+]
+},
+{
+"type": "residesIn",
+"sentence": "BJP legislature party leader B S Yeddyurappa was yesterday sworn-in as the chief minister of Karnataka.",
+"score": 0.785909,
+"arguments": [
+{
+"text": "chief minister",
+"location": [
+2052,
+2066
+],
+"entities": [
+{
+"type": "Person",
+"text": "B S Yeddyurappa"
+}
+]
+},
+{
+"text": "Karnataka",
+"location": [
+2070,
+2079
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Karnataka"
+}
+]
+}
+]
+},
+{
+"type": "populationOf",
+"sentence": "Polling was held in 222 of the state's 224 seats, for which results were declared on May 15, delivering a hung House.",
+"score": 0.409902,
+"arguments": [
+{
+"text": "224",
+"location": [
+2235,
+2238
+],
+"entities": [
+{
+"type": "Cardinal",
+"text": "224"
+}
+]
+},
+{
+"text": "state",
+"location": [
+2227,
+2232
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "state"
+}
+]
+}
+]
+},
+{
+"type": "timeOf",
+"sentence": "Polling was held in 222 of the state's 224 seats, for which results were declared on May 15, delivering a hung House.",
+"score": 0.95579,
+"arguments": [
+{
+"text": "May 15",
+"location": [
+2281,
+2287
+],
+"entities": [
+{
+"type": "Date",
+"text": "May 15"
+}
+]
+},
+{
+"text": "declared",
+"location": [
+2269,
+2277
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "declared"
+}
+]
+}
+]
+},
+{
+"type": "timeOf",
+"sentence": "HYDERABAD: Former Karnataka chief minister Siddaramaiah will address a meeting of newly-elected party legislators, who have been camping here, this evening, said JD(S) MLC Basavaraj.",
+"score": 0.693024,
+"arguments": [
+{
+"text": "evening",
+"location": [
+148,
+155
+],
+"entities": [
+{
+"type": "Time",
+"text": "evening"
+}
+]
+},
+{
+"text": "meeting",
+"location": [
+71,
+78
+],
+"entities": [
+{
+"type": "EventMeeting",
+"text": "meeting"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "HYDERABAD: Former Karnataka chief minister Siddaramaiah will address a meeting of newly-elected party legislators, who have been camping here, this evening, said JD(S) MLC Basavaraj.",
+"score": 0.799989,
+"arguments": [
+{
+"text": "MLC Basavaraj",
+"location": [
+168,
+181
+],
+"entities": [
+{
+"type": "Person",
+"text": "MLC Basavaraj"
+}
+]
+},
+{
+"text": "said",
+"location": [
+157,
+161
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Basavaraj said as many as 36 legislators belonging to the JD(S) and 77 of the Congress are currently camping in city hotels.",
+"score": 0.997464,
+"arguments": [
+{
+"text": "Basavaraj",
+"location": [
+361,
+370
+],
+"entities": [
+{
+"type": "Person",
+"text": "MLC Basavaraj"
+}
+]
+},
+{
+"text": "said",
+"location": [
+371,
+375
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "We may go back to Bengaluru tonight,\" Basavaraj told PTI.",
+"score": 0.991707,
+"arguments": [
+{
+"text": "Basavaraj",
+"location": [
+622,
+631
+],
+"entities": [
+{
+"type": "Person",
+"text": "MLC Basavaraj"
+}
+]
+},
+{
+"text": "told",
+"location": [
+632,
+636
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "basedIn",
+"sentence": "Amid a power struggle in neighbouring Karnataka, some of the newly-elected JD(S) and Congress MLAs from the state arrived in the city this morning and were put up in two hotels.",
+"score": 0.693792,
+"arguments": [
+{
+"text": "Congress MLAs",
+"location": [
+268,
+281
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Congress MLAs",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+},
+{
+"text": "state",
+"location": [
+291,
+296
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "state"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "Amid a power struggle in neighbouring Karnataka, some of the newly-elected JD(S) and Congress MLAs from the state arrived in the city this morning and were put up in two hotels.",
+"score": 0.423996,
+"arguments": [
+{
+"text": "hotels",
+"location": [
+353,
+359
+],
+"entities": [
+{
+"type": "Organization",
+"text": "hotels"
+}
+]
+},
+{
+"text": "city",
+"location": [
+312,
+316
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Karnataka"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "Basavaraj said as many as 36 legislators belonging to the JD(S) and 77 of the Congress are currently camping in city hotels.",
+"score": 0.505778,
+"arguments": [
+{
+"text": "Basavaraj",
+"location": [
+361,
+370
+],
+"entities": [
+{
+"type": "Person",
+"text": "MLC Basavaraj"
+}
+]
+},
+{
+"text": "hotels",
+"location": [
+478,
+484
+],
+"entities": [
+{
+"type": "Organization",
+"text": "hotels"
+}
+]
+}
+]
+},
+{
+"type": "basedIn",
+"sentence": "Basavaraj said as many as 36 legislators belonging to the JD(S) and 77 of the Congress are currently camping in city hotels.",
+"score": 0.867951,
+"arguments": [
+{
+"text": "hotels",
+"location": [
+478,
+484
+],
+"entities": [
+{
+"type": "Organization",
+"text": "hotels"
+}
+]
+},
+{
+"text": "city",
+"location": [
+473,
+477
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Karnataka"
+}
+]
+}
+]
+}
+],
+"language": "en",
+"keywords": [
+{
+"text": "chief minister",
+"sentiment": {
+"score": 0.565113,
+"label": "positive"
+},
+"relevance": 0.917237,
+"emotion": {
+"sadness": 0.252819,
+"joy": 0.188001,
+"fear": 0.1413,
+"disgust": 0.467035,
+"anger": 0.196047
+}
+},
+{
+"text": "Telangana chief minister",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.748022,
+"emotion": {
+"sadness": 0.271291,
+"joy": 0.153855,
+"fear": 0.141223,
+"disgust": 0.55068,
+"anger": 0.09243
+}
+},
+{
+"text": "Karnataka chief minister",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.723704,
+"emotion": {
+"sadness": 0.365864,
+"joy": 0.265051,
+"fear": 0.137513,
+"disgust": 0.05182,
+"anger": 0.040927
+}
+},
+{
+"text": "BJP chief minister",
+"sentiment": {
+"score": 0.565113,
+"label": "positive"
+},
+"relevance": 0.660427,
+"emotion": {
+"sadness": 0.181389,
+"joy": 0.252596,
+"fear": 0.163899,
+"disgust": 0.136756,
+"anger": 0.136953
+}
+},
+{
+"text": "JD",
+"sentiment": {
+"score": 0.270361,
+"label": "positive"
+},
+"relevance": 0.654204,
+"emotion": {
+"sadness": 0.093175,
+"joy": 0.071787,
+"fear": 0.064841,
+"disgust": 0.52375,
+"anger": 0.044346
+}
+}
+],
+"entities": [
+{
+"type": "Location",
+"text": "Karnataka",
+"sentiment": {
+"score": -0.135819,
+"label": "negative"
+},
+"relevance": 0.927214,
+"emotion": {
+"sadness": 0.355638,
+"joy": 0.175793,
+"fear": 0.184349,
+"disgust": 0.157754,
+"anger": 0.181272
+},
+"disambiguation": {
+"subtype": [
+"StateOrCounty"
+]
+},
+"count": 7
+},
+{
+"type": "Organization",
+"text": "Congress",
+"sentiment": {
+"score": -0.421434,
+"label": "negative"
+},
+"relevance": 0.563472,
+"emotion": {
+"sadness": 0.163343,
+"joy": 0.184389,
+"fear": 0.096929,
+"disgust": 0.566211,
+"anger": 0.19051
+},
+"count": 4
+},
+{
+"type": "Organization",
+"text": "BJP",
+"sentiment": {
+"score": 0.08071,
+"label": "positive"
+},
+"relevance": 0.550195,
+"emotion": {
+"sadness": 0.099321,
+"joy": 0.049807,
+"fear": 0.755329,
+"disgust": 0.218336,
+"anger": 0.142967
+},
+"count": 4
+},
+{
+"type": "Location",
+"text": "HYDERABAD",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.43551,
+"emotion": {
+"sadness": 0.336216,
+"joy": 0.310944,
+"fear": 0.100578,
+"disgust": 0.195855,
+"anger": 0.090811
+},
+"disambiguation": {
+"subtype": [
+"City"
+]
+},
+"count": 3
+}
+],
+"concepts": [
+{
+"text": "Andhra Pradesh",
+"relevance": 0.951643,
+"dbpedia_resource": "http://dbpedia.org/resource/Andhra_Pradesh"
+},
+{
+"text": "Karnataka",
+"relevance": 0.913767,
+"dbpedia_resource": "http://dbpedia.org/resource/Karnataka"
+},
+{
+"text": "Supreme Court of the United States",
+"relevance": 0.874106,
+"dbpedia_resource": "http://dbpedia.org/resource/Supreme_Court_of_the_United_States"
+},
+{
+"text": "B. S. Yeddyurappa",
+"relevance": 0.757183,
+"dbpedia_resource": "http://dbpedia.org/resource/B._S._Yeddyurappa"
+},
+{
+"text": "United States Congress",
+"relevance": 0.749367,
+"dbpedia_resource": "http://dbpedia.org/resource/United_States_Congress"
+}
+],
+"categories": [
+{
+"score": 0.66315,
+"label": "/law, govt and politics/politics/elections"
+},
+{
+"score": 0.380545,
+"label": "/law, govt and politics/government"
+},
+{
+"score": 0.277494,
+"label": "/sports/fishing/fly fishing"
+}
+]
+}
+}

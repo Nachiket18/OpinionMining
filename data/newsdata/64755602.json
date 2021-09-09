@@ -1,0 +1,1187 @@
+{
+"source_article_link": "https://timesofindia.indiatimes.com/india/aurangzeb-is-congress-idol-bjp-hits-back/articleshow/64755602.cms?&utm_source=Articleshow&utm_medium=Organic&utm_campaign=Related_Stories",
+"title": "Aurangzeb is Congress' idol, BJP hits back",
+"date_published": "2018-06-27T04:24:24+05:30",
+"source_type": "news_article",
+"source_name": "timesofindia.indiatimes.com",
+"image_link": [],
+"article_body": "NEW DELHI: BJP on Tuesday reacted to Congress likening Prime Minister to Aurangzeb by saying it was the opposition party that had followed the controversial Mughal ruler as its role model. \u201cCongress should know their ties with Aurangzeb and Mughals. They were acknowledged by who said just as in the case of Mughals, it was understood Aurangzeb will take over from Shahjehan, it was clear that Rahul Gandhi will succeed ,\u201d BJP media chief Anil Baluni said. Baluni accused Congress of glorifying Aurangzeb despite the latter\u2019s communal outlook. \u201cThey put him on a pedestal, glorified him by naming an important thoroughfare in Delhi after him and glossed over the atrocities he committed on Hindus,\u201d the Rajya Sabha member added. He further said Congress, instead of apologising for the \u201cmurder of democracy\u201d during the Emergency, had tried to deflect attention by targeting the PM. The attack came as BJP observed the 43rd anniversary of imposition of Emergency by slamming Congress. Law minister Ravishankar Prasad said Emergency was part of Congress\u2019s . \u201cWhen it loses elections, it blames EVMs and the EC,\u201d Prasad said",
+"description": "NEW DELHI: BJP on Tuesday reacted to Congress likening Prime Minister to Aurangzeb by saying it was the opposition party that had followed the controversial Mughal ruler as its role model. \u201cCongress should know their ties with Aurangzeb and Mughals. They were acknowledged by who said just as in the case of Mughals, it was understood Aurangzeb will take over from Shahjehan, it was clear that Rahul Gandhi will succeed ,\u201d BJP media chief Anil Baluni said.",
+"time_scraped": "2018-08-23 15:01:50.831611",
+"article_id": "64755602",
+"article_category": "IndiaNews",
+"image_details": [],
+"ibm_nlu": {
+"usage": {
+"text_units": 1,
+"text_characters": 1121,
+"features": 7
+},
+"sentiment": {
+"document": {
+"score": -0.257994,
+"label": "negative"
+}
+},
+"semantic_roles": [
+{
+"subject": {
+"text": "BJP"
+},
+"sentence": "NEW DELHI: BJP on Tuesday reacted to Congress likening Prime Minister to Aurangzeb by saying it was the opposition party that had followed the controversial Mughal ruler as its role model.",
+"object": {
+"text": "to Congress likening Prime Minister to Aurangzeb by saying it was the opposition party that had followed the controversial Mughal ruler as its role model"
+},
+"action": {
+"verb": {
+"text": "react",
+"tense": "past"
+},
+"text": "reacted",
+"normalized": "react"
+}
+},
+{
+"subject": {
+"text": "the opposition party"
+},
+"sentence": "NEW DELHI: BJP on Tuesday reacted to Congress likening Prime Minister to Aurangzeb by saying it was the opposition party that had followed the controversial Mughal ruler as its role model.",
+"object": {
+"text": "followed the controversial Mughal ruler as its role model"
+},
+"action": {
+"verb": {
+"text": "have",
+"tense": "past"
+},
+"text": "had",
+"normalized": "have"
+}
+},
+{
+"subject": {
+"text": "Congress"
+},
+"sentence": " \u201cCongress should know their ties with Aurangzeb and Mughals.",
+"object": {
+"text": "their ties"
+},
+"action": {
+"verb": {
+"text": "know",
+"tense": "future"
+},
+"text": "should know",
+"normalized": "should know"
+}
+},
+{
+"subject": {
+"text": "They"
+},
+"sentence": " They were acknowledged by who said just as in the case of Mughals, it was understood Aurangzeb will take over from Shahjehan, it was clear that Rahul Gandhi will succeed ,\u201d BJP media chief Anil Baluni said.",
+"object": {
+"text": "by who said just as in the case of Mughals"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "were acknowledged",
+"normalized": "be acknowledge"
+}
+},
+{
+"subject": {
+"text": "by who said just as in the case of Mughals"
+},
+"sentence": " They were acknowledged by who said just as in the case of Mughals, it was understood Aurangzeb will take over from Shahjehan, it was clear that Rahul Gandhi will succeed ,\u201d BJP media chief Anil Baluni said.",
+"object": {
+"text": "They"
+},
+"action": {
+"verb": {
+"text": "acknowledge",
+"tense": "past"
+},
+"text": "were acknowledged",
+"normalized": "be acknowledge"
+}
+},
+{
+"subject": {
+"text": "that Rahul Gandhi will succeed"
+},
+"sentence": " They were acknowledged by who said just as in the case of Mughals, it was understood Aurangzeb will take over from Shahjehan, it was clear that Rahul Gandhi will succeed ,\u201d BJP media chief Anil Baluni said.",
+"object": {
+"text": "clear"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "was",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "BJP media chief Anil Baluni"
+},
+"sentence": " They were acknowledged by who said just as in the case of Mughals, it was understood Aurangzeb will take over from Shahjehan, it was clear that Rahul Gandhi will succeed ,\u201d BJP media chief Anil Baluni said.",
+"object": {
+"text": "it was understood Aurangzeb will take over from Shahjehan, it was clear that Rahul Gandhi will succeed"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "Baluni"
+},
+"sentence": " Baluni accused Congress of glorifying Aurangzeb despite the latter\u2019s communal outlook.",
+"object": {
+"text": "Congress"
+},
+"action": {
+"verb": {
+"text": "accuse",
+"tense": "past"
+},
+"text": "accused",
+"normalized": "accuse"
+}
+},
+{
+"subject": {
+"text": "Congress"
+},
+"sentence": " Baluni accused Congress of glorifying Aurangzeb despite the latter\u2019s communal outlook.",
+"object": {
+"text": "Aurangzeb"
+},
+"action": {
+"verb": {
+"text": "glorify",
+"tense": "future"
+},
+"text": "glorifying",
+"normalized": "glorify"
+}
+},
+{
+"subject": {
+"text": "They"
+},
+"sentence": " \u201cThey put him on a pedestal, glorified him by naming an important thoroughfare in Delhi after him and glossed over the atrocities he committed on Hindus,\u201d the Rajya Sabha member added.",
+"object": {
+"text": "him"
+},
+"action": {
+"verb": {
+"text": "put",
+"tense": "present"
+},
+"text": "put",
+"normalized": "put"
+}
+},
+{
+"subject": {
+"text": "he"
+},
+"sentence": " \u201cThey put him on a pedestal, glorified him by naming an important thoroughfare in Delhi after him and glossed over the atrocities he committed on Hindus,\u201d the Rajya Sabha member added.",
+"object": {
+"text": "the atrocities"
+},
+"action": {
+"verb": {
+"text": "commit",
+"tense": "past"
+},
+"text": "committed",
+"normalized": "commit"
+}
+},
+{
+"subject": {
+"text": "He"
+},
+"sentence": " He further said Congress, instead of apologising for the \u201cmurder of democracy\u201d during the Emergency, had tried to deflect attention by targeting the PM.",
+"object": {
+"text": "Congress, instead of apologising for the \u201cmurder of democracy\u201d during the Emergency, had tried to deflect attention by targeting the PM"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "Congress"
+},
+"sentence": " He further said Congress, instead of apologising for the \u201cmurder of democracy\u201d during the Emergency, had tried to deflect attention by targeting the PM.",
+"object": {
+"text": "for the \u201cmurder of democracy\u201d"
+},
+"action": {
+"verb": {
+"text": "apologise",
+"tense": "future"
+},
+"text": "apologising",
+"normalized": "apologise"
+}
+},
+{
+"subject": {
+"text": "The attack"
+},
+"sentence": " The attack came as BJP observed the 43rd anniversary of imposition of Emergency by slamming Congress.",
+"action": {
+"verb": {
+"text": "come",
+"tense": "past"
+},
+"text": "came",
+"normalized": "come"
+}
+},
+{
+"subject": {
+"text": "BJP"
+},
+"sentence": " The attack came as BJP observed the 43rd anniversary of imposition of Emergency by slamming Congress.",
+"object": {
+"text": "Congress"
+},
+"action": {
+"verb": {
+"text": "slam",
+"tense": "present"
+},
+"text": "slamming",
+"normalized": "slam"
+}
+},
+{
+"subject": {
+"text": "Law minister Ravishankar Prasad"
+},
+"sentence": " Law minister Ravishankar Prasad said Emergency was part of Congress\u2019s .",
+"object": {
+"text": "Emergency was part of Congress\u2019s "
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "it"
+},
+"sentence": " \u201cWhen it loses elections, it blames EVMs and the EC,\u201d Prasad said",
+"object": {
+"text": "elections"
+},
+"action": {
+"verb": {
+"text": "lose",
+"tense": "present"
+},
+"text": "loses",
+"normalized": "lose"
+}
+},
+{
+"subject": {
+"text": "Prasad"
+},
+"sentence": " \u201cWhen it loses elections, it blames EVMs and the EC,\u201d Prasad said",
+"object": {
+"text": "When it loses elections, it blames EVMs and the EC"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+}
+],
+"relations": [
+{
+"type": "employedBy",
+"sentence": "\"Congress should know their ties with Aurangzeb and Mughals.",
+"score": 0.402714,
+"arguments": [
+{
+"text": "their",
+"location": [
+211,
+216
+],
+"entities": [
+{
+"type": "Person",
+"text": "their"
+}
+]
+},
+{
+"text": "Aurangzeb",
+"location": [
+227,
+236
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Aurangzeb",
+"disambiguation": {
+"subtype": [
+"Commercial"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "\"They put him on a pedestal, glorified him by naming an important thoroughfare in Delhi after him and glossed over the atrocities he committed on Hindus,\" the Rajya Sabha member added.",
+"score": 0.589681,
+"arguments": [
+{
+"text": "him",
+"location": [
+583,
+586
+],
+"entities": [
+{
+"type": "Person",
+"text": "him"
+}
+]
+},
+{
+"text": "thoroughfare",
+"location": [
+610,
+622
+],
+"entities": [
+{
+"type": "Facility",
+"text": "thoroughfare"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "\"They put him on a pedestal, glorified him by naming an important thoroughfare in Delhi after him and glossed over the atrocities he committed on Hindus,\" the Rajya Sabha member added.",
+"score": 0.989106,
+"arguments": [
+{
+"text": "thoroughfare",
+"location": [
+610,
+622
+],
+"entities": [
+{
+"type": "Facility",
+"text": "thoroughfare"
+}
+]
+},
+{
+"text": "Delhi",
+"location": [
+626,
+631
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "NEW DELHI"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "\"They put him on a pedestal, glorified him by naming an important thoroughfare in Delhi after him and glossed over the atrocities he committed on Hindus,\" the Rajya Sabha member added.",
+"score": 0.72087,
+"arguments": [
+{
+"text": "him",
+"location": [
+638,
+641
+],
+"entities": [
+{
+"type": "Person",
+"text": "him"
+}
+]
+},
+{
+"text": "atrocities",
+"location": [
+663,
+673
+],
+"entities": [
+{
+"type": "Crime",
+"text": "atrocities"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "\"They put him on a pedestal, glorified him by naming an important thoroughfare in Delhi after him and glossed over the atrocities he committed on Hindus,\" the Rajya Sabha member added.",
+"score": 0.308015,
+"arguments": [
+{
+"text": "he",
+"location": [
+674,
+676
+],
+"entities": [
+{
+"type": "Person",
+"text": "him"
+}
+]
+},
+{
+"text": "atrocities",
+"location": [
+663,
+673
+],
+"entities": [
+{
+"type": "Crime",
+"text": "atrocities"
+}
+]
+}
+]
+},
+{
+"type": "memberOf",
+"sentence": "\"They put him on a pedestal, glorified him by naming an important thoroughfare in Delhi after him and glossed over the atrocities he committed on Hindus,\" the Rajya Sabha member added.",
+"score": 0.429806,
+"arguments": [
+{
+"text": "member",
+"location": [
+715,
+721
+],
+"entities": [
+{
+"type": "Person",
+"text": "Rahul Gandhi"
+}
+]
+},
+{
+"text": "Rajya Sabha",
+"location": [
+703,
+714
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Rajya Sabha"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "He further said Congress, instead of apologising for the \"murder of democracy\" during the Emergency, had tried to deflect attention by targeting the PM.",
+"score": 0.85951,
+"arguments": [
+{
+"text": "He",
+"location": [
+729,
+731
+],
+"entities": [
+{
+"type": "Person",
+"text": "him"
+}
+]
+},
+{
+"text": "said",
+"location": [
+740,
+744
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "acknowledged"
+}
+]
+}
+]
+},
+{
+"type": "partOf",
+"sentence": "The attack came as BJP observed the 43rd anniversary of imposition of Emergency by slamming Congress.",
+"score": 0.366799,
+"arguments": [
+{
+"text": "Emergency",
+"location": [
+952,
+961
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Emergency"
+}
+]
+},
+{
+"text": "Congress",
+"location": [
+974,
+982
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Congress",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Law minister Ravishankar Prasad said Emergency was part of Congress's .",
+"score": 0.993788,
+"arguments": [
+{
+"text": "Ravishankar Prasad",
+"location": [
+997,
+1015
+],
+"entities": [
+{
+"type": "Person",
+"text": "Ravishankar Prasad"
+}
+]
+},
+{
+"text": "said",
+"location": [
+1016,
+1020
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "acknowledged"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "\"When it loses elections, it blames EVMs and the EC,\" Prasad said",
+"score": 0.990659,
+"arguments": [
+{
+"text": "Prasad",
+"location": [
+1110,
+1116
+],
+"entities": [
+{
+"type": "Person",
+"text": "Ravishankar Prasad"
+}
+]
+},
+{
+"text": "said",
+"location": [
+1117,
+1121
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "acknowledged"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "They were acknowledged by who said just as in the case of Mughals, it was understood Aurangzeb will take over from Shahjehan, it was clear that Rahul Gandhi will succeed ,\" BJP media chief Anil Baluni said.",
+"score": 0.722048,
+"arguments": [
+{
+"text": "They",
+"location": [
+250,
+254
+],
+"entities": [
+{
+"type": "Person",
+"text": "their"
+}
+]
+},
+{
+"text": "acknowledged",
+"location": [
+260,
+272
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "acknowledged"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "They were acknowledged by who said just as in the case of Mughals, it was understood Aurangzeb will take over from Shahjehan, it was clear that Rahul Gandhi will succeed ,\" BJP media chief Anil Baluni said.",
+"score": 0.972848,
+"arguments": [
+{
+"text": "who",
+"location": [
+276,
+279
+],
+"entities": [
+{
+"type": "Person",
+"text": "who"
+}
+]
+},
+{
+"text": "said",
+"location": [
+280,
+284
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "acknowledged"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "They were acknowledged by who said just as in the case of Mughals, it was understood Aurangzeb will take over from Shahjehan, it was clear that Rahul Gandhi will succeed ,\" BJP media chief Anil Baluni said.",
+"score": 0.37702,
+"arguments": [
+{
+"text": "Mughals",
+"location": [
+308,
+315
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Mughals",
+"disambiguation": {
+"subtype": [
+"Commercial"
+]
+}
+}
+]
+},
+{
+"text": "case",
+"location": [
+300,
+304
+],
+"entities": [
+{
+"type": "EventLegal",
+"text": "case"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "They were acknowledged by who said just as in the case of Mughals, it was understood Aurangzeb will take over from Shahjehan, it was clear that Rahul Gandhi will succeed ,\" BJP media chief Anil Baluni said.",
+"score": 0.720558,
+"arguments": [
+{
+"text": "Aurangzeb",
+"location": [
+335,
+344
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Aurangzeb",
+"disambiguation": {
+"subtype": [
+"Commercial"
+]
+}
+}
+]
+},
+{
+"text": "Shahjehan",
+"location": [
+365,
+374
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Shahjehan"
+}
+]
+}
+]
+},
+{
+"type": "managerOf",
+"sentence": "They were acknowledged by who said just as in the case of Mughals, it was understood Aurangzeb will take over from Shahjehan, it was clear that Rahul Gandhi will succeed ,\" BJP media chief Anil Baluni said.",
+"score": 0.465204,
+"arguments": [
+{
+"text": "chief",
+"location": [
+433,
+438
+],
+"entities": [
+{
+"type": "Person",
+"text": "Anil Baluni"
+}
+]
+},
+{
+"text": "media",
+"location": [
+427,
+432
+],
+"entities": [
+{
+"type": "Organization",
+"text": "media",
+"disambiguation": {
+"subtype": [
+"Commercial"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "They were acknowledged by who said just as in the case of Mughals, it was understood Aurangzeb will take over from Shahjehan, it was clear that Rahul Gandhi will succeed ,\" BJP media chief Anil Baluni said.",
+"score": 0.961929,
+"arguments": [
+{
+"text": "Anil Baluni",
+"location": [
+439,
+450
+],
+"entities": [
+{
+"type": "Person",
+"text": "Anil Baluni"
+}
+]
+},
+{
+"text": "said",
+"location": [
+451,
+455
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "acknowledged"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Baluni accused Congress of glorifying Aurangzeb despite the latter's communal outlook.",
+"score": 0.994891,
+"arguments": [
+{
+"text": "Baluni",
+"location": [
+457,
+463
+],
+"entities": [
+{
+"type": "Person",
+"text": "Anil Baluni"
+}
+]
+},
+{
+"text": "accused",
+"location": [
+464,
+471
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "accused"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "Baluni accused Congress of glorifying Aurangzeb despite the latter's communal outlook.",
+"score": 0.877633,
+"arguments": [
+{
+"text": "Congress",
+"location": [
+472,
+480
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Congress",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+},
+{
+"text": "accused",
+"location": [
+464,
+471
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "accused"
+}
+]
+}
+]
+}
+],
+"language": "en",
+"keywords": [
+{
+"text": "BJP media chief",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.986701,
+"emotion": {
+"sadness": 0.373961,
+"joy": 0.019468,
+"fear": 0.210215,
+"disgust": 0.419485,
+"anger": 0.358625
+}
+},
+{
+"text": "controversial Mughal ruler",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.883716,
+"emotion": {
+"sadness": 0.374273,
+"joy": 0.11367,
+"fear": 0.094758,
+"disgust": 0.155442,
+"anger": 0.050113
+}
+},
+{
+"text": "Aurangzeb",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.867798,
+"emotion": {
+"sadness": 0.363268,
+"joy": 0.047642,
+"fear": 0.046663,
+"disgust": 0.263453,
+"anger": 0.359813
+}
+},
+{
+"text": "minister Ravishankar Prasad",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.804644,
+"emotion": {
+"sadness": 0.384908,
+"joy": 0.043027,
+"fear": 0.390916,
+"disgust": 0.249667,
+"anger": 0.089879
+}
+},
+{
+"text": "Rajya Sabha member",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.785189,
+"emotion": {
+"sadness": 0.116138,
+"joy": 0.071853,
+"fear": 0.097324,
+"disgust": 0.12019,
+"anger": 0.128348
+}
+}
+],
+"entities": [
+{
+"type": "Person",
+"text": "Aurangzeb",
+"sentiment": {
+"score": -0.207907,
+"label": "negative"
+},
+"relevance": 0.947496,
+"emotion": {
+"sadness": 0.244842,
+"joy": 0.117333,
+"fear": 0.089181,
+"disgust": 0.182144,
+"anger": 0.52585
+},
+"disambiguation": {
+"subtype": [
+"Monarch",
+"NoblePerson"
+],
+"name": "Aurangzeb",
+"dbpedia_resource": "http://dbpedia.org/resource/Aurangzeb"
+},
+"count": 8
+},
+{
+"type": "Organization",
+"text": "Congress",
+"sentiment": {
+"score": -0.445534,
+"label": "negative"
+},
+"relevance": 0.694114,
+"emotion": {
+"sadness": 0.333241,
+"joy": 0.048039,
+"fear": 0.063489,
+"disgust": 0.302281,
+"anger": 0.500822
+},
+"disambiguation": {
+"subtype": [
+"PoliticalParty"
+],
+"name": "Indian National Congress",
+"dbpedia_resource": "http://dbpedia.org/resource/Indian_National_Congress"
+},
+"count": 6
+},
+{
+"type": "Organization",
+"text": "BJP",
+"sentiment": {
+"score": -0.445534,
+"label": "negative"
+},
+"relevance": 0.494349,
+"emotion": {
+"sadness": 0.428888,
+"joy": 0.059865,
+"fear": 0.192835,
+"disgust": 0.32752,
+"anger": 0.272785
+},
+"count": 3
+},
+{
+"type": "Person",
+"text": "Ravishankar Prasad",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.266279,
+"emotion": {
+"sadness": 0.425567,
+"joy": 0.046033,
+"fear": 0.376013,
+"disgust": 0.263903,
+"anger": 0.099454
+},
+"count": 2
+},
+{
+"type": "Location",
+"text": "NEW DELHI",
+"sentiment": {
+"score": 0.0840195,
+"label": "positive"
+},
+"relevance": 0.262905,
+"emotion": {
+"sadness": 0.257402,
+"joy": 0.337539,
+"fear": 0.098812,
+"disgust": 0.053982,
+"anger": 0.065668
+},
+"disambiguation": {
+"subtype": [
+"AdministrativeDivision",
+"City"
+],
+"name": "New Delhi",
+"dbpedia_resource": "http://dbpedia.org/resource/New_Delhi"
+},
+"count": 2
+}
+],
+"concepts": [
+{
+"text": "Delhi",
+"relevance": 0.968563,
+"dbpedia_resource": "http://dbpedia.org/resource/Delhi"
+},
+{
+"text": "India",
+"relevance": 0.956302,
+"dbpedia_resource": "http://dbpedia.org/resource/India"
+},
+{
+"text": "Indian National Congress",
+"relevance": 0.891438,
+"dbpedia_resource": "http://dbpedia.org/resource/Indian_National_Congress"
+},
+{
+"text": "Indira Gandhi",
+"relevance": 0.738941,
+"dbpedia_resource": "http://dbpedia.org/resource/Indira_Gandhi"
+},
+{
+"text": "Mughal Empire",
+"relevance": 0.713913,
+"dbpedia_resource": "http://dbpedia.org/resource/Mughal_Empire"
+}
+],
+"categories": [
+{
+"score": 0.630603,
+"label": "/religion and spirituality/hinduism"
+},
+{
+"score": 0.502014,
+"label": "/law, govt and politics/politics/elections"
+},
+{
+"score": 0.441585,
+"label": "/law, govt and politics"
+}
+]
+}
+}

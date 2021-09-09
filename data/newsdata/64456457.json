@@ -1,0 +1,835 @@
+{
+"source_article_link": "https://timesofindia.indiatimes.com/india/vijay-mahajan-made-rajiv-gandhi-foundation-ceo/articleshow/64456457.cms?&utm_source=Articleshow&utm_medium=Organic&utm_campaign=Related_Stories",
+"title": "Vijay Mahajan made Rajiv Gandhi Foundation CEO",
+"date_published": "2018-06-05T03:45:13+05:30",
+"source_type": "news_article",
+"source_name": "timesofindia.indiatimes.com",
+"image_link": [],
+"article_body": "NEW DELHI: Social entrepreneur has been appointed as secretary & chief executive officer of (RGF). He will also be director of Rajiv Gandhi Institute for Contemporary Studies , according to a statement issued by . The statement said is a leading social entrepreneur. In 1982 he founded PRADAN, an NGO which motivates young professionals to work at the grassroots to promote livelihoods of the poor.Mahajan founded the Basix Social Enterprise Group, which has supported three million poor households through microfinance and livelihood promotion services, it said. Mahajan is an alumnus of the IIT, Delhi (BTech, 1975), and IIM, Ahmedabad (1981), from where he got his MBA with a Gold Medal. He was a mid-career Fellow at the Woodrow Wilson School of Public and International Affairs, Princeton University.",
+"description": "NEW DELHI: Social entrepreneur has been appointed as secretary & chief executive officer of (RGF). He will also be director of Rajiv Gandhi Institute for Contemporary Studies , according to a statement issued by . The statement said",
+"time_scraped": "2018-08-23 18:01:57.327216",
+"article_id": "64456457",
+"article_category": "IndiaNews",
+"image_details": [],
+"ibm_nlu": {
+"usage": {
+"text_units": 1,
+"text_characters": 805,
+"features": 7
+},
+"sentiment": {
+"document": {
+"score": 0.523632,
+"label": "positive"
+}
+},
+"semantic_roles": [
+{
+"subject": {
+"text": "Social entrepreneur"
+},
+"sentence": "NEW DELHI: Social entrepreneur has been appointed as secretary & chief executive officer of (RGF).",
+"object": {
+"text": "been appointed as secretary & chief executive officer of (RGF)"
+},
+"action": {
+"verb": {
+"text": "have",
+"tense": "present"
+},
+"text": "has",
+"normalized": "have"
+}
+},
+{
+"subject": {
+"text": "Social entrepreneur"
+},
+"sentence": "NEW DELHI: Social entrepreneur has been appointed as secretary & chief executive officer of (RGF).",
+"object": {
+"text": "appointed as secretary & chief executive officer of (RGF)"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "been",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "Social entrepreneur"
+},
+"sentence": "NEW DELHI: Social entrepreneur has been appointed as secretary & chief executive officer of (RGF).",
+"object": {
+"text": "as secretary & chief executive officer of (RGF)"
+},
+"action": {
+"verb": {
+"text": "appoint",
+"tense": "past"
+},
+"text": "has been appointed",
+"normalized": "have be appoint"
+}
+},
+{
+"subject": {
+"text": "He"
+},
+"sentence": " He will also be director of Rajiv Gandhi Institute for Contemporary Studies , according to a statement issued by .",
+"object": {
+"text": "director of Rajiv Gandhi Institute"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "future"
+},
+"text": "will also be",
+"normalized": "will also be"
+}
+},
+{
+"subject": {
+"text": "He"
+},
+"sentence": " He will also be director of Rajiv Gandhi Institute for Contemporary Studies , according to a statement issued by .",
+"object": {
+"text": "to a statement issued"
+},
+"action": {
+"verb": {
+"text": "accord",
+"tense": "present"
+},
+"text": "according",
+"normalized": "accord"
+}
+},
+{
+"subject": {
+"text": "The statement"
+},
+"sentence": " The statement said is a leading social entrepreneur.",
+"object": {
+"text": "is a leading social entrepreneur"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "he"
+},
+"sentence": " In 1982 he founded PRADAN, an NGO which motivates young professionals to work at the grassroots to promote livelihoods of the poor.Mahajan founded the Basix Social Enterprise Group, which has supported three million poor households through microfinance and livelihood promotion services, it said.",
+"object": {
+"text": "PRADAN"
+},
+"action": {
+"verb": {
+"text": "found",
+"tense": "past"
+},
+"text": "founded",
+"normalized": "found"
+}
+},
+{
+"subject": {
+"text": "an NGO"
+},
+"sentence": " In 1982 he founded PRADAN, an NGO which motivates young professionals to work at the grassroots to promote livelihoods of the poor.Mahajan founded the Basix Social Enterprise Group, which has supported three million poor households through microfinance and livelihood promotion services, it said.",
+"object": {
+"text": "young professionals"
+},
+"action": {
+"verb": {
+"text": "motivate",
+"tense": "present"
+},
+"text": "motivates",
+"normalized": "motivate"
+}
+},
+{
+"subject": {
+"text": "young professionals"
+},
+"sentence": " In 1982 he founded PRADAN, an NGO which motivates young professionals to work at the grassroots to promote livelihoods of the poor.Mahajan founded the Basix Social Enterprise Group, which has supported three million poor households through microfinance and livelihood promotion services, it said.",
+"object": {
+"text": "to promote livelihoods of the poor.Mahajan founded the Basix Social Enterprise Group, which has supported three million poor households through microfinance and livelihood promotion services"
+},
+"action": {
+"verb": {
+"text": "work",
+"tense": "future"
+},
+"text": "to work",
+"normalized": "to work"
+}
+},
+{
+"subject": {
+"text": "young professionals"
+},
+"sentence": " In 1982 he founded PRADAN, an NGO which motivates young professionals to work at the grassroots to promote livelihoods of the poor.Mahajan founded the Basix Social Enterprise Group, which has supported three million poor households through microfinance and livelihood promotion services, it said.",
+"object": {
+"text": "livelihoods of the poor.Mahajan founded the Basix Social Enterprise Group"
+},
+"action": {
+"verb": {
+"text": "promote",
+"tense": "future"
+},
+"text": "to promote",
+"normalized": "to promote"
+}
+},
+{
+"subject": {
+"text": "the Basix Social Enterprise Group"
+},
+"sentence": " In 1982 he founded PRADAN, an NGO which motivates young professionals to work at the grassroots to promote livelihoods of the poor.Mahajan founded the Basix Social Enterprise Group, which has supported three million poor households through microfinance and livelihood promotion services, it said.",
+"object": {
+"text": "supported three million poor households through microfinance and livelihood promotion services"
+},
+"action": {
+"verb": {
+"text": "have",
+"tense": "present"
+},
+"text": "has",
+"normalized": "have"
+}
+},
+{
+"subject": {
+"text": "the Basix Social Enterprise Group"
+},
+"sentence": " In 1982 he founded PRADAN, an NGO which motivates young professionals to work at the grassroots to promote livelihoods of the poor.Mahajan founded the Basix Social Enterprise Group, which has supported three million poor households through microfinance and livelihood promotion services, it said.",
+"object": {
+"text": "three million poor households through microfinance and livelihood promotion services"
+},
+"action": {
+"verb": {
+"text": "support",
+"tense": "past"
+},
+"text": "has supported",
+"normalized": "have support"
+}
+},
+{
+"subject": {
+"text": "it"
+},
+"sentence": " In 1982 he founded PRADAN, an NGO which motivates young professionals to work at the grassroots to promote livelihoods of the poor.Mahajan founded the Basix Social Enterprise Group, which has supported three million poor households through microfinance and livelihood promotion services, it said.",
+"object": {
+"text": "which has supported three million poor households through microfinance and livelihood promotion services"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "he"
+},
+"sentence": " Mahajan is an alumnus of the IIT, Delhi (BTech, 1975), and IIM, Ahmedabad (1981), from where he got his MBA with a Gold Medal.",
+"object": {
+"text": "his MBA"
+},
+"action": {
+"verb": {
+"text": "get",
+"tense": "past"
+},
+"text": "got",
+"normalized": "get"
+}
+},
+{
+"subject": {
+"text": "He"
+},
+"sentence": " He was a mid-career Fellow at the Woodrow Wilson School of Public and International Affairs, Princeton University.",
+"object": {
+"text": "a mid-career Fellow at the Woodrow Wilson School of Public and International Affairs, Princeton University"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "was",
+"normalized": "be"
+}
+}
+],
+"relations": [
+{
+"type": "affectedBy",
+"sentence": "NEW DELHI: Social entrepreneur has been appointed as secretary & chief executive officer of (RGF).",
+"score": 0.520119,
+"arguments": [
+{
+"text": "Social entrepreneur",
+"location": [
+11,
+30
+],
+"entities": [
+{
+"type": "Person",
+"text": "social entrepreneur"
+}
+]
+},
+{
+"text": "appointed",
+"location": [
+40,
+49
+],
+"entities": [
+{
+"type": "EventPersonnel",
+"text": "appointed"
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "He was a mid-career Fellow at the Woodrow Wilson School of Public and International Affairs, Princeton University.",
+"score": 0.289251,
+"arguments": [
+{
+"text": "Fellow",
+"location": [
+711,
+717
+],
+"entities": [
+{
+"type": "Person",
+"text": "Fellow"
+}
+]
+},
+{
+"text": "Woodrow Wilson School of Public and International Affairs",
+"location": [
+725,
+782
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Woodrow Wilson School of Public and International Affairs"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "NEW DELHI: Social entrepreneur has been appointed as secretary & chief executive officer of (RGF).",
+"score": 0.458691,
+"arguments": [
+{
+"text": "secretary",
+"location": [
+53,
+62
+],
+"entities": [
+{
+"type": "Person",
+"text": "chief executive officer"
+}
+]
+},
+{
+"text": "appointed",
+"location": [
+40,
+49
+],
+"entities": [
+{
+"type": "EventPersonnel",
+"text": "appointed"
+}
+]
+}
+]
+},
+{
+"type": "clientOf",
+"sentence": "He will also be director of Rajiv Gandhi Institute for Contemporary Studies , according to a statement issued by .",
+"score": 0.219688,
+"arguments": [
+{
+"text": "Rajiv Gandhi Institute",
+"location": [
+127,
+149
+],
+"entities": [
+{
+"type": "Person",
+"text": "Rajiv Gandhi Institute"
+}
+]
+},
+{
+"text": "director",
+"location": [
+115,
+123
+],
+"entities": [
+{
+"type": "Person",
+"text": "director"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "The statement said is a leading social entrepreneur.",
+"score": 0.820128,
+"arguments": [
+{
+"text": "social entrepreneur",
+"location": [
+246,
+265
+],
+"entities": [
+{
+"type": "Person",
+"text": "social entrepreneur"
+}
+]
+},
+{
+"text": "said",
+"location": [
+228,
+232
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "In 1982 he founded PRADAN, an NGO which motivates young professionals to work at the grassroots to promote livelihoods of the poor.",
+"score": 0.242467,
+"arguments": [
+{
+"text": "professionals",
+"location": [
+323,
+336
+],
+"entities": [
+{
+"type": "Person",
+"text": "professionals"
+}
+]
+},
+{
+"text": "which",
+"location": [
+301,
+306
+],
+"entities": [
+{
+"type": "Organization",
+"text": "PRADAN"
+}
+]
+}
+]
+},
+{
+"type": "populationOf",
+"sentence": "Mahajan founded the Basix Social Enterprise Group, which has supported three million poor households through microfinance and livelihood promotion services, it said.",
+"score": 0.459753,
+"arguments": [
+{
+"text": "three million",
+"location": [
+469,
+482
+],
+"entities": [
+{
+"type": "Cardinal",
+"text": "three million"
+}
+]
+},
+{
+"text": "which",
+"location": [
+449,
+454
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Basix Social Enterprise Group"
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "Mahajan founded the Basix Social Enterprise Group, which has supported three million poor households through microfinance and livelihood promotion services, it said.",
+"score": 0.24493,
+"arguments": [
+{
+"text": "households",
+"location": [
+488,
+498
+],
+"entities": [
+{
+"type": "Person",
+"text": "households"
+}
+]
+},
+{
+"text": "which",
+"location": [
+449,
+454
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Basix Social Enterprise Group"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "Mahajan is an alumnus of the IIT, Delhi (BTech, 1975), and IIM, Ahmedabad (1981), from where he got his MBA with a Gold Medal.",
+"score": 0.967351,
+"arguments": [
+{
+"text": "IIT",
+"location": [
+593,
+596
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "IIT"
+}
+]
+},
+{
+"text": "Delhi",
+"location": [
+598,
+603
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "NEW DELHI"
+}
+]
+}
+]
+},
+{
+"type": "awardedTo",
+"sentence": "Mahajan is an alumnus of the IIT, Delhi (BTech, 1975), and IIM, Ahmedabad (1981), from where he got his MBA with a Gold Medal.",
+"score": 0.844132,
+"arguments": [
+{
+"text": "Gold Medal",
+"location": [
+679,
+689
+],
+"entities": [
+{
+"type": "EntertainmentAward",
+"text": "Gold Medal"
+}
+]
+},
+{
+"text": "his",
+"location": [
+664,
+667
+],
+"entities": [
+{
+"type": "Person",
+"text": "chief executive officer"
+}
+]
+}
+]
+}
+],
+"language": "en",
+"keywords": [
+{
+"text": "social entrepreneur",
+"sentiment": {
+"score": 0.480037,
+"label": "positive"
+},
+"relevance": 0.971097,
+"emotion": {
+"sadness": 0.061572,
+"joy": 0.30413,
+"fear": 0.370082,
+"disgust": 0.089519,
+"anger": 0.252969
+}
+},
+{
+"text": "Rajiv Gandhi Institute",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.930947,
+"emotion": {
+"sadness": 0.113438,
+"joy": 0.434369,
+"fear": 0.11818,
+"disgust": 0.042425,
+"anger": 0.116782
+}
+},
+{
+"text": "chief executive officer",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.895515,
+"emotion": {
+"sadness": 0.06652,
+"joy": 0.231338,
+"fear": 0.324328,
+"disgust": 0.093526,
+"anger": 0.326194
+}
+},
+{
+"text": "Basix Social Enterprise",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.849949,
+"emotion": {
+"sadness": 0.247671,
+"joy": 0.291322,
+"fear": 0.390146,
+"disgust": 0.093491,
+"anger": 0.143452
+}
+},
+{
+"text": "livelihood promotion services",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.830876,
+"emotion": {
+"sadness": 0.474614,
+"joy": 0.029363,
+"fear": 0.096981,
+"disgust": 0.20285,
+"anger": 0.120558
+}
+}
+],
+"entities": [
+{
+"type": "JobTitle",
+"text": "director",
+"sentiment": {
+"score": 0.480037,
+"label": "positive"
+},
+"relevance": 0.977435,
+"emotion": {
+"sadness": 0.038036,
+"joy": 0.543657,
+"fear": 0.17191,
+"disgust": 0.048768,
+"anger": 0.207748
+},
+"count": 5
+},
+{
+"type": "Location",
+"text": "NEW DELHI",
+"sentiment": {
+"score": 0.358044,
+"label": "positive"
+},
+"relevance": 0.906817,
+"emotion": {
+"sadness": 0.249017,
+"joy": 0.298464,
+"fear": 0.012636,
+"disgust": 0.040641,
+"anger": 0.022012
+},
+"disambiguation": {
+"subtype": [
+"AdministrativeDivision",
+"City"
+],
+"name": "New Delhi",
+"dbpedia_resource": "http://dbpedia.org/resource/New_Delhi"
+},
+"count": 2
+},
+{
+"type": "Organization",
+"text": "Rajiv Gandhi Institute for Contemporary Studies",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.84197,
+"emotion": {
+"sadness": 0.113438,
+"joy": 0.434369,
+"fear": 0.11818,
+"disgust": 0.042425,
+"anger": 0.116782
+},
+"count": 1
+},
+{
+"type": "Organization",
+"text": "Woodrow Wilson School of Public and International Affairs",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.795541,
+"emotion": {
+"sadness": 0.168113,
+"joy": 0.287796,
+"fear": 0.120225,
+"disgust": 0.241465,
+"anger": 0.334566
+},
+"disambiguation": {
+"subtype": [],
+"name": "Woodrow Wilson School of Public and International Affairs",
+"dbpedia_resource": "http://dbpedia.org/resource/Woodrow_Wilson_School_of_Public_and_International_Affairs"
+},
+"count": 1
+},
+{
+"type": "Organization",
+"text": "Basix Social Enterprise Group",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.784946,
+"emotion": {
+"sadness": 0.247671,
+"joy": 0.291322,
+"fear": 0.390146,
+"disgust": 0.093491,
+"anger": 0.143452
+},
+"count": 1
+}
+],
+"concepts": [
+{
+"text": "Princeton University",
+"relevance": 0.975337,
+"dbpedia_resource": "http://dbpedia.org/resource/Princeton_University"
+},
+{
+"text": "Woodrow Wilson",
+"relevance": 0.899303,
+"dbpedia_resource": "http://dbpedia.org/resource/Woodrow_Wilson"
+},
+{
+"text": "Woodrow Wilson School of Public and International Affairs",
+"relevance": 0.738311,
+"dbpedia_resource": "http://dbpedia.org/resource/Woodrow_Wilson_School_of_Public_and_International_Affairs"
+},
+{
+"text": "Executive officer",
+"relevance": 0.543736,
+"dbpedia_resource": "http://dbpedia.org/resource/Executive_officer"
+},
+{
+"text": "Chief executive officer",
+"relevance": 0.531266,
+"dbpedia_resource": "http://dbpedia.org/resource/Chief_executive_officer"
+}
+],
+"categories": [
+{
+"score": 0.483194,
+"label": "/education/school"
+},
+{
+"score": 0.307359,
+"label": "/technology and computing/internet technology/social network"
+},
+{
+"score": 0.280072,
+"label": "/education/alumni and reunions"
+}
+]
+}
+}

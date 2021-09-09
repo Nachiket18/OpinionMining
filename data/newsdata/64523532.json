@@ -1,0 +1,2231 @@
+{
+"source_article_link": "https://timesofindia.indiatimes.com/india/pm-narendra-modi-meets-presidents-of-uzbekistan-tajikistan-at-sco-summit/articleshow/64523532.cms?&utm_source=Articleshow&utm_medium=Organic&utm_campaign=Related_Stories",
+"title": "PM Narendra Modi meets presidents of Uzbekistan, Tajikistan at SCO summit",
+"date_published": "2018-06-09T21:33:11+05:30",
+"source_type": "news_article",
+"source_name": "timesofindia.indiatimes.com",
+"image_link": [
+"https://timesofindia.indiatimes.com/thumb/msid-64523531,imgsize-389276,width-400,resizemode-4/64523531.jpg"
+],
+"article_body": "QINGDAO: Prime Minister today had seperate meetings with the Presidents of and on the sidelines of the SCO Summit here and discussed a range of topics with them to further strengthen India's ties with the resource-rich Central Asian countries. Modi held talks with Uzbekistan President and the two leaders reviewed the full range of bilateral ties, especially ways to boost economic and cultural links. \"Wonderful to meet Mr Shavkat Mirziyoyev, President of Uzbekistan. Ties between our nations have their roots in history,\" Modi said in a tweet. \"We reviewed the full range of the India-Uzbekistan friendship, especially ways to boost economic and cultural cooperation,\" he said. Modi also met Tajikistan President Emomali Rahmon and the two leaders talked about key sectors of bilateral cooperation.  \"Great meeting with President Emomali Rahmon of Tajikistan. We talked about key sectors of bilateral cooperation,\" Modi tweeted. \"India and Tajikistan are working together in areas such as security, technology and energy. Today's meeting also focused on ways to further enhance connectivity,\" he said. Modi arrived in the picturesque coastal city of China's Shandong province on a two-day visit to attend the annual summit of the (SCO). It is for the first time that an Indian prime minister is attending the SCO summit after India along with Pakistan became a full-fledged member of the grouping, jointly dominated by China and Russia, which has been increasingly seen as a counter to . President Mirziyoyev said the bilateral trade between India and Uzbekistan was USD 325 million which he said was far below the potential. Mirziyoyev sought India's help to set up investment parks/zones in his country. He also promised to send his Deputy Prime Minister to India. The date of the visit, however, was not disclosed. The SCO currently has eight member countries which represents around 42 per cent of the world's population and 20 per cent of the global GDP. Modi is expected to hold nearly half a dozen bilateral meetings with leaders of other SCO countries. The SCO leaders are also expected to review the situation in the Korean peninsula, Afghanistan and Syria. The SCO was founded at a summit in Shanghai in 2001 by the presidents of Russia, China, Kyrgyz Republic, Kazakhstan, Tajikistan and Uzbekistan. India and Pakistan became its members last year.",
+"description": "QINGDAO: Prime Minister today had seperate meetings with the Presidents of and on the sidelines of the SCO Summit here and discussed a range of topics with them to further strengthen India's ties with the resource-rich Central Asian countries. Modi held talks with Uzbekistan President",
+"time_scraped": "2018-08-23 00:02:57.442454",
+"article_id": "64523532",
+"article_category": "IndiaNews",
+"image_details": [
+{
+"url": "https://timesofindia.indiatimes.com/thumb/msid-64523531,imgsize-389276,width-400,resizemode-4/64523531.jpg",
+"path": "full/c4943db0330d68e08bb9cdfb22dca77734a6706a.jpg",
+"checksum": "eaf20b19fcb4c4a40983146f08bc3627"
+}
+],
+"ibm_nlu": {
+"usage": {
+"text_units": 1,
+"text_characters": 2362,
+"features": 7
+},
+"sentiment": {
+"document": {
+"score": 0.635573,
+"label": "positive"
+}
+},
+"semantic_roles": [
+{
+"subject": {
+"text": "Prime Minister"
+},
+"sentence": "QINGDAO: Prime Minister today had seperate meetings with the Presidents of and on the sidelines of the SCO Summit here and discussed a range of topics with them to further strengthen India's ties with the resource-rich Central Asian countries.",
+"object": {
+"text": "seperate meetings with the Presidents"
+},
+"action": {
+"verb": {
+"text": "have",
+"tense": "past"
+},
+"text": "had",
+"normalized": "have"
+}
+},
+{
+"subject": {
+"text": "Prime Minister today"
+},
+"sentence": "QINGDAO: Prime Minister today had seperate meetings with the Presidents of and on the sidelines of the SCO Summit here and discussed a range of topics with them to further strengthen India's ties with the resource-rich Central Asian countries.",
+"object": {
+"text": "a range of topics"
+},
+"action": {
+"verb": {
+"text": "discuss",
+"tense": "past"
+},
+"text": "discussed",
+"normalized": "discuss"
+}
+},
+{
+"subject": {
+"text": "them"
+},
+"sentence": "QINGDAO: Prime Minister today had seperate meetings with the Presidents of and on the sidelines of the SCO Summit here and discussed a range of topics with them to further strengthen India's ties with the resource-rich Central Asian countries.",
+"object": {
+"text": "India's ties with the resource-rich Central Asian countries"
+},
+"action": {
+"verb": {
+"text": "strengthen",
+"tense": "present"
+},
+"text": "to further strengthen",
+"normalized": "to further strengthen"
+}
+},
+{
+"subject": {
+"text": "Modi"
+},
+"sentence": " Modi held talks with Uzbekistan President and the two leaders reviewed the full range of bilateral ties, especially ways to boost economic and cultural links.",
+"object": {
+"text": "talks with Uzbekistan President and the two leaders reviewed the full range of bilateral ties, especially ways to boost economic and cultural links"
+},
+"action": {
+"verb": {
+"text": "hold",
+"tense": "past"
+},
+"text": "held",
+"normalized": "hold"
+}
+},
+{
+"subject": {
+"text": "Ties between our nations"
+},
+"sentence": " Ties between our nations have their roots in history,\" Modi said in a tweet.",
+"object": {
+"text": "their roots"
+},
+"action": {
+"verb": {
+"text": "have",
+"tense": "present"
+},
+"text": "have",
+"normalized": "have"
+}
+},
+{
+"subject": {
+"text": "Modi"
+},
+"sentence": " Ties between our nations have their roots in history,\" Modi said in a tweet.",
+"object": {
+"text": "Ties between our nations have their roots in history"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "We"
+},
+"sentence": " \"We reviewed the full range of the India-Uzbekistan friendship, especially ways to boost economic and cultural cooperation,\" he said.",
+"object": {
+"text": "the full range of the India-Uzbekistan friendship, especially ways to boost economic and cultural cooperation"
+},
+"action": {
+"verb": {
+"text": "review",
+"tense": "past"
+},
+"text": "reviewed",
+"normalized": "review"
+}
+},
+{
+"subject": {
+"text": "he"
+},
+"sentence": " \"We reviewed the full range of the India-Uzbekistan friendship, especially ways to boost economic and cultural cooperation,\" he said.",
+"object": {
+"text": "We reviewed the full range of the India-Uzbekistan friendship, especially ways to boost economic and cultural cooperation"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "Modi"
+},
+"sentence": " Modi also met Tajikistan President Emomali Rahmon and the two leaders talked about key sectors of bilateral cooperation.",
+"object": {
+"text": "Tajikistan President Emomali Rahmon and the two leaders talked about key sectors of bilateral cooperation"
+},
+"action": {
+"verb": {
+"text": "meet",
+"tense": "past"
+},
+"text": "met",
+"normalized": "meet"
+}
+},
+{
+"subject": {
+"text": "We"
+},
+"sentence": " We talked about key sectors of bilateral cooperation,\" Modi tweeted.",
+"object": {
+"text": "about key sectors of bilateral cooperation"
+},
+"action": {
+"verb": {
+"text": "talk",
+"tense": "past"
+},
+"text": "talked",
+"normalized": "talk"
+}
+},
+{
+"subject": {
+"text": "India and Tajikistan"
+},
+"sentence": " \"India and Tajikistan are working together in areas such as security, technology and energy.",
+"object": {
+"text": "working together in areas such as security, technology and energy"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "present"
+},
+"text": "are",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "India and Tajikistan"
+},
+"sentence": " \"India and Tajikistan are working together in areas such as security, technology and energy.",
+"action": {
+"verb": {
+"text": "work",
+"tense": "present"
+},
+"text": "are working",
+"normalized": "be work"
+}
+},
+{
+"subject": {
+"text": "he"
+},
+"sentence": " Today's meeting also focused on ways to further enhance connectivity,\" he said.",
+"object": {
+"text": "Today's meeting also focused on ways to further enhance connectivity"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "Modi"
+},
+"sentence": " Modi arrived in the picturesque coastal city of China's Shandong province on a two-day visit to attend the annual summit of the (SCO).",
+"object": {
+"text": "the annual summit of the (SCO)"
+},
+"action": {
+"verb": {
+"text": "attend",
+"tense": "future"
+},
+"text": "to attend",
+"normalized": "to attend"
+}
+},
+{
+"subject": {
+"text": "an Indian prime minister"
+},
+"sentence": " It is for the first time that an Indian prime minister is attending the SCO summit after India along with Pakistan became a full-fledged member of the grouping, jointly dominated by China and Russia, which has been increasingly seen as a counter to .",
+"object": {
+"text": "attending the SCO summit"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "present"
+},
+"text": "is",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "an Indian prime minister"
+},
+"sentence": " It is for the first time that an Indian prime minister is attending the SCO summit after India along with Pakistan became a full-fledged member of the grouping, jointly dominated by China and Russia, which has been increasingly seen as a counter to .",
+"object": {
+"text": "the SCO summit"
+},
+"action": {
+"verb": {
+"text": "attend",
+"tense": "present"
+},
+"text": "is attending",
+"normalized": "be attend"
+}
+},
+{
+"subject": {
+"text": "Pakistan"
+},
+"sentence": " It is for the first time that an Indian prime minister is attending the SCO summit after India along with Pakistan became a full-fledged member of the grouping, jointly dominated by China and Russia, which has been increasingly seen as a counter to .",
+"object": {
+"text": "a full-fledged member of the grouping"
+},
+"action": {
+"verb": {
+"text": "become",
+"tense": "past"
+},
+"text": "became",
+"normalized": "become"
+}
+},
+{
+"subject": {
+"text": "China and Russia"
+},
+"sentence": " It is for the first time that an Indian prime minister is attending the SCO summit after India along with Pakistan became a full-fledged member of the grouping, jointly dominated by China and Russia, which has been increasingly seen as a counter to .",
+"object": {
+"text": "increasingly seen as a counter"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "been",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "President Mirziyoyev"
+},
+"sentence": " President Mirziyoyev said the bilateral trade between India and Uzbekistan was USD 325 million which he said was far below the potential.",
+"object": {
+"text": "the bilateral trade between India and Uzbekistan was USD 325 million which he said was far below the potential"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "the bilateral trade between India and Uzbekistan"
+},
+"sentence": " President Mirziyoyev said the bilateral trade between India and Uzbekistan was USD 325 million which he said was far below the potential.",
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "was",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "USD 325 million"
+},
+"sentence": " President Mirziyoyev said the bilateral trade between India and Uzbekistan was USD 325 million which he said was far below the potential.",
+"object": {
+"text": "far below the potential"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "was",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "Mirziyoyev"
+},
+"sentence": " Mirziyoyev sought India's help to set up investment parks/zones in his country.",
+"object": {
+"text": "India"
+},
+"action": {
+"verb": {
+"text": "seek",
+"tense": "past"
+},
+"text": "sought",
+"normalized": "seek"
+}
+},
+{
+"subject": {
+"text": "Mirziyoyev"
+},
+"sentence": " Mirziyoyev sought India's help to set up investment parks/zones in his country.",
+"object": {
+"text": "up investment parks/zones in his country"
+},
+"action": {
+"verb": {
+"text": "set",
+"tense": "future"
+},
+"text": "to set",
+"normalized": "to set"
+}
+},
+{
+"subject": {
+"text": "He"
+},
+"sentence": " He also promised to send his Deputy Prime Minister to India.",
+"object": {
+"text": "his Deputy Prime Minister"
+},
+"action": {
+"verb": {
+"text": "send",
+"tense": "future"
+},
+"text": "promised to send",
+"normalized": "promise to send"
+}
+},
+{
+"subject": {
+"text": "The SCO"
+},
+"sentence": " The SCO currently has eight member countries which represents around 42 per cent of the world's population and 20 per cent of the global GDP.",
+"object": {
+"text": "eight member countries which represents around 42 per cent of the world's population and 20 per cent of the global GDP"
+},
+"action": {
+"verb": {
+"text": "have",
+"tense": "present"
+},
+"text": "has",
+"normalized": "have"
+}
+},
+{
+"subject": {
+"text": "eight member countries"
+},
+"sentence": " The SCO currently has eight member countries which represents around 42 per cent of the world's population and 20 per cent of the global GDP.",
+"object": {
+"text": "around 42 per cent of the world's population and 20 per cent of the global GDP"
+},
+"action": {
+"verb": {
+"text": "represent",
+"tense": "present"
+},
+"text": "represents",
+"normalized": "represent"
+}
+},
+{
+"subject": {
+"text": "Modi"
+},
+"sentence": " Modi is expected to hold nearly half a dozen bilateral meetings with leaders of other SCO countries.",
+"object": {
+"text": "nearly half a dozen bilateral meetings with leaders of other SCO countries"
+},
+"action": {
+"verb": {
+"text": "hold",
+"tense": "future"
+},
+"text": "is expected to hold",
+"normalized": "be expect to hold"
+}
+},
+{
+"subject": {
+"text": "The SCO leaders"
+},
+"sentence": " The SCO leaders are also expected to review the situation in the Korean peninsula, Afghanistan and Syria.",
+"object": {
+"text": "the situation"
+},
+"action": {
+"verb": {
+"text": "review",
+"tense": "future"
+},
+"text": "are also expected to review",
+"normalized": "be also expect to review"
+}
+},
+{
+"subject": {
+"text": "The SCO"
+},
+"sentence": " The SCO was founded at a summit in Shanghai in 2001 by the presidents of Russia, China, Kyrgyz Republic, Kazakhstan, Tajikistan and Uzbekistan.",
+"action": {
+"verb": {
+"text": "found",
+"tense": "past"
+},
+"text": "was founded",
+"normalized": "be found"
+}
+},
+{
+"subject": {
+"text": "India and Pakistan"
+},
+"sentence": " India and Pakistan became its members last year.",
+"object": {
+"text": "its members"
+},
+"action": {
+"verb": {
+"text": "become",
+"tense": "past"
+},
+"text": "became",
+"normalized": "become"
+}
+}
+],
+"relations": [
+{
+"type": "participantIn",
+"sentence": "QINGDAO: Prime Minister today had seperate meetings with the Presidents of and on the sidelines of the SCO Summit here and discussed a range of topics with them to further strengthen India's ties with the resource-rich Central Asian countries.",
+"score": 0.962375,
+"arguments": [
+{
+"text": "Presidents",
+"location": [
+61,
+71
+],
+"entities": [
+{
+"type": "Person",
+"text": "Presidents"
+}
+]
+},
+{
+"text": "meetings",
+"location": [
+43,
+51
+],
+"entities": [
+{
+"type": "EventMeeting",
+"text": "meetings"
+}
+]
+}
+]
+},
+{
+"type": "managerOf",
+"sentence": "Modi also met Tajikistan President Emomali Rahmon and the two leaders talked about key sectors of bilateral cooperation.",
+"score": 0.620695,
+"arguments": [
+{
+"text": "President",
+"location": [
+706,
+715
+],
+"entities": [
+{
+"type": "Person",
+"text": "Emomali Rahmon"
+}
+]
+},
+{
+"text": "Tajikistan",
+"location": [
+695,
+705
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Tajikistan",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "managerOf",
+"sentence": "\"Great meeting with President Emomali Rahmon of Tajikistan.",
+"score": 0.656936,
+"arguments": [
+{
+"text": "Emomali Rahmon",
+"location": [
+833,
+847
+],
+"entities": [
+{
+"type": "Person",
+"text": "Emomali Rahmon"
+}
+]
+},
+{
+"text": "Tajikistan",
+"location": [
+851,
+861
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Tajikistan",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Modi also met Tajikistan President Emomali Rahmon and the two leaders talked about key sectors of bilateral cooperation.",
+"score": 0.807655,
+"arguments": [
+{
+"text": "Emomali Rahmon",
+"location": [
+716,
+730
+],
+"entities": [
+{
+"type": "Person",
+"text": "Emomali Rahmon"
+}
+]
+},
+{
+"text": "talked",
+"location": [
+751,
+757
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "talked"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Modi also met Tajikistan President Emomali Rahmon and the two leaders talked about key sectors of bilateral cooperation.",
+"score": 0.854326,
+"arguments": [
+{
+"text": "leaders",
+"location": [
+743,
+750
+],
+"entities": [
+{
+"type": "Person",
+"text": "leaders"
+}
+]
+},
+{
+"text": "talked",
+"location": [
+751,
+757
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "talked"
+}
+]
+}
+]
+},
+{
+"type": "participantIn",
+"sentence": "\"Great meeting with President Emomali Rahmon of Tajikistan.",
+"score": 0.841548,
+"arguments": [
+{
+"text": "President",
+"location": [
+823,
+832
+],
+"entities": [
+{
+"type": "Person",
+"text": "Emomali Rahmon"
+}
+]
+},
+{
+"text": "meeting",
+"location": [
+810,
+817
+],
+"entities": [
+{
+"type": "EventMeeting",
+"text": "meeting"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "We talked about key sectors of bilateral cooperation,\" Modi tweeted.",
+"score": 0.991093,
+"arguments": [
+{
+"text": "We",
+"location": [
+863,
+865
+],
+"entities": [
+{
+"type": "Person",
+"text": "their"
+}
+]
+},
+{
+"text": "talked",
+"location": [
+866,
+872
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "talked"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "We talked about key sectors of bilateral cooperation,\" Modi tweeted.",
+"score": 0.998047,
+"arguments": [
+{
+"text": "Modi",
+"location": [
+918,
+922
+],
+"entities": [
+{
+"type": "Person",
+"text": "Modi"
+}
+]
+},
+{
+"text": "tweeted",
+"location": [
+923,
+930
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "tweeted"
+}
+]
+}
+]
+},
+{
+"type": "timeOf",
+"sentence": "Today's meeting also focused on ways to further enhance connectivity,\" he said.",
+"score": 0.946091,
+"arguments": [
+{
+"text": "Today",
+"location": [
+1025,
+1030
+],
+"entities": [
+{
+"type": "Date",
+"text": "Today"
+}
+]
+},
+{
+"text": "meeting",
+"location": [
+1033,
+1040
+],
+"entities": [
+{
+"type": "EventMeeting",
+"text": "meeting"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Today's meeting also focused on ways to further enhance connectivity,\" he said.",
+"score": 0.976223,
+"arguments": [
+{
+"text": "he",
+"location": [
+1096,
+1098
+],
+"entities": [
+{
+"type": "Person",
+"text": "Modi"
+}
+]
+},
+{
+"text": "said",
+"location": [
+1099,
+1103
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "President Mirziyoyev said the bilateral trade between India and Uzbekistan was USD 325 million which he said was far below the potential.",
+"score": 0.955075,
+"arguments": [
+{
+"text": "he",
+"location": [
+1592,
+1594
+],
+"entities": [
+{
+"type": "Person",
+"text": "Modi"
+}
+]
+},
+{
+"text": "said",
+"location": [
+1595,
+1599
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "Modi arrived in the picturesque coastal city of China's Shandong province on a two-day visit to attend the annual summit of the (SCO).",
+"score": 0.51907,
+"arguments": [
+{
+"text": "Shandong province",
+"location": [
+1161,
+1178
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Shandong province"
+}
+]
+},
+{
+"text": "China",
+"location": [
+1153,
+1158
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "China",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "Modi arrived in the picturesque coastal city of China's Shandong province on a two-day visit to attend the annual summit of the (SCO).",
+"score": 0.589434,
+"arguments": [
+{
+"text": "summit",
+"location": [
+1219,
+1225
+],
+"entities": [
+{
+"type": "EventMeeting",
+"text": "meeting"
+}
+]
+},
+{
+"text": "Shandong province",
+"location": [
+1161,
+1178
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Shandong province"
+}
+]
+}
+]
+},
+{
+"type": "participantIn",
+"sentence": "Modi held talks with Uzbekistan President and the two leaders reviewed the full range of bilateral ties, especially ways to boost economic and cultural links.",
+"score": 0.861241,
+"arguments": [
+{
+"text": "Modi",
+"location": [
+244,
+248
+],
+"entities": [
+{
+"type": "Person",
+"text": "Modi"
+}
+]
+},
+{
+"text": "talks",
+"location": [
+254,
+259
+],
+"entities": [
+{
+"type": "EventMeeting",
+"text": "talks"
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "It is for the first time that an Indian prime minister is attending the SCO summit after India along with Pakistan became a full-fledged member of the grouping, jointly dominated by China and Russia, which has been increasingly seen as a counter to .",
+"score": 0.564476,
+"arguments": [
+{
+"text": "prime minister",
+"location": [
+1280,
+1294
+],
+"entities": [
+{
+"type": "Person",
+"text": "prime minister"
+}
+]
+},
+{
+"text": "Indian",
+"location": [
+1273,
+1279
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Indian",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "It is for the first time that an Indian prime minister is attending the SCO summit after India along with Pakistan became a full-fledged member of the grouping, jointly dominated by China and Russia, which has been increasingly seen as a counter to .",
+"score": 0.734413,
+"arguments": [
+{
+"text": "SCO",
+"location": [
+1312,
+1315
+],
+"entities": [
+{
+"type": "Organization",
+"text": "SCO countries"
+}
+]
+},
+{
+"text": "summit",
+"location": [
+1316,
+1322
+],
+"entities": [
+{
+"type": "EventMeeting",
+"text": "meeting"
+}
+]
+}
+]
+},
+{
+"type": "participantIn",
+"sentence": "It is for the first time that an Indian prime minister is attending the SCO summit after India along with Pakistan became a full-fledged member of the grouping, jointly dominated by China and Russia, which has been increasingly seen as a counter to .",
+"score": 0.6284,
+"arguments": [
+{
+"text": "India",
+"location": [
+1329,
+1334
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Indian",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+},
+{
+"text": "summit",
+"location": [
+1316,
+1322
+],
+"entities": [
+{
+"type": "EventMeeting",
+"text": "meeting"
+}
+]
+}
+]
+},
+{
+"type": "participantIn",
+"sentence": "It is for the first time that an Indian prime minister is attending the SCO summit after India along with Pakistan became a full-fledged member of the grouping, jointly dominated by China and Russia, which has been increasingly seen as a counter to .",
+"score": 0.542395,
+"arguments": [
+{
+"text": "Pakistan",
+"location": [
+1346,
+1354
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Pakistan",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+},
+{
+"text": "summit",
+"location": [
+1316,
+1322
+],
+"entities": [
+{
+"type": "EventMeeting",
+"text": "meeting"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "President Mirziyoyev said the bilateral trade between India and Uzbekistan was USD 325 million which he said was far below the potential.",
+"score": 0.989361,
+"arguments": [
+{
+"text": "Mirziyoyev",
+"location": [
+1501,
+1511
+],
+"entities": [
+{
+"type": "Person",
+"text": "Shavkat Mirziyoyev"
+}
+]
+},
+{
+"text": "said",
+"location": [
+1512,
+1516
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "residesIn",
+"sentence": "Mirziyoyev sought India's help to set up investment parks/zones in his country.",
+"score": 0.351743,
+"arguments": [
+{
+"text": "his",
+"location": [
+1696,
+1699
+],
+"entities": [
+{
+"type": "Person",
+"text": "Modi"
+}
+]
+},
+{
+"text": "country",
+"location": [
+1700,
+1707
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Afghanistan",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "He also promised to send his Deputy Prime Minister to India.",
+"score": 0.991083,
+"arguments": [
+{
+"text": "He",
+"location": [
+1709,
+1711
+],
+"entities": [
+{
+"type": "Person",
+"text": "Modi"
+}
+]
+},
+{
+"text": "promised",
+"location": [
+1717,
+1725
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "promised"
+}
+]
+}
+]
+},
+{
+"type": "partOf",
+"sentence": "The SCO currently has eight member countries which represents around 42 per cent of the world's population and 20 per cent of the global GDP.",
+"score": 0.293533,
+"arguments": [
+{
+"text": "countries",
+"location": [
+1856,
+1865
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "countries",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+},
+{
+"text": "member",
+"location": [
+1849,
+1855
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "member",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "residesIn",
+"sentence": "The SCO currently has eight member countries which represents around 42 per cent of the world's population and 20 per cent of the global GDP.",
+"score": 0.730237,
+"arguments": [
+{
+"text": "population",
+"location": [
+1917,
+1927
+],
+"entities": [
+{
+"type": "Person",
+"text": "population"
+}
+]
+},
+{
+"text": "world",
+"location": [
+1909,
+1914
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "world",
+"disambiguation": {
+"subtype": [
+"Area"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "participantIn",
+"sentence": "Modi is expected to hold nearly half a dozen bilateral meetings with leaders of other SCO countries.",
+"score": 0.777026,
+"arguments": [
+{
+"text": "Modi",
+"location": [
+1963,
+1967
+],
+"entities": [
+{
+"type": "Person",
+"text": "Modi"
+}
+]
+},
+{
+"text": "meetings",
+"location": [
+2018,
+2026
+],
+"entities": [
+{
+"type": "EventMeeting",
+"text": "meetings"
+}
+]
+}
+]
+},
+{
+"type": "partOfMany",
+"sentence": "Modi held talks with Uzbekistan President and the two leaders reviewed the full range of bilateral ties, especially ways to boost economic and cultural links.",
+"score": 0.559739,
+"arguments": [
+{
+"text": "Modi",
+"location": [
+244,
+248
+],
+"entities": [
+{
+"type": "Person",
+"text": "Modi"
+}
+]
+},
+{
+"text": "leaders",
+"location": [
+298,
+305
+],
+"entities": [
+{
+"type": "Person",
+"text": "leaders"
+}
+]
+}
+]
+},
+{
+"type": "participantIn",
+"sentence": "Modi is expected to hold nearly half a dozen bilateral meetings with leaders of other SCO countries.",
+"score": 0.937679,
+"arguments": [
+{
+"text": "leaders",
+"location": [
+2032,
+2039
+],
+"entities": [
+{
+"type": "Person",
+"text": "leaders"
+}
+]
+},
+{
+"text": "meetings",
+"location": [
+2018,
+2026
+],
+"entities": [
+{
+"type": "EventMeeting",
+"text": "meetings"
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "The SCO leaders are also expected to review the situation in the Korean peninsula, Afghanistan and Syria.",
+"score": 0.303319,
+"arguments": [
+{
+"text": "leaders",
+"location": [
+2072,
+2079
+],
+"entities": [
+{
+"type": "Person",
+"text": "leaders"
+}
+]
+},
+{
+"text": "SCO",
+"location": [
+2068,
+2071
+],
+"entities": [
+{
+"type": "Organization",
+"text": "SCO countries"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "The SCO leaders are also expected to review the situation in the Korean peninsula, Afghanistan and Syria.",
+"score": 0.758253,
+"arguments": [
+{
+"text": "leaders",
+"location": [
+2072,
+2079
+],
+"entities": [
+{
+"type": "Person",
+"text": "leaders"
+}
+]
+},
+{
+"text": "Korean peninsula",
+"location": [
+2129,
+2145
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Korean peninsula"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "The SCO leaders are also expected to review the situation in the Korean peninsula, Afghanistan and Syria.",
+"score": 0.885636,
+"arguments": [
+{
+"text": "Korean peninsula",
+"location": [
+2129,
+2145
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Korean peninsula"
+}
+]
+},
+{
+"text": "Afghanistan",
+"location": [
+2147,
+2158
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Afghanistan",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "participantIn",
+"sentence": "The SCO was founded at a summit in Shanghai in 2001 by the presidents of Russia, China, Kyrgyz Republic, Kazakhstan, Tajikistan and Uzbekistan.",
+"score": 0.625316,
+"arguments": [
+{
+"text": "SCO",
+"location": [
+2174,
+2177
+],
+"entities": [
+{
+"type": "Organization",
+"text": "SCO countries"
+}
+]
+},
+{
+"text": "summit",
+"location": [
+2195,
+2201
+],
+"entities": [
+{
+"type": "EventMeeting",
+"text": "meeting"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "The SCO was founded at a summit in Shanghai in 2001 by the presidents of Russia, China, Kyrgyz Republic, Kazakhstan, Tajikistan and Uzbekistan.",
+"score": 0.955532,
+"arguments": [
+{
+"text": "summit",
+"location": [
+2195,
+2201
+],
+"entities": [
+{
+"type": "EventMeeting",
+"text": "meeting"
+}
+]
+},
+{
+"text": "Shanghai",
+"location": [
+2205,
+2213
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Shanghai"
+}
+]
+}
+]
+},
+{
+"type": "timeOf",
+"sentence": "The SCO was founded at a summit in Shanghai in 2001 by the presidents of Russia, China, Kyrgyz Republic, Kazakhstan, Tajikistan and Uzbekistan.",
+"score": 0.980551,
+"arguments": [
+{
+"text": "2001",
+"location": [
+2217,
+2221
+],
+"entities": [
+{
+"type": "Date",
+"text": "2001"
+}
+]
+},
+{
+"text": "summit",
+"location": [
+2195,
+2201
+],
+"entities": [
+{
+"type": "EventMeeting",
+"text": "meeting"
+}
+]
+}
+]
+},
+{
+"type": "participantIn",
+"sentence": "The SCO was founded at a summit in Shanghai in 2001 by the presidents of Russia, China, Kyrgyz Republic, Kazakhstan, Tajikistan and Uzbekistan.",
+"score": 0.789932,
+"arguments": [
+{
+"text": "presidents",
+"location": [
+2229,
+2239
+],
+"entities": [
+{
+"type": "Person",
+"text": "Presidents"
+}
+]
+},
+{
+"text": "summit",
+"location": [
+2195,
+2201
+],
+"entities": [
+{
+"type": "EventMeeting",
+"text": "meeting"
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "The SCO was founded at a summit in Shanghai in 2001 by the presidents of Russia, China, Kyrgyz Republic, Kazakhstan, Tajikistan and Uzbekistan.",
+"score": 0.442453,
+"arguments": [
+{
+"text": "presidents",
+"location": [
+2229,
+2239
+],
+"entities": [
+{
+"type": "Person",
+"text": "Presidents"
+}
+]
+},
+{
+"text": "Russia",
+"location": [
+2243,
+2249
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Russia",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "memberOf",
+"sentence": "India and Pakistan became its members last year.",
+"score": 0.557527,
+"arguments": [
+{
+"text": "members",
+"location": [
+2344,
+2351
+],
+"entities": [
+{
+"type": "Person",
+"text": "leaders"
+}
+]
+},
+{
+"text": "its",
+"location": [
+2340,
+2343
+],
+"entities": [
+{
+"type": "Organization",
+"text": "SCO countries"
+}
+]
+}
+]
+},
+{
+"type": "participantIn",
+"sentence": "Modi held talks with Uzbekistan President and the two leaders reviewed the full range of bilateral ties, especially ways to boost economic and cultural links.",
+"score": 0.504373,
+"arguments": [
+{
+"text": "President",
+"location": [
+276,
+285
+],
+"entities": [
+{
+"type": "Person",
+"text": "President"
+}
+]
+},
+{
+"text": "talks",
+"location": [
+254,
+259
+],
+"entities": [
+{
+"type": "EventMeeting",
+"text": "talks"
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "Modi held talks with Uzbekistan President and the two leaders reviewed the full range of bilateral ties, especially ways to boost economic and cultural links.",
+"score": 0.802011,
+"arguments": [
+{
+"text": "President",
+"location": [
+276,
+285
+],
+"entities": [
+{
+"type": "Person",
+"text": "President"
+}
+]
+},
+{
+"text": "Uzbekistan",
+"location": [
+265,
+275
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Uzbekistan",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "participantIn",
+"sentence": "\"Wonderful to meet Mr Shavkat Mirziyoyev, President of Uzbekistan.",
+"score": 0.793725,
+"arguments": [
+{
+"text": "Mr",
+"location": [
+422,
+424
+],
+"entities": [
+{
+"type": "Person",
+"text": "Shavkat Mirziyoyev"
+}
+]
+},
+{
+"text": "meet",
+"location": [
+417,
+421
+],
+"entities": [
+{
+"type": "EventMeeting",
+"text": "meetings"
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "\"Wonderful to meet Mr Shavkat Mirziyoyev, President of Uzbekistan.",
+"score": 0.519562,
+"arguments": [
+{
+"text": "President",
+"location": [
+445,
+454
+],
+"entities": [
+{
+"type": "Person",
+"text": "Shavkat Mirziyoyev"
+}
+]
+},
+{
+"text": "Uzbekistan",
+"location": [
+458,
+468
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Uzbekistan",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "managerOf",
+"sentence": "Ties between our nations have their roots in history,\" Modi said in a tweet.",
+"score": 0.276492,
+"arguments": [
+{
+"text": "our",
+"location": [
+483,
+486
+],
+"entities": [
+{
+"type": "Person",
+"text": "their"
+}
+]
+},
+{
+"text": "nations",
+"location": [
+487,
+494
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "nations",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Ties between our nations have their roots in history,\" Modi said in a tweet.",
+"score": 0.997448,
+"arguments": [
+{
+"text": "Modi",
+"location": [
+525,
+529
+],
+"entities": [
+{
+"type": "Person",
+"text": "Modi"
+}
+]
+},
+{
+"text": "said",
+"location": [
+530,
+534
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "\"We reviewed the full range of the India-Uzbekistan friendship, especially ways to boost economic and cultural cooperation,\" he said.",
+"score": 0.985655,
+"arguments": [
+{
+"text": "he",
+"location": [
+672,
+674
+],
+"entities": [
+{
+"type": "Person",
+"text": "Modi"
+}
+]
+},
+{
+"text": "said",
+"location": [
+675,
+679
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+}
+],
+"language": "en",
+"keywords": [
+{
+"text": "President Emomali Rahmon",
+"sentiment": {
+"score": 0.589193,
+"label": "positive"
+},
+"relevance": 0.936555,
+"emotion": {
+"sadness": 0.053027,
+"joy": 0.800587,
+"fear": 0.020223,
+"disgust": 0.014626,
+"anger": 0.110478
+}
+},
+{
+"text": "prime minister",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.811656,
+"emotion": {
+"sadness": 0.474417,
+"joy": 0.341237,
+"fear": 0.029592,
+"disgust": 0.030709,
+"anger": 0.081412
+}
+},
+{
+"text": "Modi",
+"sentiment": {
+"score": 0.487371,
+"label": "positive"
+},
+"relevance": 0.694059,
+"emotion": {
+"sadness": 0.27925,
+"joy": 0.522279,
+"fear": 0.094727,
+"disgust": 0.183991,
+"anger": 0.148551
+}
+},
+{
+"text": "sco summit",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.670768,
+"emotion": {
+"sadness": 0.517904,
+"joy": 0.281055,
+"fear": 0.028939,
+"disgust": 0.025348,
+"anger": 0.084574
+}
+},
+{
+"text": "bilateral cooperation",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.66194,
+"emotion": {
+"sadness": 0.137878,
+"joy": 0.579191,
+"fear": 0.073033,
+"disgust": 0.034931,
+"anger": 0.186804
+}
+}
+],
+"entities": [
+{
+"type": "Person",
+"text": "Modi",
+"sentiment": {
+"score": 0.487371,
+"label": "positive"
+},
+"relevance": 0.86949,
+"emotion": {
+"sadness": 0.239357,
+"joy": 0.50675,
+"fear": 0.081195,
+"disgust": 0.157707,
+"anger": 0.12733
+},
+"count": 7
+},
+{
+"type": "Location",
+"text": "India",
+"sentiment": {
+"score": 0.104058,
+"label": "positive"
+},
+"relevance": 0.598041,
+"emotion": {
+"sadness": 0.623688,
+"joy": 0.475452,
+"fear": 0.139396,
+"disgust": 0.099886,
+"anger": 0.042171
+},
+"disambiguation": {
+"subtype": [
+"HumanLanguage",
+"Region",
+"GovernmentalJurisdiction",
+"FilmEditor",
+"Country"
+],
+"name": "India",
+"dbpedia_resource": "http://dbpedia.org/resource/India"
+},
+"count": 8
+},
+{
+"type": "Organization",
+"text": "SCO",
+"sentiment": {
+"score": -0.331336,
+"label": "negative"
+},
+"relevance": 0.537117,
+"emotion": {
+"sadness": 0.504883,
+"joy": 0.163514,
+"fear": 0.092395,
+"disgust": 0.104221,
+"anger": 0.108222
+},
+"disambiguation": {
+"subtype": [],
+"name": "Shanghai Cooperation Organisation",
+"dbpedia_resource": "http://dbpedia.org/resource/Shanghai_Cooperation_Organisation"
+},
+"count": 6
+},
+{
+"type": "JobTitle",
+"text": "President",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.470383,
+"emotion": {
+"sadness": 0.197222,
+"joy": 0.541717,
+"fear": 0.038004,
+"disgust": 0.10652,
+"anger": 0.148362
+},
+"count": 6
+},
+{
+"type": "Location",
+"text": "Uzbekistan",
+"sentiment": {
+"score": -0.360348,
+"label": "negative"
+},
+"relevance": 0.454178,
+"emotion": {
+"sadness": 0.205355,
+"joy": 0.380392,
+"fear": 0.036814,
+"disgust": 0.288964,
+"anger": 0.121932
+},
+"disambiguation": {
+"subtype": [
+"GovernmentalJurisdiction",
+"Country"
+],
+"name": "Uzbekistan",
+"dbpedia_resource": "http://dbpedia.org/resource/Uzbekistan"
+},
+"count": 4
+}
+],
+"concepts": [
+{
+"text": "Central Asia",
+"relevance": 0.987392,
+"dbpedia_resource": "http://dbpedia.org/resource/Central_Asia"
+},
+{
+"text": "Uzbekistan",
+"relevance": 0.957938,
+"dbpedia_resource": "http://dbpedia.org/resource/Uzbekistan"
+},
+{
+"text": "Republic",
+"relevance": 0.951841,
+"dbpedia_resource": "http://dbpedia.org/resource/Republic"
+},
+{
+"text": "Tajikistan",
+"relevance": 0.860753,
+"dbpedia_resource": "http://dbpedia.org/resource/Tajikistan"
+},
+{
+"text": "President",
+"relevance": 0.833119,
+"dbpedia_resource": "http://dbpedia.org/resource/President"
+}
+],
+"categories": [
+{
+"score": 0.44382,
+"label": "/technology and computing"
+},
+{
+"score": 0.399526,
+"label": "/style and fashion/jewelry/bracelets"
+},
+{
+"score": 0.384387,
+"label": "/law, govt and politics/legal issues/human rights"
+}
+]
+}
+}

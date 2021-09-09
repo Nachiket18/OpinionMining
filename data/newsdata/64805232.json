@@ -1,0 +1,850 @@
+{
+"source_article_link": "https://timesofindia.indiatimes.com/india/one-terrorist-killed-in-pulwama-encounter/articleshow/64805232.cms?&utm_source=Articleshow&utm_medium=Organic&utm_campaign=Related_Stories",
+"title": "2 of 3 terrorists declared killed in Pulwama encounter, managed to flee",
+"date_published": "2018-06-30T15:25:56+05:30",
+"source_type": "news_article",
+"source_name": "timesofindia.indiatimes.com",
+"image_link": [],
+"article_body": "NEW DELHI: Only one of the three terrorists trapped in the at on Friday was killed by the security forces, while the other two managed to escape. police chief told TOI that while there was confirmed information that three Lashker e Toiba terrorists were holed up in the building when the encounter broke out, only one body \u2014 of a local belonging to Handwara \u2014 was found during the post-operation searches at the site. Intelligence sources said it was still being ascertained if the two terrorists managed to escape right at the beginning of the encounter or midway through the firing. \u201cThere wasn\u2019t too much of disturbance from the locals, a regular phenomenon during encounters in the Valley, on Friday. So it is possible that they may have escaped at the beginning itself. It is being investigated how they managed to flee despite the security cordon,\u201d said an officer. A teenager was killed during the encounter and eight civilians injured. The dead terrorist has been identified as Sajad Ahmad Shah, a resident of Gund, Chogul district of Handwara.",
+"description": "NEW DELHI: Only one of the three terrorists trapped in the at on Friday was killed by the security forces, while the other two managed to escape. police chief told TOI that while there was confirmed information that three Lashker e Toiba terrorists were holed up in the building when the encounter broke out, only one body \u2014 of a local",
+"time_scraped": "2018-08-24 09:02:26.183970",
+"article_id": "64805232",
+"article_category": "IndiaNews",
+"image_details": [],
+"ibm_nlu": {
+"usage": {
+"text_units": 1,
+"text_characters": 1052,
+"features": 7
+},
+"sentiment": {
+"document": {
+"score": -0.550041,
+"label": "negative"
+}
+},
+"semantic_roles": [
+{
+"subject": {
+"text": "the three terrorists"
+},
+"sentence": "NEW DELHI: Only one of the three terrorists trapped in the at on Friday was killed by the security forces, while the other two managed to escape. police chief told TOI that while there was confirmed information that three Lashker e Toiba terrorists were holed up in the building when the encounter broke out, only one body \u2014 of a local belonging to Handwara \u2014 was found during the post-operation searches at the site.",
+"object": {
+"text": "in the at on Friday"
+},
+"action": {
+"verb": {
+"text": "trap",
+"tense": "past"
+},
+"text": "trapped",
+"normalized": "trap"
+}
+},
+{
+"subject": {
+"text": "Only one of the three terrorists trapped in the at on Friday"
+},
+"sentence": "NEW DELHI: Only one of the three terrorists trapped in the at on Friday was killed by the security forces, while the other two managed to escape. police chief told TOI that while there was confirmed information that three Lashker e Toiba terrorists were holed up in the building when the encounter broke out, only one body \u2014 of a local belonging to Handwara \u2014 was found during the post-operation searches at the site.",
+"object": {
+"text": "killed by the security forces"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "was",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "by the security forces"
+},
+"sentence": "NEW DELHI: Only one of the three terrorists trapped in the at on Friday was killed by the security forces, while the other two managed to escape. police chief told TOI that while there was confirmed information that three Lashker e Toiba terrorists were holed up in the building when the encounter broke out, only one body \u2014 of a local belonging to Handwara \u2014 was found during the post-operation searches at the site.",
+"object": {
+"text": "Only one of the three terrorists trapped in the at on Friday"
+},
+"action": {
+"verb": {
+"text": "kill",
+"tense": "past"
+},
+"text": "was killed",
+"normalized": "be kill"
+}
+},
+{
+"subject": {
+"text": "the other two"
+},
+"sentence": "NEW DELHI: Only one of the three terrorists trapped in the at on Friday was killed by the security forces, while the other two managed to escape. police chief told TOI that while there was confirmed information that three Lashker e Toiba terrorists were holed up in the building when the encounter broke out, only one body \u2014 of a local belonging to Handwara \u2014 was found during the post-operation searches at the site.",
+"object": {
+"text": "to escape. police chief told TOI that while there was confirmed information"
+},
+"action": {
+"verb": {
+"text": "manage",
+"tense": "past"
+},
+"text": "managed",
+"normalized": "manage"
+}
+},
+{
+"subject": {
+"text": "the other two"
+},
+"sentence": "NEW DELHI: Only one of the three terrorists trapped in the at on Friday was killed by the security forces, while the other two managed to escape. police chief told TOI that while there was confirmed information that three Lashker e Toiba terrorists were holed up in the building when the encounter broke out, only one body \u2014 of a local belonging to Handwara \u2014 was found during the post-operation searches at the site.",
+"object": {
+"text": "police chief"
+},
+"action": {
+"verb": {
+"text": "escape.",
+"tense": "future"
+},
+"text": "managed to escape.",
+"normalized": "manage to escape."
+}
+},
+{
+"subject": {
+"text": "the other two managed to escape. police chief"
+},
+"sentence": "NEW DELHI: Only one of the three terrorists trapped in the at on Friday was killed by the security forces, while the other two managed to escape. police chief told TOI that while there was confirmed information that three Lashker e Toiba terrorists were holed up in the building when the encounter broke out, only one body \u2014 of a local belonging to Handwara \u2014 was found during the post-operation searches at the site.",
+"object": {
+"text": "while there was confirmed information that three Lashker e Toiba terrorists were holed up in the building when the encounter broke out, only one body \u2014 of a local belonging to Handwara \u2014 was found during the post-operation searches at the site"
+},
+"action": {
+"verb": {
+"text": "tell",
+"tense": "past"
+},
+"text": "told",
+"normalized": "tell"
+}
+},
+{
+"subject": {
+"text": "three Lashker e Toiba terrorists"
+},
+"sentence": "NEW DELHI: Only one of the three terrorists trapped in the at on Friday was killed by the security forces, while the other two managed to escape. police chief told TOI that while there was confirmed information that three Lashker e Toiba terrorists were holed up in the building when the encounter broke out, only one body \u2014 of a local belonging to Handwara \u2014 was found during the post-operation searches at the site.",
+"action": {
+"verb": {
+"text": "hole",
+"tense": "past"
+},
+"text": "were holed",
+"normalized": "be hole"
+}
+},
+{
+"subject": {
+"text": "Intelligence sources"
+},
+"sentence": " Intelligence sources said it was still being ascertained if the two terrorists managed to escape right at the beginning of the encounter or midway through the firing.",
+"object": {
+"text": "it was still being ascertained if the two terrorists managed to escape right at the beginning of the encounter or midway through the firing"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "it"
+},
+"sentence": " Intelligence sources said it was still being ascertained if the two terrorists managed to escape right at the beginning of the encounter or midway through the firing.",
+"object": {
+"text": "ascertained"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "being",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "they"
+},
+"sentence": " So it is possible that they may have escaped at the beginning itself.",
+"object": {
+"text": "escaped"
+},
+"action": {
+"verb": {
+"text": "have",
+"tense": "future"
+},
+"text": "have",
+"normalized": "have"
+}
+},
+{
+"subject": {
+"text": "they"
+},
+"sentence": " It is being investigated how they managed to flee despite the security cordon,\u201d said an officer.",
+"object": {
+"text": "to flee"
+},
+"action": {
+"verb": {
+"text": "manage",
+"tense": "past"
+},
+"text": "managed",
+"normalized": "manage"
+}
+},
+{
+"subject": {
+"text": "an officer"
+},
+"sentence": " It is being investigated how they managed to flee despite the security cordon,\u201d said an officer.",
+"object": {
+"text": "It is being investigated how they managed to flee despite the security cordon"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "A teenager"
+},
+"sentence": " A teenager was killed during the encounter and eight civilians injured.",
+"object": {
+"text": "killed"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "was",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "A teenager"
+},
+"sentence": " A teenager was killed during the encounter and eight civilians injured.",
+"action": {
+"verb": {
+"text": "kill",
+"tense": "past"
+},
+"text": "was killed",
+"normalized": "be kill"
+}
+},
+{
+"subject": {
+"text": "The dead terrorist"
+},
+"sentence": " The dead terrorist has been identified as Sajad Ahmad Shah, a resident of Gund, Chogul district of Handwara.",
+"object": {
+"text": "as Sajad Ahmad Shah, a resident of Gund, Chogul district of Handwara"
+},
+"action": {
+"verb": {
+"text": "identify",
+"tense": "past"
+},
+"text": "has been identified",
+"normalized": "have be identify"
+}
+}
+],
+"relations": [
+{
+"type": "partOfMany",
+"sentence": "NEW DELHI: Only one of the three terrorists trapped in the at on Friday was killed by the security forces, while the other two managed to escape.",
+"score": 0.884112,
+"arguments": [
+{
+"text": "one",
+"location": [
+16,
+19
+],
+"entities": [
+{
+"type": "Cardinal",
+"text": "one"
+}
+]
+},
+{
+"text": "terrorists",
+"location": [
+33,
+43
+],
+"entities": [
+{
+"type": "Person",
+"text": "terrorists"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "The dead terrorist has been identified as Sajad Ahmad Shah, a resident of Gund, Chogul district of Handwara.",
+"score": 0.968123,
+"arguments": [
+{
+"text": "Gund",
+"location": [
+1018,
+1022
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Gund"
+}
+]
+},
+{
+"text": "Chogul district",
+"location": [
+1024,
+1039
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Chogul district"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "The dead terrorist has been identified as Sajad Ahmad Shah, a resident of Gund, Chogul district of Handwara.",
+"score": 0.906035,
+"arguments": [
+{
+"text": "Chogul district",
+"location": [
+1024,
+1039
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Chogul district"
+}
+]
+},
+{
+"text": "Handwara",
+"location": [
+1043,
+1051
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Handwara"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "police chief told TOI that while there was confirmed information that three Lashker e Toiba terrorists were holed up in the building when the encounter broke out, only one body \u2014 of a local belonging to Handwara \u2014 was found during the post-operation searches at the site.",
+"score": 0.978139,
+"arguments": [
+{
+"text": "police chief",
+"location": [
+146,
+158
+],
+"entities": [
+{
+"type": "Person",
+"text": "police chief"
+}
+]
+},
+{
+"text": "told",
+"location": [
+159,
+163
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "told"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "police chief told TOI that while there was confirmed information that three Lashker e Toiba terrorists were holed up in the building when the encounter broke out, only one body \u2014 of a local belonging to Handwara \u2014 was found during the post-operation searches at the site.",
+"score": 0.960537,
+"arguments": [
+{
+"text": "TOI",
+"location": [
+164,
+167
+],
+"entities": [
+{
+"type": "Organization",
+"text": "TOI",
+"disambiguation": {
+"subtype": [
+"Commercial"
+]
+}
+}
+]
+},
+{
+"text": "told",
+"location": [
+159,
+163
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "told"
+}
+]
+}
+]
+},
+{
+"type": "memberOf",
+"sentence": "police chief told TOI that while there was confirmed information that three Lashker e Toiba terrorists were holed up in the building when the encounter broke out, only one body \u2014 of a local belonging to Handwara \u2014 was found during the post-operation searches at the site.",
+"score": 0.406037,
+"arguments": [
+{
+"text": "terrorists",
+"location": [
+238,
+248
+],
+"entities": [
+{
+"type": "Person",
+"text": "terrorists"
+}
+]
+},
+{
+"text": "Toiba",
+"location": [
+232,
+237
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Toiba"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "police chief told TOI that while there was confirmed information that three Lashker e Toiba terrorists were holed up in the building when the encounter broke out, only one body \u2014 of a local belonging to Handwara \u2014 was found during the post-operation searches at the site.",
+"score": 0.680431,
+"arguments": [
+{
+"text": "terrorists",
+"location": [
+238,
+248
+],
+"entities": [
+{
+"type": "Person",
+"text": "terrorists"
+}
+]
+},
+{
+"text": "building",
+"location": [
+270,
+278
+],
+"entities": [
+{
+"type": "Facility",
+"text": "building"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Intelligence sources said it was still being ascertained if the two terrorists managed to escape right at the beginning of the encounter or midway through the firing.",
+"score": 0.942082,
+"arguments": [
+{
+"text": "sources",
+"location": [
+431,
+438
+],
+"entities": [
+{
+"type": "Person",
+"text": "sources"
+}
+]
+},
+{
+"text": "said",
+"location": [
+439,
+443
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "told"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "\"There wasn't too much of disturbance from the locals, a regular phenomenon during encounters in the Valley, on Friday.",
+"score": 0.803994,
+"arguments": [
+{
+"text": "locals",
+"location": [
+632,
+638
+],
+"entities": [
+{
+"type": "Facility",
+"text": "locals"
+}
+]
+},
+{
+"text": "Valley",
+"location": [
+686,
+692
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Valley"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "It is being investigated how they managed to flee despite the security cordon,\" said an officer.",
+"score": 0.834813,
+"arguments": [
+{
+"text": "officer",
+"location": [
+863,
+870
+],
+"entities": [
+{
+"type": "Person",
+"text": "teenager"
+}
+]
+},
+{
+"text": "said",
+"location": [
+855,
+859
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "told"
+}
+]
+}
+]
+},
+{
+"type": "residesIn",
+"sentence": "The dead terrorist has been identified as Sajad Ahmad Shah, a resident of Gund, Chogul district of Handwara.",
+"score": 0.926836,
+"arguments": [
+{
+"text": "resident",
+"location": [
+1006,
+1014
+],
+"entities": [
+{
+"type": "Person",
+"text": "Sajad Ahmad Shah"
+}
+]
+},
+{
+"text": "Gund",
+"location": [
+1018,
+1022
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Gund"
+}
+]
+}
+]
+}
+],
+"language": "en",
+"keywords": [
+{
+"text": "Sajad Ahmad Shah",
+"sentiment": {
+"score": -0.388059,
+"label": "negative"
+},
+"relevance": 0.994893,
+"emotion": {
+"sadness": 0.545064,
+"joy": 0.010696,
+"fear": 0.406465,
+"disgust": 0.179732,
+"anger": 0.207088
+}
+},
+{
+"text": "Toiba terrorists",
+"sentiment": {
+"score": -0.394517,
+"label": "negative"
+},
+"relevance": 0.898409,
+"emotion": {
+"sadness": 0.352543,
+"joy": 0.00687,
+"fear": 0.679641,
+"disgust": 0.119459,
+"anger": 0.155365
+}
+},
+{
+"text": "NEW DELHI",
+"sentiment": {
+"score": 0.203687,
+"label": "positive"
+},
+"relevance": 0.699352,
+"emotion": {
+"sadness": 0.115132,
+"joy": 0.596039,
+"fear": 0.084006,
+"disgust": 0.034674,
+"anger": 0.046922
+}
+},
+{
+"text": "police chief",
+"sentiment": {
+"score": -0.394517,
+"label": "negative"
+},
+"relevance": 0.678663,
+"emotion": {
+"sadness": 0.352543,
+"joy": 0.00687,
+"fear": 0.679641,
+"disgust": 0.119459,
+"anger": 0.155365
+}
+},
+{
+"text": "post-operation searches",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.66829,
+"emotion": {
+"sadness": 0.084094,
+"joy": 0.229285,
+"fear": 0.294477,
+"disgust": 0.2124,
+"anger": 0.08545
+}
+}
+],
+"entities": [
+{
+"type": "Person",
+"text": "Sajad Ahmad Shah",
+"sentiment": {
+"score": -0.388059,
+"label": "negative"
+},
+"relevance": 0.803186,
+"emotion": {
+"sadness": 0.545064,
+"joy": 0.010696,
+"fear": 0.406465,
+"disgust": 0.179732,
+"anger": 0.207088
+},
+"disambiguation": {
+"subtype": [
+"Monarch",
+"NoblePerson"
+],
+"name": "Ahmad Shah Bahadur",
+"dbpedia_resource": "http://dbpedia.org/resource/Ahmad_Shah_Bahadur"
+},
+"count": 1
+},
+{
+"type": "Company",
+"text": "TOI",
+"sentiment": {
+"score": -0.394517,
+"label": "negative"
+},
+"relevance": 0.625468,
+"emotion": {
+"sadness": 0.352543,
+"joy": 0.00687,
+"fear": 0.679641,
+"disgust": 0.119459,
+"anger": 0.155365
+},
+"count": 1
+},
+{
+"type": "GeographicFeature",
+"text": "Lashker e Toiba",
+"sentiment": {
+"score": -0.394517,
+"label": "negative"
+},
+"relevance": 0.565467,
+"emotion": {
+"sadness": 0.352543,
+"joy": 0.00687,
+"fear": 0.679641,
+"disgust": 0.119459,
+"anger": 0.155365
+},
+"count": 1
+},
+{
+"type": "Location",
+"text": "DELHI",
+"sentiment": {
+"score": 0.203687,
+"label": "positive"
+},
+"relevance": 0.559844,
+"emotion": {
+"sadness": 0.115132,
+"joy": 0.596039,
+"fear": 0.084006,
+"disgust": 0.034674,
+"anger": 0.046922
+},
+"disambiguation": {
+"subtype": [
+"Country"
+]
+},
+"count": 1
+}
+],
+"concepts": [
+{
+"text": "English-language films",
+"relevance": 0.948653,
+"dbpedia_resource": "http://dbpedia.org/resource/English-language_films"
+},
+{
+"text": "Airport security",
+"relevance": 0.645833,
+"dbpedia_resource": "http://dbpedia.org/resource/Airport_security"
+},
+{
+"text": "Police",
+"relevance": 0.583042,
+"dbpedia_resource": "http://dbpedia.org/resource/Police"
+},
+{
+"text": "Security",
+"relevance": 0.572185,
+"dbpedia_resource": "http://dbpedia.org/resource/Security"
+},
+{
+"text": "American films",
+"relevance": 0.564352,
+"dbpedia_resource": "http://dbpedia.org/resource/American_films"
+}
+],
+"categories": [
+{
+"score": 0.589423,
+"label": "/law, govt and politics/law enforcement/police"
+},
+{
+"score": 0.236578,
+"label": "/hobbies and interests/paranormal phenomena"
+},
+{
+"score": 0.181738,
+"label": "/law, govt and politics/armed forces/army"
+}
+]
+}
+}

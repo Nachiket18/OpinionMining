@@ -1,0 +1,1409 @@
+{
+"source_article_link": "https://timesofindia.indiatimes.com/india/gunning-down-of-protesters-in-tamil-nadu-is-state-sponsored-terrorism-rahul-gandhi/articleshow/64275304.cms?&utm_source=Articleshow&utm_medium=Organic&utm_campaign=Related_Stories",
+"title": "Gunning down of protesters in Tamil Nadu is state sponsored terrorism: Rahul Gandhi",
+"date_published": "2018-05-22T18:59:26+05:30",
+"source_type": "news_article",
+"source_name": "timesofindia.indiatimes.com",
+"image_link": [
+"https://timesofindia.indiatimes.com/thumb/msid-64275300,imgsize-132807,width-400,resizemode-4/64275300.jpg"
+],
+"article_body": "NEW DELHI: president on Tuesday termed the deaths of nine people in police firing during protests against the Sterlite copper plant in a \"brutal example of state sponsored terrorism\". He said people were murdered in for protesting against injustice. \"The gunning down by the police of 9 people in the Sterlite protest in Tamil Nadu is a brutal example of state sponsored terrorism. These citizens were murdered for protesting against injustice. My thoughts and prayers are with the families of these martyrs and the injured,\" Gandhi said on Twitter.   Tamil Nadu Chief Minister said nine people were killed in police action at Tuticorin and ordered a judicial inquiry into the police action. The police action followed months-long protests for the closure of Vedanta's Sterlite copper unit in Tuticorin, about 600 km from Tamil Nadu capital Chennai, over pollution concerns. The agitation turned violent today, with protesters fighting pitched battles with police, prompting it to open fire. Hurling stones and setting government vehicles and public property on fire, the agitators went on the rampage in the town.",
+"description": "NEW DELHI: president on Tuesday termed the deaths of nine people in police firing during protests against the Sterlite copper plant in a \"brutal example of state sponsored terrorism\". He said people were murdered in",
+"time_scraped": "2018-08-23 15:01:26.634565",
+"article_id": "64275304",
+"article_category": "IndiaNews",
+"image_details": [
+{
+"url": "https://timesofindia.indiatimes.com/thumb/msid-64275300,imgsize-132807,width-400,resizemode-4/64275300.jpg",
+"path": "full/540e79c745a55e7acd0daa959d88a71b42447e05.jpg",
+"checksum": "a9069a97559a8d73acab3ee59ef1b60c"
+}
+],
+"ibm_nlu": {
+"usage": {
+"text_units": 1,
+"text_characters": 1114,
+"features": 7
+},
+"sentiment": {
+"document": {
+"score": -0.614235,
+"label": "negative"
+}
+},
+"semantic_roles": [
+{
+"subject": {
+"text": "NEW DELHI: president on Tuesday"
+},
+"sentence": "NEW DELHI: president on Tuesday termed the deaths of nine people in police firing during protests against the Sterlite copper plant in a \"brutal example of state sponsored terrorism\".",
+"object": {
+"text": "the deaths of nine people"
+},
+"action": {
+"verb": {
+"text": "term",
+"tense": "past"
+},
+"text": "termed",
+"normalized": "term"
+}
+},
+{
+"subject": {
+"text": "police"
+},
+"sentence": "NEW DELHI: president on Tuesday termed the deaths of nine people in police firing during protests against the Sterlite copper plant in a \"brutal example of state sponsored terrorism\".",
+"action": {
+"verb": {
+"text": "fire",
+"tense": "present"
+},
+"text": "firing",
+"normalized": "fire"
+}
+},
+{
+"subject": {
+"text": "state"
+},
+"sentence": "NEW DELHI: president on Tuesday termed the deaths of nine people in police firing during protests against the Sterlite copper plant in a \"brutal example of state sponsored terrorism\".",
+"object": {
+"text": "terrorism"
+},
+"action": {
+"verb": {
+"text": "sponsor",
+"tense": "past"
+},
+"text": "sponsored",
+"normalized": "sponsor"
+}
+},
+{
+"subject": {
+"text": "He"
+},
+"sentence": " He said people were murdered in for protesting against injustice.",
+"object": {
+"text": "people were murdered in for protesting against injustice"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "The gunning down by the police of 9 people in the Sterlite protest in Tamil Nadu"
+},
+"sentence": " \"The gunning down by the police of 9 people in the Sterlite protest in Tamil Nadu is a brutal example of state sponsored terrorism.",
+"object": {
+"text": "a brutal example of state sponsored terrorism"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "present"
+},
+"text": "is",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "These citizens"
+},
+"sentence": " These citizens were murdered for protesting against injustice.",
+"object": {
+"text": "murdered for protesting against injustice"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "were",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "My thoughts and prayers"
+},
+"sentence": " My thoughts and prayers are with the families of these martyrs and the injured,\" Gandhi said on Twitter.",
+"object": {
+"text": "with the families of these martyrs"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "present"
+},
+"text": "are",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "Gandhi"
+},
+"sentence": " My thoughts and prayers are with the families of these martyrs and the injured,\" Gandhi said on Twitter.",
+"object": {
+"text": "My thoughts and prayers are with the families of these martyrs and the injured"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "Tamil Nadu Chief Minister"
+},
+"sentence": " Tamil Nadu Chief Minister said nine people were killed in police action at Tuticorin and ordered a judicial inquiry into the police action.",
+"object": {
+"text": "nine people were killed in police action at Tuticorin and ordered a judicial inquiry into the police action"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "nine people"
+},
+"sentence": " Tamil Nadu Chief Minister said nine people were killed in police action at Tuticorin and ordered a judicial inquiry into the police action.",
+"action": {
+"verb": {
+"text": "kill",
+"tense": "past"
+},
+"text": "were killed",
+"normalized": "be kill"
+}
+},
+{
+"subject": {
+"text": "The agitation"
+},
+"sentence": " The agitation turned violent today, with protesters fighting pitched battles with police, prompting it to open fire.",
+"object": {
+"text": "violent"
+},
+"action": {
+"verb": {
+"text": "turn",
+"tense": "past"
+},
+"text": "turned",
+"normalized": "turn"
+}
+},
+{
+"subject": {
+"text": "protesters"
+},
+"sentence": " The agitation turned violent today, with protesters fighting pitched battles with police, prompting it to open fire.",
+"object": {
+"text": "pitched battles"
+},
+"action": {
+"verb": {
+"text": "fight",
+"tense": "present"
+},
+"text": "fighting",
+"normalized": "fight"
+}
+},
+{
+"subject": {
+"text": "it"
+},
+"sentence": " The agitation turned violent today, with protesters fighting pitched battles with police, prompting it to open fire.",
+"object": {
+"text": "to open fire"
+},
+"action": {
+"verb": {
+"text": "prompt",
+"tense": "present"
+},
+"text": "prompting",
+"normalized": "prompt"
+}
+},
+{
+"subject": {
+"text": "the agitators"
+},
+"sentence": " Hurling stones and setting government vehicles and public property on fire, the agitators went on the rampage in the town.",
+"object": {
+"text": "stones"
+},
+"action": {
+"verb": {
+"text": "Hurling",
+"tense": "present"
+},
+"text": "Hurling",
+"normalized": "Hurling"
+}
+}
+],
+"relations": [
+{
+"type": "agentOf",
+"sentence": "NEW DELHI: president on Tuesday termed the deaths of nine people in police firing during protests against the Sterlite copper plant in a \"brutal example of state sponsored terrorism\".",
+"score": 0.775284,
+"arguments": [
+{
+"text": "president",
+"location": [
+11,
+20
+],
+"entities": [
+{
+"type": "Person",
+"text": "president"
+}
+]
+},
+{
+"text": "termed",
+"location": [
+32,
+38
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "termed"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "\"The gunning down by the police of 9 people in the Sterlite protest in Tamil Nadu is a brutal example of state sponsored terrorism.",
+"score": 0.452574,
+"arguments": [
+{
+"text": "Sterlite",
+"location": [
+301,
+309
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Sterlite copper unit"
+}
+]
+},
+{
+"text": "protest",
+"location": [
+310,
+317
+],
+"entities": [
+{
+"type": "EventDemonstration",
+"text": "protests"
+}
+]
+}
+]
+},
+{
+"type": "basedIn",
+"sentence": "\"The gunning down by the police of 9 people in the Sterlite protest in Tamil Nadu is a brutal example of state sponsored terrorism.",
+"score": 0.441507,
+"arguments": [
+{
+"text": "Sterlite",
+"location": [
+301,
+309
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Sterlite copper unit"
+}
+]
+},
+{
+"text": "Tamil Nadu",
+"location": [
+321,
+331
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Tamil Nadu"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "\"The gunning down by the police of 9 people in the Sterlite protest in Tamil Nadu is a brutal example of state sponsored terrorism.",
+"score": 0.793023,
+"arguments": [
+{
+"text": "protest",
+"location": [
+310,
+317
+],
+"entities": [
+{
+"type": "EventDemonstration",
+"text": "protests"
+}
+]
+},
+{
+"text": "Tamil Nadu",
+"location": [
+321,
+331
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Tamil Nadu"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "These citizens were murdered for protesting against injustice.",
+"score": 0.905712,
+"arguments": [
+{
+"text": "citizens",
+"location": [
+388,
+396
+],
+"entities": [
+{
+"type": "Person",
+"text": "citizens"
+}
+]
+},
+{
+"text": "murdered",
+"location": [
+402,
+410
+],
+"entities": [
+{
+"type": "Crime",
+"text": "protesting"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "These citizens were murdered for protesting against injustice.",
+"score": 0.687699,
+"arguments": [
+{
+"text": "citizens",
+"location": [
+388,
+396
+],
+"entities": [
+{
+"type": "Person",
+"text": "citizens"
+}
+]
+},
+{
+"text": "protesting",
+"location": [
+415,
+425
+],
+"entities": [
+{
+"type": "Crime",
+"text": "protesting"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "My thoughts and prayers are with the families of these martyrs and the injured,\" Gandhi said on Twitter.",
+"score": 0.993099,
+"arguments": [
+{
+"text": "Gandhi",
+"location": [
+526,
+532
+],
+"entities": [
+{
+"type": "Person",
+"text": "Gandhi"
+}
+]
+},
+{
+"text": "said",
+"location": [
+533,
+537
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Tamil Nadu Chief Minister said nine people were killed in police action at Tuticorin and ordered a judicial inquiry into the police action.",
+"score": 0.963021,
+"arguments": [
+{
+"text": "Chief Minister",
+"location": [
+563,
+577
+],
+"entities": [
+{
+"type": "Person",
+"text": "Gandhi"
+}
+]
+},
+{
+"text": "said",
+"location": [
+578,
+582
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "My thoughts and prayers are with the families of these martyrs and the injured,\" Gandhi said on Twitter.",
+"score": 0.550431,
+"arguments": [
+{
+"text": "Twitter",
+"location": [
+541,
+548
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Twitter"
+}
+]
+},
+{
+"text": "said",
+"location": [
+533,
+537
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "managerOf",
+"sentence": "Tamil Nadu Chief Minister said nine people were killed in police action at Tuticorin and ordered a judicial inquiry into the police action.",
+"score": 0.549298,
+"arguments": [
+{
+"text": "Chief Minister",
+"location": [
+563,
+577
+],
+"entities": [
+{
+"type": "Person",
+"text": "Gandhi"
+}
+]
+},
+{
+"text": "Tamil Nadu",
+"location": [
+552,
+562
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Twitter"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "Tamil Nadu Chief Minister said nine people were killed in police action at Tuticorin and ordered a judicial inquiry into the police action.",
+"score": 0.736661,
+"arguments": [
+{
+"text": "people",
+"location": [
+588,
+594
+],
+"entities": [
+{
+"type": "Person",
+"text": "people"
+}
+]
+},
+{
+"text": "Tuticorin",
+"location": [
+627,
+636
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Tuticorin"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "Tamil Nadu Chief Minister said nine people were killed in police action at Tuticorin and ordered a judicial inquiry into the police action.",
+"score": 0.409644,
+"arguments": [
+{
+"text": "police",
+"location": [
+610,
+616
+],
+"entities": [
+{
+"type": "Organization",
+"text": "police",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+},
+{
+"text": "Tuticorin",
+"location": [
+627,
+636
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Tuticorin"
+}
+]
+}
+]
+},
+{
+"type": "partOf",
+"sentence": "The police action followed months-long protests for the closure of Vedanta's Sterlite copper unit in Tuticorin, about 600 km from Tamil Nadu capital Chennai, over pollution concerns.",
+"score": 0.819028,
+"arguments": [
+{
+"text": "Sterlite copper unit",
+"location": [
+769,
+789
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Sterlite copper unit"
+}
+]
+},
+{
+"text": "Vedanta",
+"location": [
+759,
+766
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Vedanta",
+"disambiguation": {
+"subtype": [
+"Commercial"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "timeOf",
+"sentence": "NEW DELHI: president on Tuesday termed the deaths of nine people in police firing during protests against the Sterlite copper plant in a \"brutal example of state sponsored terrorism\".",
+"score": 0.972423,
+"arguments": [
+{
+"text": "Tuesday",
+"location": [
+24,
+31
+],
+"entities": [
+{
+"type": "Date",
+"text": "Tuesday"
+}
+]
+},
+{
+"text": "termed",
+"location": [
+32,
+38
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "termed"
+}
+]
+}
+]
+},
+{
+"type": "basedIn",
+"sentence": "The police action followed months-long protests for the closure of Vedanta's Sterlite copper unit in Tuticorin, about 600 km from Tamil Nadu capital Chennai, over pollution concerns.",
+"score": 0.499921,
+"arguments": [
+{
+"text": "Sterlite copper unit",
+"location": [
+769,
+789
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Sterlite copper unit"
+}
+]
+},
+{
+"text": "Tuticorin",
+"location": [
+793,
+802
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Tuticorin"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "The police action followed months-long protests for the closure of Vedanta's Sterlite copper unit in Tuticorin, about 600 km from Tamil Nadu capital Chennai, over pollution concerns.",
+"score": 0.402297,
+"arguments": [
+{
+"text": "Tamil",
+"location": [
+822,
+827
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Sterlite copper unit"
+}
+]
+},
+{
+"text": "Nadu",
+"location": [
+828,
+832
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Tamil Nadu"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "The police action followed months-long protests for the closure of Vedanta's Sterlite copper unit in Tuticorin, about 600 km from Tamil Nadu capital Chennai, over pollution concerns.",
+"score": 0.551844,
+"arguments": [
+{
+"text": "capital",
+"location": [
+833,
+840
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Chennai"
+}
+]
+},
+{
+"text": "Nadu",
+"location": [
+828,
+832
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Tamil Nadu"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "The agitation turned violent today, with protesters fighting pitched battles with police, prompting it to open fire.",
+"score": 0.502676,
+"arguments": [
+{
+"text": "protesters",
+"location": [
+916,
+926
+],
+"entities": [
+{
+"type": "Person",
+"text": "protesters"
+}
+]
+},
+{
+"text": "fighting",
+"location": [
+927,
+935
+],
+"entities": [
+{
+"type": "EventViolence",
+"text": "fighting"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "The agitation turned violent today, with protesters fighting pitched battles with police, prompting it to open fire.",
+"score": 0.531664,
+"arguments": [
+{
+"text": "police",
+"location": [
+957,
+963
+],
+"entities": [
+{
+"type": "Organization",
+"text": "police",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+},
+{
+"text": "fighting",
+"location": [
+927,
+935
+],
+"entities": [
+{
+"type": "EventViolence",
+"text": "fighting"
+}
+]
+}
+]
+},
+{
+"type": "ownerOf",
+"sentence": "Hurling stones and setting government vehicles and public property on fire, the agitators went on the rampage in the town.",
+"score": 0.795444,
+"arguments": [
+{
+"text": "government",
+"location": [
+1019,
+1029
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "government",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+},
+{
+"text": "vehicles",
+"location": [
+1030,
+1038
+],
+"entities": [
+{
+"type": "Vehicle",
+"text": "vehicles"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "Hurling stones and setting government vehicles and public property on fire, the agitators went on the rampage in the town.",
+"score": 0.599711,
+"arguments": [
+{
+"text": "agitators",
+"location": [
+1072,
+1081
+],
+"entities": [
+{
+"type": "Person",
+"text": "agitators"
+}
+]
+},
+{
+"text": "vehicles",
+"location": [
+1030,
+1038
+],
+"entities": [
+{
+"type": "Vehicle",
+"text": "vehicles"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "NEW DELHI: president on Tuesday termed the deaths of nine people in police firing during protests against the Sterlite copper plant in a \"brutal example of state sponsored terrorism\".",
+"score": 0.951415,
+"arguments": [
+{
+"text": "police",
+"location": [
+68,
+74
+],
+"entities": [
+{
+"type": "Organization",
+"text": "police",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+},
+{
+"text": "firing",
+"location": [
+75,
+81
+],
+"entities": [
+{
+"type": "EventViolence",
+"text": "firing"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "NEW DELHI: president on Tuesday termed the deaths of nine people in police firing during protests against the Sterlite copper plant in a \"brutal example of state sponsored terrorism\".",
+"score": 0.591671,
+"arguments": [
+{
+"text": "protests",
+"location": [
+89,
+97
+],
+"entities": [
+{
+"type": "EventDemonstration",
+"text": "protests"
+}
+]
+},
+{
+"text": "plant",
+"location": [
+126,
+131
+],
+"entities": [
+{
+"type": "Facility",
+"text": "plant"
+}
+]
+}
+]
+},
+{
+"type": "ownerOf",
+"sentence": "NEW DELHI: president on Tuesday termed the deaths of nine people in police firing during protests against the Sterlite copper plant in a \"brutal example of state sponsored terrorism\".",
+"score": 0.557407,
+"arguments": [
+{
+"text": "Sterlite copper",
+"location": [
+110,
+125
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Sterlite copper unit"
+}
+]
+},
+{
+"text": "plant",
+"location": [
+126,
+131
+],
+"entities": [
+{
+"type": "Facility",
+"text": "plant"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "He said people were murdered in for protesting against injustice.",
+"score": 0.984658,
+"arguments": [
+{
+"text": "He",
+"location": [
+184,
+186
+],
+"entities": [
+{
+"type": "Person",
+"text": "president"
+}
+]
+},
+{
+"text": "said",
+"location": [
+187,
+191
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "He said people were murdered in for protesting against injustice.",
+"score": 0.800231,
+"arguments": [
+{
+"text": "He",
+"location": [
+184,
+186
+],
+"entities": [
+{
+"type": "Person",
+"text": "president"
+}
+]
+},
+{
+"text": "murdered",
+"location": [
+204,
+212
+],
+"entities": [
+{
+"type": "Crime",
+"text": "protesting"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "He said people were murdered in for protesting against injustice.",
+"score": 0.570108,
+"arguments": [
+{
+"text": "people",
+"location": [
+192,
+198
+],
+"entities": [
+{
+"type": "Person",
+"text": "people"
+}
+]
+},
+{
+"text": "murdered",
+"location": [
+204,
+212
+],
+"entities": [
+{
+"type": "Crime",
+"text": "protesting"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "\"The gunning down by the police of 9 people in the Sterlite protest in Tamil Nadu is a brutal example of state sponsored terrorism.",
+"score": 0.348153,
+"arguments": [
+{
+"text": "people",
+"location": [
+287,
+293
+],
+"entities": [
+{
+"type": "Person",
+"text": "people"
+}
+]
+},
+{
+"text": "protest",
+"location": [
+310,
+317
+],
+"entities": [
+{
+"type": "EventDemonstration",
+"text": "protests"
+}
+]
+}
+]
+}
+],
+"language": "en",
+"keywords": [
+{
+"text": "Tamil Nadu",
+"sentiment": {
+"score": -0.836884,
+"label": "negative"
+},
+"relevance": 0.94061,
+"emotion": {
+"sadness": 0.170069,
+"joy": 0.003862,
+"fear": 0.152303,
+"disgust": 0.598595,
+"anger": 0.430078
+}
+},
+{
+"text": "brutal example",
+"sentiment": {
+"score": -0.713549,
+"label": "negative"
+},
+"relevance": 0.803688,
+"emotion": {
+"sadness": 0.330513,
+"joy": 0.004071,
+"fear": 0.214097,
+"disgust": 0.518413,
+"anger": 0.318772
+}
+},
+{
+"text": "Tamil Nadu Chief",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.798402,
+"emotion": {
+"sadness": 0.27567,
+"joy": 0.015559,
+"fear": 0.212542,
+"disgust": 0.503383,
+"anger": 0.308072
+}
+},
+{
+"text": "Tamil Nadu capital",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.782565,
+"emotion": {
+"sadness": 0.010316,
+"joy": 0.080558,
+"fear": 0.01358,
+"disgust": 0.013294,
+"anger": 0.035675
+}
+},
+{
+"text": "Sterlite copper plant",
+"sentiment": {
+"score": -0.401816,
+"label": "negative"
+},
+"relevance": 0.747783,
+"emotion": {
+"sadness": 0.426171,
+"joy": 0.018773,
+"fear": 0.157518,
+"disgust": 0.475205,
+"anger": 0.274896
+}
+}
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Tamil Nadu",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.847122,
+"emotion": {
+"sadness": 0.27567,
+"joy": 0.015559,
+"fear": 0.212542,
+"disgust": 0.503383,
+"anger": 0.308072
+},
+"count": 1
+},
+{
+"type": "Company",
+"text": "Tuticorin",
+"sentiment": {
+"score": -0.291688,
+"label": "negative"
+},
+"relevance": 0.704175,
+"emotion": {
+"sadness": 0.235414,
+"joy": 0.021752,
+"fear": 0.179867,
+"disgust": 0.487291,
+"anger": 0.413864
+},
+"count": 2
+},
+{
+"type": "Location",
+"text": "DELHI",
+"sentiment": {
+"score": 0.220861,
+"label": "positive"
+},
+"relevance": 0.446538,
+"emotion": {
+"sadness": 0.115132,
+"joy": 0.596039,
+"fear": 0.084006,
+"disgust": 0.034674,
+"anger": 0.046922
+},
+"disambiguation": {
+"subtype": [
+"Country"
+]
+},
+"count": 1
+},
+{
+"type": "Location",
+"text": "Sterlite",
+"sentiment": {
+"score": -0.836884,
+"label": "negative"
+},
+"relevance": 0.436041,
+"emotion": {
+"sadness": 0.232792,
+"joy": 0.002837,
+"fear": 0.199439,
+"disgust": 0.564736,
+"anger": 0.395626
+},
+"disambiguation": {
+"subtype": [
+"City"
+]
+},
+"count": 1
+}
+],
+"concepts": [
+{
+"text": "Tamil Nadu",
+"relevance": 0.94864,
+"dbpedia_resource": "http://dbpedia.org/resource/Tamil_Nadu"
+},
+{
+"text": "Protest",
+"relevance": 0.70154,
+"dbpedia_resource": "http://dbpedia.org/resource/Protest"
+},
+{
+"text": "Demonstration",
+"relevance": 0.609299,
+"dbpedia_resource": "http://dbpedia.org/resource/Demonstration_(people)"
+}
+],
+"categories": [
+{
+"score": 0.685811,
+"label": "/law, govt and politics/law enforcement/police"
+},
+{
+"score": 0.34452,
+"label": "/family and parenting"
+},
+{
+"score": 0.207351,
+"label": "/society/crime/personal offense/homicide"
+}
+]
+}
+}

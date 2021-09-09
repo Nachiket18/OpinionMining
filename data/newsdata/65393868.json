@@ -1,0 +1,1131 @@
+{
+"source_article_link": "https://timesofindia.indiatimes.com/india/election-commission-plans-for-normal-lok-sabha-state-polls/articleshow/65393868.cms?&utm_source=Articleshow&utm_medium=Organic&utm_campaign=Related_Stories",
+"title": "Election Commission plans for \u2018normal\u2019 Lok Sabha, state polls",
+"date_published": "2018-08-14T05:22:55+05:30",
+"source_type": "news_article",
+"source_name": "timesofindia.indiatimes.com",
+"image_link": [
+"https://timesofindia.indiatimes.com/thumb/msid-65393865,imgsize-84918,width-400,resizemode-4/65393865.jpg"
+],
+"article_body": "NEW DELHI: Even as the Law Commission examines the proposal for simultaneous and assembly polls, the Election Commission remains focused on preparations for the general election in April-May 2019 and a few state polls due around the same time. The poll panel has ordered an additional 17.4 lakh voter verifiable paper audit trail (VVPAT) units, 13.95 lakh ballot units and 9.3 lakh control units based on requirement for the LS polls and elections in the five states of Andhra Pradesh, , , Sikkim and . While the ballot and control units of EVMs are expected to be delivered by the two PSU manufacturers \u2014 Bharat Electronics Ltd (BEL) and Electronics Corporation of India Ltd (ECIL) \u2014 by September 2018, the VVPAT delivery is a bit behind schedule and is expected to be completed only by November. According to EC sources, were simultaneous elections to be held, as many as 34 lakh ballot units, 26 lakh control units and 27 lakh VVPAT machines would be required in absolute terms.  \u201cSo, basically, the shortfall would have to be worked out based on the EVMs and VVPATs available at the time and additional machines ordered to make good the shortfall,\u201d chief election commissioner O P Rawat told TOI. However, there is a catch here. The poll panel can move for ordering the additional EVMs and VVPAT units required for simultaneous Lok Sabha and state assembly elections only after the required changes in the relevant laws, including amendments to the Constitution, are effected. \u201cThe Commission cannot place an order for additional machines in anticipation of a switch to simultaneous polls. The legal framework has to be in place before EC can proceed,\u201d said Rawat. Put simply, only after the legal framework sanctioning simultaneous polls is in place can the panel start the preparations such as working out the additional requirement of EVMs and VVPAT units, presenting a budget to the government for procuring these and placing an order with the manufacturers. With barely a few months to go before the 2019 general election is announced, the time window for the required changes in laws to enable synchronised LS and assembly polls as well as procuring additional EVMs and VVPAT units is rather narrow. The scope for implementation of the proposal for simultaneous polls in the upcoming general election, therefore, may be rather limited.",
+"description": "EC is focused on preparations for the general election in April-May 2019 and a few state polls due around the same time The poll panel has ordered an additional 17.4 lakh voter verifiable paper audit trail (VVPAT) units, 13.95 lakh ballot units and 9.3 lakh control units ",
+"time_scraped": "2018-08-23 21:01:02.706451",
+"article_id": "65393868",
+"article_category": "IndiaNews",
+"image_details": [
+{
+"url": "https://timesofindia.indiatimes.com/thumb/msid-65393865,imgsize-84918,width-400,resizemode-4/65393865.jpg",
+"path": "full/ffa1eea12b4c8825960682f5846aa7e0df2555c8.jpg",
+"checksum": "55684c002064e8c455b372c8709f84ec"
+}
+],
+"ibm_nlu": {
+"usage": {
+"text_units": 1,
+"text_characters": 2345,
+"features": 7
+},
+"sentiment": {
+"document": {
+"score": 0.446437,
+"label": "positive"
+}
+},
+"semantic_roles": [
+{
+"subject": {
+"text": "the Law Commission"
+},
+"sentence": "NEW DELHI: Even as the Law Commission examines the proposal for simultaneous and assembly polls, the Election Commission remains focused on preparations for the general election in April-May 2019 and a few state polls due around the same time.",
+"object": {
+"text": "the proposal for simultaneous and assembly polls"
+},
+"action": {
+"verb": {
+"text": "examine",
+"tense": "present"
+},
+"text": "examines",
+"normalized": "examine"
+}
+},
+{
+"subject": {
+"text": "The poll panel"
+},
+"sentence": " The poll panel has ordered an additional 17.4 lakh voter verifiable paper audit trail (VVPAT) units, 13.95 lakh ballot units and 9.3 lakh control units based on requirement for the LS polls and elections in the five states of Andhra Pradesh, , , Sikkim and .",
+"object": {
+"text": "ordered an additional 17.4 lakh voter verifiable paper audit trail (VVPAT) units, 13.95 lakh ballot units and 9.3 lakh control units based on requirement for the LS polls and elections"
+},
+"action": {
+"verb": {
+"text": "have",
+"tense": "present"
+},
+"text": "has",
+"normalized": "have"
+}
+},
+{
+"subject": {
+"text": "The poll panel"
+},
+"sentence": " The poll panel has ordered an additional 17.4 lakh voter verifiable paper audit trail (VVPAT) units, 13.95 lakh ballot units and 9.3 lakh control units based on requirement for the LS polls and elections in the five states of Andhra Pradesh, , , Sikkim and .",
+"object": {
+"text": "an additional 17.4 lakh voter"
+},
+"action": {
+"verb": {
+"text": "order",
+"tense": "past"
+},
+"text": "has ordered",
+"normalized": "have order"
+}
+},
+{
+"subject": {
+"text": "the ballot and control units of EVMs"
+},
+"sentence": " While the ballot and control units of EVMs are expected to be delivered by the two PSU manufacturers \u2014 Bharat Electronics Ltd (BEL) and Electronics Corporation of India Ltd (ECIL) \u2014 by September 2018, the VVPAT delivery is a bit behind schedule and is expected to be completed only by November.",
+"object": {
+"text": "delivered by the two PSU manufacturers \u2014 Bharat Electronics Ltd"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "future"
+},
+"text": "be",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "by the two PSU manufacturers \u2014 Bharat Electronics Ltd (BEL) and Electronics Corporation of India Ltd (ECIL) \u2014 by September 2018"
+},
+"sentence": " While the ballot and control units of EVMs are expected to be delivered by the two PSU manufacturers \u2014 Bharat Electronics Ltd (BEL) and Electronics Corporation of India Ltd (ECIL) \u2014 by September 2018, the VVPAT delivery is a bit behind schedule and is expected to be completed only by November.",
+"object": {
+"text": "the ballot and control units of EVMs"
+},
+"action": {
+"verb": {
+"text": "deliver",
+"tense": "past"
+},
+"text": "are expected to be delivered",
+"normalized": "be expect to be deliver"
+}
+},
+{
+"subject": {
+"text": "the VVPAT delivery"
+},
+"sentence": " While the ballot and control units of EVMs are expected to be delivered by the two PSU manufacturers \u2014 Bharat Electronics Ltd (BEL) and Electronics Corporation of India Ltd (ECIL) \u2014 by September 2018, the VVPAT delivery is a bit behind schedule and is expected to be completed only by November.",
+"object": {
+"text": "a bit behind schedule"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "present"
+},
+"text": "is",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "the VVPAT delivery"
+},
+"sentence": " While the ballot and control units of EVMs are expected to be delivered by the two PSU manufacturers \u2014 Bharat Electronics Ltd (BEL) and Electronics Corporation of India Ltd (ECIL) \u2014 by September 2018, the VVPAT delivery is a bit behind schedule and is expected to be completed only by November.",
+"object": {
+"text": "completed"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "future"
+},
+"text": "be",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "the VVPAT delivery"
+},
+"sentence": " While the ballot and control units of EVMs are expected to be delivered by the two PSU manufacturers \u2014 Bharat Electronics Ltd (BEL) and Electronics Corporation of India Ltd (ECIL) \u2014 by September 2018, the VVPAT delivery is a bit behind schedule and is expected to be completed only by November.",
+"action": {
+"verb": {
+"text": "complete",
+"tense": "past"
+},
+"text": "is expected to be completed",
+"normalized": "be expect to be complete"
+}
+},
+{
+"subject": {
+"text": "simultaneous elections"
+},
+"sentence": " According to EC sources, were simultaneous elections to be held, as many as 34 lakh ballot units, 26 lakh control units and 27 lakh VVPAT machines would be required in absolute terms.",
+"object": {
+"text": "held"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "be",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "27 lakh VVPAT machines"
+},
+"sentence": " According to EC sources, were simultaneous elections to be held, as many as 34 lakh ballot units, 26 lakh control units and 27 lakh VVPAT machines would be required in absolute terms.",
+"object": {
+"text": "required in absolute terms"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "future"
+},
+"text": "be",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "the shortfall"
+},
+"sentence": " \u201cSo, basically, the shortfall would have to be worked out based on the EVMs and VVPATs available at the time and additional machines ordered to make good the shortfall,\u201d chief election commissioner O P Rawat told TOI.",
+"object": {
+"text": "worked out based on the EVMs and VVPATs"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "future"
+},
+"text": "be",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "the shortfall"
+},
+"sentence": " \u201cSo, basically, the shortfall would have to be worked out based on the EVMs and VVPATs available at the time and additional machines ordered to make good the shortfall,\u201d chief election commissioner O P Rawat told TOI.",
+"action": {
+"verb": {
+"text": "work",
+"tense": "future"
+},
+"text": "would have to be worked",
+"normalized": "would have to be work"
+}
+},
+{
+"subject": {
+"text": "additional machines"
+},
+"sentence": " \u201cSo, basically, the shortfall would have to be worked out based on the EVMs and VVPATs available at the time and additional machines ordered to make good the shortfall,\u201d chief election commissioner O P Rawat told TOI.",
+"object": {
+"text": "to make good the shortfall"
+},
+"action": {
+"verb": {
+"text": "order",
+"tense": "past"
+},
+"text": "ordered",
+"normalized": "order"
+}
+},
+{
+"subject": {
+"text": "additional machines"
+},
+"sentence": " \u201cSo, basically, the shortfall would have to be worked out based on the EVMs and VVPATs available at the time and additional machines ordered to make good the shortfall,\u201d chief election commissioner O P Rawat told TOI.",
+"object": {
+"text": "good the shortfall"
+},
+"action": {
+"verb": {
+"text": "make",
+"tense": "future"
+},
+"text": "to make",
+"normalized": "to make"
+}
+},
+{
+"subject": {
+"text": "chief election commissioner O P Rawat"
+},
+"sentence": " \u201cSo, basically, the shortfall would have to be worked out based on the EVMs and VVPATs available at the time and additional machines ordered to make good the shortfall,\u201d chief election commissioner O P Rawat told TOI.",
+"object": {
+"text": "So, basically, the shortfall would have to be worked out based on the EVMs and VVPATs available at the time and additional machines ordered to make good the shortfall"
+},
+"action": {
+"verb": {
+"text": "tell",
+"tense": "past"
+},
+"text": "told",
+"normalized": "tell"
+}
+},
+{
+"subject": {
+"text": "The poll panel"
+},
+"sentence": " The poll panel can move for ordering the additional EVMs and VVPAT units required for simultaneous Lok Sabha and state assembly elections only after the required changes in the relevant laws, including amendments to the Constitution, are effected.",
+"object": {
+"text": "the additional EVMs and VVPAT units"
+},
+"action": {
+"verb": {
+"text": "order",
+"tense": "future"
+},
+"text": "ordering",
+"normalized": "order"
+}
+},
+{
+"subject": {
+"text": "amendments to the Constitution,"
+},
+"sentence": " The poll panel can move for ordering the additional EVMs and VVPAT units required for simultaneous Lok Sabha and state assembly elections only after the required changes in the relevant laws, including amendments to the Constitution, are effected.",
+"action": {
+"verb": {
+"text": "effect",
+"tense": "past"
+},
+"text": "are effected",
+"normalized": "be effect"
+}
+},
+{
+"subject": {
+"text": "The Commission"
+},
+"sentence": " \u201cThe Commission cannot place an order for additional machines in anticipation of a switch to simultaneous polls.",
+"object": {
+"text": "an order"
+},
+"action": {
+"verb": {
+"text": "place",
+"tense": "future",
+"negated": true
+},
+"text": "place",
+"normalized": "place"
+}
+},
+{
+"subject": {
+"text": "The legal framework"
+},
+"sentence": " The legal framework has to be in place before EC can proceed,\u201d said Rawat.",
+"object": {
+"text": "in place"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "future"
+},
+"text": "has to be",
+"normalized": "have to be"
+}
+},
+{
+"subject": {
+"text": "Rawat"
+},
+"sentence": " The legal framework has to be in place before EC can proceed,\u201d said Rawat.",
+"object": {
+"text": "The legal framework has to be in place before EC can proceed"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "future"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "the legal framework"
+},
+"sentence": " Put simply, only after the legal framework sanctioning simultaneous polls is in place can the panel start the preparations such as working out the additional requirement of EVMs and VVPAT units, presenting a budget to the government for procuring these and placing an order with the manufacturers.",
+"object": {
+"text": "simultaneous polls"
+},
+"action": {
+"verb": {
+"text": "sanction",
+"tense": "present"
+},
+"text": "sanctioning",
+"normalized": "sanction"
+}
+},
+{
+"subject": {
+"text": "the legal framework sanctioning simultaneous polls"
+},
+"sentence": " Put simply, only after the legal framework sanctioning simultaneous polls is in place can the panel start the preparations such as working out the additional requirement of EVMs and VVPAT units, presenting a budget to the government for procuring these and placing an order with the manufacturers.",
+"object": {
+"text": "in place"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "present"
+},
+"text": "is",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "the panel"
+},
+"sentence": " Put simply, only after the legal framework sanctioning simultaneous polls is in place can the panel start the preparations such as working out the additional requirement of EVMs and VVPAT units, presenting a budget to the government for procuring these and placing an order with the manufacturers.",
+"object": {
+"text": "the preparations"
+},
+"action": {
+"verb": {
+"text": "start",
+"tense": "future"
+},
+"text": "start",
+"normalized": "start"
+}
+},
+{
+"subject": {
+"text": "the panel"
+},
+"sentence": " Put simply, only after the legal framework sanctioning simultaneous polls is in place can the panel start the preparations such as working out the additional requirement of EVMs and VVPAT units, presenting a budget to the government for procuring these and placing an order with the manufacturers.",
+"object": {
+"text": "the additional requirement of EVMs and VVPAT units"
+},
+"action": {
+"verb": {
+"text": "work",
+"tense": "present"
+},
+"text": "working",
+"normalized": "work"
+}
+},
+{
+"subject": {
+"text": "a budget"
+},
+"sentence": " Put simply, only after the legal framework sanctioning simultaneous polls is in place can the panel start the preparations such as working out the additional requirement of EVMs and VVPAT units, presenting a budget to the government for procuring these and placing an order with the manufacturers.",
+"object": {
+"text": "to the government"
+},
+"action": {
+"verb": {
+"text": "present",
+"tense": "present"
+},
+"text": "presenting",
+"normalized": "present"
+}
+},
+{
+"subject": {
+"text": "an order"
+},
+"sentence": " Put simply, only after the legal framework sanctioning simultaneous polls is in place can the panel start the preparations such as working out the additional requirement of EVMs and VVPAT units, presenting a budget to the government for procuring these and placing an order with the manufacturers.",
+"object": {
+"text": "with the manufacturers"
+},
+"action": {
+"verb": {
+"text": "place",
+"tense": "present"
+},
+"text": "these and placing",
+"normalized": "these and place"
+}
+},
+{
+"subject": {
+"text": "barely a few months"
+},
+"sentence": " With barely a few months to go before the 2019 general election is announced, the time window for the required changes in laws to enable synchronised LS and assembly polls as well as procuring additional EVMs and VVPAT units is rather narrow.",
+"action": {
+"verb": {
+"text": "go",
+"tense": "future"
+},
+"text": "to go",
+"normalized": "to go"
+}
+},
+{
+"subject": {
+"text": "the 2019 general election"
+},
+"sentence": " With barely a few months to go before the 2019 general election is announced, the time window for the required changes in laws to enable synchronised LS and assembly polls as well as procuring additional EVMs and VVPAT units is rather narrow.",
+"object": {
+"text": "announced"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "present"
+},
+"text": "is",
+"normalized": "be"
+}
+}
+],
+"relations": [
+{
+"type": "locatedAt",
+"sentence": "NEW DELHI: Even as the Law Commission examines the proposal for simultaneous and assembly polls, the Election Commission remains focused on preparations for the general election in April-May 2019 and a few state polls due around the same time.",
+"score": 0.852806,
+"arguments": [
+{
+"text": "election",
+"location": [
+169,
+177
+],
+"entities": [
+{
+"type": "EventElection",
+"text": "general election"
+}
+]
+},
+{
+"text": "April-May",
+"location": [
+181,
+190
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "April-May"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "\"So, basically, the shortfall would have to be worked out based on the EVMs and VVPATs available at the time and additional machines ordered to make good the shortfall,\" chief election commissioner O P Rawat told TOI.",
+"score": 0.933228,
+"arguments": [
+{
+"text": "TOI",
+"location": [
+1196,
+1199
+],
+"entities": [
+{
+"type": "Organization",
+"text": "TOI",
+"disambiguation": {
+"subtype": [
+"Commercial"
+]
+}
+}
+]
+},
+{
+"text": "told",
+"location": [
+1191,
+1195
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "told"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "The legal framework has to be in place before EC can proceed,\" said Rawat.",
+"score": 0.985744,
+"arguments": [
+{
+"text": "Rawat",
+"location": [
+1662,
+1667
+],
+"entities": [
+{
+"type": "Person",
+"text": "O P Rawat"
+}
+]
+},
+{
+"text": "said",
+"location": [
+1657,
+1661
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "announced"
+}
+]
+}
+]
+},
+{
+"type": "timeOf",
+"sentence": "With barely a few months to go before the 2019 general election is announced, the time window for the required changes in laws to enable synchronised LS and assembly polls as well as procuring additional EVMs and VVPAT units is rather narrow.",
+"score": 0.92933,
+"arguments": [
+{
+"text": "2019",
+"location": [
+2009,
+2013
+],
+"entities": [
+{
+"type": "Date",
+"text": "2019"
+}
+]
+},
+{
+"text": "general election",
+"location": [
+2014,
+2030
+],
+"entities": [
+{
+"type": "EventElection",
+"text": "general election"
+}
+]
+}
+]
+},
+{
+"type": "timeOf",
+"sentence": "NEW DELHI: Even as the Law Commission examines the proposal for simultaneous and assembly polls, the Election Commission remains focused on preparations for the general election in April-May 2019 and a few state polls due around the same time.",
+"score": 0.818175,
+"arguments": [
+{
+"text": "2019",
+"location": [
+191,
+195
+],
+"entities": [
+{
+"type": "Date",
+"text": "2019"
+}
+]
+},
+{
+"text": "election",
+"location": [
+169,
+177
+],
+"entities": [
+{
+"type": "EventElection",
+"text": "general election"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "The poll panel has ordered an additional 17.4 lakh voter verifiable paper audit trail (VVPAT) units, 13.95 lakh ballot units and 9.3 lakh control units based on requirement for the LS polls and elections in the five states of Andhra Pradesh, , , Sikkim and .",
+"score": 0.831702,
+"arguments": [
+{
+"text": "panel",
+"location": [
+253,
+258
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Law Commission"
+}
+]
+},
+{
+"text": "ordered",
+"location": [
+263,
+270
+],
+"entities": [
+{
+"type": "EventLegal",
+"text": "ordered"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "The poll panel has ordered an additional 17.4 lakh voter verifiable paper audit trail (VVPAT) units, 13.95 lakh ballot units and 9.3 lakh control units based on requirement for the LS polls and elections in the five states of Andhra Pradesh, , , Sikkim and .",
+"score": 0.728582,
+"arguments": [
+{
+"text": "voter",
+"location": [
+295,
+300
+],
+"entities": [
+{
+"type": "Person",
+"text": "voter"
+}
+]
+},
+{
+"text": "ordered",
+"location": [
+263,
+270
+],
+"entities": [
+{
+"type": "EventLegal",
+"text": "ordered"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "The poll panel has ordered an additional 17.4 lakh voter verifiable paper audit trail (VVPAT) units, 13.95 lakh ballot units and 9.3 lakh control units based on requirement for the LS polls and elections in the five states of Andhra Pradesh, , , Sikkim and .",
+"score": 0.763655,
+"arguments": [
+{
+"text": "elections",
+"location": [
+438,
+447
+],
+"entities": [
+{
+"type": "EventElection",
+"text": "general election"
+}
+]
+},
+{
+"text": "states",
+"location": [
+460,
+466
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "states"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "The poll panel has ordered an additional 17.4 lakh voter verifiable paper audit trail (VVPAT) units, 13.95 lakh ballot units and 9.3 lakh control units based on requirement for the LS polls and elections in the five states of Andhra Pradesh, , , Sikkim and .",
+"score": 0.528883,
+"arguments": [
+{
+"text": "elections",
+"location": [
+438,
+447
+],
+"entities": [
+{
+"type": "EventElection",
+"text": "general election"
+}
+]
+},
+{
+"text": "Andhra Pradesh",
+"location": [
+470,
+484
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Andhra Pradesh"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "The poll panel has ordered an additional 17.4 lakh voter verifiable paper audit trail (VVPAT) units, 13.95 lakh ballot units and 9.3 lakh control units based on requirement for the LS polls and elections in the five states of Andhra Pradesh, , , Sikkim and .",
+"score": 0.432349,
+"arguments": [
+{
+"text": "states",
+"location": [
+460,
+466
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "states"
+}
+]
+},
+{
+"text": "Andhra Pradesh",
+"location": [
+470,
+484
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Andhra Pradesh"
+}
+]
+}
+]
+},
+{
+"type": "partOfMany",
+"sentence": "While the ballot and control units of EVMs are expected to be delivered by the two PSU manufacturers \u2014 Bharat Electronics Ltd (BEL) and Electronics Corporation of India Ltd (ECIL) \u2014 by September 2018, the VVPAT delivery is a bit behind schedule and is expected to be completed only by November.",
+"score": 0.472771,
+"arguments": [
+{
+"text": "Electronics Corporation of India Ltd",
+"location": [
+639,
+675
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Electronics Corporation of India Ltd"
+}
+]
+},
+{
+"text": "manufacturers",
+"location": [
+590,
+603
+],
+"entities": [
+{
+"type": "Organization",
+"text": "manufacturers",
+"disambiguation": {
+"subtype": [
+"Commercial"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "\"So, basically, the shortfall would have to be worked out based on the EVMs and VVPATs available at the time and additional machines ordered to make good the shortfall,\" chief election commissioner O P Rawat told TOI.",
+"score": 0.99346,
+"arguments": [
+{
+"text": "O P Rawat",
+"location": [
+1181,
+1190
+],
+"entities": [
+{
+"type": "Person",
+"text": "O P Rawat"
+}
+]
+},
+{
+"text": "told",
+"location": [
+1191,
+1195
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "told"
+}
+]
+}
+]
+}
+],
+"language": "en",
+"keywords": [
+{
+"text": "lakh ballot units",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.963327,
+"emotion": {
+"sadness": 0.121706,
+"joy": 0.029854,
+"fear": 0.187497,
+"disgust": 0.022235,
+"anger": 0.045329
+}
+},
+{
+"text": "lakh control units",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.933878,
+"emotion": {
+"sadness": 0.1282,
+"joy": 0.02622,
+"fear": 0.208086,
+"disgust": 0.02677,
+"anger": 0.033423
+}
+},
+{
+"text": "lakh VVPAT machines",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.733509,
+"emotion": {
+"sadness": 0.139811,
+"joy": 0.075467,
+"fear": 0.174643,
+"disgust": 0.037973,
+"anger": 0.032529
+}
+},
+{
+"text": "general election",
+"sentiment": {
+"score": -0.430975,
+"label": "negative"
+},
+"relevance": 0.727425,
+"emotion": {
+"sadness": 0.516657,
+"joy": 0.13068,
+"fear": 0.272437,
+"disgust": 0.08064,
+"anger": 0.176281
+}
+},
+{
+"text": "simultaneous polls",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.701518,
+"emotion": {
+"sadness": 0.093305,
+"joy": 0.155412,
+"fear": 0.087443,
+"disgust": 0.046734,
+"anger": 0.045117
+}
+}
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Election Commission",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.984811,
+"emotion": {
+"sadness": 0.428666,
+"joy": 0.086853,
+"fear": 0.297506,
+"disgust": 0.076272,
+"anger": 0.18738
+},
+"disambiguation": {
+"subtype": [],
+"name": "Election Commission of Thailand",
+"dbpedia_resource": "http://dbpedia.org/resource/Election_Commission_of_Thailand"
+},
+"count": 1
+},
+{
+"type": "Person",
+"text": "P Rawat",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.876923,
+"emotion": {
+"sadness": 0.477807,
+"joy": 0.016514,
+"fear": 0.271554,
+"disgust": 0.10968,
+"anger": 0.401061
+},
+"count": 2
+},
+{
+"type": "Organization",
+"text": "Law Commission",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.681121,
+"emotion": {
+"sadness": 0.277542,
+"joy": 0.380766,
+"fear": 0.199044,
+"disgust": 0.146429,
+"anger": 0.112348
+},
+"disambiguation": {
+"subtype": [],
+"name": "New Zealand Law Commission",
+"dbpedia_resource": "http://dbpedia.org/resource/New_Zealand_Law_Commission"
+},
+"count": 1
+},
+{
+"type": "Company",
+"text": "Bharat Electronics Ltd",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.646233,
+"emotion": {
+"sadness": 0.172855,
+"joy": 0.122402,
+"fear": 0.105513,
+"disgust": 0.025428,
+"anger": 0.154066
+},
+"count": 1
+},
+{
+"type": "Organization",
+"text": "EC",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.644947,
+"emotion": {
+"sadness": 0.017522,
+"joy": 0.327439,
+"fear": 0.160726,
+"disgust": 0.001107,
+"anger": 0.074006
+},
+"disambiguation": {
+"subtype": [],
+"name": "Election Commission of India",
+"dbpedia_resource": "http://dbpedia.org/resource/Election_Commission_of_India"
+},
+"count": 1
+}
+],
+"concepts": [
+{
+"text": "Lok Sabha",
+"relevance": 0.981827,
+"dbpedia_resource": "http://dbpedia.org/resource/Lok_Sabha"
+},
+{
+"text": "Voting",
+"relevance": 0.840264,
+"dbpedia_resource": "http://dbpedia.org/resource/Voting"
+},
+{
+"text": "India",
+"relevance": 0.773254,
+"dbpedia_resource": "http://dbpedia.org/resource/India"
+},
+{
+"text": "Election",
+"relevance": 0.770354,
+"dbpedia_resource": "http://dbpedia.org/resource/Election"
+},
+{
+"text": "Elections",
+"relevance": 0.751424,
+"dbpedia_resource": "http://dbpedia.org/resource/Elections"
+}
+],
+"categories": [
+{
+"score": 0.56221,
+"label": "/law, govt and politics/politics/elections"
+},
+{
+"score": 0.282574,
+"label": "/law, govt and politics/government"
+},
+{
+"score": 0.156814,
+"label": "/law, govt and politics/government/state and local government"
+}
+]
+}
+}

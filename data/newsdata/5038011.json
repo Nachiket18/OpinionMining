@@ -1,0 +1,2356 @@
+{
+"source_article_link": "https://www.firstpost.com/india/kerala-after-the-flood-pinarayi-vijayan-says-centre-should-treat-state-on-different-yardstick-for-extending-aid-5038011.html",
+"title": "Kerala, After The Flood: Pinarayi Vijayan says Centre should treat state on different yardstick for extending aid",
+"date_published": "2018-08-24T16:58:37+05:30",
+"source_type": "news_article",
+"source_name": "FirstPost",
+"image_link": [
+"https://images.firstpost.com/wp-content/uploads/2018/08/Pinarayi-Vijayan2_PTI1.jpg",
+"https://images.firstpost.com/wp-content/uploads/2018/08/kerala825x1204.jpg"
+],
+"article_body": "Thiruvananthapuram: Kerala should be treated on a different yardstick for extending flood relief assistance as its huge loss cannot be compared with damage in any other state at any point of time, Chief Minister Pinarayi Vijayan said on Friday. Giving a detailed account of the havoc caused by the devastating floods and landslides since early August, he said the preliminary assessment of losses was around Rs 20,000 crore which was equal to the state's annual plan size for 2018-19. The heavy rains and floods have claimed 231 lives in Kerala since 8 August and more than 10.40 lakh people are still in relief camps across the state. In support of his stand that Kerala's case was unique, he said the state was densely populated and the entire state had infrastructure facilities such as good roads, communication network and hospitals. File photo of Kerala chief minister Pinarayi Vijayan. PTI Hence, the loss suffered in the floods was huge in nature and was something which cannot be compared to the damage suffered by any other part of the country at any point of time, Vijayan said, urging that the state should be treated on a different yardstick for extending assistance. His stress on the magnitude of the calamity and assistance comes at a time when there is a standoff over accepting foreign aid for the flood-ravaged state. While the state government was keen on receiving foreign aid, including $100 million offered by the United Arab Emirates, the Centre has taken the stand that it cannot accept any assistance from overseas governments and cited an existing policy Pushing for foreign assistance, Vijayan had earlier said there was no blanket ban and India, by law, could accept financial aid voluntarily given by a foreign government in times of a severe calamity. In his statement on Friday, the chief minister said: \"It is with a thankful heart that we take note of the fact that foreign countries ranging from the UAE to Qatar have come forward with their promise of assistance.\" Vijayan also mentioned about the immediate release of Rs 100 crore by the Centre and further interim aid of Rs 500 crore announced by Prime Minister Narendra Modi immediately after his aerial survey of flood-affected areas on 19 August. The Centre has already released Rs 600 crore to the state. The chief minister said the state was facing the biggest calamity in 100 years and preliminary estimate of losses comes around Rs 20,000 crore. It goes without saying that the actual losses will steadily go up once the water recedes and the final assessment is made. \"To put it in a nutshell, the size of the loss caused by the calamity is equal to the size of the annual plan the state has chalked out for 2018-2019,\" Vijayan said. More than 26,000 houses have been damaged or destroyed and crops spread over 40,000 hectares lost, Vijayan said, adding, \"We have lost more than two lakh poultry and at least 46,000 milch animals.\" The magnitude of the havoc truly gets reflected in the fact that a vast area of the state still remains submerged in flood waters, the chief minister said. Floods have washed away several multi-storeyed buildings, shops, commercial establishments and even bridges, he said. Telecommunication network and electricity lines have been damaged. The power sector suffered losses of around Rs 750 crore while damage to water supply infrastructure was close to Rs 900 crore, he said. He also noted that more than 300 landslides have occurred, resulting in hills being razed in several places. Major rivers such as Bharathapuzha, Periyar, Chalakkudy and Pamba have altered course in many places. Several parts of the state had been cut off, and remained as isolated islands, inaccessible by road or water transport, for days together. People of the state came together and stood behind the government in evacuating the people stranded in flood waters and rehabilitating them in relief camps, the chief minister said. Giving details of the rescue operations held with the active cooperation of the national disaster response force, defence forces, coast guard, police and others, Vijayan said it was for the first time that \"such a massive rescue operation of this magnitude\" was conducted anywhere in the country. On post-flood health concerns, he said the health authorities were taking every precaution to ensure the well being of the people and to ensure that there was no epidemic breakout.",
+"description": "Thiruvananthapuram: Kerala should be treated on a different yardstick for extending flood relief assistance as its huge loss cannot be compared with damage in any other state at any point of time, Chief Minister Pinarayi Vijayan said on Friday. Giving a detailed account of the havoc caused by the devastating floods and landslides since early August, he said the preliminary assessment of losses was around Rs 20,000 crore which was equal to the state's annual plan size for 2018-19. The heavy rains and floods have claimed 231 lives in Kerala since 8 August and more than 10.40 lakh people are still in relief camps across the state. In support of his stand that Kerala's case was unique, he said the state was densely populated and the entire state had infrastructure facilities such as good roads, communication network and hospitals.",
+"time_scraped": "2018-08-24 18:04:56.982354",
+"article_id": "5038011",
+"article_category": "India",
+"image_details": [
+{
+"url": "https://images.firstpost.com/wp-content/uploads/2018/08/Pinarayi-Vijayan2_PTI1.jpg",
+"path": "full/44f714348d705a35fd50d0ceb48fb00965281abc.jpg",
+"checksum": "85b48d3f138d67f399ad2d8d5a2d5346"
+},
+{
+"url": "https://images.firstpost.com/wp-content/uploads/2018/08/kerala825x1204.jpg",
+"path": "full/6911aca10dcd613ae1ef1ec69d5a0222f7a07f63.jpg",
+"checksum": "592f1372de4af3cecbf73aa0077c08e5"
+}
+],
+"ibm_nlu": {
+"usage": {
+"text_units": 1,
+"text_characters": 4414,
+"features": 7
+},
+"sentiment": {
+"document": {
+"score": -0.140859,
+"label": "negative"
+}
+},
+"semantic_roles": [
+{
+"subject": {
+"text": "Kerala"
+},
+"sentence": "Thiruvananthapuram: Kerala should be treated on a different yardstick for extending flood relief assistance as its huge loss cannot be compared with damage in any other state at any point of time, Chief Minister Pinarayi Vijayan said on Friday.",
+"object": {
+"text": "treated on a different yardstick"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "future"
+},
+"text": "be",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "Kerala"
+},
+"sentence": "Thiruvananthapuram: Kerala should be treated on a different yardstick for extending flood relief assistance as its huge loss cannot be compared with damage in any other state at any point of time, Chief Minister Pinarayi Vijayan said on Friday.",
+"object": {
+"text": "on a different yardstick"
+},
+"action": {
+"verb": {
+"text": "treat",
+"tense": "future"
+},
+"text": "should be treated",
+"normalized": "should be treat"
+}
+},
+{
+"subject": {
+"text": "flood relief assistance"
+},
+"sentence": "Thiruvananthapuram: Kerala should be treated on a different yardstick for extending flood relief assistance as its huge loss cannot be compared with damage in any other state at any point of time, Chief Minister Pinarayi Vijayan said on Friday.",
+"object": {
+"text": "as its huge loss"
+},
+"action": {
+"verb": {
+"text": "extend",
+"tense": "present"
+},
+"text": "extending",
+"normalized": "extend"
+}
+},
+{
+"subject": {
+"text": "its huge loss"
+},
+"sentence": "Thiruvananthapuram: Kerala should be treated on a different yardstick for extending flood relief assistance as its huge loss cannot be compared with damage in any other state at any point of time, Chief Minister Pinarayi Vijayan said on Friday.",
+"object": {
+"text": "compared with damage in any other state"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "future",
+"negated": true
+},
+"text": "be",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "its huge loss"
+},
+"sentence": "Thiruvananthapuram: Kerala should be treated on a different yardstick for extending flood relief assistance as its huge loss cannot be compared with damage in any other state at any point of time, Chief Minister Pinarayi Vijayan said on Friday.",
+"object": {
+"text": "with damage in any other state at any point of time, Chief Minister Pinarayi Vijayan said on Friday"
+},
+"action": {
+"verb": {
+"text": "compare",
+"tense": "future",
+"negated": true
+},
+"text": "compared",
+"normalized": "compare"
+}
+},
+{
+"subject": {
+"text": "Chief Minister Pinarayi Vijayan"
+},
+"sentence": "Thiruvananthapuram: Kerala should be treated on a different yardstick for extending flood relief assistance as its huge loss cannot be compared with damage in any other state at any point of time, Chief Minister Pinarayi Vijayan said on Friday.",
+"object": {
+"text": "Kerala should be treated on a different yardstick for extending flood relief assistance as its huge loss cannot be compared with damage in any other state at any point of time"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "he"
+},
+"sentence": " Giving a detailed account of the havoc caused by the devastating floods and landslides since early August, he said the preliminary assessment of losses was around Rs 20,000 crore which was equal to the state's annual plan size for 2018-19.",
+"object": {
+"text": "the preliminary assessment of losses was around Rs 20,000 crore which was equal to the state's annual plan size for 2018-19"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "the preliminary assessment of losses"
+},
+"sentence": " Giving a detailed account of the havoc caused by the devastating floods and landslides since early August, he said the preliminary assessment of losses was around Rs 20,000 crore which was equal to the state's annual plan size for 2018-19.",
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "was",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "The heavy rains and floods"
+},
+"sentence": " The heavy rains and floods have claimed 231 lives in Kerala since 8 August and more than 10.40 lakh people are still in relief camps across the state.",
+"object": {
+"text": "claimed 231 lives"
+},
+"action": {
+"verb": {
+"text": "have",
+"tense": "present"
+},
+"text": "have",
+"normalized": "have"
+}
+},
+{
+"subject": {
+"text": "The heavy rains and floods"
+},
+"sentence": " The heavy rains and floods have claimed 231 lives in Kerala since 8 August and more than 10.40 lakh people are still in relief camps across the state.",
+"object": {
+"text": "231 lives"
+},
+"action": {
+"verb": {
+"text": "claim",
+"tense": "past"
+},
+"text": "have claimed",
+"normalized": "have claim"
+}
+},
+{
+"subject": {
+"text": "more than 10.40 lakh people"
+},
+"sentence": " The heavy rains and floods have claimed 231 lives in Kerala since 8 August and more than 10.40 lakh people are still in relief camps across the state.",
+"action": {
+"verb": {
+"text": "be",
+"tense": "present"
+},
+"text": "are",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "Kerala's case"
+},
+"sentence": " In support of his stand that Kerala's case was unique, he said the state was densely populated and the entire state had infrastructure facilities such as good roads, communication network and hospitals.",
+"object": {
+"text": "unique"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "was",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "he"
+},
+"sentence": " In support of his stand that Kerala's case was unique, he said the state was densely populated and the entire state had infrastructure facilities such as good roads, communication network and hospitals.",
+"object": {
+"text": "the state was densely populated and the entire state had infrastructure facilities such as good roads, communication network and hospitals"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "the loss"
+},
+"sentence": " PTI Hence, the loss suffered in the floods was huge in nature and was something which cannot be compared to the damage suffered by any other part of the country at any point of time, Vijayan said, urging that the state should be treated on a different yardstick for extending assistance.",
+"action": {
+"verb": {
+"text": "suffer",
+"tense": "past"
+},
+"text": "suffered",
+"normalized": "suffer"
+}
+},
+{
+"subject": {
+"text": "the loss suffered in the floods"
+},
+"sentence": " PTI Hence, the loss suffered in the floods was huge in nature and was something which cannot be compared to the damage suffered by any other part of the country at any point of time, Vijayan said, urging that the state should be treated on a different yardstick for extending assistance.",
+"object": {
+"text": "huge in nature"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "was",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "something"
+},
+"sentence": " PTI Hence, the loss suffered in the floods was huge in nature and was something which cannot be compared to the damage suffered by any other part of the country at any point of time, Vijayan said, urging that the state should be treated on a different yardstick for extending assistance.",
+"object": {
+"text": "to the damage suffered by any other part of the country at any point of time"
+},
+"action": {
+"verb": {
+"text": "compare",
+"tense": "future",
+"negated": true
+},
+"text": "compared",
+"normalized": "compare"
+}
+},
+{
+"subject": {
+"text": "by any other part of the country"
+},
+"sentence": " PTI Hence, the loss suffered in the floods was huge in nature and was something which cannot be compared to the damage suffered by any other part of the country at any point of time, Vijayan said, urging that the state should be treated on a different yardstick for extending assistance.",
+"object": {
+"text": "the damage"
+},
+"action": {
+"verb": {
+"text": "suffer",
+"tense": "past"
+},
+"text": "suffered",
+"normalized": "suffer"
+}
+},
+{
+"subject": {
+"text": "Vijayan"
+},
+"sentence": " PTI Hence, the loss suffered in the floods was huge in nature and was something which cannot be compared to the damage suffered by any other part of the country at any point of time, Vijayan said, urging that the state should be treated on a different yardstick for extending assistance.",
+"object": {
+"text": "PTI Hence, the loss suffered in the floods was huge in nature and was something which cannot be compared to the damage suffered by any other part of the country at any point of time"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "that the state should be treated on a different yardstick"
+},
+"sentence": " PTI Hence, the loss suffered in the floods was huge in nature and was something which cannot be compared to the damage suffered by any other part of the country at any point of time, Vijayan said, urging that the state should be treated on a different yardstick for extending assistance.",
+"object": {
+"text": "for extending assistance"
+},
+"action": {
+"verb": {
+"text": "urge",
+"tense": "present"
+},
+"text": "urging",
+"normalized": "urge"
+}
+},
+{
+"subject": {
+"text": "the state"
+},
+"sentence": " PTI Hence, the loss suffered in the floods was huge in nature and was something which cannot be compared to the damage suffered by any other part of the country at any point of time, Vijayan said, urging that the state should be treated on a different yardstick for extending assistance.",
+"object": {
+"text": "treated on a different yardstick"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "future"
+},
+"text": "be",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "the state"
+},
+"sentence": " PTI Hence, the loss suffered in the floods was huge in nature and was something which cannot be compared to the damage suffered by any other part of the country at any point of time, Vijayan said, urging that the state should be treated on a different yardstick for extending assistance.",
+"object": {
+"text": "on a different yardstick"
+},
+"action": {
+"verb": {
+"text": "treat",
+"tense": "future"
+},
+"text": "should be treated",
+"normalized": "should be treat"
+}
+},
+{
+"subject": {
+"text": "assistance"
+},
+"sentence": " His stress on the magnitude of the calamity and assistance comes at a time when there is a standoff over accepting foreign aid for the flood-ravaged state.",
+"action": {
+"verb": {
+"text": "come",
+"tense": "present"
+},
+"text": "comes",
+"normalized": "come"
+}
+},
+{
+"subject": {
+"text": "the state government"
+},
+"sentence": " While the state government was keen on receiving foreign aid, including $100 million offered by the United Arab Emirates, the Centre has taken the stand that it cannot accept any assistance from overseas governments and cited an existing policy Pushing for foreign assistance, Vijayan had earlier said there was no blanket ban and India, by law, could accept financial aid voluntarily given by a foreign government in times of a severe calamity.",
+"object": {
+"text": "keen on receiving foreign aid"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "was",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "the state government"
+},
+"sentence": " While the state government was keen on receiving foreign aid, including $100 million offered by the United Arab Emirates, the Centre has taken the stand that it cannot accept any assistance from overseas governments and cited an existing policy Pushing for foreign assistance, Vijayan had earlier said there was no blanket ban and India, by law, could accept financial aid voluntarily given by a foreign government in times of a severe calamity.",
+"object": {
+"text": "foreign aid"
+},
+"action": {
+"verb": {
+"text": "receive",
+"tense": "future"
+},
+"text": "receiving",
+"normalized": "receive"
+}
+},
+{
+"subject": {
+"text": "$100 million offered by the United Arab Emirates"
+},
+"sentence": " While the state government was keen on receiving foreign aid, including $100 million offered by the United Arab Emirates, the Centre has taken the stand that it cannot accept any assistance from overseas governments and cited an existing policy Pushing for foreign assistance, Vijayan had earlier said there was no blanket ban and India, by law, could accept financial aid voluntarily given by a foreign government in times of a severe calamity.",
+"object": {
+"text": "foreign aid"
+},
+"action": {
+"verb": {
+"text": "include",
+"tense": "present"
+},
+"text": "including",
+"normalized": "include"
+}
+},
+{
+"subject": {
+"text": "by the United Arab Emirates"
+},
+"sentence": " While the state government was keen on receiving foreign aid, including $100 million offered by the United Arab Emirates, the Centre has taken the stand that it cannot accept any assistance from overseas governments and cited an existing policy Pushing for foreign assistance, Vijayan had earlier said there was no blanket ban and India, by law, could accept financial aid voluntarily given by a foreign government in times of a severe calamity.",
+"object": {
+"text": "$100 million"
+},
+"action": {
+"verb": {
+"text": "offer",
+"tense": "past"
+},
+"text": "offered",
+"normalized": "offer"
+}
+},
+{
+"subject": {
+"text": "the Centre"
+},
+"sentence": " While the state government was keen on receiving foreign aid, including $100 million offered by the United Arab Emirates, the Centre has taken the stand that it cannot accept any assistance from overseas governments and cited an existing policy Pushing for foreign assistance, Vijayan had earlier said there was no blanket ban and India, by law, could accept financial aid voluntarily given by a foreign government in times of a severe calamity.",
+"object": {
+"text": "the stand that it cannot accept any assistance from overseas governments and cited an existing policy Pushing for foreign assistance"
+},
+"action": {
+"verb": {
+"text": "take",
+"tense": "past"
+},
+"text": "has taken",
+"normalized": "have take"
+}
+},
+{
+"subject": {
+"text": "it"
+},
+"sentence": " While the state government was keen on receiving foreign aid, including $100 million offered by the United Arab Emirates, the Centre has taken the stand that it cannot accept any assistance from overseas governments and cited an existing policy Pushing for foreign assistance, Vijayan had earlier said there was no blanket ban and India, by law, could accept financial aid voluntarily given by a foreign government in times of a severe calamity.",
+"object": {
+"text": "any assistance from overseas governments"
+},
+"action": {
+"verb": {
+"text": "accept",
+"tense": "future",
+"negated": true
+},
+"text": "accept",
+"normalized": "accept"
+}
+},
+{
+"subject": {
+"text": "it"
+},
+"sentence": " While the state government was keen on receiving foreign aid, including $100 million offered by the United Arab Emirates, the Centre has taken the stand that it cannot accept any assistance from overseas governments and cited an existing policy Pushing for foreign assistance, Vijayan had earlier said there was no blanket ban and India, by law, could accept financial aid voluntarily given by a foreign government in times of a severe calamity.",
+"object": {
+"text": "an existing policy Pushing for foreign assistance"
+},
+"action": {
+"verb": {
+"text": "cite",
+"tense": "past"
+},
+"text": "cited",
+"normalized": "cite"
+}
+},
+{
+"subject": {
+"text": "Vijayan"
+},
+"sentence": " While the state government was keen on receiving foreign aid, including $100 million offered by the United Arab Emirates, the Centre has taken the stand that it cannot accept any assistance from overseas governments and cited an existing policy Pushing for foreign assistance, Vijayan had earlier said there was no blanket ban and India, by law, could accept financial aid voluntarily given by a foreign government in times of a severe calamity.",
+"object": {
+"text": "earlier said there was no blanket ban and India"
+},
+"action": {
+"verb": {
+"text": "have",
+"tense": "past"
+},
+"text": "had",
+"normalized": "have"
+}
+},
+{
+"subject": {
+"text": "the chief minister"
+},
+"sentence": " In his statement on Friday, the chief minister said: \"It is with a thankful heart that we take note of the fact that foreign countries ranging from the UAE to Qatar have come forward with their promise of assistance.\"",
+"object": {
+"text": "It is with a thankful heart that we take note of the fact that foreign countries ranging from the UAE to Qatar have come forward with their promise of assistance"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "Vijayan"
+},
+"sentence": " Vijayan also mentioned about the immediate release of Rs 100 crore by the Centre and further interim aid of Rs 500 crore announced by Prime Minister Narendra Modi immediately after his aerial survey of flood-affected areas on 19 August.",
+"object": {
+"text": "about the immediate release of Rs 100 crore by the Centre and further interim aid of Rs 500 crore announced by Prime Minister Narendra Modi immediately after his aerial survey of flood-affected areas on 19 August"
+},
+"action": {
+"verb": {
+"text": "mention",
+"tense": "past"
+},
+"text": "mentioned",
+"normalized": "mention"
+}
+},
+{
+"subject": {
+"text": "by Prime Minister Narendra Modi"
+},
+"sentence": " Vijayan also mentioned about the immediate release of Rs 100 crore by the Centre and further interim aid of Rs 500 crore announced by Prime Minister Narendra Modi immediately after his aerial survey of flood-affected areas on 19 August.",
+"object": {
+"text": "Rs 500 crore"
+},
+"action": {
+"verb": {
+"text": "announce",
+"tense": "past"
+},
+"text": "announced",
+"normalized": "announce"
+}
+},
+{
+"subject": {
+"text": "The Centre"
+},
+"sentence": " The Centre has already released Rs 600 crore to the state.",
+"object": {
+"text": "already released Rs 600 crore to the state"
+},
+"action": {
+"verb": {
+"text": "have",
+"tense": "present"
+},
+"text": "has",
+"normalized": "have"
+}
+},
+{
+"subject": {
+"text": "The Centre"
+},
+"sentence": " The Centre has already released Rs 600 crore to the state.",
+"object": {
+"text": "Rs 600 crore"
+},
+"action": {
+"verb": {
+"text": "release",
+"tense": "past"
+},
+"text": "released",
+"normalized": "release"
+}
+},
+{
+"subject": {
+"text": "The chief minister"
+},
+"sentence": " The chief minister said the state was facing the biggest calamity in 100 years and preliminary estimate of losses comes around Rs 20,000 crore.",
+"object": {
+"text": "the state was facing the biggest calamity in 100 years and preliminary estimate of losses comes around Rs 20,000 crore"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "preliminary estimate of losses"
+},
+"sentence": " The chief minister said the state was facing the biggest calamity in 100 years and preliminary estimate of losses comes around Rs 20,000 crore.",
+"action": {
+"verb": {
+"text": "come",
+"tense": "present"
+},
+"text": "comes",
+"normalized": "come"
+}
+},
+{
+"subject": {
+"text": "It"
+},
+"sentence": " It goes without saying that the actual losses will steadily go up once the water recedes and the final assessment is made.",
+"object": {
+"text": "that the actual losses will steadily go up once the water recedes and the final assessment is made"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "present"
+},
+"text": "saying",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "the actual losses"
+},
+"sentence": " It goes without saying that the actual losses will steadily go up once the water recedes and the final assessment is made.",
+"action": {
+"verb": {
+"text": "go",
+"tense": "future"
+},
+"text": "go",
+"normalized": "go"
+}
+},
+{
+"subject": {
+"text": "by the calamity"
+},
+"sentence": " \"To put it in a nutshell, the size of the loss caused by the calamity is equal to the size of the annual plan the state has chalked out for 2018-2019,\" Vijayan said.",
+"object": {
+"text": "the loss"
+},
+"action": {
+"verb": {
+"text": "cause",
+"tense": "past"
+},
+"text": "caused",
+"normalized": "cause"
+}
+},
+{
+"subject": {
+"text": "the size of the loss caused by the calamity"
+},
+"sentence": " \"To put it in a nutshell, the size of the loss caused by the calamity is equal to the size of the annual plan the state has chalked out for 2018-2019,\" Vijayan said.",
+"object": {
+"text": "equal to the size of the annual plan the state"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "present"
+},
+"text": "is",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "the state"
+},
+"sentence": " \"To put it in a nutshell, the size of the loss caused by the calamity is equal to the size of the annual plan the state has chalked out for 2018-2019,\" Vijayan said.",
+"object": {
+"text": "the annual plan"
+},
+"action": {
+"verb": {
+"text": "chalk",
+"tense": "past"
+},
+"text": "has chalked",
+"normalized": "have chalk"
+}
+},
+{
+"subject": {
+"text": "Vijayan"
+},
+"sentence": " \"To put it in a nutshell, the size of the loss caused by the calamity is equal to the size of the annual plan the state has chalked out for 2018-2019,\" Vijayan said.",
+"object": {
+"text": "To put it in a nutshell, the size of the loss caused by the calamity is equal to the size of the annual plan the state has chalked out for 2018-2019"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "More than 26,000 houses"
+},
+"sentence": " More than 26,000 houses have been damaged or destroyed and crops spread over 40,000 hectares lost, Vijayan said, adding, \"We have lost more than two lakh poultry and at least 46,000 milch animals.\"",
+"object": {
+"text": "been damaged"
+},
+"action": {
+"verb": {
+"text": "have",
+"tense": "present"
+},
+"text": "have",
+"normalized": "have"
+}
+},
+{
+"subject": {
+"text": "More than 26,000 houses"
+},
+"sentence": " More than 26,000 houses have been damaged or destroyed and crops spread over 40,000 hectares lost, Vijayan said, adding, \"We have lost more than two lakh poultry and at least 46,000 milch animals.\"",
+"object": {
+"text": "damaged"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "been",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "crops"
+},
+"sentence": " More than 26,000 houses have been damaged or destroyed and crops spread over 40,000 hectares lost, Vijayan said, adding, \"We have lost more than two lakh poultry and at least 46,000 milch animals.\"",
+"action": {
+"verb": {
+"text": "spread",
+"tense": "past"
+},
+"text": "spread",
+"normalized": "spread"
+}
+},
+{
+"subject": {
+"text": "Vijayan"
+},
+"sentence": " More than 26,000 houses have been damaged or destroyed and crops spread over 40,000 hectares lost, Vijayan said, adding, \"We have lost more than two lakh poultry and at least 46,000 milch animals.\"",
+"object": {
+"text": "More than 26,000 houses have been damaged or destroyed and crops spread over 40,000 hectares lost"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "Vijayan"
+},
+"sentence": " More than 26,000 houses have been damaged or destroyed and crops spread over 40,000 hectares lost, Vijayan said, adding, \"We have lost more than two lakh poultry and at least 46,000 milch animals.\"",
+"object": {
+"text": "We have lost more than two lakh poultry and at least 46,000 milch animals"
+},
+"action": {
+"verb": {
+"text": "add",
+"tense": "present"
+},
+"text": "adding",
+"normalized": "add"
+}
+},
+{
+"subject": {
+"text": "The magnitude of the havoc"
+},
+"sentence": " The magnitude of the havoc truly gets reflected in the fact that a vast area of the state still remains submerged in flood waters, the chief minister said.",
+"action": {
+"verb": {
+"text": "get",
+"tense": "present"
+},
+"text": "gets reflected",
+"normalized": "get reflect"
+}
+},
+{
+"subject": {
+"text": "The magnitude of the havoc"
+},
+"sentence": " The magnitude of the havoc truly gets reflected in the fact that a vast area of the state still remains submerged in flood waters, the chief minister said.",
+"object": {
+"text": "in the fact that a vast area of the state"
+},
+"action": {
+"verb": {
+"text": "reflect",
+"tense": "past"
+},
+"text": "gets reflected",
+"normalized": "get reflect"
+}
+}
+],
+"relations": [
+{
+"type": "agentOf",
+"sentence": "Thiruvananthapuram: Kerala should be treated on a different yardstick for extending flood relief assistance as its huge loss cannot be compared with damage in any other state at any point of time, Chief Minister Pinarayi Vijayan said on Friday.",
+"score": 0.993555,
+"arguments": [
+{
+"text": "Pinarayi Vijayan",
+"location": [
+212,
+228
+],
+"entities": [
+{
+"type": "Person",
+"text": "Pinarayi Vijayan"
+}
+]
+},
+{
+"text": "said",
+"location": [
+229,
+233
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "adding"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Giving a detailed account of the havoc caused by the devastating floods and landslides since early August, he said the preliminary assessment of losses was around Rs 20,000 crore which was equal to the state's annual plan size for 2018-19.",
+"score": 0.979573,
+"arguments": [
+{
+"text": "he",
+"location": [
+352,
+354
+],
+"entities": [
+{
+"type": "Person",
+"text": "Pinarayi Vijayan"
+}
+]
+},
+{
+"text": "said",
+"location": [
+355,
+359
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "adding"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "In support of his stand that Kerala's case was unique, he said the state was densely populated and the entire state had infrastructure facilities such as good roads, communication network and hospitals.",
+"score": 0.995686,
+"arguments": [
+{
+"text": "he",
+"location": [
+691,
+693
+],
+"entities": [
+{
+"type": "Person",
+"text": "Pinarayi Vijayan"
+}
+]
+},
+{
+"text": "said",
+"location": [
+694,
+698
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "adding"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "PTI Hence, the loss suffered in the floods was huge in nature and was something which cannot be compared to the damage suffered by any other part of the country at any point of time, Vijayan said, urging that the state should be treated on a different yardstick for extending assistance.",
+"score": 0.997627,
+"arguments": [
+{
+"text": "Vijayan",
+"location": [
+1076,
+1083
+],
+"entities": [
+{
+"type": "Person",
+"text": "Pinarayi Vijayan"
+}
+]
+},
+{
+"text": "said",
+"location": [
+1084,
+1088
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "adding"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "While the state government was keen on receiving foreign aid, including $100 million offered by the United Arab Emirates, the Centre has taken the stand that it cannot accept any assistance from overseas governments and cited an existing policy Pushing for foreign assistance, Vijayan had earlier said there was no blanket ban and India, by law, could accept financial aid voluntarily given by a foreign government in times of a severe calamity.",
+"score": 0.80084,
+"arguments": [
+{
+"text": "Vijayan",
+"location": [
+1614,
+1621
+],
+"entities": [
+{
+"type": "Person",
+"text": "Pinarayi Vijayan"
+}
+]
+},
+{
+"text": "said",
+"location": [
+1634,
+1638
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "adding"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "In his statement on Friday, the chief minister said: \"It is with a thankful heart that we take note of the fact that foreign countries ranging from the UAE to Qatar have come forward with their promise of assistance.",
+"score": 0.996735,
+"arguments": [
+{
+"text": "chief minister",
+"location": [
+1815,
+1829
+],
+"entities": [
+{
+"type": "Person",
+"text": "Pinarayi Vijayan"
+}
+]
+},
+{
+"text": "said",
+"location": [
+1830,
+1834
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "adding"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "The chief minister said the state was facing the biggest calamity in 100 years and preliminary estimate of losses comes around Rs 20,000 crore.",
+"score": 0.98616,
+"arguments": [
+{
+"text": "chief minister",
+"location": [
+2301,
+2315
+],
+"entities": [
+{
+"type": "Person",
+"text": "Pinarayi Vijayan"
+}
+]
+},
+{
+"text": "said",
+"location": [
+2316,
+2320
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "adding"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "\"To put it in a nutshell, the size of the loss caused by the calamity is equal to the size of the annual plan the state has chalked out for 2018-2019,\" Vijayan said.",
+"score": 0.99828,
+"arguments": [
+{
+"text": "Vijayan",
+"location": [
+2716,
+2723
+],
+"entities": [
+{
+"type": "Person",
+"text": "Pinarayi Vijayan"
+}
+]
+},
+{
+"text": "said",
+"location": [
+2724,
+2728
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "adding"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "More than 26,000 houses have been damaged or destroyed and crops spread over 40,000 hectares lost, Vijayan said, adding, \"We have lost more than two lakh poultry and at least 46,000 milch animals.",
+"score": 0.99194,
+"arguments": [
+{
+"text": "Vijayan",
+"location": [
+2829,
+2836
+],
+"entities": [
+{
+"type": "Person",
+"text": "Pinarayi Vijayan"
+}
+]
+},
+{
+"text": "said",
+"location": [
+2837,
+2841
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "adding"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "More than 26,000 houses have been damaged or destroyed and crops spread over 40,000 hectares lost, Vijayan said, adding, \"We have lost more than two lakh poultry and at least 46,000 milch animals.",
+"score": 0.583206,
+"arguments": [
+{
+"text": "Vijayan",
+"location": [
+2829,
+2836
+],
+"entities": [
+{
+"type": "Person",
+"text": "Pinarayi Vijayan"
+}
+]
+},
+{
+"text": "adding",
+"location": [
+2843,
+2849
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "adding"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "\" The magnitude of the havoc truly gets reflected in the fact that a vast area of the state still remains submerged in flood waters, the chief minister said.",
+"score": 0.981596,
+"arguments": [
+{
+"text": "chief minister",
+"location": [
+3063,
+3077
+],
+"entities": [
+{
+"type": "Person",
+"text": "Pinarayi Vijayan"
+}
+]
+},
+{
+"text": "said",
+"location": [
+3078,
+3082
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "adding"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Floods have washed away several multi-storeyed buildings, shops, commercial establishments and even bridges, he said.",
+"score": 0.969059,
+"arguments": [
+{
+"text": "he",
+"location": [
+3193,
+3195
+],
+"entities": [
+{
+"type": "Person",
+"text": "Pinarayi Vijayan"
+}
+]
+},
+{
+"text": "said",
+"location": [
+3196,
+3200
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "adding"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "The power sector suffered losses of around Rs 750 crore while damage to water supply infrastructure was close to Rs 900 crore, he said.",
+"score": 0.983071,
+"arguments": [
+{
+"text": "he",
+"location": [
+3396,
+3398
+],
+"entities": [
+{
+"type": "Person",
+"text": "Pinarayi Vijayan"
+}
+]
+},
+{
+"text": "said",
+"location": [
+3399,
+3403
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "adding"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "He also noted that more than 300 landslides have occurred, resulting in hills being razed in several places.",
+"score": 0.960808,
+"arguments": [
+{
+"text": "He",
+"location": [
+3405,
+3407
+],
+"entities": [
+{
+"type": "Person",
+"text": "Pinarayi Vijayan"
+}
+]
+},
+{
+"text": "noted",
+"location": [
+3413,
+3418
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "adding"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "People of the state came together and stood behind the government in evacuating the people stranded in flood waters and rehabilitating them in relief camps, the chief minister said.",
+"score": 0.963152,
+"arguments": [
+{
+"text": "chief minister",
+"location": [
+3916,
+3930
+],
+"entities": [
+{
+"type": "Person",
+"text": "Pinarayi Vijayan"
+}
+]
+},
+{
+"text": "said",
+"location": [
+3931,
+3935
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "adding"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Giving details of the rescue operations held with the active cooperation of the national disaster response force, defence forces, coast guard, police and others, Vijayan said it was for the first time that \"such a massive rescue operation of this magnitude\" was conducted anywhere in the country.",
+"score": 0.867636,
+"arguments": [
+{
+"text": "Vijayan",
+"location": [
+4099,
+4106
+],
+"entities": [
+{
+"type": "Person",
+"text": "Pinarayi Vijayan"
+}
+]
+},
+{
+"text": "said",
+"location": [
+4107,
+4111
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "adding"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "On post-flood health concerns, he said the health authorities were taking every precaution to ensure the well being of the people and to ensure that there was no epidemic breakout.",
+"score": 0.981783,
+"arguments": [
+{
+"text": "he",
+"location": [
+4265,
+4267
+],
+"entities": [
+{
+"type": "Person",
+"text": "Pinarayi Vijayan"
+}
+]
+},
+{
+"text": "said",
+"location": [
+4268,
+4272
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "adding"
+}
+]
+}
+]
+},
+{
+"type": "hasAttribute",
+"sentence": "While the state government was keen on receiving foreign aid, including $100 million offered by the United Arab Emirates, the Centre has taken the stand that it cannot accept any assistance from overseas governments and cited an existing policy Pushing for foreign assistance, Vijayan had earlier said there was no blanket ban and India, by law, could accept financial aid voluntarily given by a foreign government in times of a severe calamity.",
+"score": 0.449346,
+"arguments": [
+{
+"text": "government",
+"location": [
+1353,
+1363
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "India",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+},
+{
+"text": "$100 million",
+"location": [
+1409,
+1421
+],
+"entities": [
+{
+"type": "Money",
+"text": "$100 million",
+"disambiguation": {
+"subtype": [
+"Gainloss"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "hasAttribute",
+"sentence": "While the state government was keen on receiving foreign aid, including $100 million offered by the United Arab Emirates, the Centre has taken the stand that it cannot accept any assistance from overseas governments and cited an existing policy Pushing for foreign assistance, Vijayan had earlier said there was no blanket ban and India, by law, could accept financial aid voluntarily given by a foreign government in times of a severe calamity.",
+"score": 0.577457,
+"arguments": [
+{
+"text": "United Arab Emirates",
+"location": [
+1437,
+1457
+],
+"entities": [
+{
+"type": "Organization",
+"text": "United Arab Emirates"
+}
+]
+},
+{
+"text": "$100 million",
+"location": [
+1409,
+1421
+],
+"entities": [
+{
+"type": "Money",
+"text": "$100 million",
+"disambiguation": {
+"subtype": [
+"Gainloss"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "While the state government was keen on receiving foreign aid, including $100 million offered by the United Arab Emirates, the Centre has taken the stand that it cannot accept any assistance from overseas governments and cited an existing policy Pushing for foreign assistance, Vijayan had earlier said there was no blanket ban and India, by law, could accept financial aid voluntarily given by a foreign government in times of a severe calamity.",
+"score": 0.622584,
+"arguments": [
+{
+"text": "United Arab Emirates",
+"location": [
+1437,
+1457
+],
+"entities": [
+{
+"type": "Organization",
+"text": "United Arab Emirates"
+}
+]
+},
+{
+"text": "offered",
+"location": [
+1422,
+1429
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "offered"
+}
+]
+}
+]
+},
+{
+"type": "timeOf",
+"sentence": "In his statement on Friday, the chief minister said: \"It is with a thankful heart that we take note of the fact that foreign countries ranging from the UAE to Qatar have come forward with their promise of assistance.",
+"score": 0.959302,
+"arguments": [
+{
+"text": "Friday",
+"location": [
+1803,
+1809
+],
+"entities": [
+{
+"type": "Date",
+"text": "Friday"
+}
+]
+},
+{
+"text": "said",
+"location": [
+1830,
+1834
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "adding"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "In his statement on Friday, the chief minister said: \"It is with a thankful heart that we take note of the fact that foreign countries ranging from the UAE to Qatar have come forward with their promise of assistance.",
+"score": 0.496996,
+"arguments": [
+{
+"text": "countries",
+"location": [
+1908,
+1917
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "countries",
+"disambiguation": {
+"subtype": [
+"Area"
+]
+}
+}
+]
+},
+{
+"text": "UAE",
+"location": [
+1935,
+1938
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "UAE"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "\" Vijayan also mentioned about the immediate release of Rs 100 crore by the Centre and further interim aid of Rs 500 crore announced by Prime Minister Narendra Modi immediately after his aerial survey of flood-affected areas on 19 August.",
+"score": 0.950004,
+"arguments": [
+{
+"text": "Vijayan",
+"location": [
+2001,
+2008
+],
+"entities": [
+{
+"type": "Person",
+"text": "Pinarayi Vijayan"
+}
+]
+},
+{
+"text": "mentioned",
+"location": [
+2014,
+2023
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "mentioned"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "\" Vijayan also mentioned about the immediate release of Rs 100 crore by the Centre and further interim aid of Rs 500 crore announced by Prime Minister Narendra Modi immediately after his aerial survey of flood-affected areas on 19 August.",
+"score": 0.558577,
+"arguments": [
+{
+"text": "Prime Minister",
+"location": [
+2135,
+2149
+],
+"entities": [
+{
+"type": "Person",
+"text": "Narendra Modi"
+}
+]
+},
+{
+"text": "announced",
+"location": [
+2122,
+2131
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "announced"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "Floods have washed away several multi-storeyed buildings, shops, commercial establishments and even bridges, he said.",
+"score": 0.483018,
+"arguments": [
+{
+"text": "shops",
+"location": [
+3142,
+3147
+],
+"entities": [
+{
+"type": "Facility",
+"text": "shops"
+}
+]
+},
+{
+"text": "bridges",
+"location": [
+3184,
+3191
+],
+"entities": [
+{
+"type": "Facility",
+"text": "bridges"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "Major rivers such as Bharathapuzha, Periyar, Chalakkudy and Pamba have altered course in many places.",
+"score": 0.544858,
+"arguments": [
+{
+"text": "rivers",
+"location": [
+3520,
+3526
+],
+"entities": [
+{
+"type": "GeographicFeature",
+"text": "rivers"
+}
+]
+},
+{
+"text": "Bharathapuzha",
+"location": [
+3535,
+3548
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Bharathapuzha"
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "People of the state came together and stood behind the government in evacuating the people stranded in flood waters and rehabilitating them in relief camps, the chief minister said.",
+"score": 0.51873,
+"arguments": [
+{
+"text": "People",
+"location": [
+3755,
+3761
+],
+"entities": [
+{
+"type": "Person",
+"text": "People"
+}
+]
+},
+{
+"text": "state",
+"location": [
+3769,
+3774
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "United Arab Emirates"
+}
+]
+}
+]
+},
+{
+"type": "timeOf",
+"sentence": "Thiruvananthapuram: Kerala should be treated on a different yardstick for extending flood relief assistance as its huge loss cannot be compared with damage in any other state at any point of time, Chief Minister Pinarayi Vijayan said on Friday.",
+"score": 0.981584,
+"arguments": [
+{
+"text": "Friday",
+"location": [
+237,
+243
+],
+"entities": [
+{
+"type": "Date",
+"text": "Friday"
+}
+]
+},
+{
+"text": "said",
+"location": [
+229,
+233
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "adding"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "People of the state came together and stood behind the government in evacuating the people stranded in flood waters and rehabilitating them in relief camps, the chief minister said.",
+"score": 0.512142,
+"arguments": [
+{
+"text": "people",
+"location": [
+3839,
+3845
+],
+"entities": [
+{
+"type": "Person",
+"text": "People"
+}
+]
+},
+{
+"text": "waters",
+"location": [
+3864,
+3870
+],
+"entities": [
+{
+"type": "GeographicFeature",
+"text": "waters"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "People of the state came together and stood behind the government in evacuating the people stranded in flood waters and rehabilitating them in relief camps, the chief minister said.",
+"score": 0.928819,
+"arguments": [
+{
+"text": "them",
+"location": [
+3890,
+3894
+],
+"entities": [
+{
+"type": "Person",
+"text": "People"
+}
+]
+},
+{
+"text": "relief camps",
+"location": [
+3898,
+3910
+],
+"entities": [
+{
+"type": "Facility",
+"text": "relief camps"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Giving details of the rescue operations held with the active cooperation of the national disaster response force, defence forces, coast guard, police and others, Vijayan said it was for the first time that \"such a massive rescue operation of this magnitude\" was conducted anywhere in the country.",
+"score": 0.531254,
+"arguments": [
+{
+"text": "others",
+"location": [
+4091,
+4097
+],
+"entities": [
+{
+"type": "Person",
+"text": "others"
+}
+]
+},
+{
+"text": "said",
+"location": [
+4107,
+4111
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "adding"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "The heavy rains and floods have claimed 231 lives in Kerala since 8 August and more than 10.40 lakh people are still in relief camps across the state.",
+"score": 0.802651,
+"arguments": [
+{
+"text": "people",
+"location": [
+585,
+591
+],
+"entities": [
+{
+"type": "Person",
+"text": "people"
+}
+]
+},
+{
+"text": "relief camps",
+"location": [
+605,
+617
+],
+"entities": [
+{
+"type": "Facility",
+"text": "relief camps"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "The heavy rains and floods have claimed 231 lives in Kerala since 8 August and more than 10.40 lakh people are still in relief camps across the state.",
+"score": 0.790613,
+"arguments": [
+{
+"text": "relief camps",
+"location": [
+605,
+617
+],
+"entities": [
+{
+"type": "Facility",
+"text": "relief camps"
+}
+]
+},
+{
+"text": "state",
+"location": [
+629,
+634
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "state"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "In support of his stand that Kerala's case was unique, he said the state was densely populated and the entire state had infrastructure facilities such as good roads, communication network and hospitals.",
+"score": 0.906583,
+"arguments": [
+{
+"text": "Kerala",
+"location": [
+665,
+671
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Kerala"
+}
+]
+},
+{
+"text": "case",
+"location": [
+674,
+678
+],
+"entities": [
+{
+"type": "EventLegal",
+"text": "case"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "In support of his stand that Kerala's case was unique, he said the state was densely populated and the entire state had infrastructure facilities such as good roads, communication network and hospitals.",
+"score": 0.361187,
+"arguments": [
+{
+"text": "facilities",
+"location": [
+771,
+781
+],
+"entities": [
+{
+"type": "Facility",
+"text": "facilities"
+}
+]
+},
+{
+"text": "state",
+"location": [
+746,
+751
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "United Arab Emirates"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "In support of his stand that Kerala's case was unique, he said the state was densely populated and the entire state had infrastructure facilities such as good roads, communication network and hospitals.",
+"score": 0.284637,
+"arguments": [
+{
+"text": "hospitals",
+"location": [
+828,
+837
+],
+"entities": [
+{
+"type": "Organization",
+"text": "hospitals"
+}
+]
+},
+{
+"text": "facilities",
+"location": [
+771,
+781
+],
+"entities": [
+{
+"type": "Facility",
+"text": "facilities"
+}
+]
+}
+]
+},
+{
+"type": "residesIn",
+"sentence": "File photo of Kerala chief minister Pinarayi Vijayan.",
+"score": 0.457284,
+"arguments": [
+{
+"text": "chief minister",
+"location": [
+860,
+874
+],
+"entities": [
+{
+"type": "Person",
+"text": "Pinarayi Vijayan"
+}
+]
+},
+{
+"text": "Kerala",
+"location": [
+853,
+859
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Kerala"
+}
+]
+}
+]
+},
+{
+"type": "partOf",
+"sentence": "While the state government was keen on receiving foreign aid, including $100 million offered by the United Arab Emirates, the Centre has taken the stand that it cannot accept any assistance from overseas governments and cited an existing policy Pushing for foreign assistance, Vijayan had earlier said there was no blanket ban and India, by law, could accept financial aid voluntarily given by a foreign government in times of a severe calamity.",
+"score": 0.641051,
+"arguments": [
+{
+"text": "government",
+"location": [
+1353,
+1363
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "India",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+},
+{
+"text": "state",
+"location": [
+1347,
+1352
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "United Arab Emirates"
+}
+]
+}
+]
+}
+],
+"language": "en",
+"keywords": [
+{
+"text": "chief minister",
+"sentiment": {
+"score": 0.451783,
+"label": "positive"
+},
+"relevance": 0.901552,
+"emotion": {
+"sadness": 0.719431,
+"joy": 0.143201,
+"fear": 0.267828,
+"disgust": 0.165839,
+"anger": 0.069238
+}
+},
+{
+"text": "chief minister pinarayi",
+"sentiment": {
+"score": 0.249749,
+"label": "positive"
+},
+"relevance": 0.794344,
+"emotion": {
+"sadness": 0.402378,
+"joy": 0.341051,
+"fear": 0.18501,
+"disgust": 0.133633,
+"anger": 0.063255
+}
+},
+{
+"text": "minister pinarayi vijayan",
+"sentiment": {
+"score": 0.249749,
+"label": "positive"
+},
+"relevance": 0.785569,
+"emotion": {
+"sadness": 0.402378,
+"joy": 0.341051,
+"fear": 0.18501,
+"disgust": 0.133633,
+"anger": 0.063255
+}
+},
+{
+"text": "state",
+"sentiment": {
+"score": 0.0661313,
+"label": "positive"
+},
+"relevance": 0.720174,
+"emotion": {
+"sadness": 0.584411,
+"joy": 0.116201,
+"fear": 0.493034,
+"disgust": 0.151652,
+"anger": 0.180391
+}
+},
+{
+"text": "Kerala chief minister",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.678809,
+"emotion": {
+"sadness": 0.384341,
+"joy": 0.271595,
+"fear": 0.150221,
+"disgust": 0.141911,
+"anger": 0.064651
+}
+}
+],
+"entities": [
+{
+"type": "Person",
+"text": "Chief Minister Pinarayi Vijayan",
+"sentiment": {
+"score": -0.0611716,
+"label": "negative"
+},
+"relevance": 0.840621,
+"emotion": {
+"sadness": 0.577131,
+"joy": 0.177677,
+"fear": 0.137304,
+"disgust": 0.094197,
+"anger": 0.090572
+},
+"count": 13
+},
+{
+"type": "Location",
+"text": "Kerala",
+"sentiment": {
+"score": -0.196293,
+"label": "negative"
+},
+"relevance": 0.27458,
+"emotion": {
+"sadness": 0.459296,
+"joy": 0.124075,
+"fear": 0.369571,
+"disgust": 0.156157,
+"anger": 0.159195
+},
+"disambiguation": {
+"subtype": [
+"Country"
+]
+},
+"count": 4
+},
+{
+"type": "Person",
+"text": "Prime Minister Narendra Modi",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.204719,
+"emotion": {
+"sadness": 0.293983,
+"joy": 0.119754,
+"fear": 0.284039,
+"disgust": 0.096689,
+"anger": 0.155401
+},
+"count": 1
+},
+{
+"type": "Person",
+"text": "Pinarayi Vijayan",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.195378,
+"emotion": {
+"sadness": 0.384341,
+"joy": 0.271595,
+"fear": 0.150221,
+"disgust": 0.141911,
+"anger": 0.064651
+},
+"disambiguation": {
+"subtype": [
+"Politician",
+"OfficeHolder"
+],
+"name": "Pinarayi Vijayan",
+"dbpedia_resource": "http://dbpedia.org/resource/Pinarayi_Vijayan"
+},
+"count": 1
+}
+],
+"concepts": [
+{
+"text": "V. S. Achuthanandan",
+"relevance": 0.976317,
+"dbpedia_resource": "http://dbpedia.org/resource/V._S._Achuthanandan"
+},
+{
+"text": "United Arab Emirates",
+"relevance": 0.917443,
+"dbpedia_resource": "http://dbpedia.org/resource/United_Arab_Emirates"
+},
+{
+"text": "Narendra Modi",
+"relevance": 0.790142,
+"dbpedia_resource": "http://dbpedia.org/resource/Narendra_Modi"
+},
+{
+"text": "Communist Party of India",
+"relevance": 0.752409,
+"dbpedia_resource": "http://dbpedia.org/resource/Communist_Party_of_India_(Marxist)"
+},
+{
+"text": "Aid",
+"relevance": 0.744178,
+"dbpedia_resource": "http://dbpedia.org/resource/Aid"
+}
+],
+"categories": [
+{
+"score": 0.434822,
+"label": "/law, govt and politics/government/state and local government"
+},
+{
+"score": 0.389598,
+"label": "/law, govt and politics/government"
+},
+{
+"score": 0.314674,
+"label": "/finance/personal finance/insurance/health insurance"
+}
+]
+}
+}

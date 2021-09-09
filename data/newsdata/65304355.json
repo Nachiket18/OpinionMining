@@ -1,0 +1,2366 @@
+{
+"source_article_link": "https://timesofindia.indiatimes.com/india/corruption-divisiveness-peaked-under-modi-government-rahul-gandhi/articleshow/65304355.cms?&utm_source=Articleshow&utm_medium=Organic&utm_campaign=Related_Stories",
+"title": "Corruption, divisiveness peaked under Modi government: Rahul Gandhi",
+"date_published": "2018-08-07T12:52:07+05:30",
+"source_type": "news_article",
+"source_name": "timesofindia.indiatimes.com",
+"image_link": [
+"https://timesofindia.indiatimes.com/thumb/msid-65304356,imgsize-318824,width-400,resizemode-4/65304356.jpg"
+],
+"article_body": "NEW DELHI: Congress president on Tuesday alleged that corruption, economic failure, incompetence and spread of social divisiveness have peaked under the government and asked party MPs to provide an alternative. Addressing the Congress parliamentary party ( ) meeting in Parliament House, he said there is a rising tide of anger against the ruling dispensation and party MPs must work hard to give people an alternative to the \"bogus promise of Modiji's 'Achche Din'.\" People of India are looking up to the Congress and its allied parties to help remove the Modi government and replace it with one which will listen to them, understand their problems and provide solutions to help reduce poverty, unemployment and inequality in the country, the Congress president said. \"There is a great responsibility that is being placed on all of us today, to win this historic struggle between the forces of democracy and social justice versus those of autocracy and social hierarchy,\" he said. Gandhi told Congress MPs that \"we must ensure\" that the forces of hate, division and violence that are trampling the Constitution are prevented from coming back to power. \"We are meeting here today at a time when the crisis of governance in India under the Narendra Modi government - marked by corruption, total economic failure, incompetence and spread of social divisiveness - is at its peak. \"There is a rising tide of anger against the current ruling dispensation that calls upon all of us to work very hard to give the people of India the alternative they deserve - an alternative to the bogus promise of Modiji's 'Achche Din',\" he said. Adding an emotive touch, Gandhi asked members of the party to restore hope in the eyes of the Indian farmers and youth, give relief to ordinary families being crushed under the dual burden of household debt and rising prices of essential goods, ensure the safety of women and the protection of Dalits in order that they get justice. The Congress chief recalled Modi's remarks in 2014 when he was elected that India had been a slow 'passenger train' for 70 years after Independence and would become a sleek and shining 'magical train' destined for 'achhe din' under his guidance and rule. \"Give me your votes, said Modiji, and 'I will take you on the best and most comfortable journey of your life'. Four years of Modi rule later, sadly, India today looks more like a train that is being driven to disaster by an autocratic, incompetent and arrogant driver, who does not care what happens to the passengers he is responsible for,\" Gandhi said. The people of India, he asserted, are demanding change and will no longer be fooled by Modi's magical train that is headed for a \"bad accident\". He noted that the Congress had helped in building the nation, constructed on the back of institutions designed to be the voice of the people. \"Since the RSS and the BJP have come to power, we have seen a systematic attack on every single one of our institutions. In modern India, these institutions were called temples of democracy and today RSS is intent in destroying every single one of them. Every single institution is being penetrated by their people and nature of institutions itself is being changed,\" Gandhi told Congress MPs.",
+"description": "NEW DELHI: Congress president on Tuesday alleged that corruption, economic failure, incompetence and spread of social divisiveness have peaked under the government and asked party MPs to provide an alternative. Addressing the Congress parliamentary party ( ) meeting in Parliament House, he said there is a rising tide of anger against the ruling dispensation and party MPs must work hard to give people an alternative to the \"bogus promise of Modiji's 'Achche Din'.\"",
+"time_scraped": "2018-08-24 06:01:34.678007",
+"article_id": "65304355",
+"article_category": "IndiaNews",
+"image_details": [
+{
+"url": "https://timesofindia.indiatimes.com/thumb/msid-65304356,imgsize-318824,width-400,resizemode-4/65304356.jpg",
+"path": "full/4113ac2d2da5db71d81b4f081fa60424e127e023.jpg",
+"checksum": "77431bb478e3dc9c840929ae426a9f6c"
+}
+],
+"ibm_nlu": {
+"usage": {
+"text_units": 1,
+"text_characters": 3248,
+"features": 7
+},
+"sentiment": {
+"document": {
+"score": -0.30193,
+"label": "negative"
+}
+},
+"semantic_roles": [
+{
+"subject": {
+"text": "Congress president on Tuesday"
+},
+"sentence": "NEW DELHI: Congress president on Tuesday alleged that corruption, economic failure, incompetence and spread of social divisiveness have peaked under the government and asked party MPs to provide an alternative.",
+"object": {
+"text": "that corruption, economic failure, incompetence and spread of social divisiveness have peaked under the government and asked party MPs to provide an alternative"
+},
+"action": {
+"verb": {
+"text": "allege",
+"tense": "past"
+},
+"text": "alleged",
+"normalized": "allege"
+}
+},
+{
+"subject": {
+"text": "he"
+},
+"sentence": " Addressing the Congress parliamentary party ( ) meeting in Parliament House, he said there is a rising tide of anger against the ruling dispensation and party MPs must work hard to give people an alternative to the \"bogus promise of Modiji's 'Achche Din'.\"",
+"object": {
+"text": "there is a rising tide of anger against the ruling dispensation and party MPs must work hard to give people an alternative to the \"bogus promise of Modiji's 'Achche Din'"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "party MPs"
+},
+"sentence": " Addressing the Congress parliamentary party ( ) meeting in Parliament House, he said there is a rising tide of anger against the ruling dispensation and party MPs must work hard to give people an alternative to the \"bogus promise of Modiji's 'Achche Din'.\"",
+"object": {
+"text": "to give people an alternative to the \"bogus promise of Modiji's 'Achche Din'"
+},
+"action": {
+"verb": {
+"text": "work",
+"tense": "future"
+},
+"text": "must work",
+"normalized": "must work"
+}
+},
+{
+"subject": {
+"text": "the Congress and its allied parties"
+},
+"sentence": " People of India are looking up to the Congress and its allied parties to help remove the Modi government and replace it with one which will listen to them, understand their problems and provide solutions to help reduce poverty, unemployment and inequality in the country, the Congress president said.",
+"object": {
+"text": "remove the Modi government"
+},
+"action": {
+"verb": {
+"text": "help",
+"tense": "future"
+},
+"text": "help",
+"normalized": "help"
+}
+},
+{
+"subject": {
+"text": "People of India"
+},
+"sentence": " People of India are looking up to the Congress and its allied parties to help remove the Modi government and replace it with one which will listen to them, understand their problems and provide solutions to help reduce poverty, unemployment and inequality in the country, the Congress president said.",
+"object": {
+"text": "it"
+},
+"action": {
+"verb": {
+"text": "replace",
+"tense": "present"
+},
+"text": "replace",
+"normalized": "replace"
+}
+},
+{
+"subject": {
+"text": "one"
+},
+"sentence": " People of India are looking up to the Congress and its allied parties to help remove the Modi government and replace it with one which will listen to them, understand their problems and provide solutions to help reduce poverty, unemployment and inequality in the country, the Congress president said.",
+"object": {
+"text": "to them"
+},
+"action": {
+"verb": {
+"text": "listen",
+"tense": "future"
+},
+"text": "will listen",
+"normalized": "will listen"
+}
+},
+{
+"subject": {
+"text": "solutions"
+},
+"sentence": " People of India are looking up to the Congress and its allied parties to help remove the Modi government and replace it with one which will listen to them, understand their problems and provide solutions to help reduce poverty, unemployment and inequality in the country, the Congress president said.",
+"object": {
+"text": "to help reduce poverty, unemployment and inequality in the country"
+},
+"action": {
+"verb": {
+"text": "provide",
+"tense": "present"
+},
+"text": "provide",
+"normalized": "provide"
+}
+},
+{
+"subject": {
+"text": "poverty, unemployment and inequality"
+},
+"sentence": " People of India are looking up to the Congress and its allied parties to help remove the Modi government and replace it with one which will listen to them, understand their problems and provide solutions to help reduce poverty, unemployment and inequality in the country, the Congress president said.",
+"action": {
+"verb": {
+"text": "reduce",
+"tense": "present"
+},
+"text": "to help reduce",
+"normalized": "to help reduce"
+}
+},
+{
+"subject": {
+"text": "the Congress president"
+},
+"sentence": " People of India are looking up to the Congress and its allied parties to help remove the Modi government and replace it with one which will listen to them, understand their problems and provide solutions to help reduce poverty, unemployment and inequality in the country, the Congress president said.",
+"object": {
+"text": "People of India are looking up to the Congress and its allied parties to help remove the Modi government and replace it with one which will listen to them, understand their problems and provide solutions to help reduce poverty, unemployment and inequality in the country"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "a great responsibility"
+},
+"sentence": " \"There is a great responsibility that is being placed on all of us today, to win this historic struggle between the forces of democracy and social justice versus those of autocracy and social hierarchy,\" he said.",
+"object": {
+"text": "on all of us"
+},
+"action": {
+"verb": {
+"text": "place",
+"tense": "past"
+},
+"text": "is being placed",
+"normalized": "be be place"
+}
+},
+{
+"subject": {
+"text": "he"
+},
+"sentence": " \"There is a great responsibility that is being placed on all of us today, to win this historic struggle between the forces of democracy and social justice versus those of autocracy and social hierarchy,\" he said.",
+"object": {
+"text": "There is a great responsibility that is being placed on all of us today, to win this historic struggle between the forces of democracy and social justice versus those of autocracy and social hierarchy"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "Gandhi"
+},
+"sentence": " Gandhi told Congress MPs that \"we must ensure\" that the forces of hate, division and violence that are trampling the Constitution are prevented from coming back to power.",
+"object": {
+"text": "that \"we must ensure\" that the forces of hate, division and violence that are trampling the Constitution are prevented from coming back to power"
+},
+"action": {
+"verb": {
+"text": "tell",
+"tense": "past"
+},
+"text": "told",
+"normalized": "tell"
+}
+},
+{
+"subject": {
+"text": "we"
+},
+"sentence": " Gandhi told Congress MPs that \"we must ensure\" that the forces of hate, division and violence that are trampling the Constitution are prevented from coming back to power.",
+"object": {
+"text": "that the forces of hate, division and violence that are trampling the Constitution are prevented from coming back to power"
+},
+"action": {
+"verb": {
+"text": "ensure",
+"tense": "future"
+},
+"text": "must ensure",
+"normalized": "must ensure"
+}
+},
+{
+"subject": {
+"text": "We"
+},
+"sentence": " \"We are meeting here today at a time when the crisis of governance in India under the Narendra Modi government - marked by corruption, total economic failure, incompetence and spread of social divisiveness - is at its peak.",
+"action": {
+"verb": {
+"text": "meet",
+"tense": "present"
+},
+"text": "are meeting",
+"normalized": "be meet"
+}
+},
+{
+"subject": {
+"text": "by corruption"
+},
+"sentence": " \"We are meeting here today at a time when the crisis of governance in India under the Narendra Modi government - marked by corruption, total economic failure, incompetence and spread of social divisiveness - is at its peak.",
+"object": {
+"text": "the crisis of governance in India"
+},
+"action": {
+"verb": {
+"text": "mark",
+"tense": "past"
+},
+"text": "marked",
+"normalized": "mark"
+}
+},
+{
+"subject": {
+"text": "incompetence and spread of social divisiveness -"
+},
+"sentence": " \"We are meeting here today at a time when the crisis of governance in India under the Narendra Modi government - marked by corruption, total economic failure, incompetence and spread of social divisiveness - is at its peak.",
+"object": {
+"text": "at its peak"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "present"
+},
+"text": "is",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "the current ruling dispensation"
+},
+"sentence": " \"There is a rising tide of anger against the current ruling dispensation that calls upon all of us to work very hard to give the people of India the alternative they deserve - an alternative to the bogus promise of Modiji's 'Achche Din',\" he said.",
+"object": {
+"text": "upon all of us"
+},
+"action": {
+"verb": {
+"text": "call",
+"tense": "present"
+},
+"text": "calls",
+"normalized": "call"
+}
+},
+{
+"subject": {
+"text": "all of us"
+},
+"sentence": " \"There is a rising tide of anger against the current ruling dispensation that calls upon all of us to work very hard to give the people of India the alternative they deserve - an alternative to the bogus promise of Modiji's 'Achche Din',\" he said.",
+"object": {
+"text": "to give the people of India the alternative they deserve"
+},
+"action": {
+"verb": {
+"text": "work",
+"tense": "future"
+},
+"text": "to work",
+"normalized": "to work"
+}
+},
+{
+"subject": {
+"text": "us"
+},
+"sentence": " \"There is a rising tide of anger against the current ruling dispensation that calls upon all of us to work very hard to give the people of India the alternative they deserve - an alternative to the bogus promise of Modiji's 'Achche Din',\" he said.",
+"object": {
+"text": "the alternative they deserve"
+},
+"action": {
+"verb": {
+"text": "give",
+"tense": "future"
+},
+"text": "to give",
+"normalized": "to give"
+}
+},
+{
+"subject": {
+"text": "he"
+},
+"sentence": " \"There is a rising tide of anger against the current ruling dispensation that calls upon all of us to work very hard to give the people of India the alternative they deserve - an alternative to the bogus promise of Modiji's 'Achche Din',\" he said.",
+"object": {
+"text": "that calls upon all of us to work very hard to give the people of India the alternative they deserve - an alternative to the bogus promise of Modiji's 'Achche Din'"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "Gandhi"
+},
+"sentence": " Adding an emotive touch, Gandhi asked members of the party to restore hope in the eyes of the Indian farmers and youth, give relief to ordinary families being crushed under the dual burden of household debt and rising prices of essential goods, ensure the safety of women and the protection of Dalits in order that they get justice.",
+"object": {
+"text": "an emotive touch"
+},
+"action": {
+"verb": {
+"text": "Adding",
+"tense": "present"
+},
+"text": "Adding",
+"normalized": "Adding"
+}
+},
+{
+"subject": {
+"text": "Gandhi"
+},
+"sentence": " Adding an emotive touch, Gandhi asked members of the party to restore hope in the eyes of the Indian farmers and youth, give relief to ordinary families being crushed under the dual burden of household debt and rising prices of essential goods, ensure the safety of women and the protection of Dalits in order that they get justice.",
+"object": {
+"text": "members of the party to restore hope in the eyes of the Indian farmers and youth, give relief to ordinary families being crushed under the dual burden of household debt and rising prices of essential goods, ensure the safety of women and the protection of Dalits in order that they get justice"
+},
+"action": {
+"verb": {
+"text": "ask",
+"tense": "past"
+},
+"text": "asked",
+"normalized": "ask"
+}
+},
+{
+"subject": {
+"text": "members of the party"
+},
+"sentence": " Adding an emotive touch, Gandhi asked members of the party to restore hope in the eyes of the Indian farmers and youth, give relief to ordinary families being crushed under the dual burden of household debt and rising prices of essential goods, ensure the safety of women and the protection of Dalits in order that they get justice.",
+"object": {
+"text": "the safety of women and the protection of Dalits"
+},
+"action": {
+"verb": {
+"text": "ensure",
+"tense": "present"
+},
+"text": "ensure",
+"normalized": "ensure"
+}
+},
+{
+"subject": {
+"text": "The Congress chief"
+},
+"sentence": " The Congress chief recalled Modi's remarks in 2014 when he was elected that India had been a slow 'passenger train' for 70 years after Independence and would become a sleek and shining 'magical train' destined for 'achhe din' under his guidance and rule.",
+"object": {
+"text": "Modi's remarks in 2014 when he was elected that India had been a slow 'passenger train' for 70 years after Independence and would become a sleek and shining 'magical train' destined for 'achhe din' under his guidance and rule"
+},
+"action": {
+"verb": {
+"text": "recall",
+"tense": "past"
+},
+"text": "recalled",
+"normalized": "recall"
+}
+},
+{
+"subject": {
+"text": "your votes"
+},
+"sentence": " \"Give me your votes, said Modiji, and 'I will take you on the best and most comfortable journey of your life'.",
+"object": {
+"text": "me"
+},
+"action": {
+"verb": {
+"text": "Give",
+"tense": "present"
+},
+"text": "Give",
+"normalized": "Give"
+}
+},
+{
+"subject": {
+"text": "India"
+},
+"sentence": " Four years of Modi rule later, sadly, India today looks more like a train that is being driven to disaster by an autocratic, incompetent and arrogant driver, who does not care what happens to the passengers he is responsible for,\" Gandhi said.",
+"object": {
+"text": "more like a train that is being driven to disaster by an autocratic, incompetent and arrogant driver, who does not care what happens to the passengers"
+},
+"action": {
+"verb": {
+"text": "look",
+"tense": "present"
+},
+"text": "looks",
+"normalized": "look"
+}
+},
+{
+"subject": {
+"text": "a train"
+},
+"sentence": " Four years of Modi rule later, sadly, India today looks more like a train that is being driven to disaster by an autocratic, incompetent and arrogant driver, who does not care what happens to the passengers he is responsible for,\" Gandhi said.",
+"object": {
+"text": "being driven to disaster"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "present"
+},
+"text": "is",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "by an autocratic, incompetent and arrogant driver, who does not care what happens to the passengers he is responsible for"
+},
+"sentence": " Four years of Modi rule later, sadly, India today looks more like a train that is being driven to disaster by an autocratic, incompetent and arrogant driver, who does not care what happens to the passengers he is responsible for,\" Gandhi said.",
+"object": {
+"text": "a train"
+},
+"action": {
+"verb": {
+"text": "drive",
+"tense": "past"
+},
+"text": "is being driven",
+"normalized": "be be drive"
+}
+},
+{
+"subject": {
+"text": "an autocratic, incompetent and arrogant driver"
+},
+"sentence": " Four years of Modi rule later, sadly, India today looks more like a train that is being driven to disaster by an autocratic, incompetent and arrogant driver, who does not care what happens to the passengers he is responsible for,\" Gandhi said.",
+"object": {
+"text": "what happens to the passengers he is responsible for"
+},
+"action": {
+"verb": {
+"text": "do",
+"tense": "present"
+},
+"text": "does",
+"normalized": "do"
+}
+},
+{
+"subject": {
+"text": "an autocratic, incompetent and arrogant driver"
+},
+"sentence": " Four years of Modi rule later, sadly, India today looks more like a train that is being driven to disaster by an autocratic, incompetent and arrogant driver, who does not care what happens to the passengers he is responsible for,\" Gandhi said.",
+"object": {
+"text": "what happens to the passengers he is responsible for"
+},
+"action": {
+"verb": {
+"text": "care",
+"tense": "present",
+"negated": true
+},
+"text": "care",
+"normalized": "care"
+}
+},
+{
+"subject": {
+"text": "he"
+},
+"sentence": " The people of India, he asserted, are demanding change and will no longer be fooled by Modi's magical train that is headed for a \"bad accident\".",
+"object": {
+"text": "The people of India"
+},
+"action": {
+"verb": {
+"text": "assert",
+"tense": "past"
+},
+"text": "asserted",
+"normalized": "assert"
+}
+},
+{
+"subject": {
+"text": "The people of India"
+},
+"sentence": " The people of India, he asserted, are demanding change and will no longer be fooled by Modi's magical train that is headed for a \"bad accident\".",
+"object": {
+"text": "change"
+},
+"action": {
+"verb": {
+"text": "demand",
+"tense": "present"
+},
+"text": "are demanding",
+"normalized": "be demand"
+}
+},
+{
+"subject": {
+"text": "Modi's magical train"
+},
+"sentence": " The people of India, he asserted, are demanding change and will no longer be fooled by Modi's magical train that is headed for a \"bad accident\".",
+"object": {
+"text": "for a \"bad accident"
+},
+"action": {
+"verb": {
+"text": "head",
+"tense": "past"
+},
+"text": "is headed",
+"normalized": "be head"
+}
+},
+{
+"subject": {
+"text": "He"
+},
+"sentence": " He noted that the Congress had helped in building the nation, constructed on the back of institutions designed to be the voice of the people.",
+"object": {
+"text": "that the Congress had helped in building the nation, constructed on the back of institutions designed to be the voice of the people"
+},
+"action": {
+"verb": {
+"text": "note",
+"tense": "past"
+},
+"text": "noted",
+"normalized": "note"
+}
+},
+{
+"subject": {
+"text": "the Congress"
+},
+"sentence": " He noted that the Congress had helped in building the nation, constructed on the back of institutions designed to be the voice of the people.",
+"object": {
+"text": "the nation"
+},
+"action": {
+"verb": {
+"text": "build",
+"tense": "past"
+},
+"text": "building",
+"normalized": "build"
+}
+},
+{
+"subject": {
+"text": "the RSS and the BJP"
+},
+"sentence": " \"Since the RSS and the BJP have come to power, we have seen a systematic attack on every single one of our institutions.",
+"object": {
+"text": "to power"
+},
+"action": {
+"verb": {
+"text": "come",
+"tense": "past"
+},
+"text": "have come",
+"normalized": "have come"
+}
+},
+{
+"subject": {
+"text": "we"
+},
+"sentence": " \"Since the RSS and the BJP have come to power, we have seen a systematic attack on every single one of our institutions.",
+"object": {
+"text": "seen a systematic attack on every single one of our institutions"
+},
+"action": {
+"verb": {
+"text": "have",
+"tense": "present"
+},
+"text": "have",
+"normalized": "have"
+}
+},
+{
+"subject": {
+"text": "we"
+},
+"sentence": " \"Since the RSS and the BJP have come to power, we have seen a systematic attack on every single one of our institutions.",
+"object": {
+"text": "a systematic attack on every single one of our institutions"
+},
+"action": {
+"verb": {
+"text": "see",
+"tense": "past"
+},
+"text": "have seen",
+"normalized": "have see"
+}
+},
+{
+"subject": {
+"text": "these institutions"
+},
+"sentence": " In modern India, these institutions were called temples of democracy and today RSS is intent in destroying every single one of them.",
+"object": {
+"text": "called temples of democracy"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "were",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "these institutions"
+},
+"sentence": " In modern India, these institutions were called temples of democracy and today RSS is intent in destroying every single one of them.",
+"object": {
+"text": "temples of democracy"
+},
+"action": {
+"verb": {
+"text": "call",
+"tense": "past"
+},
+"text": "were called",
+"normalized": "be call"
+}
+},
+{
+"subject": {
+"text": "RSS"
+},
+"sentence": " In modern India, these institutions were called temples of democracy and today RSS is intent in destroying every single one of them.",
+"action": {
+"verb": {
+"text": "be",
+"tense": "present"
+},
+"text": "is",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "Every single institution"
+},
+"sentence": " Every single institution is being penetrated by their people and nature of institutions itself is being changed,\" Gandhi told Congress MPs.",
+"object": {
+"text": "being penetrated by their people"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "present"
+},
+"text": "is",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "by their people"
+},
+"sentence": " Every single institution is being penetrated by their people and nature of institutions itself is being changed,\" Gandhi told Congress MPs.",
+"object": {
+"text": "Every single institution"
+},
+"action": {
+"verb": {
+"text": "penetrate",
+"tense": "past"
+},
+"text": "is being penetrated",
+"normalized": "be be penetrate"
+}
+},
+{
+"subject": {
+"text": "their people and nature of institutions itself"
+},
+"sentence": " Every single institution is being penetrated by their people and nature of institutions itself is being changed,\" Gandhi told Congress MPs.",
+"object": {
+"text": "being changed"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "present"
+},
+"text": "is",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "their people and nature of institutions itself"
+},
+"sentence": " Every single institution is being penetrated by their people and nature of institutions itself is being changed,\" Gandhi told Congress MPs.",
+"object": {
+"text": "changed"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "present"
+},
+"text": "being",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "Gandhi"
+},
+"sentence": " Every single institution is being penetrated by their people and nature of institutions itself is being changed,\" Gandhi told Congress MPs.",
+"object": {
+"text": "Every single institution is being penetrated by their people and nature of institutions itself is being changed"
+},
+"action": {
+"verb": {
+"text": "tell",
+"tense": "past"
+},
+"text": "told",
+"normalized": "tell"
+}
+}
+],
+"relations": [
+{
+"type": "managerOf",
+"sentence": "NEW DELHI: Congress president on Tuesday alleged that corruption, economic failure, incompetence and spread of social divisiveness have peaked under the government and asked party MPs to provide an alternative.",
+"score": 0.550544,
+"arguments": [
+{
+"text": "president",
+"location": [
+20,
+29
+],
+"entities": [
+{
+"type": "Person",
+"text": "president"
+}
+]
+},
+{
+"text": "Congress",
+"location": [
+11,
+19
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Congress MPs",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "\" People of India are looking up to the Congress and its allied parties to help remove the Modi government and replace it with one which will listen to them, understand their problems and provide solutions to help reduce poverty, unemployment and inequality in the country, the Congress president said.",
+"score": 0.983274,
+"arguments": [
+{
+"text": "president",
+"location": [
+753,
+762
+],
+"entities": [
+{
+"type": "Person",
+"text": "president"
+}
+]
+},
+{
+"text": "said",
+"location": [
+763,
+767
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "noted"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Gandhi told Congress MPs that \"we must ensure\" that the forces of hate, division and violence that are trampling the Constitution are prevented from coming back to power.",
+"score": 0.99507,
+"arguments": [
+{
+"text": "Gandhi",
+"location": [
+982,
+988
+],
+"entities": [
+{
+"type": "Person",
+"text": "Gandhi"
+}
+]
+},
+{
+"text": "told",
+"location": [
+989,
+993
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "noted"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Four years of Modi rule later, sadly, India today looks more like a train that is being driven to disaster by an autocratic, incompetent and arrogant driver, who does not care what happens to the passengers he is responsible for,\" Gandhi said.",
+"score": 0.995429,
+"arguments": [
+{
+"text": "Gandhi",
+"location": [
+2555,
+2561
+],
+"entities": [
+{
+"type": "Person",
+"text": "Gandhi"
+}
+]
+},
+{
+"text": "said",
+"location": [
+2562,
+2566
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "noted"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Every single institution is being penetrated by their people and nature of institutions itself is being changed,\" Gandhi told Congress MPs.",
+"score": 0.996664,
+"arguments": [
+{
+"text": "Gandhi",
+"location": [
+3223,
+3229
+],
+"entities": [
+{
+"type": "Person",
+"text": "Gandhi"
+}
+]
+},
+{
+"text": "told",
+"location": [
+3230,
+3234
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "noted"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "Gandhi told Congress MPs that \"we must ensure\" that the forces of hate, division and violence that are trampling the Constitution are prevented from coming back to power.",
+"score": 0.832158,
+"arguments": [
+{
+"text": "Congress MPs",
+"location": [
+994,
+1006
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Congress MPs",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+},
+{
+"text": "told",
+"location": [
+989,
+993
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "noted"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "Every single institution is being penetrated by their people and nature of institutions itself is being changed,\" Gandhi told Congress MPs.",
+"score": 0.822155,
+"arguments": [
+{
+"text": "Congress MPs",
+"location": [
+3235,
+3247
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Congress MPs",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+},
+{
+"text": "told",
+"location": [
+3230,
+3234
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "noted"
+}
+]
+}
+]
+},
+{
+"type": "participantIn",
+"sentence": "\"We are meeting here today at a time when the crisis of governance in India under the Narendra Modi government - marked by corruption, total economic failure, incompetence and spread of social divisiveness - is at its peak.",
+"score": 0.871753,
+"arguments": [
+{
+"text": "We",
+"location": [
+1154,
+1156
+],
+"entities": [
+{
+"type": "Person",
+"text": "People"
+}
+]
+},
+{
+"text": "meeting",
+"location": [
+1161,
+1168
+],
+"entities": [
+{
+"type": "EventMeeting",
+"text": "meeting"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "\"We are meeting here today at a time when the crisis of governance in India under the Narendra Modi government - marked by corruption, total economic failure, incompetence and spread of social divisiveness - is at its peak.",
+"score": 0.548074,
+"arguments": [
+{
+"text": "We",
+"location": [
+1154,
+1156
+],
+"entities": [
+{
+"type": "Person",
+"text": "People"
+}
+]
+},
+{
+"text": "here",
+"location": [
+1169,
+1173
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "here"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "\"We are meeting here today at a time when the crisis of governance in India under the Narendra Modi government - marked by corruption, total economic failure, incompetence and spread of social divisiveness - is at its peak.",
+"score": 0.655255,
+"arguments": [
+{
+"text": "meeting",
+"location": [
+1161,
+1168
+],
+"entities": [
+{
+"type": "EventMeeting",
+"text": "meeting"
+}
+]
+},
+{
+"text": "here",
+"location": [
+1169,
+1173
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "here"
+}
+]
+}
+]
+},
+{
+"type": "timeOf",
+"sentence": "\"We are meeting here today at a time when the crisis of governance in India under the Narendra Modi government - marked by corruption, total economic failure, incompetence and spread of social divisiveness - is at its peak.",
+"score": 0.928049,
+"arguments": [
+{
+"text": "today",
+"location": [
+1174,
+1179
+],
+"entities": [
+{
+"type": "Date",
+"text": "today"
+}
+]
+},
+{
+"text": "meeting",
+"location": [
+1161,
+1168
+],
+"entities": [
+{
+"type": "EventMeeting",
+"text": "meeting"
+}
+]
+}
+]
+},
+{
+"type": "managerOf",
+"sentence": "\"We are meeting here today at a time when the crisis of governance in India under the Narendra Modi government - marked by corruption, total economic failure, incompetence and spread of social divisiveness - is at its peak.",
+"score": 0.935604,
+"arguments": [
+{
+"text": "Narendra Modi",
+"location": [
+1239,
+1252
+],
+"entities": [
+{
+"type": "Person",
+"text": "Narendra Modi"
+}
+]
+},
+{
+"text": "government",
+"location": [
+1253,
+1263
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "government",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "\"There is a rising tide of anger against the current ruling dispensation that calls upon all of us to work very hard to give the people of India the alternative they deserve - an alternative to the bogus promise of Modiji's 'Achche Din',\" he said.",
+"score": 0.465348,
+"arguments": [
+{
+"text": "people",
+"location": [
+1506,
+1512
+],
+"entities": [
+{
+"type": "Person",
+"text": "people"
+}
+]
+},
+{
+"text": "India",
+"location": [
+1516,
+1521
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "India",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Adding an emotive touch, Gandhi asked members of the party to restore hope in the eyes of the Indian farmers and youth, give relief to ordinary families being crushed under the dual burden of household debt and rising prices of essential goods, ensure the safety of women and the protection of Dalits in order that they get justice.",
+"score": 0.991143,
+"arguments": [
+{
+"text": "Gandhi",
+"location": [
+1650,
+1656
+],
+"entities": [
+{
+"type": "Person",
+"text": "Gandhi"
+}
+]
+},
+{
+"text": "asked",
+"location": [
+1657,
+1662
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "asked"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "NEW DELHI: Congress president on Tuesday alleged that corruption, economic failure, incompetence and spread of social divisiveness have peaked under the government and asked party MPs to provide an alternative.",
+"score": 0.842548,
+"arguments": [
+{
+"text": "president",
+"location": [
+20,
+29
+],
+"entities": [
+{
+"type": "Person",
+"text": "president"
+}
+]
+},
+{
+"text": "alleged",
+"location": [
+41,
+48
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "alleged"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "Adding an emotive touch, Gandhi asked members of the party to restore hope in the eyes of the Indian farmers and youth, give relief to ordinary families being crushed under the dual burden of household debt and rising prices of essential goods, ensure the safety of women and the protection of Dalits in order that they get justice.",
+"score": 0.894398,
+"arguments": [
+{
+"text": "members",
+"location": [
+1663,
+1670
+],
+"entities": [
+{
+"type": "Person",
+"text": "members"
+}
+]
+},
+{
+"text": "asked",
+"location": [
+1657,
+1662
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "asked"
+}
+]
+}
+]
+},
+{
+"type": "memberOf",
+"sentence": "Adding an emotive touch, Gandhi asked members of the party to restore hope in the eyes of the Indian farmers and youth, give relief to ordinary families being crushed under the dual burden of household debt and rising prices of essential goods, ensure the safety of women and the protection of Dalits in order that they get justice.",
+"score": 0.868704,
+"arguments": [
+{
+"text": "members",
+"location": [
+1663,
+1670
+],
+"entities": [
+{
+"type": "Person",
+"text": "members"
+}
+]
+},
+{
+"text": "party",
+"location": [
+1678,
+1683
+],
+"entities": [
+{
+"type": "Organization",
+"text": "parliamentary party",
+"disambiguation": {
+"subtype": [
+"Political"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "partOfMany",
+"sentence": "Adding an emotive touch, Gandhi asked members of the party to restore hope in the eyes of the Indian farmers and youth, give relief to ordinary families being crushed under the dual burden of household debt and rising prices of essential goods, ensure the safety of women and the protection of Dalits in order that they get justice.",
+"score": 0.861545,
+"arguments": [
+{
+"text": "farmers",
+"location": [
+1726,
+1733
+],
+"entities": [
+{
+"type": "Person",
+"text": "farmers"
+}
+]
+},
+{
+"text": "Indian",
+"location": [
+1719,
+1725
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Indian",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "partOfMany",
+"sentence": "Adding an emotive touch, Gandhi asked members of the party to restore hope in the eyes of the Indian farmers and youth, give relief to ordinary families being crushed under the dual burden of household debt and rising prices of essential goods, ensure the safety of women and the protection of Dalits in order that they get justice.",
+"score": 0.655026,
+"arguments": [
+{
+"text": "youth",
+"location": [
+1738,
+1743
+],
+"entities": [
+{
+"type": "Person",
+"text": "youth"
+}
+]
+},
+{
+"text": "Indian",
+"location": [
+1719,
+1725
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Indian",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "The Congress chief recalled Modi's remarks in 2014 when he was elected that India had been a slow 'passenger train' for 70 years after Independence and would become a sleek and shining 'magical train' destined for 'achhe din' under his guidance and rule.",
+"score": 0.726113,
+"arguments": [
+{
+"text": "chief",
+"location": [
+1971,
+1976
+],
+"entities": [
+{
+"type": "Person",
+"text": "Modiji"
+}
+]
+},
+{
+"text": "Congress",
+"location": [
+1962,
+1970
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Congress MPs",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "timeOf",
+"sentence": "The Congress chief recalled Modi's remarks in 2014 when he was elected that India had been a slow 'passenger train' for 70 years after Independence and would become a sleek and shining 'magical train' destined for 'achhe din' under his guidance and rule.",
+"score": 0.817945,
+"arguments": [
+{
+"text": "2014",
+"location": [
+2004,
+2008
+],
+"entities": [
+{
+"type": "Date",
+"text": "2014"
+}
+]
+},
+{
+"text": "elected",
+"location": [
+2021,
+2028
+],
+"entities": [
+{
+"type": "EventElection",
+"text": "elected"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "The Congress chief recalled Modi's remarks in 2014 when he was elected that India had been a slow 'passenger train' for 70 years after Independence and would become a sleek and shining 'magical train' destined for 'achhe din' under his guidance and rule.",
+"score": 0.484034,
+"arguments": [
+{
+"text": "he",
+"location": [
+2014,
+2016
+],
+"entities": [
+{
+"type": "Person",
+"text": "Modiji"
+}
+]
+},
+{
+"text": "elected",
+"location": [
+2021,
+2028
+],
+"entities": [
+{
+"type": "EventElection",
+"text": "elected"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "\"Give me your votes, said Modiji, and 'I will take you on the best and most comfortable journey of your life'.",
+"score": 0.659933,
+"arguments": [
+{
+"text": "me",
+"location": [
+2219,
+2221
+],
+"entities": [
+{
+"type": "Person",
+"text": "Modiji"
+}
+]
+},
+{
+"text": "said",
+"location": [
+2234,
+2238
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "noted"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "\"Give me your votes, said Modiji, and 'I will take you on the best and most comfortable journey of your life'.",
+"score": 0.941965,
+"arguments": [
+{
+"text": "Modiji",
+"location": [
+2239,
+2245
+],
+"entities": [
+{
+"type": "Person",
+"text": "Modiji"
+}
+]
+},
+{
+"text": "said",
+"location": [
+2234,
+2238
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "noted"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "He noted that the Congress had helped in building the nation, constructed on the back of institutions designed to be the voice of the people.",
+"score": 0.977863,
+"arguments": [
+{
+"text": "He",
+"location": [
+2713,
+2715
+],
+"entities": [
+{
+"type": "Person",
+"text": "Modiji"
+}
+]
+},
+{
+"text": "noted",
+"location": [
+2716,
+2721
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "noted"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "Four years of Modi rule later, sadly, India today looks more like a train that is being driven to disaster by an autocratic, incompetent and arrogant driver, who does not care what happens to the passengers he is responsible for,\" Gandhi said.",
+"score": 0.66324,
+"arguments": [
+{
+"text": "Modi",
+"location": [
+2338,
+2342
+],
+"entities": [
+{
+"type": "Person",
+"text": "Modiji"
+}
+]
+},
+{
+"text": "train",
+"location": [
+2392,
+2397
+],
+"entities": [
+{
+"type": "Vehicle",
+"text": "train"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "The people of India, he asserted, are demanding change and will no longer be fooled by Modi's magical train that is headed for a \"bad accident\".",
+"score": 0.506696,
+"arguments": [
+{
+"text": "Modi",
+"location": [
+2655,
+2659
+],
+"entities": [
+{
+"type": "Person",
+"text": "Modiji"
+}
+]
+},
+{
+"text": "train",
+"location": [
+2670,
+2675
+],
+"entities": [
+{
+"type": "Vehicle",
+"text": "train"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "The people of India, he asserted, are demanding change and will no longer be fooled by Modi's magical train that is headed for a \"bad accident\".",
+"score": 0.99606,
+"arguments": [
+{
+"text": "he",
+"location": [
+2589,
+2591
+],
+"entities": [
+{
+"type": "Person",
+"text": "Modiji"
+}
+]
+},
+{
+"text": "asserted",
+"location": [
+2592,
+2600
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "asserted"
+}
+]
+}
+]
+},
+{
+"type": "timeOf",
+"sentence": "NEW DELHI: Congress president on Tuesday alleged that corruption, economic failure, incompetence and spread of social divisiveness have peaked under the government and asked party MPs to provide an alternative.",
+"score": 0.930507,
+"arguments": [
+{
+"text": "Tuesday",
+"location": [
+33,
+40
+],
+"entities": [
+{
+"type": "Date",
+"text": "Tuesday"
+}
+]
+},
+{
+"text": "alleged",
+"location": [
+41,
+48
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "alleged"
+}
+]
+}
+]
+},
+{
+"type": "partOf",
+"sentence": "The people of India, he asserted, are demanding change and will no longer be fooled by Modi's magical train that is headed for a \"bad accident\".",
+"score": 0.468332,
+"arguments": [
+{
+"text": "demanding",
+"location": [
+2606,
+2615
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "demanding"
+}
+]
+},
+{
+"text": "asserted",
+"location": [
+2592,
+2600
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "asserted"
+}
+]
+}
+]
+},
+{
+"type": "partOf",
+"sentence": "Addressing the Congress parliamentary party ( ) meeting in Parliament House, he said there is a rising tide of anger against the ruling dispensation and party MPs must work hard to give people an alternative to the \"bogus promise of Modiji's 'Achche Din'.",
+"score": 0.503271,
+"arguments": [
+{
+"text": "parliamentary party",
+"location": [
+235,
+254
+],
+"entities": [
+{
+"type": "Organization",
+"text": "parliamentary party",
+"disambiguation": {
+"subtype": [
+"Political"
+]
+}
+}
+]
+},
+{
+"text": "Congress",
+"location": [
+226,
+234
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Congress MPs",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "participantIn",
+"sentence": "Addressing the Congress parliamentary party ( ) meeting in Parliament House, he said there is a rising tide of anger against the ruling dispensation and party MPs must work hard to give people an alternative to the \"bogus promise of Modiji's 'Achche Din'.",
+"score": 0.380124,
+"arguments": [
+{
+"text": "parliamentary party",
+"location": [
+235,
+254
+],
+"entities": [
+{
+"type": "Organization",
+"text": "parliamentary party",
+"disambiguation": {
+"subtype": [
+"Political"
+]
+}
+}
+]
+},
+{
+"text": "meeting",
+"location": [
+259,
+266
+],
+"entities": [
+{
+"type": "EventMeeting",
+"text": "meeting"
+}
+]
+}
+]
+},
+{
+"type": "participantIn",
+"sentence": "Addressing the Congress parliamentary party ( ) meeting in Parliament House, he said there is a rising tide of anger against the ruling dispensation and party MPs must work hard to give people an alternative to the \"bogus promise of Modiji's 'Achche Din'.",
+"score": 0.706907,
+"arguments": [
+{
+"text": "Parliament House",
+"location": [
+270,
+286
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Parliament House",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+},
+{
+"text": "meeting",
+"location": [
+259,
+266
+],
+"entities": [
+{
+"type": "EventMeeting",
+"text": "meeting"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Addressing the Congress parliamentary party ( ) meeting in Parliament House, he said there is a rising tide of anger against the ruling dispensation and party MPs must work hard to give people an alternative to the \"bogus promise of Modiji's 'Achche Din'.",
+"score": 0.985309,
+"arguments": [
+{
+"text": "he",
+"location": [
+288,
+290
+],
+"entities": [
+{
+"type": "Person",
+"text": "president"
+}
+]
+},
+{
+"text": "said",
+"location": [
+291,
+295
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "noted"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "\"There is a great responsibility that is being placed on all of us today, to win this historic struggle between the forces of democracy and social justice versus those of autocracy and social hierarchy,\" he said.",
+"score": 0.985655,
+"arguments": [
+{
+"text": "he",
+"location": [
+973,
+975
+],
+"entities": [
+{
+"type": "Person",
+"text": "president"
+}
+]
+},
+{
+"text": "said",
+"location": [
+976,
+980
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "noted"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "\"There is a rising tide of anger against the current ruling dispensation that calls upon all of us to work very hard to give the people of India the alternative they deserve - an alternative to the bogus promise of Modiji's 'Achche Din',\" he said.",
+"score": 0.967846,
+"arguments": [
+{
+"text": "he",
+"location": [
+1616,
+1618
+],
+"entities": [
+{
+"type": "Person",
+"text": "president"
+}
+]
+},
+{
+"text": "said",
+"location": [
+1619,
+1623
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "noted"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "\" People of India are looking up to the Congress and its allied parties to help remove the Modi government and replace it with one which will listen to them, understand their problems and provide solutions to help reduce poverty, unemployment and inequality in the country, the Congress president said.",
+"score": 0.561371,
+"arguments": [
+{
+"text": "People",
+"location": [
+468,
+474
+],
+"entities": [
+{
+"type": "Person",
+"text": "People"
+}
+]
+},
+{
+"text": "India",
+"location": [
+478,
+483
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "India",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "managerOf",
+"sentence": "\" People of India are looking up to the Congress and its allied parties to help remove the Modi government and replace it with one which will listen to them, understand their problems and provide solutions to help reduce poverty, unemployment and inequality in the country, the Congress president said.",
+"score": 0.499238,
+"arguments": [
+{
+"text": "president",
+"location": [
+753,
+762
+],
+"entities": [
+{
+"type": "Person",
+"text": "president"
+}
+]
+},
+{
+"text": "Congress",
+"location": [
+744,
+752
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Congress MPs",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+}
+]
+}
+],
+"language": "en",
+"keywords": [
+{
+"text": "Modi government",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.917742,
+"emotion": {
+"sadness": 0.37669,
+"joy": 0.248195,
+"fear": 0.054756,
+"disgust": 0.250223,
+"anger": 0.182626
+}
+},
+{
+"text": "Congress parliamentary party",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.913264,
+"emotion": {
+"sadness": 0.136389,
+"joy": 0.066118,
+"fear": 0.127266,
+"disgust": 0.27475,
+"anger": 0.081132
+}
+},
+{
+"text": "Narendra Modi government",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.908783,
+"emotion": {
+"sadness": 0.318131,
+"joy": 0.166243,
+"fear": 0.236793,
+"disgust": 0.204984,
+"anger": 0.141029
+}
+},
+{
+"text": "party MPs",
+"sentiment": {
+"score": -0.481662,
+"label": "negative"
+},
+"relevance": 0.901309,
+"emotion": {
+"sadness": 0.256242,
+"joy": 0.117318,
+"fear": 0.072728,
+"disgust": 0.30481,
+"anger": 0.193117
+}
+},
+{
+"text": "Congress president",
+"sentiment": {
+"score": -0.525646,
+"label": "negative"
+},
+"relevance": 0.897888,
+"emotion": {
+"sadness": 0.218136,
+"joy": 0.060793,
+"fear": 0.035591,
+"disgust": 0.59334,
+"anger": 0.34591
+}
+}
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Congress",
+"sentiment": {
+"score": -0.525646,
+"label": "negative"
+},
+"relevance": 0.907397,
+"emotion": {
+"sadness": 0.486331,
+"joy": 0.102122,
+"fear": 0.061317,
+"disgust": 0.539651,
+"anger": 0.210413
+},
+"disambiguation": {
+"subtype": [
+"PoliticalParty"
+],
+"name": "Indian National Congress",
+"dbpedia_resource": "http://dbpedia.org/resource/Indian_National_Congress"
+},
+"count": 7
+},
+{
+"type": "Location",
+"text": "India",
+"sentiment": {
+"score": -0.62899,
+"label": "negative"
+},
+"relevance": 0.720893,
+"emotion": {
+"sadness": 0.540082,
+"joy": 0.51439,
+"fear": 0.12815,
+"disgust": 0.273121,
+"anger": 0.157812
+},
+"disambiguation": {
+"subtype": [
+"HumanLanguage",
+"Region",
+"GovernmentalJurisdiction",
+"FilmEditor",
+"Country"
+],
+"name": "India",
+"dbpedia_resource": "http://dbpedia.org/resource/India"
+},
+"count": 8
+},
+{
+"type": "Person",
+"text": "Gandhi",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.520423,
+"emotion": {
+"sadness": 0.274881,
+"joy": 0.087232,
+"fear": 0.066747,
+"disgust": 0.196471,
+"anger": 0.067118
+},
+"count": 5
+},
+{
+"type": "Person",
+"text": "Modi",
+"sentiment": {
+"score": -0.371418,
+"label": "negative"
+},
+"relevance": 0.500116,
+"emotion": {
+"sadness": 0.530737,
+"joy": 0.028246,
+"fear": 0.095046,
+"disgust": 0.420153,
+"anger": 0.160617
+},
+"count": 4
+},
+{
+"type": "Organization",
+"text": "Narendra Modi government",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.428765,
+"emotion": {
+"sadness": 0.318131,
+"joy": 0.166243,
+"fear": 0.236793,
+"disgust": 0.204984,
+"anger": 0.141029
+},
+"count": 1
+}
+],
+"concepts": [
+{
+"text": "Bharatiya Janata Party",
+"relevance": 0.971565,
+"dbpedia_resource": "http://dbpedia.org/resource/Bharatiya_Janata_Party"
+},
+{
+"text": "India",
+"relevance": 0.778636,
+"dbpedia_resource": "http://dbpedia.org/resource/India"
+},
+{
+"text": "Delhi",
+"relevance": 0.774394,
+"dbpedia_resource": "http://dbpedia.org/resource/Delhi"
+},
+{
+"text": "Indian National Congress",
+"relevance": 0.749485,
+"dbpedia_resource": "http://dbpedia.org/resource/Indian_National_Congress"
+},
+{
+"text": "Narendra Modi",
+"relevance": 0.702334,
+"dbpedia_resource": "http://dbpedia.org/resource/Narendra_Modi"
+}
+],
+"categories": [
+{
+"score": 0.454182,
+"label": "/law, govt and politics/government"
+},
+{
+"score": 0.263279,
+"label": "/society"
+},
+{
+"score": 0.191872,
+"label": "/religion and spirituality/hinduism"
+}
+]
+}
+}

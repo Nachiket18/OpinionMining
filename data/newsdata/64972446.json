@@ -1,0 +1,1006 @@
+{
+"source_article_link": "https://timesofindia.indiatimes.com/india/monitoring-whatsapp-messages-supreme-court-seeks-centres-response-within-two-weeks/articleshow/64972446.cms?&utm_source=Articleshow&utm_medium=Organic&utm_campaign=Related_Stories",
+"title": "Monitoring WhatsApp messages: Supreme Court seeks Centre's response within two weeks",
+"date_published": "2018-07-13T21:35:21+05:30",
+"source_type": "news_article",
+"source_name": "timesofindia.indiatimes.com",
+"image_link": [
+"https://timesofindia.indiatimes.com/thumb/msid-64972569,imgsize-46632,width-400,resizemode-4/64972569.jpg"
+],
+"article_body": "NEW DELHI: The Supreme Court on Friday took a strong note of the Information and Broadcasting Ministry's decision to set up a social media hub for monitoring online data, observing that it will be \"like creating a surveillance state\". The top court said the government wants to tap citizens' and sought its response within two weeks. A bench of Chief Justice , Justice A M Khanwilkar and D Y Chandrachud issued notice to the Centre on a plea by Trinamool Congress (TMC) legislator Mahua Moitra and sought Attorney General K K Venugopal's assistance in the matter.   \"The government wants to tap citizens' WhatsApp messages. It will be like creating a surveillance state,\" the bench said. Senior advocate A M Singhvi, appearing for Moitra, said the government has issued request for proposal and the tender will be opened on August 20. \"They want to monitor social media content with the help of this social media hub,\" Singhvi said.   The bench then said it is listing the matter on August 3, before the opening of tender on August 20, and AG or any law officer for the government will assist the court in the matter. Earlier, on June 18, the apex court had refused to accord urgent hearing on the plea seeking to stay a central government move to set up a 'Social Media Communication Hub' that would collect and analyze digital and social media content. The counsel for Moitra had said the government is trying to monitor the social media contents of individuals by tracking their social media accounts such as those on Twitter, Facebook and , as also their e-mails. Recently, the Limited (BECIL), a Public Sector Undertaking (PSU) under the ministry, had floated a tender to supply a software for the project.",
+"description": "NEW DELHI: The Supreme Court on Friday took a strong note of the Information and Broadcasting Ministry's decision to set up a social media hub for monitoring online data, observing that it will be \"like creating a surveillance state\". The top court said the government wants to tap citizens' and sought its response within two weeks. A bench of Chief Justice , Justice A M Khanwilkar and D Y Chandrachud issued notice to the Centre on a plea by Trinamool Congress (TMC) legislator Mahua Moitra and sought Attorney General K K Venugopal's assistance in the matter.",
+"time_scraped": "2018-08-22 06:01:11.075716",
+"article_id": "64972446",
+"article_category": "IndiaNews",
+"image_details": [
+{
+"url": "https://timesofindia.indiatimes.com/thumb/msid-64972569,imgsize-46632,width-400,resizemode-4/64972569.jpg",
+"path": "full/c80a785706abe5011bc3a9299c75769409621392.jpg",
+"checksum": "e12910a015a74bb8b6cf4d3bb169eb76"
+}
+],
+"ibm_nlu": {
+"usage": {
+"text_units": 1,
+"text_characters": 1711,
+"features": 7
+},
+"sentiment": {
+"document": {
+"score": 0.305816,
+"label": "positive"
+}
+},
+"semantic_roles": [
+{
+"subject": {
+"text": "The Supreme Court on Friday"
+},
+"sentence": "NEW DELHI: The Supreme Court on Friday took a strong note of the Information and Broadcasting Ministry's decision to set up a social media hub for monitoring online data, observing that it will be \"like creating a surveillance state\".",
+"object": {
+"text": "a strong note of the Information"
+},
+"action": {
+"verb": {
+"text": "take",
+"tense": "past"
+},
+"text": "took",
+"normalized": "take"
+}
+},
+{
+"subject": {
+"text": "the Information and Broadcasting Ministry"
+},
+"sentence": "NEW DELHI: The Supreme Court on Friday took a strong note of the Information and Broadcasting Ministry's decision to set up a social media hub for monitoring online data, observing that it will be \"like creating a surveillance state\".",
+"object": {
+"text": "a social media hub"
+},
+"action": {
+"verb": {
+"text": "set",
+"tense": "future"
+},
+"text": "to set",
+"normalized": "to set"
+}
+},
+{
+"subject": {
+"text": "it"
+},
+"sentence": "NEW DELHI: The Supreme Court on Friday took a strong note of the Information and Broadcasting Ministry's decision to set up a social media hub for monitoring online data, observing that it will be \"like creating a surveillance state\".",
+"object": {
+"text": "a surveillance state"
+},
+"action": {
+"verb": {
+"text": "create",
+"tense": "future"
+},
+"text": "creating",
+"normalized": "create"
+}
+},
+{
+"subject": {
+"text": "The top court"
+},
+"sentence": " The top court said the government wants to tap citizens' and sought its response within two weeks.",
+"object": {
+"text": "the government wants to tap citizens' and sought its response within two weeks"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "the government"
+},
+"sentence": " The top court said the government wants to tap citizens' and sought its response within two weeks.",
+"object": {
+"text": "its response"
+},
+"action": {
+"verb": {
+"text": "seek",
+"tense": "past"
+},
+"text": "sought",
+"normalized": "seek"
+}
+},
+{
+"subject": {
+"text": "Justice A M Khanwilkar and D Y Chandrachud"
+},
+"sentence": " A bench of Chief Justice , Justice A M Khanwilkar and D Y Chandrachud issued notice to the Centre on a plea by Trinamool Congress (TMC) legislator Mahua Moitra and sought Attorney General K K Venugopal's assistance in the matter.",
+"object": {
+"text": "notice"
+},
+"action": {
+"verb": {
+"text": "issue",
+"tense": "past"
+},
+"text": "issued",
+"normalized": "issue"
+}
+},
+{
+"subject": {
+"text": "A bench of Chief Justice , Justice A M Khanwilkar and D Y Chandrachud"
+},
+"sentence": " A bench of Chief Justice , Justice A M Khanwilkar and D Y Chandrachud issued notice to the Centre on a plea by Trinamool Congress (TMC) legislator Mahua Moitra and sought Attorney General K K Venugopal's assistance in the matter.",
+"object": {
+"text": "Attorney General K K Venugopal's assistance in the matter"
+},
+"action": {
+"verb": {
+"text": "seek",
+"tense": "past"
+},
+"text": "sought",
+"normalized": "seek"
+}
+},
+{
+"subject": {
+"text": "The government"
+},
+"sentence": " \"The government wants to tap citizens' WhatsApp messages.",
+"object": {
+"text": "to tap citizens' WhatsApp messages"
+},
+"action": {
+"verb": {
+"text": "want",
+"tense": "present"
+},
+"text": "wants",
+"normalized": "want"
+}
+},
+{
+"subject": {
+"text": "The government"
+},
+"sentence": " \"The government wants to tap citizens' WhatsApp messages.",
+"object": {
+"text": "citizens' WhatsApp messages"
+},
+"action": {
+"verb": {
+"text": "tap",
+"tense": "future"
+},
+"text": "wants to tap",
+"normalized": "want to tap"
+}
+},
+{
+"subject": {
+"text": "the bench"
+},
+"sentence": " It will be like creating a surveillance state,\" the bench said.",
+"object": {
+"text": "It will be like creating a surveillance state"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "Senior advocate A M Singhvi, appearing for Moitra,"
+},
+"sentence": " Senior advocate A M Singhvi, appearing for Moitra, said the government has issued request for proposal and the tender will be opened on August 20.",
+"object": {
+"text": "the government has issued request for proposal and the tender will be opened on August 20"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "the tender"
+},
+"sentence": " Senior advocate A M Singhvi, appearing for Moitra, said the government has issued request for proposal and the tender will be opened on August 20.",
+"object": {
+"text": "opened"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "future"
+},
+"text": "be",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "the tender"
+},
+"sentence": " Senior advocate A M Singhvi, appearing for Moitra, said the government has issued request for proposal and the tender will be opened on August 20.",
+"action": {
+"verb": {
+"text": "open",
+"tense": "future"
+},
+"text": "will be opened",
+"normalized": "will be open"
+}
+},
+{
+"subject": {
+"text": "They"
+},
+"sentence": " \"They want to monitor social media content with the help of this social media hub,\" Singhvi said.",
+"object": {
+"text": "to monitor social media content with the help of this social media hub"
+},
+"action": {
+"verb": {
+"text": "want",
+"tense": "present"
+},
+"text": "want",
+"normalized": "want"
+}
+},
+{
+"subject": {
+"text": "They"
+},
+"sentence": " \"They want to monitor social media content with the help of this social media hub,\" Singhvi said.",
+"object": {
+"text": "social media content"
+},
+"action": {
+"verb": {
+"text": "monitor",
+"tense": "future"
+},
+"text": "want to monitor",
+"normalized": "want to monitor"
+}
+},
+{
+"subject": {
+"text": "Singhvi"
+},
+"sentence": " \"They want to monitor social media content with the help of this social media hub,\" Singhvi said.",
+"object": {
+"text": "They want to monitor social media content with the help of this social media hub"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "The bench"
+},
+"sentence": " The bench then said it is listing the matter on August 3, before the opening of tender on August 20, and AG or any law officer for the government will assist the court in the matter.",
+"object": {
+"text": "it is listing the matter on August 3, before the opening of tender on August 20, and AG or any law officer"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "AG or any law officer for the government"
+},
+"sentence": " The bench then said it is listing the matter on August 3, before the opening of tender on August 20, and AG or any law officer for the government will assist the court in the matter.",
+"object": {
+"text": "the court"
+},
+"action": {
+"verb": {
+"text": "assist",
+"tense": "future"
+},
+"text": "will assist",
+"normalized": "will assist"
+}
+},
+{
+"subject": {
+"text": "the apex court"
+},
+"sentence": " Earlier, on June 18, the apex court had refused to accord urgent hearing on the plea seeking to stay a central government move to set up a 'Social Media Communication Hub' that would collect and analyze digital and social media content.",
+"object": {
+"text": "refused to accord urgent hearing"
+},
+"action": {
+"verb": {
+"text": "have",
+"tense": "past"
+},
+"text": "had",
+"normalized": "have"
+}
+},
+{
+"subject": {
+"text": "the apex court"
+},
+"sentence": " Earlier, on June 18, the apex court had refused to accord urgent hearing on the plea seeking to stay a central government move to set up a 'Social Media Communication Hub' that would collect and analyze digital and social media content.",
+"object": {
+"text": "to accord urgent hearing on the plea seeking to stay a central government move to set up a 'Social Media Communication Hub' that would collect and analyze digital and social media content"
+},
+"action": {
+"verb": {
+"text": "refuse",
+"tense": "past"
+},
+"text": "refused",
+"normalized": "refuse"
+}
+},
+{
+"subject": {
+"text": "the apex court"
+},
+"sentence": " Earlier, on June 18, the apex court had refused to accord urgent hearing on the plea seeking to stay a central government move to set up a 'Social Media Communication Hub' that would collect and analyze digital and social media content.",
+"object": {
+"text": "urgent hearing"
+},
+"action": {
+"verb": {
+"text": "accord",
+"tense": "past"
+},
+"text": "had refused to accord",
+"normalized": "have refuse to accord"
+}
+},
+{
+"subject": {
+"text": "The counsel for Moitra"
+},
+"sentence": " The counsel for Moitra had said the government is trying to monitor the social media contents of individuals by tracking their social media accounts such as those on Twitter, Facebook and , as also their e-mails.",
+"object": {
+"text": "the government is trying to monitor the social media contents of individuals by tracking their social media accounts such as those on Twitter, Facebook and , as also their e-mails"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "had said",
+"normalized": "have say"
+}
+},
+{
+"subject": {
+"text": "the government"
+},
+"sentence": " The counsel for Moitra had said the government is trying to monitor the social media contents of individuals by tracking their social media accounts such as those on Twitter, Facebook and , as also their e-mails.",
+"object": {
+"text": "to monitor the social media contents of individuals by tracking their social media accounts such as those on Twitter"
+},
+"action": {
+"verb": {
+"text": "try",
+"tense": "past"
+},
+"text": "trying",
+"normalized": "try"
+}
+},
+{
+"subject": {
+"text": "the government"
+},
+"sentence": " The counsel for Moitra had said the government is trying to monitor the social media contents of individuals by tracking their social media accounts such as those on Twitter, Facebook and , as also their e-mails.",
+"object": {
+"text": "their social media accounts such as those on Twitter, Facebook and , as also their e-mails"
+},
+"action": {
+"verb": {
+"text": "track",
+"tense": "present"
+},
+"text": "tracking",
+"normalized": "track"
+}
+},
+{
+"subject": {
+"text": "the Limited (BECIL), a Public Sector Undertaking (PSU) under the ministry,"
+},
+"sentence": " Recently, the Limited (BECIL), a Public Sector Undertaking (PSU) under the ministry, had floated a tender to supply a software for the project.",
+"object": {
+"text": "floated a tender to supply a software for the project"
+},
+"action": {
+"verb": {
+"text": "have",
+"tense": "past"
+},
+"text": "had",
+"normalized": "have"
+}
+},
+{
+"subject": {
+"text": "the Limited (BECIL), a Public Sector Undertaking (PSU) under the ministry,"
+},
+"sentence": " Recently, the Limited (BECIL), a Public Sector Undertaking (PSU) under the ministry, had floated a tender to supply a software for the project.",
+"object": {
+"text": "a tender to supply a software for the project"
+},
+"action": {
+"verb": {
+"text": "float",
+"tense": "past"
+},
+"text": "had floated",
+"normalized": "have float"
+}
+},
+{
+"subject": {
+"text": "the Limited (BECIL), a Public Sector Undertaking (PSU"
+},
+"sentence": " Recently, the Limited (BECIL), a Public Sector Undertaking (PSU) under the ministry, had floated a tender to supply a software for the project.",
+"object": {
+"text": "a software"
+},
+"action": {
+"verb": {
+"text": "supply",
+"tense": "past"
+},
+"text": "to supply",
+"normalized": "to supply"
+}
+}
+],
+"relations": [
+{
+"type": "agentOf",
+"sentence": "The top court said the government wants to tap citizens' and sought its response within two weeks.",
+"score": 0.940244,
+"arguments": [
+{
+"text": "court",
+"location": [
+243,
+248
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Supreme Court",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+},
+{
+"text": "said",
+"location": [
+249,
+253
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "A bench of Chief Justice , Justice A M Khanwilkar and D Y Chandrachud issued notice to the Centre on a plea by Trinamool Congress (TMC) legislator Mahua Moitra and sought Attorney General K K Venugopal's assistance in the matter.",
+"score": 0.887166,
+"arguments": [
+{
+"text": "M Khanwilkar",
+"location": [
+371,
+383
+],
+"entities": [
+{
+"type": "Person",
+"text": "M Khanwilkar"
+}
+]
+},
+{
+"text": "Centre",
+"location": [
+425,
+431
+],
+"entities": [
+{
+"type": "Facility",
+"text": "Centre"
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "A bench of Chief Justice , Justice A M Khanwilkar and D Y Chandrachud issued notice to the Centre on a plea by Trinamool Congress (TMC) legislator Mahua Moitra and sought Attorney General K K Venugopal's assistance in the matter.",
+"score": 0.510335,
+"arguments": [
+{
+"text": "legislator",
+"location": [
+470,
+480
+],
+"entities": [
+{
+"type": "Person",
+"text": "Mahua Moitra"
+}
+]
+},
+{
+"text": "TMC",
+"location": [
+465,
+468
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Trinamool Congress",
+"disambiguation": {
+"subtype": [
+"Commercial"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Senior advocate A M Singhvi, appearing for Moitra, said the government has issued request for proposal and the tender will be opened on August 20.",
+"score": 0.665767,
+"arguments": [
+{
+"text": "M Singhvi",
+"location": [
+706,
+715
+],
+"entities": [
+{
+"type": "Person",
+"text": "M Singhvi"
+}
+]
+},
+{
+"text": "said",
+"location": [
+739,
+743
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "\"They want to monitor social media content with the help of this social media hub,\" Singhvi said.",
+"score": 0.995141,
+"arguments": [
+{
+"text": "Singhvi",
+"location": [
+919,
+926
+],
+"entities": [
+{
+"type": "Person",
+"text": "M Singhvi"
+}
+]
+},
+{
+"text": "said",
+"location": [
+927,
+931
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "Senior advocate A M Singhvi, appearing for Moitra, said the government has issued request for proposal and the tender will be opened on August 20.",
+"score": 0.49222,
+"arguments": [
+{
+"text": "government",
+"location": [
+748,
+758
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "government",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+},
+{
+"text": "said",
+"location": [
+739,
+743
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "partOfMany",
+"sentence": "\"They want to monitor social media content with the help of this social media hub,\" Singhvi said.",
+"score": 0.584649,
+"arguments": [
+{
+"text": "Singhvi",
+"location": [
+919,
+926
+],
+"entities": [
+{
+"type": "Person",
+"text": "M Singhvi"
+}
+]
+},
+{
+"text": "They",
+"location": [
+836,
+840
+],
+"entities": [
+{
+"type": "Person",
+"text": "citizens"
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "The bench then said it is listing the matter on August 3, before the opening of tender on August 20, and AG or any law officer for the government will assist the court in the matter.",
+"score": 0.697152,
+"arguments": [
+{
+"text": "officer",
+"location": [
+1054,
+1061
+],
+"entities": [
+{
+"type": "Person",
+"text": "officer"
+}
+]
+},
+{
+"text": "government",
+"location": [
+1070,
+1080
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "government",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "hasAttribute",
+"sentence": "Recently, the Limited (BECIL), a Public Sector Undertaking (PSU) under the ministry, had floated a tender to supply a software for the project.",
+"score": 0.969623,
+"arguments": [
+{
+"text": "Limited",
+"location": [
+1582,
+1589
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Limited",
+"disambiguation": {
+"subtype": [
+"Commercial"
+]
+}
+}
+]
+},
+{
+"text": "BECIL",
+"location": [
+1591,
+1596
+],
+"entities": [
+{
+"type": "Ticker",
+"text": "BECIL"
+}
+]
+}
+]
+}
+],
+"language": "en",
+"keywords": [
+{
+"text": "social media",
+"sentiment": {
+"score": 0.404261,
+"label": "positive"
+},
+"relevance": 0.91215,
+"emotion": {
+"sadness": 0.046034,
+"joy": 0.146703,
+"fear": 0.061988,
+"disgust": 0.067526,
+"anger": 0.070629
+}
+},
+{
+"text": "social media hub",
+"sentiment": {
+"score": 0.427023,
+"label": "positive"
+},
+"relevance": 0.755197,
+"emotion": {
+"sadness": 0.030365,
+"joy": 0.219509,
+"fear": 0.061514,
+"disgust": 0.023544,
+"anger": 0.047769
+}
+},
+{
+"text": "social media content",
+"sentiment": {
+"score": 0.358739,
+"label": "positive"
+},
+"relevance": 0.693272,
+"emotion": {
+"sadness": 0.053874,
+"joy": 0.127192,
+"fear": 0.031461,
+"disgust": 0.069684,
+"anger": 0.047045
+}
+},
+{
+"text": "surveillance state",
+"sentiment": {
+"score": -0.202325,
+"label": "negative"
+},
+"relevance": 0.567517,
+"emotion": {
+"sadness": 0.225239,
+"joy": 0.475488,
+"fear": 0.115745,
+"disgust": 0.078867,
+"anger": 0.059033
+}
+},
+{
+"text": "legislator Mahua Moitra",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.549853,
+"emotion": {
+"sadness": 0.159919,
+"joy": 0.228133,
+"fear": 0.015821,
+"disgust": 0.152816,
+"anger": 0.155679
+}
+}
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Supreme Court",
+"sentiment": {
+"score": 0.495306,
+"label": "positive"
+},
+"relevance": 0.37446,
+"emotion": {
+"sadness": 0.030004,
+"joy": 0.056397,
+"fear": 0.094401,
+"disgust": 0.106865,
+"anger": 0.147352
+},
+"count": 2
+},
+{
+"type": "Person",
+"text": "Mahua Moitra",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.367907,
+"emotion": {
+"sadness": 0.131834,
+"joy": 0.069696,
+"fear": 0.059774,
+"disgust": 0.19593,
+"anger": 0.099054
+},
+"count": 3
+},
+{
+"type": "Organization",
+"text": "apex court",
+"sentiment": {
+"score": -0.468656,
+"label": "negative"
+},
+"relevance": 0.277788,
+"emotion": {
+"sadness": 0.194521,
+"joy": 0.055849,
+"fear": 0.161666,
+"disgust": 0.196598,
+"anger": 0.464626
+},
+"count": 1
+},
+{
+"type": "Person",
+"text": "Singhvi",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.268985,
+"emotion": {
+"sadness": 0.515571,
+"joy": 0.147047,
+"fear": 0.150545,
+"disgust": 0.089821,
+"anger": 0.109372
+},
+"count": 2
+}
+],
+"concepts": [
+{
+"text": "Government",
+"relevance": 0.98319,
+"dbpedia_resource": "http://dbpedia.org/resource/Government"
+},
+{
+"text": "Supreme Court of the United States",
+"relevance": 0.956244,
+"dbpedia_resource": "http://dbpedia.org/resource/Supreme_Court_of_the_United_States"
+},
+{
+"text": "United States",
+"relevance": 0.922263,
+"dbpedia_resource": "http://dbpedia.org/resource/United_States"
+},
+{
+"text": "Social media",
+"relevance": 0.83641,
+"dbpedia_resource": "http://dbpedia.org/resource/Social_media"
+},
+{
+"text": "Court",
+"relevance": 0.770561,
+"dbpedia_resource": "http://dbpedia.org/resource/Court"
+}
+],
+"categories": [
+{
+"score": 0.435473,
+"label": "/law, govt and politics/government"
+},
+{
+"score": 0.365956,
+"label": "/law, govt and politics/espionage and intelligence/surveillance"
+},
+{
+"score": 0.207997,
+"label": "/technology and computing/internet technology/social network"
+}
+]
+}
+}

@@ -1,0 +1,1270 @@
+{
+"source_article_link": "https://timesofindia.indiatimes.com/india/sunil-gavaskar-kapil-dev-invited-for-imran-khans-oath-taking-ceremony/articleshow/65231652.cms?&utm_source=Articleshow&utm_medium=Organic&utm_campaign=Related_Stories",
+"title": "Sunil Gavaskar, Kapil Dev invited for Imran Khan\u2019s oath-taking ceremony",
+"date_published": "2018-08-02T14:34:45+05:30",
+"source_type": "news_article",
+"source_name": "timesofindia.indiatimes.com",
+"image_link": [],
+"article_body": "NEW DELHI: Cricketers Kapil Dev, Sunil Gavaskar and Bollywood celebrities have been invited for 's oath-taking ceremony scheduled to take place on August 11, reported Pakistan's Dawn News. The names of the Indian guests were announced by Pakistan Tehreek-i-Insaf (PTI) spokesperson Fawad Chaudhary. Following Khan's victory in the general elections last month, the administration in Pakistan and PTI are busy compiling a list of the guests who will be invited for the ceremony. As per the report, Prime Minister Narendra Modi, along with other Saarc leaders, President of Turkey and China are expected to attend the ceremony. On the question of inviting PM Modi, the party has sought a response from the country's Foreign Office. Senior leaders in PTI are apprehensive of extending an invitation to PM Modi as it will have to face serious embarrassment in case the PM declines, the report said.",
+"description": "PM Narendra Modi, along with other Saarc leaders, President of Turkey and China are expected to be a part of the guest list Imran Khan is scheduled to take oath as the Prime Minister of Pakistan on August 11",
+"time_scraped": "2018-08-22 03:01:46.318272",
+"article_id": "65231652",
+"article_category": "IndiaNews",
+"image_details": [],
+"ibm_nlu": {
+"usage": {
+"text_units": 1,
+"text_characters": 894,
+"features": 7
+},
+"sentiment": {
+"document": {
+"score": -0.901736,
+"label": "negative"
+}
+},
+"semantic_roles": [
+{
+"subject": {
+"text": "Sunil Gavaskar and Bollywood celebrities"
+},
+"sentence": "NEW DELHI: Cricketers Kapil Dev, Sunil Gavaskar and Bollywood celebrities have been invited for 's oath-taking ceremony scheduled to take place on August 11, reported Pakistan's Dawn News.",
+"object": {
+"text": "for 's oath-taking ceremony scheduled to take place"
+},
+"action": {
+"verb": {
+"text": "invite",
+"tense": "past"
+},
+"text": "have been invited",
+"normalized": "have be invite"
+}
+},
+{
+"subject": {
+"text": "'s oath-taking ceremony"
+},
+"sentence": "NEW DELHI: Cricketers Kapil Dev, Sunil Gavaskar and Bollywood celebrities have been invited for 's oath-taking ceremony scheduled to take place on August 11, reported Pakistan's Dawn News.",
+"object": {
+"text": "to take place on August 11"
+},
+"action": {
+"verb": {
+"text": "schedule",
+"tense": "past"
+},
+"text": "scheduled",
+"normalized": "schedule"
+}
+},
+{
+"subject": {
+"text": "NEW DELHI: Cricketers Kapil Dev, Sunil Gavaskar and Bollywood celebrities have been invited for 's oath-taking ceremony"
+},
+"sentence": "NEW DELHI: Cricketers Kapil Dev, Sunil Gavaskar and Bollywood celebrities have been invited for 's oath-taking ceremony scheduled to take place on August 11, reported Pakistan's Dawn News.",
+"object": {
+"text": "Pakistan's Dawn News"
+},
+"action": {
+"verb": {
+"text": "report",
+"tense": "past"
+},
+"text": "reported",
+"normalized": "report"
+}
+},
+{
+"subject": {
+"text": "by Pakistan Tehreek-i-Insaf (PTI) spokesperson Fawad Chaudhary"
+},
+"sentence": " The names of the Indian guests were announced by Pakistan Tehreek-i-Insaf (PTI) spokesperson Fawad Chaudhary.",
+"object": {
+"text": "The names of the Indian guests"
+},
+"action": {
+"verb": {
+"text": "announce",
+"tense": "past"
+},
+"text": "were announced",
+"normalized": "be announce"
+}
+},
+{
+"subject": {
+"text": "the administration in Pakistan and PTI"
+},
+"sentence": " Following Khan's victory in the general elections last month, the administration in Pakistan and PTI are busy compiling a list of the guests who will be invited for the ceremony.",
+"action": {
+"verb": {
+"text": "Following",
+"tense": "present"
+},
+"text": "Following",
+"normalized": "Following"
+}
+},
+{
+"subject": {
+"text": "the administration in Pakistan and PTI"
+},
+"sentence": " Following Khan's victory in the general elections last month, the administration in Pakistan and PTI are busy compiling a list of the guests who will be invited for the ceremony.",
+"action": {
+"verb": {
+"text": "be",
+"tense": "present"
+},
+"text": "are",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "the administration in Pakistan and PTI"
+},
+"sentence": " Following Khan's victory in the general elections last month, the administration in Pakistan and PTI are busy compiling a list of the guests who will be invited for the ceremony.",
+"object": {
+"text": "a list of the guests who will be invited for the ceremony"
+},
+"action": {
+"verb": {
+"text": "compile",
+"tense": "present"
+},
+"text": "compiling",
+"normalized": "compile"
+}
+},
+{
+"subject": {
+"text": "the guests"
+},
+"sentence": " Following Khan's victory in the general elections last month, the administration in Pakistan and PTI are busy compiling a list of the guests who will be invited for the ceremony.",
+"object": {
+"text": "for the ceremony"
+},
+"action": {
+"verb": {
+"text": "invite",
+"tense": "future"
+},
+"text": "will be invited",
+"normalized": "will be invite"
+}
+},
+{
+"subject": {
+"text": "President of Turkey and China"
+},
+"sentence": " As per the report, Prime Minister Narendra Modi, along with other Saarc leaders, President of Turkey and China are expected to attend the ceremony.",
+"action": {
+"verb": {
+"text": "be",
+"tense": "present"
+},
+"text": "are expected to attend",
+"normalized": "be expect to attend"
+}
+},
+{
+"subject": {
+"text": "Prime Minister Narendra Modi, along with other Saarc leaders, President of Turkey and China"
+},
+"sentence": " As per the report, Prime Minister Narendra Modi, along with other Saarc leaders, President of Turkey and China are expected to attend the ceremony.",
+"object": {
+"text": "the ceremony"
+},
+"action": {
+"verb": {
+"text": "attend",
+"tense": "future"
+},
+"text": "are expected to attend",
+"normalized": "be expect to attend"
+}
+},
+{
+"subject": {
+"text": "the party"
+},
+"sentence": " On the question of inviting PM Modi, the party has sought a response from the country's Foreign Office.",
+"object": {
+"text": "sought a response"
+},
+"action": {
+"verb": {
+"text": "have",
+"tense": "present"
+},
+"text": "has",
+"normalized": "have"
+}
+},
+{
+"subject": {
+"text": "the party"
+},
+"sentence": " On the question of inviting PM Modi, the party has sought a response from the country's Foreign Office.",
+"object": {
+"text": "a response from the country's Foreign Office"
+},
+"action": {
+"verb": {
+"text": "seek",
+"tense": "past"
+},
+"text": "has sought",
+"normalized": "have seek"
+}
+},
+{
+"subject": {
+"text": "Senior leaders in PTI"
+},
+"sentence": " Senior leaders in PTI are apprehensive of extending an invitation to PM Modi as it will have to face serious embarrassment in case the PM declines, the report said.",
+"object": {
+"text": "apprehensive of extending an invitation to PM Modi"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "present"
+},
+"text": "are",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "Senior leaders in PTI"
+},
+"sentence": " Senior leaders in PTI are apprehensive of extending an invitation to PM Modi as it will have to face serious embarrassment in case the PM declines, the report said.",
+"object": {
+"text": "an invitation"
+},
+"action": {
+"verb": {
+"text": "extend",
+"tense": "future"
+},
+"text": "extending",
+"normalized": "extend"
+}
+},
+{
+"subject": {
+"text": "it"
+},
+"sentence": " Senior leaders in PTI are apprehensive of extending an invitation to PM Modi as it will have to face serious embarrassment in case the PM declines, the report said.",
+"object": {
+"text": "serious embarrassment in case the PM declines"
+},
+"action": {
+"verb": {
+"text": "face",
+"tense": "future"
+},
+"text": "will have to face",
+"normalized": "will have to face"
+}
+},
+{
+"subject": {
+"text": "the report"
+},
+"sentence": " Senior leaders in PTI are apprehensive of extending an invitation to PM Modi as it will have to face serious embarrassment in case the PM declines, the report said.",
+"object": {
+"text": "Senior leaders in PTI are apprehensive of extending an invitation to PM Modi as it will have to face serious embarrassment in case the PM declines"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+}
+],
+"relations": [
+{
+"type": "employedBy",
+"sentence": "NEW DELHI: Cricketers Kapil Dev, Sunil Gavaskar and Bollywood celebrities have been invited for 's oath-taking ceremony scheduled to take place on August 11, reported Pakistan's Dawn News.",
+"score": 0.586425,
+"arguments": [
+{
+"text": "Kapil Dev",
+"location": [
+22,
+31
+],
+"entities": [
+{
+"type": "Person",
+"text": "Kapil Dev"
+}
+]
+},
+{
+"text": "Cricketers",
+"location": [
+11,
+21
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Cricketers",
+"disambiguation": {
+"subtype": [
+"Commercial"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "The names of the Indian guests were announced by Pakistan Tehreek-i-Insaf (PTI) spokesperson Fawad Chaudhary.",
+"score": 0.476587,
+"arguments": [
+{
+"text": "guests",
+"location": [
+213,
+219
+],
+"entities": [
+{
+"type": "Person",
+"text": "celebrities"
+}
+]
+},
+{
+"text": "announced",
+"location": [
+225,
+234
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "announced"
+}
+]
+}
+]
+},
+{
+"type": "participantIn",
+"sentence": "Following Khan's victory in the general elections last month, the administration in Pakistan and PTI are busy compiling a list of the guests who will be invited for the ceremony.",
+"score": 0.725092,
+"arguments": [
+{
+"text": "Khan",
+"location": [
+309,
+313
+],
+"entities": [
+{
+"type": "Person",
+"text": "Khan"
+}
+]
+},
+{
+"text": "general elections",
+"location": [
+331,
+348
+],
+"entities": [
+{
+"type": "EventElection",
+"text": "general elections"
+}
+]
+}
+]
+},
+{
+"type": "timeOf",
+"sentence": "Following Khan's victory in the general elections last month, the administration in Pakistan and PTI are busy compiling a list of the guests who will be invited for the ceremony.",
+"score": 0.956906,
+"arguments": [
+{
+"text": "last month",
+"location": [
+349,
+359
+],
+"entities": [
+{
+"type": "Date",
+"text": "last month"
+}
+]
+},
+{
+"text": "general elections",
+"location": [
+331,
+348
+],
+"entities": [
+{
+"type": "EventElection",
+"text": "general elections"
+}
+]
+}
+]
+},
+{
+"type": "basedIn",
+"sentence": "Following Khan's victory in the general elections last month, the administration in Pakistan and PTI are busy compiling a list of the guests who will be invited for the ceremony.",
+"score": 0.291152,
+"arguments": [
+{
+"text": "administration",
+"location": [
+365,
+379
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "administration",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+},
+{
+"text": "Pakistan",
+"location": [
+383,
+391
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Pakistan",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "participantIn",
+"sentence": "As per the report, Prime Minister Narendra Modi, along with other Saarc leaders, President of Turkey and China are expected to attend the ceremony.",
+"score": 0.844202,
+"arguments": [
+{
+"text": "Narendra Modi",
+"location": [
+512,
+525
+],
+"entities": [
+{
+"type": "Person",
+"text": "Narendra Modi"
+}
+]
+},
+{
+"text": "ceremony",
+"location": [
+616,
+624
+],
+"entities": [
+{
+"type": "EventPerformance",
+"text": "ceremony"
+}
+]
+}
+]
+},
+{
+"type": "managerOf",
+"sentence": "As per the report, Prime Minister Narendra Modi, along with other Saarc leaders, President of Turkey and China are expected to attend the ceremony.",
+"score": 0.408852,
+"arguments": [
+{
+"text": "leaders",
+"location": [
+550,
+557
+],
+"entities": [
+{
+"type": "Person",
+"text": "leaders"
+}
+]
+},
+{
+"text": "Saarc",
+"location": [
+544,
+549
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Saarc"
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "As per the report, Prime Minister Narendra Modi, along with other Saarc leaders, President of Turkey and China are expected to attend the ceremony.",
+"score": 0.390093,
+"arguments": [
+{
+"text": "President",
+"location": [
+559,
+568
+],
+"entities": [
+{
+"type": "Person",
+"text": "President"
+}
+]
+},
+{
+"text": "Turkey",
+"location": [
+572,
+578
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Turkey",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "memberOf",
+"sentence": "On the question of inviting PM Modi, the party has sought a response from the country's Foreign Office.",
+"score": 0.406003,
+"arguments": [
+{
+"text": "PM Modi",
+"location": [
+654,
+661
+],
+"entities": [
+{
+"type": "Person",
+"text": "PM Modi"
+}
+]
+},
+{
+"text": "party",
+"location": [
+667,
+672
+],
+"entities": [
+{
+"type": "Organization",
+"text": "party",
+"disambiguation": {
+"subtype": [
+"Political"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "basedIn",
+"sentence": "On the question of inviting PM Modi, the party has sought a response from the country's Foreign Office.",
+"score": 0.691042,
+"arguments": [
+{
+"text": "Foreign Office",
+"location": [
+714,
+728
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Foreign Office",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+},
+{
+"text": "country",
+"location": [
+704,
+711
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Pakistan",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "managerOf",
+"sentence": "Senior leaders in PTI are apprehensive of extending an invitation to PM Modi as it will have to face serious embarrassment in case the PM declines, the report said.",
+"score": 0.538128,
+"arguments": [
+{
+"text": "Senior",
+"location": [
+730,
+736
+],
+"entities": [
+{
+"type": "Person",
+"text": "invitation"
+}
+]
+},
+{
+"text": "leaders",
+"location": [
+737,
+744
+],
+"entities": [
+{
+"type": "Person",
+"text": "leaders"
+}
+]
+}
+]
+},
+{
+"type": "participantIn",
+"sentence": "NEW DELHI: Cricketers Kapil Dev, Sunil Gavaskar and Bollywood celebrities have been invited for 's oath-taking ceremony scheduled to take place on August 11, reported Pakistan's Dawn News.",
+"score": 0.59501,
+"arguments": [
+{
+"text": "Kapil Dev",
+"location": [
+22,
+31
+],
+"entities": [
+{
+"type": "Person",
+"text": "Kapil Dev"
+}
+]
+},
+{
+"text": "ceremony",
+"location": [
+111,
+119
+],
+"entities": [
+{
+"type": "EventPerformance",
+"text": "ceremony"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "Senior leaders in PTI are apprehensive of extending an invitation to PM Modi as it will have to face serious embarrassment in case the PM declines, the report said.",
+"score": 0.450732,
+"arguments": [
+{
+"text": "leaders",
+"location": [
+737,
+744
+],
+"entities": [
+{
+"type": "Person",
+"text": "leaders"
+}
+]
+},
+{
+"text": "PTI",
+"location": [
+748,
+751
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "PTI"
+}
+]
+}
+]
+},
+{
+"type": "participantIn",
+"sentence": "NEW DELHI: Cricketers Kapil Dev, Sunil Gavaskar and Bollywood celebrities have been invited for 's oath-taking ceremony scheduled to take place on August 11, reported Pakistan's Dawn News.",
+"score": 0.86325,
+"arguments": [
+{
+"text": "Sunil Gavaskar",
+"location": [
+33,
+47
+],
+"entities": [
+{
+"type": "Person",
+"text": "Sunil Gavaskar"
+}
+]
+},
+{
+"text": "ceremony",
+"location": [
+111,
+119
+],
+"entities": [
+{
+"type": "EventPerformance",
+"text": "ceremony"
+}
+]
+}
+]
+},
+{
+"type": "residesIn",
+"sentence": "NEW DELHI: Cricketers Kapil Dev, Sunil Gavaskar and Bollywood celebrities have been invited for 's oath-taking ceremony scheduled to take place on August 11, reported Pakistan's Dawn News.",
+"score": 0.580753,
+"arguments": [
+{
+"text": "celebrities",
+"location": [
+62,
+73
+],
+"entities": [
+{
+"type": "Person",
+"text": "celebrities"
+}
+]
+},
+{
+"text": "Bollywood",
+"location": [
+52,
+61
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Bollywood"
+}
+]
+}
+]
+},
+{
+"type": "participantIn",
+"sentence": "NEW DELHI: Cricketers Kapil Dev, Sunil Gavaskar and Bollywood celebrities have been invited for 's oath-taking ceremony scheduled to take place on August 11, reported Pakistan's Dawn News.",
+"score": 0.717149,
+"arguments": [
+{
+"text": "celebrities",
+"location": [
+62,
+73
+],
+"entities": [
+{
+"type": "Person",
+"text": "celebrities"
+}
+]
+},
+{
+"text": "ceremony",
+"location": [
+111,
+119
+],
+"entities": [
+{
+"type": "EventPerformance",
+"text": "ceremony"
+}
+]
+}
+]
+},
+{
+"type": "participantIn",
+"sentence": "Following Khan's victory in the general elections last month, the administration in Pakistan and PTI are busy compiling a list of the guests who will be invited for the ceremony.",
+"score": 0.879536,
+"arguments": [
+{
+"text": "who",
+"location": [
+440,
+443
+],
+"entities": [
+{
+"type": "Person",
+"text": "celebrities"
+}
+]
+},
+{
+"text": "ceremony",
+"location": [
+468,
+476
+],
+"entities": [
+{
+"type": "EventPerformance",
+"text": "ceremony"
+}
+]
+}
+]
+},
+{
+"type": "timeOf",
+"sentence": "NEW DELHI: Cricketers Kapil Dev, Sunil Gavaskar and Bollywood celebrities have been invited for 's oath-taking ceremony scheduled to take place on August 11, reported Pakistan's Dawn News.",
+"score": 0.803944,
+"arguments": [
+{
+"text": "August 11",
+"location": [
+147,
+156
+],
+"entities": [
+{
+"type": "Date",
+"text": "August 11"
+}
+]
+},
+{
+"text": "ceremony",
+"location": [
+111,
+119
+],
+"entities": [
+{
+"type": "EventPerformance",
+"text": "ceremony"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "NEW DELHI: Cricketers Kapil Dev, Sunil Gavaskar and Bollywood celebrities have been invited for 's oath-taking ceremony scheduled to take place on August 11, reported Pakistan's Dawn News.",
+"score": 0.686767,
+"arguments": [
+{
+"text": "Dawn News",
+"location": [
+178,
+187
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Dawn News",
+"disambiguation": {
+"subtype": [
+"Commercial"
+]
+}
+}
+]
+},
+{
+"text": "reported",
+"location": [
+158,
+166
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "reported"
+}
+]
+}
+]
+},
+{
+"type": "partOf",
+"sentence": "NEW DELHI: Cricketers Kapil Dev, Sunil Gavaskar and Bollywood celebrities have been invited for 's oath-taking ceremony scheduled to take place on August 11, reported Pakistan's Dawn News.",
+"score": 0.800075,
+"arguments": [
+{
+"text": "Dawn News",
+"location": [
+178,
+187
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Dawn News",
+"disambiguation": {
+"subtype": [
+"Commercial"
+]
+}
+}
+]
+},
+{
+"text": "Pakistan",
+"location": [
+167,
+175
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Pakistan",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "The names of the Indian guests were announced by Pakistan Tehreek-i-Insaf (PTI) spokesperson Fawad Chaudhary.",
+"score": 0.273408,
+"arguments": [
+{
+"text": "guests",
+"location": [
+213,
+219
+],
+"entities": [
+{
+"type": "Person",
+"text": "celebrities"
+}
+]
+},
+{
+"text": "Indian",
+"location": [
+206,
+212
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Indian"
+}
+]
+}
+]
+}
+],
+"language": "en",
+"keywords": [
+{
+"text": "Minister Narendra Modi",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.922009,
+"emotion": {
+"sadness": 0.263458,
+"joy": 0.198592,
+"fear": 0.069299,
+"disgust": 0.118084,
+"anger": 0.026806
+}
+},
+{
+"text": "Cricketers Kapil Dev",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.864157,
+"emotion": {
+"sadness": 0.141719,
+"joy": 0.18826,
+"fear": 0.08519,
+"disgust": 0.078108,
+"anger": 0.114459
+}
+},
+{
+"text": "spokesperson Fawad Chaudhary",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.833849,
+"emotion": {
+"sadness": 0.144548,
+"joy": 0.185315,
+"fear": 0.087573,
+"disgust": 0.077654,
+"anger": 0.090723
+}
+},
+{
+"text": "PM Modi",
+"sentiment": {
+"score": -0.705428,
+"label": "negative"
+},
+"relevance": 0.7311,
+"emotion": {
+"sadness": 0.434272,
+"joy": 0.028707,
+"fear": 0.117889,
+"disgust": 0.361204,
+"anger": 0.17836
+}
+},
+{
+"text": "oath-taking ceremony",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.607724,
+"emotion": {
+"sadness": 0.11,
+"joy": 0.172554,
+"fear": 0.146702,
+"disgust": 0.175641,
+"anger": 0.078897
+}
+}
+],
+"entities": [
+{
+"type": "Location",
+"text": "Pakistan",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.878844,
+"emotion": {
+"sadness": 0.48612,
+"joy": 0.174137,
+"fear": 0.031936,
+"disgust": 0.061581,
+"anger": 0.094868
+},
+"disambiguation": {
+"subtype": [
+"GovernmentalJurisdiction",
+"Country"
+],
+"name": "Pakistan",
+"dbpedia_resource": "http://dbpedia.org/resource/Pakistan"
+},
+"count": 3
+},
+{
+"type": "Person",
+"text": "Prime Minister Narendra Modi",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.784383,
+"emotion": {
+"sadness": 0.263458,
+"joy": 0.198592,
+"fear": 0.069299,
+"disgust": 0.118084,
+"anger": 0.026806
+},
+"count": 1
+},
+{
+"type": "Person",
+"text": "Fawad Chaudhary",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.505801,
+"emotion": {
+"sadness": 0.144548,
+"joy": 0.185315,
+"fear": 0.087573,
+"disgust": 0.077654,
+"anger": 0.090723
+},
+"count": 1
+},
+{
+"type": "Person",
+"text": "Kapil Dev",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.477667,
+"emotion": {
+"sadness": 0.141719,
+"joy": 0.18826,
+"fear": 0.08519,
+"disgust": 0.078108,
+"anger": 0.114459
+},
+"disambiguation": {
+"subtype": [
+"Athlete",
+"CricketBowler",
+"CricketCoach",
+"CricketPlayer"
+],
+"name": "Kapil Dev",
+"dbpedia_resource": "http://dbpedia.org/resource/Kapil_Dev"
+},
+"count": 1
+},
+{
+"type": "Person",
+"text": "Sunil Gavaskar",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.468809,
+"emotion": {
+"sadness": 0.11,
+"joy": 0.172554,
+"fear": 0.146702,
+"disgust": 0.175641,
+"anger": 0.078897
+},
+"disambiguation": {
+"subtype": [
+"Athlete",
+"CricketBowler",
+"CricketPlayer"
+],
+"name": "Sunil Gavaskar",
+"dbpedia_resource": "http://dbpedia.org/resource/Sunil_Gavaskar"
+},
+"count": 1
+}
+],
+"concepts": [
+{
+"text": "India",
+"relevance": 0.955868,
+"dbpedia_resource": "http://dbpedia.org/resource/India"
+},
+{
+"text": "Kapil Dev",
+"relevance": 0.91564,
+"dbpedia_resource": "http://dbpedia.org/resource/Kapil_Dev"
+},
+{
+"text": "Sunil Gavaskar",
+"relevance": 0.75504,
+"dbpedia_resource": "http://dbpedia.org/resource/Sunil_Gavaskar"
+},
+{
+"text": "Narendra Modi",
+"relevance": 0.75152,
+"dbpedia_resource": "http://dbpedia.org/resource/Narendra_Modi"
+},
+{
+"text": "Mumbai",
+"relevance": 0.696281,
+"dbpedia_resource": "http://dbpedia.org/resource/Mumbai"
+}
+],
+"categories": [
+{
+"score": 0.409163,
+"label": "/law, govt and politics/politics/elections"
+},
+{
+"score": 0.314949,
+"label": "/law, govt and politics/government"
+},
+{
+"score": 0.314268,
+"label": "/sports/cricket"
+}
+]
+}
+}

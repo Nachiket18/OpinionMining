@@ -1,0 +1,355 @@
+{
+"source_article_link": "https://timesofindia.indiatimes.com/india/the-time-when-m-karunanidhi-became-president-of-dmk/articleshow/65320127.cms?&utm_source=Articleshow&utm_medium=Organic&utm_campaign=Related_Stories",
+"title": "The time when M Karunanidhi became president of DMK",
+"date_published": "2018-08-08T14:24+00:00",
+"source_type": "news_article",
+"source_name": "timesofindia.indiatimes.com",
+"image_link": [],
+"article_body": "Former chief minister and party president M who passed away on August 7, 2018 is the first political figure in the Indian history to be at the helm of a party for 50 years. Here\u2019s a look at how different India and the world was when he took over as the DMK chief.    ",
+"description": "Former chief minister and party president M who passed away on August 7, 2018 is the first political figure in the Indian history to be at the helm of a party for 50 years. Here\u2019s a look at how different India and the world was when he took over as the DMK chief. ",
+"time_scraped": "2018-08-22 09:03:40.293341",
+"article_id": "65320127",
+"article_category": "IndiaNews",
+"image_details": [],
+"ibm_nlu": {
+"usage": {
+"text_units": 1,
+"text_characters": 267,
+"features": 7
+},
+"sentiment": {
+"document": {
+"score": 0.484733,
+"label": "positive"
+}
+},
+"semantic_roles": [
+{
+"subject": {
+"text": "Former chief minister and party president"
+},
+"sentence": "Former chief minister and party president M who passed away on August 7, 2018 is the first political figure in the Indian history to be at the helm of a party for 50 years.",
+"action": {
+"verb": {
+"text": "pass",
+"tense": "past"
+},
+"text": "passed",
+"normalized": "pass"
+}
+},
+{
+"subject": {
+"text": "Former chief minister and party president M who passed away on August 7, 2018"
+},
+"sentence": "Former chief minister and party president M who passed away on August 7, 2018 is the first political figure in the Indian history to be at the helm of a party for 50 years.",
+"object": {
+"text": "the first political figure in the Indian history"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "present"
+},
+"text": "is",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "a look at how different India and the world"
+},
+"sentence": " Here\u2019s a look at how different India and the world was when he took over as the DMK chief.",
+"action": {
+"verb": {
+"text": "has",
+"tense": "present"
+},
+"text": "s",
+"normalized": "s"
+}
+},
+{
+"subject": {
+"text": "different India and the world"
+},
+"sentence": " Here\u2019s a look at how different India and the world was when he took over as the DMK chief.",
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "was",
+"normalized": "be"
+}
+}
+],
+"relations": [
+{
+"type": "managerOf",
+"sentence": "Former chief minister and party president M who passed away on August 7, 2018 is the first political figure in the Indian history to be at the helm of a party for 50 years.",
+"score": 0.85248,
+"arguments": [
+{
+"text": "president",
+"location": [
+32,
+41
+],
+"entities": [
+{
+"type": "Person",
+"text": "M"
+}
+]
+},
+{
+"text": "party",
+"location": [
+26,
+31
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "party",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Here's a look at how different India and the world was when he took over as the DMK chief.",
+"score": 0.835255,
+"arguments": [
+{
+"text": "he",
+"location": [
+233,
+235
+],
+"entities": [
+{
+"type": "Person",
+"text": "he"
+}
+]
+},
+{
+"text": "took over",
+"location": [
+236,
+245
+],
+"entities": [
+{
+"type": "EventPersonnel",
+"text": "took over"
+}
+]
+}
+]
+}
+],
+"language": "en",
+"keywords": [
+{
+"text": "DMK chief",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.966174,
+"emotion": {
+"sadness": 0.394352,
+"joy": 0.287862,
+"fear": 0.145634,
+"disgust": 0.110612,
+"anger": 0.132374
+}
+},
+{
+"text": "chief minister",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.936304,
+"emotion": {
+"sadness": 0.888328,
+"joy": 0.031943,
+"fear": 0.058173,
+"disgust": 0.105107,
+"anger": 0.035394
+}
+},
+{
+"text": "political figure",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.746626,
+"emotion": {
+"sadness": 0.570974,
+"joy": 0.362469,
+"fear": 0.060523,
+"disgust": 0.042912,
+"anger": 0.024289
+}
+},
+{
+"text": "party president",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.707361,
+"emotion": {
+"sadness": 0.888328,
+"joy": 0.031943,
+"fear": 0.058173,
+"disgust": 0.105107,
+"anger": 0.035394
+}
+},
+{
+"text": "Indian history",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.673225,
+"emotion": {
+"sadness": 0.570974,
+"joy": 0.362469,
+"fear": 0.060523,
+"disgust": 0.042912,
+"anger": 0.024289
+}
+}
+],
+"entities": [
+{
+"type": "Organization",
+"text": "DMK",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.605053,
+"emotion": {
+"sadness": 0.394352,
+"joy": 0.287862,
+"fear": 0.145634,
+"disgust": 0.110612,
+"anger": 0.132374
+},
+"disambiguation": {
+"subtype": [
+"PoliticalParty"
+],
+"name": "Dravida Munnetra Kazhagam",
+"dbpedia_resource": "http://dbpedia.org/resource/Dravida_Munnetra_Kazhagam"
+},
+"count": 1
+},
+{
+"type": "JobTitle",
+"text": "president",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.423818,
+"emotion": {
+"sadness": 0.888328,
+"joy": 0.031943,
+"fear": 0.058173,
+"disgust": 0.105107,
+"anger": 0.035394
+},
+"count": 1
+},
+{
+"type": "Location",
+"text": "India",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.340947,
+"emotion": {
+"sadness": 0.394352,
+"joy": 0.287862,
+"fear": 0.145634,
+"disgust": 0.110612,
+"anger": 0.132374
+},
+"disambiguation": {
+"subtype": [
+"Country"
+]
+},
+"count": 1
+},
+{
+"type": "Quantity",
+"text": "50 years",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.340947,
+"count": 1
+}
+],
+"concepts": [
+{
+"text": "India",
+"relevance": 0.906468,
+"dbpedia_resource": "http://dbpedia.org/resource/India"
+},
+{
+"text": "Asia",
+"relevance": 0.900786,
+"dbpedia_resource": "http://dbpedia.org/resource/Asia"
+},
+{
+"text": "Political party",
+"relevance": 0.791977,
+"dbpedia_resource": "http://dbpedia.org/resource/Political_party"
+},
+{
+"text": "Ashoka the Great",
+"relevance": 0.750424,
+"dbpedia_resource": "http://dbpedia.org/resource/Ashoka_the_Great"
+},
+{
+"text": "World",
+"relevance": 0.712,
+"dbpedia_resource": "http://dbpedia.org/resource/World"
+}
+],
+"categories": [
+{
+"score": 0.349455,
+"label": "/science/physics/space and astronomy"
+},
+{
+"score": 0.3257,
+"label": "/law, govt and politics/politics/political parties"
+},
+{
+"score": 0.282054,
+"label": "/law, govt and politics/government"
+}
+]
+}
+}

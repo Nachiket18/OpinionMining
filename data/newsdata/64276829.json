@@ -1,0 +1,1884 @@
+{
+"source_article_link": "https://timesofindia.indiatimes.com/india/nipah-virus-outbreak-localised-occurrence-health-ministry/articleshow/64276829.cms?&utm_source=Articleshow&utm_medium=Organic&utm_campaign=Related_Stories",
+"title": "Nipah virus outbreak localised occurrence: Health ministry",
+"date_published": "2018-05-22T23:21:29+05:30",
+"source_type": "news_article",
+"source_name": "timesofindia.indiatimes.com",
+"image_link": [],
+"article_body": "NEW DELHI: An initial investigation by a medical team sent by the Centre to probe the sudden outbreak of the deadly in Kerala suggests it is a \u201clocalised occurrence\u201d and is unlikely to spread as early, the said on Tuesday urging people not to believe in rumours on social media and spread panic. \u201cThere is no reason for people to panic. This appears to be a localised occurrence,\u201d the health ministry said. A multi-disciplinary central team from the National Centre for Disease Control ( ) visited the house in Kerala's Perambra from where the initial death was reported, and found many bats in a well from where the family took water. \u201cSome bats have been caught and have been sent for lab examination to confirm whether they are the cause of the disease or not. 60 different samples have been collected from the spot and sent for examination,\u201d the ministry said. Health ministry officials said the situation is under control and the NCDC team is constantly monitoring it. The Nipah virus or NiV infection is a newly emerging zoonosis that causes severe disease in both animals and humans. The infection spread mainly by fruit bats. Symptoms of the disease include breathing trouble, brain swelling, fever, headache, drowsiness, disorientation and delirium. A patient can fall into a coma within 48 hours. It travels through direct contact with a patient. There is no vaccine for the virus yet, says the World Health Organisation. The main treatment for those infected is intensive supportive care. While the outbreak in Kerala has so far claimed 10 lives, a total of nine persons are currently undergoing treatment and isolation wards have been opened in several hospitals in Kozhikode. The central team includes Dr Sujeet K Singh, Director, NCDC; Dr S K Jain, Head of Epidemiology, NCDC; Dr P Ravindran, Director, Emergency Medical Relief (EMR); Dr Naveen Gupta, Head of Zoonosis at NCDC; Dr Ashutosh Biswas, Professor of Internal Medicine at AIIMS; and Dr Deepak Bhattacharya, Pulmonologist at the Safdarjung Hospital. Besides, the team also has two clinicians and an expert from the animal husbandry ministry. The ministry has also mobilised a public health team from the NCDC's Kozhikode branch to assess the extent of the problem for risk assessment and management. \u201cThey are assisting the state-level team deployed at the epicentre. So far, seven patients have been admitted to the Baby Memorial Hospital and to the Government Medical College in Kozhikode, and to the Amrutha Medical College, Ernakulam,\u201d the ministry said. Hospitals in the public and private sector have been provided with personal protective equipment and appropriate steps to contain this virus have been taken among domestic animals such as pigs. With early and efficient containment measures undertaken jointly by the health ministry and the Kerala government, the outbreak is unlikely to spread, the ministry said. The ministry has also directed the Virus Research Diagnostic Laboratory at Manipal Hospital and the to meet diagnostic challenges.",
+"description": "\"There is no reason for people to panic. This appears to be a localised occurrence,\u201d the health ministry said The Nipah virus or NiV infection is a newly emerging zoonosis that causes severe disease in both animals and humans",
+"time_scraped": "2018-08-23 06:01:26.864989",
+"article_id": "64276829",
+"article_category": "IndiaNews",
+"image_details": [],
+"ibm_nlu": {
+"usage": {
+"text_units": 1,
+"text_characters": 3026,
+"features": 7
+},
+"sentiment": {
+"document": {
+"score": -0.292358,
+"label": "negative"
+}
+},
+"semantic_roles": [
+{
+"subject": {
+"text": "by the Centre"
+},
+"sentence": "NEW DELHI: An initial investigation by a medical team sent by the Centre to probe the sudden outbreak of the deadly in Kerala suggests it is a \u201clocalised occurrence\u201d and is unlikely to spread as early, the said on Tuesday urging people not to believe in rumours on social media and spread panic.",
+"object": {
+"text": "An initial investigation by a medical team"
+},
+"action": {
+"verb": {
+"text": "send",
+"tense": "past"
+},
+"text": "sent",
+"normalized": "send"
+}
+},
+{
+"subject": {
+"text": "An initial investigation by a medical team"
+},
+"sentence": "NEW DELHI: An initial investigation by a medical team sent by the Centre to probe the sudden outbreak of the deadly in Kerala suggests it is a \u201clocalised occurrence\u201d and is unlikely to spread as early, the said on Tuesday urging people not to believe in rumours on social media and spread panic.",
+"object": {
+"text": "the sudden outbreak of the deadly"
+},
+"action": {
+"verb": {
+"text": "probe",
+"tense": "future"
+},
+"text": "to probe",
+"normalized": "to probe"
+}
+},
+{
+"subject": {
+"text": "NEW DELHI: An initial investigation by a medical team sent by the Centre to probe the sudden outbreak of the deadly in Kerala"
+},
+"sentence": "NEW DELHI: An initial investigation by a medical team sent by the Centre to probe the sudden outbreak of the deadly in Kerala suggests it is a \u201clocalised occurrence\u201d and is unlikely to spread as early, the said on Tuesday urging people not to believe in rumours on social media and spread panic.",
+"object": {
+"text": "it is a \u201clocalised occurrence\u201d and is unlikely to spread as early"
+},
+"action": {
+"verb": {
+"text": "suggest",
+"tense": "present"
+},
+"text": "suggests",
+"normalized": "suggest"
+}
+},
+{
+"subject": {
+"text": "NEW DELHI: An initial investigation by a medical team sent by the Centre to probe the sudden outbreak of the deadly in Kerala"
+},
+"sentence": "NEW DELHI: An initial investigation by a medical team sent by the Centre to probe the sudden outbreak of the deadly in Kerala suggests it is a \u201clocalised occurrence\u201d and is unlikely to spread as early, the said on Tuesday urging people not to believe in rumours on social media and spread panic.",
+"object": {
+"text": "people"
+},
+"action": {
+"verb": {
+"text": "urge",
+"tense": "present"
+},
+"text": "urging",
+"normalized": "urge"
+}
+},
+{
+"subject": {
+"text": "people"
+},
+"sentence": "NEW DELHI: An initial investigation by a medical team sent by the Centre to probe the sudden outbreak of the deadly in Kerala suggests it is a \u201clocalised occurrence\u201d and is unlikely to spread as early, the said on Tuesday urging people not to believe in rumours on social media and spread panic.",
+"action": {
+"verb": {
+"text": "believe",
+"tense": "future",
+"negated": true
+},
+"text": "to believe",
+"normalized": "to believe"
+}
+},
+{
+"subject": {
+"text": "no reason"
+},
+"sentence": " \u201cThere is no reason for people to panic.",
+"object": {
+"text": "for people to panic"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "present"
+},
+"text": "is",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "This"
+},
+"sentence": " This appears to be a localised occurrence,\u201d the health ministry said.",
+"object": {
+"text": "a localised occurrence"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "future"
+},
+"text": "appears to be",
+"normalized": "appear to be"
+}
+},
+{
+"subject": {
+"text": "the health ministry"
+},
+"sentence": " This appears to be a localised occurrence,\u201d the health ministry said.",
+"object": {
+"text": "This appears to be a localised occurrence"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "A multi-disciplinary central team from the National Centre for Disease Control ( )"
+},
+"sentence": " A multi-disciplinary central team from the National Centre for Disease Control ( ) visited the house in Kerala's Perambra from where the initial death was reported, and found many bats in a well from where the family took water.",
+"object": {
+"text": "the house"
+},
+"action": {
+"verb": {
+"text": "visit",
+"tense": "past"
+},
+"text": "visited",
+"normalized": "visit"
+}
+},
+{
+"subject": {
+"text": "the initial death"
+},
+"sentence": " A multi-disciplinary central team from the National Centre for Disease Control ( ) visited the house in Kerala's Perambra from where the initial death was reported, and found many bats in a well from where the family took water.",
+"object": {
+"text": "reported"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "was",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "A multi-disciplinary central team from the National Centre for Disease Control ( )"
+},
+"sentence": " A multi-disciplinary central team from the National Centre for Disease Control ( ) visited the house in Kerala's Perambra from where the initial death was reported, and found many bats in a well from where the family took water.",
+"object": {
+"text": "many bats"
+},
+"action": {
+"verb": {
+"text": "find",
+"tense": "past"
+},
+"text": "found",
+"normalized": "find"
+}
+},
+{
+"subject": {
+"text": "the family"
+},
+"sentence": " A multi-disciplinary central team from the National Centre for Disease Control ( ) visited the house in Kerala's Perambra from where the initial death was reported, and found many bats in a well from where the family took water.",
+"object": {
+"text": "water"
+},
+"action": {
+"verb": {
+"text": "take",
+"tense": "past"
+},
+"text": "took",
+"normalized": "take"
+}
+},
+{
+"subject": {
+"text": "Some bats"
+},
+"sentence": " \u201cSome bats have been caught and have been sent for lab examination to confirm whether they are the cause of the disease or not.",
+"object": {
+"text": "caught"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "been",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "Some bats"
+},
+"sentence": " \u201cSome bats have been caught and have been sent for lab examination to confirm whether they are the cause of the disease or not.",
+"object": {
+"text": "for lab examination"
+},
+"action": {
+"verb": {
+"text": "send",
+"tense": "past"
+},
+"text": "have been sent",
+"normalized": "have be send"
+}
+},
+{
+"subject": {
+"text": "lab examination"
+},
+"sentence": " \u201cSome bats have been caught and have been sent for lab examination to confirm whether they are the cause of the disease or not.",
+"object": {
+"text": "whether they are the cause of the disease"
+},
+"action": {
+"verb": {
+"text": "confirm",
+"tense": "future"
+},
+"text": "to confirm",
+"normalized": "to confirm"
+}
+},
+{
+"subject": {
+"text": "60 different samples"
+},
+"sentence": " 60 different samples have been collected from the spot and sent for examination,\u201d the ministry said.",
+"object": {
+"text": "collected from the spot"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "been",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "60 different samples"
+},
+"sentence": " 60 different samples have been collected from the spot and sent for examination,\u201d the ministry said.",
+"object": {
+"text": "from the spot"
+},
+"action": {
+"verb": {
+"text": "collect",
+"tense": "past"
+},
+"text": "have been collected",
+"normalized": "have be collect"
+}
+},
+{
+"subject": {
+"text": "60 different samples"
+},
+"sentence": " 60 different samples have been collected from the spot and sent for examination,\u201d the ministry said.",
+"object": {
+"text": "for examination"
+},
+"action": {
+"verb": {
+"text": "send",
+"tense": "past"
+},
+"text": "sent",
+"normalized": "send"
+}
+},
+{
+"subject": {
+"text": "the ministry"
+},
+"sentence": " 60 different samples have been collected from the spot and sent for examination,\u201d the ministry said.",
+"object": {
+"text": "60 different samples have been collected from the spot and sent for examination"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "Health ministry officials"
+},
+"sentence": " Health ministry officials said the situation is under control and the NCDC team is constantly monitoring it.",
+"object": {
+"text": "the situation is under control and the NCDC team is constantly monitoring it"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "the NCDC team"
+},
+"sentence": " Health ministry officials said the situation is under control and the NCDC team is constantly monitoring it.",
+"object": {
+"text": "it"
+},
+"action": {
+"verb": {
+"text": "monitor",
+"tense": "present"
+},
+"text": "monitoring",
+"normalized": "monitor"
+}
+},
+{
+"subject": {
+"text": "The Nipah virus or NiV infection"
+},
+"sentence": " The Nipah virus or NiV infection is a newly emerging zoonosis that causes severe disease in both animals and humans.",
+"object": {
+"text": "a newly emerging zoonosis that causes severe disease in both animals and humans"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "present"
+},
+"text": "is",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "zoonosis"
+},
+"sentence": " The Nipah virus or NiV infection is a newly emerging zoonosis that causes severe disease in both animals and humans.",
+"action": {
+"verb": {
+"text": "emerge",
+"tense": "present"
+},
+"text": "emerging",
+"normalized": "emerge"
+}
+},
+{
+"subject": {
+"text": "a newly emerging zoonosis"
+},
+"sentence": " The Nipah virus or NiV infection is a newly emerging zoonosis that causes severe disease in both animals and humans.",
+"object": {
+"text": "severe disease"
+},
+"action": {
+"verb": {
+"text": "cause",
+"tense": "present"
+},
+"text": "causes",
+"normalized": "cause"
+}
+},
+{
+"subject": {
+"text": "by fruit bats"
+},
+"sentence": " The infection spread mainly by fruit bats.",
+"object": {
+"text": "The infection"
+},
+"action": {
+"verb": {
+"text": "spread",
+"tense": "past"
+},
+"text": "spread",
+"normalized": "spread"
+}
+},
+{
+"subject": {
+"text": "breathing trouble, brain swelling, fever, headache, drowsiness, disorientation and delirium"
+},
+"sentence": " Symptoms of the disease include breathing trouble, brain swelling, fever, headache, drowsiness, disorientation and delirium.",
+"object": {
+"text": "Symptoms of the disease"
+},
+"action": {
+"verb": {
+"text": "include",
+"tense": "present"
+},
+"text": "include",
+"normalized": "include"
+}
+},
+{
+"subject": {
+"text": "A patient"
+},
+"sentence": " A patient can fall into a coma within 48 hours.",
+"object": {
+"text": "into a coma"
+},
+"action": {
+"verb": {
+"text": "fall",
+"tense": "future"
+},
+"text": "can fall",
+"normalized": "can fall"
+}
+},
+{
+"subject": {
+"text": "no vaccine"
+},
+"sentence": " There is no vaccine for the virus yet, says the World Health Organisation.",
+"action": {
+"verb": {
+"text": "be",
+"tense": "present"
+},
+"text": "is",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "the World Health Organisation"
+},
+"sentence": " There is no vaccine for the virus yet, says the World Health Organisation.",
+"object": {
+"text": "There is no vaccine for the virus yet"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "present"
+},
+"text": "says",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "The main treatment for those infected"
+},
+"sentence": " The main treatment for those infected is intensive supportive care.",
+"object": {
+"text": "intensive supportive care"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "present"
+},
+"text": "is",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "the outbreak in Kerala"
+},
+"sentence": " While the outbreak in Kerala has so far claimed 10 lives, a total of nine persons are currently undergoing treatment and isolation wards have been opened in several hospitals in Kozhikode.",
+"object": {
+"text": "so far claimed 10 lives"
+},
+"action": {
+"verb": {
+"text": "have",
+"tense": "present"
+},
+"text": "has",
+"normalized": "have"
+}
+},
+{
+"subject": {
+"text": "the outbreak in Kerala"
+},
+"sentence": " While the outbreak in Kerala has so far claimed 10 lives, a total of nine persons are currently undergoing treatment and isolation wards have been opened in several hospitals in Kozhikode.",
+"object": {
+"text": "10 lives"
+},
+"action": {
+"verb": {
+"text": "claim",
+"tense": "past"
+},
+"text": "claimed",
+"normalized": "claim"
+}
+},
+{
+"subject": {
+"text": "a total of nine persons"
+},
+"sentence": " While the outbreak in Kerala has so far claimed 10 lives, a total of nine persons are currently undergoing treatment and isolation wards have been opened in several hospitals in Kozhikode.",
+"object": {
+"text": "undergoing treatment"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "present"
+},
+"text": "are",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "a total of nine persons"
+},
+"sentence": " While the outbreak in Kerala has so far claimed 10 lives, a total of nine persons are currently undergoing treatment and isolation wards have been opened in several hospitals in Kozhikode.",
+"object": {
+"text": "treatment"
+},
+"action": {
+"verb": {
+"text": "undergo",
+"tense": "present"
+},
+"text": "undergoing",
+"normalized": "undergo"
+}
+},
+{
+"subject": {
+"text": "isolation wards"
+},
+"sentence": " While the outbreak in Kerala has so far claimed 10 lives, a total of nine persons are currently undergoing treatment and isolation wards have been opened in several hospitals in Kozhikode.",
+"object": {
+"text": "opened in several hospitals"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "been",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "a total of nine persons are currently undergoing treatment and isolation wards"
+},
+"sentence": " While the outbreak in Kerala has so far claimed 10 lives, a total of nine persons are currently undergoing treatment and isolation wards have been opened in several hospitals in Kozhikode.",
+"action": {
+"verb": {
+"text": "open",
+"tense": "past"
+},
+"text": "have been opened",
+"normalized": "have be open"
+}
+},
+{
+"subject": {
+"text": "Dr Sujeet K Singh, Director, NCDC; Dr S K Jain, Head of Epidemiology, NCDC; Dr P Ravindran, Director, Emergency Medical Relief (EMR); Dr Naveen Gupta, Head of Zoonosis at NCDC; Dr Ashutosh Biswas, Professor of Internal Medicine at AIIMS; and Dr Deepak Bhattacharya, Pulmonologist at the Safdarjung Hospital"
+},
+"sentence": " The central team includes Dr Sujeet K Singh, Director, NCDC; Dr S K Jain, Head of Epidemiology, NCDC; Dr P Ravindran, Director, Emergency Medical Relief (EMR); Dr Naveen Gupta, Head of Zoonosis at NCDC; Dr Ashutosh Biswas, Professor of Internal Medicine at AIIMS; and Dr Deepak Bhattacharya, Pulmonologist at the Safdarjung Hospital.",
+"object": {
+"text": "The central team"
+},
+"action": {
+"verb": {
+"text": "include",
+"tense": "present"
+},
+"text": "includes",
+"normalized": "include"
+}
+},
+{
+"subject": {
+"text": "the team"
+},
+"sentence": " Besides, the team also has two clinicians and an expert from the animal husbandry ministry.",
+"object": {
+"text": "two clinicians and an expert from the animal husbandry ministry"
+},
+"action": {
+"verb": {
+"text": "have",
+"tense": "present"
+},
+"text": "has",
+"normalized": "have"
+}
+},
+{
+"subject": {
+"text": "The ministry"
+},
+"sentence": " The ministry has also mobilised a public health team from the NCDC's Kozhikode branch to assess the extent of the problem for risk assessment and management.",
+"object": {
+"text": "a public health team"
+},
+"action": {
+"verb": {
+"text": "mobilise",
+"tense": "past"
+},
+"text": "has also mobilised",
+"normalized": "have also mobilise"
+}
+},
+{
+"subject": {
+"text": "They"
+},
+"sentence": " \u201cThey are assisting the state-level team deployed at the epicentre.",
+"object": {
+"text": "assisting the state-level team deployed at the epicentre"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "present"
+},
+"text": "are",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "the state-level team"
+},
+"sentence": " \u201cThey are assisting the state-level team deployed at the epicentre.",
+"action": {
+"verb": {
+"text": "deploy",
+"tense": "past"
+},
+"text": "deployed",
+"normalized": "deploy"
+}
+},
+{
+"subject": {
+"text": "seven patients"
+},
+"sentence": " So far, seven patients have been admitted to the Baby Memorial Hospital and to the Government Medical College in Kozhikode, and to the Amrutha Medical College, Ernakulam,\u201d the ministry said.",
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "have been admitted",
+"normalized": "have be admit"
+}
+},
+{
+"subject": {
+"text": "seven patients"
+},
+"sentence": " So far, seven patients have been admitted to the Baby Memorial Hospital and to the Government Medical College in Kozhikode, and to the Amrutha Medical College, Ernakulam,\u201d the ministry said.",
+"object": {
+"text": "to the Baby Memorial Hospital"
+},
+"action": {
+"verb": {
+"text": "admit",
+"tense": "past"
+},
+"text": "have been admitted",
+"normalized": "have be admit"
+}
+},
+{
+"subject": {
+"text": "the ministry"
+},
+"sentence": " So far, seven patients have been admitted to the Baby Memorial Hospital and to the Government Medical College in Kozhikode, and to the Amrutha Medical College, Ernakulam,\u201d the ministry said.",
+"object": {
+"text": "So far, seven patients have been admitted to the Baby Memorial Hospital and to the Government Medical College in Kozhikode, and to the Amrutha Medical College, Ernakulam"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "Hospitals in the public and private sector"
+},
+"sentence": " Hospitals in the public and private sector have been provided with personal protective equipment and appropriate steps to contain this virus have been taken among domestic animals such as pigs.",
+"object": {
+"text": "provided with personal protective equipment and appropriate steps"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "been",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "this virus"
+},
+"sentence": " Hospitals in the public and private sector have been provided with personal protective equipment and appropriate steps to contain this virus have been taken among domestic animals such as pigs.",
+"object": {
+"text": "among domestic animals such as pigs"
+},
+"action": {
+"verb": {
+"text": "take",
+"tense": "past"
+},
+"text": "have been taken",
+"normalized": "have be take"
+}
+},
+{
+"subject": {
+"text": "the outbreak"
+},
+"sentence": " With early and efficient containment measures undertaken jointly by the health ministry and the Kerala government, the outbreak is unlikely to spread, the ministry said.",
+"object": {
+"text": "unlikely"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "present"
+},
+"text": "is",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "the ministry"
+},
+"sentence": " With early and efficient containment measures undertaken jointly by the health ministry and the Kerala government, the outbreak is unlikely to spread, the ministry said.",
+"object": {
+"text": "With early and efficient containment measures undertaken jointly by the health ministry and the Kerala government, the outbreak is unlikely to spread"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "The ministry"
+},
+"sentence": " The ministry has also directed the Virus Research Diagnostic Laboratory at Manipal Hospital and the to meet diagnostic challenges.",
+"object": {
+"text": "the Virus Research Diagnostic Laboratory"
+},
+"action": {
+"verb": {
+"text": "direct",
+"tense": "past"
+},
+"text": "has also directed",
+"normalized": "have also direct"
+}
+}
+],
+"relations": [
+{
+"type": "affectedBy",
+"sentence": "NEW DELHI: An initial investigation by a medical team sent by the Centre to probe the sudden outbreak of the deadly in Kerala suggests it is a \"localised occurrence\" and is unlikely to spread as early, the said on Tuesday urging people not to believe in rumours on social media and spread panic.",
+"score": 0.49585,
+"arguments": [
+{
+"text": "Kerala",
+"location": [
+119,
+125
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Kerala"
+}
+]
+},
+{
+"text": "outbreak",
+"location": [
+93,
+101
+],
+"entities": [
+{
+"type": "NaturalDisaster",
+"text": "outbreak"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "While the outbreak in Kerala has so far claimed 10 lives, a total of nine persons are currently undergoing treatment and isolation wards have been opened in several hospitals in Kozhikode.",
+"score": 0.486744,
+"arguments": [
+{
+"text": "outbreak",
+"location": [
+1510,
+1518
+],
+"entities": [
+{
+"type": "NaturalDisaster",
+"text": "outbreak"
+}
+]
+},
+{
+"text": "Kerala",
+"location": [
+1522,
+1528
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Kerala"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "While the outbreak in Kerala has so far claimed 10 lives, a total of nine persons are currently undergoing treatment and isolation wards have been opened in several hospitals in Kozhikode.",
+"score": 0.934291,
+"arguments": [
+{
+"text": "hospitals",
+"location": [
+1665,
+1674
+],
+"entities": [
+{
+"type": "Organization",
+"text": "hospitals",
+"disambiguation": {
+"subtype": [
+"Commercial"
+]
+}
+}
+]
+},
+{
+"text": "Kozhikode",
+"location": [
+1678,
+1687
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Kozhikode"
+}
+]
+}
+]
+},
+{
+"type": "managerOf",
+"sentence": "The central team includes Dr Sujeet K Singh, Director, NCDC; Dr S K Jain, Head of Epidemiology, NCDC; Dr P Ravindran, Director, Emergency Medical Relief (EMR); Dr Naveen Gupta, Head of Zoonosis at NCDC; Dr Ashutosh Biswas, Professor of Internal Medicine at AIIMS; and Dr Deepak Bhattacharya, Pulmonologist at the Safdarjung Hospital.",
+"score": 0.40207,
+"arguments": [
+{
+"text": "Head of Epidemiology",
+"location": [
+1763,
+1783
+],
+"entities": [
+{
+"type": "Person",
+"text": "S K Jain"
+}
+]
+},
+{
+"text": "NCDC",
+"location": [
+1785,
+1789
+],
+"entities": [
+{
+"type": "Organization",
+"text": "National Centre for Disease Control"
+}
+]
+}
+]
+},
+{
+"type": "managerOf",
+"sentence": "The central team includes Dr Sujeet K Singh, Director, NCDC; Dr S K Jain, Head of Epidemiology, NCDC; Dr P Ravindran, Director, Emergency Medical Relief (EMR); Dr Naveen Gupta, Head of Zoonosis at NCDC; Dr Ashutosh Biswas, Professor of Internal Medicine at AIIMS; and Dr Deepak Bhattacharya, Pulmonologist at the Safdarjung Hospital.",
+"score": 0.488382,
+"arguments": [
+{
+"text": "Head of Zoonosis",
+"location": [
+1866,
+1882
+],
+"entities": [
+{
+"type": "Person",
+"text": "Naveen Gupta"
+}
+]
+},
+{
+"text": "NCDC",
+"location": [
+1886,
+1890
+],
+"entities": [
+{
+"type": "Organization",
+"text": "National Centre for Disease Control"
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "The central team includes Dr Sujeet K Singh, Director, NCDC; Dr S K Jain, Head of Epidemiology, NCDC; Dr P Ravindran, Director, Emergency Medical Relief (EMR); Dr Naveen Gupta, Head of Zoonosis at NCDC; Dr Ashutosh Biswas, Professor of Internal Medicine at AIIMS; and Dr Deepak Bhattacharya, Pulmonologist at the Safdarjung Hospital.",
+"score": 0.889533,
+"arguments": [
+{
+"text": "Professor of Internal Medicine",
+"location": [
+1912,
+1942
+],
+"entities": [
+{
+"type": "Person",
+"text": "Ashutosh Biswas"
+}
+]
+},
+{
+"text": "AIIMS",
+"location": [
+1946,
+1951
+],
+"entities": [
+{
+"type": "Organization",
+"text": "AIIMS",
+"disambiguation": {
+"subtype": [
+"Commercial"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "The central team includes Dr Sujeet K Singh, Director, NCDC; Dr S K Jain, Head of Epidemiology, NCDC; Dr P Ravindran, Director, Emergency Medical Relief (EMR); Dr Naveen Gupta, Head of Zoonosis at NCDC; Dr Ashutosh Biswas, Professor of Internal Medicine at AIIMS; and Dr Deepak Bhattacharya, Pulmonologist at the Safdarjung Hospital.",
+"score": 0.59765,
+"arguments": [
+{
+"text": "Pulmonologist",
+"location": [
+1981,
+1994
+],
+"entities": [
+{
+"type": "Person",
+"text": "Deepak Bhattacharya"
+}
+]
+},
+{
+"text": "Safdarjung Hospital",
+"location": [
+2002,
+2021
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Safdarjung Hospital",
+"disambiguation": {
+"subtype": [
+"Commercial"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "Besides, the team also has two clinicians and an expert from the animal husbandry ministry.",
+"score": 0.353614,
+"arguments": [
+{
+"text": "clinicians",
+"location": [
+2054,
+2064
+],
+"entities": [
+{
+"type": "Person",
+"text": "clinicians"
+}
+]
+},
+{
+"text": "team",
+"location": [
+2036,
+2040
+],
+"entities": [
+{
+"type": "Organization",
+"text": "National Centre for Disease Control"
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "Besides, the team also has two clinicians and an expert from the animal husbandry ministry.",
+"score": 0.737134,
+"arguments": [
+{
+"text": "expert",
+"location": [
+2072,
+2078
+],
+"entities": [
+{
+"type": "Person",
+"text": "expert"
+}
+]
+},
+{
+"text": "husbandry ministry",
+"location": [
+2095,
+2113
+],
+"entities": [
+{
+"type": "Organization",
+"text": "husbandry ministry",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "So far, seven patients have been admitted to the Baby Memorial Hospital and to the Government Medical College in Kozhikode, and to the Amrutha Medical College, Ernakulam,\" the ministry said.",
+"score": 0.32823,
+"arguments": [
+{
+"text": "patients",
+"location": [
+2355,
+2363
+],
+"entities": [
+{
+"type": "Person",
+"text": "patients"
+}
+]
+},
+{
+"text": "Memorial Hospital",
+"location": [
+2395,
+2412
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Memorial Hospital",
+"disambiguation": {
+"subtype": [
+"Commercial"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "So far, seven patients have been admitted to the Baby Memorial Hospital and to the Government Medical College in Kozhikode, and to the Amrutha Medical College, Ernakulam,\" the ministry said.",
+"score": 0.512909,
+"arguments": [
+{
+"text": "Government Medical College",
+"location": [
+2424,
+2450
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Government Medical College"
+}
+]
+},
+{
+"text": "Kozhikode",
+"location": [
+2454,
+2463
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Kozhikode"
+}
+]
+}
+]
+},
+{
+"type": "timeOf",
+"sentence": "NEW DELHI: An initial investigation by a medical team sent by the Centre to probe the sudden outbreak of the deadly in Kerala suggests it is a \"localised occurrence\" and is unlikely to spread as early, the said on Tuesday urging people not to believe in rumours on social media and spread panic.",
+"score": 0.896254,
+"arguments": [
+{
+"text": "Tuesday",
+"location": [
+214,
+221
+],
+"entities": [
+{
+"type": "Date",
+"text": "Tuesday"
+}
+]
+},
+{
+"text": "said",
+"location": [
+206,
+210
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "So far, seven patients have been admitted to the Baby Memorial Hospital and to the Government Medical College in Kozhikode, and to the Amrutha Medical College, Ernakulam,\" the ministry said.",
+"score": 0.628393,
+"arguments": [
+{
+"text": "Amrutha Medical College",
+"location": [
+2476,
+2499
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Amrutha Medical College"
+}
+]
+},
+{
+"text": "Ernakulam",
+"location": [
+2501,
+2510
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Ernakulam"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "So far, seven patients have been admitted to the Baby Memorial Hospital and to the Government Medical College in Kozhikode, and to the Amrutha Medical College, Ernakulam,\" the ministry said.",
+"score": 0.960576,
+"arguments": [
+{
+"text": "ministry",
+"location": [
+2517,
+2525
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Health ministry",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+},
+{
+"text": "said",
+"location": [
+2526,
+2530
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "With early and efficient containment measures undertaken jointly by the health ministry and the Kerala government, the outbreak is unlikely to spread, the ministry said.",
+"score": 0.990609,
+"arguments": [
+{
+"text": "ministry",
+"location": [
+2881,
+2889
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Health ministry",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+},
+{
+"text": "said",
+"location": [
+2890,
+2894
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "timeOf",
+"sentence": "NEW DELHI: An initial investigation by a medical team sent by the Centre to probe the sudden outbreak of the deadly in Kerala suggests it is a \"localised occurrence\" and is unlikely to spread as early, the said on Tuesday urging people not to believe in rumours on social media and spread panic.",
+"score": 0.720895,
+"arguments": [
+{
+"text": "Tuesday",
+"location": [
+214,
+221
+],
+"entities": [
+{
+"type": "Date",
+"text": "Tuesday"
+}
+]
+},
+{
+"text": "urging",
+"location": [
+222,
+228
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "urging"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "NEW DELHI: An initial investigation by a medical team sent by the Centre to probe the sudden outbreak of the deadly in Kerala suggests it is a \"localised occurrence\" and is unlikely to spread as early, the said on Tuesday urging people not to believe in rumours on social media and spread panic.",
+"score": 0.591882,
+"arguments": [
+{
+"text": "people",
+"location": [
+229,
+235
+],
+"entities": [
+{
+"type": "Person",
+"text": "people"
+}
+]
+},
+{
+"text": "urging",
+"location": [
+222,
+228
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "urging"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "This appears to be a localised occurrence,\" the health ministry said.",
+"score": 0.959965,
+"arguments": [
+{
+"text": "health ministry",
+"location": [
+385,
+400
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Health ministry",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+},
+{
+"text": "said",
+"location": [
+401,
+405
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "60 different samples have been collected from the spot and sent for examination,\" the ministry said.",
+"score": 0.96638,
+"arguments": [
+{
+"text": "ministry",
+"location": [
+850,
+858
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Health ministry",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+},
+{
+"text": "said",
+"location": [
+859,
+863
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "A multi-disciplinary central team from the National Centre for Disease Control ( ) visited the house in Kerala's Perambra from where the initial death was reported, and found many bats in a well from where the family took water.",
+"score": 0.962206,
+"arguments": [
+{
+"text": "house",
+"location": [
+502,
+507
+],
+"entities": [
+{
+"type": "Facility",
+"text": "house"
+}
+]
+},
+{
+"text": "Kerala",
+"location": [
+511,
+517
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Kerala"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "\"Some bats have been caught and have been sent for lab examination to confirm whether they are the cause of the disease or not.",
+"score": 0.562013,
+"arguments": [
+{
+"text": "lab examination",
+"location": [
+687,
+702
+],
+"entities": [
+{
+"type": "Organization",
+"text": "lab examination",
+"disambiguation": {
+"subtype": [
+"Commercial"
+]
+}
+}
+]
+},
+{
+"text": "confirm",
+"location": [
+706,
+713
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "confirm"
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "Health ministry officials said the situation is under control and the NCDC team is constantly monitoring it.",
+"score": 0.776231,
+"arguments": [
+{
+"text": "officials",
+"location": [
+881,
+890
+],
+"entities": [
+{
+"type": "Person",
+"text": "officials"
+}
+]
+},
+{
+"text": "Health ministry",
+"location": [
+865,
+880
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Health ministry",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Health ministry officials said the situation is under control and the NCDC team is constantly monitoring it.",
+"score": 0.96889,
+"arguments": [
+{
+"text": "officials",
+"location": [
+881,
+890
+],
+"entities": [
+{
+"type": "Person",
+"text": "officials"
+}
+]
+},
+{
+"text": "said",
+"location": [
+891,
+895
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+}
+],
+"language": "en",
+"keywords": [
+{
+"text": "health ministry",
+"sentiment": {
+"score": 0.402374,
+"label": "positive"
+},
+"relevance": 0.908405,
+"emotion": {
+"sadness": 0.094749,
+"joy": 0.270022,
+"fear": 0.105581,
+"disgust": 0.106069,
+"anger": 0.131745
+}
+},
+{
+"text": "Health ministry officials",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.81128,
+"emotion": {
+"sadness": 0.122405,
+"joy": 0.232715,
+"fear": 0.153189,
+"disgust": 0.128167,
+"anger": 0.1818
+}
+},
+{
+"text": "multi-disciplinary central team",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.800074,
+"emotion": {
+"sadness": 0.32423,
+"joy": 0.047448,
+"fear": 0.106407,
+"disgust": 0.046989,
+"anger": 0.544098
+}
+},
+{
+"text": "NCDC team",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.795288,
+"emotion": {
+"sadness": 0.122405,
+"joy": 0.232715,
+"fear": 0.153189,
+"disgust": 0.128167,
+"anger": 0.1818
+}
+},
+{
+"text": "newly emerging zoonosis",
+"sentiment": {
+"score": -0.828261,
+"label": "negative"
+},
+"relevance": 0.791683,
+"emotion": {
+"sadness": 0.495242,
+"joy": 0.050479,
+"fear": 0.303364,
+"disgust": 0.26267,
+"anger": 0.072056
+}
+}
+],
+"entities": [
+{
+"type": "Location",
+"text": "Kerala",
+"sentiment": {
+"score": -0.317041,
+"label": "negative"
+},
+"relevance": 0.754248,
+"emotion": {
+"sadness": 0.325652,
+"joy": 0.162435,
+"fear": 0.143755,
+"disgust": 0.156742,
+"anger": 0.124232
+},
+"disambiguation": {
+"subtype": [
+"City"
+]
+},
+"count": 3
+},
+{
+"type": "HealthCondition",
+"text": "zoonosis",
+"sentiment": {
+"score": -0.828261,
+"label": "negative"
+},
+"relevance": 0.637378,
+"emotion": {
+"sadness": 0.471365,
+"joy": 0.055978,
+"fear": 0.304667,
+"disgust": 0.285325,
+"anger": 0.09741
+},
+"disambiguation": {
+"subtype": [
+"DiseaseOrMedicalCondition"
+],
+"name": "Zoonosis",
+"dbpedia_resource": "http://dbpedia.org/resource/Zoonosis"
+},
+"count": 3
+},
+{
+"type": "Organization",
+"text": "NCDC",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.553925,
+"emotion": {
+"sadness": 0.122405,
+"joy": 0.232715,
+"fear": 0.153189,
+"disgust": 0.128167,
+"anger": 0.1818
+},
+"count": 1
+},
+{
+"type": "Location",
+"text": "Kozhikode",
+"sentiment": {
+"score": -0.454005,
+"label": "negative"
+},
+"relevance": 0.491665,
+"emotion": {
+"sadness": 0.482669,
+"joy": 0.097889,
+"fear": 0.093557,
+"disgust": 0.36103,
+"anger": 0.22769
+},
+"disambiguation": {
+"subtype": [
+"City"
+]
+},
+"count": 2
+},
+{
+"type": "Organization",
+"text": "Kerala government",
+"sentiment": {
+"score": 0.387301,
+"label": "positive"
+},
+"relevance": 0.470952,
+"emotion": {
+"sadness": 0.061367,
+"joy": 0.209266,
+"fear": 0.056578,
+"disgust": 0.055704,
+"anger": 0.058497
+},
+"count": 1
+}
+],
+"concepts": [
+{
+"text": "Epidemiology",
+"relevance": 0.970323,
+"dbpedia_resource": "http://dbpedia.org/resource/Epidemiology"
+},
+{
+"text": "Medicine",
+"relevance": 0.833272,
+"dbpedia_resource": "http://dbpedia.org/resource/Medicine"
+},
+{
+"text": "Kerala",
+"relevance": 0.792749,
+"dbpedia_resource": "http://dbpedia.org/resource/Kerala"
+},
+{
+"text": "Hospital",
+"relevance": 0.760208,
+"dbpedia_resource": "http://dbpedia.org/resource/Hospital"
+},
+{
+"text": "Government",
+"relevance": 0.755662,
+"dbpedia_resource": "http://dbpedia.org/resource/Government"
+}
+],
+"categories": [
+{
+"score": 0.512428,
+"label": "/society/welfare/healthcare/hospital"
+},
+{
+"score": 0.451353,
+"label": "/health and fitness"
+},
+{
+"score": 0.342047,
+"label": "/health and fitness/disease"
+}
+]
+}
+}

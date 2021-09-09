@@ -1,0 +1,1778 @@
+{
+"source_article_link": "https://timesofindia.indiatimes.com/india/government-begins-steps-to-give-quota-in-promotions-after-sc-order/articleshow/64492632.cms?&utm_source=Articleshow&utm_medium=Organic&utm_campaign=Related_Stories",
+"title": "Government begins steps to give quota in promotions after SC order",
+"date_published": "2018-06-07T15:10:13+05:30",
+"source_type": "news_article",
+"source_name": "timesofindia.indiatimes.com",
+"image_link": [
+"https://timesofindia.indiatimes.com/thumb/msid-64492632,width-400,resizemode-4/64492632.jpg"
+],
+"article_body": "The Centre has initiated measures to implement quota in promotions in government jobs following an interim order of a vacation bench of the Supreme Court on Tuesday which allowed existing laws on the issue to continue till a Bench gave its verdict. The SC order vindicated the government\u2019s view that there should be reservation in promotion for Scheduled Castes and Scheduled Tribes, social justice and empowerment minister told ET on Wednesday. He said that the Modi government was clear that there was \u2018no creamy layer\u2019 among Scheduled Castes and Scheduled Tribes.  \u201cAfter the SC order, I consulted the Department of Personnel and Training as well as the law ministry to know their view on the matter. We have decided that steps will be taken to fill the vacant posts,\u201d Gehlot said. DoPT will study the matter further and come out with a circular in 3-4 days, he added.  The Nagaraj judgement in 2006 had held that it was not mandatory for the state to maintain reservations for SCs/STs in promotions and if it wished to do so, it should first gather quantifiable data to show backwardness of the communities and their inadequate representation in public employment. This verdict was challenged last year and the appeal has been referred to a Constitution Bench which is still hearing the case. The vacation bench\u2019s ruling has, however, allowed operability of existing laws on the issue.  The SC verdict was mentioned during Wednesday\u2019s Union Cabinet meeting, with food and civil supplies minister and his colleagues hailing it as a positive development. Gehlot said the SC and ST categories do not have a creamy layer as they have been given reservations on the ground that they were discriminated against for decades and faced atrocities like untouchability. The ST community lived in the most backward regions. He also said the quota in promotions is given only after ascertaining if they were under-represented.  The annual character roll of the previous years of SC/ST employees is checked before the decision to promote them is taken, he maintained. The ministry has also checked and found that there are no cases of revocation of promotion given to a personnel belonging to the SC/ST category under the quota since 1997. There were reports of existence of such cases in and other states but upon examination it was found that though the process had been initiated in some instances, no revocation was done. Gehlot said the SC order has also put to rest the charge from some quarters that the Modi government was not in favour of reservations in promotion and hence has got the issue into a legal tangle to stall the process. ",
+"description": "The Centre has initiated measures to implement quota in promotions in government jobs following an interim order of a vacation bench of the Supreme Court on Tuesday which allowed existing laws on the issue to continue till a Bench gave its verdict. The SC order vindicated the government\u2019s view that there should be reservation in promotion for Scheduled Castes and Scheduled Tribes, social justice and empowerment minister told ET on Wednesday. He said that the Modi government was clear that there was \u2018no creamy layer\u2019 among Scheduled Castes and Scheduled Tribes. ",
+"time_scraped": "2018-08-24 03:01:28.366966",
+"article_id": "64492632",
+"article_category": "IndiaNews",
+"image_details": [
+{
+"url": "https://timesofindia.indiatimes.com/thumb/msid-64492632,width-400,resizemode-4/64492632.jpg",
+"path": "full/aa0f9a3de26d04711f19cac4796458984227dee3.jpg",
+"checksum": "3e1ec1d573844c9e5bf722d8a29a85a1"
+}
+],
+"ibm_nlu": {
+"usage": {
+"text_units": 1,
+"text_characters": 2634,
+"features": 7
+},
+"sentiment": {
+"document": {
+"score": -0.173935,
+"label": "negative"
+}
+},
+"semantic_roles": [
+{
+"subject": {
+"text": "The Centre"
+},
+"sentence": "The Centre has initiated measures to implement quota in promotions in government jobs following an interim order of a vacation bench of the Supreme Court on Tuesday which allowed existing laws on the issue to continue till a Bench gave its verdict.",
+"object": {
+"text": "initiated measures to implement quota in promotions in government jobs"
+},
+"action": {
+"verb": {
+"text": "have",
+"tense": "present"
+},
+"text": "has",
+"normalized": "have"
+}
+},
+{
+"subject": {
+"text": "The Centre"
+},
+"sentence": "The Centre has initiated measures to implement quota in promotions in government jobs following an interim order of a vacation bench of the Supreme Court on Tuesday which allowed existing laws on the issue to continue till a Bench gave its verdict.",
+"object": {
+"text": "measures to implement quota in promotions in government jobs"
+},
+"action": {
+"verb": {
+"text": "initiate",
+"tense": "past"
+},
+"text": "has initiated",
+"normalized": "have initiate"
+}
+},
+{
+"subject": {
+"text": "the Supreme Court"
+},
+"sentence": "The Centre has initiated measures to implement quota in promotions in government jobs following an interim order of a vacation bench of the Supreme Court on Tuesday which allowed existing laws on the issue to continue till a Bench gave its verdict.",
+"object": {
+"text": "existing laws on the issue"
+},
+"action": {
+"verb": {
+"text": "allow",
+"tense": "past"
+},
+"text": "allowed",
+"normalized": "allow"
+}
+},
+{
+"subject": {
+"text": "existing laws on the issue to continue till a Bench"
+},
+"sentence": "The Centre has initiated measures to implement quota in promotions in government jobs following an interim order of a vacation bench of the Supreme Court on Tuesday which allowed existing laws on the issue to continue till a Bench gave its verdict.",
+"object": {
+"text": "its verdict"
+},
+"action": {
+"verb": {
+"text": "give",
+"tense": "past"
+},
+"text": "gave",
+"normalized": "give"
+}
+},
+{
+"subject": {
+"text": "The SC order"
+},
+"sentence": " The SC order vindicated the government\u2019s view that there should be reservation in promotion for Scheduled Castes and Scheduled Tribes, social justice and empowerment minister told ET on Wednesday.",
+"object": {
+"text": "the government\u2019s view that there should be reservation in promotion for Scheduled Castes and Scheduled Tribes, social justice and empowerment minister told ET on Wednesday"
+},
+"action": {
+"verb": {
+"text": "vindicate",
+"tense": "past"
+},
+"text": "vindicated",
+"normalized": "vindicate"
+}
+},
+{
+"subject": {
+"text": "the government"
+},
+"sentence": " The SC order vindicated the government\u2019s view that there should be reservation in promotion for Scheduled Castes and Scheduled Tribes, social justice and empowerment minister told ET on Wednesday.",
+"object": {
+"text": "view"
+},
+"action": {
+"verb": {
+"text": "has",
+"tense": "present"
+},
+"text": "s",
+"normalized": "s"
+}
+},
+{
+"subject": {
+"text": "reservation"
+},
+"sentence": " The SC order vindicated the government\u2019s view that there should be reservation in promotion for Scheduled Castes and Scheduled Tribes, social justice and empowerment minister told ET on Wednesday.",
+"object": {
+"text": "in promotion"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "future"
+},
+"text": "should be",
+"normalized": "should be"
+}
+},
+{
+"subject": {
+"text": "social justice and empowerment minister"
+},
+"sentence": " The SC order vindicated the government\u2019s view that there should be reservation in promotion for Scheduled Castes and Scheduled Tribes, social justice and empowerment minister told ET on Wednesday.",
+"action": {
+"verb": {
+"text": "tell",
+"tense": "past"
+},
+"text": "told",
+"normalized": "tell"
+}
+},
+{
+"subject": {
+"text": "He"
+},
+"sentence": " He said that the Modi government was clear that there was \u2018no creamy layer\u2019 among Scheduled Castes and Scheduled Tribes.",
+"object": {
+"text": "that the Modi government was clear that there was \u2018no creamy layer\u2019 among Scheduled Castes and Scheduled Tribes"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "I"
+},
+"sentence": " \u201cAfter the SC order, I consulted the Department of Personnel and Training as well as the law ministry to know their view on the matter.",
+"object": {
+"text": "the Department of Personnel"
+},
+"action": {
+"verb": {
+"text": "consult",
+"tense": "past"
+},
+"text": "consulted",
+"normalized": "consult"
+}
+},
+{
+"subject": {
+"text": "We"
+},
+"sentence": " We have decided that steps will be taken to fill the vacant posts,\u201d Gehlot said.",
+"object": {
+"text": "that steps will be taken to fill the vacant posts"
+},
+"action": {
+"verb": {
+"text": "decide",
+"tense": "past"
+},
+"text": "have decided",
+"normalized": "have decide"
+}
+},
+{
+"subject": {
+"text": "Gehlot"
+},
+"sentence": " We have decided that steps will be taken to fill the vacant posts,\u201d Gehlot said.",
+"object": {
+"text": "We have decided that steps will be taken to fill the vacant posts"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "DoPT"
+},
+"sentence": " DoPT will study the matter further and come out with a circular in 3-4 days, he added.",
+"object": {
+"text": "the matter"
+},
+"action": {
+"verb": {
+"text": "study",
+"tense": "future"
+},
+"text": "will study",
+"normalized": "will study"
+}
+},
+{
+"subject": {
+"text": "DoPT"
+},
+"sentence": " DoPT will study the matter further and come out with a circular in 3-4 days, he added.",
+"action": {
+"verb": {
+"text": "come",
+"tense": "present"
+},
+"text": "come",
+"normalized": "come"
+}
+},
+{
+"subject": {
+"text": "he"
+},
+"sentence": " DoPT will study the matter further and come out with a circular in 3-4 days, he added.",
+"object": {
+"text": "DoPT will study the matter further and come out with a circular in 3-4 days"
+},
+"action": {
+"verb": {
+"text": "add",
+"tense": "past"
+},
+"text": "added",
+"normalized": "add"
+}
+},
+{
+"subject": {
+"text": "The Nagaraj judgement"
+},
+"sentence": " The Nagaraj judgement in 2006 had held that it was not mandatory for the state to maintain reservations for SCs/STs in promotions and if it wished to do so, it should first gather quantifiable data to show backwardness of the communities and their inadequate representation in public employment.",
+"object": {
+"text": "that it was not mandatory for the state to maintain reservations for SCs/STs in promotions and if it wished to do so"
+},
+"action": {
+"verb": {
+"text": "hold",
+"tense": "past"
+},
+"text": "had held",
+"normalized": "have hold"
+}
+},
+{
+"subject": {
+"text": "it"
+},
+"sentence": " The Nagaraj judgement in 2006 had held that it was not mandatory for the state to maintain reservations for SCs/STs in promotions and if it wished to do so, it should first gather quantifiable data to show backwardness of the communities and their inadequate representation in public employment.",
+"object": {
+"text": "not mandatory for the state to maintain reservations for SCs/STs in promotions and if it wished to do so, it should first gather quantifiable data to show backwardness of the communities and their inadequate representation in public employment"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "was",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "it"
+},
+"sentence": " The Nagaraj judgement in 2006 had held that it was not mandatory for the state to maintain reservations for SCs/STs in promotions and if it wished to do so, it should first gather quantifiable data to show backwardness of the communities and their inadequate representation in public employment.",
+"object": {
+"text": "quantifiable data to show backwardness of the communities and their inadequate representation in public employment"
+},
+"action": {
+"verb": {
+"text": "gather",
+"tense": "future"
+},
+"text": "gather",
+"normalized": "gather"
+}
+},
+{
+"subject": {
+"text": "This verdict"
+},
+"sentence": " This verdict was challenged last year and the appeal has been referred to a Constitution Bench which is still hearing the case.",
+"object": {
+"text": "challenged last year"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "was",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "This verdict"
+},
+"sentence": " This verdict was challenged last year and the appeal has been referred to a Constitution Bench which is still hearing the case.",
+"action": {
+"verb": {
+"text": "challenge",
+"tense": "past"
+},
+"text": "was challenged",
+"normalized": "be challenge"
+}
+},
+{
+"subject": {
+"text": "the appeal"
+},
+"sentence": " This verdict was challenged last year and the appeal has been referred to a Constitution Bench which is still hearing the case.",
+"object": {
+"text": "referred to a Constitution Bench which is still hearing the case"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "been",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "the appeal"
+},
+"sentence": " This verdict was challenged last year and the appeal has been referred to a Constitution Bench which is still hearing the case.",
+"object": {
+"text": "to a Constitution Bench which is still hearing the case"
+},
+"action": {
+"verb": {
+"text": "refer",
+"tense": "past"
+},
+"text": "has been referred",
+"normalized": "have be refer"
+}
+},
+{
+"subject": {
+"text": "a Constitution Bench"
+},
+"sentence": " This verdict was challenged last year and the appeal has been referred to a Constitution Bench which is still hearing the case.",
+"object": {
+"text": "the case"
+},
+"action": {
+"verb": {
+"text": "hear",
+"tense": "present"
+},
+"text": "hearing",
+"normalized": "hear"
+}
+},
+{
+"subject": {
+"text": "The vacation bench"
+},
+"sentence": " The vacation bench\u2019s ruling has, however, allowed operability of existing laws on the issue.",
+"object": {
+"text": "ruling"
+},
+"action": {
+"verb": {
+"text": "has",
+"tense": "present"
+},
+"text": "s",
+"normalized": "s"
+}
+},
+{
+"subject": {
+"text": "The vacation bench\u2019s ruling"
+},
+"sentence": " The vacation bench\u2019s ruling has, however, allowed operability of existing laws on the issue.",
+"object": {
+"text": "operability of existing laws on the issue"
+},
+"action": {
+"verb": {
+"text": "allow",
+"tense": "past"
+},
+"text": "allowed",
+"normalized": "allow"
+}
+},
+{
+"subject": {
+"text": "The SC verdict"
+},
+"sentence": " The SC verdict was mentioned during Wednesday\u2019s Union Cabinet meeting, with food and civil supplies minister and his colleagues hailing it as a positive development.",
+"action": {
+"verb": {
+"text": "mention",
+"tense": "past"
+},
+"text": "was mentioned",
+"normalized": "be mention"
+}
+},
+{
+"subject": {
+"text": "his colleagues"
+},
+"sentence": " The SC verdict was mentioned during Wednesday\u2019s Union Cabinet meeting, with food and civil supplies minister and his colleagues hailing it as a positive development.",
+"object": {
+"text": "it"
+},
+"action": {
+"verb": {
+"text": "hail",
+"tense": "present"
+},
+"text": "hailing",
+"normalized": "hail"
+}
+},
+{
+"subject": {
+"text": "Gehlot"
+},
+"sentence": " Gehlot said the SC and ST categories do not have a creamy layer as they have been given reservations on the ground that they were discriminated against for decades and faced atrocities like untouchability.",
+"object": {
+"text": "the SC and ST categories do not have a creamy layer as they have been given reservations on the ground that they were discriminated against for decades and faced atrocities like untouchability"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "the SC and ST categories"
+},
+"sentence": " Gehlot said the SC and ST categories do not have a creamy layer as they have been given reservations on the ground that they were discriminated against for decades and faced atrocities like untouchability.",
+"object": {
+"text": "a creamy layer"
+},
+"action": {
+"verb": {
+"text": "have",
+"tense": "present",
+"negated": true
+},
+"text": "have",
+"normalized": "have"
+}
+},
+{
+"subject": {
+"text": "they"
+},
+"sentence": " Gehlot said the SC and ST categories do not have a creamy layer as they have been given reservations on the ground that they were discriminated against for decades and faced atrocities like untouchability.",
+"object": {
+"text": "given reservations on the ground that they were discriminated against for decades"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "been",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "they"
+},
+"sentence": " Gehlot said the SC and ST categories do not have a creamy layer as they have been given reservations on the ground that they were discriminated against for decades and faced atrocities like untouchability.",
+"object": {
+"text": "atrocities"
+},
+"action": {
+"verb": {
+"text": "face",
+"tense": "past"
+},
+"text": "faced",
+"normalized": "face"
+}
+},
+{
+"subject": {
+"text": "The ST community"
+},
+"sentence": " The ST community lived in the most backward regions.",
+"action": {
+"verb": {
+"text": "live",
+"tense": "past"
+},
+"text": "lived",
+"normalized": "live"
+}
+},
+{
+"subject": {
+"text": "He"
+},
+"sentence": " He also said the quota in promotions is given only after ascertaining if they were under-represented.",
+"object": {
+"text": "the quota in promotions is given only after ascertaining if they were under-represented"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "He"
+},
+"sentence": " He also said the quota in promotions is given only after ascertaining if they were under-represented.",
+"object": {
+"text": "if they were under-represented"
+},
+"action": {
+"verb": {
+"text": "ascertain",
+"tense": "present"
+},
+"text": "ascertaining",
+"normalized": "ascertain"
+}
+},
+{
+"subject": {
+"text": "The annual character roll of the previous years of SC/ST employees"
+},
+"sentence": " The annual character roll of the previous years of SC/ST employees is checked before the decision to promote them is taken, he maintained.",
+"object": {
+"text": "checked"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "present"
+},
+"text": "is",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "The annual character roll of the previous years of SC/ST employees"
+},
+"sentence": " The annual character roll of the previous years of SC/ST employees is checked before the decision to promote them is taken, he maintained.",
+"action": {
+"verb": {
+"text": "check",
+"tense": "past"
+},
+"text": "is checked",
+"normalized": "be check"
+}
+},
+{
+"subject": {
+"text": "SC/ST employees"
+},
+"sentence": " The annual character roll of the previous years of SC/ST employees is checked before the decision to promote them is taken, he maintained.",
+"object": {
+"text": "them"
+},
+"action": {
+"verb": {
+"text": "promote",
+"tense": "future"
+},
+"text": "to promote",
+"normalized": "to promote"
+}
+},
+{
+"subject": {
+"text": "he"
+},
+"sentence": " The annual character roll of the previous years of SC/ST employees is checked before the decision to promote them is taken, he maintained.",
+"object": {
+"text": "the decision to promote them is taken"
+},
+"action": {
+"verb": {
+"text": "maintain",
+"tense": "past"
+},
+"text": "maintained",
+"normalized": "maintain"
+}
+},
+{
+"subject": {
+"text": "The ministry"
+},
+"sentence": " The ministry has also checked and found that there are no cases of revocation of promotion given to a personnel belonging to the SC/ST category under the quota since 1997.",
+"object": {
+"text": "that there are no cases of revocation of promotion given to a personnel belonging to the SC/ST category under the quota since 1997"
+},
+"action": {
+"verb": {
+"text": "find",
+"tense": "past"
+},
+"text": "found",
+"normalized": "find"
+}
+},
+{
+"subject": {
+"text": "no revocation"
+},
+"sentence": " There were reports of existence of such cases in and other states but upon examination it was found that though the process had been initiated in some instances, no revocation was done.",
+"object": {
+"text": "done"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "was",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "the SC order"
+},
+"sentence": " Gehlot said the SC order has also put to rest the charge from some quarters that the Modi government was not in favour of reservations in promotion and hence has got the issue into a legal tangle to stall the process.",
+"object": {
+"text": "the charge"
+},
+"action": {
+"verb": {
+"text": "put",
+"tense": "past"
+},
+"text": "put",
+"normalized": "put"
+}
+},
+{
+"subject": {
+"text": "the Modi government"
+},
+"sentence": " Gehlot said the SC order has also put to rest the charge from some quarters that the Modi government was not in favour of reservations in promotion and hence has got the issue into a legal tangle to stall the process.",
+"object": {
+"text": "in favour of reservations in promotion"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "was",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "the Modi government"
+},
+"sentence": " Gehlot said the SC order has also put to rest the charge from some quarters that the Modi government was not in favour of reservations in promotion and hence has got the issue into a legal tangle to stall the process.",
+"object": {
+"text": "got the issue"
+},
+"action": {
+"verb": {
+"text": "have",
+"tense": "present"
+},
+"text": "has",
+"normalized": "have"
+}
+},
+{
+"subject": {
+"text": "the Modi government"
+},
+"sentence": " Gehlot said the SC order has also put to rest the charge from some quarters that the Modi government was not in favour of reservations in promotion and hence has got the issue into a legal tangle to stall the process.",
+"object": {
+"text": "the issue"
+},
+"action": {
+"verb": {
+"text": "get",
+"tense": "past"
+},
+"text": "has got",
+"normalized": "have get"
+}
+},
+{
+"subject": {
+"text": "the Modi government"
+},
+"sentence": " Gehlot said the SC order has also put to rest the charge from some quarters that the Modi government was not in favour of reservations in promotion and hence has got the issue into a legal tangle to stall the process.",
+"object": {
+"text": "the process"
+},
+"action": {
+"verb": {
+"text": "stall",
+"tense": "future"
+},
+"text": "to stall",
+"normalized": "to stall"
+}
+}
+],
+"relations": [
+{
+"type": "agentOf",
+"sentence": "The SC order vindicated the government's view that there should be reservation in promotion for Scheduled Castes and Scheduled Tribes, social justice and empowerment minister told ET on Wednesday.",
+"score": 0.911512,
+"arguments": [
+{
+"text": "minister",
+"location": [
+415,
+423
+],
+"entities": [
+{
+"type": "Person",
+"text": "Gehlot"
+}
+]
+},
+{
+"text": "told",
+"location": [
+424,
+428
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "told"
+}
+]
+}
+]
+},
+{
+"type": "participantIn",
+"sentence": "This verdict was challenged last year and the appeal has been referred to a Constitution Bench which is still hearing the case.",
+"score": 0.392217,
+"arguments": [
+{
+"text": "which",
+"location": [
+1264,
+1269
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Union Cabinet"
+}
+]
+},
+{
+"text": "case",
+"location": [
+1291,
+1295
+],
+"entities": [
+{
+"type": "EventLegal",
+"text": "verdict"
+}
+]
+}
+]
+},
+{
+"type": "timeOf",
+"sentence": "The SC verdict was mentioned during Wednesday's Union Cabinet meeting, with food and civil supplies minister and his colleagues hailing it as a positive development.",
+"score": 0.604668,
+"arguments": [
+{
+"text": "Wednesday",
+"location": [
+1427,
+1436
+],
+"entities": [
+{
+"type": "Date",
+"text": "Wednesday"
+}
+]
+},
+{
+"text": "verdict",
+"location": [
+1398,
+1405
+],
+"entities": [
+{
+"type": "EventLegal",
+"text": "verdict"
+}
+]
+}
+]
+},
+{
+"type": "timeOf",
+"sentence": "The SC verdict was mentioned during Wednesday's Union Cabinet meeting, with food and civil supplies minister and his colleagues hailing it as a positive development.",
+"score": 0.544329,
+"arguments": [
+{
+"text": "Wednesday",
+"location": [
+1427,
+1436
+],
+"entities": [
+{
+"type": "Date",
+"text": "Wednesday"
+}
+]
+},
+{
+"text": "mentioned",
+"location": [
+1410,
+1419
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "mentioned"
+}
+]
+}
+]
+},
+{
+"type": "partOf",
+"sentence": "The SC verdict was mentioned during Wednesday's Union Cabinet meeting, with food and civil supplies minister and his colleagues hailing it as a positive development.",
+"score": 0.737448,
+"arguments": [
+{
+"text": "mentioned",
+"location": [
+1410,
+1419
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "mentioned"
+}
+]
+},
+{
+"text": "meeting",
+"location": [
+1453,
+1460
+],
+"entities": [
+{
+"type": "EventMeeting",
+"text": "meeting"
+}
+]
+}
+]
+},
+{
+"type": "timeOf",
+"sentence": "The SC verdict was mentioned during Wednesday's Union Cabinet meeting, with food and civil supplies minister and his colleagues hailing it as a positive development.",
+"score": 0.682831,
+"arguments": [
+{
+"text": "Wednesday",
+"location": [
+1427,
+1436
+],
+"entities": [
+{
+"type": "Date",
+"text": "Wednesday"
+}
+]
+},
+{
+"text": "meeting",
+"location": [
+1453,
+1460
+],
+"entities": [
+{
+"type": "EventMeeting",
+"text": "meeting"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "The SC verdict was mentioned during Wednesday's Union Cabinet meeting, with food and civil supplies minister and his colleagues hailing it as a positive development.",
+"score": 0.564128,
+"arguments": [
+{
+"text": "Union Cabinet",
+"location": [
+1439,
+1452
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Union Cabinet"
+}
+]
+},
+{
+"text": "meeting",
+"location": [
+1453,
+1460
+],
+"entities": [
+{
+"type": "EventMeeting",
+"text": "meeting"
+}
+]
+}
+]
+},
+{
+"type": "colleague",
+"sentence": "The SC verdict was mentioned during Wednesday's Union Cabinet meeting, with food and civil supplies minister and his colleagues hailing it as a positive development.",
+"score": 0.399394,
+"arguments": [
+{
+"text": "his",
+"location": [
+1504,
+1507
+],
+"entities": [
+{
+"type": "Person",
+"text": "Gehlot"
+}
+]
+},
+{
+"text": "colleagues",
+"location": [
+1508,
+1518
+],
+"entities": [
+{
+"type": "Person",
+"text": "colleagues"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Gehlot said the SC and ST categories do not have a creamy layer as they have been given reservations on the ground that they were discriminated against for decades and faced atrocities like untouchability.",
+"score": 0.997339,
+"arguments": [
+{
+"text": "Gehlot",
+"location": [
+1557,
+1563
+],
+"entities": [
+{
+"type": "Person",
+"text": "Gehlot"
+}
+]
+},
+{
+"text": "said",
+"location": [
+1564,
+1568
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "He also said the quota in promotions is given only after ascertaining if they were under-represented.",
+"score": 0.937192,
+"arguments": [
+{
+"text": "He",
+"location": [
+1816,
+1818
+],
+"entities": [
+{
+"type": "Person",
+"text": "Gehlot"
+}
+]
+},
+{
+"text": "said",
+"location": [
+1824,
+1828
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "partOfMany",
+"sentence": "The annual character roll of the previous years of SC/ST employees is checked before the decision to promote them is taken, he maintained.",
+"score": 0.412057,
+"arguments": [
+{
+"text": "he",
+"location": [
+2043,
+2045
+],
+"entities": [
+{
+"type": "Person",
+"text": "Gehlot"
+}
+]
+},
+{
+"text": "them",
+"location": [
+2028,
+2032
+],
+"entities": [
+{
+"type": "Person",
+"text": "employees"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Gehlot said the SC order has also put to rest the charge from some quarters that the Modi government was not in favour of reservations in promotion and hence has got the issue into a legal tangle to stall the process.",
+"score": 0.998525,
+"arguments": [
+{
+"text": "Gehlot",
+"location": [
+2416,
+2422
+],
+"entities": [
+{
+"type": "Person",
+"text": "Gehlot"
+}
+]
+},
+{
+"text": "said",
+"location": [
+2423,
+2427
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "The SC order vindicated the government's view that there should be reservation in promotion for Scheduled Castes and Scheduled Tribes, social justice and empowerment minister told ET on Wednesday.",
+"score": 0.970042,
+"arguments": [
+{
+"text": "ET",
+"location": [
+429,
+431
+],
+"entities": [
+{
+"type": "Organization",
+"text": "ET",
+"disambiguation": {
+"subtype": [
+"Commercial"
+]
+}
+}
+]
+},
+{
+"text": "told",
+"location": [
+424,
+428
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "told"
+}
+]
+}
+]
+},
+{
+"type": "timeOf",
+"sentence": "The SC order vindicated the government's view that there should be reservation in promotion for Scheduled Castes and Scheduled Tribes, social justice and empowerment minister told ET on Wednesday.",
+"score": 0.986068,
+"arguments": [
+{
+"text": "Wednesday",
+"location": [
+435,
+444
+],
+"entities": [
+{
+"type": "Date",
+"text": "Wednesday"
+}
+]
+},
+{
+"text": "told",
+"location": [
+424,
+428
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "told"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "He said that the Modi government was clear that there was \u02bbno creamy layer' among Scheduled Castes and Scheduled Tribes.",
+"score": 0.974818,
+"arguments": [
+{
+"text": "He",
+"location": [
+446,
+448
+],
+"entities": [
+{
+"type": "Person",
+"text": "Gehlot"
+}
+]
+},
+{
+"text": "said",
+"location": [
+449,
+453
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "added"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "We have decided that steps will be taken to fill the vacant posts,\" Gehlot said.",
+"score": 0.994786,
+"arguments": [
+{
+"text": "Gehlot",
+"location": [
+772,
+778
+],
+"entities": [
+{
+"type": "Person",
+"text": "Gehlot"
+}
+]
+},
+{
+"text": "said",
+"location": [
+779,
+783
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "added"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "DoPT will study the matter further and come out with a circular in 3-4 days, he added.",
+"score": 0.980909,
+"arguments": [
+{
+"text": "he",
+"location": [
+862,
+864
+],
+"entities": [
+{
+"type": "Person",
+"text": "Gehlot"
+}
+]
+},
+{
+"text": "added",
+"location": [
+865,
+870
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "added"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "\"After the SC order, I consulted the Department of Personnel and Training as well as the law ministry to know their view on the matter.",
+"score": 0.978226,
+"arguments": [
+{
+"text": "I",
+"location": [
+589,
+590
+],
+"entities": [
+{
+"type": "Person",
+"text": "Gehlot"
+}
+]
+},
+{
+"text": "consulted",
+"location": [
+591,
+600
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "consulted"
+}
+]
+}
+]
+},
+{
+"type": "partOfMany",
+"sentence": "\"After the SC order, I consulted the Department of Personnel and Training as well as the law ministry to know their view on the matter.",
+"score": 0.531057,
+"arguments": [
+{
+"text": "I",
+"location": [
+589,
+590
+],
+"entities": [
+{
+"type": "Person",
+"text": "Gehlot"
+}
+]
+},
+{
+"text": "their",
+"location": [
+678,
+683
+],
+"entities": [
+{
+"type": "Person",
+"text": "their"
+}
+]
+}
+]
+},
+{
+"type": "partOfMany",
+"sentence": "We have decided that steps will be taken to fill the vacant posts,\" Gehlot said.",
+"score": 0.790322,
+"arguments": [
+{
+"text": "Gehlot",
+"location": [
+772,
+778
+],
+"entities": [
+{
+"type": "Person",
+"text": "Gehlot"
+}
+]
+},
+{
+"text": "We",
+"location": [
+704,
+706
+],
+"entities": [
+{
+"type": "Person",
+"text": "their"
+}
+]
+}
+]
+},
+{
+"type": "partOfMany",
+"sentence": "He also said the quota in promotions is given only after ascertaining if they were under-represented.",
+"score": 0.637207,
+"arguments": [
+{
+"text": "He",
+"location": [
+1816,
+1818
+],
+"entities": [
+{
+"type": "Person",
+"text": "Gehlot"
+}
+]
+},
+{
+"text": "they",
+"location": [
+1889,
+1893
+],
+"entities": [
+{
+"type": "Person",
+"text": "their"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "\"After the SC order, I consulted the Department of Personnel and Training as well as the law ministry to know their view on the matter.",
+"score": 0.49656,
+"arguments": [
+{
+"text": "ministry",
+"location": [
+661,
+669
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Department of Personnel",
+"disambiguation": {
+"subtype": [
+"Government"
+]
+}
+}
+]
+},
+{
+"text": "consulted",
+"location": [
+591,
+600
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "consulted"
+}
+]
+}
+]
+},
+{
+"type": "timeOf",
+"sentence": "This verdict was challenged last year and the appeal has been referred to a Constitution Bench which is still hearing the case.",
+"score": 0.5512,
+"arguments": [
+{
+"text": "last year",
+"location": [
+1197,
+1206
+],
+"entities": [
+{
+"type": "Date",
+"text": "last year"
+}
+]
+},
+{
+"text": "verdict",
+"location": [
+1174,
+1181
+],
+"entities": [
+{
+"type": "EventLegal",
+"text": "verdict"
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "This verdict was challenged last year and the appeal has been referred to a Constitution Bench which is still hearing the case.",
+"score": 0.715819,
+"arguments": [
+{
+"text": "Bench",
+"location": [
+1258,
+1263
+],
+"entities": [
+{
+"type": "Person",
+"text": "Bench"
+}
+]
+},
+{
+"text": "which",
+"location": [
+1264,
+1269
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Union Cabinet"
+}
+]
+}
+]
+}
+],
+"language": "en",
+"keywords": [
+{
+"text": "SC order",
+"sentiment": {
+"score": -0.354686,
+"label": "negative"
+},
+"relevance": 0.980093,
+"emotion": {
+"sadness": 0.112392,
+"joy": 0.017716,
+"fear": 0.013019,
+"disgust": 0.060296,
+"anger": 0.155255
+}
+},
+{
+"text": "vacation bench",
+"sentiment": {
+"score": 0.453742,
+"label": "positive"
+},
+"relevance": 0.797207,
+"emotion": {
+"sadness": 0.180671,
+"joy": 0.07419,
+"fear": 0.050442,
+"disgust": 0.114929,
+"anger": 0.21399
+}
+},
+{
+"text": "Scheduled Tribes",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.792329,
+"emotion": {
+"sadness": 0.085036,
+"joy": 0.081525,
+"fear": 0.021285,
+"disgust": 0.012651,
+"anger": 0.055871
+}
+},
+{
+"text": "creamy layer",
+"sentiment": {
+"score": -0.759043,
+"label": "negative"
+},
+"relevance": 0.783257,
+"emotion": {
+"sadness": 0.161346,
+"joy": 0.049978,
+"fear": 0.104092,
+"disgust": 0.161916,
+"anger": 0.117818
+}
+},
+{
+"text": "Scheduled Castes",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.781345,
+"emotion": {
+"sadness": 0.085036,
+"joy": 0.081525,
+"fear": 0.021285,
+"disgust": 0.012651,
+"anger": 0.055871
+}
+}
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Modi government",
+"sentiment": {
+"score": -0.354686,
+"label": "negative"
+},
+"relevance": 0.830505,
+"emotion": {
+"sadness": 0.183783,
+"joy": 0.015086,
+"fear": 0.039687,
+"disgust": 0.13268,
+"anger": 0.291219
+},
+"count": 2
+},
+{
+"type": "Person",
+"text": "Gehlot",
+"sentiment": {
+"score": -0.556864,
+"label": "negative"
+},
+"relevance": 0.80243,
+"emotion": {
+"sadness": 0.298179,
+"joy": 0.033218,
+"fear": 0.019421,
+"disgust": 0.08574,
+"anger": 0.112134
+},
+"count": 5
+},
+{
+"type": "Organization",
+"text": "SC",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.63094,
+"emotion": {
+"sadness": 0.025765,
+"joy": 0.031067,
+"fear": 0.010337,
+"disgust": 0.017352,
+"anger": 0.02396
+},
+"count": 1
+},
+{
+"type": "Organization",
+"text": "Supreme Court",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.52992,
+"emotion": {
+"sadness": 0.180671,
+"joy": 0.07419,
+"fear": 0.050442,
+"disgust": 0.114929,
+"anger": 0.21399
+},
+"count": 1
+}
+],
+"concepts": [
+{
+"text": "Government",
+"relevance": 0.940317,
+"dbpedia_resource": "http://dbpedia.org/resource/Government"
+},
+{
+"text": "Law",
+"relevance": 0.918515,
+"dbpedia_resource": "http://dbpedia.org/resource/Law"
+},
+{
+"text": "Dalit",
+"relevance": 0.906785,
+"dbpedia_resource": "http://dbpedia.org/resource/Dalit"
+},
+{
+"text": "Indian caste system",
+"relevance": 0.90425,
+"dbpedia_resource": "http://dbpedia.org/resource/Indian_caste_system"
+},
+{
+"text": "Scheduled castes and scheduled tribes",
+"relevance": 0.8811,
+"dbpedia_resource": "http://dbpedia.org/resource/Scheduled_castes_and_scheduled_tribes"
+}
+],
+"categories": [
+{
+"score": 0.568085,
+"label": "/law, govt and politics/government"
+},
+{
+"score": 0.446578,
+"label": "/law, govt and politics"
+},
+{
+"score": 0.277251,
+"label": "/home and garden"
+}
+]
+}
+}

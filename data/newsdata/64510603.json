@@ -1,0 +1,2121 @@
+{
+"source_article_link": "https://timesofindia.indiatimes.com/india/no-review-of-indias-stand-on-china-pak-corridor-nirmala-sitharaman/articleshow/64510603.cms?&utm_source=Articleshow&utm_medium=Organic&utm_campaign=Related_Stories",
+"title": "No review of India's stand on China-Pak corridor: Nirmala Sitharaman",
+"date_published": "2018-06-08T18:57:15+05:30",
+"source_type": "news_article",
+"source_name": "timesofindia.indiatimes.com",
+"image_link": [
+"https://timesofindia.indiatimes.com/thumb/msid-64510879,imgsize-123810,width-400,resizemode-4/64510879.jpg"
+],
+"article_body": "CHENNAI: India does not view its relations with China through the prism of China-Pakistan ties, defence minister said on Friday, but ruled out the possibility of New Delhi reviewing its stand on CPEC project, a major irritant in Sino-Indian relationship. She also said New Delhi is alert to the economic assistance provided by China to India's neighbours and ramifications it could have for the country. \"One thing I want to assure here ... we do not view our relations with China through the prism of China-Pakistan relations,\" the minister told an event to mark the 10th anniversary of 'Chennai Centre for China Studies' here. Sitharaman brought up the issue of China-Pakistan Economic Corridor (CPEC), and made it clear that India will not \"entertain any thought\" of reviewing its stand on it, as it concerned its sovereignty. \"It is an issue of sovereignty, and we shall not entertain any thought (other than the stated Indian position) on that matter,\" she said. The CPEC comprises a bunch of projects aimed at upgrading infrastructure in Pakistan and strengthening the economic ties between the two countries. The corridor will link Gwadar in south-western Pakistan to China's Xinjiang province, and would pass through Pakistan-occupied-Kashmir, a territory India claims as its own. \"The kind of economic assistance being extended to many of our neighbours are all very clearly impacting the economies there, probably helping to bond a relationship with those countries. \"As a result, even a strategic presence could be enabled. I see a linkage. This is something which I think all of us, you (Chennai Centre for China Studies) as a think tank, and we as a government, constantly be alert to and understand its ramifications,\" she said. Sitharaman said Pakistani military was becoming increasingly dependent on the Chinese for arms and equipment. \"The focus of the reforms is therefore evidently moving towards the PLA (People's Liberation Army) Navy, PLA Airforce and PLA Rocket Forces as opposed to erstwhile emphasis on just the PLA,\" she said. Noting that a \"fundamental reorientation\" of the China-Pakistan relations was not likely, the minister said last month's informal summit meeting between Prime Minister and Chinese President was not just a \"one-off\" thing and that the two nations will \"immensely benefit\" from it. \"No doubt, in the long term, the relationship between India and China will immensely benefit from this engagement,\" she said. Sitharaman said she was in China in April this year with external affairs minister Sushma Swaraj for the 's (SCO) foreign and defence ministers' meet where India made a pitch for a greater interactive forum. \"And for that we should have definitely a hotline between India and China,\" she said. The hotline, she said, would reduce the time consumed in reaching the empowered decision makers in times of confrontation at the ground level. \"We have certainly underlined the fact that the border personnel meet, flag officer meet can all happen. But we need to have a better hotline that would easily help us in being ready for a (conflict) resolution in a short time,\" she said.",
+"description": "Sitharaman brought up the issue of CPEC and made it clear that India will not \"entertain any thought\" of reviewing its stand on it, as it concerned its sovereignty India does not view our relations with China through the prism of China-Pakistan relations: Nirmala Sitharaman",
+"time_scraped": "2018-08-24 00:00:48.664012",
+"article_id": "64510603",
+"article_category": "IndiaNews",
+"image_details": [
+{
+"url": "https://timesofindia.indiatimes.com/thumb/msid-64510879,imgsize-123810,width-400,resizemode-4/64510879.jpg",
+"path": "full/ae78d80b9433a36de88ab8ab4e89bcac3c9f9178.jpg",
+"checksum": "a226d0fa53e3cca2cbcffa2520f7a971"
+}
+],
+"ibm_nlu": {
+"usage": {
+"text_units": 1,
+"text_characters": 3135,
+"features": 7
+},
+"sentiment": {
+"document": {
+"score": 0.461357,
+"label": "positive"
+}
+},
+"semantic_roles": [
+{
+"subject": {
+"text": "India"
+},
+"sentence": "CHENNAI: India does not view its relations with China through the prism of China-Pakistan ties, defence minister said on Friday, but ruled out the possibility of New Delhi reviewing its stand on CPEC project, a major irritant in Sino-Indian relationship.",
+"object": {
+"text": "its relations"
+},
+"action": {
+"verb": {
+"text": "view",
+"tense": "present",
+"negated": true
+},
+"text": "view",
+"normalized": "view"
+}
+},
+{
+"subject": {
+"text": "defence minister"
+},
+"sentence": "CHENNAI: India does not view its relations with China through the prism of China-Pakistan ties, defence minister said on Friday, but ruled out the possibility of New Delhi reviewing its stand on CPEC project, a major irritant in Sino-Indian relationship.",
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "CHENNAI: India"
+},
+"sentence": "CHENNAI: India does not view its relations with China through the prism of China-Pakistan ties, defence minister said on Friday, but ruled out the possibility of New Delhi reviewing its stand on CPEC project, a major irritant in Sino-Indian relationship.",
+"object": {
+"text": "the possibility of New Delhi reviewing its stand on CPEC project, a major irritant in Sino-Indian relationship"
+},
+"action": {
+"verb": {
+"text": "rule",
+"tense": "past"
+},
+"text": "ruled",
+"normalized": "rule"
+}
+},
+{
+"subject": {
+"text": "She"
+},
+"sentence": " She also said New Delhi is alert to the economic assistance provided by China to India's neighbours and ramifications it could have for the country.",
+"object": {
+"text": "New Delhi is alert to the economic assistance provided by China to India's neighbours and ramifications it could have for the country"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "by China to India's neighbours and ramifications it"
+},
+"sentence": " She also said New Delhi is alert to the economic assistance provided by China to India's neighbours and ramifications it could have for the country.",
+"object": {
+"text": "the economic assistance"
+},
+"action": {
+"verb": {
+"text": "provide",
+"tense": "past"
+},
+"text": "provided",
+"normalized": "provide"
+}
+},
+{
+"subject": {
+"text": "I"
+},
+"sentence": " \"One thing I want to assure here ... we do not view our relations with China through the prism of China-Pakistan relations,\" the minister told an event to mark the 10th anniversary of 'Chennai Centre for China Studies' here.",
+"object": {
+"text": "One thing"
+},
+"action": {
+"verb": {
+"text": "assure",
+"tense": "future"
+},
+"text": "want to assure",
+"normalized": "want to assure"
+}
+},
+{
+"subject": {
+"text": "we"
+},
+"sentence": " \"One thing I want to assure here ... we do not view our relations with China through the prism of China-Pakistan relations,\" the minister told an event to mark the 10th anniversary of 'Chennai Centre for China Studies' here.",
+"action": {
+"verb": {
+"text": "do",
+"tense": "present"
+},
+"text": "do not view",
+"normalized": "do not view"
+}
+},
+{
+"subject": {
+"text": "we"
+},
+"sentence": " \"One thing I want to assure here ... we do not view our relations with China through the prism of China-Pakistan relations,\" the minister told an event to mark the 10th anniversary of 'Chennai Centre for China Studies' here.",
+"object": {
+"text": "our relations"
+},
+"action": {
+"verb": {
+"text": "view",
+"tense": "present",
+"negated": true
+},
+"text": "view",
+"normalized": "view"
+}
+},
+{
+"subject": {
+"text": "the minister"
+},
+"sentence": " \"One thing I want to assure here ... we do not view our relations with China through the prism of China-Pakistan relations,\" the minister told an event to mark the 10th anniversary of 'Chennai Centre for China Studies' here.",
+"object": {
+"text": "the 10th anniversary of 'Chennai Centre for China Studies' here"
+},
+"action": {
+"verb": {
+"text": "mark",
+"tense": "future"
+},
+"text": "to mark",
+"normalized": "to mark"
+}
+},
+{
+"subject": {
+"text": "Sitharaman"
+},
+"sentence": " Sitharaman brought up the issue of China-Pakistan Economic Corridor (CPEC), and made it clear that India will not \"entertain any thought\" of reviewing its stand on it, as it concerned its sovereignty.",
+"object": {
+"text": "the issue of China-Pakistan Economic Corridor (CPEC)"
+},
+"action": {
+"verb": {
+"text": "bring",
+"tense": "past"
+},
+"text": "brought",
+"normalized": "bring"
+}
+},
+{
+"subject": {
+"text": "Sitharaman"
+},
+"sentence": " Sitharaman brought up the issue of China-Pakistan Economic Corridor (CPEC), and made it clear that India will not \"entertain any thought\" of reviewing its stand on it, as it concerned its sovereignty.",
+"object": {
+"text": "it"
+},
+"action": {
+"verb": {
+"text": "make",
+"tense": "past"
+},
+"text": "made",
+"normalized": "make"
+}
+},
+{
+"subject": {
+"text": "India"
+},
+"sentence": " Sitharaman brought up the issue of China-Pakistan Economic Corridor (CPEC), and made it clear that India will not \"entertain any thought\" of reviewing its stand on it, as it concerned its sovereignty.",
+"object": {
+"text": "any thought"
+},
+"action": {
+"verb": {
+"text": "entertain",
+"tense": "future",
+"negated": true
+},
+"text": "entertain",
+"normalized": "entertain"
+}
+},
+{
+"subject": {
+"text": "India"
+},
+"sentence": " Sitharaman brought up the issue of China-Pakistan Economic Corridor (CPEC), and made it clear that India will not \"entertain any thought\" of reviewing its stand on it, as it concerned its sovereignty.",
+"object": {
+"text": "its stand on it"
+},
+"action": {
+"verb": {
+"text": "review",
+"tense": "future"
+},
+"text": "reviewing",
+"normalized": "review"
+}
+},
+{
+"subject": {
+"text": "it"
+},
+"sentence": " Sitharaman brought up the issue of China-Pakistan Economic Corridor (CPEC), and made it clear that India will not \"entertain any thought\" of reviewing its stand on it, as it concerned its sovereignty.",
+"object": {
+"text": "its sovereignty"
+},
+"action": {
+"verb": {
+"text": "concern",
+"tense": "past"
+},
+"text": "concerned",
+"normalized": "concern"
+}
+},
+{
+"subject": {
+"text": "we"
+},
+"sentence": " \"It is an issue of sovereignty, and we shall not entertain any thought (other than the stated Indian position) on that matter,\" she said.",
+"object": {
+"text": "any thought (other than the stated Indian position)"
+},
+"action": {
+"verb": {
+"text": "entertain",
+"tense": "future",
+"negated": true
+},
+"text": "entertain",
+"normalized": "entertain"
+}
+},
+{
+"subject": {
+"text": "she"
+},
+"sentence": " \"It is an issue of sovereignty, and we shall not entertain any thought (other than the stated Indian position) on that matter,\" she said.",
+"object": {
+"text": "It is an issue of sovereignty, and we shall not entertain any thought (other than the stated Indian position) on that matter"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "The CPEC"
+},
+"sentence": " The CPEC comprises a bunch of projects aimed at upgrading infrastructure in Pakistan and strengthening the economic ties between the two countries.",
+"object": {
+"text": "a bunch of projects aimed at upgrading infrastructure in Pakistan and strengthening the economic ties between the two countries"
+},
+"action": {
+"verb": {
+"text": "comprise",
+"tense": "present"
+},
+"text": "comprises",
+"normalized": "comprise"
+}
+},
+{
+"subject": {
+"text": "projects"
+},
+"sentence": " The CPEC comprises a bunch of projects aimed at upgrading infrastructure in Pakistan and strengthening the economic ties between the two countries.",
+"object": {
+"text": "infrastructure"
+},
+"action": {
+"verb": {
+"text": "upgrade",
+"tense": "future"
+},
+"text": "upgrading",
+"normalized": "upgrade"
+}
+},
+{
+"subject": {
+"text": "a territory India"
+},
+"sentence": " The corridor will link Gwadar in south-western Pakistan to China's Xinjiang province, and would pass through Pakistan-occupied-Kashmir, a territory India claims as its own.",
+"object": {
+"text": "as its own"
+},
+"action": {
+"verb": {
+"text": "claim",
+"tense": "present"
+},
+"text": "claims",
+"normalized": "claim"
+}
+},
+{
+"subject": {
+"text": "The kind of economic assistance"
+},
+"sentence": " \"The kind of economic assistance being extended to many of our neighbours are all very clearly impacting the economies there, probably helping to bond a relationship with those countries.",
+"object": {
+"text": "extended"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "present"
+},
+"text": "being",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "The kind of economic assistance"
+},
+"sentence": " \"The kind of economic assistance being extended to many of our neighbours are all very clearly impacting the economies there, probably helping to bond a relationship with those countries.",
+"object": {
+"text": "to many of our neighbours"
+},
+"action": {
+"verb": {
+"text": "extend",
+"tense": "past"
+},
+"text": "being extended",
+"normalized": "be extend"
+}
+},
+{
+"subject": {
+"text": "The kind of economic assistance being extended to many of our neighbours"
+},
+"sentence": " \"The kind of economic assistance being extended to many of our neighbours are all very clearly impacting the economies there, probably helping to bond a relationship with those countries.",
+"object": {
+"text": "all very clearly impacting the economies there"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "present"
+},
+"text": "are",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "The kind of economic assistance being extended to many of our neighbours"
+},
+"sentence": " \"The kind of economic assistance being extended to many of our neighbours are all very clearly impacting the economies there, probably helping to bond a relationship with those countries.",
+"object": {
+"text": "the economies"
+},
+"action": {
+"verb": {
+"text": "impact",
+"tense": "present"
+},
+"text": "impacting",
+"normalized": "impact"
+}
+},
+{
+"subject": {
+"text": "I"
+},
+"sentence": " I see a linkage.",
+"object": {
+"text": "a linkage"
+},
+"action": {
+"verb": {
+"text": "see",
+"tense": "present"
+},
+"text": "see",
+"normalized": "see"
+}
+},
+{
+"subject": {
+"text": "This"
+},
+"sentence": " This is something which I think all of us, you (Chennai Centre for China Studies) as a think tank, and we as a government, constantly be alert to and understand its ramifications,\" she said.",
+"object": {
+"text": "something which I think all of us"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "present"
+},
+"text": "is",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "she"
+},
+"sentence": " This is something which I think all of us, you (Chennai Centre for China Studies) as a think tank, and we as a government, constantly be alert to and understand its ramifications,\" she said.",
+"object": {
+"text": "as a think tank, and we as a government, constantly be alert to and understand its ramifications"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "Sitharaman"
+},
+"sentence": " Sitharaman said Pakistani military was becoming increasingly dependent on the Chinese for arms and equipment.",
+"object": {
+"text": "Pakistani military was becoming increasingly dependent on the Chinese for arms and equipment"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "The focus of the reforms"
+},
+"sentence": " \"The focus of the reforms is therefore evidently moving towards the PLA (People's Liberation Army) Navy, PLA Airforce and PLA Rocket Forces as opposed to erstwhile emphasis on just the PLA,\" she said.",
+"object": {
+"text": "therefore evidently moving towards the PLA"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "present"
+},
+"text": "is",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "the reforms"
+},
+"sentence": " \"The focus of the reforms is therefore evidently moving towards the PLA (People's Liberation Army) Navy, PLA Airforce and PLA Rocket Forces as opposed to erstwhile emphasis on just the PLA,\" she said.",
+"object": {
+"text": "towards the PLA (People's Liberation Army) Navy, PLA Airforce and PLA Rocket Forces"
+},
+"action": {
+"verb": {
+"text": "move",
+"tense": "present"
+},
+"text": "evidently moving",
+"normalized": "evidently move"
+}
+},
+{
+"subject": {
+"text": "People's Liberation Army) Navy, PLA Airforce and PLA Rocket Forces"
+},
+"sentence": " \"The focus of the reforms is therefore evidently moving towards the PLA (People's Liberation Army) Navy, PLA Airforce and PLA Rocket Forces as opposed to erstwhile emphasis on just the PLA,\" she said.",
+"object": {
+"text": "to erstwhile emphasis on just the PLA"
+},
+"action": {
+"verb": {
+"text": "oppose",
+"tense": "past"
+},
+"text": "opposed",
+"normalized": "oppose"
+}
+},
+{
+"subject": {
+"text": "emphasis"
+},
+"sentence": " \"The focus of the reforms is therefore evidently moving towards the PLA (People's Liberation Army) Navy, PLA Airforce and PLA Rocket Forces as opposed to erstwhile emphasis on just the PLA,\" she said.",
+"action": {
+"verb": {
+"text": "erstwhile",
+"tense": "future"
+},
+"text": "to erstwhile",
+"normalized": "to erstwhile"
+}
+},
+{
+"subject": {
+"text": "she"
+},
+"sentence": " \"The focus of the reforms is therefore evidently moving towards the PLA (People's Liberation Army) Navy, PLA Airforce and PLA Rocket Forces as opposed to erstwhile emphasis on just the PLA,\" she said.",
+"object": {
+"text": "to erstwhile emphasis on just the PLA"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "the minister"
+},
+"sentence": " Noting that a \"fundamental reorientation\" of the China-Pakistan relations was not likely, the minister said last month's informal summit meeting between Prime Minister and Chinese President was not just a \"one-off\" thing and that the two nations will \"immensely benefit\" from it.",
+"object": {
+"text": "that a \"fundamental reorientation\" of the China-Pakistan relations was not likely"
+},
+"action": {
+"verb": {
+"text": "Noting",
+"tense": "present"
+},
+"text": "Noting",
+"normalized": "Noting"
+}
+},
+{
+"subject": {
+"text": "the minister"
+},
+"sentence": " Noting that a \"fundamental reorientation\" of the China-Pakistan relations was not likely, the minister said last month's informal summit meeting between Prime Minister and Chinese President was not just a \"one-off\" thing and that the two nations will \"immensely benefit\" from it.",
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "from this engagement"
+},
+"sentence": " \"No doubt, in the long term, the relationship between India and China will immensely benefit from this engagement,\" she said.",
+"object": {
+"text": "the relationship between India and China"
+},
+"action": {
+"verb": {
+"text": "benefit",
+"tense": "future"
+},
+"text": "benefit",
+"normalized": "benefit"
+}
+},
+{
+"subject": {
+"text": "she"
+},
+"sentence": " \"No doubt, in the long term, the relationship between India and China will immensely benefit from this engagement,\" she said.",
+"object": {
+"text": "in the long term, the relationship between India and China will immensely benefit from this engagement"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "she"
+},
+"sentence": " Sitharaman said she was in China in April this year with external affairs minister Sushma Swaraj for the 's (SCO) foreign and defence ministers' meet where India made a pitch for a greater interactive forum.",
+"object": {
+"text": "in China"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "was",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "India"
+},
+"sentence": " Sitharaman said she was in China in April this year with external affairs minister Sushma Swaraj for the 's (SCO) foreign and defence ministers' meet where India made a pitch for a greater interactive forum.",
+"object": {
+"text": "a pitch"
+},
+"action": {
+"verb": {
+"text": "make",
+"tense": "past"
+},
+"text": "made",
+"normalized": "make"
+}
+},
+{
+"subject": {
+"text": "we"
+},
+"sentence": " \"And for that we should have definitely a hotline between India and China,\" she said.",
+"object": {
+"text": "definitely a hotline between India and China"
+},
+"action": {
+"verb": {
+"text": "have",
+"tense": "future"
+},
+"text": "should have",
+"normalized": "should have"
+}
+},
+{
+"subject": {
+"text": "she"
+},
+"sentence": " \"And for that we should have definitely a hotline between India and China,\" she said.",
+"object": {
+"text": "for that we should have definitely a hotline between India and China"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "she"
+},
+"sentence": " The hotline, she said, would reduce the time consumed in reaching the empowered decision makers in times of confrontation at the ground level.",
+"object": {
+"text": "The hotline"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "The hotline"
+},
+"sentence": " The hotline, she said, would reduce the time consumed in reaching the empowered decision makers in times of confrontation at the ground level.",
+"object": {
+"text": "the time"
+},
+"action": {
+"verb": {
+"text": "reduce",
+"tense": "future"
+},
+"text": "would reduce",
+"normalized": "would reduce"
+}
+},
+{
+"subject": {
+"text": "makers"
+},
+"sentence": " The hotline, she said, would reduce the time consumed in reaching the empowered decision makers in times of confrontation at the ground level.",
+"object": {
+"text": "decision"
+},
+"action": {
+"verb": {
+"text": "empower",
+"tense": "past"
+},
+"text": "empowered",
+"normalized": "empower"
+}
+},
+{
+"subject": {
+"text": "We"
+},
+"sentence": " \"We have certainly underlined the fact that the border personnel meet, flag officer meet can all happen.",
+"object": {
+"text": "the fact that the border personnel meet, flag officer meet can all happen"
+},
+"action": {
+"verb": {
+"text": "underline",
+"tense": "past"
+},
+"text": "have certainly underlined",
+"normalized": "have certainly underline"
+}
+},
+{
+"subject": {
+"text": "we"
+},
+"sentence": " But we need to have a better hotline that would easily help us in being ready for a (conflict) resolution in a short time,\" she said.",
+"object": {
+"text": "to have a better hotline that would easily help us in being ready for a (conflict) resolution in a short time"
+},
+"action": {
+"verb": {
+"text": "need",
+"tense": "present"
+},
+"text": "need",
+"normalized": "need"
+}
+},
+{
+"subject": {
+"text": "we"
+},
+"sentence": " But we need to have a better hotline that would easily help us in being ready for a (conflict) resolution in a short time,\" she said.",
+"object": {
+"text": "a better hotline that would easily help us in being ready for a (conflict) resolution in a short time"
+},
+"action": {
+"verb": {
+"text": "have",
+"tense": "future"
+},
+"text": "need to have",
+"normalized": "need to have"
+}
+},
+{
+"subject": {
+"text": "a better hotline"
+},
+"sentence": " But we need to have a better hotline that would easily help us in being ready for a (conflict) resolution in a short time,\" she said.",
+"object": {
+"text": "us"
+},
+"action": {
+"verb": {
+"text": "help",
+"tense": "future"
+},
+"text": "help",
+"normalized": "help"
+}
+},
+{
+"subject": {
+"text": "she"
+},
+"sentence": " But we need to have a better hotline that would easily help us in being ready for a (conflict) resolution in a short time,\" she said.",
+"object": {
+"text": "But we need to have a better hotline that would easily help us in being ready for a (conflict) resolution in a short time"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+}
+],
+"relations": [
+{
+"type": "locatedAt",
+"sentence": "CHENNAI: India does not view its relations with China through the prism of China-Pakistan ties, defence minister said on Friday, but ruled out the possibility of New Delhi reviewing its stand on CPEC project, a major irritant in Sino-Indian relationship.",
+"score": 0.795959,
+"arguments": [
+{
+"text": "CHENNAI",
+"location": [
+0,
+7
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Chennai Centre"
+}
+]
+},
+{
+"text": "India",
+"location": [
+9,
+14
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "India",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "partOf",
+"sentence": "Sitharaman said Pakistani military was becoming increasingly dependent on the Chinese for arms and equipment.",
+"score": 0.996009,
+"arguments": [
+{
+"text": "military",
+"location": [
+1769,
+1777
+],
+"entities": [
+{
+"type": "Organization",
+"text": "military",
+"disambiguation": {
+"subtype": [
+"Military"
+]
+}
+}
+]
+},
+{
+"text": "Pakistani",
+"location": [
+1759,
+1768
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Pakistani",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "partOf",
+"sentence": "\"The focus of the reforms is therefore evidently moving towards the PLA (People's Liberation Army) Navy, PLA Airforce and PLA Rocket Forces as opposed to erstwhile emphasis on just the PLA,\" she said.",
+"score": 0.418282,
+"arguments": [
+{
+"text": "Navy",
+"location": [
+1952,
+1956
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Navy",
+"disambiguation": {
+"subtype": [
+"Military"
+]
+}
+}
+]
+},
+{
+"text": "People's Liberation Army",
+"location": [
+1926,
+1950
+],
+"entities": [
+{
+"type": "Organization",
+"text": "People's Liberation Army",
+"disambiguation": {
+"subtype": [
+"Commercial"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Noting that a \"fundamental reorientation\" of the China-Pakistan relations was not likely, the minister said last month's informal summit meeting between Prime Minister and Chinese President was not just a \"one-off\" thing and that the two nations will \"immensely benefit\" from it.",
+"score": 0.981341,
+"arguments": [
+{
+"text": "minister",
+"location": [
+2148,
+2156
+],
+"entities": [
+{
+"type": "Person",
+"text": "defence minister"
+}
+]
+},
+{
+"text": "said",
+"location": [
+2157,
+2161
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "\"No doubt, in the long term, the relationship between India and China will immensely benefit from this engagement,\" she said.",
+"score": 0.986098,
+"arguments": [
+{
+"text": "she",
+"location": [
+2450,
+2453
+],
+"entities": [
+{
+"type": "Person",
+"text": "defence minister"
+}
+]
+},
+{
+"text": "said",
+"location": [
+2454,
+2458
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "\"And for that we should have definitely a hotline between India and China,\" she said.",
+"score": 0.9836,
+"arguments": [
+{
+"text": "she",
+"location": [
+2744,
+2747
+],
+"entities": [
+{
+"type": "Person",
+"text": "defence minister"
+}
+]
+},
+{
+"text": "said",
+"location": [
+2748,
+2752
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "The hotline, she said, would reduce the time consumed in reaching the empowered decision makers in times of confrontation at the ground level.",
+"score": 0.991441,
+"arguments": [
+{
+"text": "she",
+"location": [
+2767,
+2770
+],
+"entities": [
+{
+"type": "Person",
+"text": "defence minister"
+}
+]
+},
+{
+"text": "said",
+"location": [
+2771,
+2775
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "But we need to have a better hotline that would easily help us in being ready for a (conflict) resolution in a short time,\" she said.",
+"score": 0.986098,
+"arguments": [
+{
+"text": "she",
+"location": [
+3126,
+3129
+],
+"entities": [
+{
+"type": "Person",
+"text": "defence minister"
+}
+]
+},
+{
+"text": "said",
+"location": [
+3130,
+3134
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "timeOf",
+"sentence": "Noting that a \"fundamental reorientation\" of the China-Pakistan relations was not likely, the minister said last month's informal summit meeting between Prime Minister and Chinese President was not just a \"one-off\" thing and that the two nations will \"immensely benefit\" from it.",
+"score": 0.84733,
+"arguments": [
+{
+"text": "last month",
+"location": [
+2162,
+2172
+],
+"entities": [
+{
+"type": "Date",
+"text": "last month"
+}
+]
+},
+{
+"text": "summit meeting",
+"location": [
+2184,
+2198
+],
+"entities": [
+{
+"type": "EventMeeting",
+"text": "summit meeting"
+}
+]
+}
+]
+},
+{
+"type": "participantIn",
+"sentence": "Noting that a \"fundamental reorientation\" of the China-Pakistan relations was not likely, the minister said last month's informal summit meeting between Prime Minister and Chinese President was not just a \"one-off\" thing and that the two nations will \"immensely benefit\" from it.",
+"score": 0.954345,
+"arguments": [
+{
+"text": "Prime Minister",
+"location": [
+2207,
+2221
+],
+"entities": [
+{
+"type": "Person",
+"text": "Prime Minister"
+}
+]
+},
+{
+"text": "summit meeting",
+"location": [
+2184,
+2198
+],
+"entities": [
+{
+"type": "EventMeeting",
+"text": "summit meeting"
+}
+]
+}
+]
+},
+{
+"type": "participantIn",
+"sentence": "Noting that a \"fundamental reorientation\" of the China-Pakistan relations was not likely, the minister said last month's informal summit meeting between Prime Minister and Chinese President was not just a \"one-off\" thing and that the two nations will \"immensely benefit\" from it.",
+"score": 0.508517,
+"arguments": [
+{
+"text": "Chinese",
+"location": [
+2226,
+2233
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Chinese",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+},
+{
+"text": "summit meeting",
+"location": [
+2184,
+2198
+],
+"entities": [
+{
+"type": "EventMeeting",
+"text": "summit meeting"
+}
+]
+}
+]
+},
+{
+"type": "participantIn",
+"sentence": "Noting that a \"fundamental reorientation\" of the China-Pakistan relations was not likely, the minister said last month's informal summit meeting between Prime Minister and Chinese President was not just a \"one-off\" thing and that the two nations will \"immensely benefit\" from it.",
+"score": 0.673621,
+"arguments": [
+{
+"text": "President",
+"location": [
+2234,
+2243
+],
+"entities": [
+{
+"type": "Person",
+"text": "President"
+}
+]
+},
+{
+"text": "summit meeting",
+"location": [
+2184,
+2198
+],
+"entities": [
+{
+"type": "EventMeeting",
+"text": "summit meeting"
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "Noting that a \"fundamental reorientation\" of the China-Pakistan relations was not likely, the minister said last month's informal summit meeting between Prime Minister and Chinese President was not just a \"one-off\" thing and that the two nations will \"immensely benefit\" from it.",
+"score": 0.822849,
+"arguments": [
+{
+"text": "President",
+"location": [
+2234,
+2243
+],
+"entities": [
+{
+"type": "Person",
+"text": "President"
+}
+]
+},
+{
+"text": "Chinese",
+"location": [
+2226,
+2233
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Chinese",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "Sitharaman said she was in China in April this year with external affairs minister Sushma Swaraj for the 's (SCO) foreign and defence ministers' meet where India made a pitch for a greater interactive forum.",
+"score": 0.655995,
+"arguments": [
+{
+"text": "she",
+"location": [
+2476,
+2479
+],
+"entities": [
+{
+"type": "Person",
+"text": "defence minister"
+}
+]
+},
+{
+"text": "China",
+"location": [
+2487,
+2492
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Chinese",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "\"We have certainly underlined the fact that the border personnel meet, flag officer meet can all happen.",
+"score": 0.43883,
+"arguments": [
+{
+"text": "personnel",
+"location": [
+2952,
+2961
+],
+"entities": [
+{
+"type": "Person",
+"text": "personnel"
+}
+]
+},
+{
+"text": "border",
+"location": [
+2945,
+2951
+],
+"entities": [
+{
+"type": "Location",
+"text": "border"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "CHENNAI: India does not view its relations with China through the prism of China-Pakistan ties, defence minister said on Friday, but ruled out the possibility of New Delhi reviewing its stand on CPEC project, a major irritant in Sino-Indian relationship.",
+"score": 0.986738,
+"arguments": [
+{
+"text": "defence minister",
+"location": [
+96,
+112
+],
+"entities": [
+{
+"type": "Person",
+"text": "defence minister"
+}
+]
+},
+{
+"text": "said",
+"location": [
+113,
+117
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "assure"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "She also said New Delhi is alert to the economic assistance provided by China to India's neighbours and ramifications it could have for the country.",
+"score": 0.916636,
+"arguments": [
+{
+"text": "She",
+"location": [
+255,
+258
+],
+"entities": [
+{
+"type": "Person",
+"text": "defence minister"
+}
+]
+},
+{
+"text": "said",
+"location": [
+264,
+268
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "assure"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "\"One thing I want to assure here ... we do not view our relations with China through the prism of China-Pakistan relations,\" the minister told an event to mark the 10th anniversary of 'Chennai Centre for China Studies' here.",
+"score": 0.670894,
+"arguments": [
+{
+"text": "I",
+"location": [
+415,
+416
+],
+"entities": [
+{
+"type": "Person",
+"text": "defence minister"
+}
+]
+},
+{
+"text": "assure",
+"location": [
+425,
+431
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "assure"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "\"One thing I want to assure here ... we do not view our relations with China through the prism of China-Pakistan relations,\" the minister told an event to mark the 10th anniversary of 'Chennai Centre for China Studies' here.",
+"score": 0.965468,
+"arguments": [
+{
+"text": "minister",
+"location": [
+533,
+541
+],
+"entities": [
+{
+"type": "Person",
+"text": "defence minister"
+}
+]
+},
+{
+"text": "told",
+"location": [
+542,
+546
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "assure"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "\"It is an issue of sovereignty, and we shall not entertain any thought (other than the stated Indian position) on that matter,\" she said.",
+"score": 0.986098,
+"arguments": [
+{
+"text": "she",
+"location": [
+958,
+961
+],
+"entities": [
+{
+"type": "Person",
+"text": "defence minister"
+}
+]
+},
+{
+"text": "said",
+"location": [
+962,
+966
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "assure"
+}
+]
+}
+]
+},
+{
+"type": "participantIn",
+"sentence": "\"We have certainly underlined the fact that the border personnel meet, flag officer meet can all happen.",
+"score": 0.600704,
+"arguments": [
+{
+"text": "officer",
+"location": [
+2973,
+2980
+],
+"entities": [
+{
+"type": "Person",
+"text": "officer"
+}
+]
+},
+{
+"text": "meet",
+"location": [
+2981,
+2985
+],
+"entities": [
+{
+"type": "EventMeeting",
+"text": "meet"
+}
+]
+}
+]
+},
+{
+"type": "timeOf",
+"sentence": "CHENNAI: India does not view its relations with China through the prism of China-Pakistan ties, defence minister said on Friday, but ruled out the possibility of New Delhi reviewing its stand on CPEC project, a major irritant in Sino-Indian relationship.",
+"score": 0.984454,
+"arguments": [
+{
+"text": "Friday",
+"location": [
+121,
+127
+],
+"entities": [
+{
+"type": "Date",
+"text": "Friday"
+}
+]
+},
+{
+"text": "said",
+"location": [
+113,
+117
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "assure"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "\"One thing I want to assure here ... we do not view our relations with China through the prism of China-Pakistan relations,\" the minister told an event to mark the 10th anniversary of 'Chennai Centre for China Studies' here.",
+"score": 0.65923,
+"arguments": [
+{
+"text": "Chennai Centre",
+"location": [
+589,
+603
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Chennai Centre"
+}
+]
+},
+{
+"text": "China",
+"location": [
+608,
+613
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Chinese",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "The corridor will link Gwadar in south-western Pakistan to China's Xinjiang province, and would pass through Pakistan-occupied-Kashmir, a territory India claims as its own.",
+"score": 0.867509,
+"arguments": [
+{
+"text": "territory",
+"location": [
+1254,
+1263
+],
+"entities": [
+{
+"type": "Location",
+"text": "territory"
+}
+]
+},
+{
+"text": "India",
+"location": [
+1264,
+1269
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "India",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "residesIn",
+"sentence": "This is something which I think all of us, you (Chennai Centre for China Studies) as a think tank, and we as a government, constantly be alert to and understand its ramifications,\" she said.",
+"score": 0.894677,
+"arguments": [
+{
+"text": "you",
+"location": [
+1595,
+1598
+],
+"entities": [
+{
+"type": "Person",
+"text": "she"
+}
+]
+},
+{
+"text": "Chennai Centre",
+"location": [
+1600,
+1614
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Chennai Centre"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "This is something which I think all of us, you (Chennai Centre for China Studies) as a think tank, and we as a government, constantly be alert to and understand its ramifications,\" she said.",
+"score": 0.652112,
+"arguments": [
+{
+"text": "Chennai Centre",
+"location": [
+1600,
+1614
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Chennai Centre"
+}
+]
+},
+{
+"text": "China",
+"location": [
+1619,
+1624
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Chinese",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "This is something which I think all of us, you (Chennai Centre for China Studies) as a think tank, and we as a government, constantly be alert to and understand its ramifications,\" she said.",
+"score": 0.992391,
+"arguments": [
+{
+"text": "she",
+"location": [
+1733,
+1736
+],
+"entities": [
+{
+"type": "Person",
+"text": "she"
+}
+]
+},
+{
+"text": "said",
+"location": [
+1737,
+1741
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "\"The focus of the reforms is therefore evidently moving towards the PLA (People's Liberation Army) Navy, PLA Airforce and PLA Rocket Forces as opposed to erstwhile emphasis on just the PLA,\" she said.",
+"score": 0.98065,
+"arguments": [
+{
+"text": "she",
+"location": [
+2044,
+2047
+],
+"entities": [
+{
+"type": "Person",
+"text": "she"
+}
+]
+},
+{
+"text": "said",
+"location": [
+2048,
+2052
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Sitharaman said Pakistani military was becoming increasingly dependent on the Chinese for arms and equipment.",
+"score": 0.996852,
+"arguments": [
+{
+"text": "Sitharaman",
+"location": [
+1743,
+1753
+],
+"entities": [
+{
+"type": "Person",
+"text": "Sitharaman"
+}
+]
+},
+{
+"text": "said",
+"location": [
+1754,
+1758
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Sitharaman said she was in China in April this year with external affairs minister Sushma Swaraj for the 's (SCO) foreign and defence ministers' meet where India made a pitch for a greater interactive forum.",
+"score": 0.993944,
+"arguments": [
+{
+"text": "Sitharaman",
+"location": [
+2460,
+2470
+],
+"entities": [
+{
+"type": "Person",
+"text": "Sitharaman"
+}
+]
+},
+{
+"text": "said",
+"location": [
+2471,
+2475
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+}
+],
+"language": "en",
+"keywords": [
+{
+"text": "New Delhi",
+"sentiment": {
+"score": 0.497161,
+"label": "positive"
+},
+"relevance": 0.913318,
+"emotion": {
+"sadness": 0.028278,
+"joy": 0.535319,
+"fear": 0.150597,
+"disgust": 0.060961,
+"anger": 0.01581
+}
+},
+{
+"text": "PLA Rocket Forces",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.910493,
+"emotion": {
+"sadness": 0.278219,
+"joy": 0.052764,
+"fear": 0.240427,
+"disgust": 0.153937,
+"anger": 0.358133
+}
+},
+{
+"text": "economic assistance",
+"sentiment": {
+"score": 0.669191,
+"label": "positive"
+},
+"relevance": 0.906466,
+"emotion": {
+"sadness": 0.08885,
+"joy": 0.295266,
+"fear": 0.321449,
+"disgust": 0.090137,
+"anger": 0.022777
+}
+},
+{
+"text": "minister Sushma Swaraj",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.898566,
+"emotion": {
+"sadness": 0.337254,
+"joy": 0.38337,
+"fear": 0.106989,
+"disgust": 0.142484,
+"anger": 0.039594
+}
+},
+{
+"text": "China-Pakistan Economic Corridor",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.896796,
+"emotion": {
+"sadness": 0.211135,
+"joy": 0.197731,
+"fear": 0.131871,
+"disgust": 0.055342,
+"anger": 0.067539
+}
+}
+],
+"entities": [
+{
+"type": "Location",
+"text": "China",
+"sentiment": {
+"score": 0.457727,
+"label": "positive"
+},
+"relevance": 0.796166,
+"emotion": {
+"sadness": 0.219633,
+"joy": 0.497749,
+"fear": 0.119646,
+"disgust": 0.064621,
+"anger": 0.063045
+},
+"disambiguation": {
+"subtype": [
+"Region",
+"AdministrativeDivision",
+"GovernmentalJurisdiction",
+"Kingdom",
+"FilmScreeningVenue",
+"Country"
+],
+"name": "China",
+"dbpedia_resource": "http://dbpedia.org/resource/China"
+},
+"count": 8
+},
+{
+"type": "Location",
+"text": "India",
+"sentiment": {
+"score": 0.255148,
+"label": "positive"
+},
+"relevance": 0.700347,
+"emotion": {
+"sadness": 0.143973,
+"joy": 0.606602,
+"fear": 0.096053,
+"disgust": 0.07524,
+"anger": 0.082854
+},
+"disambiguation": {
+"subtype": [
+"HumanLanguage",
+"Region",
+"GovernmentalJurisdiction",
+"FilmEditor",
+"Country"
+],
+"name": "India",
+"dbpedia_resource": "http://dbpedia.org/resource/India"
+},
+"count": 7
+},
+{
+"type": "Facility",
+"text": "China-Pakistan Economic Corridor",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.45451,
+"emotion": {
+"sadness": 0.365292,
+"joy": 0.169673,
+"fear": 0.136897,
+"disgust": 0.035484,
+"anger": 0.034098
+},
+"count": 2
+},
+{
+"type": "Organization",
+"text": "Chennai Centre for China Studies",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.453033,
+"emotion": {
+"sadness": 0.349646,
+"joy": 0.257037,
+"fear": 0.142299,
+"disgust": 0.04495,
+"anger": 0.148286
+},
+"count": 1
+},
+{
+"type": "Person",
+"text": "Sitharaman",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.389212,
+"emotion": {
+"sadness": 0.254372,
+"joy": 0.261837,
+"fear": 0.108601,
+"disgust": 0.098369,
+"anger": 0.038452
+},
+"count": 6
+}
+],
+"concepts": [
+{
+"text": "People's Liberation Army",
+"relevance": 0.957478,
+"dbpedia_resource": "http://dbpedia.org/resource/People's_Liberation_Army"
+},
+{
+"text": "Xinjiang",
+"relevance": 0.63592,
+"dbpedia_resource": "http://dbpedia.org/resource/Xinjiang"
+},
+{
+"text": "Pakistan",
+"relevance": 0.606225,
+"dbpedia_resource": "http://dbpedia.org/resource/Pakistan"
+},
+{
+"text": "Sino-Indian War",
+"relevance": 0.554333,
+"dbpedia_resource": "http://dbpedia.org/resource/Sino-Indian_War"
+},
+{
+"text": "People's Republic of China",
+"relevance": 0.535036,
+"dbpedia_resource": "http://dbpedia.org/resource/People's_Republic_of_China"
+}
+],
+"categories": [
+{
+"score": 0.433466,
+"label": "/law, govt and politics/government"
+},
+{
+"score": 0.369825,
+"label": "/health and fitness/incest and abuse support"
+},
+{
+"score": 0.358101,
+"label": "/law, govt and politics/armed forces/navy"
+}
+]
+}
+}

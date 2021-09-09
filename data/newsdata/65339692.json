@@ -1,0 +1,1164 @@
+{
+"source_article_link": "https://timesofindia.indiatimes.com/india/indian-family-offloaded-suresh-prabhu-asks-dgca-to-seek-detailed-report-from-british-airways/articleshow/65339692.cms?&utm_source=Articleshow&utm_medium=Organic&utm_campaign=Related_Stories",
+"title": "Indian family offloaded: Suresh Prabhu asks DGCA to seek detailed report from British Airways",
+"date_published": "2018-08-09T18:33:54+05:30",
+"source_type": "news_article",
+"source_name": "timesofindia.indiatimes.com",
+"image_link": [
+"https://timesofindia.indiatimes.com/thumb/msid-65339747,imgsize-34507,width-400,resizemode-4/65339747.jpg"
+],
+"article_body": "NEW DELHI: The government has ordered a thorough probe into which had recently offloaded an Indian family as their three-year-old son was crying. Aviation minister Tweeted, saying he had directed DGCA to get a detailed report from BA on this issue.   The action came after TOI reported on Thursday morning about an Indian bureaucrat's family being taken off London City-Berlin flight on July 23 allegedly because their three-year-old son was crying during taxi to the runway. The plane returned to the terminal and the family was offloaded. BA has said it takes \"claims like this extremely seriously and does not tolerate discrimination of any kind. We have started a full investigation and are in direct contact with the customer.\u201d The bureaucrat who faced this issue has complained to Prabhu, who on Thursday asked DGCA to get a detailed report from BA. The passenger blamed an allegedly rude cabin crew member for scaring the kid which led him to crying inconsolably.",
+"description": "Indian family was off-loaded from BA's London-Berlin flight as their three-year-old son was crying Aviation minister Suresh Prabhu said he has directed DGCA to seek detailed report from airline",
+"time_scraped": "2018-08-24 18:00:50.585147",
+"article_id": "65339692",
+"article_category": "IndiaNews",
+"image_details": [
+{
+"url": "https://timesofindia.indiatimes.com/thumb/msid-65339747,imgsize-34507,width-400,resizemode-4/65339747.jpg",
+"path": "full/3c5087ecc07d8075ee2269750e7656faeb6d1422.jpg",
+"checksum": "05d16c4a554225713a5a7a9903942ca4"
+}
+],
+"ibm_nlu": {
+"usage": {
+"text_units": 1,
+"text_characters": 970,
+"features": 7
+},
+"sentiment": {
+"document": {
+"score": -0.570402,
+"label": "negative"
+}
+},
+"semantic_roles": [
+{
+"subject": {
+"text": "The government"
+},
+"sentence": "NEW DELHI: The government has ordered a thorough probe into which had recently offloaded an Indian family as their three-year-old son was crying.",
+"object": {
+"text": "ordered a thorough probe into which had recently offloaded an Indian family as their three-year-old son was crying"
+},
+"action": {
+"verb": {
+"text": "have",
+"tense": "present"
+},
+"text": "has",
+"normalized": "have"
+}
+},
+{
+"subject": {
+"text": "The government"
+},
+"sentence": "NEW DELHI: The government has ordered a thorough probe into which had recently offloaded an Indian family as their three-year-old son was crying.",
+"object": {
+"text": "a thorough probe"
+},
+"action": {
+"verb": {
+"text": "order",
+"tense": "past"
+},
+"text": "has ordered",
+"normalized": "have order"
+}
+},
+{
+"subject": {
+"text": "a thorough probe"
+},
+"sentence": "NEW DELHI: The government has ordered a thorough probe into which had recently offloaded an Indian family as their three-year-old son was crying.",
+"object": {
+"text": "recently offloaded an Indian family"
+},
+"action": {
+"verb": {
+"text": "have",
+"tense": "past"
+},
+"text": "had",
+"normalized": "have"
+}
+},
+{
+"subject": {
+"text": "a thorough probe"
+},
+"sentence": "NEW DELHI: The government has ordered a thorough probe into which had recently offloaded an Indian family as their three-year-old son was crying.",
+"object": {
+"text": "an Indian family"
+},
+"action": {
+"verb": {
+"text": "offload",
+"tense": "past"
+},
+"text": "offloaded",
+"normalized": "offload"
+}
+},
+{
+"subject": {
+"text": "Aviation minister Tweeted"
+},
+"sentence": " Aviation minister Tweeted, saying he had directed DGCA to get a detailed report from BA on this issue.",
+"object": {
+"text": "he had directed DGCA to get a detailed report from BA on this issue"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "present"
+},
+"text": "saying",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "The action"
+},
+"sentence": " The action came after TOI reported on Thursday morning about an Indian bureaucrat's family being taken off London City-Berlin flight on July 23 allegedly because their three-year-old son was crying during taxi to the runway.",
+"action": {
+"verb": {
+"text": "come",
+"tense": "past"
+},
+"text": "came",
+"normalized": "come"
+}
+},
+{
+"subject": {
+"text": "TOI"
+},
+"sentence": " The action came after TOI reported on Thursday morning about an Indian bureaucrat's family being taken off London City-Berlin flight on July 23 allegedly because their three-year-old son was crying during taxi to the runway.",
+"action": {
+"verb": {
+"text": "report",
+"tense": "past"
+},
+"text": "reported",
+"normalized": "report"
+}
+},
+{
+"subject": {
+"text": "their three-year-old son"
+},
+"sentence": " The action came after TOI reported on Thursday morning about an Indian bureaucrat's family being taken off London City-Berlin flight on July 23 allegedly because their three-year-old son was crying during taxi to the runway.",
+"action": {
+"verb": {
+"text": "cry",
+"tense": "past"
+},
+"text": "was crying",
+"normalized": "be cry"
+}
+},
+{
+"subject": {
+"text": "BA"
+},
+"sentence": " BA has said it takes \"claims like this extremely seriously and does not tolerate discrimination of any kind.",
+"object": {
+"text": "it takes \"claims like this extremely seriously and does not tolerate discrimination of any kind"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "has said",
+"normalized": "have say"
+}
+},
+{
+"subject": {
+"text": "it"
+},
+"sentence": " BA has said it takes \"claims like this extremely seriously and does not tolerate discrimination of any kind.",
+"object": {
+"text": "claims like this"
+},
+"action": {
+"verb": {
+"text": "take",
+"tense": "present"
+},
+"text": "takes",
+"normalized": "take"
+}
+},
+{
+"subject": {
+"text": "We"
+},
+"sentence": " We have started a full investigation and are in direct contact with the customer.\u201d The bureaucrat who faced this issue has complained to Prabhu, who on Thursday asked DGCA to get a detailed report from BA.",
+"object": {
+"text": "started a full investigation"
+},
+"action": {
+"verb": {
+"text": "have",
+"tense": "present"
+},
+"text": "have",
+"normalized": "have"
+}
+},
+{
+"subject": {
+"text": "We"
+},
+"sentence": " We have started a full investigation and are in direct contact with the customer.\u201d The bureaucrat who faced this issue has complained to Prabhu, who on Thursday asked DGCA to get a detailed report from BA.",
+"object": {
+"text": "a full investigation"
+},
+"action": {
+"verb": {
+"text": "start",
+"tense": "past"
+},
+"text": "have started",
+"normalized": "have start"
+}
+},
+{
+"subject": {
+"text": "The bureaucrat"
+},
+"sentence": " We have started a full investigation and are in direct contact with the customer.\u201d The bureaucrat who faced this issue has complained to Prabhu, who on Thursday asked DGCA to get a detailed report from BA.",
+"object": {
+"text": "this issue"
+},
+"action": {
+"verb": {
+"text": "face",
+"tense": "past"
+},
+"text": "faced",
+"normalized": "face"
+}
+},
+{
+"subject": {
+"text": "The bureaucrat who faced this issue"
+},
+"sentence": " We have started a full investigation and are in direct contact with the customer.\u201d The bureaucrat who faced this issue has complained to Prabhu, who on Thursday asked DGCA to get a detailed report from BA.",
+"object": {
+"text": "complained"
+},
+"action": {
+"verb": {
+"text": "have",
+"tense": "present"
+},
+"text": "has",
+"normalized": "have"
+}
+},
+{
+"subject": {
+"text": "Prabhu"
+},
+"sentence": " We have started a full investigation and are in direct contact with the customer.\u201d The bureaucrat who faced this issue has complained to Prabhu, who on Thursday asked DGCA to get a detailed report from BA.",
+"object": {
+"text": "to get a detailed report from BA"
+},
+"action": {
+"verb": {
+"text": "ask",
+"tense": "past"
+},
+"text": "asked",
+"normalized": "ask"
+}
+},
+{
+"subject": {
+"text": "The passenger"
+},
+"sentence": " The passenger blamed an allegedly rude cabin crew member for scaring the kid which led him to crying inconsolably.",
+"object": {
+"text": "an allegedly rude cabin crew member"
+},
+"action": {
+"verb": {
+"text": "blame",
+"tense": "past"
+},
+"text": "blamed",
+"normalized": "blame"
+}
+},
+{
+"subject": {
+"text": "the kid"
+},
+"sentence": " The passenger blamed an allegedly rude cabin crew member for scaring the kid which led him to crying inconsolably.",
+"object": {
+"text": "him"
+},
+"action": {
+"verb": {
+"text": "lead",
+"tense": "past"
+},
+"text": "led",
+"normalized": "lead"
+}
+}
+],
+"relations": [
+{
+"type": "locatedAt",
+"sentence": "NEW DELHI: The government has ordered a thorough probe into which had recently offloaded an Indian family as their three-year-old son was crying.",
+"score": 0.453636,
+"arguments": [
+{
+"text": "government",
+"location": [
+15,
+25
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "government",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+},
+{
+"text": "NEW DELHI",
+"location": [
+0,
+9
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "NEW DELHI"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "The action came after TOI reported on Thursday morning about an Indian bureaucrat's family being taken off London City-Berlin flight on July 23 allegedly because their three-year-old son was crying during taxi to the runway.",
+"score": 0.350349,
+"arguments": [
+{
+"text": "flight",
+"location": [
+377,
+383
+],
+"entities": [
+{
+"type": "Vehicle",
+"text": "flight"
+}
+]
+},
+{
+"text": "London City",
+"location": [
+358,
+369
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "London City"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "The action came after TOI reported on Thursday morning about an Indian bureaucrat's family being taken off London City-Berlin flight on July 23 allegedly because their three-year-old son was crying during taxi to the runway.",
+"score": 0.478025,
+"arguments": [
+{
+"text": "flight",
+"location": [
+377,
+383
+],
+"entities": [
+{
+"type": "Vehicle",
+"text": "flight"
+}
+]
+},
+{
+"text": "Berlin",
+"location": [
+370,
+376
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Berlin"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "The plane returned to the terminal and the family was offloaded.",
+"score": 0.78279,
+"arguments": [
+{
+"text": "family",
+"location": [
+519,
+525
+],
+"entities": [
+{
+"type": "Person",
+"text": "family"
+}
+]
+},
+{
+"text": "plane",
+"location": [
+480,
+485
+],
+"entities": [
+{
+"type": "Vehicle",
+"text": "flight"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "We have started a full investigation and are in direct contact with the customer.",
+"score": 0.513373,
+"arguments": [
+{
+"text": "customer",
+"location": [
+722,
+730
+],
+"entities": [
+{
+"type": "Person",
+"text": "bureaucrat"
+}
+]
+},
+{
+"text": "investigation",
+"location": [
+673,
+686
+],
+"entities": [
+{
+"type": "EventLegal",
+"text": "investigation"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "\" The bureaucrat who faced this issue has complained to Prabhu, who on Thursday asked DGCA to get a detailed report from BA.",
+"score": 0.623223,
+"arguments": [
+{
+"text": "who",
+"location": [
+748,
+751
+],
+"entities": [
+{
+"type": "Person",
+"text": "bureaucrat"
+}
+]
+},
+{
+"text": "complained",
+"location": [
+773,
+783
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "complained"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "\" The bureaucrat who faced this issue has complained to Prabhu, who on Thursday asked DGCA to get a detailed report from BA.",
+"score": 0.645036,
+"arguments": [
+{
+"text": "Prabhu",
+"location": [
+787,
+793
+],
+"entities": [
+{
+"type": "Person",
+"text": "Prabhu"
+}
+]
+},
+{
+"text": "complained",
+"location": [
+773,
+783
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "complained"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "\" The bureaucrat who faced this issue has complained to Prabhu, who on Thursday asked DGCA to get a detailed report from BA.",
+"score": 0.424461,
+"arguments": [
+{
+"text": "who",
+"location": [
+795,
+798
+],
+"entities": [
+{
+"type": "Person",
+"text": "Prabhu"
+}
+]
+},
+{
+"text": "asked",
+"location": [
+811,
+816
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "asked"
+}
+]
+}
+]
+},
+{
+"type": "timeOf",
+"sentence": "\" The bureaucrat who faced this issue has complained to Prabhu, who on Thursday asked DGCA to get a detailed report from BA.",
+"score": 0.818471,
+"arguments": [
+{
+"text": "Thursday",
+"location": [
+802,
+810
+],
+"entities": [
+{
+"type": "Date",
+"text": "Thursday"
+}
+]
+},
+{
+"text": "asked",
+"location": [
+811,
+816
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "asked"
+}
+]
+}
+]
+},
+{
+"type": "partOfMany",
+"sentence": "The passenger blamed an allegedly rude cabin crew member for scaring the kid which led him to crying inconsolably.",
+"score": 0.564475,
+"arguments": [
+{
+"text": "member",
+"location": [
+906,
+912
+],
+"entities": [
+{
+"type": "Person",
+"text": "bureaucrat"
+}
+]
+},
+{
+"text": "crew",
+"location": [
+901,
+905
+],
+"entities": [
+{
+"type": "Person",
+"text": "crew"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "NEW DELHI: The government has ordered a thorough probe into which had recently offloaded an Indian family as their three-year-old son was crying.",
+"score": 0.821427,
+"arguments": [
+{
+"text": "government",
+"location": [
+15,
+25
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "government",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+},
+{
+"text": "ordered",
+"location": [
+30,
+37
+],
+"entities": [
+{
+"type": "EventLegal",
+"text": "ordered"
+}
+]
+}
+]
+},
+{
+"type": "partOfMany",
+"sentence": "NEW DELHI: The government has ordered a thorough probe into which had recently offloaded an Indian family as their three-year-old son was crying.",
+"score": 0.778941,
+"arguments": [
+{
+"text": "family",
+"location": [
+99,
+105
+],
+"entities": [
+{
+"type": "Person",
+"text": "family"
+}
+]
+},
+{
+"text": "Indian",
+"location": [
+92,
+98
+],
+"entities": [
+{
+"type": "Person",
+"text": "Indian"
+}
+]
+}
+]
+},
+{
+"type": "parentOf",
+"sentence": "NEW DELHI: The government has ordered a thorough probe into which had recently offloaded an Indian family as their three-year-old son was crying.",
+"score": 0.756082,
+"arguments": [
+{
+"text": "their",
+"location": [
+109,
+114
+],
+"entities": [
+{
+"type": "Person",
+"text": "family"
+}
+]
+},
+{
+"text": "son",
+"location": [
+130,
+133
+],
+"entities": [
+{
+"type": "Person",
+"text": "son"
+}
+]
+}
+]
+},
+{
+"type": "parentOf",
+"sentence": "The action came after TOI reported on Thursday morning about an Indian bureaucrat's family being taken off London City-Berlin flight on July 23 allegedly because their three-year-old son was crying during taxi to the runway.",
+"score": 0.594074,
+"arguments": [
+{
+"text": "their",
+"location": [
+413,
+418
+],
+"entities": [
+{
+"type": "Person",
+"text": "family"
+}
+]
+},
+{
+"text": "son",
+"location": [
+434,
+437
+],
+"entities": [
+{
+"type": "Person",
+"text": "son"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Aviation minister Tweeted, saying he had directed DGCA to get a detailed report from BA on this issue.",
+"score": 0.916689,
+"arguments": [
+{
+"text": "Tweeted",
+"location": [
+164,
+171
+],
+"entities": [
+{
+"type": "Person",
+"text": "Tweeted"
+}
+]
+},
+{
+"text": "saying",
+"location": [
+173,
+179
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "saying"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "The action came after TOI reported on Thursday morning about an Indian bureaucrat's family being taken off London City-Berlin flight on July 23 allegedly because their three-year-old son was crying during taxi to the runway.",
+"score": 0.994549,
+"arguments": [
+{
+"text": "TOI",
+"location": [
+273,
+276
+],
+"entities": [
+{
+"type": "Person",
+"text": "TOI"
+}
+]
+},
+{
+"text": "reported",
+"location": [
+277,
+285
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "reported"
+}
+]
+}
+]
+},
+{
+"type": "timeOf",
+"sentence": "The action came after TOI reported on Thursday morning about an Indian bureaucrat's family being taken off London City-Berlin flight on July 23 allegedly because their three-year-old son was crying during taxi to the runway.",
+"score": 0.95571,
+"arguments": [
+{
+"text": "Thursday morning",
+"location": [
+289,
+305
+],
+"entities": [
+{
+"type": "Time",
+"text": "Thursday morning"
+}
+]
+},
+{
+"text": "reported",
+"location": [
+277,
+285
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "reported"
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "The action came after TOI reported on Thursday morning about an Indian bureaucrat's family being taken off London City-Berlin flight on July 23 allegedly because their three-year-old son was crying during taxi to the runway.",
+"score": 0.381165,
+"arguments": [
+{
+"text": "bureaucrat",
+"location": [
+322,
+332
+],
+"entities": [
+{
+"type": "Person",
+"text": "TOI"
+}
+]
+},
+{
+"text": "Indian",
+"location": [
+315,
+321
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Indian"
+}
+]
+}
+]
+},
+{
+"type": "partOfMany",
+"sentence": "The action came after TOI reported on Thursday morning about an Indian bureaucrat's family being taken off London City-Berlin flight on July 23 allegedly because their three-year-old son was crying during taxi to the runway.",
+"score": 0.363523,
+"arguments": [
+{
+"text": "bureaucrat",
+"location": [
+322,
+332
+],
+"entities": [
+{
+"type": "Person",
+"text": "TOI"
+}
+]
+},
+{
+"text": "family",
+"location": [
+335,
+341
+],
+"entities": [
+{
+"type": "Person",
+"text": "family"
+}
+]
+}
+]
+}
+],
+"language": "en",
+"keywords": [
+{
+"text": "three-year-old son",
+"sentiment": {
+"score": -0.573296,
+"label": "negative"
+},
+"relevance": 0.909634,
+"emotion": {
+"sadness": 0.851852,
+"joy": 0.03168,
+"fear": 0.040583,
+"disgust": 0.097751,
+"anger": 0.090202
+}
+},
+{
+"text": "Aviation minister Tweeted",
+"sentiment": {
+"score": 0.553607,
+"label": "positive"
+},
+"relevance": 0.837454,
+"emotion": {
+"sadness": 0.348229,
+"joy": 0.295856,
+"fear": 0.096745,
+"disgust": 0.229436,
+"anger": 0.014046
+}
+},
+{
+"text": "allegedly rude cabin",
+"sentiment": {
+"score": -0.424678,
+"label": "negative"
+},
+"relevance": 0.814074,
+"emotion": {
+"sadness": 0.397718,
+"joy": 0.001851,
+"fear": 0.651587,
+"disgust": 0.155117,
+"anger": 0.136904
+}
+},
+{
+"text": "London City-Berlin flight",
+"sentiment": {
+"score": -0.573296,
+"label": "negative"
+},
+"relevance": 0.779844,
+"emotion": {
+"sadness": 0.665664,
+"joy": 0.039482,
+"fear": 0.053214,
+"disgust": 0.128416,
+"anger": 0.092393
+}
+},
+{
+"text": "Indian bureaucrat",
+"sentiment": {
+"score": -0.573296,
+"label": "negative"
+},
+"relevance": 0.677045
+}
+],
+"entities": [
+{
+"type": "Organization",
+"text": "DGCA",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.808328,
+"emotion": {
+"sadness": 0.191742,
+"joy": 0.052699,
+"fear": 0.073634,
+"disgust": 0.0457,
+"anger": 0.343284
+},
+"count": 2
+},
+{
+"type": "Person",
+"text": "Prabhu",
+"sentiment": {
+"score": -0.295476,
+"label": "negative"
+},
+"relevance": 0.395552,
+"emotion": {
+"sadness": 0.387648,
+"joy": 0.028515,
+"fear": 0.063896,
+"disgust": 0.604553,
+"anger": 0.228599
+},
+"count": 1
+},
+{
+"type": "Location",
+"text": "DELHI",
+"sentiment": {
+"score": 0.375946,
+"label": "positive"
+},
+"relevance": 0.390074,
+"emotion": {
+"sadness": 0.115132,
+"joy": 0.596039,
+"fear": 0.084006,
+"disgust": 0.034674,
+"anger": 0.046922
+},
+"disambiguation": {
+"subtype": [
+"Country"
+]
+},
+"count": 1
+},
+{
+"type": "Location",
+"text": "London",
+"sentiment": {
+"score": -0.573296,
+"label": "negative"
+},
+"relevance": 0.340001,
+"emotion": {
+"sadness": 0.665664,
+"joy": 0.039482,
+"fear": 0.053214,
+"disgust": 0.128416,
+"anger": 0.092393
+},
+"disambiguation": {
+"subtype": [
+"AdministrativeDivision",
+"GovernmentalJurisdiction",
+"OlympicHostCity",
+"PlaceWithNeighborhoods",
+"City"
+],
+"name": "London",
+"dbpedia_resource": "http://dbpedia.org/resource/London"
+},
+"count": 1
+},
+{
+"type": "Quantity",
+"text": "three-year",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.340001,
+"count": 2
+}
+],
+"concepts": [
+{
+"text": "Government",
+"relevance": 0.934964,
+"dbpedia_resource": "http://dbpedia.org/resource/Government"
+},
+{
+"text": "English-language films",
+"relevance": 0.846692,
+"dbpedia_resource": "http://dbpedia.org/resource/English-language_films"
+},
+{
+"text": "Chi McBride",
+"relevance": 0.824052,
+"dbpedia_resource": "http://dbpedia.org/resource/Chi_McBride"
+},
+{
+"text": "Steven Spielberg",
+"relevance": 0.804617,
+"dbpedia_resource": "http://dbpedia.org/resource/Steven_Spielberg"
+},
+{
+"text": "India",
+"relevance": 0.798779,
+"dbpedia_resource": "http://dbpedia.org/resource/India"
+}
+],
+"categories": [
+{
+"score": 0.49631,
+"label": "/law, govt and politics/legal issues/civil rights"
+},
+{
+"score": 0.482576,
+"label": "/business and industrial/company/annual report"
+},
+{
+"score": 0.451711,
+"label": "/travel/transports/air travel/air and space accident"
+}
+]
+}
+}

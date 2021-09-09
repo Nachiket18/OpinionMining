@@ -1,0 +1,548 @@
+{
+"source_article_link": "https://timesofindia.indiatimes.com/india/fake-mail-on-aadhaar-uidai-urges-people-not-to-click-on-them/articleshow/64209199.cms?&utm_source=Articleshow&utm_medium=Organic&utm_campaign=Related_Stories",
+"title": "Fake mail on Aadhaar: UIDAI urges people not to click on them",
+"date_published": "2018-05-17T19:35:06+05:30",
+"source_type": "news_article",
+"source_name": "timesofindia.indiatimes.com",
+"image_link": [
+"https://timesofindia.indiatimes.com/thumb/msid-64209177,imgsize-50226,width-400,resizemode-4/64209177.jpg"
+],
+"article_body": "NEW DELHI: A fake mail telling users about the changes in the card download password is doing rounds. The mail comes with a link asking people to click on it to know the updated format. made it clear that they are not sending these mails and users should not click on the link provided in these fake mails. They also said that user should first check as to where these mails are coming from. UIDAI indeed made changes in the downloading of of Aadhaar. Earlier a person just had to give his area as password but now the user has to write first four letters of his name and date of birth. The information is available on UIDAI\u2019s official website ( ).",
+"description": "NEW DELHI: A fake mail telling users about the changes in the card download password is doing rounds. The mail comes with a link asking people to click on it to know the updated format. made it clear that they are not sending these mails and users should not click on the link provided in these fake mails. They also said that user should first check as to where these mails are coming from. UIDAI indeed made changes in the downloading of of Aadhaar. Earlier a person just had to give his area",
+"time_scraped": "2018-08-22 03:02:04.785941",
+"article_id": "64209199",
+"article_category": "IndiaNews",
+"image_details": [
+{
+"url": "https://timesofindia.indiatimes.com/thumb/msid-64209177,imgsize-50226,width-400,resizemode-4/64209177.jpg",
+"path": "full/1864ccb0a1bd5bddc65aa66312f59c5c786df7e5.jpg",
+"checksum": "f6f48582f9fce5010964e970f8e81931"
+}
+],
+"ibm_nlu": {
+"usage": {
+"text_units": 1,
+"text_characters": 648,
+"features": 7
+},
+"sentiment": {
+"document": {
+"score": -0.665598,
+"label": "negative"
+}
+},
+"semantic_roles": [
+{
+"subject": {
+"text": "A fake mail"
+},
+"sentence": "NEW DELHI: A fake mail telling users about the changes in the card download password is doing rounds.",
+"object": {
+"text": "about the changes in the card download password is doing rounds"
+},
+"action": {
+"verb": {
+"text": "tell",
+"tense": "present"
+},
+"text": "telling",
+"normalized": "tell"
+}
+},
+{
+"subject": {
+"text": "A fake mail telling users about the changes in the card download password"
+},
+"sentence": "NEW DELHI: A fake mail telling users about the changes in the card download password is doing rounds.",
+"object": {
+"text": "doing rounds"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "present"
+},
+"text": "is",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "A fake mail telling users about the changes in the card download password"
+},
+"sentence": "NEW DELHI: A fake mail telling users about the changes in the card download password is doing rounds.",
+"object": {
+"text": "rounds"
+},
+"action": {
+"verb": {
+"text": "do",
+"tense": "present"
+},
+"text": "is doing",
+"normalized": "be do"
+}
+},
+{
+"subject": {
+"text": "a link"
+},
+"sentence": " The mail comes with a link asking people to click on it to know the updated format. made it clear that they are not sending these mails and users should not click on the link provided in these fake mails.",
+"object": {
+"text": "to click on it"
+},
+"action": {
+"verb": {
+"text": "ask",
+"tense": "present"
+},
+"text": "asking",
+"normalized": "ask"
+}
+},
+{
+"subject": {
+"text": "people"
+},
+"sentence": " The mail comes with a link asking people to click on it to know the updated format. made it clear that they are not sending these mails and users should not click on the link provided in these fake mails.",
+"object": {
+"text": "the updated format. made it clear"
+},
+"action": {
+"verb": {
+"text": "know",
+"tense": "future"
+},
+"text": "to know",
+"normalized": "to know"
+}
+},
+{
+"subject": {
+"text": "the updated format."
+},
+"sentence": " The mail comes with a link asking people to click on it to know the updated format. made it clear that they are not sending these mails and users should not click on the link provided in these fake mails.",
+"object": {
+"text": "clear"
+},
+"action": {
+"verb": {
+"text": "make",
+"tense": "past"
+},
+"text": "made",
+"normalized": "make"
+}
+},
+{
+"subject": {
+"text": "they"
+},
+"sentence": " The mail comes with a link asking people to click on it to know the updated format. made it clear that they are not sending these mails and users should not click on the link provided in these fake mails.",
+"object": {
+"text": "these mails"
+},
+"action": {
+"verb": {
+"text": "send",
+"tense": "present",
+"negated": true
+},
+"text": "sending",
+"normalized": "send"
+}
+},
+{
+"subject": {
+"text": "the link"
+},
+"sentence": " The mail comes with a link asking people to click on it to know the updated format. made it clear that they are not sending these mails and users should not click on the link provided in these fake mails.",
+"action": {
+"verb": {
+"text": "provide",
+"tense": "past"
+},
+"text": "provided",
+"normalized": "provide"
+}
+},
+{
+"subject": {
+"text": "They"
+},
+"sentence": " They also said that user should first check as to where these mails are coming from.",
+"object": {
+"text": "that user should first check as to where these mails are coming from"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "user"
+},
+"sentence": " They also said that user should first check as to where these mails are coming from.",
+"action": {
+"verb": {
+"text": "check",
+"tense": "future"
+},
+"text": "check",
+"normalized": "check"
+}
+},
+{
+"subject": {
+"text": "UIDAI"
+},
+"sentence": " UIDAI indeed made changes in the downloading of of Aadhaar.",
+"object": {
+"text": "changes"
+},
+"action": {
+"verb": {
+"text": "make",
+"tense": "past"
+},
+"text": "made",
+"normalized": "make"
+}
+},
+{
+"subject": {
+"text": "Earlier a person"
+},
+"sentence": " Earlier a person just had to give his area as password but now the user has to write first four letters of his name and date of birth.",
+"object": {
+"text": "as password"
+},
+"action": {
+"verb": {
+"text": "give",
+"tense": "past"
+},
+"text": "had to give",
+"normalized": "have to give"
+}
+},
+{
+"subject": {
+"text": "the user"
+},
+"sentence": " Earlier a person just had to give his area as password but now the user has to write first four letters of his name and date of birth.",
+"object": {
+"text": "four letters of his name and date of birth"
+},
+"action": {
+"verb": {
+"text": "write",
+"tense": "future"
+},
+"text": "has to write",
+"normalized": "have to write"
+}
+},
+{
+"subject": {
+"text": "The information"
+},
+"sentence": " The information is available on UIDAI\u2019s official website ( ).",
+"object": {
+"text": "available on UIDAI\u2019s official website"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "present"
+},
+"text": "is",
+"normalized": "be"
+}
+}
+],
+"relations": [
+{
+"type": "affectedBy",
+"sentence": "The mail comes with a link asking people to click on it to know the updated format.",
+"score": 0.76393,
+"arguments": [
+{
+"text": "people",
+"location": [
+136,
+142
+],
+"entities": [
+{
+"type": "Person",
+"text": "people"
+}
+]
+},
+{
+"text": "asking",
+"location": [
+129,
+135
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "asking"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "They also said that user should first check as to where these mails are coming from.",
+"score": 0.914971,
+"arguments": [
+{
+"text": "They",
+"location": [
+307,
+311
+],
+"entities": [
+{
+"type": "Organization",
+"text": "They"
+}
+]
+},
+{
+"text": "said",
+"location": [
+317,
+321
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Earlier a person just had to give his area as password but now the user has to write first four letters of his name and date of birth.",
+"score": 0.92426,
+"arguments": [
+{
+"text": "user",
+"location": [
+519,
+523
+],
+"entities": [
+{
+"type": "Person",
+"text": "user"
+}
+]
+},
+{
+"text": "write",
+"location": [
+531,
+536
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "write"
+}
+]
+}
+]
+}
+],
+"language": "en",
+"keywords": [
+{
+"text": "card download password",
+"sentiment": {
+"score": -0.38883,
+"label": "negative"
+},
+"relevance": 0.965864,
+"emotion": {
+"sadness": 0.709825,
+"joy": 0.015147,
+"fear": 0.046389,
+"disgust": 0.008158,
+"anger": 0.223744
+}
+},
+{
+"text": "fake mails",
+"sentiment": {
+"score": -0.707991,
+"label": "negative"
+},
+"relevance": 0.781344,
+"emotion": {
+"sadness": 0.343035,
+"joy": 0.054166,
+"fear": 0.034762,
+"disgust": 0.077654,
+"anger": 0.181254
+}
+},
+{
+"text": "fake mail",
+"sentiment": {
+"score": -0.38883,
+"label": "negative"
+},
+"relevance": 0.641126,
+"emotion": {
+"sadness": 0.709825,
+"joy": 0.015147,
+"fear": 0.046389,
+"disgust": 0.008158,
+"anger": 0.223744
+}
+},
+{
+"text": "NEW DELHI",
+"sentiment": {
+"score": 0.255242,
+"label": "positive"
+},
+"relevance": 0.635235,
+"emotion": {
+"sadness": 0.115132,
+"joy": 0.596039,
+"fear": 0.084006,
+"disgust": 0.034674,
+"anger": 0.046922
+}
+},
+{
+"text": "users",
+"sentiment": {
+"score": -0.548411,
+"label": "negative"
+},
+"relevance": 0.354448,
+"emotion": {
+"sadness": 0.598417,
+"joy": 0.022003,
+"fear": 0.032526,
+"disgust": 0.019462,
+"anger": 0.222179
+}
+}
+],
+"entities": [
+{
+"type": "Location",
+"text": "DELHI",
+"sentiment": {
+"score": 0.255242,
+"label": "positive"
+},
+"relevance": 0.806549,
+"emotion": {
+"sadness": 0.115132,
+"joy": 0.596039,
+"fear": 0.084006,
+"disgust": 0.034674,
+"anger": 0.046922
+},
+"disambiguation": {
+"subtype": [
+"Country"
+]
+},
+"count": 1
+},
+{
+"type": "Location",
+"text": "Aadhaar",
+"sentiment": {
+"score": -0.416463,
+"label": "negative"
+},
+"relevance": 0.618669,
+"emotion": {
+"sadness": 0.146735,
+"joy": 0.401399,
+"fear": 0.155566,
+"disgust": 0.043333,
+"anger": 0.051716
+},
+"disambiguation": {
+"subtype": [
+"City"
+]
+},
+"count": 1
+},
+{
+"type": "JobTitle",
+"text": "official",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.586829,
+"emotion": {
+"sadness": 0.048606,
+"joy": 0.146699,
+"fear": 0.035875,
+"disgust": 0.04385,
+"anger": 0.070069
+},
+"count": 1
+}
+],
+"concepts": [
+{
+"text": "Internet",
+"relevance": 0.904429,
+"dbpedia_resource": "http://dbpedia.org/resource/Internet"
+},
+{
+"text": "Keith Waterhouse",
+"relevance": 0.868261,
+"dbpedia_resource": "http://dbpedia.org/resource/Keith_Waterhouse"
+},
+{
+"text": "Government of India",
+"relevance": 0.855308,
+"dbpedia_resource": "http://dbpedia.org/resource/Government_of_India"
+},
+{
+"text": "World Wide Web",
+"relevance": 0.778445,
+"dbpedia_resource": "http://dbpedia.org/resource/World_Wide_Web"
+}
+],
+"categories": [
+{
+"score": 0.574093,
+"label": "/law, govt and politics/legal issues/legislation/tax laws"
+},
+{
+"score": 0.397472,
+"label": "/finance/bank/bank account"
+},
+{
+"score": 0.282201,
+"label": "/technology and computing/internet technology/email"
+}
+]
+}
+}

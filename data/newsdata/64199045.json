@@ -1,0 +1,975 @@
+{
+"source_article_link": "https://timesofindia.indiatimes.com/india/lutyens-delhi-cleanest-among-small-cities-survey/articleshow/64199045.cms?&utm_source=Articleshow&utm_medium=Organic&utm_campaign=Related_Stories",
+"title": "Lutyens\u2019 Delhi cleanest among small cities: Survey",
+"date_published": "2018-05-17T08:08:51+05:30",
+"source_type": "news_article",
+"source_name": "timesofindia.indiatimes.com",
+"image_link": [
+"https://timesofindia.indiatimes.com/thumb/msid-64199046,imgsize-103958,width-400,resizemode-4/64199046.jpg"
+],
+"article_body": "NEW DELHI: Lutyens\u2019 Delhi has been ranked as the cleanest municipal area among small urban local bodies having one to three lakh population while in the national capital region ( ) has made maximum improvement in the rankings in the past one year. Ghaziabad, which ranked 351 out of 434 municipal regions in 2017 has moved up to 36 in the list of 4,203 urban areas in the all-India table this year. The New Delhi Municipal Council, which covers Lutyens\u2019 Delhi, had stood seventh in the rankings last year. The exact ranking of each municipal areas will be released later, housing and urban affairs minister said while announcing the list of 52 awardees under 12 categories. In the all India ranking of all municipal areas, Indore and Bhopal in retained their title of being the two cleanest cities. In 2017 rankings, these two cities had made it to the top of the heap. Puri said he was surprised to see the level of cleanliness during his recent visit to the two cities. Chandigarh has been ranked number three in this first pan-Indian exercise to assess cleanliness in urban India. Last year the capital city of Punjab and Haryana was at number 11. Among all states, Jharkhand, Maharashtra and Chhattisgarh were ranked as best performing states respectively. \u201cIt was a conscious decision not to give more than one award to one city in any category, \u201d said a government official.",
+"description": "NEW DELHI: Lutyens\u2019 Delhi has been ranked as the cleanest municipal area among small urban local bodies having one to three lakh population while in the national capital region ( ) has made maximum improvement in the rankings in the past one year. Ghaziabad, which ranked 351 out of 434 municipal regions in 2017 has moved up to 36 in the list of 4,203 urban areas in the all-India table this year. The New Delhi Municipal Council, which covers Lutyens\u2019 Delhi, had stood seventh in the rankings last year. The exact ranking of each municipal areas will be released later, housing and urban affairs minister",
+"time_scraped": "2018-08-24 06:01:30.937456",
+"article_id": "64199045",
+"article_category": "IndiaNews",
+"image_details": [
+{
+"url": "https://timesofindia.indiatimes.com/thumb/msid-64199046,imgsize-103958,width-400,resizemode-4/64199046.jpg",
+"path": "full/7c8ad591c2554831772249cd6ec6024cc7763b1d.jpg",
+"checksum": "3a4103e35009dca1fa9ef9d56424e016"
+}
+],
+"ibm_nlu": {
+"usage": {
+"text_units": 1,
+"text_characters": 1380,
+"features": 7
+},
+"sentiment": {
+"document": {
+"score": -0.430019,
+"label": "negative"
+}
+},
+"semantic_roles": [
+{
+"subject": {
+"text": "Delhi"
+},
+"sentence": "NEW DELHI: Lutyens\u2019 Delhi has been ranked as the cleanest municipal area among small urban local bodies having one to three lakh population while in the national capital region ( ) has made maximum improvement in the rankings in the past one year.",
+"object": {
+"text": "ranked as the cleanest municipal area among small urban local bodies having one to three lakh population"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "been",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "Delhi"
+},
+"sentence": "NEW DELHI: Lutyens\u2019 Delhi has been ranked as the cleanest municipal area among small urban local bodies having one to three lakh population while in the national capital region ( ) has made maximum improvement in the rankings in the past one year.",
+"object": {
+"text": "as the cleanest municipal area"
+},
+"action": {
+"verb": {
+"text": "rank",
+"tense": "past"
+},
+"text": "has been ranked",
+"normalized": "have be rank"
+}
+},
+{
+"subject": {
+"text": "three lakh population"
+},
+"sentence": "NEW DELHI: Lutyens\u2019 Delhi has been ranked as the cleanest municipal area among small urban local bodies having one to three lakh population while in the national capital region ( ) has made maximum improvement in the rankings in the past one year.",
+"object": {
+"text": "maximum improvement"
+},
+"action": {
+"verb": {
+"text": "make",
+"tense": "past"
+},
+"text": "has made",
+"normalized": "have make"
+}
+},
+{
+"subject": {
+"text": "Ghaziabad"
+},
+"sentence": " Ghaziabad, which ranked 351 out of 434 municipal regions in 2017 has moved up to 36 in the list of 4,203 urban areas in the all-India table this year.",
+"object": {
+"text": "351 out of 434 municipal regions"
+},
+"action": {
+"verb": {
+"text": "rank",
+"tense": "past"
+},
+"text": "ranked",
+"normalized": "rank"
+}
+},
+{
+"subject": {
+"text": "Ghaziabad, which ranked 351 out of 434 municipal regions in 2017"
+},
+"sentence": " Ghaziabad, which ranked 351 out of 434 municipal regions in 2017 has moved up to 36 in the list of 4,203 urban areas in the all-India table this year.",
+"action": {
+"verb": {
+"text": "move",
+"tense": "past"
+},
+"text": "has moved",
+"normalized": "have move"
+}
+},
+{
+"subject": {
+"text": "The New Delhi Municipal Council"
+},
+"sentence": " The New Delhi Municipal Council, which covers Lutyens\u2019 Delhi, had stood seventh in the rankings last year.",
+"object": {
+"text": "Lutyens\u2019 Delhi"
+},
+"action": {
+"verb": {
+"text": "cover",
+"tense": "present"
+},
+"text": "covers",
+"normalized": "cover"
+}
+},
+{
+"subject": {
+"text": "The New Delhi Municipal Council, which covers Lutyens\u2019 Delhi,"
+},
+"sentence": " The New Delhi Municipal Council, which covers Lutyens\u2019 Delhi, had stood seventh in the rankings last year.",
+"object": {
+"text": "seventh"
+},
+"action": {
+"verb": {
+"text": "stand",
+"tense": "past"
+},
+"text": "had stood",
+"normalized": "have stand"
+}
+},
+{
+"subject": {
+"text": "The exact ranking of each municipal areas"
+},
+"sentence": " The exact ranking of each municipal areas will be released later, housing and urban affairs minister said while announcing the list of 52 awardees under 12 categories.",
+"action": {
+"verb": {
+"text": "release",
+"tense": "future"
+},
+"text": "will be released",
+"normalized": "will be release"
+}
+},
+{
+"subject": {
+"text": "housing and urban affairs minister"
+},
+"sentence": " The exact ranking of each municipal areas will be released later, housing and urban affairs minister said while announcing the list of 52 awardees under 12 categories.",
+"object": {
+"text": "The exact ranking of each municipal areas will be released later"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "their title of being the two cleanest cities"
+},
+"sentence": " In the all India ranking of all municipal areas, Indore and Bhopal in retained their title of being the two cleanest cities.",
+"action": {
+"verb": {
+"text": "retain",
+"tense": "past"
+},
+"text": "retained",
+"normalized": "retain"
+}
+},
+{
+"subject": {
+"text": "their title"
+},
+"sentence": " In the all India ranking of all municipal areas, Indore and Bhopal in retained their title of being the two cleanest cities.",
+"object": {
+"text": "the two cleanest cities"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "future"
+},
+"text": "being",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "these two cities"
+},
+"sentence": " In 2017 rankings, these two cities had made it to the top of the heap.",
+"object": {
+"text": "made it to the top of the heap"
+},
+"action": {
+"verb": {
+"text": "have",
+"tense": "past"
+},
+"text": "had",
+"normalized": "have"
+}
+},
+{
+"subject": {
+"text": "these two cities"
+},
+"sentence": " In 2017 rankings, these two cities had made it to the top of the heap.",
+"object": {
+"text": "it"
+},
+"action": {
+"verb": {
+"text": "make",
+"tense": "past"
+},
+"text": "had made",
+"normalized": "have make"
+}
+},
+{
+"subject": {
+"text": "Puri"
+},
+"sentence": " Puri said he was surprised to see the level of cleanliness during his recent visit to the two cities.",
+"object": {
+"text": "he was surprised to see the level of cleanliness during his recent visit to the two cities"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "he"
+},
+"sentence": " Puri said he was surprised to see the level of cleanliness during his recent visit to the two cities.",
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "was surprised to see",
+"normalized": "be surprise to see"
+}
+},
+{
+"subject": {
+"text": "to see the level of cleanliness during his recent visit to the two cities"
+},
+"sentence": " Puri said he was surprised to see the level of cleanliness during his recent visit to the two cities.",
+"object": {
+"text": "he"
+},
+"action": {
+"verb": {
+"text": "surprise",
+"tense": "past"
+},
+"text": "surprised",
+"normalized": "surprise"
+}
+},
+{
+"subject": {
+"text": "Chandigarh"
+},
+"sentence": " Chandigarh has been ranked number three in this first pan-Indian exercise to assess cleanliness in urban India.",
+"object": {
+"text": "ranked number three in this first pan-Indian exercise to assess cleanliness in urban India"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "been",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "Chandigarh"
+},
+"sentence": " Chandigarh has been ranked number three in this first pan-Indian exercise to assess cleanliness in urban India.",
+"object": {
+"text": "number three in this first pan-Indian exercise to assess cleanliness in urban India"
+},
+"action": {
+"verb": {
+"text": "rank",
+"tense": "past"
+},
+"text": "has been ranked",
+"normalized": "have be rank"
+}
+},
+{
+"subject": {
+"text": "the capital city of Punjab and Haryana"
+},
+"sentence": " Last year the capital city of Punjab and Haryana was at number 11.",
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "was",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "Chhattisgarh"
+},
+"sentence": " Among all states, Jharkhand, Maharashtra and Chhattisgarh were ranked as best performing states respectively.",
+"object": {
+"text": "ranked as best performing states respectively"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "were",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "Maharashtra and Chhattisgarh"
+},
+"sentence": " Among all states, Jharkhand, Maharashtra and Chhattisgarh were ranked as best performing states respectively.",
+"object": {
+"text": "as best performing states respectively"
+},
+"action": {
+"verb": {
+"text": "rank",
+"tense": "past"
+},
+"text": "were ranked",
+"normalized": "be rank"
+}
+},
+{
+"subject": {
+"text": "a conscious decision"
+},
+"sentence": " \u201cIt was a conscious decision not to give more than one award to one city in any category, \u201d said a government official.",
+"object": {
+"text": "more than one award"
+},
+"action": {
+"verb": {
+"text": "give",
+"tense": "future",
+"negated": true
+},
+"text": "to give",
+"normalized": "to give"
+}
+},
+{
+"subject": {
+"text": "a government official"
+},
+"sentence": " \u201cIt was a conscious decision not to give more than one award to one city in any category, \u201d said a government official.",
+"object": {
+"text": "It was a conscious decision not to give more than one award to one city in any category"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "past"
+},
+"text": "said",
+"normalized": "say"
+}
+}
+],
+"relations": [
+{
+"type": "locatedAt",
+"sentence": "NEW DELHI: Lutyens' Delhi has been ranked as the cleanest municipal area among small urban local bodies having one to three lakh population while in the national capital region ( ) has made maximum improvement in the rankings in the past one year.",
+"score": 0.581304,
+"arguments": [
+{
+"text": "NEW DELHI",
+"location": [
+0,
+9
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "NEW DELHI"
+}
+]
+},
+{
+"text": "Lutyens",
+"location": [
+11,
+18
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Lutyens"
+}
+]
+}
+]
+},
+{
+"type": "basedIn",
+"sentence": "The New Delhi Municipal Council, which covers Lutyens' Delhi, had stood seventh in the rankings last year.",
+"score": 0.48181,
+"arguments": [
+{
+"text": "which",
+"location": [
+432,
+437
+],
+"entities": [
+{
+"type": "Organization",
+"text": "New Delhi Municipal Council"
+}
+]
+},
+{
+"text": "Delhi",
+"location": [
+454,
+459
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "NEW DELHI"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "The exact ranking of each municipal areas will be released later, housing and urban affairs minister said while announcing the list of 52 awardees under 12 categories.",
+"score": 0.971279,
+"arguments": [
+{
+"text": "affairs minister",
+"location": [
+590,
+606
+],
+"entities": [
+{
+"type": "Person",
+"text": "Puri"
+}
+]
+},
+{
+"text": "said",
+"location": [
+607,
+611
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Puri said he was surprised to see the level of cleanliness during his recent visit to the two cities.",
+"score": 0.997295,
+"arguments": [
+{
+"text": "Puri",
+"location": [
+870,
+874
+],
+"entities": [
+{
+"type": "Person",
+"text": "Puri"
+}
+]
+},
+{
+"text": "said",
+"location": [
+875,
+879
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "populationOf",
+"sentence": "Chandigarh has been ranked number three in this first pan-Indian exercise to assess cleanliness in urban India.",
+"score": 0.64916,
+"arguments": [
+{
+"text": "three",
+"location": [
+1006,
+1011
+],
+"entities": [
+{
+"type": "Cardinal",
+"text": "three"
+}
+]
+},
+{
+"text": "Chandigarh",
+"location": [
+972,
+982
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Chandigarh"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "Last year the capital city of Punjab and Haryana was at number 11.",
+"score": 0.64048,
+"arguments": [
+{
+"text": "city of Punjab",
+"location": [
+1106,
+1120
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "city of Punjab"
+}
+]
+},
+{
+"text": "Haryana",
+"location": [
+1125,
+1132
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Haryana"
+}
+]
+}
+]
+},
+{
+"type": "partOfMany",
+"sentence": "Among all states, Jharkhand, Maharashtra and Chhattisgarh were ranked as best performing states respectively.",
+"score": 0.42019,
+"arguments": [
+{
+"text": "Jharkhand",
+"location": [
+1169,
+1178
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Jharkhand"
+}
+]
+},
+{
+"text": "states",
+"location": [
+1161,
+1167
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "states"
+}
+]
+}
+]
+},
+{
+"type": "partOfMany",
+"sentence": "Among all states, Jharkhand, Maharashtra and Chhattisgarh were ranked as best performing states respectively.",
+"score": 0.467629,
+"arguments": [
+{
+"text": "Maharashtra",
+"location": [
+1180,
+1191
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Maharashtra"
+}
+]
+},
+{
+"text": "states",
+"location": [
+1161,
+1167
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "states"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "\"It was a conscious decision not to give more than one award to one city in any category, \" said a government official.",
+"score": 0.880715,
+"arguments": [
+{
+"text": "official",
+"location": [
+1371,
+1379
+],
+"entities": [
+{
+"type": "Person",
+"text": "official"
+}
+]
+},
+{
+"text": "said",
+"location": [
+1353,
+1357
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "said"
+}
+]
+}
+]
+},
+{
+"type": "employedBy",
+"sentence": "\"It was a conscious decision not to give more than one award to one city in any category, \" said a government official.",
+"score": 0.851787,
+"arguments": [
+{
+"text": "official",
+"location": [
+1371,
+1379
+],
+"entities": [
+{
+"type": "Person",
+"text": "official"
+}
+]
+},
+{
+"text": "government",
+"location": [
+1360,
+1370
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "government",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+}
+]
+}
+],
+"language": "en",
+"keywords": [
+{
+"text": "cleanest municipal area",
+"sentiment": {
+"score": 0.272294,
+"label": "positive"
+},
+"relevance": 0.99728,
+"emotion": {
+"sadness": 0.27468,
+"joy": 0.210248,
+"fear": 0.095509,
+"disgust": 0.028565,
+"anger": 0.081781
+}
+},
+{
+"text": "Delhi Municipal Council",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.907437,
+"emotion": {
+"sadness": 0.066126,
+"joy": 0.468929,
+"fear": 0.10912,
+"disgust": 0.192931,
+"anger": 0.035735
+}
+},
+{
+"text": "new delhi",
+"sentiment": {
+"score": 0.487726,
+"label": "positive"
+},
+"relevance": 0.832468,
+"emotion": {
+"sadness": 0.080161,
+"joy": 0.536892,
+"fear": 0.09692,
+"disgust": 0.111228,
+"anger": 0.051068
+}
+},
+{
+"text": "municipal areas",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.749851,
+"emotion": {
+"sadness": 0.075563,
+"joy": 0.11009,
+"fear": 0.148059,
+"disgust": 0.033953,
+"anger": 0.098114
+}
+},
+{
+"text": "urban local bodies",
+"sentiment": {
+"score": 0.272294,
+"label": "positive"
+},
+"relevance": 0.722953,
+"emotion": {
+"sadness": 0.27468,
+"joy": 0.210248,
+"fear": 0.095509,
+"disgust": 0.028565,
+"anger": 0.081781
+}
+}
+],
+"entities": [
+{
+"type": "Organization",
+"text": "New Delhi Municipal Council",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.895867,
+"emotion": {
+"sadness": 0.066126,
+"joy": 0.468929,
+"fear": 0.10912,
+"disgust": 0.192931,
+"anger": 0.035735
+},
+"count": 1
+},
+{
+"type": "Company",
+"text": "Lutyens\u2019 Delhi",
+"sentiment": {
+"score": 0.530431,
+"label": "positive"
+},
+"relevance": 0.800738,
+"emotion": {
+"sadness": 0.0,
+"joy": 0.0,
+"fear": 0.0,
+"disgust": 0.0,
+"anger": 0.0
+},
+"count": 1
+},
+{
+"type": "Location",
+"text": "India",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.490505,
+"emotion": {
+"sadness": 0.295832,
+"joy": 0.196539,
+"fear": 0.052109,
+"disgust": 0.048788,
+"anger": 0.076742
+},
+"disambiguation": {
+"subtype": [
+"HumanLanguage",
+"Region",
+"GovernmentalJurisdiction",
+"FilmEditor",
+"Country"
+],
+"name": "India",
+"dbpedia_resource": "http://dbpedia.org/resource/India"
+},
+"count": 2
+},
+{
+"type": "Location",
+"text": "Ghaziabad",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.441777,
+"emotion": {
+"sadness": 0.0,
+"joy": 0.0,
+"fear": 0.0,
+"disgust": 0.0,
+"anger": 0.0
+},
+"disambiguation": {
+"subtype": [
+"City"
+],
+"name": "Ghaziabad, Uttar Pradesh",
+"dbpedia_resource": "http://dbpedia.org/resource/Ghaziabad,_Uttar_Pradesh"
+},
+"count": 1
+},
+{
+"type": "Person",
+"text": "Puri",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.432326,
+"emotion": {
+"sadness": 0.230173,
+"joy": 0.452466,
+"fear": 0.049644,
+"disgust": 0.239002,
+"anger": 0.024932
+},
+"count": 2
+}
+],
+"concepts": [
+{
+"text": "Delhi",
+"relevance": 0.968806,
+"dbpedia_resource": "http://dbpedia.org/resource/Delhi"
+},
+{
+"text": "City",
+"relevance": 0.725294,
+"dbpedia_resource": "http://dbpedia.org/resource/City"
+},
+{
+"text": "Haryana",
+"relevance": 0.686131,
+"dbpedia_resource": "http://dbpedia.org/resource/Haryana"
+},
+{
+"text": "India",
+"relevance": 0.60705,
+"dbpedia_resource": "http://dbpedia.org/resource/India"
+},
+{
+"text": "States and territories of India",
+"relevance": 0.601656,
+"dbpedia_resource": "http://dbpedia.org/resource/States_and_territories_of_India"
+}
+],
+"categories": [
+{
+"score": 0.398519,
+"label": "/law, govt and politics/government/state and local government"
+},
+{
+"score": 0.300693,
+"label": "/travel/specialty travel/sightseeing tours"
+},
+{
+"score": 0.294787,
+"label": "/home and garden"
+}
+]
+}
+}

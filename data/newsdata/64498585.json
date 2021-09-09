@@ -1,0 +1,998 @@
+{
+"source_article_link": "https://timesofindia.indiatimes.com/india/yogi-adityanath-lauds-centres-housing-electricity-scheme/articleshow/64498585.cms?&utm_source=Articleshow&utm_medium=Organic&utm_campaign=Related_Stories",
+"title": "Yogi Adityanath lauds Centre\u2019s housing & electricity scheme",
+"date_published": "2018-06-07T21:47:03+05:30",
+"source_type": "news_article",
+"source_name": "timesofindia.indiatimes.com",
+"image_link": [],
+"article_body": "AGRA: Chief Minister Yogi Adityanath on Thursday interacted with the people of Mainpuri, considered to be the stronghold of the , to get their feedback on various government policies and listen to their grievances. During an interaction held under \u2018Gram Swaraj Abhiyan\u2019 campaign, the CM lauded the central government\u2019s ambitious \u2018housing for all\u2019 scheme, , stating that around 577 beneficiaries from Mainpuri alone were provided houses. He also attacked the erstwhile Akhilesh yadav-led government in the state, saying that they had built only 500 houses during their five-year tenure. He praised the Centre\u2019s mission to provide electricity in villages across the country, claiming that his government has provided power connections to 1051 hamlets in the state. Only 525 villages were electrified during the previous government\u2019s regime, he added. Gram Swaraj Abhiyan campaign was launched in May, 2018, to promote social harmony and spread awareness about the pro-poor initiatives of the government. The idea is to reach out to poor households and enroll them on various welfare programmes.",
+"description": "AGRA: Chief Minister Yogi Adityanath on Thursday interacted with the people of Mainpuri, considered to be the stronghold of the , to get their feedback on various government policies and listen to their grievances. During an interaction held under \u2018Gram Swaraj Abhiyan\u2019 campaign, the CM lauded the central government\u2019s ambitious \u2018housing for all\u2019 scheme, , stating that around 577 beneficiaries from Mainpuri alone were provided houses.",
+"time_scraped": "2018-08-24 09:01:16.496476",
+"article_id": "64498585",
+"article_category": "IndiaNews",
+"image_details": [],
+"ibm_nlu": {
+"usage": {
+"text_units": 1,
+"text_characters": 1092,
+"features": 7
+},
+"sentiment": {
+"document": {
+"score": 0.615274,
+"label": "positive"
+}
+},
+"semantic_roles": [
+{
+"subject": {
+"text": "Chief Minister Yogi Adityanath"
+},
+"sentence": "AGRA: Chief Minister Yogi Adityanath on Thursday interacted with the people of Mainpuri, considered to be the stronghold of the , to get their feedback on various government policies and listen to their grievances.",
+"action": {
+"verb": {
+"text": "interact",
+"tense": "past"
+},
+"text": "interacted",
+"normalized": "interact"
+}
+},
+{
+"subject": {
+"text": "the people of Mainpuri"
+},
+"sentence": "AGRA: Chief Minister Yogi Adityanath on Thursday interacted with the people of Mainpuri, considered to be the stronghold of the , to get their feedback on various government policies and listen to their grievances.",
+"object": {
+"text": "to be the stronghold of the"
+},
+"action": {
+"verb": {
+"text": "consider",
+"tense": "past"
+},
+"text": "considered",
+"normalized": "consider"
+}
+},
+{
+"subject": {
+"text": "Chief Minister Yogi Adityanath on Thursday"
+},
+"sentence": "AGRA: Chief Minister Yogi Adityanath on Thursday interacted with the people of Mainpuri, considered to be the stronghold of the , to get their feedback on various government policies and listen to their grievances.",
+"object": {
+"text": "their feedback"
+},
+"action": {
+"verb": {
+"text": "get",
+"tense": "future"
+},
+"text": "to get",
+"normalized": "to get"
+}
+},
+{
+"subject": {
+"text": "an interaction"
+},
+"sentence": " During an interaction held under \u2018Gram Swaraj Abhiyan\u2019 campaign, the CM lauded the central government\u2019s ambitious \u2018housing for all\u2019 scheme, , stating that around 577 beneficiaries from Mainpuri alone were provided houses.",
+"action": {
+"verb": {
+"text": "hold",
+"tense": "past"
+},
+"text": "held",
+"normalized": "hold"
+}
+},
+{
+"subject": {
+"text": "the CM"
+},
+"sentence": " During an interaction held under \u2018Gram Swaraj Abhiyan\u2019 campaign, the CM lauded the central government\u2019s ambitious \u2018housing for all\u2019 scheme, , stating that around 577 beneficiaries from Mainpuri alone were provided houses.",
+"object": {
+"text": "the central government\u2019s ambitious \u2018housing"
+},
+"action": {
+"verb": {
+"text": "laud",
+"tense": "past"
+},
+"text": "lauded",
+"normalized": "laud"
+}
+},
+{
+"subject": {
+"text": "houses"
+},
+"sentence": " During an interaction held under \u2018Gram Swaraj Abhiyan\u2019 campaign, the CM lauded the central government\u2019s ambitious \u2018housing for all\u2019 scheme, , stating that around 577 beneficiaries from Mainpuri alone were provided houses.",
+"object": {
+"text": "stating that around 577 beneficiaries from Mainpuri alone"
+},
+"action": {
+"verb": {
+"text": "provide",
+"tense": "past"
+},
+"text": "were provided",
+"normalized": "be provide"
+}
+},
+{
+"subject": {
+"text": "He"
+},
+"sentence": " He also attacked the erstwhile Akhilesh yadav-led government in the state, saying that they had built only 500 houses during their five-year tenure.",
+"object": {
+"text": "the erstwhile Akhilesh yadav-led government"
+},
+"action": {
+"verb": {
+"text": "attack",
+"tense": "past"
+},
+"text": "attacked",
+"normalized": "attack"
+}
+},
+{
+"subject": {
+"text": "He"
+},
+"sentence": " He also attacked the erstwhile Akhilesh yadav-led government in the state, saying that they had built only 500 houses during their five-year tenure.",
+"object": {
+"text": "that they had built only 500 houses during their five-year tenure"
+},
+"action": {
+"verb": {
+"text": "say",
+"tense": "present"
+},
+"text": "saying",
+"normalized": "say"
+}
+},
+{
+"subject": {
+"text": "He"
+},
+"sentence": " He praised the Centre\u2019s mission to provide electricity in villages across the country, claiming that his government has provided power connections to 1051 hamlets in the state.",
+"object": {
+"text": "that his government has provided power connections to 1051 hamlets in the state"
+},
+"action": {
+"verb": {
+"text": "claim",
+"tense": "present"
+},
+"text": "claiming",
+"normalized": "claim"
+}
+},
+{
+"subject": {
+"text": "Only 525 villages"
+},
+"sentence": " Only 525 villages were electrified during the previous government\u2019s regime, he added.",
+"object": {
+"text": "electrified"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "were",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "Only 525 villages"
+},
+"sentence": " Only 525 villages were electrified during the previous government\u2019s regime, he added.",
+"action": {
+"verb": {
+"text": "electrify",
+"tense": "past"
+},
+"text": "were electrified",
+"normalized": "be electrify"
+}
+},
+{
+"subject": {
+"text": "he"
+},
+"sentence": " Only 525 villages were electrified during the previous government\u2019s regime, he added.",
+"object": {
+"text": "Only 525 villages were electrified during the previous government\u2019s regime"
+},
+"action": {
+"verb": {
+"text": "add",
+"tense": "past"
+},
+"text": "added",
+"normalized": "add"
+}
+},
+{
+"subject": {
+"text": "Gram Swaraj Abhiyan campaign"
+},
+"sentence": " Gram Swaraj Abhiyan campaign was launched in May, 2018, to promote social harmony and spread awareness about the pro-poor initiatives of the government.",
+"object": {
+"text": "launched in May"
+},
+"action": {
+"verb": {
+"text": "be",
+"tense": "past"
+},
+"text": "was",
+"normalized": "be"
+}
+},
+{
+"subject": {
+"text": "Gram Swaraj Abhiyan campaign"
+},
+"sentence": " Gram Swaraj Abhiyan campaign was launched in May, 2018, to promote social harmony and spread awareness about the pro-poor initiatives of the government.",
+"action": {
+"verb": {
+"text": "launch",
+"tense": "past"
+},
+"text": "was launched",
+"normalized": "be launch"
+}
+},
+{
+"subject": {
+"text": "Gram Swaraj Abhiyan campaign"
+},
+"sentence": " Gram Swaraj Abhiyan campaign was launched in May, 2018, to promote social harmony and spread awareness about the pro-poor initiatives of the government.",
+"object": {
+"text": "social harmony and spread awareness"
+},
+"action": {
+"verb": {
+"text": "promote",
+"tense": "future"
+},
+"text": "to promote",
+"normalized": "to promote"
+}
+},
+{
+"subject": {
+"text": "The idea"
+},
+"sentence": " The idea is to reach out to poor households and enroll them on various welfare programmes.",
+"object": {
+"text": "to poor households"
+},
+"action": {
+"verb": {
+"text": "reach",
+"tense": "future"
+},
+"text": "to reach",
+"normalized": "to reach"
+}
+},
+{
+"subject": {
+"text": "them"
+},
+"sentence": " The idea is to reach out to poor households and enroll them on various welfare programmes.",
+"object": {
+"text": "on various welfare programmes"
+},
+"action": {
+"verb": {
+"text": "enroll",
+"tense": "present"
+},
+"text": "enroll",
+"normalized": "enroll"
+}
+}
+],
+"relations": [
+{
+"type": "partOfMany",
+"sentence": "AGRA: Chief Minister Yogi Adityanath on Thursday interacted with the people of Mainpuri, considered to be the stronghold of the , to get their feedback on various government policies and listen to their grievances.",
+"score": 0.46634,
+"arguments": [
+{
+"text": "Yogi Adityanath",
+"location": [
+21,
+36
+],
+"entities": [
+{
+"type": "Person",
+"text": "Yogi Adityanath"
+}
+]
+},
+{
+"text": "people",
+"location": [
+69,
+75
+],
+"entities": [
+{
+"type": "Person",
+"text": "people"
+}
+]
+}
+]
+},
+{
+"type": "partOf",
+"sentence": "He praised the Centre's mission to provide electricity in villages across the country, claiming that his government has provided power connections to 1051 hamlets in the state.",
+"score": 0.549761,
+"arguments": [
+{
+"text": "claiming",
+"location": [
+673,
+681
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "claiming"
+}
+]
+},
+{
+"text": "praised",
+"location": [
+589,
+596
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "praised"
+}
+]
+}
+]
+},
+{
+"type": "managerOf",
+"sentence": "He praised the Centre's mission to provide electricity in villages across the country, claiming that his government has provided power connections to 1051 hamlets in the state.",
+"score": 0.96066,
+"arguments": [
+{
+"text": "his",
+"location": [
+687,
+690
+],
+"entities": [
+{
+"type": "Person",
+"text": "Gram Swaraj Abhiyan"
+}
+]
+},
+{
+"text": "government",
+"location": [
+691,
+701
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "government"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "He praised the Centre's mission to provide electricity in villages across the country, claiming that his government has provided power connections to 1051 hamlets in the state.",
+"score": 0.840968,
+"arguments": [
+{
+"text": "hamlets",
+"location": [
+741,
+748
+],
+"entities": [
+{
+"type": "Facility",
+"text": "hamlets"
+}
+]
+},
+{
+"text": "state",
+"location": [
+756,
+761
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "state"
+}
+]
+}
+]
+},
+{
+"type": "partOf",
+"sentence": "Only 525 villages were electrified during the previous government's regime, he added.",
+"score": 0.398167,
+"arguments": [
+{
+"text": "government",
+"location": [
+818,
+828
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "government"
+}
+]
+},
+{
+"text": "regime",
+"location": [
+831,
+837
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "regime",
+"disambiguation": {
+"subtype": [
+"Country"
+]
+}
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "Only 525 villages were electrified during the previous government's regime, he added.",
+"score": 0.97746,
+"arguments": [
+{
+"text": "he",
+"location": [
+839,
+841
+],
+"entities": [
+{
+"type": "Person",
+"text": "Gram Swaraj Abhiyan"
+}
+]
+},
+{
+"text": "added",
+"location": [
+842,
+847
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "saying"
+}
+]
+}
+]
+},
+{
+"type": "residesIn",
+"sentence": "AGRA: Chief Minister Yogi Adityanath on Thursday interacted with the people of Mainpuri, considered to be the stronghold of the , to get their feedback on various government policies and listen to their grievances.",
+"score": 0.795921,
+"arguments": [
+{
+"text": "people",
+"location": [
+69,
+75
+],
+"entities": [
+{
+"type": "Person",
+"text": "people"
+}
+]
+},
+{
+"text": "Mainpuri",
+"location": [
+79,
+87
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Mainpuri"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "During an interaction held under \u02bbGram Swaraj Abhiyan' campaign, the CM lauded the central government's ambitious \u02bbhousing for all' scheme, , stating that around 577 beneficiaries from Mainpuri alone were provided houses.",
+"score": 0.502219,
+"arguments": [
+{
+"text": "government",
+"location": [
+306,
+316
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "government"
+}
+]
+},
+{
+"text": "lauded",
+"location": [
+287,
+293
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "lauded"
+}
+]
+}
+]
+},
+{
+"type": "partOf",
+"sentence": "During an interaction held under \u02bbGram Swaraj Abhiyan' campaign, the CM lauded the central government's ambitious \u02bbhousing for all' scheme, , stating that around 577 beneficiaries from Mainpuri alone were provided houses.",
+"score": 0.798819,
+"arguments": [
+{
+"text": "stating",
+"location": [
+357,
+364
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "stating"
+}
+]
+},
+{
+"text": "lauded",
+"location": [
+287,
+293
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "lauded"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "During an interaction held under \u02bbGram Swaraj Abhiyan' campaign, the CM lauded the central government's ambitious \u02bbhousing for all' scheme, , stating that around 577 beneficiaries from Mainpuri alone were provided houses.",
+"score": 0.5317,
+"arguments": [
+{
+"text": "houses",
+"location": [
+429,
+435
+],
+"entities": [
+{
+"type": "Facility",
+"text": "houses"
+}
+]
+},
+{
+"text": "Mainpuri",
+"location": [
+400,
+408
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "Mainpuri"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "He also attacked the erstwhile Akhilesh yadav-led government in the state, saying that they had built only 500 houses during their five-year tenure.",
+"score": 0.794759,
+"arguments": [
+{
+"text": "He",
+"location": [
+437,
+439
+],
+"entities": [
+{
+"type": "Person",
+"text": "Gram Swaraj Abhiyan"
+}
+]
+},
+{
+"text": "attacked",
+"location": [
+445,
+453
+],
+"entities": [
+{
+"type": "EventViolence",
+"text": "attacked"
+}
+]
+}
+]
+},
+{
+"type": "locatedAt",
+"sentence": "He also attacked the erstwhile Akhilesh yadav-led government in the state, saying that they had built only 500 houses during their five-year tenure.",
+"score": 0.65508,
+"arguments": [
+{
+"text": "government",
+"location": [
+487,
+497
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "government"
+}
+]
+},
+{
+"text": "state",
+"location": [
+505,
+510
+],
+"entities": [
+{
+"type": "GeopoliticalEntity",
+"text": "state"
+}
+]
+}
+]
+},
+{
+"type": "agentOf",
+"sentence": "He praised the Centre's mission to provide electricity in villages across the country, claiming that his government has provided power connections to 1051 hamlets in the state.",
+"score": 0.995598,
+"arguments": [
+{
+"text": "He",
+"location": [
+586,
+588
+],
+"entities": [
+{
+"type": "Person",
+"text": "Gram Swaraj Abhiyan"
+}
+]
+},
+{
+"text": "praised",
+"location": [
+589,
+596
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "praised"
+}
+]
+}
+]
+},
+{
+"type": "affectedBy",
+"sentence": "He praised the Centre's mission to provide electricity in villages across the country, claiming that his government has provided power connections to 1051 hamlets in the state.",
+"score": 0.73692,
+"arguments": [
+{
+"text": "Centre",
+"location": [
+601,
+607
+],
+"entities": [
+{
+"type": "Organization",
+"text": "Centre",
+"disambiguation": {
+"subtype": [
+"Commercial"
+]
+}
+}
+]
+},
+{
+"text": "praised",
+"location": [
+589,
+596
+],
+"entities": [
+{
+"type": "EventCommunication",
+"text": "praised"
+}
+]
+}
+]
+}
+],
+"language": "en",
+"keywords": [
+{
+"text": "Swaraj Abhiyan",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.941038,
+"emotion": {
+"sadness": 0.369678,
+"joy": 0.39444,
+"fear": 0.128415,
+"disgust": 0.086943,
+"anger": 0.008721
+}
+},
+{
+"text": "\u2018Gram Swaraj Abhiyan",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.939035,
+"emotion": {
+"sadness": 0.370555,
+"joy": 0.270741,
+"fear": 0.068545,
+"disgust": 0.030409,
+"anger": 0.091786
+}
+},
+{
+"text": "Chief Minister Yogi",
+"sentiment": {
+"score": 0.373537,
+"label": "positive"
+},
+"relevance": 0.896481,
+"emotion": {
+"sadness": 0.257665,
+"joy": 0.376216,
+"fear": 0.202837,
+"disgust": 0.08729,
+"anger": 0.145529
+}
+},
+{
+"text": "Gram Swaraj Abhiyan",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.886306,
+"emotion": {
+"sadness": 0.261015,
+"joy": 0.353091,
+"fear": 0.176381,
+"disgust": 0.167395,
+"anger": 0.004933
+}
+},
+{
+"text": "various government policies",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.851378,
+"emotion": {
+"sadness": 0.063222,
+"joy": 0.059812,
+"fear": 0.01395,
+"disgust": 0.067781,
+"anger": 0.116443
+}
+}
+],
+"entities": [
+{
+"type": "Person",
+"text": "Gram Swaraj Abhiyan",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.985105,
+"emotion": {
+"sadness": 0.261015,
+"joy": 0.353091,
+"fear": 0.176381,
+"disgust": 0.167395,
+"anger": 0.004933
+},
+"count": 1
+},
+{
+"type": "Company",
+"text": "Swaraj Abhiyan",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.926186,
+"emotion": {
+"sadness": 0.370555,
+"joy": 0.270741,
+"fear": 0.068545,
+"disgust": 0.030409,
+"anger": 0.091786
+},
+"count": 1
+},
+{
+"type": "Location",
+"text": "Mainpuri",
+"sentiment": {
+"score": 0.373537,
+"label": "positive"
+},
+"relevance": 0.802215,
+"emotion": {
+"sadness": 0.349439,
+"joy": 0.261128,
+"fear": 0.36063,
+"disgust": 0.037259,
+"anger": 0.136196
+},
+"disambiguation": {
+"subtype": [
+"City"
+],
+"name": "Mainpuri",
+"dbpedia_resource": "http://dbpedia.org/resource/Mainpuri"
+},
+"count": 2
+},
+{
+"type": "Person",
+"text": "Chief Minister Yogi Adityanath",
+"sentiment": {
+"score": 0.373537,
+"label": "positive"
+},
+"relevance": 0.778366,
+"emotion": {
+"sadness": 0.257665,
+"joy": 0.376216,
+"fear": 0.202837,
+"disgust": 0.08729,
+"anger": 0.145529
+},
+"count": 1
+},
+{
+"type": "Location",
+"text": "AGRA",
+"sentiment": {
+"score": 0.0,
+"label": "neutral"
+},
+"relevance": 0.589916,
+"emotion": {
+"sadness": 0.0,
+"joy": 0.0,
+"fear": 0.0,
+"disgust": 0.0,
+"anger": 0.0
+},
+"disambiguation": {
+"subtype": [
+"City"
+]
+},
+"count": 1
+}
+],
+"concepts": [
+{
+"text": "Government",
+"relevance": 0.978823,
+"dbpedia_resource": "http://dbpedia.org/resource/Government"
+},
+{
+"text": "State",
+"relevance": 0.7538,
+"dbpedia_resource": "http://dbpedia.org/resource/State_(polity)"
+},
+{
+"text": "State",
+"relevance": 0.729715,
+"dbpedia_resource": "http://dbpedia.org/resource/State"
+},
+{
+"text": "Sovereign state",
+"relevance": 0.693482,
+"dbpedia_resource": "http://dbpedia.org/resource/Sovereign_state"
+},
+{
+"text": "Public policy",
+"relevance": 0.565813,
+"dbpedia_resource": "http://dbpedia.org/resource/Public_policy"
+}
+],
+"categories": [
+{
+"score": 0.571095,
+"label": "/law, govt and politics/government"
+},
+{
+"score": 0.379627,
+"label": "/society/welfare"
+},
+{
+"score": 0.083165,
+"label": "/law, govt and politics/government/state and local government"
+}
+]
+}
+}
