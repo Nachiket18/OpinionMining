@@ -1,4 +1,6 @@
 # OpinionMining
+## **Contributors**: Nachiket **Deo**, Justin **Hong**, Aditya **Kulkarni**
+
 
 Repository for Opinion Mining Framework
 
@@ -21,7 +23,10 @@ One issue in the review data is that there are spelling mistakes. As our model d
 
 ## Method
 
+
 ### Knowledge Graph
+
+We decided to feed our algorithm's output into a knowledge graph. Doing so would allow for a clearer depiction of words and their relations between them.
 
 ## Results
 
