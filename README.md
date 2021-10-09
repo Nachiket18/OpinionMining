@@ -15,7 +15,7 @@ https://www.mitpressjournals.org/doi/pdf/10.1162/coli_a_00034
 
 ## Data
 Justifying recommendations using distantly-labeled reviews and fined-grained aspects
-Jianmo Ni, Jiacheng Li, Julian McAuley [link](https://cseweb.ucsd.edu/~jmcauley/pdfs/emnlp19a.pdf
+Jianmo Ni, Jiacheng Li, Julian McAuley [link](https://cseweb.ucsd.edu/~jmcauley/pdfs/emnlp19a.pdf)
 Empirical Methods in Natural Language Processing (EMNLP), 2019
 
 
