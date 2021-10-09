@@ -1,4 +1,6 @@
 # OpinionMining
+## **Contributors**: Nachiket **Deo**, Justin **Hong**, Aditya **Kulkarni**
+
 
 Repository for Opinion Mining Framework
 
@@ -17,16 +19,26 @@ As the part of the project, we developed the mechanism to connect the entity, as
 
 ## Data
 Justifying recommendations using distantly-labeled reviews and fined-grained aspects
-Jianmo Ni, Jiacheng Li, Julian McAuley
+Jianmo Ni, Jiacheng Li, Julian McAuley [link](https://cseweb.ucsd.edu/~jmcauley/pdfs/emnlp19a.pdf)
+
 Empirical Methods in Natural Language Processing (EMNLP), 2019
 
 
+To test our model, we decide to use Amazon reviews as our dataset for its candidacy and interpretability. The [Review-9-products](http://www.cs.uic.edu/~liub/FBS/Reviews-9-products.rar) available of Professor Bing Liu's website is what we have used.
 
+One issue in the review data is that there are spelling mistakes. As our model directly reads in the sentences without checking grammar, issues in the spellings can imply missing the words.
 
 ### Knowledge Graph
+We decided to feed our algorithm's output into a knowledge graph. Doing so would allow for a clearer depiction of words and their relations between them.
 
 ## Results
 
 ## Conclusion
 
 ## Future Work
+
+
+---------
+[Aditya Kulkarni](https://github.com/adikulkarni11)
+[Nachiket Deo](https://github.com/Nachiket18)
+[Justin Hong]
