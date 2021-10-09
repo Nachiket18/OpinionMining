@@ -16,7 +16,12 @@ https://www.mitpressjournals.org/doi/pdf/10.1162/coli_a_00034
 ## Data
 Justifying recommendations using distantly-labeled reviews and fined-grained aspects
 Jianmo Ni, Jiacheng Li, Julian McAuley [link](https://cseweb.ucsd.edu/~jmcauley/pdfs/emnlp19a.pdf)
+
 Empirical Methods in Natural Language Processing (EMNLP), 2019
+
+
+To test our model, we decide to use Amazon reviews as our dataset for its candidacy and interpretability. The [Review-9-products](http://www.cs.uic.edu/~liub/FBS/Reviews-9-products.rar) available of Professor Bing Liu's website is what we have used.
+
 
 
 One issue in the review data is that there are spelling mistakes. As our model directly reads in the sentences without checking grammar, issues in the spellings can imply missing the words.
