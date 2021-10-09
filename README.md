@@ -17,12 +17,15 @@ Jianmo Ni, Jiacheng Li, Julian McAuley
 Empirical Methods in Natural Language Processing (EMNLP), 2019
 
 
+One issue in the review data is that there are spelling mistakes. As our model directly reads in the sentences without checking grammar, issues in the spellings can imply missing the words.
 
 ## Method
 
 ### Knowledge Graph
 
 ## Results
+
+### 
 
 ## Conclusion
 
