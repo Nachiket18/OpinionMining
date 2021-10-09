@@ -35,3 +35,8 @@ We decided to feed our algorithm's output into a knowledge graph. Doing so would
 ## Conclusion
 
 ## Future Work
+
+---------
+[Aditya Kulkarni](https://github.com/adikulkarni11)
+[Nachiket Deo](https://github.com/Nachiket18)
+[Justin Hong]
